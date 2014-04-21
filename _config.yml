@@ -11,10 +11,10 @@ pygments: true
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Steven B. Combs, Ph.D.
+  email : steven.combs@gmail.com
+  github : stevencombs
+  twitter : StevenCombs
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -127,4 +127,7 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
+
+  # Custom Markdown interpreter
+
+  markdown : kramdown
