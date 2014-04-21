@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Steven B. Combs, Ph.D.
+tagline: 
 author :
   name : Steven B. Combs, Ph.D.
   email : steven.combs@gmail.com
