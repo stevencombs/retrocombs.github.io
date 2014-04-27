@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The GitHub home of Steven B. Combs, Ph.D.
+title:
 tagline:
 ---
 {% include JB/setup %}
