@@ -4,8 +4,6 @@ title:
 tagline:
 ---
 {% include JB/setup %}
-
-My text will go here. Everything below the line is from the base install
    
 ## Blog Posts
 
