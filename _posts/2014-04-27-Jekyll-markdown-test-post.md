@@ -4,7 +4,10 @@ title: Markdown Test Post
 date: 2014-04-27 19:19:19
 comments: false
 category: markdown
-tag: jekyll development markdown
+tags: 
+    - jekyll 
+    - development
+    - markdown
 ---
 
 # Markdown Test Post
