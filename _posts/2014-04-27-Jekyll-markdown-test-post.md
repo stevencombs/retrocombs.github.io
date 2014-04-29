@@ -8,6 +8,7 @@ tags:
     - jekyll 
     - development
     - markdown
+    - test
 ---
 
 # Markdown Test Post
