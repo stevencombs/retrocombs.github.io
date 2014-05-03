@@ -13,8 +13,7 @@ To celebrate my first year, I’ve decided to share some lessons learned. These 
 
 I understand no one will read the entirety of my lessons at a single setting (heck, I don’t think there will be many people who will read a single lesson), so I will spread them out over a series of posts. I probably will not post daily, but I will do my best to get each lesson out there as soon as I can. I’ll also leave the comments section open for each post so readers (again, if any) can ask questions or even drop in your own experiences. You will find the first lesson learned after hitting the link below. It’s a short lesson that is hinted at in the image above. It will make a good beginning to the series.
 
-#LESSON 1: The deans role is “same, ’cept different” from that of the VCAA
-
+**The dean’s role is “same, ’cept different” from that of the VCAA:**  
 The role of a school dean and that of a regional academic officer are very similar. Many tasks required of a dean directly transfer to the role of Vice Chancellor for Academic Affairs. These include:
 
 * faculty management
