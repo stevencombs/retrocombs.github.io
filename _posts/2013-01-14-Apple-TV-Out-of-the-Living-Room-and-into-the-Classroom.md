@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: Apple TV: “Out of the Living Room and into the Classroom”
+title: Apple TV - Out of the Living Room and into the Classroom
 date: 2013-01-14 19:51:19 UTC
 updated: 2013-01-14 19:51:19 UTC
 comments: false
