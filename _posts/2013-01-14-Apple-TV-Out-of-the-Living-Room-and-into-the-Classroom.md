@@ -7,7 +7,7 @@ comments: false
 categories: classroom IT presentations
 ---
 
-<img alt="" class="" height="179" align="right" src="http://2.bp.blogspot.com/-YM8OMWS-NCE/UIGH90OQLfI/AAAAAAABC8o/1mAL0W5CMuo/s200/Apple+TV+Box.png" width="200" />On Monday, October 22nd, I was the presenter for a local brown-bag at the Columbus Learning Center for the three institutions of higher education on our shared campus: Ivy Tech Community College, IUPUC and Purdue College of Technology. The topic of my presentation is the use of the TV in the Classroom. See, even Vice Chancellors can stay current in the use of instructional technologies!
+<img alt="" class="" height="179" width="200" align="right" src="http://2.bp.blogspot.com/-YM8OMWS-NCE/UIGH90OQLfI/AAAAAAABC8o/1mAL0W5CMuo/s200/Apple+TV+Box.png" />On Monday, October 22nd, I was the presenter for a local brown-bag at the Columbus Learning Center for the three institutions of higher education on our shared campus: Ivy Tech Community College, IUPUC and Purdue College of Technology. The topic of my presentation is the use of the TV in the Classroom. See, even Vice Chancellors can stay current in the use of instructional technologies!
 
 This post provides the slides used for that presentation as well as the presentation outline. If you have something to add or a comment about the content, please drop in a comment after the post. Check out the entire presentation content after the break below.
 
@@ -15,7 +15,7 @@ This post provides the slides used for that presentation as well as the presenta
 
 <iframe allowfullscreen="true" frameborder="0" height="389" mozallowfullscreen="true" src="https://docs.google.com/presentation/embed?id=1Ywc5m3WcT-Ldl0YASB2FqBRnZ91X2auxKxNWiD0DAmY&amp;start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe>
 
-**Presentation Notes: TV - “Out of the Living Room and into the Classroom”:: 
+__Presentation Notes: TV - *Out of the Living Room and into the Classroom*:__
 
 **Agenda (slide 2):**  
 This 45 minute presentation will discuss the Apple TV and its use in the classroom. Major topics include:
