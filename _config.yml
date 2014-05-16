@@ -13,7 +13,7 @@ markdown : kramdown
 # so be sure to set them if your theme uses them.
 #
 title : Steven B. Combs, Ph.D.
-tagline: Combsing through the minutia
+tagline: 
 author :
   name : Steven B. Combs, Ph.D.
   email : steven.combs@gmail.com
