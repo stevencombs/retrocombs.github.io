@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-tagline:
+title: Steven B. Combs, Ph.D.
+tagline: Combsing through the minutia
 ---
 {% include JB/setup %}
 
