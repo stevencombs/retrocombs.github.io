@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Steven B. Combs, Ph.D.
 tagline: Combsing through the minutia
 ---
 {% include JB/setup %}
