@@ -11,11 +11,11 @@ markdown : kramdown
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
-#
+
 title : Steven B. Combs, Ph.D.
 tagline: 
 author : Steven B. Combs, Ph.D.
-  name : Steven B. Combs, Ph.D.
+  name : 
   email : steven.combs@gmail.com
   github : stevencombs
   twitter : StevenCombs
