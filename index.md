@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+{% include JB/setup %}
 
 ###Combsing through the minutia…
 
