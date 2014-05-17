@@ -5,6 +5,8 @@ layout: page
 
 ###Combsing through the minutia…
 
+<p class="posts">
   {% for post in site.posts %}
-    <span class="posts">{{ post.date | date_to_string }} &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
+    {{ post.date | date_to_string }} &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
+</p>
