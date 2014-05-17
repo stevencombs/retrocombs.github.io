@@ -11,7 +11,6 @@ This is the first Thanksgiving in my new role as Vice Chancellor for
 Academic Affairs. While reflecting on this yesterday, I decided to send
 out the following e-mail to all of the faculty within our region:
 
-<!--more-->
 > Faculty,
 > 
 > Before you head off for the Thanksgiving holiday, I wanted to let you
@@ -46,8 +45,6 @@ they spent time talking with folks, they found out that several of our
 students were recipients of these donations. That’s what community
 college service is all about folks. Changing lives and making a
 difference. To all of my fellow community college faculty, staff and
-administrators:\
-<div style="text-align: center;">
+administrators:
 <h3>Happy
-Thanksgiving!</h3></span>
-</div>
+Thanksgiving!</h3>
