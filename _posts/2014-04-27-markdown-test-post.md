@@ -21,8 +21,6 @@ Check out [Doc's Tech Notes][1] for my tech blog posts.
 
 Check out more after the click below
 
-<!--more-->
-
 **Code Block**
 
     def()
