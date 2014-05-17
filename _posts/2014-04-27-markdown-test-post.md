@@ -11,8 +11,6 @@ tags:
     - test
 ---
 
-# Markdown Test Post
-
 Check out [Doc's Tech Notes][1] for my tech blog posts.
 
 * Bullet 1
