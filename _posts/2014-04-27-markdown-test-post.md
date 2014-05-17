@@ -21,6 +21,10 @@ Check out [Doc's Tech Notes][1] for my tech blog posts.
 1. List item one
 2. List item two
 
+Check out more after the click below
+
+<!--more-->
+
 **Code Block**
 
     def()
