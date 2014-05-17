@@ -13,8 +13,12 @@ theme:
   highlight_color: "#3498db"
   name: "Steven B. Combs, Ph.D."
   show_disclaimer: true
-  social: 
-    github: stevencombs
+  social:
+  	gplus: +StevenCombsPhD
+  	linkedin: stevencombs
     twitter: StevenCombs
-  tagline: "Combsing through the minutia"
+    github: stevencombs
+    # facebook: steven.b.combs
+    tumblr: stevencombs
+# tagline: "Combsing through the minutia"
 url: "http://www.stevencombs.com"
