@@ -1,8 +1,12 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+url: http://www.stevencombs.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
+
+  # Custom Markdown interpreter
+
+markdown : kramdown
 
 # Theme customization - please change from the defaults!
 theme:
@@ -11,21 +15,21 @@ theme:
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
-    github: swanson
+    github: stevencombs
     #bitbucket: philipj
-    hacker_news: swanson
+    hacker_news:
     #stackexchange: 348619
     #stackoverflow: 348619
-    twitter: _swanson
+    twitter: StevenCombs
     #facebook: zuck
     #tumblr: animalygifs
     #linkedin: philipjagielski
     #gplus: 110552447039675960964
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
-  tagline: "weak opinions, strongly held"
+  name: Steven B. Combs, Ph.D.
+  email: steven.combs@gmail.com
+  tagline: "Combsing through the minutia"
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
