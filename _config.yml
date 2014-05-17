@@ -15,11 +15,11 @@ markdown : kramdown
 title : Steven B. Combs, Ph.D.
 tagline: 
 author :
-  name : Steven Combs
-  email : steven.combs@gmail.com
-  github : stevencombs
-  twitter : StevenCombs
-  feedburner : feedname
+  name : 
+  email : 
+  github : 
+  twitter : 
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
