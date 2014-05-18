@@ -9,8 +9,6 @@ categories: higher-education presentations
 
 On Monday, October 22nd, I was the presenter for a local brown-bag at the Columbus Learning Center for the three institutions of higher education on our shared campus: Ivy Tech Community College, IUPUC and Purdue College of Technology. The topic of my presentation is the use of the TV in the Classroom. See, even Vice Chancellors can stay current in the use of instructional technologies!
 
-<!--more-->
-
 This post provides the slides used for that presentation as well as the presentation outline. If you have something to add or a comment about the content, please drop in a comment after the post. Check out the entire presentation content after the break below.
 
 **Google Docs Presentation:**
