@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create the best Arduino programming IDE using Peppermint OS, Sublime Text and Stino
+title: Sublime Text Arduino programming IDE on Peppermint OS
 date: 2014-01-11 17:00:39
 comments: true
 category: Linux
