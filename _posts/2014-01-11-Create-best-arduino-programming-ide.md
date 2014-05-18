@@ -78,15 +78,21 @@ With the install of the _Package Manager_ in the previous section, this is now a
 <img border="0" src="http://4.bp.blogspot.com/-lRdWogAr4lE/UtGY4xBX4-I/AAAAAAABOkc/Y3OlENWQ2jA/s1600/command+palette.png" height="360" width="640" />
 
 * Activate the _Command Palette_ using `shift` + `command` + `p`.
+
 * Type: `Install` `Package` and use arrow keys and select the _Install Package_ option.
+
 * Hit `return`. The status bar at the bottom of the page will display an animated prompt while it updates the repository listing as shown in the image below.
 
 <img border="0" src="http://3.bp.blogspot.com/-52jL6TZLYJM/UtGZSMxJGII/AAAAAAABOkk/Ei09r2wAC-A/s1600/animated_status_bar.png" height="400" width="400" />
 
 * An alphabetical list of packages appears.
+
 * Type `arduino`. The list will narrow down the available options.
+
 * Use the arrow keys to select the _Arduino-like IDE_ package.
+
 * Hit `return`. _Package Manager_ will download and install the package.
+
 * An _Arduino_ menu item will appear on the right-hand side of the Sublime Text 2 main menu as shown in the image below.
 
 <img border="0" src="http://3.bp.blogspot.com/-7b_-lkOMmBM/UtGaTnhlLdI/AAAAAAABOkw/VYh0fa8hpbE/s1600/Stino_Arduino_Menu-2.png" height="374" width="640" />
@@ -96,15 +102,21 @@ With the install of the _Package Manager_ in the previous section, this is now a
 _Stino_ package the location of the official Arduino IDE install. Stino is Sublime Text 2 conduit to that software and it’s libraries. Make sure you have the Arduino IDE installed before completing the steps below.
 
 * Select _Arduino_ | _Preferences_ | _Select Arduino Application Folder_ from the Sublime Text 2 main menu. A prompt will appear.
+
 * Immediately press `return` and the prompt will display the home account file structure.
+
 * Navigate using either the keyboard or the cursor keys to the following location: `/usr/share/arduino/`
+
 * Press `return`. This will set the location of the Arduino IDE and its libraries.
+
 * Attach an Arduino board to your Peppermint OS box via a [USB cable](https://www.amazon.com/dp/B001TH7GUA?tag=docstechnotes-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;creativeASIN=B001TH7GUA&amp;adid=06HRGQC78A3T02GSA04C&amp;). 
  
 Don’t have an Arduino? Get a great deal on an [Arduino at Amazon](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=Arduino&linkCode=ur2&tag=bricinmypockb-20&url=search-alias%3Delectronics&linkId=LISU5PL6NIEETUSF).
 
 * Connect an Arduino to complete the final steps.
+
 * Select _Arduino_ | _Serial Port_ | _/dev/???_ from the Sublime Text 2 main menu. There should be a single entry where ??? is a substitute for something similar to _ttyACM0_.
+
 * Select _Arduino_ | _Arduino AVR_ Boards from the Sublime Text 2 main menu and select the board attached to your computer.
 
 Well, that wasn’t too bad. Now the moment we have all been waiting for!
@@ -115,7 +127,7 @@ Finally, we will enter, compile and upload our first program to an Arduino board
 
 * Copy and paste this code into a new Sublime Text 2 document.
 
-    `const int ledPin = 13;
+    <pre><code>const int ledPin = 13;
     void setup() {
         pinMode(ledPin, OUTPUT);
     }
@@ -124,9 +136,10 @@ Finally, we will enter, compile and upload our first program to an Arduino board
         delay(1000);
         digitalWrite(ledPin, LOW);
         delay(500);
-    }`
+    }</pre></code>
 
 * Save the code to any location you desire (Desktop maybe???) and give it the name _Blinky.ino_. _Stino_ will compile the package and upload it to the Arduino.
+
 * You will have a blinky Arduino as shown in the image below.
 
 <img border="0" src="http://3.bp.blogspot.com/-93o7N_Cmtsw/UtGU0xseHMI/AAAAAAABOj4/QZnI8nAnE7A/s1600/Arduino_Blinky-9.jpg" height="298" width="400" />
