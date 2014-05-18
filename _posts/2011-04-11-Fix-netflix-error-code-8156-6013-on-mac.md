@@ -6,7 +6,9 @@ comments: true
 category: Gadget
 ---
 
-<img src="http://3.bp.blogspot.com/-sZkFRYTgSSI/TaO_u7ExntI/AAAAAAAA0-U/hulYf-ocTps/s1600/Netflix+Error.jpg" align="right" />My new 11' MacBook Air was having problems streaming Netflix video this evening. Every time I tried to stream a video, I would receive a Netflix error code 8156-6013 followed by a "call technical support" message. It also stated that this was usually the result of migrating system settings from another Mac.
+My new 11' MacBook Air was having problems streaming Netflix video this evening. Every time I tried to stream a video, I would receive a Netflix error code 8156-6013 followed by a "call technical support" message. It also stated that this was usually the result of migrating system settings from another Mac.
+
+![](http://3.bp.blogspot.com/-sZkFRYTgSSI/TaO_u7ExntI/AAAAAAAA0-U/hulYf-ocTps/s1600/Netflix+Error.jpg)
 
 Boy, they nailed that one. I had in fact used the Migration Assistant to setup my new MacBook Air by importing an account from my MacBook Pro. The error message then suggested that I contact their technical support team. Me? Wait on the phone? I think not. I'll figure this one out myself. Read below how to fix this error without calling the Netflix Technical support team. Not that they are bad people mind you.
 
@@ -56,7 +58,7 @@ user@zed:/Library/Application Support/Microsoft/PlayReady $ rm mspr.hds
 This step is easy and is probably pretty self-evident, but I'll include just to round out the instructions.
 
 * Open a browser (this time it must be a Netflix supported browser).
-* Visit the Netflix web site ([www.netflix.com][8]).
+* Visit the [Netflix](www.netflix.com) web site.
 * Log into your account.
 * Visit your instant queue and load a title - it should take a bit longer than normal to begin the stream since this step revalidates your computer and creates a new DRM file on your Mac.
 * Begin watching your favorite 80s films!
@@ -69,4 +71,3 @@ That wasn't so bad was it? And why would that require a phone call to Netflix Te
 [5]: http://1.bp.blogspot.com/-wylB-amLatw/TaOtQ1LI8-I/AAAAAAAA0-E/452X8v69DfI/s320/Silverlight+Disk+Image.PNG
 [6]: http://2.bp.blogspot.com/-ygYceK1TvM8/TaOuU2QZfPI/AAAAAAAA0-M/Xbua2vBVFZg/s320/mspr-hds+Silverlight+DRM+file.jpg
 [7]: http://www.blogger.com/profile/01511647149280008563
-[8]: http://www.netflix.com/
