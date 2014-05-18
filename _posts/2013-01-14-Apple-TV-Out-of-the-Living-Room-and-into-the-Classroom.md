@@ -4,7 +4,7 @@ title: Apple TV - Out of the Living Room and into the Classroom
 date: 2013-01-14 19:51:19 UTC
 updated: 2013-01-14 19:51:19 UTC
 comments: false
-categories: classroom IT presentations
+categories: higher-education presentations
 ---
 
 On Monday, October 22nd, I was the presenter for a local brown-bag at the Columbus Learning Center for the three institutions of higher education on our shared campus: Ivy Tech Community College, IUPUC and Purdue College of Technology. The topic of my presentation is the use of the TV in the Classroom. See, even Vice Chancellors can stay current in the use of instructional technologies!
