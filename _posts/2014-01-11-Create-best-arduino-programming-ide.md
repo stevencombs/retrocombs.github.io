@@ -46,7 +46,7 @@ Some seasoned Linux users may wonder why we don’t need to install repositories
 
 Let’s verify our install of Sublime Text 2 and make sure things are operational.
 
-* Choose _Programming_ | _Sublime Text 2_ from the Peppermint OS start menu as shown in the image below. Sublime Text 2 will load.
+* Choose _Programming_ / _Sublime Text 2_ from the Peppermint OS start menu as shown in the image below. Sublime Text 2 will load.
 
 <img border="0" src="http://2.bp.blogspot.com/-dkileqzsEzw/UtGYmz_ssAI/AAAAAAABOkM/Rd8K5qC9CGw/s1600/Programming-SublimeText2_menu_item-2.png" height="388" width="640" />
 
@@ -101,7 +101,7 @@ With the install of the _Package Manager_ in the previous section, this is now a
 
 _Stino_ package the location of the official Arduino IDE install. Stino is Sublime Text 2 conduit to that software and it’s libraries. Make sure you have the Arduino IDE installed before completing the steps below.
 
-* Select _Arduino_ | _Preferences_ | _Select Arduino Application Folder_ from the Sublime Text 2 main menu. A prompt will appear.
+* Select _Arduino_ / _Preferences_ / _Select Arduino Application Folder_ from the Sublime Text 2 main menu. A prompt will appear.
 
 * Immediately press `return` and the prompt will display the home account file structure.
 
@@ -115,9 +115,9 @@ Don’t have an Arduino? Get a great deal on an [Arduino at Amazon](http://www.a
 
 * Connect an Arduino to complete the final steps.
 
-* Select _Arduino_ | _Serial Port_ | _/dev/???_ from the Sublime Text 2 main menu. There should be a single entry where ??? is a substitute for something similar to _ttyACM0_.
+* Select _Arduino_ / _Serial Port_ / _/dev/???_ from the Sublime Text 2 main menu. There should be a single entry where ??? is a substitute for something similar to _ttyACM0_.
 
-* Select Arduino / Arduino AVR Boards from the Sublime Text 2 main menu and select the board attached to your computer.
+* Select _Arduino_ / _Arduino AVR Boards_ from the Sublime Text 2 main menu and select the board attached to your computer.
 
 Well, that wasn’t too bad. Now the moment we have all been waiting for!
 
