@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bullet Review: New Trent Airbender 2.0 for iPad Air
+title: Bullet Review – New Trent Airbender 2.0 for iPad Air
 date: 2014-03-06 17:00:00
 comments: true
 category: technology
