@@ -117,7 +117,7 @@ Don’t have an Arduino? Get a great deal on an [Arduino at Amazon](http://www.a
 
 * Select _Arduino_ | _Serial Port_ | _/dev/???_ from the Sublime Text 2 main menu. There should be a single entry where ??? is a substitute for something similar to _ttyACM0_.
 
-* Select _Arduino_ | _Arduino AVR_ Boards from the Sublime Text 2 main menu and select the board attached to your computer.
+* Select Arduino / Arduino AVR Boards from the Sublime Text 2 main menu and select the board attached to your computer.
 
 Well, that wasn’t too bad. Now the moment we have all been waiting for!
 
