@@ -5,6 +5,7 @@ exclude:
   - README.md
   - .gitignore
 lsi: false
+comments: true
 markdown: kramdown
 pygments: true
 theme: 

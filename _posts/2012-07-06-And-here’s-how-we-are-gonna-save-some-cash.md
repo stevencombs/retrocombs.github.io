@@ -3,7 +3,7 @@ layout: post
 title: And here’s how we are gonna save some cash
 date: 2012-07-06 20:20:57 UTC
 updated: 2012-07-06 20:20:57 UTC
-comments: false
+comments: true
 categories: higher-education
 ---
 
