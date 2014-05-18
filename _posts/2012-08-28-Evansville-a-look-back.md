@@ -3,7 +3,7 @@ layout: post
 title: Evansville, a look back…
 date: 2012-08-28 13:53:04 UTC
 updated: 2012-08-28 13:53:04 UTC
-comments: false
+comments: true
 categories: higher-education
 ---
 

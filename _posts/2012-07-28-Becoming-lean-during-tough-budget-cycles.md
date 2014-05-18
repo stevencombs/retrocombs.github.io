@@ -3,7 +3,7 @@ layout: post
 title: Becoming lean during tough budget cycles
 date: 2012-07-28 00:20:02 UTC
 updated: 2012-07-28 00:20:02 UTC
-comments: false
+comments: true
 categories: higher-education
 ---
 

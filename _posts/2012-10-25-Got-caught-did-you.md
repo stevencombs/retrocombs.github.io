@@ -3,7 +3,7 @@ layout: post
 title: Got caught, did you?
 date: 2012-10-25 18:47:40 UTC
 updated: 2012-10-25 18:47:40 UTC
-comments: false
+comments: true
 categories: higher-education
 ---
 

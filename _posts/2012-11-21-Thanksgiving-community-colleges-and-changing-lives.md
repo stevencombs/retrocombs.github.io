@@ -3,7 +3,7 @@ layout: post
 title: Thanksgiving, community colleges, and changing lives
 date: 2012-11-21 23:17:49 UTC
 updated: 2012-11-21 23:17:49 UTC
-comments: false
+comments: true
 categories: higher-education holiday
 ---
 

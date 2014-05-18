@@ -3,7 +3,7 @@ layout: post
 title: Community college quality versus cost
 date: 2013-01-14 21:38:03 UTC
 updated: 2013-01-14 21:38:03 UTC
-comments: false
+comments: true
 categories: higher-education
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Like classic films? Check out TCM this September!
 date: 2013-08-11 16:50:56 UTC
 updated: 2013-08-11 16:50:56 UTC
-comments: false
+comments: true
 categories: entertainment
 ---
 

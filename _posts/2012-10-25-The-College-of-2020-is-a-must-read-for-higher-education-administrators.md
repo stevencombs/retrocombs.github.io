@@ -3,7 +3,7 @@ layout: post
 title: The College of 2020 is a must read for administrators
 date: 2012-10-25 19:06:28 UTC
 updated: 2012-10-25 19:06:28 UTC
-comments: false
+comments: true
 categories: higher-education
 ---
 

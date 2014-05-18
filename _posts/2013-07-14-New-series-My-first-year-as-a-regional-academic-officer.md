@@ -3,7 +3,7 @@ layout: post
 title: New series - My first year as a regional academic officer
 date: 2013-07-14 18:51:27 UTC
 updated: 2013-07-14 18:51:27 UTC
-comments: false
+comments: true
 categories: higher-education
 ---
 
