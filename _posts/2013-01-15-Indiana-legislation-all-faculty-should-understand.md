@@ -4,7 +4,7 @@ title: Indiana legislation all faculty should understand
 date: 2013-01-15 19:55:02 UTC
 updated: 2013-01-15 19:55:02 UTC
 comments: true
-categories: higher-education
+categories: Higher-Education
 ---
 
 <img border="1" height="200" src="http://1.bp.blogspot.com/-uJv26_0PsEc/UIl-2GvgphI/AAAAAAABDK0/nFSTYPaxMJ8/s200/StateLegislation.jpg" width="200" align="right"/>On January 15th, 2013, our Regional Board of Trustees met. I am on the agenda to discuss the changes that will occur within the state with regard to transfer of general education credits among the public institutions. As I read the two pieces of legislation, House Enrolled Act No. 1220 (Credit Creep) and Senate Enrolled Act No. 182 (Common Course Numbering within the Core Transfer Library), the thought struck me that all Indiana higher education faculty (and parents for that matter)&nbsp;should be aware of these initiatives and understand their implications.

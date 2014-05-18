@@ -3,7 +3,7 @@ layout: post
 title: Markdown Test Post
 date: 2014-04-27 19:19:19
 comments: true
-category: markdown
+category: technology
 ---
 
 Check out [Doc's Tech Notes][1] for my tech blog posts.

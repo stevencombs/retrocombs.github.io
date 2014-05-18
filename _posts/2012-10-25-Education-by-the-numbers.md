@@ -4,7 +4,7 @@ title: Education by the numbers
 date: 2012-10-25 18:52:58 UTC
 updated: 2012-10-25 18:52:58 UTC
 comments: true
-categories: higher-education
+categories: Higher-Education
 ---
 
 <img height="150" align="right" id="blogsy-1347110770920.4292" src="http://2.bp.blogspot.com/-cXVqrOxIT2c/UEawCtCkJcI/AAAAAAABBao/F0KH9iseYGU/s200/Numbers.png" width="150" />Since beginning my new higher education administrative role, I’ve been inundated by numbers of every type. Almost every professional document I read, or meeting I attend, contains some percentage, amount, cost or goal. Some of them are redundant and insignificant while others I find interesting or valuable. Let me present the most interesting numbers that have presented themselves to me in the past couple of days.

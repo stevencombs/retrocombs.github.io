@@ -4,7 +4,7 @@ title: The College of 2020 is a must read for administrators
 date: 2012-10-25 19:06:28 UTC
 updated: 2012-10-25 19:06:28 UTC
 comments: true
-categories: higher-education
+categories: Higher-Education
 ---
 
 <img border="0" height="76" src="http://1.bp.blogspot.com/-b5Hdx01Axn4/TgJt8-Ac0MI/AAAAAAAA3CQ/dl9SQ6f62bI/s200/Screen+shot+2011-06-22+at+6.33.55+PM.PNG" width="200" align="right" />{UPATE: This content originally appeared on a previous blog I maintained.} Before the summer of 2011 academic retreat, we were asked to do a bit of homework. Each member is to read “The College of 2020: Students” by Martin Van Der Werf and Grant Sabatier. Before I continue, you can review the document yourself using this [here](http://goo.gl/8PZBS). This document is a Chronicle Research Services publication. There is no need to read the entire document, the Executive Summary provides the salient points. You can then dive into those areas that interest you.
