@@ -12,7 +12,7 @@ Before you begin, you must have Java and the official [Arduino IDE](http://ardui
 
 I will use Peppermint OS; however, these instructions should work with most Debian based Linux distributions.
 
-### Why use Sublime Text 2 and the Stino package?
+## Why use Sublime Text 2 and the Stino package?
 
 I will not go into a long rant on why Sublime Text 2 is my go to text editor on both Linux and Mac. A quick Google search will yield many blog posts that handily take care of this task. Quickly though, Sublime Text 2 includes features that the original Arduino IDE simply does not, such as:
 
@@ -28,7 +28,7 @@ That last bullet, packages, is the vital component. It allows us to add addition
 
 You can also configure a Mac with the same setup. My first use of Sublime Text 2 and the Stino package was on a Mac and the install is similar. Seasoned Mac users will be able to complete an install with relative ease. If there’s a need for a Mac version of this post, drop a comment below. And “yes,” this same setup can be accomplished on a Windows box. Please don’t ask me for instructions though. I haven’t had access to a Windows machine in over three years."
 
-### Install Sublime Text 2:
+## Install Sublime Text 2:
 
 The heart of our new enhanced Arduino IDE is <a href="http://www.sublimetext.com/2">Sublime Text 2</a>. As the time of this writing, a beta version of Sublime Text 3 is available. These instructions will not work for this version; however, savvy Linux users can probably modify my instructions to get a functional install. Let’s begin and install Sublime Text 2 on Peppermint OS.
 
@@ -42,7 +42,7 @@ Some seasoned Linux users may wonder why we don’t need to install repositories
 
 * When prompted, allow the install by entering `Y` at the prompt.
 
-### Load Sublime Text 2:
+## Load Sublime Text 2:
 
 Let’s verify our install of Sublime Text 2 and make sure things are operational.
 
@@ -54,7 +54,7 @@ Those familiar with basic text editors will find Sublime Text 2 familiar. The la
 
 “If you are curious about Sublime Text 2 usage and features, let me suggest [this series of videos](https://www.youtube.com/playlist?list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP).”
 
-### Install the Sublime Text Package Manager:
+## Install the Sublime Text Package Manager:
 
 Now that we have a functional Sublime Text 2 install, its time to make it Arduino aware. We utilize the package feature of Sublime Text 2 to do this. Natively, Sublime Text 2 does not include a package manager; however, the folk(s) over at <https://sublime.wbond.net> have created the standard in Sublime Text package managers.
 
@@ -69,7 +69,7 @@ _Package Manager_ makes it easy to add other features to Sublime Text 2 as you b
 * Paste the text copied from the web site into the console.
 * Restart Sublime Text 2.
 
-### Install the Stino Arduino package:
+## Install the Stino Arduino package:
 
 With the install of the _Package Manager_ in the previous section, this is now an easy task.
 
@@ -97,7 +97,7 @@ With the install of the _Package Manager_ in the previous section, this is now a
 
 <img border="0" src="http://3.bp.blogspot.com/-7b_-lkOMmBM/UtGaTnhlLdI/AAAAAAABOkw/VYh0fa8hpbE/s1600/Stino_Arduino_Menu-2.png" height="374" width="640" />
 
-### Configure and use the Stino Arduino package:
+## Configure and use the Stino Arduino package:
 
 _Stino_ package the location of the official Arduino IDE install. Stino is Sublime Text 2 conduit to that software and it’s libraries. Make sure you have the Arduino IDE installed before completing the steps below.
 
@@ -121,7 +121,7 @@ Don’t have an Arduino? Get a great deal on an [Arduino at Amazon](http://www.a
 
 Well, that wasn’t too bad. Now the moment we have all been waiting for!
 
-### Compile and upload sample code:
+## Compile and upload sample code:
 
 Finally, we will enter, compile and upload our first program to an Arduino board. I will make things easy and include some sample code for you to use. The Arduino program below will blink the on-board LED.
 
@@ -146,6 +146,6 @@ Finally, we will enter, compile and upload our first program to an Arduino board
 
 You are now ready to use the _Stino_ package to create an amazing new [physical computing](http://en.wikipedia.org/wiki/Physical_computing) project. And when you do, please share it in the comments below.
 
-### Conclusion
+## Conclusion
 
 New users to Linux have learned the basics of Linux software installation, Sublime Text 2 package management and Stino Arduino package use. In fact, if you “sorta/kinda” understood what were were doing, you have the skills to experiment with some other interesting installs and configurations. If nothing else, you now have installed on your Peppermint OS (or other Debian distro variant) what I consider to be the most powerful Arduino development platform available.
