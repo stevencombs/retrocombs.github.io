@@ -127,16 +127,7 @@ Finally, we will enter, compile and upload our first program to an Arduino board
 
 * Copy and paste this code into a new Sublime Text 2 document.
 
-    <pre><code>const int ledPin = 13;
-    void setup() {
-        pinMode(ledPin, OUTPUT);
-    }
-    void loop() {
-        digitalWrite(ledPin, HIGH);
-        delay(1000);
-        digitalWrite(ledPin, LOW);
-        delay(500);
-    }</pre></code>
+<script src="https://gist.github.com/stevencombs/18ba81d5ce05b36b820f.js"></script>
 
 * Save the code to any location you desire (Desktop maybe???) and give it the name _Blinky.ino_. _Stino_ will compile the package and upload it to the Arduino.
 
