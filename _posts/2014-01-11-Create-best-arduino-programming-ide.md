@@ -6,7 +6,7 @@ comments: true
 category: technology
 ---
 
-<img border="0" src="http://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png" align="right" height="200" width="200" /> In a previous post I demonstrated the install of the Arduino IDE on a [Peppermint OS 4](http://peppermintos.com/guide/software/) install. Today I want to take this a bit further and show you how to create an Arduino programming environment that knocks the socks of the original Arduino IDE. 
+<img border="0" src="http://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png" align="right" height="200" width="200" /> In a previous post I demonstrated the [install of the Arduino IDE](http://www.stevencombs.com/linux/2014/01/05/Install-arduino-ide-on-peppermint-os.html) on a [Peppermint OS 4](http://peppermintos.com/guide/software/) install. Today I want to take this a bit further and show you how to create an Arduino programming environment that knocks the socks of the original Arduino IDE. 
 
 Before you begin, you must have Java and the official [Arduino IDE](http://arduino.cc/en/main/software) software installed on your Peppermint OS box. Directions are [here](http://goo.gl/RHa3f3). Once that process is complete, click the link below to learn how you can use Sublime Text 2 and a package known as [_Stino_](https://github.com/Robot-Will/Stino) to upgrade your Arduino programming environment.
 

@@ -22,7 +22,7 @@ The Arduino Integrated Development Environment (IDE) requires Java. Peppermint O
 
 After you load the page in the default Peppermint OS 4 Chromimum browser, allow the Java plugin access to the page. You should then see a verification as shown in the image below.
 
-![][5]
+<img src="http://3.bp.blogspot.com/-Cg55TDef-EA/Uss0X-_j9iI/AAAAAAABOf4/prFIjccMHPk/s1600/Java+Verification.png" width="640" />
 
 Now that we have the Java dependency complete, let's install the Arduino IDE. This is VERY easy if you have ever installed software on a Linux box.
 
@@ -42,8 +42,7 @@ Let's try it out our new Arduino IDE install.
 
 * Click the Add button to add your account to the "dialout" group. This security step is required and gives your account rights to utilize the serial connections to upload code to an Arduino. Side note, this is another reason I love both Linux and Mac – additional security.
 
-
-* The Peppermint OS will request authentication to add your account to the group. Enter your password and click Authenticate as shown in the image below
+* The Peppermint OS will request authentication to add your account to the group. Enter your password and click Authenticate as shown in the image below.
 
 ![][7]
 
@@ -51,7 +50,7 @@ Let's try it out our new Arduino IDE install.
 
 * After a reboot, connect your Arduino to your Peppermint OS 4 enabled computer. My setup is shown in the image below.
 
-![][8]
+<img src="http://2.bp.blogspot.com/--gKVRu6X22s/Uss1auky3QI/AAAAAAABOgc/YOlkVzdaEVg/s1600/My+Setup.jpg" width="640" />
 
 * Select the Arduino item in the Electronics menu to load the Arduino IDE.
 
@@ -65,7 +64,7 @@ NOTE: The latest version of the Arduino IDE for Linux automatically configures t
 
 * Click the Upload button as shown in the image below.
 
-![][9]
+<img src="http://3.bp.blogspot.com/-1FWWUJpA4Hw/Uss2MJwyIWI/AAAAAAABOgs/DQEwylyxnYs/s1600/Compile+and+Upload.png" width="640" />
 
 The Arduino IDE will compile the program (check for errors and convert to machine code) and then upload the code to the Arduino. Once upload is complete, the Arduino will blink the on-board LED every second.
 
@@ -76,8 +75,5 @@ That's all there is to it. Linux use and acceptability has come a long way in th
 [2]: http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=arduino&amp;linkCode=ur2&amp;sprefix=Arduino%2Caps%2C236&amp;tag=docstechnotes-20&amp;url=search-alias%3Delectronics
 [3]: http://peppermintos.com/
 [4]: http://www.docstechnotes.com/2009/07/install-arduino-on-ubuntu-netbook-remix.html
-[5]: http://3.bp.blogspot.com/-Cg55TDef-EA/Uss0X-_j9iI/AAAAAAABOf4/prFIjccMHPk/s1600/Java+Verification.png
 [6]: http://1.bp.blogspot.com/-3E9xwqUMbKc/Uss1DrNCbJI/AAAAAAABOgM/-g4fXHU5t8o/s1600/Permission+Checker.png
 [7]: http://3.bp.blogspot.com/-iUODxxNkoxE/Uss1P2LlydI/AAAAAAABOgU/RAJd9mk8870/s1600/Authentication+Required.png
-[8]: http://2.bp.blogspot.com/--gKVRu6X22s/Uss1auky3QI/AAAAAAABOgc/YOlkVzdaEVg/s1600/My+Setup.jpg
-[9]: http://3.bp.blogspot.com/-1FWWUJpA4Hw/Uss2MJwyIWI/AAAAAAABOgs/DQEwylyxnYs/s1600/Compile+and+Upload.png
