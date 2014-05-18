@@ -6,7 +6,7 @@ comments: true
 category: technology
 ---
 
-<img border="1" src="http://3.bp.blogspot.com/-0zJXaGkzAOg/UxjU46W24ZI/AAAAAAABPWE/4kQRWONfdZw/s1600/IMG_5349.JPG" align="right" height="200" width="200" />I had an upcoming business trip to take and I was on the lookout for a good portable keyboard case for my [iPad Air](http://www.amazon.com/gp/product/B00G2Y4WNY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00G2Y4WNY&amp;linkCode=as2&amp;tag=docstechnotes-20). There are several keyboard cases on the market, and after reading numerous reviews, I chose the [New Trent Airbender 2.0 Keyboard](http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ET9YYS2&amp;linkCode=as2&amp;tag=docstechnotes-20).
+I had an upcoming business trip to take and I was on the lookout for a good portable keyboard case for my [iPad Air](http://www.amazon.com/gp/product/B00G2Y4WNY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00G2Y4WNY&amp;linkCode=as2&amp;tag=docstechnotes-20). There are several keyboard cases on the market, and after reading numerous reviews, I chose the [New Trent Airbender 2.0 Keyboard](http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ET9YYS2&amp;linkCode=as2&amp;tag=docstechnotes-20).
 
 While not the most sophisticated case on the market, you can check out my bullet review below to find out why it was the clear choice for my budget.
 
