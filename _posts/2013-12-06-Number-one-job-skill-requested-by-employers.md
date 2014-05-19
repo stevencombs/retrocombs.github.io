@@ -4,7 +4,7 @@ title: What is the number one job skill requested by employers?
 date: 2013-12-06 04:24:30 UTC
 updated: 2013-12-06 04:24:30 UTC
 comments: true
-categories: higher-education
+categories: Higher-Education
 ---
 
 <img src="https://lh4.googleusercontent.com/-oo72t0hV8oA/UqFOAadtXfI/AAAAAAABNVY/1oQuEMPCHac/%25255BUNSET%25255D.jpg" width="200" align="right" />On December 12th and 13th 2013, I attended the Workforce Development Consortium Strategy Forum at the Lone Star College Conference Center in Houston Texas. The forum brings together several community college and industry leaders from ten states that are part of the Community College Workforce Consortium (CCWC). The goal is to discuss workforce needs and how community colleges can train, educate and develop the future workforce.
