@@ -4,7 +4,7 @@ title: And here’s how we are gonna save some cash
 date: 2012-07-06 20:20:57 UTC
 updated: 2012-07-06 20:20:57 UTC
 comments: true
-categories: higher-education
+categories: Higher-Education
 ---
 
 Ivy Tech will save an estimated $800,000 by purchasing OEM printer supplies and entering long-term agreements according to [Inside INdiana Business with Gerry Dick](http://www.insideindianabusiness.com/newsitem.asp?id=54526&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IIB-Headlines+%28Headlines+-+Inside+INdiana+Business+with+Gerry+Dick%29):

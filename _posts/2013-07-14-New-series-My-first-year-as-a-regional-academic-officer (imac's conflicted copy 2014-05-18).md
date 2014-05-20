@@ -3,8 +3,8 @@ layout: post
 title: New series - My first year as a regional academic officer
 date: 2013-07-14 18:51:27 UTC
 updated: 2013-07-14 18:51:27 UTC
-comments: true
-categories: Higher-Education
+comments: false
+categories: administration year-one
 ---
 
 <img border="0" height="200" width="200" align="right" src="http://2.bp.blogspot.com/-X1gYurcLgJc/UeLnhOCKIMI/AAAAAAABKX0/5ZP9sLTNbQQ/s200/Dean+-vs-+RAO.png"  /> This month marks my first year as the chief academic officer, Vice Chancellor of Academic Affairs (VCAA), for the Columbus/Franklin region of Ivy Tech Community College. During this first year, I have learned much about my new role, the college and the community.

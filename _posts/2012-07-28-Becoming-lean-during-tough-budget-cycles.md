@@ -4,7 +4,7 @@ title: Becoming lean during tough budget cycles
 date: 2012-07-28 00:20:02 UTC
 updated: 2012-07-28 00:20:02 UTC
 comments: true
-categories: higher-education
+categories: Higher-Education
 ---
 
 <img border="0" height="200" align="right" src="http://2.bp.blogspot.com/-z7dOYiDPVxo/UASGpbHYsPI/AAAAAAAA-uY/dzo9twLy7yI/s200/Calculator-Red.jpg" width="200" />Recently, the only thing being discussed on our campus on a daily basis is our budget, or lack thereof. In our case we have to balance a budget where our deficit includes too many zeros. The reason for our budget reduction – lack of enrollment. I won’t even begin to formulate a guess on the reasons for this occurrence as there are entirely too many variables to nail it down to a single one.  I even joke with fellow administrators that I “picked the wrong time to move from the faculty to become a full-time administrator.” I’m half joking.
