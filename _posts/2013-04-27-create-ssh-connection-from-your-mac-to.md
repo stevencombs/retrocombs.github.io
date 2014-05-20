@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create an ssh connection from your Mac to a headless, out-of-the box, Raspberry Pi
+title: Create an ssh connection to a headless Raspberry Pi
 date: 2013-04-27 11:10:09
 comments: true
 category: RaspberryPi
