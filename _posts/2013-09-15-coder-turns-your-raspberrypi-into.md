@@ -16,7 +16,7 @@ In this post, you will learn a bit more about my experience with this new develo
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/wH24YwdayFg" frameborder="0" allowfullscreen></iframe>
 
-The developers claims are that you can setup Coder on a RaspberryPi in less than 10 minutes. These minutes do not account for the time needed to burn the OS image to an SD card. Coder made this process simple though by providing a Mac installer in the download package. No need to use my [popular, but lengthy, Terminal instructions][3]. Took about 7 minutes for my iMac to transfer the OS to the SD card.
+The developer claims that you can setup Coder on a RaspberryPi in less than 10 minutes. These minutes do not account for the time needed to burn the OS image to an SD card. Coder made this process simple though by providing a Mac installer in the download package. No need to use my [popular, but lengthy, Terminal instructions][3]. Took about 7 minutes for my iMac to transfer the OS to the SD card.
 
 After the SD card preparation, it took me less than 5 minutes to:
 
