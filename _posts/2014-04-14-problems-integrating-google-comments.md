@@ -6,13 +6,13 @@ comments: true
 category: Blogger
 ---
 
-__{Update: I am no longer using Blogger; however, this was a popular post, so I am reposting for those who may need this information.}__
+__{Update: I no longer use Blogger; however, this was a popular post, so I am reposting for those who may need this information.}__
 
 When I migrated to a new Blogger template on my old blogging platform, one of the things I did not notice (and not sure how I didn't) was that my comments were missing. I know the simple solution is to insert this small snippet into my custom Blogger template:
 
 <script src="https://gist.github.com/stevencombs/9556035.js"></script>
 
-The problem was I didn't know where to put it. I tried several locations and received a lot of errors. Others may be having the same problem so I thought I would post a screenshot and the steps from my solution.
+The problem was I didn't know where to put it. I tried several locations and received a lot of errors. Others may have the same problem. Below are the steps from my solution.
 
 1. Visit [Blogger in Draft][1] (my preferred web interface for Blogger).
 2. Select Template from the left–hand menu.
@@ -26,12 +26,12 @@ The problem was I didn't know where to put it. I tried several locations and rec
 10. Click the Save template button at the top of the page.
 11. If no errors, open another tab in your browser and view a blog post.
 
-If you do receive an error, immediately undo (`⌘+Z`) and once again save your template. Try again in another location. Don't worry if things really go awry. You have a backup of your template in a text file. You did preform steps 4 and 5…right? Simply replace the botched up template with your pristine copy.
+If you do receive an error, immediately undo (`⌘+Z`) and once again save your template. Try again in another location. Don't worry if things go awry. You have a backup of your template in a text file. You did preform steps 4 and 5? Simply replace the botched up template with your pristine copy.
 
 <a href="http://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" /><img border="0" src="http://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" height="436" width="640" /></a>
 Click image for larger view.
 
-Wish I could be a bit more specific as to the location of the code snippet, but each custom template is a bit different. Hope that helps someone out there. If it does, drop a comment below.
+I wish I could be a more specific as to the location of the code snippet, but each custom template is different. Hope this helps someone. If it does, drop a comment below.
 
 [1]: http://draft.blogger.com/
 [2]: http://brettterpstra.com/projects/nvalt/
