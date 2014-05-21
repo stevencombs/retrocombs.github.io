@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Integrate Google+ comments into Blogger Template
-date: 2014-04-27 19:19:19
+date: 2014-04-14 19:19:19
 comments: true
 category: Blogger
 ---
