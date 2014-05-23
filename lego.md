@@ -1,5 +1,5 @@
 ---
 layout: pages
-title: Code
+title: LEGO MOCs
 ---
 
