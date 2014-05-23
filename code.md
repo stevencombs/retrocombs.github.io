@@ -3,6 +3,8 @@ layout: pages
 title: Code
 ---
 
-<div id="home">
-  <h2><i class="icon-bookmark"></i> Code</h2>
-</div>
+<ul id="blog-posts" class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
