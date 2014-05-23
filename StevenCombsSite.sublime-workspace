@@ -43,11 +43,11 @@
 		"selected_items":
 		[
 			[
-				"mar",
+				"m",
 				"Marked"
 			],
 			[
-				"m",
+				"mar",
 				"Marked"
 			],
 			[
@@ -147,7 +147,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 540.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -168,23 +168,24 @@
 	},
 	"file_history":
 	[
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/blog.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/code.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/presentations.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/embedded.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/models.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/sidebar.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/lego.md",
-		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/code.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/blog.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/lego.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/alfred.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/3dmodels.md",
-		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/embedded.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-09-15-coder-turns-your-raspberrypi-into.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/css/screen.css",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2014-04-14-problems-integrating-google-comments.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-02-13-we-have-mac-mini-media-center-mmmc.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/about.md",
-		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/presentations.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/pages.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2011-04-11-Fix-netflix-error-code-8156-6013-on-mac.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2014-01-11-Create-best-arduino-programming-ide.md",
