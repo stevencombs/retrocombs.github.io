@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: 3D Modeling
+title: 3D Models
 ---
 
 More to come.

@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"bold",
+				"bold"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
 				"im",
 				"img	img"
 			],
@@ -19,40 +35,32 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "about.md",
-			"settings":
-			{
-				"buffer_size": 56,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "atom.xml",
-			"settings":
-			{
-				"buffer_size": 806,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"install",
-				"Package Control: Install Package"
+				"mar",
+				"Marked"
+			],
+			[
+				"m",
+				"Marked"
 			],
 			[
 				"mark",
 				"Marked"
 			],
 			[
-				"mar",
-				"Marked"
+				"jeky",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
 			],
 			[
 				"remov",
@@ -89,10 +97,6 @@
 			[
 				"package",
 				"Package Control: Install Package"
-			],
-			[
-				"m",
-				"Marked"
 			],
 			[
 				"htm",
@@ -143,7 +147,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 593.0
+		"width": 540.0
 	},
 	"console":
 	{
@@ -164,6 +168,22 @@
 	},
 	"file_history":
 	[
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/models.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/sidebar.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/lego.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/code.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/blog.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/lego.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/alfred.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/3dmodels.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/embedded.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-09-15-coder-turns-your-raspberrypi-into.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/css/screen.css",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2014-04-14-problems-integrating-google-comments.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-02-13-we-have-mac-mini-media-center-mmmc.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/about.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/presentations.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/pages.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2011-04-11-Fix-netflix-error-code-8156-6013-on-mac.md",
@@ -189,7 +209,6 @@
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-28-Becoming-lean-during-tough-budget-cycles.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-10-What-I-did.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-06-And-here’s-how-we-are-gonna-save-some-cash.md",
-		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/css/screen.css",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2014-03-06-Bullet-review-newtrent-airbender-2.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2014-01-06-Install-arduino-ide-on-peppermint-os.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_drafts/2014-04-27-markdown-test-post.md",
@@ -214,7 +233,6 @@
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-11-11-Thank-a-Veteran-Today.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-12-06-Number-one-job-skill-requested-by-employers.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/social.html",
-		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/sidebar.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/footer.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-11-21-Thanksgiving-community-colleges-and-changing-lives.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/github-jekyll-blog.sublime-project",
@@ -228,7 +246,6 @@
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_config.yml-lagom.yml",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/assets/themes/twitter/css/style.css",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css",
-		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2014-04-27-markdown-test-post.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-28-Becoming-lean-during-tough-budget-cycles.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-08-28-Evansville-a-look-back.html",
@@ -262,7 +279,6 @@
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-10-What-I-did....html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_drafts/jekyll-introduction-draft.md",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/jekyll-blog/_posts/core-samples/2011-12-29-jekyll-introduction.md",
-		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index.html",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/Gemfile",
 		"/Users/stevencombs/Dropbox/Mac Syncing/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/StevenCombsGitHub.sublime-project",
@@ -288,6 +304,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"icon",
+			"icon-bookmark",
 			"code",
 			"\\.",
 			"\n",
@@ -346,159 +364,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "about.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 56,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "atom.xml",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 806,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
