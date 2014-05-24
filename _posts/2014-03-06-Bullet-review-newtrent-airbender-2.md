@@ -3,7 +3,7 @@ layout: post
 title: Bullet Review – New Trent Airbender 2.0 for iPad Air
 date: 2014-03-06 17:00:00
 comments: true
-category: Review
+category: apple
 ---
 
 I had an upcoming business trip to take and I was on the lookout for a good portable keyboard case for my [iPad Air](http://www.amazon.com/gp/product/B00G2Y4WNY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00G2Y4WNY&amp;linkCode=as2&amp;tag=docstechnotes-20). There are several keyboard cases on the market, and after reading numerous reviews, I chose the [New Trent Airbender 2.0 Keyboard](http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ET9YYS2&amp;linkCode=as2&amp;tag=docstechnotes-20).
