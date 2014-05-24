@@ -3,7 +3,6 @@ layout: pages
 title: Presentations
 ---
 
-## Presentations
 I've given numerous presentations over the years. Unfortunately they have not all been captured. This page presents materials from several recent presentations with more to come.
 
 <ul id="blog-posts" class="posts">
