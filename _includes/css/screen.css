@@ -167,6 +167,7 @@ nav hr {
   color: #666;
   border-top: 4px solid #EEE;
   width: 640px;
+  overflow: hidden;
 }
 
 .aside {
