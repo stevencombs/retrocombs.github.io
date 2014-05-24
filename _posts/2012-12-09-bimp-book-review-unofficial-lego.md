@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BimP Book Review: The Unofficial LEGO Builder’s Guide: Second Edition
-date: 2012-12-09
+date: 2012-12-09 12:12:12
 comments: true
 category: lego
 ---
