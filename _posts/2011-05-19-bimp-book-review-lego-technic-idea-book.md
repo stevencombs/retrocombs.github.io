@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BimP Book Review: LEGO Technic Idea Book Series
+title: BimP Book Review – LEGO Technic Idea Book Series
 date: 2011-05-19 01:01:01
 comments: true
 category: lego
