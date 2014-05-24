@@ -4,7 +4,7 @@ title: A productivity primer for higher education administrators
 date: 2013-03-03 23:49:23 UTC
 updated: 2013-03-03 23:49:23 UTC
 comments: true
-categories: higher-education
+category: higher-education
 ---
 
 <img border="0" height="137" src="http://4.bp.blogspot.com/-cEkUuUsA4g4/UTJSV25O7nI/AAAAAAABG2U/-uETIC_O5yM/s200/Empty+Inbox.png" width="200" align="right" />We conduct cabinet meetings on our campus each Monday. Our Chancellor develops the agenda and leads these discussions between our regional academic administrators. Typically these meetings are a simple sharing of information between our team leaders. On occasion we invite college and community leaders to meet with the team to understand important initiatives.

@@ -4,7 +4,7 @@ title: Thanksgiving, community colleges, and changing lives
 date: 2012-11-21 23:17:49 UTC
 updated: 2012-11-21 23:17:49 UTC
 comments: true
-categories: holiday higher-education
+category: holiday higher-education
 ---
 
 This is the first Thanksgiving in my new role as Vice Chancellor for

@@ -4,7 +4,7 @@ title: Make mistakes, learn from them, and own them
 date: 2013-08-27 18:51:22 UTC
 updated: 2013-08-27 18:51:22 UTC
 comments: true
-categories: higher-education
+category: higher-education
 ---
 
 <img border="0" height="200" src="http://3.bp.blogspot.com/-K-STTmTy85A/UeQtr9EnbnI/AAAAAAABKZk/mm-cxRSUl7s/s200/Mistakes+You+Cannot+Correct.png" width="200" align="right" />Yesterday I began a series of lessons learned from my first year as a Vice Chancellor for Academic Affairs (VCAA). Today I share lesson number two – mistakes.I’ll admit that our college does not have a robust training program for new VCAAs. My training program was a two day orientation with four other “newer” regional VCAAs. The sessions was beneficial, but as our moderator explained, that training would not prepare us for our new roles. We would make mistakes. He was correct, but that session did prove valuable. It gave me a cohort to share ideas.

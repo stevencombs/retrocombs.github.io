@@ -4,7 +4,7 @@ title: Thank a Veteran Today!
 date: 2013-11-11 11:39:25 UTC
 updated: 2013-11-11 11:39:25 UTC
 comments: true
-categories: Holiday
+category: Holiday
 ---
 
 <iframe align="right" frameborder="0" height="540px" src="https://www.thunderclap.it/projects/6258-veterans-day-2013/embed" width="250px"></iframe>Once again the time has come for us to honor those that have sacrificed themselves so that we may enjoy the freedoms of this great land. While we officially recognize the contributions of our veteran’s twice a year, we should be grateful daily for their continued service and sacrifices.
