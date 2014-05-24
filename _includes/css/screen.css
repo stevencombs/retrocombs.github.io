@@ -163,14 +163,10 @@ nav hr {
 }
 
 .footer {
-  width: 640px;
-}
-
-.footer {
   font-size: 80%;
   color: #666;
   border-top: 4px solid #EEE;
-  overflow: hidden;
+  width: 640px;
 }
 
 .aside {
