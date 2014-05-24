@@ -3,7 +3,7 @@ layout: post
 title: Create bootable USB drive on Mac OS X
 date: 2009-05-28 01:01:01
 comments: true
-category: Apple
+category: apple
 ---
 
 I frequently experiment with live images of other OSs and install them on my [Acer Aspire One netbook](http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref%255F%3Dnb%255Fss%255Fgw%255F0%255F5%26y%3D0%26field-keywords%3Dacer%2520aspire%2520one%26url%3Dsearch-alias%253Daps%26sprefix%3DAcer%2520&amp;tag=giveusoneminute-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957) (I've since settled on PepperMintOS). Instead of burning CD images, I have found that bootable USB drives are faster and more reliable. I also have a problem keeping up with my external USB CD drive. The images I use most frequently come in either .raw or .img formats.

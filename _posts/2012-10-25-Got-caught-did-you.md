@@ -4,7 +4,7 @@ title: Got caught, did you?
 date: 2012-10-25 18:47:40 UTC
 updated: 2012-10-25 18:47:40 UTC
 comments: true
-categories: Higher-Education
+categories: higher-education
 ---
 
 <img border="0" height="175" align="right" src="http://3.bp.blogspot.com/-H-sPawAMu2E/UGNVUhc3d1I/AAAAAAABCPE/zRx-H2V283s/s320/We+Take+Your+Class+-+Offline.png" width="320" />Take a gander at the article below:

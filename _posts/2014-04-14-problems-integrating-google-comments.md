@@ -3,7 +3,7 @@ layout: post
 title: Integrate Google+ comments into Blogger Template
 date: 2014-04-14 19:19:19
 comments: true
-category: Code
+category: code
 ---
 
 __{Update: I no longer use Blogger; however, this was a popular post, so I am reposting for those who may need this information.}__

@@ -3,7 +3,7 @@ layout: post
 title: Five ways to reduce iPhone or hotspot data usage
 date: 2011-05-20 10:11:12
 comments: true
-category: Apple
+category: apple
 ---
 
 <img src="http://2.bp.blogspot.com/-6VdxGgIIbXA/TdamjsD0jMI/AAAAAAAA1SA/SpvuoUkcdr0/s200/Personal+Hotspot.png" align="right" />While on a business trip this past week, I was stuck in a building that did not have Internet access for my [MacBook Air][2]. This was an extreme productivity killer. Then I remembered that the latest iOS for iPhone 4 now contains the ability to create a personal hotspot similar to [MiFi units][3].

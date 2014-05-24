@@ -3,7 +3,7 @@ layout: post
 title: Turn your RaspberryPi into a development platform with Coder
 date: 2013-09-15 19:19:19
 comments: true
-category: RaspberryPi
+category: raspberrypi
 ---
 
 My weekend project was to install [Coder][1] on a RaspberryPi. Coder is a Google hosted project that is a:

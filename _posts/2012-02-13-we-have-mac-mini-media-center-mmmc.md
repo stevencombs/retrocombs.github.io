@@ -3,7 +3,7 @@ layout: post
 title: Mac mini Media Center (MmMC) software winner
 date: 2012-03-13 19:19:19
 comments: true
-category: Apple
+category: apple
 ---
 
 I've been asked by a few, "What media center software do you use?" I've been quite coy with my answer because up and until now, I've not been able to determine a clear and definite winner.

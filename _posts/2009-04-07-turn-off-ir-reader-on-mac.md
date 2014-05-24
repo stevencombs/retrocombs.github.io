@@ -3,7 +3,7 @@ layout: post
 title: Turn off IR reader on a Mac
 date: 2009-04-07 03:45:23
 comments: true
-category: Apple
+category: apple
 ---
 
 Here's a quick, yet very handy tip when that pesky Apple Remote activates Front Row (for old school Macs) or other apps on your Mac while controlling your Apple TV.
