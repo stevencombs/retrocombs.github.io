@@ -3,7 +3,7 @@ layout: pages
 title: Entertainment
 ---
 
-This page is a collection of posts about books, movies and television.
+This collects my posts about books, movies and television.
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.entertainment %}
