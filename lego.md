@@ -3,7 +3,7 @@ layout: pages
 title: LEGO MOCs
 ---
 
-I'm a self professed AFOL. Below are my MOCs. If you understand those last two sentences, welcome!
+I'm a self professed AFOL. Below are my MOCs and reviews of bulding brick related products. If you understand those last two sentences, welcome!
 
 Be sure to check out my [Rotating LEGO iPhone Dock](get-the-dock.html) instructions.
 
