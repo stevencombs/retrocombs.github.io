@@ -96,7 +96,6 @@ ul.posts span {
 }
 
 .site .footer {
-  width: 640px;
   font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
@@ -164,7 +163,7 @@ nav hr {
 }
 
 .footer {
-  width: 100%;
+  width: 640px;
 }
 
 .footer {
