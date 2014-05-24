@@ -4,7 +4,7 @@ title: Enhance Course Materials with iTunes U
 date: 2013-01-10 01:09:10 UTC
 updated: 2013-01-10 01:09:10 UTC
 comments: true
-category: presentations higher-education apple
+categories: presentations higher-education apple
 ---
 
 Hot on the heels of my [_Apple TV: “Out of the Living Room and into the Classroom”_ presentation](http://www.stevencombs.com/2012/10/tv-out-of-living-room-and-into-classroom.html), I have prepared another entitled, _Enhance Course Materials with iTunes U_. This presentation was held on January 10th, 2013 from 12:00 - 1:00PM in Poling Hall, Room 201 on the Ivy Tech Columbus campus. 
