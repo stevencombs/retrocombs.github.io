@@ -19,4 +19,3 @@ Here's a quick, yet very handy tip when that pesky Apple Remote activates Front 
 That's it! Short and simple fix.
 
 [1]: http://farm4.static.flickr.com/3544/3497884375_ef9b58ddcf.jpg
-  
