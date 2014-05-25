@@ -6,6 +6,8 @@ comments: true
 category: technology
 ---
 
+Git Atom Test
+
 Check out [Doc's Tech Notes][1] for my tech blog posts.
 
 * Bullet 1
@@ -29,4 +31,4 @@ Use this command to update: `sudo apt-get upgrade`
 
 > quote txt
 
-[1]:http://www.docstechnotes.com 
+[1]:http://www.docstechnotes.com
