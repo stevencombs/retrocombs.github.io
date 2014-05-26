@@ -10,14 +10,12 @@ __{Update: I no longer use Blogger; however, this was a popular post, so I am re
 
 When I migrated to a new Blogger template on my old blogging platform, one of the things I did not notice (and not sure how I didn't) was that my comments were missing. I know the simple solution is to insert this small snippet into my custom Blogger template:
 
-<pre>
 ```
-<!-- Google+ Comments -->
-<div class='cmt_iframe_holder'
-expr:data-href='data:post.canonicalUrl'
-expr:data-viewtype='data:post.viewType'/>
+   <!-- Google+ Comments -->  
+   <div class='cmt_iframe_holder'  
+   expr:data-href='data:post.canonicalUrl'  
+   expr:data-viewtype='data:post.viewType'/>  
 ```
-</pre>
 
 The problem was I didn't know where to put it. I tried several locations and received a lot of errors. Others may have the same problem. Below are the steps from my solution.
 
