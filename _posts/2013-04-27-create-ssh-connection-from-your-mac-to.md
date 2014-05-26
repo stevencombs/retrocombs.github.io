@@ -126,7 +126,8 @@ Let's try and connect to our Raspberry Pi.
 * Type `ssh pi@raspberrypi.local` and follow it with a tap of the  key (or ↩) - you will be prompted for the Raspberry Pi password (Don't panic, just keep following along).
 * Type `raspberry` followed by ↩ and if the password is correct, you will receive text similar to the following:
 
-<pre><code>Linux raspberrypi 3.6.11+ #371 PREEMPT Thu Feb 7 16:31:35 GMT 2013 armv6l
+```
+Linux raspberrypi 3.6.11+ #371 PREEMPT Thu Feb 7 16:31:35 GMT 2013 armv6l
 
 The programs included with the Debian GNU/Linux system are free software; the exact distribution terms for each program are described in the individual files in /usr/share/doc/copyright.
 
@@ -136,7 +137,8 @@ Type 'startx' to launch a graphical session
 
 Last login: Wed Apr 24 16:16:48 2013 from imac.local
 
-pi@raspberrypi $_</code></pre>
+pi@raspberrypi $_
+```
 
 You're in! You now have access to your Raspberry Pi via the Terminal app and ssh. With this access there's a whole bunch of fun you can have. In fact there is too much fun to describe in this blog post, but I'll give you a couple of quick commands in the next section to get you going.
 
@@ -190,4 +192,3 @@ I think this may win the prize for my longest blog post, although my blog post [
 [12]: http://www.docstechnotes.com/2013/04/and-in-weve-got-yet-another-new-look.html
 [13]: http://1.bp.blogspot.com/-x4G34sHG9V0/UXwO1nDLF3I/AAAAAAABIlE/qKeh0Re-vP4/s400/Ports.jpg
 [14]: http://2.bp.blogspot.com/-CoNY1uPJOzA/UXwIJMfNZ8I/AAAAAAABIkc/3j1CK-q-7Z8/s400/Raspi-Config.png
-  

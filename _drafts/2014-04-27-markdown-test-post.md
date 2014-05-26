@@ -6,29 +6,42 @@ comments: true
 category: technology
 ---
 
-Git Atom Test
+# Git Atom Test
+
+## Bullet List
 
 Check out [Doc's Tech Notes][1] for my tech blog posts.
 
 * Bullet 1
 * Bullet 2
 
+## Numbered List
+
 1. List item one
 2. List item two
 
-Check out more after the click below
+## Table
+| Row 1 | Row 2 |
+| :------------- | :------------- |
+| This is item 1 | This is item 2 |
+| This is item 3 | This is item 4 |
 
-**Code Block**
-
-    def()
-    	print x;
-
-**Inline Code**
+## Inline Code
 
 Use this command to update: `sudo apt-get upgrade`
 
-**Block Quote**
+## Code Block
 
-> quote txt
+```
+include {};
+  sudo apt-get install arduino
+end
+```
+
+## Block Quote
+
+> Lorem quote txt
+
+<!-- Link References -->
 
 [1]:http://www.docstechnotes.com

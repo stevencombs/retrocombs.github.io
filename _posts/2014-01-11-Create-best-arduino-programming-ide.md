@@ -6,7 +6,7 @@ comments: true
 categories: linux arduino
 ---
 
-<img border="0" src="http://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png" align="right" height="200" width="200" /> In a previous post I demonstrated the [install of the Arduino IDE](http://www.stevencombs.com/linux/2014/01/05/Install-arduino-ide-on-peppermint-os.html) on a [Peppermint OS 4](http://peppermintos.com/guide/software/) install. Today I want to take this a bit further and show you how to create an Arduino programming environment that knocks the socks of the original Arduino IDE. 
+<img border="0" src="http://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png" align="right" height="200" width="200" /> In a previous post I demonstrated the [install of the Arduino IDE](http://www.stevencombs.com/linux/2014/01/05/Install-arduino-ide-on-peppermint-os.html) on a [Peppermint OS 4](http://peppermintos.com/guide/software/) install. Today I want to take this a bit further and show you how to create an Arduino programming environment that knocks the socks of the original Arduino IDE.
 
 Before you begin, you must have Java and the official [Arduino IDE](http://arduino.cc/en/main/software) software installed on your Peppermint OS box. Directions are [here](http://goo.gl/RHa3f3). Once that process is complete, click the link below to learn how you can use Sublime Text 2 and a package known as [_Stino_](https://github.com/Robot-Will/Stino) to upgrade your Arduino programming environment.
 
@@ -33,7 +33,7 @@ You can also configure a Mac with the same setup. My first use of Sublime Text 2
 The heart of our new enhanced Arduino IDE is <a href="http://www.sublimetext.com/2">Sublime Text 2</a>. As the time of this writing, a beta version of Sublime Text 3 is available. These instructions will not work for this version; however, savvy Linux users can probably modify my instructions to get a functional install. Let’s begin and install Sublime Text 2 on Peppermint OS.
 
 * Open the _Terminal_ via mouse or the keyboard shortcut: `ctrl` + `alt` + `t`
-* Type the command: `sudo apt-get install sublime-text–2` 
+* Type the command: `sudo apt-get install sublime-text–2`
 * Enter your password at the prompt followed by `return`.
 
 Peppermint OS will search for all dependencies and software necessary for the install.
@@ -109,8 +109,8 @@ _Stino_ package the location of the official Arduino IDE install. Stino is Subli
 
 * Press `return`. This will set the location of the Arduino IDE and its libraries.
 
-* Attach an Arduino board to your Peppermint OS box via a [USB cable](https://www.amazon.com/dp/B001TH7GUA?tag=docstechnotes-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;creativeASIN=B001TH7GUA&amp;adid=06HRGQC78A3T02GSA04C&amp;). 
- 
+* Attach an Arduino board to your Peppermint OS box via a [USB cable](https://www.amazon.com/dp/B001TH7GUA?tag=docstechnotes-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;creativeASIN=B001TH7GUA&amp;adid=06HRGQC78A3T02GSA04C&amp;).
+
 Don’t have an Arduino? Get a great deal on an [Arduino at Amazon](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=Arduino&linkCode=ur2&tag=bricinmypockb-20&url=search-alias%3Delectronics&linkId=LISU5PL6NIEETUSF).
 
 * Connect an Arduino to complete the final steps.
@@ -127,7 +127,18 @@ Finally, we will enter, compile and upload our first program to an Arduino board
 
 * Copy and paste this code into a new Sublime Text 2 document.
 
-<script src="https://gist.github.com/stevencombs/18ba81d5ce05b36b820f.js"></script>
+```
+const int ledPin = 13;
+  void setup() {
+      pinMode(ledPin, OUTPUT);
+  }
+  void loop() {
+      digitalWrite(ledPin, HIGH);
+      delay(1000);
+      digitalWrite(ledPin, LOW);
+      delay(500);
+  }
+```
 
 * Save the code to any location you desire (Desktop maybe???) and give it the name _Blinky.ino_. _Stino_ will compile the package and upload it to the Arduino.
 

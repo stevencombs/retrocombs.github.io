@@ -22,7 +22,7 @@ The Arduino Integrated Development Environment (IDE) requires Java. Peppermint O
 
 After you load the page in the default Peppermint OS 4 Chromimum browser, allow the Java plugin access to the page. You should then see a verification as shown in the image below.
 
-<img src="http://3.bp.blogspot.com/-Cg55TDef-EA/Uss0X-_j9iI/AAAAAAABOf4/prFIjccMHPk/s1600/Java+Verification.png" width="640" />
+<img src="http://3.bp.blogspot.com/-Cg55TDef-EA/Uss0X-_j9iI/AAAAAAABOf4/prFIjccMHPk/s1600/Java+Verification.png" width="100%" />
 
 Now that we have the Java dependency complete, let's install the Arduino IDE. This is VERY easy if you have ever installed software on a Linux box.
 
@@ -50,7 +50,7 @@ Let's try it out our new Arduino IDE install.
 
 * After a reboot, connect your Arduino to your Peppermint OS 4 enabled computer. My setup is shown in the image below.
 
-<img src="http://2.bp.blogspot.com/--gKVRu6X22s/Uss1auky3QI/AAAAAAABOgc/YOlkVzdaEVg/s1600/My+Setup.jpg" width="640" />
+<img src="http://2.bp.blogspot.com/--gKVRu6X22s/Uss1auky3QI/AAAAAAABOgc/YOlkVzdaEVg/s1600/My+Setup.jpg" width="100%" />
 
 * Select the Arduino item in the Electronics menu to load the Arduino IDE.
 
@@ -64,7 +64,7 @@ NOTE: The latest version of the Arduino IDE for Linux automatically configures t
 
 * Click the Upload button as shown in the image below.
 
-<img src="http://3.bp.blogspot.com/-1FWWUJpA4Hw/Uss2MJwyIWI/AAAAAAABOgs/DQEwylyxnYs/s1600/Compile+and+Upload.png" width="640" />
+<img src="http://3.bp.blogspot.com/-1FWWUJpA4Hw/Uss2MJwyIWI/AAAAAAABOgs/DQEwylyxnYs/s1600/Compile+and+Upload.png" width="100%" />
 
 The Arduino IDE will compile the program (check for errors and convert to machine code) and then upload the code to the Arduino. Once upload is complete, the Arduino will blink the on-board LED every second.
 

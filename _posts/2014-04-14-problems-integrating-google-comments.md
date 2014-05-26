@@ -10,7 +10,12 @@ __{Update: I no longer use Blogger; however, this was a popular post, so I am re
 
 When I migrated to a new Blogger template on my old blogging platform, one of the things I did not notice (and not sure how I didn't) was that my comments were missing. I know the simple solution is to insert this small snippet into my custom Blogger template:
 
-<script src="https://gist.github.com/stevencombs/9556035.js"></script>
+```
+<!-- Google+ Comments -->
+<div class='cmt_iframe_holder'
+expr:data-href='data:post.canonicalUrl'
+expr:data-viewtype='data:post.viewType'/>
+```
 
 The problem was I didn't know where to put it. I tried several locations and received a lot of errors. Others may have the same problem. Below are the steps from my solution.
 
@@ -28,7 +33,7 @@ The problem was I didn't know where to put it. I tried several locations and rec
 
 If you do receive an error, immediately undo (`⌘+Z`) and once again save your template. Try again in another location. Don't worry if things go awry. You have a backup of your template in a text file. You did preform steps 4 and 5? Simply replace the botched up template with your pristine copy.
 
-<a href="http://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" /><img border="0" src="http://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" height="436" width="640" /></a>
+<a href="http://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" /><img border="0" src="http://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" width="100%" /></a>
 Click image for larger view.
 
 I wish I could be a more specific as to the location of the code snippet, but each custom template is different. Hope this helps someone. If it does, drop a comment below.
