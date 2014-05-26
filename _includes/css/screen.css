@@ -118,7 +118,22 @@ nav hr {
   font-size: 13px;
 }
 
+/*
+Original Line
 #post pre {
+  border: 1px solid #888;
+  background-color: #ddd;
+  padding: 0 .4em;
+  margin-bottom: 20px !important;
+}
+*/
+
+#post ul,
+#post ol {
+  margin-left: 1em;
+}
+
+#post code {
   background-color: #f8f8f8;
   border: 1px solid #cccccc;
   font-size: 13px;
@@ -129,18 +144,6 @@ nav hr {
   pre code, pre tt {
     background-color: transparent;
     border: none; }
-}
-
-#post ul,
-#post ol {
-  margin-left: 1em;
-}
-
-#post code {
-  border: 1px dotted #888;
-  background-color: #ddd;
-  font-size: 85%;
-  padding: 0 .2em;
 }
 
 /*
