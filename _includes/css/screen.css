@@ -126,9 +126,9 @@ nav hr {
   overflow: auto;
   padding: 6px 10px;
   border-radius: 3px; }
-    pre code, pre tt {
-      background-color: transparent;
-      border: none; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
 }
 
 #post ul,
@@ -137,14 +137,20 @@ nav hr {
 }
 
 #post code {
-  border: 1px dotted #888;
-  background-color: #ddd;
-  font-size: 85%;
-  padding: 0 .2em;
-}
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+  }
 
 #post pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
   border: none;
+  background: transparent; }
 }
 
 .sidebar {
@@ -254,3 +260,12 @@ i.fa-hn {
   font-size: smaller;
   padding-bottom: 10px
 }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
