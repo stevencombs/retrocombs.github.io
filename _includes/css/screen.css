@@ -119,10 +119,16 @@ nav hr {
 }
 
 #post pre {
-  border: 1px solid #888;
-  background-color: #ddd;
-  padding: 0 .4em;
-  margin-bottom: 20px !important;
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
 }
 
 #post ul,
@@ -137,19 +143,12 @@ nav hr {
   padding: 0 .2em;
 }
 
-#post pre tt code {
+/*
+Original Line
+#post pre code {
   border: none;
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
-  font-size: 13px;
-  line-height: 19px;
-  overflow: auto;
-  padding: 6px 10px;
-  border-radius: 3px; }
-  pre code, pre tt {
-    background-color: transparent;
-    border: none; }
 }
+*/
 
 .sidebar {
   padding-top: 25px;
