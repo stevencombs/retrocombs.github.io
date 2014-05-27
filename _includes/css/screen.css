@@ -42,7 +42,7 @@ h3 {
 }
 
 ul {
-  margin: 1em 0;
+  margin: 1em;
   list-style: disc;
 }
 
@@ -127,7 +127,7 @@ nav hr {
 
 #post ul,
 #post ol {
-  margin-left: 0;
+  margin-left: 1em;
 }
 
 #post code {
