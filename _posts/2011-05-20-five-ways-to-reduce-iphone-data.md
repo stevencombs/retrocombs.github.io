@@ -6,7 +6,7 @@ comments: true
 category: apple
 ---
 
-<img src="http://2.bp.blogspot.com/-6VdxGgIIbXA/TdamjsD0jMI/AAAAAAAA1SA/SpvuoUkcdr0/s200/Personal+Hotspot.png" align="right" />While on a business trip this past week, I was stuck in a building that did not have Internet access for my [MacBook Air][2]. This was an extreme productivity killer. Then I remembered that the latest iOS for iPhone 4 now contains the ability to create a personal hotspot similar to [MiFi units][3].
+<img style="margin-left: 10px; margin-bottom: 10px;" src="http://2.bp.blogspot.com/-6VdxGgIIbXA/TdamjsD0jMI/AAAAAAAA1SA/SpvuoUkcdr0/s200/Personal+Hotspot.png" align="right" />While on a business trip this past week, I was stuck in a building that did not have Internet access for my [MacBook Air][2]. This was an extreme productivity killer. Then I remembered that the latest iOS for iPhone 4 now contains the ability to create a personal hotspot similar to [MiFi units][3].
 
 Adding the service was extremely easy using the AT'T iOS app and the charge was only an extra $20 per month. I thought this a fairly reasonable charge and was surprised that it was prorated for the current month, incurred no activation charge and added an extra 2GBs of data to my current 2GBs/month plan. It also appears that I can turn this service off at any time without any additional deactivation charges.
 
@@ -22,7 +22,7 @@ In this post, I'll share a <strike>five</strike> six ways you can dramatically r
 
 ![][4]
 
-2\. Turn off iPhone push notifications. Some push notifications are sent from your iPhone, other area sent from servers. Any movement of bits from a server to iPhone results in bandwidth consumption. Chances are you also have software on your Mac, such as FaceTab (Facebook in your menubar) or GrowlVoice (Google Voice in your menubar) that also push notifications. 
+2\. Turn off iPhone push notifications. Some push notifications are sent from your iPhone, other area sent from servers. Any movement of bits from a server to iPhone results in bandwidth consumption. Chances are you also have software on your Mac, such as FaceTab (Facebook in your menubar) or GrowlVoice (Google Voice in your menubar) that also push notifications.
 
 So if you are receiving Facebook notices on your iPhone through the Facebook app and with FaceTab and on your hotspot connected Mac, you are doubling your data consumption. Turn off iPhone push notifications by tapping Settings / Notifications / Off. Remember to turn this back on after turning the personal hotspot off.
 
@@ -30,7 +30,7 @@ So if you are receiving Facebook notices on your iPhone through the Facebook app
 
 3\. Turn off iPhone mail push notifications and fetch manually. This is a HUGE data and battery saver. When push notifications are on, the iPhone and e-mail Exchange/IMAP servers are regularly pinging each other to see if there is any new data to share. If there is, the iPhone mail app will immediately begin to download the message. When acting as a simple device on the go, this is a great feature. When using the iPhone as a hotspot, this can become a data sieve; leaking data all over the place.
 
-For example, If push mail is on and you have Outlook or Mail.app running on your Mac, both your iPhone and the Mac e-mail client are downloading the same message and attachments. Therefore, each message costs you double the data. Kill this redundancy on the iPhone by tapping Settings / Mail, Contacts, Calendars / Fetch New Data / Push / Off. 
+For example, If push mail is on and you have Outlook or Mail.app running on your Mac, both your iPhone and the Mac e-mail client are downloading the same message and attachments. Therefore, each message costs you double the data. Kill this redundancy on the iPhone by tapping Settings / Mail, Contacts, Calendars / Fetch New Data / Push / Off.
 
 Even though push services are off, you will notice as the bottom of that settings screen that there are also Fetch time increment settings. Select the Manually option. This will stop the iPhone from checking for messages unless you tap on the iPhone Mail app. Remember to turn this back on after turning the personal hotspot off.
 
@@ -60,4 +60,3 @@ There you have it, <strike>five</strike> six ways you can reduce iPhone personal
 [7]: http://db.tt/11cphuY
 [8]: http://www.docstechnotes.com/2011/05/dont-duplicate-your-macbook-air-and-ios.html
 [9]: http://1.bp.blogspot.com/-f9_lwJRtgkw/TdfG1NBE9GI/AAAAAAAA1SU/7RzdvjwtvMw/s400/Automatic+Software+Updates.png
-  

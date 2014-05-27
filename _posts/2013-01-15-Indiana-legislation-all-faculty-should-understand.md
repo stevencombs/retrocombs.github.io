@@ -1,4 +1,4 @@
----           
+---
 layout: post
 title: Indiana legislation all faculty should understand
 date: 2013-01-15 19:55:02 UTC
@@ -7,7 +7,7 @@ comments: true
 category: higher-education
 ---
 
-<img border="1" height="200" src="http://1.bp.blogspot.com/-uJv26_0PsEc/UIl-2GvgphI/AAAAAAABDK0/nFSTYPaxMJ8/s200/StateLegislation.jpg" width="200" align="right"/>On January 15th, 2013, our Regional Board of Trustees met. I am on the agenda to discuss the changes that will occur within the state with regard to transfer of general education credits among the public institutions. As I read the two pieces of legislation, House Enrolled Act No. 1220 (Credit Creep) and Senate Enrolled Act No. 182 (Common Course Numbering within the Core Transfer Library), the thought struck me that all Indiana higher education faculty (and parents for that matter)&nbsp;should be aware of these initiatives and understand their implications.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="http://1.bp.blogspot.com/-uJv26_0PsEc/UIl-2GvgphI/AAAAAAABDK0/nFSTYPaxMJ8/s200/StateLegislation.jpg" align="right" width="200" />On January 15th, 2013, our Regional Board of Trustees met. I am on the agenda to discuss the changes that will occur within the state with regard to transfer of general education credits among the public institutions. As I read the two pieces of legislation, House Enrolled Act No. 1220 (Credit Creep) and Senate Enrolled Act No. 182 (Common Course Numbering within the Core Transfer Library), the thought struck me that all Indiana higher education faculty (and parents for that matter)&nbsp;should be aware of these initiatives and understand their implications.
 
 The legislation is not difficult to read; however, I need to provide an Executive Summary for the board, so I thought I may as well share my outline. My bullets are more concise and a bit more “bottom line up front.”
 
@@ -36,7 +36,7 @@ __Details:__
 
 ---
 
-__Sources:__ 
+__Sources:__
 
 1. <a href="http://www.in.gov/legislative/bills/2012/HE/HE1220.1.html">House Enrolled Act No. 1220</a>
 1. <a href="http://www.in.gov/legislative/bills/2012/SE/SE0182.1.html">Senate Enrolled Act No. 182</a>

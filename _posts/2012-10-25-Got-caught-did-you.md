@@ -1,4 +1,4 @@
----           
+---
 layout: post
 title: Got caught, did you?
 date: 2012-10-25 18:47:40 UTC
@@ -7,7 +7,7 @@ comments: true
 category: higher-education
 ---
 
-<img border="0" height="175" align="right" src="http://3.bp.blogspot.com/-H-sPawAMu2E/UGNVUhc3d1I/AAAAAAABCPE/zRx-H2V283s/s320/We+Take+Your+Class+-+Offline.png" width="320" />Take a gander at the article below:
+<img style="margin-left: 10px; margin-bottom: 10px;" src="http://3.bp.blogspot.com/-H-sPawAMu2E/UGNVUhc3d1I/AAAAAAABCPE/zRx-H2V283s/s320/We+Take+Your+Class+-+Offline.png" align="right" width="250" />Take a gander at the article below:
 
 ['We Take Your Class' Goes Offline](http://www.insidehighered.com/quicktakes/2012/09/26/we-take-your-class-goes-offline) | Inside Higher Ed
 

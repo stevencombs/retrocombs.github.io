@@ -1,4 +1,4 @@
----           
+---
 layout: post
 title: New series - My first year as a regional academic officer
 date: 2013-07-14 18:51:27 UTC
@@ -7,7 +7,7 @@ comments: true
 category: higher-education
 ---
 
-<img border="0" height="200" width="200" align="right" src="http://2.bp.blogspot.com/-X1gYurcLgJc/UeLnhOCKIMI/AAAAAAABKX0/5ZP9sLTNbQQ/s200/Dean+-vs-+RAO.png"  /> This month marks my first year as the chief academic officer, Vice Chancellor of Academic Affairs (VCAA), for the Columbus/Franklin region of Ivy Tech Community College. During this first year, I have learned much about my new role, the college and the community.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="http://2.bp.blogspot.com/-X1gYurcLgJc/UeLnhOCKIMI/AAAAAAABKX0/5ZP9sLTNbQQ/s200/Dean+-vs-+RAO.png" align="right" width="200" />This month marks my first year as the chief academic officer, Vice Chancellor of Academic Affairs (VCAA), for the Columbus/Franklin region of Ivy Tech Community College. During this first year, I have learned much about my new role, the college and the community.
 
 To celebrate my first year, I’ve decided to share some lessons learned. These lessons may (I write “may” because every situation is unique) be useful for new and even seasoned chief academic officers. Blogging/writing is a great way for me to reflect on this past year and my hope is that not only will these lessons be of value to others when shared, but it will also force me to spend additional time reflecting on the past year’s hits and misses.
 
@@ -23,7 +23,7 @@ The role of a school dean and that of a regional academic officer are very simil
 * community outreach
 * organization and productivity
 * instructional/information technologies
- 
+
 I remember thinking, while reviewing the position description for the vacant VCAA in Columbus, “I can do that. It’s just an extension of my current role.” I was correct to a point. Sure I continue to manage these same tasks; however, the complexity of each is multiplied exponentially as the chief academic officer. So while both positions are similar in scope, they differ on scale. It’s the scale that can cause you to be out of touch with what is happening.
 
 **Out of touch:**  
