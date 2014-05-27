@@ -6,7 +6,7 @@ comments: true
 categories: linux arduino
 ---
 
-<img src="http://2.bp.blogspot.com/-JWkcedZQv6k/Uss6UrZB9oI/AAAAAAABOg8/qhcYMT0zEXA/s1600/Loki+Blogs.jpg" align="right" width="200" />Two things happened during the holiday break. Loki and I reacquired our fascination with the [Arduino][2] and I also upgraded the operating system on my old Acer Aspire One from Chrome OS to [Peppermint OS 4][3]. In an [earlier post][4], I shared how to install the Arduino software on a netbook with Ubuntu Netbook remix 9.04. I thought these earlier instructions would assist me with an install on Peppermint OS 4. That was not the case. Not even the first step was correct.
+<img src="http://2.bp.blogspot.com/-JWkcedZQv6k/Uss6UrZB9oI/AAAAAAABOg8/qhcYMT0zEXA/s1600/Loki+Blogs.jpg" margin-left="10px" margin-bottom="10px" align="right" width="200" />Two things happened during the holiday break. Loki and I reacquired our fascination with the [Arduino][2] and I also upgraded the operating system on my old Acer Aspire One from Chrome OS to [Peppermint OS 4][3]. In an [earlier post][4], I shared how to install the Arduino software on a netbook with Ubuntu Netbook remix 9.04. I thought these earlier instructions would assist me with an install on Peppermint OS 4. That was not the case. Not even the first step was correct.
 
 This post will provide an update to that original post. Users of other Linux distributions should also find these instructions valuable and if you are using a Debian variant, they should work perfectly. After you hit the link below, you will find instructions for installing and using the Arduino software on Peppermint OS 4.
 
