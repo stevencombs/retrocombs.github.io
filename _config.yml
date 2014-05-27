@@ -7,7 +7,6 @@ exclude:
 lsi: false
 comments: true
 markdown: redcarpet
-  tables: true
 pygments: true
 theme:
   email: steven.combs@gmail.com
