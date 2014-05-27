@@ -34,7 +34,7 @@ Use this command to update: `sudo apt-get upgrade`
 
 ## Code Block
 
-```
+```ruby
 include {};
   sudo apt-get install arduino
 end
