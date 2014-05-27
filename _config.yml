@@ -7,8 +7,7 @@ exclude:
 lsi: false
 comments: true
 markdown: redcarpet
-  extensions:
-    smart: true
+  extensions: ['smart']
 pygments: true
 theme:
   email: steven.combs@gmail.com
