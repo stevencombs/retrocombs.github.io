@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: LEGO MOCs
+category: lego
 ---
 
 I'm a self professed AFOL. Below are my MOCs and reviews of bulding brick related products. If you understand those last two sentences, welcome!
