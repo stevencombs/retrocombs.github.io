@@ -67,9 +67,8 @@ table {
 
 img {
   display: block;
-  margin-left: 10px;
-  margin-right: 10px;
-  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 ul.posts {
