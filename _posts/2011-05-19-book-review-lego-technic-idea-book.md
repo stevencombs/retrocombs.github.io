@@ -24,17 +24,18 @@ The retail cost for each book is $19.95. You can find [each book online at Amazo
 ## First Glance
 What the reader will notice almost immediately, when browsing the [sample pages online][7]![][8] or while visiting their favorite brick and mortar book store, is that there is a dearth of text. The inside front cover fold contains more text than the pages that describe the models presented. This lack of text is also evident when reading the back cover as shown in the image below.
 
-![][9]
+<img src="http://4.bp.blogspot.com/-SVOSciFnvDQ/TdW76JFNG2I/AAAAAAAA1RY/_48UIvDR88c/s320/BackofBook.jpg" width="100%" />
 
 As you can see in the image, where text on the back cover usually describes the contents of a book, this series instead uses images to present the concepts included within each book in the series. The concepts are identified by a series of icons which resemble the app icons found on modern smart phones. These icons are duplicated within the book. They are super-sized in the upper-left corner to make it easy for the reader to find each section by flipping the pages. You can see an example of this in the image below.
 
-![][10]
+<img src="http://4.bp.blogspot.com/-ynHgGGz8T0E/TdW78lIl6iI/AAAAAAAA1Rc/28hAQBwibrU/s320/InsideIcons.png
+" width="100%" />
 
 The books do contain text. There are two-pages at the front of the book that includes an Introduction, Join the Discussion, Note to Parents and Information About the LEGO Technic Idea Series sections. Each section is identical in all three books in the series. When I first read this section, I thought the Note to Parents a bit odd. I assumed the demographic for these books was the Adult Fans of LEGO (AFOL). After I spent more time turning the pages I changed my assumptions.
 
 Of course these books would be good for children. Better yet, they would be perfect for parents and children to work through together. Learning and/or sharing the basic concepts not only of LEGO construction, but also the concepts of mechanical, electrical and pneumatic design.
 
-![][11]
+<img src=" http://1.bp.blogspot.com/-uqHNwTsiwj4/TdW79QTiJiI/AAAAAAAA1Rg/zpztZTJ3MVA/s200/SamplewithColors.jpg" width="100%" />
 
 Earlier I mentioned that the color pages were important. Isogawa uses color to assist with the process of identifying the various LEGO elements needed as well as how to assemble each model. Take a look at the image to the right for instance. As you can see, the multi-color elements make it easy to distinguish individual elements and how they connect. Using part of the same color would cause elements to blend and make it hard to distinguish between them.
 
@@ -49,7 +50,6 @@ No book is perfect so here are a couple of things I would like to recommend. Fir
 
 ## Final Recommendation
 The following quote by Isogawa is present near the front of each book and sums up the series in two sentences.
-
 
 > "This book is full of little seeds for ideas. It is you who will cultivate those seeds so they grow into wonderful masterpieces."
 
@@ -66,6 +66,3 @@ So what about it readers? Do you agree or disagree? Have a copy and want to disc
 [6]: http://www.assoc-amazon.com/e/ir?t=bricksinmypoc-20&l=btl&camp=213689&creative=392969&o=1&a=1593270542
 [7]: http://www.amazon.com/LEGO-Technic-Idea-Book-Machines/dp/1593272774?ie=UTF8&tag=bricksinmypoc-20&link_code=btl&camp=213689&creative=392969
 [8]: http://www.assoc-amazon.com/e/ir?t=bricksinmypoc-20&l=btl&camp=213689&creative=392969&o=1&a=1593272774
-[9]: http://4.bp.blogspot.com/-SVOSciFnvDQ/TdW76JFNG2I/AAAAAAAA1RY/_48UIvDR88c/s320/BackofBook.jpg
-[10]: http://4.bp.blogspot.com/-ynHgGGz8T0E/TdW78lIl6iI/AAAAAAAA1Rc/28hAQBwibrU/s320/InsideIcons.png
-[11]: http://1.bp.blogspot.com/-uqHNwTsiwj4/TdW79QTiJiI/AAAAAAAA1Rg/zpztZTJ3MVA/s200/SamplewithColors.jpg

@@ -28,7 +28,7 @@ __Retail Cost:__ $24.95
 __Editorial Note:__ My review will focus on the changes from the first to the second edition. There are many other reviews online that review the text as if it is a first edition. I believe most of our readers will want to know whether they should upgrade to this new edition.
 
 ## In Full Color
-<img src="http://4.bp.blogspot.com/-6srvFQEblxM/UMUC4PkMAGI/AAAAAAABExQ/y-fO5dFz-_g/s1600/Screen+Shot+2012-12-09+at+4.28.38+PM.png" align="right" />Let's begin our review with the major change that is immediately apparent when comparing to the first edition – the use of full color. There is even a banner in the upper right-hand of the title page to highlight this new change. One of the only suggestions I had for the first edition was to include color to make it easier to understand the models and techniques. I was very happy to see this occur in this new edition.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="http://4.bp.blogspot.com/-6srvFQEblxM/UMUC4PkMAGI/AAAAAAABExQ/y-fO5dFz-_g/s1600/Screen+Shot+2012-12-09+at+4.28.38+PM.png" align="right" />Let's begin our review with the major change that is immediately apparent when comparing to the first edition – the use of full color. There is even a banner in the upper right-hand of the title page to highlight this new change. One of the only suggestions I had for the first edition was to include color to make it easier to understand the models and techniques. I was very happy to see this occur in this new edition.
 
 The images aren't simply a reprint from the first edition, they are newly rendered images courtesy of Eric "Blakbird" Albrecht. The image updates are bright and colorful. The paper stock used is slick to ensure the images are crisp and clear. The image below provides a quick sample of a before and after page, or close approximation since the pagination is different for this new version. You will immediately notice how much easier the tube, in figure 3.5, is to visualize with color and the enhanced photo realistic rendering.
 
@@ -39,7 +39,7 @@ What makes these images even more amazing is that Eric created and rendered thes
 
 ## Another Obvious Visual Change
 
-<img src="http://4.bp.blogspot.com/-xNCEBcOOXlA/UMUCP10ub1I/AAAAAAABExI/-KYjgvniO5A/s320/Book+Thickness+Comparison.png" align="right" />Another noticeable difference between the two versions is the thickness of the book and the number of pages. Both of which you would expect to be greater in a second edition; however, that is the complete opposite for this text. The second edition is thinner, lighter and has fewer pages. The first edition contains 319 pages and the second 221 pages.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="http://4.bp.blogspot.com/-xNCEBcOOXlA/UMUCP10ub1I/AAAAAAABExI/-KYjgvniO5A/s320/Book+Thickness+Comparison.png" align="right" />Another noticeable difference between the two versions is the thickness of the book and the number of pages. Both of which you would expect to be greater in a second edition; however, that is the complete opposite for this text. The second edition is thinner, lighter and has fewer pages. The first edition contains 319 pages and the second 221 pages.
 
 While the reader might immediately assume that 100 pages of content were removed (we will look at this in the next section below), the change in page count is also attributed to a more efficient layout, a change in paper stock thickness and the removal of excess words to make sentences more concise. Overall the book is easier to read and much more attractive.
 
