@@ -184,7 +184,7 @@ I think this may win the prize for my longest blog post, although my blog post [
 [4]: http://adafruit.com/
 [5]: http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro
 [6]: http://draft.blogger.com/blogger.g?blogID=2984947566836492313
-[7]: http://www.docstechnotes.com/2009/05/create-bootable-usb-drive-using-os-x.html
+[7]: http://www.stevencombs.com/apple/2009/05/27/create-bootable-usb-drive-osx
 [8]: http://alltheware.wordpress.com/2012/12/11/easiest-way-sd-card-setup/
 [9]: http://2.bp.blogspot.com/-yAAekyttYGI/UXwI8U3mArI/AAAAAAABIks/HzrEKBVm4pc/s400/Choose+Image.png
 [10]: http://1.bp.blogspot.com/-NyClIrY5-Vw/UXwI8OT85rI/AAAAAAABIkk/enIvVKcAXyk/s400/SD+Card+Connected.png
