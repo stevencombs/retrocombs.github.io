@@ -46,6 +46,10 @@ ul {
   list-style: disc;
 }
 
+ol {
+  margin: 1em;
+}
+
 a {
   color: {{ site.theme.highlight_color }};
   text-decoration: none;
