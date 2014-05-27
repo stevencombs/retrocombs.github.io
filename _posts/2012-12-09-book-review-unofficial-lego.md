@@ -6,7 +6,7 @@ comments: true
 category: lego
 ---
 
-<img src="http://3.bp.blogspot.com/-PmxKja42FPM/UMUCGXYfaQI/AAAAAAABExA/EMH2na1uhV8/s200/BimP+Book+Review+Graphic.png" align="right" />As most folks know, I am a huge fan of the first edition of Allan Bedford's wonderful The Unofficial LEGO Builder's Guide. Back when Nikki and I were still hosting the BimPCast, we had Allan join us to discuss his new book in BimPCast 24. Wanna listen to our discussion? Click [here][2].
+<img style="margin-left: 10px; margin-bottom: 10px;" src="http://3.bp.blogspot.com/-PmxKja42FPM/UMUCGXYfaQI/AAAAAAABExA/EMH2na1uhV8/s200/BimP+Book+Review+Graphic.png" align="right" width="250" />As most folks know, I am a huge fan of the first edition of Allan Bedford's wonderful The Unofficial LEGO Builder's Guide. Back when Nikki and I were still hosting the BimPCast, we had Allan join us to discuss his new book in BimPCast 24. Wanna listen to our discussion? Click [here][2].
 
 Imagine my thrill when I learned Allan was in the process of updating the book to a second edition. Further imagine my thrill when No Starch press contacted me and asked if I would be interested in a review copy. "Of course!" I replied.
 
@@ -16,7 +16,7 @@ So after the click below, let's take a look at the new edition, discuss whether 
 
 ## Book Information
 
-__Title:__ The Unofficial LEGO Builder's Guide: Second Edition 
+__Title:__ The Unofficial LEGO Builder's Guide: Second Edition
 __Publication Date:__ November 2012  
 __Author:__ Allan Bedford
 __Illustrator:__ Eric Albrecht
@@ -74,4 +74,3 @@ You've done it again Allan. You've created the definitive book on the basics of 
 [6]: http://1.bp.blogspot.com/-SNwSBpiesfg/UMUF9fVhucI/AAAAAAABExg/Ryix_vH6ZqQ/s640/BW-Color+Comparison.png
 [8]: http://goo.gl/OataZ
 [9]: https://www.amazon.com/dp/1593270542/ref=as_li_ss_til?tag=bricinmypockb-20&camp=0&creative=0&linkCode=as4&creativeASIN=1593270542&adid=12N7PPCN8KKXDVAVMZ5G&
-  
