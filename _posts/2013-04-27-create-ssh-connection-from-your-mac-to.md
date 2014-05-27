@@ -126,8 +126,7 @@ Let's try and connect to our Raspberry Pi.
 * Type `ssh pi@raspberrypi.local` and follow it with a tap of the  key (or ↩) - you will be prompted for the Raspberry Pi password (Don't panic, just keep following along).
 * Type `raspberry` followed by ↩ and if the password is correct, you will receive text similar to the following:
 
-<pre><code>
-Linux raspberrypi 3.6.11+ #371 PREEMPT Thu Feb 7 16:31:35 GMT 2013 armv6l
+<pre><code>Linux raspberrypi 3.6.11+ #371 PREEMPT Thu Feb 7 16:31:35 GMT 2013 armv6l
 
 The programs included with the Debian GNU/Linux system are free software; the exact distribution terms for each program are described in the individual files in /usr/share/doc/copyright.
 
