@@ -7,7 +7,7 @@ categories: raspberrypi apple linux
 ---
 You finally receive that Raspberry Pi you've been waiting for only to find that you don't have an extra keyboard, mouse or monitor laying around. Yeah, you should have taken care of that prior to the purchase (or maybe you did and those items are on their way in a separate order), but does that mean you can't fiddle with your new Raspberry Pi? Of course not. While waiting on the other devices, you can have a ton of fun learning about the new device while at the same time, learning a bit about Linux and remote connections.
 
-![][1]
+<img src="https://lh4.googleusercontent.com/-NjsjbCYtA8Y/UXwPS_XqaKI/AAAAAAABIlM/ztfeD2wMg-A/w770-h557-no/ssh+to+raspi.png" width="100%" />
 
 "Remote connection you ask?" Yep! You can run the Raspberry Pi headless. "Headless. What's that? Something out of a zombie show?" Uh, no. Find out more about "headless mode" after the break and then read my step-by-step guide on how to setup this mode using a Mac and OS X. Warning, Terminal; commands ahead.
 
@@ -126,7 +126,7 @@ Let's try and connect to our Raspberry Pi.
 * Type `ssh pi@raspberrypi.local` and follow it with a tap of the  key (or ↩) - you will be prompted for the Raspberry Pi password (Don't panic, just keep following along).
 * Type `raspberry` followed by ↩ and if the password is correct, you will receive text similar to the following:
 
-```
+<pre><code>
 Linux raspberrypi 3.6.11+ #371 PREEMPT Thu Feb 7 16:31:35 GMT 2013 armv6l
 
 The programs included with the Debian GNU/Linux system are free software; the exact distribution terms for each program are described in the individual files in /usr/share/doc/copyright.
@@ -138,7 +138,7 @@ Type 'startx' to launch a graphical session
 Last login: Wed Apr 24 16:16:48 2013 from imac.local
 
 pi@raspberrypi $_
-```
+</code></pre>
 
 You're in! You now have access to your Raspberry Pi via the Terminal app and ssh. With this access there's a whole bunch of fun you can have. In fact there is too much fun to describe in this blog post, but I'll give you a couple of quick commands in the next section to get you going.
 
@@ -178,7 +178,6 @@ See, getting a Raspberry Pi running headless isn't as painful as you might have 
 
 I think this may win the prize for my longest blog post, although my blog post [Create a bootable USB drive][7] is awfully close. Given the length, and my inability to edit my own writing, please drop a comment below if you find errors. I would also love to read about your experiences, so drop those too. Happy ssh'ing!
 
-[1]: http://2.bp.blogspot.com/-NjsjbCYtA8Y/UXwPS_XqaKI/AAAAAAABIlM/ztfeD2wMg-A/s400/ssh+to+raspi.png
 [2]: http://www.linux.org/
 [3]: http://www.raspberrypi.org/downloads
 [4]: http://adafruit.com/
