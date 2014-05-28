@@ -140,8 +140,6 @@ const int ledPin = 13;
   }
 {% endhighlight %}
 
-<script src="https://gist.github.com/stevencombs/18ba81d5ce05b36b820f.js"></script>
-
 * Save the code to any location you desire (Desktop maybe???) and give it the name _Blinky.ino_. _Stino_ will compile the package and upload it to the Arduino.
 
 * You will have a blinky Arduino as shown in the image below.
