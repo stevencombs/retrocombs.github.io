@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I moved from Blogger to Jekyll
-date: 2014-06-13 19:25:20
+date: 2014-06-13 21:10:20
 comments: true
 category: web
 ---
@@ -13,6 +13,8 @@ category: web
 * LEGO blog: <http://www.bricksinmypocket.org>
 
 Over the 2014 Memorial Day weekend, I decided to migrate two blogs (personal and tech) to a single [Jekyll](http://jekyllrb.com) blog and host it on [GitHub](http://github.com/). You are reading this post on the new site.
+
+<a href="http://www.stevencombs.com/images/posts/2014-06-13-stevencombs.site.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-06-13-stevencombs.site.png" align="center" width="100%" /></a>
 
 I would not recommend every Blogger user make this transition; however, consider it if you have even basic knowledge of the following:
 
