@@ -46,7 +46,7 @@ Using Blogger for years, I am very familiar with the free model and its limitati
 What you do lose is some advanced web technology access such as Perl, Python, PHP, etc. With Jekyll on GitHub you are limited to HTML, CSS and Javascript. Let’s face it though, 95% of those who maintain a blog probably won’t use anything other than those three technologies. I find in my research and experimentation that you can do some amazing things with these three technologies alone!
 
 ### Markdown:
-Jekyll lets you compose blog posts in several different markup languages such as [HTML](http://en.wikipedia.org/wiki/HTML), [Latex](http://en.wikipedia.org/wiki/LaTeX), [Markdown](http://daringfireball.net/projects/markdown/) and it’s more feature rich sister, [MultiMarkdown](http://fletcherpenney.net/multimarkdown/). I use Markdown for almost all my writing – including business/academic writing. I won’t go into the why’s here, but if you are a Markdown user, you already get it.
+Jekyll lets you compose blog posts in several different markup languages such as [HTML](http://en.wikipedia.org/wiki/HTML), [Latex](http://en.wikipedia.org/wiki/LaTeX), [Markdown](http://daringfireball.net/projects/markdown/) and it’s more feature rich sister, [MultiMarkdown](http://fletcherpenney.net/multimarkdown/). I use Markdown for almost all my writing – including business/academic writing. I won’t go into the whys here, but if you are a Markdown user, you already get it.
 
 Being able to compose my posts natively in Markdown provides me with several benefits:
 
