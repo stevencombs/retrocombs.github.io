@@ -1,8 +1,17 @@
 ---
 layout: pages
 title: LEGO MOCs
-category: lego
 ---
+
+<img
+src="http://www.stevencombs.com/images/design/lego.svg"
+style="
+  float: left;
+  width: 100px;
+  margin-left: -7px;
+  margin-top: -3px;
+  "
+/>
 
 I'm a self professed AFOL. Below are my MOCs and reviews of bulding brick related products. If you understand those last two sentences, welcome!
 

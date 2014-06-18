@@ -3,6 +3,16 @@ layout: pages
 title: Entertainment
 ---
 
+<img
+src="http://www.stevencombs.com/images/design/entertainment.svg"
+style="
+  float: left;
+  width: 100px;
+  margin-left: -7px;
+  margin-top: -3px;
+  "
+/>
+
 This collects my posts about books, movies and television.
 
 <ul id="blog-posts" class="posts">
