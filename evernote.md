@@ -9,7 +9,8 @@ style="
   float: left;
   width: 100px;
   margin-right: 10px;
-  margin-top: -2px;
+  margin-left: -10px
+  margin-top: -25px;
   margin-bottom: 10px;
   "
 />
