@@ -70,6 +70,13 @@ img {
   margin-right: auto;
 }
 
+img.category {
+  float: left;
+  width: 100px;
+  margin-left: -7px;
+  margin-top: -3px;
+}
+
 ul.posts {
   margin-top: 0;
   list-style-type: none;

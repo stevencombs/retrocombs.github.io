@@ -3,15 +3,7 @@ layout: pages
 title: Apple
 ---
 
-<img
-src="http://www.stevencombs.com/images/design/apple.svg"
-style="
-  float: left;
-  width: 100px;
-  margin-left: -7px;
-  margin-top: -3px;
-  "
-/>
+<img class="category" src="http://www.stevencombs.com/images/design/apple.svg" />
 
 I'm an unabashed Apple fan. Anyone who knows me personally or professionally understands this. This page contains a collection of posts that I often create to assist my friends and family who are Mac users. Will you find a similar Windows page on this site, not way! What about Linux? <a href="linux.html">You betcha!</a>
 
