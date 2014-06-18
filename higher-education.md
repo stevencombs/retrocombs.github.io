@@ -13,7 +13,7 @@ style="
   "
 />
 
-The career that finances my hobbies is that of a higher education administrator for a community college in Indiana. I occasionally share experiences or thoughts about my career in higher education whether it be academics, logistics or administration.
+The career that finances my many hobbies is that of a higher education administrator for a community college in Indiana. I occasionally share experiences or thoughts about my career in higher education whether it be academics, logistics or administration.
 
 Below are my higher education related posts:
 
