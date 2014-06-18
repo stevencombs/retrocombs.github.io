@@ -70,12 +70,16 @@ img {
   margin-right: auto;
 }
 
+/* Style for images the appear on category pages */
+
 img.category {
   float: left;
   width: 100px;
   margin-left: -7px;
   margin-top: -3px;
 }
+
+/* End css style for images that appear on category pages */
 
 ul.posts {
   margin-top: 0;

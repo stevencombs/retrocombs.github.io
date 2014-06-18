@@ -3,17 +3,11 @@ layout: pages
 title: Entertainment
 ---
 
-<img
-src="http://www.stevencombs.com/images/design/entertainment.svg"
-style="
-  float: left;
-  width: 100px;
-  margin-left: -7px;
-  margin-top: -3px;
-  "
-/>
+<img class="category" src="http://www.stevencombs.com/images/design/entertainment.svg" />
 
-This collects my posts about books, movies and television.
+Life isn’t all work and hobbies. Occasionally I like to simply kick back and enjoy a book, movie or televisions show. On occasion I write or reminisce about  these entertainment options. I tend to gravitate toward science fiction, but also enjoy classics as well.
+
+Below are my posts about books, movies and television.
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.entertainment %}

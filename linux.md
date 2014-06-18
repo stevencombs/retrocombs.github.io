@@ -3,17 +3,11 @@ layout: pages
 title: Linux
 ---
 
-<img
-src="http://www.stevencombs.com/images/design/linux.svg"
-style="
-  float: left;
-  width: 100px;
-  margin-left: -7px;
-  margin-top: -3px;
-  "
-/>
+<img class="category" src="http://www.stevencombs.com/images/design/linux.svg" />
 
-While I'm a huge [Apple fan](/apple.html), I also dabble quite a bit in Linux. This page collects posts that share my tips or experiences with several flavors of Linux on several devices.
+While I'm a huge [Apple fan](/apple.html), I also believe Linux to be a viable alternative for both new and old computers. As you will find below, I tend to try multiple distributions (versions) of Linux and have yet to settle on a single one. That’s part of the fun.
+
+Below are posts that share my tips or experiences with several flavors of Linux on several devices.
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.linux %}

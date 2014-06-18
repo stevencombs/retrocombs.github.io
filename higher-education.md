@@ -3,15 +3,7 @@ layout: pages
 title: Higher Education
 ---
 
-<img
-src="http://www.stevencombs.com/images/design/higher-education.svg"
-style="
-  float: left;
-  width: 100px;
-  margin-left: -7px;
-  margin-top: -3px;
-  "
-/>
+<img class="category" src="http://www.stevencombs.com/images/design/higher-education.svg" />
 
 The career that finances my many hobbies is that of a higher education administrator for a community college in Indiana. I occasionally share experiences or thoughts about my career in higher education whether it be academics, logistics or administration.
 

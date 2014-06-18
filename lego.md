@@ -3,15 +3,7 @@ layout: pages
 title: LEGO MOCs
 ---
 
-<img
-src="http://www.stevencombs.com/images/design/lego.svg"
-style="
-  float: left;
-  width: 100px;
-  margin-left: -7px;
-  margin-top: -3px;
-  "
-/>
+<img class="category" src="http://www.stevencombs.com/images/design/lego.svg" />
 
 I'm a self professed [AFOL](http://en.wikipedia.org/wiki/AFOL). Below are my MOCs and reviews of building brick related products. If you understand those last two sentences, welcome! You are in the right spot. If not, take a look and find out why LEGO is not just for children any more.
 

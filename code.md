@@ -3,17 +3,11 @@ layout: pages
 title: Code
 ---
 
-<img
-src="http://www.stevencombs.com/images/design/code.svg"
-style="
-  float: left;
-  width: 100px;
-  margin-left: -7px;
-  margin-top: -3px;
-  "
-/>
+<img class="category" src="http://www.stevencombs.com/images/design/code.svg" />
 
-I dabble in code related projects. I am in no way an expert.
+I dabble in code. I am in no way an expert and users of any code related project I share should do so at their own risk. My projects are sure not to be bug tested or optimized in any way. Did I mention I dabble in code?!? You have been warned.
+
+Below are my code related project attempts. I also maintain a [GIST repository](https://gist.github.com/stevencombs/) of code snippets from various projects on [GitHub](https://github.com/stevencombs/).
 
 ## Alfred Workflows
 <ul id="blog-posts" class="posts">
