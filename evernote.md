@@ -8,10 +8,8 @@ src="http://www.stevencombs.com/images/design/evernote.svg"
 style="
   float: left;
   width: 100px;
-  margin-right: 10px;
   margin-left: -7px;
   margin-top: -3px;
-  margin-bottom: 10px;
   "
 />
 
