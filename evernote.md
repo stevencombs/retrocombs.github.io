@@ -9,8 +9,8 @@ style="
   float: left;
   width: 100px;
   margin-right: 10px;
-  margin-left: -6px;
-  margin-top: -25px;
+  margin-left: -7px;
+  margin-top: -30px;
   margin-bottom: 10px;
   "
 />
