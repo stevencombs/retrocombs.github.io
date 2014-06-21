@@ -8,10 +8,10 @@ comments: true
 **As featured on:**
 
 * [Make:](http://makezine.com/2009/09/14/lego-rotating-dock-for-iphoneipod-t/)
-* [Engadget](http://www.engadget.com/2009/09/15/battle-of-the-homebrew-lego-iphone-docks/),
-* [Hackaday](http://hackaday.com/2009/09/09/rotating-iphone-dock-from-legos/),
+* [Engadget](http://www.engadget.com/2009/09/15/battle-of-the-homebrew-lego-iphone-docks/)
+* [Hackaday](http://hackaday.com/2009/09/09/rotating-iphone-dock-from-legos/)
 * [DVICE](http://www.dvice.com/archives/2009/09/rotating-lego-i.php)
-* [Gizmodo](http://gizmodo.com/5358067/diy-swivelling-lego-iphone-dock-fulfills-our-weekend-lego-quota).
+* [Gizmodo](http://gizmodo.com/5358067/diy-swivelling-lego-iphone-dock-fulfills-our-weekend-lego-quota)
 
 You’ve asked for it and here it is! The official building instructions for my Rotating LEGO iPhone Dock are now available! This Dock makes the perfect companion for your iPhone or iPod Touch.
 
