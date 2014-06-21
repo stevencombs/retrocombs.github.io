@@ -16,8 +16,7 @@ You’ve asked for it and here it is! The official building instructions for the
 
 If you inject a bit of your own creativity, this MOC is easily adaptable to your computing environment or alternate device. Haven’t seen the Dock in action yet? Watch the YouTube video below.
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/0PTE7P3JTGo" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="640" height="480" src="//www.youtube.com/embed/0PTE7P3JTGo" frameborder="0" allowfullscreen></iframe></br>
 
 I’ve taken the time to prepare detailed instructions (see sample image below) and all I ask is that you send a contribution by clicking [here](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=g8rKLifnl50jI9sy8IcKDk7-7FM-Z6zrs2doD4IIVZDLFNEkV8ABsj2EL34&amp;dispatch=5885d80a13c0db1f8e263663d3faee8dc60d77e6184470d515cedf52660ea0cd) or by using the *Donation Button* found in the steps at the bottom of this page.
 
