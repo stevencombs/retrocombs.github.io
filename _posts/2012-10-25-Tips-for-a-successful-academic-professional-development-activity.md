@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for a successful academic professional development activity
+title: Successful academic professional development sessions
 date: 2012-10-25 18:53:56 UTC
 updated: 2012-10-25 18:53:56 UTC
 comments: true
