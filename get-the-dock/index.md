@@ -2,6 +2,7 @@
 layout: pages
 title: Instructions for my LEGO Rotating iPhone Dock
 category: lego
+comments: true
 ---
 
 **As featured on:**
