@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Get the Instructions for my LEGO Rotataing iPhone Dock
+title: Instructions for my LEGO Rotating iPhone Dock
 category: lego
 ---
 
@@ -12,7 +12,7 @@ category: lego
 * [DVICE](http://www.dvice.com/archives/2009/09/rotating-lego-i.php)
 * [Gizmodo](http://gizmodo.com/5358067/diy-swivelling-lego-iphone-dock-fulfills-our-weekend-lego-quota).
 
-You’ve asked for it and here it is! The official building instructions for the BimP Rotating LEGO iPhone Dock are now available! This Dock makes the perfect companion for your iPhone or iPod Touch.
+You’ve asked for it and here it is! The official building instructions for my Rotating LEGO iPhone Dock are now available! This Dock makes the perfect companion for your iPhone or iPod Touch.
 
 If you inject a bit of your own creativity, this MOC is easily adaptable to your computing environment or alternate device. Haven’t seen the Dock in action yet? Watch the YouTube video below.
 
@@ -26,7 +26,7 @@ The recommended minimum donation is $1, but you can leave less. But if you feel 
 
 I’m trying something new here. You can download the file at anytime; however, I have password protected the .pdf file. You can download it, but you can’t open it without the password. Once I receive a donation notification, I will use the e-mail you provide to send you the password.
 
-To be honest, I’m not sure how I feel about this and not sure if I would like this as a user, but thought it would be an interesting study in free market electronic distribution. And let’s face it, the measures to protect this document only keep the honest folks honest. This process could change in the future, but for now, that’s it. So, use the steps below to get a copy of the official BimP Rotating LEGO iPhone Dock building instructions.
+To be honest, I’m not sure how I feel about this and not sure if I would like this as a user, but thought it would be an interesting study in free market electronic distribution. And let’s face it, the measures to protect this document only keep the honest folks honest. This process could change in the future, but for now, that’s it. So, use the steps below to get a copy of the official Rotating LEGO iPhone Dock building instructions.
 <hr />
 <div style="text-align: center;">
 <b>Step 1:</b> Click the Donate Button Below<br />
@@ -65,7 +65,7 @@ A: Not really. I put this together from my odds and ends bin. You might check cu
 
 **Q: What if I can't find a part I need in my stash?**
 
-A: I highly recommend Bricklink ([http://www.bricklink.com][5]) where you can purchase single elements! This is where I usually get pieces to finish my MOCs. The other alternative is to improvise. Look for other parts that serve the same purpose. That's the fun of LEGO. And you may just find that you version is better than mine! If you do, send me an [e-mail][6] with a pic and share your idea. I would love to highlight your modification on BimP!
+A: I highly recommend Bricklink ([http://www.bricklink.com][http://www.bricklink.com/]) where you can purchase single elements! This is where I usually get pieces to finish my MOCs. The other alternative is to improvise. Look for other parts that serve the same purpose. That's the fun of LEGO. And you may just find that you version is better than mine! If you do, send me an [e-mail][mailto:steven.combs@gmail.com] with a pic and share your idea.
 
 ## Errata
 
@@ -76,6 +76,3 @@ A: I highly recommend Bricklink ([http://www.bricklink.com][5]) where you can pu
 * On step 3, the instructions displayed 2 gray 3/4 technic pins and 6 black technic pins. It is actually the other way around; 6 3/4 pins and 2 normal pins needed - Thanks Tim!
 * Several grammatical corrections
 * Included links to software used
-
-[5]: http://www.bricklink.com/
-[6]: mailto:steven.combs%40gmail.com
