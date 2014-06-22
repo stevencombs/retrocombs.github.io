@@ -20,7 +20,7 @@ __Two important pieces of legislation:__
 __Details:__
 
 1. HEA 1220:
-	* Each public institution we review all programs and reduce associate degrees to 60 credit hours and baccalaureate degree to 120 credit hours
+	* Each public institution will review all programs and reduce associate degrees to 60 credit hours and baccalaureate degree to 120 credit hours
 	* If institutions cannot meet these requirements, they must document and justify the reason (accreditation, certification, etc) in a proposal to the commission
 	* No deadline specified in the legislation
 2. SEA 182:
@@ -29,7 +29,7 @@ __Details:__
 	* Not later than December 1st, 2012, the state institutions, in conjunction with the Higher Learning Commission, will provide a report on statewide transfer of the general education core
 	* The core will be competency based and at least 30 credit hours
 	* Institutions will work together to create the Transfer General Education Core (TGEC) via the State Transfer and Articulation Committee (STAC)
-	* Further, the institutions will establish a way to document completion of the competencies on student transcripts - in our case it will be the Technical Certification (TC) in General Studies
+	* Further, the institutions will establish a way to document completion of the competencies on student transcripts – in the case of Ivy Tech Community College, it will be the Technical Certification (TC) in General Studies
 	* After May 15th, 2013 a student who completes the TGEC will not be required by another state institution to complete additional courses
 	* Students who do not complete the TGEC prior to transfer, will complete the remainder of the requirements at the new institution
 	* Students who receive an associate of art or associate of science degree meet the minimum required 30 hours
