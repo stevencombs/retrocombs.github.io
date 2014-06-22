@@ -101,6 +101,18 @@ ul.posts span {
   font-size:10px;
 }
 
+ol {
+  margin-left: 1em;
+}
+
+ol.posts {
+  margin-left: 1em;
+}
+
+ol.posts li {
+  margin-left: 1em;
+}
+
 .meta {
   color: #aaa;
   margin: 0 0 10px 0;
