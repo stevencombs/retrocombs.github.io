@@ -33,7 +33,7 @@ Jekyll is a very different blogging platform than Blogger; although you would be
 
 For those who’ve been around the web and web programming for some time, you might consider static sites a return to the 1990s. In a way it is and I’ve found this to be a very good thing. Because Jekyll removes the database backend, I’ve noticed a huge increase not only in the speed of my site, but also a huge decrease in the time required to write, manage and post my content.
 
-<a href="http://www.stevencombs.com/images/posts/2012-06-05-github-site-files.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-06-13-github-site-files.png" align="center" width="100%" /></a>
+<img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-06-13-github-site-files.png" align="center" width="100%" />
 
 This is an extremely rudimentary description of Jekyll. If you want more, I recommend you check out their [Welcome](http://jekyllrb.com/docs/home/) page. It’s loaded with some great information including a quick start guide.
 
