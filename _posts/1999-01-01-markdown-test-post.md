@@ -12,7 +12,7 @@ I use this file to test my CSS changes.
 
 ## Bullet List
 
-Check out [StevenCombs.com][http://www.stevencombs.com] for my blog posts.
+Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
 
 * Bullet 1
 * Bullet 2
@@ -25,12 +25,13 @@ Check out [StevenCombs.com][http://www.stevencombs.com] for my blog posts.
 ## Strikethrough
 ~~This text has strikethrough~~
 
-## Superscript
-ft^2
+## Superscripts
+ft^(2) - 1^(st) - 2^(nd)
 
 ## Table
+
 | Row 1 | Row 2 |
-| :------------- | :------------- |
+| :------------------- | :------------------- |
 | This is item 1 | This is item 2 |
 | This is item 3 | This is item 4 |
 
