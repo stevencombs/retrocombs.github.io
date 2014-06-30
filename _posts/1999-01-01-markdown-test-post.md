@@ -26,7 +26,7 @@ Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
 ~~This text has strikethrough~~
 
 ## Superscripts
-ft<sup>2</sup> - 1^(st) - 2^(nd<)
+ft<sup>2</sup> - 1^(st) - 2^(nd)
 
 ## Table
 
@@ -34,7 +34,6 @@ ft<sup>2</sup> - 1^(st) - 2^(nd<)
 | :------------------- | :------------------- |
 | This is item 1 | This is item 2 |
 | This is item 3 | This is item 4 |
-</br>
 
 ## Inline Code
 
