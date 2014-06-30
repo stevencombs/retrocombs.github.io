@@ -22,6 +22,12 @@ Check out [StevenCombs.com][1] for my blog posts.
 1. List item one
 2. List item two
 
+## Strikethrough
+~~This text has strikethrough~~
+
+## Superscript
+ft^2
+
 ## Table
 | Row 1 | Row 2 |
 | :------------- | :------------- |
