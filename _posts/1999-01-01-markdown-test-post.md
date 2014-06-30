@@ -30,11 +30,12 @@ ft<sup>2</sup> - 1^(st) - 2^(nd)
 
 ## Table
 
-| Row 1 || Row 2 |
-| :------------------- |:-| :------------------- |
-| This is item 1 || This is item 2 |
-| This is item 3 || This is item 4 |
-</br>
+| Tables        | Are           | Cool  |
+| ------------- |:------------- | -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Inline Code
 
 Use this command to update: `sudo apt-get upgrade`
