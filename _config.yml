@@ -7,7 +7,7 @@ exclude:
 lsi: false
 comments: true
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "superscript", "strikethrough"]
+  extensions: ["tables", "superscript", "strikethrough"]
 pygments: true
 theme:
   email: steven.combs@gmail.com
