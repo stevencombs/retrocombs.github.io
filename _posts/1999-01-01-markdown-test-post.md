@@ -31,10 +31,10 @@ ft<sup>2</sup> - 1^(st) - 2^(nd)
 ## Table
 
 | Row 1 | Row 2 |
-| :------------------- | :------------------- |
-| This is item 1 | This is item 2 |
-| This is item 3 | This is item 4 |
-
+| :------------------- ||| :------------------- |
+| This is item 1 ||| This is item 2 |
+| This is item 3 ||| This is item 4 |
+</br>
 ## Inline Code
 
 Use this command to update: `sudo apt-get upgrade`
