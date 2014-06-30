@@ -12,7 +12,7 @@ I use this file to test my CSS changes.
 
 ## Bullet List
 
-Check out [StevenCombs.com][1] for my blog posts.
+Check out [StevenCombs.com][http://www.stevencombs.com] for my blog posts.
 
 * Bullet 1
 * Bullet 2
@@ -54,7 +54,3 @@ puts ""
 ## Block Quote
 
 > Lorem quote txt
-
-<!-- Link References -->
-
-[1]:http://www.stevencombs.com
