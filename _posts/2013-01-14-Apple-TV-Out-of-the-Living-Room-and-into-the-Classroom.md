@@ -1,8 +1,7 @@
----           
+---
 layout: post
-title: Apple TV - Out of the Living Room and into the Classroom
+title: Apple TV in the classroom
 date: 2013-01-14 19:51:19 UTC
-updated: 2013-01-14 19:51:19 UTC
 comments: true
 categories: presentations higher-education apple
 ---
@@ -26,7 +25,9 @@ This 45 minute presentation will discuss the Apple TV and its use in the classro
 * Out of the Box Capabilities and Demonstration
 * AirPlay Demonstration
 * Networking Requirements
-* Questions and Discussion ♫ _Background music before presentation provided by TV Radio, Classical, [A1900 Classical][2]
+* Questions and Discussion ♫
+
+_Background music before presentation provided by TV Radio, Classical, [A1900 Classical][2]_
 
 **Why an TV (slide 3):**  
 
@@ -34,7 +35,7 @@ This 45 minute presentation will discuss the Apple TV and its use in the classro
 * Student friendly
 * Ease of use
 * WirelessCost (Entire secure setup for around $250)
- 
+
 **Hardware (slide 4–5):**  
 Below is a list of the hardware you may need based on your classroom:
 
@@ -47,7 +48,7 @@ You can control the Apple TV with the following devices:
 
 * Apple Remote (included with TV)
 * [Remote app, Free][6] for iPhone/iPod Touch/iPad (iOS devices)
- 
+
 **Out of the Box Capabilities (slide 7) and Demonstration:**  
 Without a connection to any other device, the TV provides the following features to enhance instruction (brainstorming time!):
 
