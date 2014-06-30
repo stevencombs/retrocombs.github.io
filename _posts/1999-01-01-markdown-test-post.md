@@ -13,7 +13,7 @@ I use this file to test my CSS changes.
 ## Bullet List
 
 Check out [StevenCombs.com][1] for my blog posts.
-![title]()
+
 * Bullet 1
 * Bullet 2
 
