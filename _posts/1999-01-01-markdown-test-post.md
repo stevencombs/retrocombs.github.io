@@ -12,8 +12,8 @@ I use this file to test my CSS changes.
 
 ## Bullet List
 
-Check out [Doc's Tech Notes][1] for my tech blog posts.
-
+Check out [StevenCombs.com][1] for my blog posts.
+![title]()
 * Bullet 1
 * Bullet 2
 
@@ -35,9 +35,14 @@ Use this command to update: `sudo apt-get upgrade`
 ## Code Block
 
 ```ruby
-include {};
-  sudo apt-get install arduino
+# Ruby Getting Started with Programming
+# Control flow examples
+# Dr. Steven B. Combs, coding novice
+puts "Do"
+10.times do
+	print "Hello. "
 end
+puts ""
 ```
 
 ## Block Quote
@@ -46,4 +51,4 @@ end
 
 <!-- Link References -->
 
-[1]:http://www.docstechnotes.com
+[1]:http://www.stevencombs.com
