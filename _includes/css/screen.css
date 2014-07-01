@@ -87,22 +87,6 @@ table {
       margin-bottom: 0; }
 }
 
-
-sub.posts, sup.posts {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
-}
-
-sup.posts {
-  top: -0.5em;
-}
-
-sub.posts {
-  bottom: -0.25em;
-}
-
 img {
   display: block;
   margin-left: auto;
