@@ -67,7 +67,7 @@ table {
     border-top: 1px solid #cccccc;
     background-color: white;
     margin: 0;
-    margin-bottom: 12px;
+    padding-bottom: 12px;
     padding: 0; }
     table tr:nth-child(2n) {
       background-color: #f8f8f8; }
