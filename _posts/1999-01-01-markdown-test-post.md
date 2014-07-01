@@ -36,7 +36,7 @@ ft<sup>2</sup> - 1^(st) - 2^(nd)
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-
+  
 ## Inline Code
 
 Use this command to update: `sudo apt-get upgrade`
