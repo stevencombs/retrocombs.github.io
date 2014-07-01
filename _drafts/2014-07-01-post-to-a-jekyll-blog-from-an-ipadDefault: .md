@@ -14,8 +14,9 @@ While my solution doesn't require Editorial, its use makes the workflow much eas
 
 In Editorial, I created a bookmark to my blog's GitHub `_posts` online directory as shown in the image below.
 
-![Online GitHub page to Jekyll _posts](www.stevencombs.com/images/posts/2014-07-01-jekyll-posts.png)
+![Online GitHub page to Jekyll _posts](http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts.png)
 
+See that '+' symbol highlighted? That's the secret sauce.
 
 [1]: http://www.stevencombs.com/web/2014/06/13/why-i-moved-from-blogger-to-jekyll.html "Why I moved from Blogger to Jekyll"
 [2]: http://www.garron.me/en/blog/blogging-from-ipad-jekyll-dropbox.html "Blogging from the iPad with Jekyll"
