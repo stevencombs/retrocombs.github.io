@@ -18,7 +18,7 @@ Several bloggers suggest alternatives:
 
 Each of these options involve extra steps and software and while technically they allow me to post via an iPad, they are not optimal solutions. I think I have a better solution as it allows me to use the wonderful iOS text editor [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8&uo=4&at=10l9vL).
 
-While my solution doesn’t require Editorial, its use streamlines my workflow. For those not familiar with this iOS software, Editorial includes a built-in web browser. This allows me to write and research all within the same app. 
+While my solution doesn’t require Editorial, its use streamlines my workflow. For those not familiar with this iOS software, Editorial includes a built-in web browser. This allows me to write and research all within the same app.
 
 > **Note:** The iOS app [Writing Kit](https://itunes.apple.com/us/app/writing-kit-research-write/id426208994?mt=8&uo=4&at=10l9vL) also has this capability.
 
@@ -28,15 +28,15 @@ I am a new user of GitHub and what some may already know, I recently discovered.
 
 In Editorial, I created a bookmark to my blog’s GitHub `_posts` online directory as shown in the image below.
 
-![Editorial bookmark to GitHub](http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png)
+<a href="http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png" align="left" width="100%" /></a>
 
 When I tap the Editorial bookmark, GitHub provides an online list of the `_posts` directory within its built in web browser as shown in the image below.
 
-![Online GitHub page to Jekyll _posts](http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts.png)
+<a href="http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts.png" align="left" width="100%" /></a>
 
 See the **`+`** symbol highlighted? That’s the secret sauce. If you click the **`+`** symbol, GitHub will present a new online form as shown in the image below.
 
-![Online GitHub new file form page](http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts-form.png)
+<a href="http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts-form.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts-form.png" align="left" width="100%" /></a>
 
 Add the title of the post, copy the markdown from the Editorial text editor, return to the web browser and then paste the markdown code into the web based editor. Update the commit information at the bottom of the page (including optional notes) and finally click the `Commit new file` at the bottom-right of the page. The post is now added to your blog.
 
