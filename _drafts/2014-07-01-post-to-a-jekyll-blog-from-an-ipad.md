@@ -6,17 +6,21 @@ comments: true
 category: web
 ---
 
-In an [earlier post][1], I spent some time discussing why I moved from [Blogger](https://www.blogger.com) to a [Jekyll blog](http://jekyllrb.com/) hosted on [GitHub](https://github.com/). One of the negatives of the move I identified was the inability to post to my blog from an iPad. The reason is that there is no way currently to manage a GitHub repository on an iOS device.
+In an [earlier post][1], I discussed my move from [Blogger](https://www.blogger.com) to a [Jekyll blog](http://jekyllrb.com/) hosted on [GitHub](https://github.com/). One of the negatives of the move I identified was the inability to post to my blog from an iPad. I noted this was not possible because there is currently no way to manage a GitHub repository on an iOS device.
 
-Solutions others recommend include, [waiting until you get home][2], [using a remote connection][3] to a Mac and an iPhone only app, [Octopage](https://itunes.apple.com/us/app/octopart/id592802548?mt=8&uo=4&at=10l9vL). Until Octopage releases an iPad version, I am not interested. I also think the option I present may even be a better solution as it includes the wonderful iOS text editor [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8&uo=4&at=10l9vL). Let's get to it.
+<!-- update earlier post to include edit and link to this post -->
 
-While my solution doesn't require Editorial, its use makes the workflow much easier. I am a relatively new user of GitHub and what some may already know, I recently discovered. You can add files to a GitHub repository using a web browser. Seems GitHub includes a rudimentary edit window that you can use to create code or text files.
+Some ways around this include, [waiting until you get home][2], [using a remote connection][3] to a Mac and an iPhone only app, [Octopage](https://itunes.apple.com/us/app/octopart/id592802548?mt=8&uo=4&at=10l9vL). Since Octopage does not offer an iPhone version, I’m really not interested as I’m not a fan of running iPhone only apps on my iPad. I also think the option I present may even be a better solution as it allows me to use the wonderful iOS text editor [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8&uo=4&at=10l9vL).
+
+While my solution doesn't require Editorial, its use makes my workflow much easier. For those who don’t know, Editorial includes a built-in web browser. This allows you to write, and research all within the same app. No need to switch to another browser. You can also include bookmarks within the editor to quickly launch sites within the app. I will use both of these features as the basis for my all-in-one Jekyll blog posting solution.
+
+I am a relatively new user of GitHub and what some may already know, I recently discovered. You can add files to a GitHub repository using a web browser. GitHub includes a rudimentary web browser based editor that you can use to create/edit code or text files.
 
 In Editorial, I created a bookmark to my blog's GitHub `_posts` online directory. In the image below I show this bookmark.
 
 ![Editorial bookmark to GitHub](http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png)
 
-Once I use the bookmark, GitHub provides an online list of the `_posts` directory as shown in the image below.
+When I tap the Editorial bookmark, GitHub provides an online list of the `_posts` directory within its built in web browser as shown in the image below.
 
 ![Online GitHub page to Jekyll _posts](http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts.png)
 
