@@ -80,11 +80,11 @@ For all of its strengths, there are a few drawbacks to Jekyll. Below is a bullet
 
 * Lack of templates - Unlike Blogger, there is not an abundance of templates available. Jekyll just doesn’t have the user base of those two platforms. Be prepared to look like every other Jekyll blog unless you are ready to roll up your sleeves, dig deep and modify the default [Jekyll bootstrap theme’s](http://jekyllbootstrap.com/usage/jekyll-theming.html) CSS.
 * Learning curve - To use Jekyll, you need to understand GitHub and [GitHub pages](https://pages.github.com/). This doesn’t necessarily mean new *Terminal* commands as there is a pretty fantastic GUI [GitHub Mac app](https://mac.github.com/). In my case, this was not a drawback, but rather a learning opportunity. For some though, this will be a “non-starter.”
-* You can’t post from iOS – I am unable to commit/post to my Jekyll site from an iOS device.
-* No dashboard – Blogger provides an online dashboard to modify blog settings and to create posts/pages. Using Jekyll, this is done manually on a file by file basis. While I don’t consider this a drawback, many new bloggers will. Don’t go into Jekyll unless you are comfortable working without a GUI to manage and create posts for your blog. 
+* ~~You can’t post from iOS – I am unable to commit/post to my Jekyll site from an iOS device.~~ [I now have a solution](http://www.stevencombs.com/web/2014/07/01/post-to-a-jekyll-blog-from-an-ipad.html).
+* No dashboard – Blogger provides an online dashboard to modify blog settings and to create posts/pages. Using Jekyll, this is done manually on a file by file basis. While I don’t consider this a drawback, many new bloggers will. Don’t go into Jekyll unless you are comfortable working without a GUI to manage and create posts for your blog.
 
 ## Summing up
-Blogger served its purpose for a time and was a very good choice for someone who did not want to be saddled down with monthly hosting fees; however, Jekyll and GitHub together is a home run. If you want to maintain your blog on the cheap (free), have full control over your site design, and have availability to a whole slew of text/code editing tools, you will appreciate the switch. 
+Blogger served its purpose for a time and was a very good choice for someone who did not want to be saddled down with monthly hosting fees; however, Jekyll and GitHub together is a home run. If you want to maintain your blog on the cheap (free), have full control over your site design, and have availability to a whole slew of text/code editing tools, you will appreciate the switch.
 
 As I’ve warned, it does come with a learning curve; however, you’ve nothing to loose. You can keep your Blogger site and build your new site on the side. When you like your new site, just make it live! Porting content from your Blogger site to Jekyll is also pretty easy. The Jekyll site provides all the [tools you need](http://jekyllrb.com/docs/migrations/).
 
