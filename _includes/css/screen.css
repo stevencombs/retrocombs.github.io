@@ -103,8 +103,7 @@ img.category {
 }
 
 img.posts {
-  border-left-style: solid;
-  border-left: 10px;
+  border: 10px solid black;
 }
 
 /* End css style for images that appear on category pages */
