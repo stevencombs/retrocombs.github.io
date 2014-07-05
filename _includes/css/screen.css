@@ -88,10 +88,9 @@ table {
 }
 
 img {
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  border-left-style: solid;
-  border-left: 10px;
 }
 
 /* Style for images the appear on category pages */
@@ -101,6 +100,11 @@ img.category {
   width: 100px;
   margin-left: -7px;
   margin-top: -3px;
+}
+
+img.posts {
+  border-left-style: solid;
+  border-left: 10px;
 }
 
 /* End css style for images that appear on category pages */
