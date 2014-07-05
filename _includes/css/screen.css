@@ -185,6 +185,7 @@ nav hr {
 /* CSS for Images in Post */
 #post img {
   max-width: 100%;
+  border: 1px solid black;
 }
 /* End Image CSS */
 
