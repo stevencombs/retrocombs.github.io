@@ -118,12 +118,11 @@
 	li p { line-height: 21px; }
 
 /* #Images
-================================================== */
+================================================= */
 
 	img.scale-with-grid {
 		max-width: 100%;
-		height: auto;
-		border: 10px solid black;}
+		height: auto;}
 
 
 /* #Buttons
