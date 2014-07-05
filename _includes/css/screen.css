@@ -93,6 +93,10 @@ img {
   margin-right: auto;
 }
 
+img.posts {
+  width: 100%;
+}
+
 /* Style for images the appear on category pages */
 
 img.category {
