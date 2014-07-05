@@ -10,6 +10,10 @@ category: web
 
 I use this file to test my CSS changes.
 
+## Image
+
+![This is a test image](http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png)
+
 ## Bullet List
 
 Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
