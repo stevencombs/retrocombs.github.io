@@ -91,6 +91,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border: 10px solid black;
 }
 
 /* Style for images the appear on category pages */
@@ -100,10 +101,6 @@ img.category {
   width: 100px;
   margin-left: -7px;
   margin-top: -3px;
-}
-
-img.posts {
-  border: 10px solid black;
 }
 
 /* End css style for images that appear on category pages */
