@@ -182,9 +182,11 @@ nav hr {
   border: none;
 }
 
+/* CSS for Images in Post */
 #post img {
-  border: 10px solid black;
+  max-width: 100%;
 }
+/* End Image CSS */
 
 .sidebar {
   padding-top: 25px;
