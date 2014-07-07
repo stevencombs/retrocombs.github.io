@@ -14,18 +14,16 @@ I update this page frequently with additional test content. You will notice that
 
 See the bottom of this post for the raw markdown.
 
-## Text Highlights
+## Text Highlights and Bulleted List
 
-This is **bold**.
-
-This is *italicized*.
-
-This text is ~~strikethrough~~.
+* This is **bold**.
+* This is *italicized*.
+* This text is ~~strikethrough~~.
 
 ## Superscripts
 ft<sup>2</sup> - 1^(st) - 2^(nd)
 
-> Need to create `#post.sub` in CSS file.
+> Need to create `#post.sup` in CSS file.
 
 ## Image
 
@@ -33,12 +31,9 @@ ft<sup>2</sup> - 1^(st) - 2^(nd)
 
 > Need to create caption CSS (currently does not render)
 
-## Bullet List
+## HyperLink
 
 Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
-
-* Bullet 1
-* Bullet 2
 
 ## Numbered List
 
@@ -54,6 +49,7 @@ Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
 | zebra stripes | are neat      |    $1 |
 | raspberry pi	| rock			|   $39	|
 
+> Need to add padding to bottom of table
   
 ## Inline Code
 
