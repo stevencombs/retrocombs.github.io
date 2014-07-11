@@ -62,7 +62,7 @@ a:visited {
 table {
   font-size: inherit;
   font: 100%;
-    padding: 0; }
+    padding: 0;}
   table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
@@ -84,7 +84,7 @@ table {
     table tr th :first-child, table tr td :first-child {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
-      margin-bottom: 0; }
+      margin-bottom: 20px; }
 }
 
 img {
@@ -157,10 +157,6 @@ nav hr {
 #social {
   margin-bottom: 10px;
   font-size: 13px;
-}
-
-#post table {
-  padding-bottom: 20px;
 }
 
 #post pre {
