@@ -176,14 +176,6 @@ nav hr {
   padding: 0 .2em;
 }
 
-#post caption {
-  margin: 0 auto;
-  text-align: center;
-  font-size: smaller;
-  background-color: black;
-  padding-bottom: 10px
-}
-
 /* CSS for Sub and Superscript */
 
 #post sub, sup {
