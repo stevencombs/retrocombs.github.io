@@ -48,7 +48,8 @@ Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | raspberry pi	| rock			|   $39	|
-  
+
+
 ## Inline Code
 
 Use this command to update: `sudo apt-get upgrade`
