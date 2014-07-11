@@ -62,7 +62,7 @@ a:visited {
 table {
   font-size: inherit;
   font: 100%;
-    padding: 0;}
+    padding: 0, 0, 50px, 0;}
   table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
@@ -84,7 +84,7 @@ table {
     table tr th :first-child, table tr td :first-child {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
-      margin-bottom: 20px; }
+      margin-bottom: 0; }
 }
 
 img {
@@ -177,6 +177,39 @@ nav hr {
   font-size: 85%;
   padding: 0 .2em;
 }
+
+/* CSS for Sub and Superscript */
+
+#post sub, sup {
+  /* Specified in % so that the sup/sup is the
+     right size relative to the surrounding text */
+  font-size: 75%;
+ 
+  /* Zero out the line-height so that it doesn't
+     interfere with the positioning that follows */
+  line-height: 0;
+ 
+  /* Where the magic happens: makes all browsers position
+     the sup/sup properly, relative to the surrounding text */
+  position: relative;
+ 
+  /* Note that if you're using Eric Meyer's reset.css, this
+     is already set and you can remove this rule */
+  vertical-align: baseline;
+}
+ 
+sup {
+  /* Move the superscripted text up */
+  top: -0.5em;
+}
+ 
+sub {
+  /* Move the subscripted text down, but only
+     half as far down as the superscript moved up */
+  bottom: -0.25em;
+}
+
+/* End Sup-Sub CSS */
 
 #post pre code {
   border: none;
