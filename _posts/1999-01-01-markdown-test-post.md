@@ -48,8 +48,6 @@ Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | raspberry pi	| rock			|   $39	|
-
-> Need to add padding to bottom of table
   
 ## Inline Code
 
