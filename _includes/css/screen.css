@@ -62,7 +62,7 @@ a:visited {
 table {
   font-size: inherit;
   font: 100%;
-    padding: 0, 0, 50px, 0;}
+    padding: 0;} /* Bottom Table Padding Test */
   table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
@@ -84,7 +84,7 @@ table {
     table tr th :first-child, table tr td :first-child {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
-      margin-bottom: 0; }
+      margin: 0; }
 }
 
 img {
@@ -94,14 +94,12 @@ img {
 }
 
 /* Style for images the appear on category pages */
-
 img.category {
   float: left;
   width: 100px;
   margin-left: -7px;
   margin-top: -3px;
 }
-
 /* End css style for images that appear on category pages */
 
 ul.posts {
