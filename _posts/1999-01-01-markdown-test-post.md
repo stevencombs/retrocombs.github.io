@@ -23,8 +23,6 @@ See the bottom of this post for the raw markdown.
 ## Superscripts
 ft<sup>2</sup> - 1^(st) - 2^(nd)
 
-> Need to create `#post.sup` in CSS file.
-
 ## Image
 
 ![This is a test image](http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png)
@@ -48,6 +46,7 @@ Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | raspberry pi	| rock			|   $39	|
+| ------------- | ------------- | ----- | 
 
 
 ## Inline Code
