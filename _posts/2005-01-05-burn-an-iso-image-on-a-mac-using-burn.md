@@ -5,7 +5,7 @@ date: "2005-01-05"
 category: apple
 ---
 
-Burning the contents of an [.iso](http://en.wikipedia.org/wiki/.iso) file should be a relatively intuitive and error free process; however, people often make a simple critical mistake. View my very popular video below that demonstrates how to use the [Burn application](http://burn-osx.sourceforge.net/Pages/English/home.html) to transfer the contents of an .iso file correctly to a CD.
+Burning the contents of an [.iso](http://en.wikipedia.org/wiki/.iso) file should be a relatively intuitive and error free process; however, people often make a simple critical mistake. View my popular video below that demonstrates how to use the [Burn application](http://burn-osx.sourceforge.net/Pages/English/home.html) to transfer the contents of an .iso file correctly to a CD.
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/GHpOXuzMMD8?list=PLC9C416411BBEF132" frameborder="0" allowfullscreen></iframe>
 
