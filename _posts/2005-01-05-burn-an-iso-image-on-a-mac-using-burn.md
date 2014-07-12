@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burn an iso image on a Mac using Burn"
-date: "2014-07-11"
+date: "2005-01-05"
 category: apple
 ---
 
