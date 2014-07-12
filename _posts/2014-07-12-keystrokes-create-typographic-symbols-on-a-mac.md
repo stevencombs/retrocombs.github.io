@@ -38,7 +38,10 @@ I only include symbols I use frequently. The list is formatted as a quick refere
 | – <sup>(en-dash)</sup> | ⌥ \-   |
 | — <sup>(em-dash)</sup> | ⌥ ⇧ \- |
 
-> **Extra Tip:** Here’s a tip that can add some professionalism to your documents, web pages and blog posts. Instead of using the default keyboard apostrophe and quotes:
+  
+**Extra Tip:**
+
+> Here’s a tip that can add some professionalism to your documents, web pages and blog posts. Instead of using the default keyboard apostrophe and quotes:
 
 > 's & "quote"
 
