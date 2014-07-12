@@ -21,7 +21,7 @@ It was a simple process to create the workflow once the Alfred developers provid
 
 Click the image below to download the Alfred workflow:
 
-[![](http://2.bp.blogspot.com/-P6_ZHskR2sI/UVDJJtYdegI/AAAAAAABICU/OVEuZKR7dak/s1600/Alfred+Workflow+Icon+(100+x+80).png)](https://dl.dropboxusercontent.com/u/217516/Alfred%20Extensions/Remove%20duplicate%20contextual%20menu%20items.alfredworkflow)
+[![](/images/common/alfred-workflow-icon100x80.png)](https://dl.dropboxusercontent.com/u/217516/Alfred%20Extensions/Remove%20duplicate%20contextual%20menu%20items.alfredworkflow)
 
 **Install:**
 
