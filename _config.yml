@@ -1,4 +1,10 @@
 ---
+
+name: "Steven B. Combs, Ph.D."
+description: "Steven's blog"
+tagline: "Combsing through the minutia"
+url: "http://www.stevencombs.com"
+
 exclude:
   - LICENSE
   - CNAME
@@ -23,5 +29,3 @@ theme:
     github: stevencombs
     tumblr: stevencombs
     facebook: steven.b.combs
-tagline: "Combsing through the minutia"
-url: "http://www.stevencombs.com"
