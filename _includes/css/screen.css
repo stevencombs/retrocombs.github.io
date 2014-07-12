@@ -216,7 +216,7 @@ sub {
 /* CSS for Images in Post */
 #post img {
   max-width: 100%;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 /* End Image CSS */
 
