@@ -10,29 +10,43 @@ Ever right-click on a file to choose an application to use and find multiple dup
 
 ![](http://2.bp.blogspot.com/-lU3_R1CRxjk/UIb0mkMR6kI/AAAAAAABDEQ/VT4BCpg08v8/s1600/alfred-icon.png)
 
-This Alfred Workflow (PowerPack required) will remove those pesky duplicates quickly. The workflow simply makes it quick and easy to access [a terminal shell script](https://github.com/stevencombs/Remove-Duplicate-Contextual-Menu-Items/blob/master/rdcmi.command) using Alfred. It is a regular extension in my Alfred arsenal.
+This Alfred Workflow (PowerPack required) will remove those pesky duplicates quickly. The workflow simply makes it quick and easy to access a terminal shell script (see bottom of post) using Alfred. Here's how to install the workflow.
 
-It was a simple process to create the workflow once the Alfred developers provided the secret sauce via a tweet to help me through a “I should have thought of that” moment.
-
-> @stevencombs simply use the "Run Script" action instead of "Terminal Command" :)
-> — Alfred App @alfredapp) March 23, 2013
-
-**Download:**
+## Download:
 
 Click the image below to download the Alfred workflow:
 
 [![](http://www.stevencombs.com/images/common/alfred-workflow-icon100x80.png)](https://dl.dropboxusercontent.com/u/217516/Alfred%20Extensions/Remove%20duplicate%20contextual%20menu%20items.alfredworkflow)
 
-**Install:**
+## Install:
 
 * Locate the download
 * Double-click the _Remove Duplicate Contextual Menu Items.alfredworkflow_ – Alfred 2 will automatically install the workflow
 
-**Usage:**
+## Usage:
 
 * Activate Alfred
 * type `rdcmi`
 * Select Remove Duplicate Contextual Menu Items from the Alfred menu - Finder will restart and an audio acknowledgement will complete the process
 * Right-click a file to verify that the duplicates are removed
 
-[View the GitHub Repository](https://github.com/stevencombs/Remove-Duplicate-Contextual-Menu-Items)
+It was a simple process to create the workflow once the Alfred developers provided the secret sauce via a tweet to help me through a “I should have thought of that” moment.
+
+> @stevencombs simply use the "Run Script" action instead of "Terminal Command" :)
+> — Alfred App @alfredapp) March 23, 2013
+
+## Resources:
+
+### GitHub Repository
+
+[Remove Duplicate Contextual Menu Items](https://github.com/stevencombs/Remove-Duplicate-Contextual-Menu-Items)
+
+### Shell Script
+
+```shell
+#!/bin/sh
+cd /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/
+./lsregister -kill -domain local -domain system -domain user
+killall Finder && open /System/Library/CoreServices/Finder.app
+say Duplicate Contextual Menus Removed
+```
