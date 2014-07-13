@@ -43,7 +43,7 @@ It was a simple process to create the workflow once the Alfred developers provid
 
 ### Shell Script
 
-```bash
+```ShellSession
 #!/bin/sh
 cd /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/
 ./lsregister -kill -domain local -domain system -domain user
