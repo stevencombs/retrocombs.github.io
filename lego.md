@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: LEGO MOCs
+title: LEGO
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/lego.svg" />
