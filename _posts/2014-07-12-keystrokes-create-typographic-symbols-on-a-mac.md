@@ -15,7 +15,7 @@ I only include symbols I use frequently. The list is formatted as a quick refere
 **OS X Typographic Symbol Keyboard Reference**  
 
 **Key:  
-⌥ = option
+⌥ = option  
 ⇧ = shift**
 
 | Symbol | Keystroke |
@@ -39,17 +39,6 @@ I only include symbols I use frequently. The list is formatted as a quick refere
 | — <sup>(em-dash)</sup> | ⌥ ⇧ \- |
 
 </br>
-**Extra Tip:**
-
-> Add professionalism to your documents, web pages and blog posts. Instead of using the default keyboard apostrophe and quotes:
-
-> 's & "quote"
-
-> Try using typographically correct versions:
-
-> ’s & “quote”
-
-> The simple use of these correct symbols can add a hint of typographic professionalism to your documents.
 
 Did I miss a commonly used symbol that I should include? Leave me a comment and let me know. It is an easy task to include it and together we can make a better reference.
 
