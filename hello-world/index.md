@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pages
 title: “So many ‘Hello Worlds,’ so many languages”
 date: "2014-07-20”
 category: code
