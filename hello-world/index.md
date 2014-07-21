@@ -1,9 +1,6 @@
 ---
 layout: pages
 title: “So many ‘Hello Worlds,’ so many languages”
-date: "2014-07-20”
-category: code
-comments: false
 ---
 
 As an amateur coder, I often dabble in multiple languages such as Ruby, C, Arduino, Java, etc. Each language has a unique structure and specific syntax requirements (a semi-colon at the end anyone?). 
