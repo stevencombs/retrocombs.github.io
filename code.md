@@ -9,6 +9,12 @@ I dabble in code. I am in no way an expert and users of any code related project
 
 Below are my code related project attempts. I also maintain a [GIST repository](https://gist.github.com/stevencombs/) of code snippets from various projects on [GitHub](https://github.com/stevencombs/).
 
+## Hello World
+
+I’m creating a [Hello World page](http://www.stevencombs.com/hello-world/) that demonstrates a single program in multiple languages. You may find this valuable if you are new to coding and have an interest in the different programming languages and structure.
+
+*Please note that this page is under construction.*
+
 ## Alfred Workflows
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.alfred %}

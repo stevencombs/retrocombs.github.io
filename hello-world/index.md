@@ -7,7 +7,9 @@ As an amateur coder, I often dabble in multiple languages such as Ruby, C, Ardui
 
 To help jog my memory, I thought it would be beneficial for me to create a page that demonstrates the same program in multiple languages.
 
-# Pseudo Code:
+# Pseudo Code
+
+# Flow Chart
 
 # Arduino
 
