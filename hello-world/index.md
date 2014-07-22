@@ -1,9 +1,11 @@
 ---
 layout: pages
-title: “So many ‘Hello Worlds,’ so many languages”
+title: “Hello World - computer languages comparison”
 ---
 
 **This page is in draft form.**
+
+# <code>\> Hello World<blink>_</blink></code>
 
 <!-- Convert to Blog Post -->
 As an amateur coder, I often dabble in multiple languages such as Ruby, C, Arduino, Java, etc. Each language has a unique structure and specific syntax requirements (add a semi-colon at the end anyone?). 
@@ -32,6 +34,10 @@ A [Flow Chart][1415-003] is used to…
 # Languages
 
 <!-- Add intro to languages | Consider Hype HTML5 content to display code and output -->
+
+## Applescript
+
+*Coming soon…*
 
 ## Arduino
 
