@@ -12,10 +12,10 @@ As an amateur coder, I often dabble in multiple languages such as Ruby, C, Ardui
 
 To help jog my memory, I thought it would be beneficial for me to create a page that demonstrates the same program in multiple languages. This can serve as a primer to each language as well as a comparison. I will stick to modern languages and am likely to add more in the future. The list below contains the first languages I will work through.
 
-If you are looking for an app to try out various languages, might I suggest [CodeRunner][1]. It’s available in the Mac app store and is my go to app when I want to try out a snippet of code.
+If you are looking for an app to try out various languages, might I suggest [CodeRunner](!mas). It’s available in the Mac app store and is my go to app when I want to try out a snippet of code.
 <!-- End Blog Post -->
 
-<!-- Add introduction to page here -->
+<!-- Add introduction to page here from excerpts above -->
 
 # Preparation
 Many programmers create an outline of a program before they type a single line of code. This sometimes takes the form of either [pseudo code](!wiki) or a [flow chart](!wiki). I will present both, but before doing so, I will also provide a description of the program in paragraph form.
@@ -24,7 +24,7 @@ Many programmers create an outline of a program before they type a single line o
 This program will...
 
 ## Pseudo Code
-Pseudo code is used to…
+Pseudo code is a program outline that does not include any programming language specific code but is rather a line-by-line description in plain english. I find it useful to copy the actual outline and paste it into the my [integrated development environment](!wiki) (IDE) or program editor. After I paste, I convert each line to a comment. A good IDE, such as [Atom](!g) or [Sublime Text 3](!s), will provide a tool to do this automatically. This creates an outline for my work and ensures I don’t miss a step. This is the same technique to use when you create an essay from an outline.
 
 ```
 comments
@@ -32,6 +32,14 @@ comments
 	program language
 	program author
 	
+begin program
+	execute import function
+	execute input function
+	execute data procession function
+	execute output function
+		execute loop function
+end program
+
 define import function
 	import system information
 
@@ -45,19 +53,19 @@ define data processing function
 	determine if first number is greater than the second
 
 define output function
-	print ('hello ' + person)
-	print ('you are running python version ' + sys.version)
-	print date and time
-	print blank line
-	print first number is greater or less than second number
+	print ‘Hello ' first name last name 
+	print ‘You are running python version ' and the python version information
+	print the date and time
+	print a blank line
+	print the first number is greater or less than the second number
+	print the larger number minus the smaller number
 	print the sum the two numbers
 	print the multiplication of the two numbers
-	print the larger number minus the smaller number
 
-define loop
+define loop function
 	do the following ten times
-		print line number value
-		print “hello world!”
+		print the line number value
+		print “Hello World!”
 		add one to line number value
 	end the loop
 ```
@@ -102,6 +110,3 @@ A Flow Chart is used to…
 ## Ruby
 
 *Coming soon…*
-
-
-[1]: https://itunes.apple.com/us/app/coderunner/id433335799?mt=12&uo=4&at=10l9vL

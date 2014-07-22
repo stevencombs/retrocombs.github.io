@@ -2,27 +2,35 @@
 # Python 3 Example
 # Coding Novice: Steven B. Combs, Ph.D.
 
-# Import
+# begin program
+userInput ()
+dataProcessing()
+dataOutput()
+helloWorldLoop()
+# end program
+
+# define import function
 import sys
 
-# Input Statements
-person = input ('Enter your first and last name separated by a space: ')
-numbers = input('Enter two numbers separated by a space: ')
+def userInput(): # define input function
+    person = input ('Enter your first and last name separated by a space: ')
+    numbers = input('Enter two numbers separated by a space: ')
 
-# Processing Input
+def dataProcessing():
 	# Separate first and last name into two variables (fname & lname)
 	# Separate first and second number into two variables (n1 & n2)
 	# Is first number greater than the second?
 
-# Output Statements
-	print ('Hello ' + person)
-	print ('You are running Python version ' + sys.version)
-	# print date and time
-	print ('')
-	# print first number is greater or less than second number
-	# Sum the two values
-	# Multiply the two values
-	# Root the first value with the second
+def dataOutput():
+    print ('Hello ' + person)
+    print ('You are running Python version ' + sys.version)
+        # print the date and time
+        # print a blank line
+        # print the first number is greater or less than the second number
+        # print the larger number minus the smaller number
+        # print the sum the two numbers
+        # print the multiplication of the two numbers
 
-# Hello World 10 Times with line numbers
-	# 01. Hello World!
+def helloWorldLoop():
+    # Hello World 10 Times with line numbers
+        # 01. Hello World!
