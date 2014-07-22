@@ -5,7 +5,7 @@ title: “Hello World - computer languages comparison”
 
 **This page is in draft form.**
 
-# <code>\> Hello World<blink>_</blink></code>
+<code>\> Hello World<blink>_</blink></code>
 
 <!-- Convert to Blog Post -->
 As an amateur coder, I often dabble in multiple languages such as Ruby, C, Arduino, Java, etc. Each language has a unique structure and specific syntax requirements (add a semi-colon at the end anyone?). 
