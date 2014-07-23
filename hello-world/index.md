@@ -31,6 +31,34 @@ comments
 	program name
 	program language
 	program author
+
+define import function
+	import system information
+	import datetime
+
+define input function
+	request first name
+	request number
+	request another number
+	
+define data processing function
+	is first number greater than the second
+
+define output function
+	print greeting by first name 
+	print programming language version information
+	print the date and time
+	print a blank line
+	print the first number is greater or less than the second number
+	print the larger number minus the smaller number
+	print the sum of the two numbers
+	print the multiplication of the two numbers
+
+define loop function
+	do the following ten times
+		print the line number value
+		print “Hello World!”
+	end the loop
 	
 begin program
 	execute import function
@@ -39,35 +67,6 @@ begin program
 	execute output function
 		execute loop function
 end program
-
-define import function
-	import system information
-
-define input function
-	request first and last name separated by a space
-	request two numbers separated by a space
-	
-define data processing function
-	separate name into two variables named fname & lname
-	separate numbers into two variables named n1 & n2
-	determine if first number is greater than the second
-
-define output function
-	print ‘Hello ' first name last name 
-	print ‘You are running python version ' and the python version information
-	print the date and time
-	print a blank line
-	print the first number is greater or less than the second number
-	print the larger number minus the smaller number
-	print the sum the two numbers
-	print the multiplication of the two numbers
-
-define loop function
-	do the following ten times
-		print the line number value
-		print “Hello World!”
-		add one to line number value
-	end the loop
 ```
 
 ## Flow Chart
