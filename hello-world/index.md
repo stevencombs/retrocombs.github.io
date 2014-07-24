@@ -42,6 +42,10 @@ define input function
 	request another number
 	
 define data processing function
+	convert number strings to integers
+	sum the two numbers
+	subtract the smaller number from the larger
+	multiply the two numbers
 	is first number greater than the second
 
 define output function

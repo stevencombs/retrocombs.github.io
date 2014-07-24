@@ -20,8 +20,12 @@ def userInput():
 	return
 
 def dataProcessing():
-	# Separate first and last name into two variables (fname & lname)
-	# Separate first and second number into two variables (n1 & n2)
+	global sumNums
+	n1 = float(n1)
+	n2 = float(n2)
+	sumNums = n1 + n2
+	# separate first and last name into two variables (fname & lname)
+	# separate first and second number into two variables (n1 & n2)
 	# Is first number greater than the second?
 	return
 
@@ -32,7 +36,7 @@ def dataOutput():
 	print ('')
 	# print the first number is greater or less than the second number
 	# print the larger number minus the smaller number
-	# print the sum the two numbers
+	print ('The sum of the two numbers: ' + sumNums)
 	# print the multiplication of the two numbers
 	return
 
