@@ -3,11 +3,25 @@ layout: default
 ---
 
 <p class="meta">
-  {{ page.date | date: "%B %d, %Y" }} 
+  {{ page.date | date: "%B %d, %Y" }}
   <a href="/">
     <i class="home fa fa-home"></i>
   </a>
 </p>
+
+<script>
+  (function() {
+    var cx = '006409210940588294859:erp-bj2kq1o';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search style="border: 0px;"></gcse:search> 
 
 <h1 class="title">{{ page.title }}</h1>
 
@@ -38,6 +52,6 @@ layout: default
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> 
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 </div>
