@@ -20,9 +20,6 @@
 </head>
 <body>
   <div class="container">
-    <div class="four columns sidebar">
-      {% include sidebar.html %}
-    </div>
 
 <script>
   (function() {
@@ -37,6 +34,10 @@
   })();
 </script>
 <gcse:search></gcse:search>
+
+    <div class="four columns sidebar">
+      {% include sidebar.html %}
+    </div>
 
     <div class="eleven columns content">
       {{ content }}
