@@ -17,4 +17,4 @@ There is probably something you remember seeing on my site; however, you've lost
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+  <gcse:search></gcse:search>
