@@ -34,7 +34,7 @@ Once you create a site, create your first post:
 Your post is now available to the world. You can use the Postach.io [dashboard](http://postach.io/account) to connect your Twitter and Facebook accounts. This will allow you to broadcast your new blog and post to your social networks.
 
 # Markdown support
-Postach.io [Markdown][4] support is experimental. Just visit your Postach.io dashboard and select the option to write in Markdown. I tried to a test post in Markdown but was unsuccessful. All the text was present, but the format was a mess and line numbers did not render sequentially. Seems they still have a ways to go on the Evernote Markdown support.
+Postach.io [Markdown][4] support is experimental. Just visit your Postach.io dashboard and select the option to write in Markdown. I did create a test post in Markdown but was unsuccessful. All the text was present, but the format was a mess and line numbers did not render sequentially. Seems they still have a ways to go on the Evernote Markdown support.
 
 # Format and multimedia
 Evernote allows you to easily insert formatted elements, images and audio within notes. Using the [Evernote](https://itunes.apple.com/us/app/evernote/id406056744?mt=12&uo=4&at=10l9vL) Mac app, these can be included with a simple drag and drop or click of the toolbar. Check out [my Postach.io test post](http://stevencombs.postach.io/use-evernote-to-create-a-blog) to see numerous examples. 
