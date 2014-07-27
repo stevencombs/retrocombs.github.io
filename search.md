@@ -18,9 +18,5 @@ There is probably something you remember seeing on my site; however, you've lost
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-  <gcse:search style="table tr {
-    border: 0px solid;
-    background-color: white;
-    margin: 0;
-    padding: 0;"></gcse:search>
+  <gcse:search></gcse:search>
 </div>
