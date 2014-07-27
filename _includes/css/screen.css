@@ -129,6 +129,10 @@ ul.posts span {
   font-size:10px;
 }
 
+.search {
+  border: 0;
+}
+
 .meta {
   color: #aaa;
   margin: 0 0 10px 0;
