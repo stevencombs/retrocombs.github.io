@@ -130,7 +130,12 @@ ul.posts span {
 }
 
 .search {
-  border: 0;
+  table tr {
+    border: 0px solid;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    }
 }
 
 .meta {
