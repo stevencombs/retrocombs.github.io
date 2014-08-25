@@ -11,6 +11,8 @@ comments: yes
 
 In a recent [post][2] I wrote about my purchase of the [New Trent Airbender 2.0 for my iPad Air][3]. Inside the case box, I noticed a small post card with the banner, BECOME A PILOT USER. New Trent Pilot Users are beta testers that agree to review products. Pilot users have to first apply and share a past review. I shared my previous post. Much to my surprise, I was selected and had a chance to choose another product to review.
 
+![Gladius Air in box](http://www.stevencombs.com/images/posts/2014-06-16-gladius-air.png)
+
 I chose the [New Trent Gladius Air][4] and you can check out my bullet review below to find out what I thought about this product. I was quite happy with previous New Trent product I actually purchased. Will I be happy with this free one?
 
 # Pros
