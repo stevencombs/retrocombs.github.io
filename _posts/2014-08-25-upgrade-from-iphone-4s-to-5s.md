@@ -16,6 +16,7 @@ Since the iPhone 5s was the feature iPhone for the iOS 8 demonstration at this y
 My old iPhone 4s is sluggish and the battery life is dismal. The new iPhone 5s allows me to love my iPhone again with the addition of significant speed improvements, a better screen and new hardware. There are so many improvements, I include a table of contents (TOC) below to guide you to a specific area of interest.
 
 # TOC
+
 1. [Screen](#screen)
 2. [Processor](#processor)
 3. [Multi-tasking](#multi-tasking)
