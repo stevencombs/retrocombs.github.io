@@ -42,8 +42,8 @@ Let’s break the cost down into an easy to read table.
 | **Total ownership cost 2 years** | $2340      | $4200       |  
 |                                  |            |             |  
 | **Savings**                      |            | **$1860**   |
-<p></p>
-That's just under $2000 in two years. With the savings, I can:
+
+<p></p>That's just under $2000 in two years. With the savings, I can:
 
 * activate my mobile hotspot (a couple of times a year)
 * purchase a new iPad every year
