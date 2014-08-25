@@ -62,7 +62,9 @@ a:visited {
 table {
   font-size: inherit;
   font: 100%;
-    padding: 0;} /* Bottom Table Padding Test */
+  padding: 0;
+  margin-bottom: 10px} /* Bottom Table Padding Test */
+
   table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
