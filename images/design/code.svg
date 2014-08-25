@@ -255,15 +255,13 @@
       </g>
       <path d="M103.709,142.173 L495.709,142.173 L495.709,383.173 L103.709,383.173 L103.709,142.173 z" fill="#616264"/>
       <text transform="matrix(1, 0, 0, 1, 299.5, 238.5)">
-        <tspan x="-184.29" y="-76.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">Last login: Fri Aug 22 07:05:14 on console</tspan>
-        <tspan x="-184.29" y="-61.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">Mac/Linux:~ stevencombs$ python</tspan>
-        <tspan x="-184.29" y="-31.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">Python 2.7.5 (default, Mar  9 2014, 22:15:05) </tspan>
-        <tspan x="-184.29" y="-16.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">[GCC 4.2.1 Compatible Apple LLVM 5.0 </tspan>
-        <tspan x="-184.29" y="-1.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">(clang-500.0.68)] on darwin</tspan>
-        <tspan x="-184.29" y="13.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">Type "help", "copyright", "credits" or "license" </tspan>
-        <tspan x="-184.29" y="28.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">for more information.</tspan>
-        <tspan x="-184.29" y="43.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">&gt;&gt;&gt; print </tspan>
-        <tspan x="-112.29" y="43.5" font-family="SourceCodePro-Bold" font-size="12" fill="#FFFFFF">“Hello World!”_</tspan>
+        <tspan x="-184.29" y="-70.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">Python 2.7.5 </tspan>
+        <tspan x="-184.29" y="-47.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">[GCC 4.2.1 Compatible Apple LLVM </tspan>
+        <tspan x="-184.29" y="-24.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">5.0 (clang-500.0.68)] on darwin</tspan>
+        <tspan x="-184.29" y="-1.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">Type "help", "copyright", </tspan>
+        <tspan x="-184.29" y="21.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">"credits" or "license" for more </tspan>
+        <tspan x="-184.29" y="44.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">information.</tspan>
+        <tspan x="-184.29" y="67.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">&gt;&gt;&gt; print “Hello World!”_</tspan>
       </text>
     </g>
   </g>
