@@ -17,12 +17,12 @@ My old iPhone 4s is sluggish and the battery life is dismal. The new iPhone 5s a
 
 # Table of Contents:
 1. [Screen](#screen)
-2. [A7 Processor](#a7processor)
+2. [A7 Processor](#processor)
 3. [Multi-tasking](#multi-tasking)
-4. [M7 Motion](#m7motionchip)
-5. [Lightning connector](#lightningconnector)
+4. [M7 Motion](#motion)
+5. [Lightning connector](#connector)
 6. [Touch ID](#touchid)
-7. [Champaign Gold](#champaigngold)
+7. [Color](#color)
 8. [Camera](#camera)
 9. [Conclusion](#conclusion)
 
@@ -36,7 +36,7 @@ Apps use the extra space to display more content. The user experience is less cr
 
 [Return to TOC](#tableofcontents)
 
-# A7 Processor
+# Processor
 
 Everything seems faster. I am not sure if this is due to the faster iPhone 5s A7 chip or the fact that said chip is 64-bit. I suspect a mixture of both. The speed difference between my iPhone 4s and the 5s is significant and noticeable. iOS 8 will integrate their new "metal" technology on top of the A7 processor to increase graphic performance. I have to think this technology will be of use not only for games, but also other graphic intensive apps and the OS.
 
@@ -48,19 +48,19 @@ Thanks to the new A7 chip mentioned above and an increase in system RAM to 1Gb, 
 
 [Return to TOC](#tableofcontents)
 
-# M7 Motion Chip
+# Motion
 
 The iPhone 5s includes the new M7 motion chip. The purpose of the M7 is to offload the collection of motion data from the processor and conserve precious battery life. The M7 chip constantly collects movement data and does with hardly a sip of battery power. Think of it as a [Fitbit](!g) built into your iPhone 5s. Add the free [Pedometer++](https://itunes.apple.com/us/app/walkmeter-gps-pedometer-walking/id330594424?mt=8&uo=4&at=10l9vL) app and you have a simple way to track all your steps during the day. Better yet, add the free [MyFitnessPal](https://itunes.apple.com/us/app/calorie-counter-diet-tracker/id341232718?mt=8&uo=4&at=10l9vL) app and track your activity and your eating habits. I often misplaced or forgot my Fitbit. I never go anywhere without my iPhone, so this allows me to be more diligent tracking steps.
 
 [Return to TOC](#tableofcontents)
 
-# Lightning connector
+# Connector
 
 Say what you will about the new Lightning connector, but ever since I began using the Lightning connection on my iPad Air, I've been a fan. I'm even more of a fan on the iPhone. The tiny connector is a no muse, no fuse affair. I have no negative comments about the switch from the 30-pin to the Lightning connector.
 
 [Return to TOC](#tableofcontents)
 
-# Touch ID
+# TouchID
 
 The number of folks at work who have an iPhone 5s and do not use touch ID amazes me. I’m not sure if this is due to paranoia, or simply a lack of understanding, but I LOVE touch ID. It just feels more secure and is much more convenient that punching in the four digits necessary prior to Touch ID. The first time you buy apps, music and video with Touch ID, you will never want to punch in a password or pin again. Super excited that other apps will allow access to Touch ID in iOS 8. I can’t wait to find an item on Amazon and with a simple touch of my finger, buy it. Well, I can wait, I’m not sure my accountant can.
 
