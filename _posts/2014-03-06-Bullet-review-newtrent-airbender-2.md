@@ -12,7 +12,7 @@ I had an upcoming business trip to take and I was on the lookout for a good port
 
 While not the most sophisticated case on the market, you can check out my bullet review below to find out why it was the clear choice for my budget.
 
-### Pros
+# Pros
 
 * Excellent functionality, protection and build quality for as little as $60
 * Vertical orientation functionality which is rare for an iPad keyboard case
@@ -25,9 +25,9 @@ While not the most sophisticated case on the market, you can check out my bullet
 * Comfortable key positions
 * Easy transition from [Apple Keyboard](http://www.amazon.com/gp/product/B005DLDTAE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005DLDTAE&amp;linkCode=as2&amp;tag=docstechnotes-20)
 * Rechargeable, via micro USB, battery
-* {UPDATE}: Excellent shipping and packaging materials
+* {UPDATE} Excellent shipping and packaging materials
 
-### Cons
+# Cons
 
 * Configuration is a bit unwieldy and awkward
 * Instructions are a bit vague
@@ -38,7 +38,7 @@ While not the most sophisticated case on the market, you can check out my bullet
 
 ---
 
-### Photo Gallery
+# Photo Gallery
 
 ![][1] ![][2] ![][3] ![][4] ![][5] ![][6] ![][7] ![][8] ![][9] ![][10] ![][11] ![][12] ![][13]
 
