@@ -9,7 +9,7 @@ category: apple
 comments: yes
 ---
 
-I finally took the plunge and upgraded my iPhone 4s to the iPhone 5s. Many of you reading this will notice that we are only a couple of weeks away from an iPhone 6 launch. So why didn’t I wait? I found an incredible deal with Virgin mobile ([learn more about my move to Virgin mobile](http://www.stevencombs.com/apple/2014/08/25/save-money-with-virgin-mobile.html)) on the iPhone 5s. 
+I finally took the plunge and upgraded my iPhone 4s to the iPhone 5s. Many of you reading this will notice that we are only a couple of weeks away from an iPhone 6 launch. So why didn’t I wait? I found an [incredible deal](http://www.virginmobileusa.com/shop/cell-phones/iphone5s-32gb-silver-phone/features/) with Virgin mobile ([learn more about my move to Virgin mobile](http://www.stevencombs.com/apple/2014/08/25/save-money-with-virgin-mobile.html)) on a 32Gb non-contract iPhone 5s. 
 
 Since the iPhone 5s was the feature iPhone for the iOS 8 demonstration at this year’s Apple World Wide Developers Conference, I feel confident I will receive 95% of the iOS 8 features. Any new features will likely come from hardware additions. While the allure of a larger screen will appeal to some, I don’t know that I need it. My iPhone is truly a one hand, quick use device and any extensive iOS usage I reserve for my iPad air.
 
@@ -21,7 +21,7 @@ My old iPhone 4s is sluggish and the battery life is dismal. The new iPhone 5s a
 2. [Processor](#processor)
 3. [Multi-tasking](#multi-tasking)
 4. [Motion](#motion)
-5. [Lightning connector](#connector)
+5. [Connector](#connector)
 6. [TouchID](#touchid)
 7. [Color](#color)
 8. [Camera](#camera)
@@ -39,25 +39,27 @@ Apps use the extra space to display more content. The user experience is less cr
 
 # Processor
 
-Everything seems faster. I am not sure if this is due to the faster iPhone 5s A7 chip or the fact that said chip is 64-bit. I suspect a mixture of both. The speed difference between my iPhone 4s and the 5s is significant and noticeable. iOS 8 will integrate their new "metal" technology on top of the A7 processor to increase graphic performance. I have to think this technology will be of use not only for games, but also other graphic intensive apps and the OS.
+Everything is fast. I am not sure if this is due to the faster iPhone 5s A7 chip or the fact that said chip is 64-bit. I suspect a mixture of both. The speed difference between my iPhone 4s and the 5s is significant and noticeable. iOS 8 will integrate their new ["metal" technology](https://developer.apple.com/metal/) on top of the A7 processor in iOS 8 to increase graphic performance. I have to think this technology will be of use not only for games, but also other graphic intensive apps and the OS.
 
 [Return to TOC](#contents)
 
 # Multi-tasking
 
-Thanks to the new A7 chip mentioned above and an increase in system RAM to 1Gb, multitasking under iOS 7 finally works. On my older iPhone 4s, there were often hiccups in the multitasking, crashing apps that use the camera, and apps that could not return to their previous state without a long refresh.
+Thanks to the new A7 chip mentioned above and an increase in system RAM to 1Gb, multitasking under iOS 7 finally works. On my older iPhone 4s, there were often hiccups in the multitasking, crashing apps that use the camera, and apps that could not return to their previous state without a long refresh. Multi-tasking once again works with the iPhone 5s.
 
 [Return to TOC](#contents)
 
 # Motion
 
-The iPhone 5s includes the new M7 motion chip. The purpose of the M7 is to offload the collection of motion data from the processor and conserve precious battery life. The M7 chip constantly collects movement data and does with hardly a sip of battery power. Think of it as a [Fitbit](!g) built into your iPhone 5s. Add the free [Pedometer++](https://itunes.apple.com/us/app/walkmeter-gps-pedometer-walking/id330594424?mt=8&uo=4&at=10l9vL) app and you have a simple way to track all your steps during the day. Better yet, add the free [MyFitnessPal](https://itunes.apple.com/us/app/calorie-counter-diet-tracker/id341232718?mt=8&uo=4&at=10l9vL) app and track your activity and your eating habits. I often misplaced or forgot my Fitbit. I never go anywhere without my iPhone, so this allows me to be more diligent tracking steps.
+The iPhone 5s includes the new M7 motion chip. The purpose of the M7 is to offload the collection of motion data from the processor and conserve precious battery life. The M7 chip constantly collects movement data and does so with hardly a sip of battery power. Think of it as a [Fitbit](!g) built into your iPhone 5s. 
+
+Add the free [Pedometer++](https://itunes.apple.com/us/app/walkmeter-gps-pedometer-walking/id330594424?mt=8&uo=4&at=10l9vL) app and you have a simple way to track all your steps during the day. Better yet, add the free [MyFitnessPal](https://itunes.apple.com/us/app/calorie-counter-diet-tracker/id341232718?mt=8&uo=4&at=10l9vL) app and track your activity and your eating habits. I often misplace or forget my Fitbit. I never go anywhere without my iPhone, so this allows me to be more diligent tracking steps.
 
 [Return to TOC](#contents)
 
 # Connector
 
-Say what you will about the new Lightning connector, but ever since I began using the Lightning connection on my iPad Air, I've been a fan. I'm even more of a fan on the iPhone. The tiny connector is a no muse, no fuse affair. I have no negative comments about the switch from the 30-pin to the Lightning connector.
+Say what you will about the new Lightning connector, but ever since I began using the Lightning connection on my iPad Air, I've been a fan. I'm even more of a fan on the iPhone. The tiny connector is a no muse, no fuse affair. I have no negative comments about the switch from the 30-pin to the Lightning connector. If you need various size connectors, I’ve found the [AmazonBasics Lightning connector](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=bricinmypockb-20) to be of excellent construction and value. Grab several in various lengths from [4”](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=bricinmypockb-20) to [6’](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=bricinmypockb-20).
 
 [Return to TOC](#contents)
 
