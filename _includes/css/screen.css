@@ -63,7 +63,7 @@ table {
   font-size: inherit;
   font: 100%;
   padding: 0;
-  padding-bottom: 20px} /* Bottom Table Padding Test */
+  padding-bottom: 1000px} /* Bottom Table Padding Test */
 
   table tr {
     border-top: 1px solid #cccccc;
