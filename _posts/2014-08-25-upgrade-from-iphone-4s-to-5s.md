@@ -9,7 +9,9 @@ category: apple
 comments: yes
 ---
 
-I finally took the plunge and upgraded my iPhone 4s to the iPhone 5s. Many of you reading this will notice that we are only a couple of weeks away from an iPhone 6 launch. So why didn’t I wait? I found an incredible deal with Virgin mobile ([learn more about my move to Virgin mobile](!sc)) on the iPhone 5s. Since the iPhone 5s worked well with iOS 8 at this year’s Apple World Wide Developers Conference, I feel confident I will receive 95% of the iOS 8 features. Any new features will likely come from hardware additions. While the allure of a larger screen will appeal to some, it does not for me. My iPhone is truly a one hand quick use device and any extensive iOS usage I reserve for my iPad air.
+I finally took the plunge and upgraded my iPhone 4s to the iPhone 5s. Many of you reading this will notice that we are only a couple of weeks away from an iPhone 6 launch. So why didn’t I wait? I found an incredible deal with Virgin mobile ([learn more about my move to Virgin mobile](http://www.stevencombs.com/apple/2014/08/25/save-money-with-virgin-mobile.html)) on the iPhone 5s. 
+
+Since the iPhone 5s was the feature iPhone for the iOS 8 demonstration at this year’s Apple World Wide Developers Conference, I feel confident I will receive 95% of the iOS 8 features. Any new features will likely come from hardware additions. While the allure of a larger screen will appeal to some, I don’t know that I need it. My iPhone is truly a one hand, quick use device and any extensive iOS usage I reserve for my iPad air.
 
 My old iPhone 4s is sluggish and the battery life is dismal. The new iPhone 5s allows me to love my iPhone again with the addition of significant speed improvements, a better screen and new hardware. There are so many improvements, I include a table of contents (TOC) below to guide you to a specific area of interest.
 
@@ -56,7 +58,7 @@ The number of folks at work who have an iPhone 5s and do not use touch ID amazes
 
 By itself, I don’t particularly like the mix of champaign gold and white. When I add a [Gold Spigen iPhone 5s case](http://www.amazon.com/gp/product/B00FFM7UKG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FFM7UKG&linkCode=as2&tag=bricinmypockb-20), the phone looks great and the combination of the black and gold gives the phone a more industrial look. As my wife says, it classes up the phone a bit. Check out my image below and see if you don’t agree.
 
-![Spigen iPhone 5s case](http://www.stevencombs.com/_images/posts/2014-08-25-iphone-5s-spigen-case.jpg)
+![Spigen iPhone 5s case](http://www.stevencombs.com/images/posts/2014-08-25-iphone-5s-spigen-case.jpg)
 
 # Camera
 
