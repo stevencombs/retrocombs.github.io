@@ -234,13 +234,13 @@
         <path d="M104.209,142.673 L496.209,142.673 L496.209,383.673 L104.209,383.673 L104.209,142.673 z" fill-opacity="0" stroke="#EEEEEE" stroke-width="2"/>
       </g>
       <text transform="matrix(1, 0, 0, 1, 299.5, 238.5)">
-        <tspan x="-184.29" y="-70.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">Python 2.7.5 </tspan>
-        <tspan x="-184.29" y="-47.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">[GCC 4.2.1 Compatible Apple LLVM </tspan>
-        <tspan x="-184.29" y="-24.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">5.0 (clang-500.0.68)] on darwin</tspan>
-        <tspan x="-184.29" y="-1.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">Type "help", "copyright", </tspan>
-        <tspan x="-184.29" y="21.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">"credits" or "license" for more </tspan>
-        <tspan x="-184.29" y="44.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">information.</tspan>
-        <tspan x="-184.29" y="67.5" font-family="SourceCodePro-Bold" font-size="18" fill="#FFFFFF">&gt;&gt;&gt; print “Hello World!”_</tspan>
+        <tspan x="-184.29" y="-70.5" font-family="SourceCodePro-Bold" font-size="18" fill="#EEEEEE">Python 2.7.5 </tspan>
+        <tspan x="-184.29" y="-47.5" font-family="SourceCodePro-Bold" font-size="18" fill="#EEEEEE">[GCC 4.2.1 Compatible Apple LLVM </tspan>
+        <tspan x="-184.29" y="-24.5" font-family="SourceCodePro-Bold" font-size="18" fill="#EEEEEE">5.0 (clang-500.0.68)] on darwin</tspan>
+        <tspan x="-184.29" y="-1.5" font-family="SourceCodePro-Bold" font-size="18" fill="#EEEEEE">Type "help", "copyright", </tspan>
+        <tspan x="-184.29" y="21.5" font-family="SourceCodePro-Bold" font-size="18" fill="#EEEEEE">"credits" or "license" for more </tspan>
+        <tspan x="-184.29" y="44.5" font-family="SourceCodePro-Bold" font-size="18" fill="#EEEEEE">information.</tspan>
+        <tspan x="-184.29" y="67.5" font-family="SourceCodePro-Bold" font-size="18" fill="#EEEEEE">&gt;&gt;&gt; print “Hello World!”_</tspan>
       </text>
     </g>
   </g>
