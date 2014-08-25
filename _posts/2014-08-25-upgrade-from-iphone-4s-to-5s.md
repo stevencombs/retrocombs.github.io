@@ -65,13 +65,13 @@ Say what you will about the new Lightning connector, but ever since I began usin
 
 # TouchID
 
-The number of folks at work who have an iPhone 5s and do not use touch ID amazes me. I’m not sure if this is due to paranoia, or simply a lack of understanding, but I LOVE touch ID. It just feels more secure and is much more convenient that punching in the four digits necessary prior to Touch ID. The first time you buy apps, music and video with Touch ID, you will never want to punch in a password or pin again. Super excited that other apps will allow access to Touch ID in iOS 8. I can’t wait to find an item on Amazon and with a simple touch of my finger, buy it. Well, I can wait, I’m not sure my accountant can.
+The number of folks at work who have an iPhone 5s and do not use touch ID amazes me. I’m not sure if this is due to paranoia, or simply a lack of understanding, but I LOVE touch ID. It just feels more secure and is much more convenient that punching in the four digit pin necessary prior to Touch ID. The first time you buy apps, music and video with Touch ID, you will never want to punch in a password or pin again. I am excited that other apps will allow access to Touch ID in iOS 8. I look forward to a day when I can find an item on Amazon and with a simple touch of my finger, buy it. Well, I can wait, I’m not sure my bank account manager (wife) can.
 
 [Return to TOC](#contents)
 
 # Color
 
-By itself, I don’t particularly like the mix of champaign gold and white. When I add a [Gold Spigen iPhone 5s case](http://www.amazon.com/gp/product/B00FFM7UKG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FFM7UKG&linkCode=as2&tag=bricinmypockb-20), the phone looks great and the combination of the black and gold gives the phone a more industrial look. As my wife says, it classes up the phone a bit. Check out my image below and see if you don’t agree.
+I choose the champaign gold iPhone 5s because it was on sale. By itself, I don’t particularly like the mix of champaign gold and white. When I add a [Gold Spigen iPhone 5s case](http://www.amazon.com/gp/product/B00FFM7UKG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FFM7UKG&linkCode=as2&tag=bricinmypockb-20), the phone looks great and the combination of the black and gold gives the phone a more industrial look. As my wife says, it classes up the phone a bit. Check out my image below and see if you don’t agree.
 
 ![Spigen iPhone 5s case](http://www.stevencombs.com/images/posts/2014-08-25-iphone-5s-spigen-case.jpg)
 
@@ -79,10 +79,12 @@ By itself, I don’t particularly like the mix of champaign gold and white. When
 
 # Camera
 
-I’m not a great photographer. I’m not bad either. The only camera I use is the one included with my iPhone. I use it for blog posts, family pics and work. The iPhone 4s camera was great, but the iPhone 5s is even better. Low light images are sharper with little noise. The bright flash is more useful (although I try my best to never use it). I rarely use the video camera, but have to admit that I find slow motion feature a lot of fun. All in all, the camera upgrade is solid. If you take a lot of pictures, the camera along might be worth the upgrade for you.
+I’m not a great photographer. I’m not bad either. The only camera I use is the one included with my iPhone. I use it for blog posts, family pics and work. The iPhone 4s camera was great, but the iPhone 5s is even better. Low light images are sharper with little noise. The extra bright flash is more useful (even more so when you use it as a flashlight). I rarely use the video camera, but have to admit that I find the slow motion feature a lot of fun. All in all, the camera upgrade is solid. If you take a lot of pictures, the camera alone might be worth the upgrade.
 
 [Return to TOC](#contents)
 
 # Conclusion
 
-If you are on the fence about upgrading your iPhone 4s, you shouldn’t be. Take the plunge. Now is the time to find a great deal on the iPhone 5s and my guess is you won’t be unhappy unless you just have to have the latest and greatest. This is a great phone and of all the iPhone’s I’ve owned, since the original iPhone, this is by far the most usable and feature packed. A family member owns a Samsung Galaxy and after spending some time with that phone, I still think iOS 7 is hard to beat and believe iOS 8 will hit it out of the park to become the best mobile platform available.
+If you are on the fence about upgrading your iPhone 4s, you shouldn’t be. Take the plunge. Now is the time to find a great deal on the iPhone 5s and my guess is you won’t be unhappy unless you just have to have the latest and greatest. This is a great phone and of all the mobile phones I’ve owned, this is by far the most usable and feature packed. I am sure to enjoy my iPhone 5s even more when iOS 8 is released this fall.
+
+Do you have an iPhone 5s feature favorite that I missed? Drop a comment below.
