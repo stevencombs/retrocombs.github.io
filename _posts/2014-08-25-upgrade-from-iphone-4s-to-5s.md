@@ -17,11 +17,11 @@ My old iPhone 4s is sluggish and the battery life is dismal. The new iPhone 5s a
 
 # Table of Contents:
 1. [Screen](#screen)
-2. [A7 Processor](#processor)
+2. [Processor](#processor)
 3. [Multi-tasking](#multi-tasking)
-4. [M7 Motion](#motion)
+4. [Motion](#motion)
 5. [Lightning connector](#connector)
-6. [Touch ID](#touchid)
+6. [TouchID](#touchid)
 7. [Color](#color)
 8. [Camera](#camera)
 9. [Conclusion](#conclusion)
