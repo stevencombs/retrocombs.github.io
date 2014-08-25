@@ -15,6 +15,7 @@ I've written about the [iPhone 5s](http://www.stevencombs.com/apple/2014/08/25/u
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/0spDpIQND9I" frameborder="0" allowfullscreen></iframe>
 
+
 The choice seems obvious. So why isn't everyone using Virgin Mobile? Two main reasons, the initial cost of ownership and the service coverage. I'll first discuss the initial cost and then demonstrate how much money I will save over a two year period. Finally, I'll dive into a discussion of the service and a few additional features and tips to maximize your value.
 
 # The savings are huge!
