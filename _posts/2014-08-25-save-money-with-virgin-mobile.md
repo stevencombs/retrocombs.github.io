@@ -54,6 +54,8 @@ Let’s break the cost down into an easy to read table.
 # Service coverage
 If there is any downside to Virgin, it has to be service availability. Virgin rides on top of the [Sprint network](http://www.sprint.com/netdotcom/). Before you make the switch, check out the [Virgin Mobile coverage map](http://www.virginmobileusa.com/check-cell-phone-coverage "Check Nationwide Prepaid Voice, Data & 4G LTE Coverage | Virgin Mobile"). I've found in our area coverage is good and provides LTE in most of my neck of the woods. A further look at the map reveals several spots nationally without coverage. If you travel frequently or are not in one of the coverage areas, this is not the plan for you.
 
+![Virgin Mobile and Sprint service is often sporadic](http://www.stevencombs.com/images/posts/2014-08-27-virginmobilenolet.png)
+
 For me, Virgin Mobile fits the bill nicely. I have LTE available in my area. I rarely travel to areas that do not have Sprint coverage and due to the nature of my job, I always have ubiquitous Wi-Fi access. If you have a similar situation, you will enjoy Virgin mobile and especially the savings.
 
 # Mobile hotspot
