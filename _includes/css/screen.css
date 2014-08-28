@@ -59,6 +59,10 @@ a:visited {
   color: {{ site.theme.highlight_color }};
 }
 
+.search {
+  border: 1px solid #cccccc;
+}
+
 table {
   font-size: inherit;
   font: 100%;
