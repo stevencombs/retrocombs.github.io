@@ -59,7 +59,7 @@ a:visited {
   color: {{ site.theme.highlight_color }};
 }
 
-.search {
+#search {
   border: 1px solid #cccccc;
 }
 
