@@ -59,13 +59,13 @@ a:visited {
   color: {{ site.theme.highlight_color }};
 }
 
-/* Search Box CSS Test */
+/* Main Page Search Box CSS */
 
 iframe {
   border: 1px solid #cccccc;
 }
 
-/* End Search Box CSS Test */
+/* End Main Page Search Box CSS */
 
 table {
   font-size: inherit;
