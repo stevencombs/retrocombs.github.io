@@ -3,8 +3,7 @@ layout: post
 title: Combine Yurbuds and Apple Earpods to create Yurpods
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
-date: 2014-08-30 13:00
-copyright: © Steven B. Combs, Ph.D. 2014
+date: 2014-08-30 14:00
 category: apple
 comments: yes
 ---
