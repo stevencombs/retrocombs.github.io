@@ -14,7 +14,7 @@ My weekend project was to install [Coder](1) on a RaspberryPi. Coder is a Google
 
 In this post, you will learn a bit more about my experience with this new development platform for the RaspberryPi, learn how to `ssh` into the distribution, and also view a couple of images from the install. Before I prattle on about with my thoughts, check out the video below. It will provide a good sense Coder and its functions.
 
-<iframe src="//www.youtube.com/embed/wH24YwdayFg" frameborder="0" allowfullscreen></iframe>
+<iframe width=“640px” height="360px” src="//www.youtube.com/embed/wH24YwdayFg" frameborder="0" allowfullscreen></iframe>
 
 The developer claims that you can setup Coder on a RaspberryPi in less than 10 minutes. These minutes do not account for the time needed to burn the OS image to an SD card. Coder made this process simple though by providing a Mac installer in the download package. No need to use my [popular, but lengthy, Terminal instructions](3). Took about 7 minutes for my iMac to transfer the OS to the SD card.
 
