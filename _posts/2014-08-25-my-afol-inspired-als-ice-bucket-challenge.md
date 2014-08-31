@@ -11,4 +11,4 @@ comments: yes
 
 It happened this past weekend. I received the [ALS ice bucket](!g) challenge. Not from one individual, but from two and within a 24-hour period. I figured this would happen sooner rather than later and had all but decided if the challenge was sent, I would simply [provide a donation to ALS](http://www.als.org). I know what cold water feels like and spent several hours in the glacier fed 43° waters of [Nisqually](!w) river in the late 80s as part of my Army officer’s training. I was really not interested in having a bucket of ice dumped on me so I decided to utilize my AFOL creativity and created the video below.
 
-<iframe width="100%" height="360px" src="//www.youtube.com/embed/LJzUgR_Y_wo?list=UUjdKGdIl5leQfhJZiHUYFbQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="//www.youtube.com/embed/LJzUgR_Y_wo?list=UUjdKGdIl5leQfhJZiHUYFbQ" frameborder="0" allowfullscreen></iframe>
