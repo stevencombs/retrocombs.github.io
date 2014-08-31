@@ -72,8 +72,8 @@ Coder development is still very early. The version I installed was v0.4. Clearly
 Time to get back to my [Codecademy](6) lessons! Now that I have a robust platform from which to try out my new found HTML/CSS/Javascript skills, I'm ready to try out some experimental projects.
 
 [1]: http://goo.gl/coder
-[2]: http://3.bp.blogspot.com/-Urw-A65pmh0/UjYMGHUaDHI/AAAAAAABLmc/qNJhlg9i3UU/s320/coder+video+screen+capture.png
-[3]: http://www.stevencombs.com/apple/2009/05/27/create-bootable-usb-drive-osx.html
-[4]: http://1.bp.blogspot.com/-jvA6SQu8eMw/UjYN3BYgFcI/AAAAAAABLmo/PxfcjCFraJU/s400/IMG_0450.PNG
-[5]: http://2.bp.blogspot.com/-waf7NHPGSe4/UjYI2-9WeqI/AAAAAAABLmM/HrQBy_70yQk/s400/Coder+wifi+install.png
+[2]: http://www.stevencombs.com/images/posts/2013-09-15-coder-welcome-video.png
+[3]: http://www.stevencombs.com/apple/2009/05/28/create-bootable-usb-drive-osx.html
+[4]: http://www.stevencombs.com/images/posts/2013-09-15-coder.png
+[5]: http://www.stevencombs.com/images/posts/2013-09-15-coder-wifi install.png
 [6]: http://www.codecademy.com/doccombs
