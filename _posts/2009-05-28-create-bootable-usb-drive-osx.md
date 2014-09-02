@@ -16,13 +16,13 @@ For these formats, here's how I create a bootable USB drive using OS X and a cou
 
 Let's get started.
 
-### Download an image to your Desktop
+# Download an image to your Desktop
 
 * Locate a disk image.
 
 If you're experimenting, Google these distros: Moblin, Fedora 10, Ubuntu, CentOS, and Mandriva. Remember, you are looking for live bootable images usually in the .img format.
 
-### Partition the USB drive
+# Partition the USB drive
 
 __NOTE:__ Not all USB drives are created equally. Some will function as bootable drives and some will not. You may have to experiment with different brands before you find one that works. My inexpesnive and trusty [SanDisk Cruzer 8Gb USB Drive](http://www.amazon.com/gp/product/B007JR532C/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007JR532C&linkCode=as2&tag=bricinmypockb-20&linkId=G5YHW6IYGG4VIUHT) works almost everytime, but I make no guarantees for your application.
 
@@ -33,7 +33,7 @@ __NOTE:__ Not all USB drives are created equally. Some will function as bootable
 
 * Click the Apply button (READ WARNING AGAIN!!!) - the disk will be partitioned as free space and with no file format.
 
-### Determine the USB drive device name
+# Determine the USB drive device name
 
 * Insert the USB drive into one of the USB slots.
 * Fire up the _Terminal_ (I prefer the free [iTerm](http://iterm.sourceforge.net/)).
@@ -43,13 +43,13 @@ __NOTE:__ Not all USB drives are created equally. Some will function as bootable
 
 ![](http://farm4.static.flickr.com/3365/3560244296_87b657e343.jpg)
 
-### Unmount the USB drive
+# Unmount the USB drive
 
 * In the _Terminal_, type: `sudo umount /dev/disk2`
 * Enter the system password and press ↩.
 * DO NOT PHYSICALLY REMOVE THE DRIVE! 
 
-### Burn the image to the USB drive
+# Burn the image to the USB drive
 
 * In the _Terminal_, type `dd` and use the following format:
 
@@ -59,7 +59,7 @@ In this example the command was formatted as follows:
 
 `sudo dd if=/Users/stevencombs/Desktop/karmic-netbook-remix-i386.img of=/dev/disk2`
 
-### Raw Support
+# Raw Support
 
 In the example above an _.img_ image was used. If your image is in the _.raw_ format, use the following format for the dd command:In the example above an _.img_ image was used. If your image is in the _.raw_ format, use the following format for the dd command:
 
