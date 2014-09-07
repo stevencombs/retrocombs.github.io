@@ -43,6 +43,23 @@ Let’s break the cost down into an easy to read table.
 |                                  |            |             |  
 | **Savings**                      |            | **$1860**   |
 
+> **UPDATE - September 7, 2014:** We sold our two iPhone 4s phones to [Amazon](https://www.amazon.com/Electronics-Trade-In/b/ref=as_acph_ce_tradein_92_on?ie=UTF8&node=2226766011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-1&pf_rd_r=1EQ7QHB2V5T3RZZESGFN&pf_rd_t=101&pf_rd_p=1504083182&pf_rd_i=2242532011&tag=bricinmypockb-20&camp=0&creative=0&linkCode=ur1&adid=0WCNTQG8YX5EQB6GXZQV&) to for $190.00. That’s means our two-year savings is now $2050.00. If you are also interested in getting some cash for your older phone, use the banner below.
+
+<div class="alignleft">  
+<script type='text/javascript'>
+ amzn_assoc_ad_type = 'banner';
+ amzn_assoc_tracking_id = 'bricinmypockb-20';
+ amzn_assoc_marketplace = 'amazon';
+ amzn_assoc_region = 'US';
+ amzn_assoc_placement = 'assoc_banner_placement_default';
+ amzn_assoc_linkid = 'HNBNC6ZAGL6JCDY5';
+ amzn_assoc_campaigns = 'ce_tradein_iphone';
+ amzn_assoc_banner_type = 'category';
+ amzn_assoc_isresponsive = 'true';
+</script>
+<script src='//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1'></script>
+</div>
+
 <p></p>That's just under $2000 in two years. With the savings, I can:
 
 * activate my mobile hotspot a couple of times a year
