@@ -16,6 +16,8 @@ Several bloggers suggest alternatives:
 - [Use remote connection][3] iOS software to connect to a Mac
 - Use the iPhone only app [Octopage](https://itunes.apple.com/us/app/octopart/id592802548?mt=8&uo=4&at=10l9vL) (I’m really not interested in running iPhone only apps on my iPad)
 
+{UPDATE - September 10, 2014: Carl Hicks gave a [shout out to this post](http://carlhicks.me/mobile-jekyll-posting/) and then added links to [Editorial Python scripts posted on GitHub](https://gist.github.com/MalphasWats) created by Mike, aka, MalphasWats. I haven't given these a try yet, but they appear to be a perfect way to submit and fetch posts to your Jekyll blog within [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8&uo=4&at=10l9vL).}
+
 Each of these options involve extra steps and software and while technically they allow me to post via an iPad, they are not optimal solutions. I think I have a better solution as it allows me to use the wonderful iOS text editor [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8&uo=4&at=10l9vL).
 
 While my solution doesn’t require Editorial, its use streamlines my workflow. For those not familiar with this iOS software, Editorial includes a built-in web browser. This allows me to write and research all within the same app.
