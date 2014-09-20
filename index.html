@@ -32,7 +32,7 @@ title: Home Page
 <!-- <img style="float: left; width: 25%;" src="/images/design/place-holder.svg" title="This is not the tile you are looking for." alt="Place Holder" /> -->
 
 <h1>Latest Posts</h1>
-{% for post in site.posts offset:1 limit:5 %}
+{% for post in site.posts offset:0 limit:5 %}
 <li>
   <a href="{{ post.url }}">
   <h2>{{ post.title }}</h2>
