@@ -6,8 +6,6 @@ comments: false
 category: web
 ---
 
-# Git Atom Markdown Post Test
-
 I make numerous changes to the CSS on this blog to refine the conversion of my markdown posts to HTML. I use this post to view the effects made to the final rendering of the markdown files. This post includes the important HTML tags that are affected when Jekyll renders static pages.
 
 I update this page frequently with additional test content. You will notice that I include notes where I need code modifications/corrections as this is still a work in progress.
