@@ -16,9 +16,14 @@ More exciting is that I will not only serve the city of Columbus, but I also hav
 
 Now it is time for the shameless self promotion. Below are the articles that appear in newspapers or are online. As I discover additional content, I will add them below. I am sure the majority of you will not be interested in these and this will simply serve as my “scrapbook.”
 
-# The Republic - September 20, 2014
+# The Republic (Columbus, Indiana) - September 20, 2014
 
 <a href="http://www.stevencombs.com/images/posts/2014-09-20-combs-president-republic.png"><img src="http://www.stevencombs.com/images/posts/2014-09-20-combs-president-republic.png"></a>
+<center>Click for larger view</center>
+
+# The Tribune (Seymour, Indiana) – September 20, 2014
+
+<a href="http://www.stevencombs.com/images/posts/2014-09-20-combs-president-tribune.png"><img src="http://www.stevencombs.com/images/posts/2014-09-20-combs-president-tribune.png"></a>
 <center>Click for larger view</center>
 
 # College Press Release - September 19, 2014
