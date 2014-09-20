@@ -9,15 +9,22 @@ title: Home Page
 {% for post in site.posts offset:1 limit:1 %}
 <li>
   <a href="{{ post.url }}">
-  <h3>{{ post.title }}</h3>
+  <h2>{{ post.title }}</h2>
   <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
   <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
   </a>
 </li>
 {% endfor %}
+
 <h1>Recent Posts</h1>
-{% for post in site.posts offset:1 limit:2 %}
-... Show the next two posts ...
+{% for post in site.posts offset:2 limit:2 %}
+<li>
+  <a href="{{ post.url }}">
+  <h3>{{ post.title }}</h3>
+  <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+  <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+  </a>
+</li>
 {% endfor %}
 
 <a href="/blog.html"><img nopin="nopin" style="float: left; width: 25%;" src="/images/design/blog.svg" title="Blog roll – the whole enchilada" alt="Blog" /></a>
