@@ -14,7 +14,7 @@ I've served as the interim chancellor, for the old Columbus/Franklin region, for
 
 More exciting is that I will not only serve the city of Columbus, but I also have responsibility for the communities of Scottsburg, North Vernon, Seymour, Greensburg and Nashville. In my interim role, I began to learn much about each of these unique communities. Each comes with differing cultures, challenges and opportunities and it is these unique community qualities that excite me. Since becoming a dean at our Lafayette campus four years ago, I have enjoyed bringing teams together and to work with community leaders to expand educational opportunities. I am pleased and humbled that the college has selected me to continue this work.
 
-Now it is time for the shameless self promotion. Below are the articles that appear in newspapers or are online. As I discover additional content, I will add them below. I am sure the majority of you will not be interested in these and this will simply serve as my “scrapbook.”
+Now it's time for the shameless self promotion. Below are the articles that appear in newspapers or are online. As I discover additional content, I will add them below. I am sure the majority of you will not be interested in these and this will simply serve as my “scrapbook.”
 
 # The Republic (Columbus, Indiana) - September 20, 2014
 
