@@ -5,6 +5,15 @@ title: Home Page
 
 <!-- This page must remain in html format -->
 
+<h1>Latest Post</h1>
+{% for post in site.posts limit:1 %}
+... Show the first post all big ...
+{% endfor %}
+<h1>Recent Posts</h1>
+{% for post in site.posts offset:1 limit:2 %}
+... Show the next two posts ...
+{% endfor %}
+
 <a href="/blog.html"><img nopin="nopin" style="float: left; width: 25%;" src="/images/design/blog.svg" title="Blog roll – the whole enchilada" alt="Blog" /></a>
 
 <a href="/about.html"><img nopin="nopin" style="float: left; width: 25%;" src="/images/design/about.svg" title="More about Steven" alt="About" /></a>
