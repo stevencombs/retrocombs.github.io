@@ -18,7 +18,8 @@ Now it is time for the shameless self promotion. Below are the articles that app
 
 # The Republic - September 20, 2014
 
-![Combs is President](http://www.stevencombs.com/images/posts/2014-09-20-combs-president-republic.png)
+<a href="http://www.stevencombs.com/images/posts/2014-09-20-combs-president-republic.png"><img src="http://www.stevencombs.com/images/posts/2014-09-20-combs-president-republic.png"></a>
+<center>Click for larger view</center>
 
 # College Press Release - September 19, 2014
 
