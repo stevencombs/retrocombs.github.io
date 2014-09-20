@@ -26,7 +26,7 @@ Now it is time for the shameless self promotion. Below are the articles that app
 <a href="http://www.stevencombs.com/images/posts/2014-09-20-combs-president-tribune.png"><img src="http://www.stevencombs.com/images/posts/2014-09-20-combs-president-tribune.png"></a>
 <center>Click for larger view</center>
 
-# <a name=“release”></a>College Press Release - September 19, 2014
+# College Press Release - September 19, 2014 [release]
 
 ## Ivy Tech Community College names Dr. Steven Combs as Columbus campus president
 
