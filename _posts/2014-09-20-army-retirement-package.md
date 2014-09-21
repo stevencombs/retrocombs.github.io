@@ -3,7 +3,7 @@ layout: post
 title: Army Retirement Package
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
-date: 2014-09-19 19:28
+date: 2014-09-20 19:28
 category: military
 comments: yes
 ---
