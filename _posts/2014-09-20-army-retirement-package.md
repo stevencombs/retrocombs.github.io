@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Army Retirement Package
+title: Army retirement package
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-09-20 19:28
