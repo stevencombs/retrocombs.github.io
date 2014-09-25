@@ -4,7 +4,7 @@ title: Army Retirement Package
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-09-20 19:28
-category: military
+category: personal
 comments: yes
 ---
 
