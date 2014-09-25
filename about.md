@@ -13,6 +13,9 @@ style="
   "
 />
 
+<p/>
+<p/>
+
 ## Post about me
 
 <ul id="blog-posts" class="posts">
