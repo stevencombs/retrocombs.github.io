@@ -8,6 +8,8 @@ category: higher-education
 comments: yes
 ---
 
+**SHARE LINK:** [http://bit.ly/combs-president](http://bit.ly/combs-president)
+
 One of the things about a promotion, is the promotion! As is evident in the content below, on September 19, 2014 I was appointed as the [Ivy Tech Community College – Columbus](http://www.ivytech.edu/columbus) campus president. A press release, found at the bottom of this page, was submitted that same day and it didn't take long for the news to spread. Admittedly, I also helped spread the news on my [Facebook](https://www.facebook.com/steven.b.combs/posts/10152716178628839), [LinkedIn](http://www.linkedin.com/in/stevencombs/), and [Google+](https://plus.google.com/118020098182159765872/posts/Sr7swpUDz31) pages. There was an outpouring of congratulations from friends, family, colleagues and community leaders. I can’t thank them enough for their support and confidence.
 
 I've served as the interim chancellor, for the old Columbus/Franklin region, for the past seven months. As the college reorganized, they were in need of a campus president to continue to engage the community, ensure efficient campus operations and serve as the chief customer service officer. As the vice chancellor for academic affairs, these were not an expectation; however, during the past seven months, I began to enjoy these aspects of my interim chancellor role. I am glad to have the opportunity to continue this work in the newly created campus president's position and to serve our newly appointed regional chancellor.
