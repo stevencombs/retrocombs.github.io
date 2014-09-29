@@ -38,7 +38,7 @@ title: Home Page
 <li>
   <a href="{{ post.url }}">
   <h2>{{ post.title }}</h2></a>
-  <div>{{ post.date | date: "%d %B %Y" }} – {{ post.content |truncatehtml | truncatewords: 40 }}</div>
+  <div>{{ post.date | date: "%d %B %Y" }} {{ post.content |truncatehtml | truncatewords: 40 }}</div>
 </li>
 {% endfor %}
 
