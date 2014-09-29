@@ -14,8 +14,8 @@ style="
 />
 This pages serves two purposes: 
 
-1. it lists posts that provide insights into my personal interests
-1. it provides a comprehensive biography that can be used as a narrative for conference and presentation introductions
+• it lists posts that provide insights into my personal interests
+• it provides a comprehensive biography that can be used as a narrative for conference and presentation introductions
  
 While both of these may seem a bit self-serving, the number of times I receive requests for these items amazes me. Now I have an easy to way to provide this information. I simply send the link below.
 
