@@ -12,7 +12,7 @@ I’ve been playing with my new Pebble (more on that very soon) and one of the f
 
 [Watchface Generator for Pebble](http://www.watchface-generator.de/)
 
-Below is a screenshot of my first watchface (it looks much better on the watch). View this page on your iPhone and then click the image to download if you want to wear your Ivy Tech Community College pride on your Pebble watch.
+Below is a screenshot of my first watchface (it looks much better on the watch). View this page on your iPhone and then touch the image to download if you want to wear your Ivy Tech Community College pride on your Pebble watch.
 
 <center>[![Ivy Tech Community College Pebble Watchface](http://www.stevencombs.com/images/posts/2014-10-19-ivy-tech-community-college-pebble-watchface.png)](http://www.stevencombs.com/code/pebble/ivy-tech-watch-face-v1.pbw)  
 Click image to download v1 of the Ivy Tech Community College Pebble Watchface.</center>
