@@ -20,3 +20,5 @@ Click image to download v1 of the Ivy Tech Community College Pebble Watchface.</
 The site uses a simple point and click interface to quickly create a new watchface. My future goal is to learn more about Pebble watchface development so I can include an image refinement, control more of the layout/design and display a weather report. To do this, I must first work my way through [several tutorials](http://developer.getpebble.com/getting-started/watchface-tutorial/part1.html).
 
 Let me know if you download the watchface by dropping a comment below.
+
+Download link from Watchface Generator site: [http://www.wf-g.de/wf/20141019/ivy_tech_watch_face_1/](http://www.wf-g.de/wf/20141019/ivy_tech_watch_face_1/)
