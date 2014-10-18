@@ -50,7 +50,11 @@ Notifications are received via the bluetooth connectivity to the iPhone. This is
 
 I quickly mentioned apps and watch faces. If you want to add functionality beyond just notifications, then you install apps and watch faces to the Pebble. This is done through the [Pebble app](https://itunes.apple.com/us/app/smartwatch+-for-pebble/id711357931?mt=8&uo=4&at=10l9vL) as shown in the image below.
 
+![Pebble iPhone app](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/pebble-iphone-app.png)
 
+As you can see in the image above, the app has two area. The apps and watch faces on the Pebble at the top and the locker on the bottom. The locker is a holding place for all your favorite apps. The current generation of Pebbles can only hold 8 apps or watch faces due to memory limitations. The locker makes this a bit bearable and ensures you have quick access to the favorite apps not on your Pebble. Transfers are quick. Select the app or watch face and select the load option. The app or watch face will quickly load via Bluetooth to the iPhone as shown in the image below.
+
+![Loading a Pebble watch face](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/loading-watchface.png)
 
 
 
