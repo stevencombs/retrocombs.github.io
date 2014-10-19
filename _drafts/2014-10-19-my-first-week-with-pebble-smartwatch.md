@@ -21,16 +21,14 @@ The Pebble is a watch and really good one at that. Even without connectivity to 
 
 ![Pebble celebrates Halloween](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/q83/s960x960/10620492_10152789719678839_828209333834264136_o.jpg)
 
-The first cool feature is the ability to modify the watch face to fit your mood, style or occasion. Other features that some watchfaces include are:
-
-**Without iPhone connectivity**
+A design feature of the Pebble is the ability to modify the watchface to fit your mood, style or occasion. I took some time to create an [Ivy Tech Community College watchface theme](http://www.stevencombs.com/pebble/2014/10/18/my-first-pebble-watchface.html) using an online tool. My design includes basic watchface features such as:
 
 * Time
 * Date
 * Images/graphics
 * Text
 
-**With iPhone connectivity**
+If you connect the Pebble to an iPhone, the watchface can contain additional information such as:
 
 * Battery life
 * iPhone battery life
@@ -38,58 +36,80 @@ The first cool feature is the ability to modify the watch face to fit your mood,
 * Weather
 * News updates
 
-This is a simple list of options that I have noticed in my short time with the Pebble. I am sure there are many more.
+This is a simple list of options that I have noticed in my short time with the Pebble. I am sure there are many more and exploration is part of the fun.
 
 # How it works
 
-By itself, the Pebble is a basic watch with a few advanced time related features and an [eInk display](http://www.eink.com/display_products.html). Add an iPhone and the Pebble becomes something else — an amazing notification center on your wrist. Let me put that in perspective. A watch by itself is a notification center. Traditional watches notify you of the time and date and some even provide notification of chronometer progress and alarms to wake you. The Pebble takes those basic watch features and adds a selection of limitless notifications. If your iPhone can notify you (via the [notification center](http://en.wikipedia.org/wiki/Notification_Center) built into the iPhone), so can the Pebble and that’s the power of connecting the two. 
+The Pebble is a watch with a microprocessor, bluetooth 4.0, 3D accelerometer,
+compass, light sensor, [eInk display](http://www.eink.com/display_products.html), and a rechargeable 5 to 7 day battery. By itself, it uses all this technology to display the time, date and direction. That sure seems like overkill for a watch, right?
 
-In a sense, the Pebble is the ultimate notification center. Notifications come not only in the way of a visual indication, but also through vibration. The vibration is critical to ensure you are made aware of incoming notifications and is very effective. I’ve yet to miss and important notification. When a notification does arrive, it takes over the screen to provide textual information. Not only are you made aware of iPhone notifications, in most instances you can view a summary of the notification. A simple push of a button clears the notification from the watch and returns the selected watch face.
+Add an iPhone and the Pebble becomes something else — an amazing notification center on your wrist. Let me put that in perspective. A watch by itself is a notification center. Traditional watches notify you of the time and date and some even provide notification of chronometer’s progress and alarms to wake you. The Pebble takes those basic watch features and adds a selection of limitless notifications. If your iPhone can notify you (via the [notification center](http://en.wikipedia.org/wiki/Notification_Center) built into the iPhone), so can the Pebble. That’s the power of connecting the two devices and what makes the Pebble special. 
 
-Notifications are received via the bluetooth connectivity to the iPhone. This is a low energy connection. Initially I thought this connectivity would require a serious hit to my iPhone battery life. I’ve found over time that this isn’t the case. Beyond notification, this bluetooth connectivity is also used to transfer apps, watchfaces and firmware updates to the watch. Because the connection is via Bluetooth, you need to be within thirty feet of your iPhone and it must be turned on. When you leave that thirty foot range, the Pebble will shake to let you know you are out of range and the Pebble is now simply a watch.
+The Pebble is the ultimate notification center for your wrist. Notifications are not only visual, but also come through vibrations. The vibration is effective and ensures you are aware of all notifications received. I’ve yet to miss an important notification. When a notification does arrive, it takes over the screen to provide textual information. Not only will you receive an alert of the iPhone notification, in most instances you can view a summary of the notification. For an email or text message, you will learn who the sent a message and a brief synopsis of the message. A simple push of a button clears the notification from the watch and returns the selected watch face.
+
+Notifications are received via the bluetooth connectivity to the iPhone. This is a low energy connection. Initially I thought this connectivity would significantly impact my iPhone’s battery life. I’ve found no significant impact. Beyond notifications, this bluetooth connectivity is also used to transfer apps, watchfaces and firmware updates to the watch. Because the connection is via Bluetooth, you need to be within thirty feet of your iPhone and it must be turned on. When you leave that thirty foot range, the Pebble will vibrate to let you know you are out of range. At that point, the Pebble is once again a simple watch.
 
 I quickly mentioned apps and watchfaces. If you want to add functionality beyond just notifications, then you install apps and watchfaces to the Pebble. This is done through the [Pebble app](https://itunes.apple.com/us/app/smartwatch+-for-pebble/id711357931?mt=8&uo=4&at=10l9vL) as shown in the image below.
 
 ![Pebble iPhone app](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/pebble-iphone-app.png)
 
-As you can see in the image above, the app has two area. The apps and watchfaces on the Pebble at the top and the locker on the bottom. The locker is a holding place for all your favorite apps. The current generation of Pebbles can only hold 8 apps or watchfaces due to memory limitations. The locker makes this a bit bearable and ensures you have quick access to the favorite apps not on your Pebble. Transfers are quick. Select the app or watch face and select the load option. The app or watch face will quickly load via Bluetooth to the iPhone and the progress represented by a vertical green bar that rises from bottom to top as shown in the image below.
+As you can see in the image above, the app has two areas: the apps and watchfaces. The apps and watchfaces are at the top of the Pebble app screen and the locker is on the bottom. The locker holds all your favorite apps. The current generation Pebble can only hold 8 apps or watchfaces due to memory limitations. The locker makes this a bit bearable and ensures you have quick access to favorite apps not on your Pebble. Transfers are quick. Select the app or watchface and select the load option. The app or watchface will quickly load via Bluetooth to the iPhone and the progress represented by a vertical green bar that rises from bottom to top as shown in the image below.
 
 ![Loading a Pebble watch face](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/loading-watchface.png)
 
-These are very small applications and load very quickly. Want to remove an app from the Pebble? Select the app from the iPhone app and choose the trash button. It is immediately removed and a slot is free for another app or watch face. This is a quick and simple process.
+Pebble apps and watchfaces are small and transfer to the iPhone very quickly. Want to remove an app or watchface from the Pebble? Select it from the iPhone app and touch the trash button. It is immediately removed and a slot is free for another app or watchface. This is a quick and simple process.
 
-Operation of the Pebble comes from the use of four buttons. **The Pebble is not a touch screen device**. 
+On the Pebble itself, operation comes from the use of four buttons. **The Pebble is not a touch screen device**. The image from the Pebble site below describes each button function. At first I thought the four buttons would confuse me; however, I am finding over time that they are fairly intuitive.
 
-!! IMAGE OR DESCRIPTION OF BUTTON:
+![Pebble watch buttons](http://i.imgur.com/4i9NeDU.jpg)
 
 Now that we know how the watch operates, let’s look at the good and the bad of the watch.
 
 # The good
+There is a lot to like about this watch. I am going to run through them quickly by using a bullet list.
 
-* eInk technology
-* battery life
-* locate your iPhone
-* iPhone phone notification
-* regular software and firmware upgrades. 2 in the month I’ve owned
-* Quick glance of notifications in meetings or car
-* Comfortable (kind of amazed) and never notice that it is on my wrist until a notification arrives.
+* Cost – at $99, the device is finally below that three figure price and comes at a price point that puts it inline with most iPhone accessories
+* Attractive – although the watch is plastic, I have found the black version to fit well in my both my business and casual wear
+* Durability – not a scratch yet
+* Comfortable – I thought I would notice a watch on my wrist after not wearing one for many years; however, the Pebble and included band both go unnoticed until a notification arrives
+* Water-proof – to 50 meters and I don’t worry if I am in the rain or shower (not sure I would go for a swim though)
+* eInk technology – with the included backlight available at a shake of the wrist, the eInk screen ensures I can view the Pebble in both the darkest rooms and the sunniest outdoors
+* Battery life – battery life is rated at 5 to 7 days and I get very close to that by turning my watch off at night
+* Notifications – as I stated earlier, if your phone can send a notification, your Pebble can receive it and this proves invaluable during meetings or when in the car
+* IFTTT – add even more useful notifications using the [IFTTT](https://ifttt.com/) service and the [IFTTT](https://itunes.apple.com/us/app/ifttt/id660944635?mt=8&uo=4&at=10l9vL) iphone app (I have a notification sent whenever it is [raining](https://ifttt.com/recipes/212988-alert-columbus-indiana-residents-when-it-is-raining) or [snowing](https://ifttt.com/recipes/212987-alert-columbus-indiana-residents-when-it-is-snowing) outside)
+* Regular software and firmware upgrades – since owning the Pebble, there have been two updates to the Pebble app and the Pebble firmware to add new features and shore up bugs
+* Variety of apps and watchfaces – there are a ton of them and entirely too many list here (see some of my favorites in the [Apps section](#apps)) below
 
-* iPhone replaced my Fitbit
+That’s a fine list of good things, so what could possibly be bad?
 
 # The bad
+There are a few things that bother me about the Pebble and below is my list:
 
-Would be great if we didn’t need the phone, but we just aren’t there technologically yet. Even the much lauded Apple Watch will require iPhone connectivity.
+* Requires an iPhone – Wouldn’t it be great if we didn’t need the phone, but we just aren’t technologically there yet (and even the much lauded Apple Watch will require iPhone connectivity)
+* iPhone limitations – Android phone owners have many more app/feature options due to the open nature of Android operating system
+* No two-way communication – you cannot send a message (not even canned ones) back via the Pebble using an iPhone, like Android phone users can, due to the limitations of the iOS operating system
+* 8 slots – while the locker is useful for organizing and maintaining apps and watchfaces, 8 slots limits the Pebble (here’s hoping a later pebble will include memory for additional slots)
+* Overwhelming number of watchfaces – it really is hard to find or review watchfaces at the Pebble store due to the overabundance 
 
-* Android phone owners have many more app/feature options due to the open nature of Android operating system
-* Two-way communication is lacking due to nature iOS
-* Only 8 slots for apps and watchfaces (next version more???)
+**Personal request**  
 
-# Apps and watchfaces I use
+* No Nike+ support – I use the iPhone app regularly and would like to have my run time and distance on my Pebble while running (This is a personal wish and not really a fault of the Pebble, and there are other running apps I could use for this, but I have too many miles logged with Nike)
+
+That’s about it for the limitations, but those are some biggies. Overall though, I don’t find them enough of a distractor to not recommend giving the Pebble a try and if you are an Android users two of those negatives go away.
+
+# Apps
 
 I’ve been mucking around in the Pebble App store and these are the apps I currently use or find intriguing:
 
-* Evernote - access to notes on the Pebble can be a bit tedious. It is often easier to simply break out my iPhone; however, you cannot deny the cool factor of bringing up a note on your watch and if you plan accordingly, you can create a workflow that makes frequently used notes easily accessible. For instance, I use a feature that allows a long press of the down button on the right-hand side to quickly load the Evernote Pebble app. I then set the Evernote Pebble app display my shortcuts upon startup.
-* 
+**Evernote**
+Access to notes on the Pebble can be a bit tedious. It is often easier to simply break out my iPhone; however, you cannot deny the cool factor of bringing up a note on your watch and if you plan accordingly, you can create a workflow that makes frequently used notes easily accessible. For instance, I use a feature that allows a long press of the down button on the right-hand side to quickly load the Evernote Pebble app. I then set the Evernote Pebble app display my shortcuts upon startup.
+
+**Smartwatch+**
+This app requires two pieces, the free Smartwatch+ Pebble app and the $2.99 [Smartwatch+](https://itunes.apple.com/us/app/smartwatch+-for-pebble/id711357931?mt=8&uo=4&at=10l9vL) iPhone app. Using the apps together provides some interesting functionality to the Pebble such as weather, calendar, camera control, stocks and GPS location. Lastly, the Smartwatch+ app allows the installation of another component called SmartStatus which is shown in the image below.
+
+![SmartStatus](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/smartstatus.gif)
+
+I’m not going to include a section of my favorite watchfaces. Those are very personal choices depending on your style and need.
 
 ## BONUS: 11 Geeky things you can do with your Pebble
 For the “geeks” reading this, below is a list of some of the more geekier things you can do with your Peeble. I don’t show how to do these things or which apps you need, a good google search will get that for you, but is just represents the many things the Pebble is capable of doing.
