@@ -3,7 +3,7 @@ layout: post
 title: My first month with the Pebble watch
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
-date: 2014-10-18 11:54
+date: 2014-10-19 15:31
 category: apple
 comments: yes
 ---
@@ -14,7 +14,7 @@ The Apple Watch looks cool and appears to provide some interesting functionality
 
 I won’t go into Pebble’s Kickstarter history, [you can read that yourself](https://en.wikipedia.org/wiki/Pebble_(watch)#History); however, as a tech geek I’ve "watched" (see what I did there?) Pebble development and have been intrigued since the beginning. I almost made a purchase several times; however, I couldn’t get past the $150 price tag. It’s a watch made of plastic with a plastic band and as I’ve stated before, I haven’t worn a watch in years. I just pull my iPhone out when I need a time check or look at my computer. Occasionally I still find a clock on the wall.
 
-Soon after the Apple Watch announcement, Pebble made a  clever and strategic move. They dropped the price of their entry level [Pebble watch to $99](http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=bricinmypockb-20). Given my interest in the Apple Watch and the new lower price tag of the Pebble, it seemed now was a good time to give a smart watch a try. I can now inexpensively determine if I will wear a watch full-time and if the additional functionality beyond time and date is of value to my everyday usage and workflow. 
+Soon after the Apple Watch announcement, Pebble made a  clever and strategic move. They dropped the price of their entry level [Pebble watch to $99](http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=bricinmypockb-20). Given my interest in the Apple Watch and the new lower price tag of the Pebble, it seemed now was a good time to give a smart watch a try. I can now inexpensively determine if I will wear a watch full-time and if the additional functionality beyond time and date is of value to my everyday usage and workflow.
 
 I’ve had my Pebble about a month now and decided to share some initial thoughts for others who may consider a purchase. I will present my thoughts from the perspective of an iPhone user. Android users will have a bit different experience and if you do use an Android phone, I recommend you find a review from an Android perspective.
 
@@ -47,7 +47,7 @@ This is a simple list of options that I have noticed in my short time with the P
 The Pebble is a watch with a microprocessor, Bluetooth 4.0, 3D accelerometer,
 compass, light sensor, [eInk display](http://www.eink.com/display_products.html), and a rechargeable 5 to 7 day battery. By itself, it uses all this technology to display the time, date and direction. That sure seems like overkill for a watch, right?
 
-Add an iPhone and the Pebble becomes something else — an amazing notification center on your wrist. Let me put that in perspective. A watch by itself is a notification center. Traditional watches “notify” you of the time and date and some even provide notification of the chronometer’s progress and feature alarms to wake you. The Pebble takes these basic watch features and adds additional and limitless notifications. If your iPhone can notify you, via the [notification center](http://en.wikipedia.org/wiki/Notification_Center) built into iOS, so can the Pebble. That’s the power of connecting the two devices and what makes the Pebble special. 
+Add an iPhone and the Pebble becomes something else — an amazing notification center on your wrist. Let me put that in perspective. A watch by itself is a notification center. Traditional watches “notify” you of the time and date and some even provide notification of the chronometer’s progress and feature alarms to wake you. The Pebble takes these basic watch features and adds additional and limitless notifications. If your iPhone can notify you, via the [notification center](http://en.wikipedia.org/wiki/Notification_Center) built into iOS, so can the Pebble. That’s the power of connecting the two devices and what makes the Pebble special.
 
 Notifications are not only visual, but also come in the form of a vibration. The vibration is effective and ensures you are aware of all notifications received. I’ve yet to miss an important notification. When a notification does arrive, it takes over the screen to provide textual information. Not only will you receive an alert of the iPhone notification, in most instances you can view a summary of the notification. For an email or text message, you can read who the sent a message and a brief synopsis of the message. A simple push of a button clears the notification from the watch and returns the selected watchface.
 
@@ -70,21 +70,21 @@ On the Pebble itself, operation comes from the use of four buttons. **The Pebble
 Now that we know how the watch operates, let’s look at the good and bad features of the watch.
 
 # The good
-There is a lot to like about this watch and the list below highlights my favorite features. 
+There is a lot to like about this watch and the list below highlights my favorite features.
 
 **Cost**  
-At $99 the device is now below three digits and at a price point that puts it inline with many iPhone accessories. 
+At $99 the device is now below three digits and at a price point that puts it inline with many iPhone accessories.
 
 **Style**  
 Although the watch is plastic, the black model fits well in both my business and casual wear.
 
-**Durability**   
+**Durability**
 Not a scratch yet.
 
 **Comfort**  
 I thought I would notice a watch on my wrist after not wearing one for many years; however, the Pebble and included band both go unnoticed until a notification arrives.
 
-**Charger**     
+**Charger**
 Simple and effective magnetic charger allows quick connection to encourage charging. Takes little time for a full charge.
 
 **Water-proof**  
@@ -94,7 +94,7 @@ I don’t worry if I am in the rain or shower. Even though it is rated to 50 met
 With the included backlight available at a shake of the wrist, the eInk screen ensures I can view the Pebble in both the darkest rooms and the sunniest outdoors. The display is also the key to the battery life.
 
 **Battery life**  
-I turn my watch off every night and get about six days on a charge. I receive a fair amount of notifications daily. 
+I turn my watch off every night and get about six days on a charge. I receive a fair amount of notifications daily.
 
 **Notifications**  
 As I stated earlier, if your phone can send a notification, your Pebble can receive it and this proves valuable during meetings or when in the car.
@@ -113,8 +113,8 @@ That’s a fine list of good things, so what could possibly be bad?
 # The bad
 There are a few things that bother me about the Pebble and below is my list:
 
-**iPhone required**   
-Wouldn’t it be great if we didn’t need the phone? We just aren’t technologically there yet. Even the much anticipated Apple Watch will require iPhone connectivity. 
+**iPhone required**
+Wouldn’t it be great if we didn’t need the phone? We just aren’t technologically there yet. Even the much anticipated Apple Watch will require iPhone connectivity.
 
 **iOS limitations**  
 Android phone owners have many more app/feature options due to the open nature of Android operating system. iOS users are hampered, which leads me to my next item in this list.
@@ -122,11 +122,11 @@ Android phone owners have many more app/feature options due to the open nature o
 **No two-way communication**  
 Using an iPhone, you cannot send a message, not even a canned response, back via the Pebble.
 
-**8 slots**   
+**8 slots**
 While the locker is useful for organizing and maintaining apps and watchfaces, 8 slots limit the Pebble. Here’s hoping a later Pebble hardware upgrade will include memory for additional slots.
 
 **Pebble App Store**  
-It is hard to review watchfaces at the Pebble store due to an overabundance. Even though the store includes some categorization, it doesn't help discovery of the thousands of watchfaces available. 
+It is hard to review watchfaces at the Pebble store due to an overabundance. Even though the store includes some categorization, it doesn't help discovery of the thousands of watchfaces available.
 
 **No Nike+ support**  
 I use the [Nike+](https://itunes.apple.com/us/app/sneaker-crush-release-dates/id661034398?mt=8&uo=4&at=10l4tL&ct=searchlink) iPhone app regularly and would like my Pebble to display my time and distance while running. This is a personal wish and not really a fault of the Pebble. There are other running apps I could use for this, but I have too many miles logged with Nike to make a change.
