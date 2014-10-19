@@ -72,10 +72,11 @@ There is a lot to like about this watch. I am going to run through them quickly 
 * Attractive – although the watch is plastic, I have found the black version to fit well in my both my business and casual wear
 * Durability – not a scratch yet
 * Comfortable – I thought I would notice a watch on my wrist after not wearing one for many years; however, the Pebble and included band both go unnoticed until a notification arrives
+* Magnetic USB charger – simple and effective magnetic charger allows quick connection to encourage charging
 * Water-proof – to 50 meters and I don’t worry if I am in the rain or shower (not sure I would go for a swim though)
 * eInk technology – with the included backlight available at a shake of the wrist, the eInk screen ensures I can view the Pebble in both the darkest rooms and the sunniest outdoors
 * Battery life – I turn my watch off every night and get about 6 days on a charge
-* * Notifications – as I stated earlier, if your phone can send a notification, your Pebble can receive it and this proves invaluable during meetings or when in the car
+* Notifications – as I stated earlier, if your phone can send a notification, your Pebble can receive it and this proves invaluable during meetings or when in the car
 * IFTTT – add even more useful notifications using the [IFTTT](https://ifttt.com/) service and the [IFTTT](https://itunes.apple.com/us/app/ifttt/id660944635?mt=8&uo=4&at=10l9vL) iPhone app (I have a notification sent whenever it is [raining](https://ifttt.com/recipes/212988-alert-columbus-indiana-residents-when-it-is-raining) or [snowing](https://ifttt.com/recipes/212987-alert-columbus-indiana-residents-when-it-is-snowing) outside)
 * Regular software and firmware upgrades – since owning the Pebble, there have been two updates to the Pebble app and the Pebble firmware to add new features and shore up bugs
 * Variety of apps and watchfaces – there are a ton of them and entirely too many list here (see some of my favorites in the [Apps section](#apps)) below
