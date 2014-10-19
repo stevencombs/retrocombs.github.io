@@ -78,7 +78,7 @@ At $99 the device is now below three digits and at a price point that puts it in
 **Style**  
 Although the watch is plastic, the black model fits well in both my business and casual wear.
 
-**Durability**
+**Durability**  
 Not a scratch yet.
 
 **Comfort**  
@@ -113,7 +113,7 @@ That’s a fine list of good things, so what could possibly be bad?
 # The bad
 There are a few things that bother me about the Pebble and below is my list:
 
-**iPhone required**
+**iPhone required**  
 Wouldn’t it be great if we didn’t need the phone? We just aren’t technologically there yet. Even the much anticipated Apple Watch will require iPhone connectivity.
 
 **iOS limitations**  
@@ -122,7 +122,7 @@ Android phone owners have many more app/feature options due to the open nature o
 **No two-way communication**  
 Using an iPhone, you cannot send a message, not even a canned response, back via the Pebble.
 
-**8 slots**
+**8 slots**  
 While the locker is useful for organizing and maintaining apps and watchfaces, 8 slots limit the Pebble. Here’s hoping a later Pebble hardware upgrade will include memory for additional slots.
 
 **Pebble App Store**  
@@ -137,10 +137,10 @@ Those are the limitations I have found. Overall though, I don’t find them enou
 
 I’ve been mucking around the Pebble App store for hours and below are the only two apps I use regularly – and I have tried many.
 
-**Evernote**
+**Evernote**  
 Access to notes on the Pebble can be a bit tedious. It is easier to simply break out my iPhone; however, you cannot deny the cool factor of bringing up a note on your watch. You can create a workflow that makes frequently used notes easily accessible. For instance, I use a feature that allows a long press of the down button on the right-hand side to quickly load the Evernote Pebble app. I then set the Evernote Pebble app to display my shortcuts upon startup. Handy for work notes that include copy machine, long distance and fuel codes that I can never remember.
 
-**Smartwatch+**
+**Smartwatch+**  
 This app requires two pieces, the free Smartwatch+ Pebble app and the $2.99 [Smartwatch+](https://itunes.apple.com/us/app/smartwatch+-for-pebble/id711357931?mt=8&uo=4&at=10l9vL) iPhone app. Together the two provide additional functionality to the Pebble such as weather, calendar, camera control, stocks and GPS location. Lastly, the Smartwatch+ app allows the installation of another component called SmartStatus which is demonstrated in the image below.
 
 ![SmartStatus](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/smartstatus.gif)
