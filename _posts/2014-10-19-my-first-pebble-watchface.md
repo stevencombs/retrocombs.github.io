@@ -8,7 +8,7 @@ category: pebble
 comments: yes
 ---
 
-I’ve been playing with my new Pebble (more on that very soon) and one of the first things I wanted to do was create a unique watchface with my college’s, [Ivy Tech Community College](http://www.ivytech.edu), brand. I found a site that made this quick and easy:
+I’ve been playing with [my new Pebble]() and one of the first things I wanted to do was create a unique watchface with my college’s, [Ivy Tech Community College](http://www.ivytech.edu), brand. I found a site that made this quick and easy:
 
 [Watchface Generator for Pebble](http://www.watchface-generator.de/)
 
