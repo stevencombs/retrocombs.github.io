@@ -49,11 +49,11 @@ It really didn’t take long for me to figure out how to use BitTorrent Sync; ho
 * The more devices you have sharing data, the faster the data transfers.
 
 # Final thoughts
-I’m having a blast finding things to sync between two computers. There’s a piece of mind that comes from knowing your data is stored in two or more locations and that at no time is that data stuck in the cloud somewhere to be hacked. Might be good for those celebrities who insist on sharing intimate images; but I’m not judging! Even more amazing is that this software is free – not even advertiser supported.
+I’m having a blast finding things to sync between two computers. There’s a piece of mind that comes from knowing your data is stored in two or more locations and that at no time is that data stuck in the cloud somewhere to be hacked. Might be good for those celebrities who insist on sharing intimate images; but I’m not judging! Even more amazing is that this software is free; not even advertiser supported.
 
-My next steps are to create sync connections between a device not on my local network and to also give the [BitTorrent Sync][7232-005] iOS app a try. I also want to use this technology the next time I have files to share with family/friends/colleagues that may be either large or sensitive in nature. 
+My next steps are to create sync connections between a device not on my local network and to give the [BitTorrent Sync][7232-005] iOS app a try. I also want to use this technology the next time I have files to share with family/friends/colleagues that may be either large or sensitive in nature. 
 
-Even though the current version is in beta, it exceeds all my expectations and I highly recommend for everyone. It is simple to use and once set up, like the Ronco Cooker, “Set it and forget it!” Anyone else using BitTorrent Sync? Leave a comment and let me know. I am also interested in your use case scenarios.
+Even though the current version is in beta, it exceeds all my expectations and I highly recommend for everyone who needs a safe, fast and secure way to share files. It is simple to use and once set up, like the Ronco Cooker, “Set it and forget it!” Anyone else using BitTorrent Sync? Leave a comment and let me know. I am also interested in your use case scenarios.
 
 [7232-001]: http://5by5.tv/systematic
 [7232-002]: http://brettterpstra.com/
