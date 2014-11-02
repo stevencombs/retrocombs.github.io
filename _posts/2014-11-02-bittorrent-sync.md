@@ -3,7 +3,7 @@ layout: post
 title: BitTorrent Sync - sync without the costly cloud
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
-date: 2014-11-01 18:41
+date: 2014-11-02 18:10
 category: apple
 comments: yes
 ---
