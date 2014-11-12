@@ -85,6 +85,18 @@ A [flow chart](iwiki) is a graphical representation of programming code and is o
 
 There are numerous programming languages available and the number can be overwhelming. To reiterate, the purpose of this page is to demonstrate the use of code to do something beneficial; prompt you to take a break during the day. You will not want to learn each languague, but this quick one page guide might assist you in determining which languge you would like to learn by displaying the unique syntax of each. When complete, I will provide my personal thoughts regarding each language.
 
+Use the table below to quickly jump to a language example:
+
+[Applescript](#applscript)
+[Arduino](#arduino)
+[C](#c)
+[Java](#java)
+[Javascript](#javascript)
+[Processing](#processing)
+[Python](#python)
+[Ruby](#ruby)
+[Swift](#swift)
+
 ## Applescript
 
 *Coming soon…*
