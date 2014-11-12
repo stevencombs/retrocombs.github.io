@@ -15,6 +15,7 @@ def prompt_user():
 	
 def run_timer():
 	# insert timer code here
+	load_web()
 	return
 	
 def load_web():
@@ -23,9 +24,7 @@ def load_web():
 
 prompt_user()
 run_timer()
-load_web()
 
-#	
 #load functions (if needed and based on language):
 #
 #function to prompt user:
@@ -46,9 +45,3 @@ load_web()
 #	* wait for requested period
 #	* run function to load web page
 #	* breaks is equal to breaks plus one
-#
-
-#
-#run prompt user function
-#run loop program function
-#run load URL function

@@ -155,6 +155,7 @@ def prompt_user():
 	
 def run_timer():
 	# insert timer code here
+	load_web()
 	return
 	
 def load_web():
@@ -163,10 +164,9 @@ def load_web():
 
 prompt_user()
 run_timer()
-load_web()
 ```
 
-**Comments:** Coming soon
+**Comments:** Python is a great first language; however, it does have some quirks. Indenting is important and can easily cause errors. There are times when the syntax does not make sense and concepts are not readily apparent. There is a huge user community and outstanding web resources to answer questions. It comes standard as part of a Mac OS X install. It is a useful language for both web and computer applications.
 
 ## Ruby
 
