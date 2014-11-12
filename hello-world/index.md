@@ -109,7 +109,7 @@ There are numerous programming languages available and the number can be overwhe
 
 ## Python
 
-```
+```python
 webbrowser.open('http://www.stevencombs.com')
 ```
 ## Ruby
