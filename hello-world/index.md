@@ -40,39 +40,41 @@ Pseudo code is a program outline that does not include any programming language 
 
 	**TIP:** It is useful to copy the actual outline and paste it into the an [integrated development environment](!wiki) (IDE) or program editor. After the outline is pasted, I convert each line to a comment. A good IDE, such as [Atom](!g) or [Sublime Text 3](!s), will provide a tool to do this automatically. This process creates an outline for my work.
 
-```
-comments
-	program name
-	program language
-	program author
+add comments:
+
+* program name
+* program language
+* program author
 	
-load functions (if needed and based on language)
+load functions (if needed and based on language):
 
-function to prompt user
-	prompt for number of breaks
-	prompt for interval between breaks
-	prompt for URL
-	if number of breaks is 0
-		print message "If you don't need a break, why'd you ask?"
-		quit program
-	if number of breaks is greater than 12
-		print message "You work too hard. Get a social life now!"
-		quit program
+function to prompt user:
 
-function for loop
-	do the following while breaks is less than or equal to requested breaks
-		wait for requested period
-		run function to load web page
-		breaks is equal to breaks plus one
+* prompt for number of breaks
+* prompt for interval between breaks
+* prompt for URL
+* if number of breaks is 0
+	* print message "If you don't need a break, why'd you ask?"
+	* quit program
+* if number of breaks is greater than 12
+	* print message "You work too hard. Get a social life now!"
+	* quit program
 
-function to load web page
-	open default system web browser
-	load requested URL
-		
+function for loop:
+
+* do while breaks is less than or equal to requested breaks
+	* wait for requested period
+	* run function to load web page
+	* breaks is equal to breaks plus one
+
+function to load web page:
+
+* open default system web browser
+* load requested URL
+
 run prompt user function
 run loop program function
 run load URL function
-```
 
 ## Flow Chart
 A [flow chart](iwiki) is a graphical representation of programming code and is often used during the planning process. Below is the flow chart for the program described above.
