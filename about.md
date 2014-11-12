@@ -16,7 +16,7 @@ This pages serves two purposes:
 
 • it lists posts that provide insights into my personal interests and that do not fit within major blog categories  
 • it provides a comprehensive employment biography that can be used as a narrative for conference and presentation introductions
- 
+
 While both of these may seem a bit self-serving, the number of times I receive requests for these items amazes me. Now I have an easy to way to provide this information. I simply send the link below.
 
 Share URL: [http://www.stevencombs.com/about](http://www.stevencombs.com/about)

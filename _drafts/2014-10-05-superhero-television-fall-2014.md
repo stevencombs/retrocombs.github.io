@@ -19,7 +19,6 @@ In its third season, as of this writing, Arrow is currently the gold standard fo
 
 # Flash
 
-
 # Gotham
 Let’s move away from the CW version of the DC universe now. The first new DC shot to hit this fall season was [Gotham](http://www.fox.com/gotham/) on Fox.
 
