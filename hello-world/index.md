@@ -19,6 +19,8 @@ If you are looking for an app to try out various languages, might I suggest [Cod
 # Preparation
 Many programmers create an outline of a program before they type a single line of code. This sometimes takes the form of either [pseudo code](!wiki) or a [flow chart](!wiki). I will present both, but before doing so, I will also provide a description of the program in paragraph form.
 
+Want to skip the background and go right to the languages? Click [here](#languages).
+
 ## Notes and assumptions
 As I began to write the program in various languages, there are assumptions made:
 
@@ -83,53 +85,72 @@ A [flow chart](iwiki) is a graphical representation of programming code and is o
 
 # Languages
 
-There are numerous programming languages available and the number can be overwhelming. To reiterate, the purpose of this page is to demonstrate the use of code to do something beneficial; prompt you to take a break during the day. You will not want to learn each languague, but this quick one page guide might assist you in determining which languge you would like to learn by displaying the unique syntax of each. When complete, I will provide my personal thoughts regarding each language.
+There are numerous programming languages available. To reiterate, the purpose of this page is to demonstrate the use of code to do something beneficial; prompt you to take a break during the day. You will not want to learn each languague, but this quick guide might assist you in determining which languge you want to learn.
 
 Use the table below to quickly jump to a language example:
 
-[Applescript](#applscript)
-[Arduino](#arduino)
-[C](#c)
-[Java](#java)
-[Javascript](#javascript)
-[Processing](#processing)
-[Python](#python)
-[Ruby](#ruby)
-[Swift](#swift)
+* [Applescript](#applscript)
+* [Arduino](#arduino)
+* [C](#c)
+* [Java](#java)
+* [Javascript](#javascript)
+* [Processing](#processing)
+* [Python](#python)
+* [Ruby](#ruby)
+* [Swift](#swift)
 
 ## Applescript
 
 *Coming soon…*
 
+**Comments:** Coming soon
+
 ## Arduino
 
 *Coming soon…*
+
+**Comments:** Coming soon
 
 ## C
 
 *Coming soon…*
 
+**Comments:** Coming soon
+
 ## Java
 
 *Coming soon…*
+
+**Comments:** Coming soon
 
 ## Javascript
 
 *Coming soon…*
 
+**Comments:** Coming soon
+
 ## Processing
 
 *Coming soon…*
+
+**Comments:** Coming soon
 
 ## Python
 
 ```python
 webbrowser.open('http://www.stevencombs.com')
 ```
+
+**Comments:** Coming soon
+
 ## Ruby
 
 *Coming soon…*
 
+**Comments:** Coming soon
+
 ## Swift
 
 *Coming soon…*
+
+**Comments:** Coming soon
