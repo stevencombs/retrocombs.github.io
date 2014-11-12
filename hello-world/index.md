@@ -33,12 +33,12 @@ This program will prompt the user for a number of breaks, the amount of time bet
 
 At each break interval, the requested URL will open in the default browser as a reminder to take a break.
 
-	The inspiration for this program is from the first assignment found in the Udacity course, [Introduction to the basics of programming using Python](https://www.udacity.com/course/ud036). It is a good example of how to use Python to create useful programs and implement into your daily workflow.
+> The inspiration for this program is from the first assignment found in the Udacity course, [Introduction to the basics of programming using Python](https://www.udacity.com/course/ud036). It is a good example of how to use Python to create useful programs and implement into your daily workflow.
 
 ## Pseudo Code
 Pseudo code is a program outline that does not include any programming language specific code but is a plain english line-by-line description. Below is the pseudo code for the description above.
 
-	**TIP:** It is useful to copy the actual outline and paste it into the an [integrated development environment](!wiki) (IDE) or program editor. After the outline is pasted, I convert each line to a comment. A good IDE, such as [Atom](!g) or [Sublime Text 3](!s), will provide a tool to do this automatically. This process creates an outline for my work.
+> **TIP:** It is useful to copy the actual outline and paste it into the an [integrated development environment](!wiki) (IDE) or program editor. After the outline is pasted, I convert each line to a comment. A good IDE, such as [Atom](!g) or [Sublime Text 3](!s), will provide a tool to do this automatically. This process creates an outline for my work.
 
 add comments:
 
