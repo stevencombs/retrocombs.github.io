@@ -8,7 +8,7 @@ category: entertainment
 comments: yes
 ---
 
-Growing up I was a huge fan of the [DC comics](http://www.dccomics.com/) superheroes. My old comic book collection from my childhood verify this statement. The majority of the books in the collection are from DC comics with my favorites being Superman, Batman, Flash and Green Lantern. My absolute favorites however, where superhero teams such as the Justice League, Justice Society and the Legion of Superheroes. 
+Growing up I was a huge fan of the [DC comics](http://www.dccomics.com/) superheroes. My old comic book collection from my childhood verify this statement. The majority of the books in the collection are from DC comics with my favorites being Superman, Batman, Flash and Green Lantern. My absolute favorites however, where superhero teams such as the Justice League, Justice Society and the Legion of Superheroes!
 
 Growing up I would watch any cartoon that involved the DC heroes. When the [Super Friends](http://en.wikipedia.org/wiki/Super_Friends) hit the airwaves, I was remember being very excited as I would finally see a DC superhero team together on TV. 
 
