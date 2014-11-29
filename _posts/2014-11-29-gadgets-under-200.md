@@ -9,7 +9,7 @@ category: holiday, gadgets
 comments: yes
 ---
 
-To assist others with some holiday shopping, today I present my recommended 2014 holiday gadget buys under $200. Any of these gadgets are sure to make the gadget fan in your life happy. While $200 is the max on my list, you will also find some downright great bargains that offer a lot for their gadget buck. Every gadget below is one I own and use. I present them in alphabetical order.
+<a href="http://www.stevencombs.com/images/posts/2014-11-29-acer-c720-chromebook.png"><img src="http://www.stevencombs.com/images/posts/2014-11-29-acer-c720-chromebook.png" align='right'></a>To assist others with some holiday shopping, today I present my recommended 2014 holiday gadget buys under $200. Any of these gadgets are sure to make the gadget fan in your life happy. While $200 is the max on my list, you will also find some downright great bargains that offer a lot for their gadget buck. Every gadget below is one I own and use. I present them in alphabetical order.
 
 In each case, I list the normal price of the item. As is the case this time of year, be sure to check my links (click the item name) or with other online vendors for even lower prices during the holiday season. I’ve not included images in this post (its a lot of work folks!) and will probably regret it; however, I encourage you to take a look at each device using the link provided.
 
