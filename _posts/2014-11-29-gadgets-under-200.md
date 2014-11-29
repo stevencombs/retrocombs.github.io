@@ -5,7 +5,7 @@ author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-11-29 17:25
 copyright: © Steven B. Combs, Ph.D. 2014
-category: holiday, gadgets
+category: gadgets
 comments: yes
 ---
 
