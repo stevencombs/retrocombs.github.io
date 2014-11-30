@@ -39,6 +39,8 @@ In each case, I list the normal price of the item. As is the case this time of y
 
 **[Soundfreaq Sound Kick][0386-029]**, $88 - I wasn’t sure I would include this one as I have the older SFQ-04 model and it is becoming hard to find; however, when I travel, I like to have a good bluetooth speaker to enhance the audio of movies and/or music on my Mac or iOS devices. I also use the Soundfreaq with the [White Noise][0386-030] iOS app to drown out sounds when sleeping in noisy hotels. The Soundfreaq Sound Kick has great sound for its size and lasts for about 6-8 hours on its rechargeable battery. It also includes a USB charging port which has been very handy.
 
+** {UPDATE: 2011-11-30}[Zagg Folio Case for iPad Air](0386-031)**, $60 - If you need a bluetooth keyboard for your iPad Air (or other models for that matter), I highly recommend the Zagg Folio line. The keyboard has a very nice feel, includes selectable multi-color backlit keys and has outstanding battery life. iPad removal is easy to facilitate using without a keyboard.
+
 That’s my gadget list for 2014. There are many more devices I use; however, I choose to list those I thought the most interesting and made the best gift ideas. If I happen to think of something else, I’ll be sure to pop back in and add it. I’ll include an {Updated} label. Have a question about any of these gadgets? Drop a comment below. I’ll do my best to answer your question. I’m also curious what gadgets you used this past year, so list those in the comments below as well.
 
 [0386-001]: http://www.amazon.com/gp/product/B00FNPD1VW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FNPD1VW&linkCode=as2&tag=bricinmypockb-20
@@ -71,3 +73,4 @@ That’s my gadget list for 2014. There are many more devices I use; however, I 
 [0386-028]: http://www.amazon.com/gp/product/B00554S24W/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00554S24W&linkCode=as2&tag=bricinmypockb-20
 [0386-029]: http://www.amazon.com/gp/product/B007XOQI4S/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007XOQI4S&linkCode=as2&tag=bricinmypockb-20
 [0386-030]: https://itunes.apple.com/us/app/white-noise/id289894882?mt=8&uo=4&at=10l9vL
+[0386-031]: https://www.amazon.com/ZAGG-Backlit-Bluetooth-Keyboard-Air-Black/dp/B00EXPSEFQ/ref=as_sl_pc_ss_til?tag=bricinmypockb-20&linkCode=w01&linkId=UX2XXZSGR6VZ4MFD&creativeASIN=B00EXPSEFQ
