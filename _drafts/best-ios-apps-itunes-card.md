@@ -9,6 +9,8 @@ category: apple
 comments: yes
 ---
 
+If you are like me, you are bound to get an iTunes card at some point during your holiday. So what will you spend your iTunes dollars on? I have some recommendations.
+
 Byword
 DisplayPad
 Editorial
