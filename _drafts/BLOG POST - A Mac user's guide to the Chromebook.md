@@ -10,25 +10,28 @@ comments: yes
 
 I like technology. I can't help myself. I try it all and one of the products taunting me was a Chromebook. I am unsure why the device fascinates me. Is it the simplicity? Is it the synchronization with the Chrome browser on my Mac? Was the Linux underpinnings? I'm really not sure, but I wanted one!
 
-I had tried Chrome OS on an old Acer netbook, but the experience was a hack and as such, so was the performance. On top of that, my trial occurred almost a year and a half ago. My understanding is that the Chrome OS has come a long way and I wanted a "real" Chromebook. One with the logo on the case and one created exclusively for the Chrome OS. I choose the Acer C720.
+I had tried Chrome OS on an old Acer netbook, but the experience was a hack and as such, so was the performance. On top of that, my trial occurred over two years ago. My understanding is that Chrome OS has come a long way and I want to experience a "real" Chromebook - one with the logo on the case and one created exclusively for the Chrome OS. I choose the [Acer C720](!a).
 
 [IMAGE OF MY Chromebook]
 
-During Black Friday 2014, Amazon sold the Acer C720 Chromebook for only $150. Amazon reviews were excellent (4.5 stars). This was a comfortable price-point so I pulled the trigger. This blog post will not be a review of this particular Chromebook. That may come later. What this post provides is a look at Chrome OS from an Mac user's perspective. It will contain my observations and also some tips and trick to make the transition a bit easier for anyone who wants to move from a Mac to a Chromebook or who wants a Chromebook as a supplement to their Mac. Let's get started.
+During Black Friday 2014, Amazon sold the [Acer C720 Chromebook](!a) for only $150. Amazon reviews were excellent (4.5 stars). This was a comfortable price-point so I pulled the trigger. This blog post will not be a review of this particular Chromebook. That may come later. What this post provides is a look at Chrome OS from a Mac user's perspective. It will contain my observations and also some tips and trick to make the transition a bit easier for Mac users who want to transition to a Chromebook or who want a Chromebook to supplement their Mac.
 
+# Table of Contents
+
+1. [Performance](#Performance)
+1. [Keyboard](#Keyboard)
+1. [Touchpad](#Touchpad)
+1. [Files](#Files)
+1. [Search](#Search)
+2. [Browser](#Browser)
+3. [Applications](#Applications)
+3. [Shelf](#Shelf)
+3. [Screenshots](#Screenshots)
 
 # Performance
-The most important feature of any computer is performance. All the tools in world don't matter if the reaction times are sluggish and frustrating. Luckily, at least on the Acer C720, performance is excellent. My Chromebook boots up and connects to my Wi-Fi network in about 10 secs. Not a single Mac I own can claim those speeds.
+The most important feature of any computer is performance. All the apps in app store don't matter if performance is sluggish and cause frustration. Luckily, at least on the Acer C720, performance is excellent. My Chromebook boots up and connects to my Wi-Fi network in about 10 secs. Not a single Mac I own can claim those speeds. 
 
-Normal operations feels generally as speedy. Opening the Chrome browser is instantaneous as is almost every selection made. Given the Chrome OS Linux pinnings, this is not really a surprise to me. The Linux base is extremely stripped down to only include the necessities. 
-
-# Track pad
-The track pad on a Chromebook is very similar to the track pad found on 
-
-# File management
-Local versus Google Drive
-Move files using the Files app
-
+Normal usage responsiveness is similar to an iPad. Click on the Chrome browser and it immediately appears. Search results appear as quickly as your internet connection can provide them. Shutdown is immediate. Given the [Chrome OS Linux](!w) underpinnings combined with the on board solid state drive (SSD), this level of performance is expected and appreciated. All in all, performance and battery life on a modern Chromebooks are very similar to the current crop of entry level Mac laptops.
 
 # Keyboard
 When you take a quick look at the keyboard on a Chromebook, the differences between it and the Mac are visibly noticeable. There is no command key (key icon), no shift lock, and functions keys are tied to the Chromebook and OS features. On my particular Acer C720 Chromebook, keys were large, comfortable and easy to read. This made the transition a bit easier.
@@ -41,11 +44,44 @@ ctrl + alt + ?
 
 This is a fabulous tool that I wish were integrated in to OS X. To help the new Mac user out, I've included a list of keyboard shortcuts that will make your transition a bit easier.
 
-Screen Capture
-Screen Area Capture
+# Touchpad
+The touchpad on a Chromebook is very similar to the track pad found on a Mac laptop sans a few features. There is a single button underneath the touchpad, that I rarely use, and no other buttons. Scrolling direction be default mimics old school scrolling. If you want the modern Apple approach to scrolling, select the Australian scrolling option in the touchpad settings. Scrolling will now be more familiar and natural.
 
-# Spotlight
-Similar to Apple's Spotlight feature, Chrome OS include Google Search integration within the operating system. A simple tap of the magnifier button found above the left shift key, will display the Chrome OS app launcher as shown in the image below. 
+Currently, there is no pinch to zoom option or multi-finger gestures. The only features currently are:
+
+* tap to select
+* two-finger tap right-click
+* two-finger scroll
+
+That's pretty limited; however, the experimental features page (enter chrome:flags in the URL box) does list pinch-to-zoom options so there is hope that these features are on the way.
+
+# Files
+File management is basic, and I'm talking bare bones necessities. The Files app, shown in the image below, is a stripped down version of the Finder found on a Mac. You won't find handy items like tabs or shortcuts. 
+
+{INSERT FILES APP IMAGE} 
+
+There are two areas within the left-hand files area of the app: Google Drive files at the top and local files at the bottom. Local files are files stored on the Chromebook. They do not automatically sync to Google Drive. This is important to know. If you want access to the files on your Mac, you need to save documents and files to Google Drive. This is not the default. You can change the default however in the Settings using these steps:
+
+1. Select the  Settings icon.
+2. Click Show advanced settings at the bottom of the page.
+3. In the "Downloads" section, click the Change button to pick a default download location.
+
+I use a folder on Google Drive named *Downloads*. Any download on my Chromebook will copy to my Mac when using the [Google Drive for Mac](!g) app. This location also becomes the default location for all new files created by other apps on the Chromebook.
+
+You can perform basic file management with the Chrome OS Files app such as:
+
+* search local and Google Drive files
+* move files
+* copy files
+* create folders
+* rename files/folders
+* delete files/folders
+* share Google Drive files
+
+You can also view thumbnail previews of files. Think of this as a scaled down version of **Quick Look** on the Mac. Move the cursor over the thumbnail at the bottom of the Files app as shown in the image below and a mini version of the document appears.
+
+# Search
+Similar to **Spotlight**, Chrome OS includes Google Search integration within the operating system. A simple tap of the magnifier button found above the left shift key will display the Chrome OS app launcher as shown in the image below. 
 
 {INSERT IMAGE OF GOOGLE SEARCH BUTTON AND SCREENSHOT}
 
@@ -57,7 +93,7 @@ At the top of the launcher is the search box. It is active by default so you can
 
 To select a search result, use the arrow up/down keys to highlight and press return.
 
-You can also use the search box to make quick calculations and conversions, as you can with spotlight. Instead of a search query, just enter your calculation or conversion such as:
+You can also use the search box to make quick calculations and conversions, as you can with Spotlight. Instead of a search query, just enter your calculation or conversion such as:
 
 * 2+2*7  
 * tablespoons in a 1/4 cup
@@ -65,13 +101,38 @@ You can also use the search box to make quick calculations and conversions, as y
 
 The results will appear as the second result. The first result will perform a Google search for the query. This is very handy!
 
-Missing are immediate search results for items such as showtimes, weather, stocks, etc. Inclusion of these results would make the search box a more useful and robust tool that is on par with other Mac launch/search tools such as Spotlight, Alfred and Launchbar.
+Missing are immediate search results for items such as showtimes, weather, stocks, etc. I've become use to these in the iPhone [Google App](!itu). Inclusion of these results would make the search box more useful and on par with other Mac launch/search tools such as Spotlight, Alfred and Launchbar.
 
-# Chrome Browser
-If you use the Chrome Browser on your Mac the transition to a Chromebook will be much easier. As long as you log into your Google account while using Chrome and have all your data sync...
+# Browser
+If you use the Chrome Browser on your Mac the transition to a Chromebook will be a breeze.  As long as you log into your Google account while using Chrome on the Mac, and data sync on, all your bookmarks, passwords, apps, etc will sync to your new Chromebook. Adding additional items to your Chromebook will then transfer back to your Mac Chrome browser almost instantaneously. I won't go into a review of the Chrome browser, but will say that using it on both the Mac and on the Chromebook, I prefer using it on the Chromebook. 
 
-# iCloud is a life-saver
+# Applications
+On of the things I noticed from my previous use of Chrome OS from two years ago is that the Chromebook now has true applications. Before, applications almost exclusively lived online and required a Wi-Fi connection. And while most apps you find in the Web Store are nothing more than bookmarks to online apps, more and more of them are now true native apps. The Web Store even has a new area devoted to these [offline apps](http://goo.gl/u5Dpq).
+
+Apps are easy to install and the experience is very similar to the Mac App Store. Search for an app and hit the Free or Cost button. The app is immediately installed. You don't even have to enter your password again for free apps as you do on the Mac App Store. Once installed, the app icons appear in the Apps launcher locate on the shelf. Appearance of the icons is similar to the Applications icon found on the OS X Dock. A simple click of the icon will load the app.
+
+# Shelf
+The Shelf is similar to the Dock in OS X. As mentioned above, it contains the Apps launcher and can store any app shortcuts you place on it. Like the dock, it can auto-hide and change positions to either the bottom, left or right of the screen. One think I wish you could do with the Shelf is use it as a place to store commonly used bookmarks.
+
+Once an app is on the shelf, there is another useful feature, open as window
+
+# Screen shots
+Macs make it easy to take a screen shot using the following keyboard combinations:
+
+xxx - capture screen
+xxx - capture area
+
+Chromebooks contain the same feature but use these keyboard combinations:
+
+xxx - capture screen
+xxx - capture area
+
+The Chromebook provides a notification after each capture. This notification also provides and option to copy the recently captured image to the clipboard. Actual files are saved in your default file location as demonstrated in the [Files](#Files) section above.
+
+# iCloud
+If you want access to your iWork files, you will be happy to know that the online version of iWork works well on a Chromebook. Given the cloud nature of the Chromebook, the two are a perfect fit. 
 
 # Fullscreen
+While full screen mode is consistent, multiple spaces are not a part of the install.
 
-# Tabs (Pin and Unpin)
+In later posts I'll share some more tips and tricks when using your Chromebook to supplement your Mac use. This post simply covers the basics.
