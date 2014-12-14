@@ -16,6 +16,6 @@ I opened the battery compartment, removed the batteries and soldered the positiv
 
 Below is a video of the results.
 
-<iframe src="//player.vimeo.com/video/114452584" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/114452584">ALDI battery operated holiday lights to USB conversion</a> from <a href="http://vimeo.com/user20097235">Steven Combs</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/114452584" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 This was a VERY simple hack that anyone with basic soldering skills can perform. Now I can enjoy the lights of Christmas while chugging away on my Mac.
