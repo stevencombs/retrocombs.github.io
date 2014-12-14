@@ -26,7 +26,6 @@ During Black Friday 2014, Amazon sold the [Acer C720 Chromebook](!a) for only $1
 * [Browser](#browser)
 * [Applications](#applications)
 * [Shelf](#shelf)
-* [Full Screen](#fullscreen)
 * [Miscellaneous](#miscellaneous)
 	* [iCloud](#icloud)
 	* [Screenshots](#screenshots)
@@ -89,7 +88,7 @@ You can perform basic file management with the Chrome OS Files app such as:
 * delete files/folders
 * share Google Drive files
 
-You can also view thumbnail previews of files. Think of this as a scaled down version of **Quick Look** on the Mac. Move the cursor over the thumbnail at the bottom of the Files app as shown in the image below and a mini version of the document appears.
+You can also view thumbnail previews of files. Think of this as a scaled down version of **Quick Look** on the Mac. Move the cursor over the thumbnail at the bottom of the Files app as shown in the image below and a mini version of the document appears. You require a larger preview, you will need to use the web version of [Google Drive](http://drive.google.com).
 
 [Back to TOC](#tableofcontents)
 
@@ -114,68 +113,64 @@ You can also use the search box to make quick calculations and conversions, as y
 
 The results will appear as the second result. The first result will perform a Google search for the query. This is very handy!
 
-Missing from the results are items such as showtimes, weather, stocks, etc. I've become use to these in the iPhone [Google App](!itu). Inclusion of these results would make the search box more useful and on par with other Mac launch/search tools such as Spotlight, [Alfred](!mas) and [LaunchBar](!g).
+Missing from the results are items such as showtimes, weather, stocks, etc. I use these search query's frequently on the iPhone [Google App](!itu). Inclusion of these results would make the search box more useful and on par with other Mac launch/search tools such as Spotlight, [Alfred](!mas) and [LaunchBar](!g).
 
 [Back to TOC](#tableofcontents)
 
 # Browser
-If you use the Chrome Browser on your Mac the transition to a Chromebook will be a breeze.  As long as you log into your Google account while using Chrome on the Mac, and data sync on, all your bookmarks, passwords, apps, etc will sync to your new Chromebook. Adding additional items to your Chromebook will then transfer back to your Mac Chrome browser almost instantaneously. I won't go into a review of the Chrome browser, but will say that using it on both the Mac and on the Chromebook, I prefer using it on the Chromebook. 
+If you use the Chrome Browser on your Mac the transition to a Chromebook will be a breeze. As long as you log into your Google account while using Chrome on the Mac, with data sync on, all your bookmarks, passwords, cross-compatible apps, etc will sync to your new Chromebook. Adding additional items to your Chromebook will then transfer back to your Mac Chrome browser almost instantaneously. I won't go into a review of the Chrome browser, but will say that using it on both the Mac and on the Chromebook, I prefer using it on the Chromebook (not that I have a choice on the Chromebook).
 
 [Back to TOC](#tableofcontents)
 
 # Applications
-On of the things I noticed from my previous use of Chrome OS from two years ago is that the Chromebook now has true applications. Before, applications exclusively lived online and required a Wi-Fi connection. And while most apps you find in the Web Store are nothing more than bookmarks to online apps, more and more of them are now true native apps. The Web Store even has a new area devoted to these [offline apps](http://goo.gl/u5Dpq).
+On of the things I noticed from my previous use of Chrome OS two years ago is that the Chromebook now has true applications. Before, applications exclusively lived online and required a Wi-Fi connection. And while most apps you find in the Web Store are nothing more than bookmarks to online apps, more and more of them are now true native apps. The Web Store even has a new area devoted to these [offline apps](http://goo.gl/u5Dpq).
 
-Apps are easy to install and the experience is very similar to the Mac App Store. Search for an app and hit the Free or Cost button. The app is immediately installed. You don't even have to enter your password again for free apps as you do on the Mac App Store. Once installed, the app icons appear in the Apps launcher locate on the shelf. Appearance of the icons is similar to the Applications icon found on the OS X Dock. A simple click of the icon will load the app.
+Apps are easy to install and the experience is very similar to the Mac App Store. Search for an app and hit the Free or Cost button. The app installs immediately. You don't even have to enter a password for free apps as you do using the Mac App Store. After the install, the app icons appear in the Apps launcher locate on the shelf. Appearance of the icons is similar to the Applications icon found on the OS X Dock. A simple click of the icon will load the app.
 
 [Back to TOC](#tableofcontents)
 
 # Shelf
-The Shelf is similar to the Dock in OS X. As mentioned above, it contains the Apps launcher and can store any app shortcuts you place on it. Like the dock, it can auto-hide and change positions to either the bottom, left or right of the screen. One think I wish you could do with the Shelf is use it as a place to store commonly used bookmarks.
+The Shelf is similar to the Dock in OS X. As mentioned above, it contains the App launcher and app shortcuts. Like the Mac Dock, it can auto-hide and move to either the bottom, left or right of the screen. Unfortunately, it cannot contain bookmarks and that's probably why many of the apps found in the Web Store are primarily bookmarks. But there is another advantage to having these bookmarks to online apps.
 
-Once an app is on the shelf, there is another useful feature, open as window
+Once an app is on the shelf, or in the launcher, you can choose app launch options by right-clicking on the shelf icon. Options available include:
 
-[Back to TOC](#tableofcontents)
+* Open as regular tab
+* Open as pinned tab
+* Open as window
+* Open maximized
 
-# Fullscreen
-While Chrome OS does not include a spaces feature, it does support fullscreen apps. 
+For the apps on my shelf, I have the *open maximized* option enabled. The app opens in its own window and maximized to take full advantage of the screen. Opening apps this also way allows me to use the task switcher (alt + tab), rather than navigate via tabs. This workflow more closely mimics my Mac workflow.
 
-* run apps full screen
-* run apps expanded
+Another advantage to this selection is that I can use the Chrome OS Overview mode, see image below, to quickly display thumbnails of all my open applications and websites which is similar to the Spaces feature on a Mac.
 
-Hit the ____ key to reveal a ____ similar to the Mac ____ feature
+{INSERT IMAGE: Chrome Overiew in gDdrive Downloads folder}
 
-I’ve read online where many grouse about the Web Store apps being simple bookmarks to websites. This is true; however, if you use these links and make the selections above, these bookmarks become useful. Here’s the way I use them…
+If apps only open in the Chrome browser, Overview mode will only display Chrome's active tab rather than all tabs.
 
 [Back to TOC](#tableofcontents)
 
 # Miscellaneous
-Below are some items that may or may not be a part of a Mac user’s regular tools. The observations below are for speciality utilities and features that I use that may be of interest to others.
+Below are some items that may or may not be a part of your Mac workflow. The observations below are for specialty utilities and features that I use that may be of interest to others.
 
 ## iCloud
-If you want access to your iWork files, you will be happy to know that the online version of iWork works well on a Chromebook. Given the cloud nature of the Chromebook, the two are a perfect fit. 
+If you want access to your iWork files, the online version of iWork works well on a Chromebook. Given the cloud nature of the Chromebook, the two are a perfect fit. I receive a *browser not supported* message, but have yet to find a feature that does not work. [iCloud](http://www.icloud.com) also provides the *Find my iPhone* tool. So the next time you misplace your iPhone, fire up your Chromebook.
 
 ## Screenshots
-Macs make it easy to take a screen shot using the following keyboard combinations:
+Macs make it easy to take capture a screen. Chromebooks contain the same feature with these keyboard combinations:
 
 xxx - capture screen
 xxx - capture area
 
-Chromebooks contain the same feature but use these keyboard combinations:
-
-xxx - capture screen
-xxx - capture area
-
-The Chromebook provides a notification after each capture. This notification also provides and option to copy the recently captured image to the clipboard. Actual files are saved in your default file location as demonstrated in the [Files](#Files) section above.
+The Chromebook provides a notification after each capture. This notification provides an option to copy the recently captured image to the clipboard. Actual files are saved in your default file location. See the [Files](#Files) section above.
 
 ## Text Expansion
-Many Mac users use text expander utilities such as [TextExpander](!itu). Sadly, I am not able to locate a viable substitute. This is a utility I utilize often and even a rudimentary app to provide this function would be appreciated.
+Many Mac users use text expansion utilities such as [TextExpander](!itu). Sadly, I am not able to locate a viable substitute. This is a utility I utilize often and even a rudimentary app to provide this function would significantly enhance usability.
 
 ## Dictation
-Dictation is relatively new to OS X, so it stands to reason that the Chromebook may not have this capability built-in; however, I also didn’t find a viable alternative in the Chrome Web Store. Given Google’s powerful voice search, it would be a nice addition to include this feature for both normal and assistive device users.
+Dictation is relatively new to OS X, so it stands to reason that the Chromebook may not have this capability built-in and it doesn't. I found no viable alternative in the Chrome Web Store. Given Google’s powerful voice search, it would be a nice addition to include this feature for both normal and assistive device users.
 
 ## Voice Search
-While dictation is not available, voice search is making its way into Chrome OS.
+While dictation is not available, voice search is making its way into Chrome OS. It is not activated by default. 
 
 [Back to TOC](#tableofcontents)
 
