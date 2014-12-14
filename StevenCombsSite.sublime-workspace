@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"center",
+				"center"
+			],
+			[
+				"blo",
+				"blockquote	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Marked"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mar",
+				"Marked"
+			],
+			[
+				"ma",
+				"Marked"
+			],
+			[
+				"mrk",
+				"Marked"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"markm",
+				"Markmon launch"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"Marked"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Pull"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/categories.html",
+		"/home/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_config.yml",
+		"/home/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_layouts/post.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_layouts/pages.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/pages.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-06-And-here’s-how-we-are-gonna-save-some-cash.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-10-What-I-did.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-28-Becoming-lean-during-tough-budget-cycles.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-08-28-Evansville-a-look-back.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-Education-by-the-numbers.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-Got-caught-did-you.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-O-zephyr-winds-which-blow-on-high.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-The-College-of-2020-is-a-must-read-for-higher-education-administrators.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-Tips-for-a-successful-academic-professional-development-activity.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-11-21-Thanksgiving-community-colleges-and-changing-lives.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-01-10-Enhance-Course-Materials-with-iTunes-U.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-01-14-Apple-TV-Out-of-the-living-room-and-into-the-classroom.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-01-14-Community-college-quality-versus-cost.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-01-15-Indiana-legislation-all-faculty-should-understand.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-03-03-A-productivity-primer-for-higher-education-administrators.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-07-14-New-series-My-first-year-as-a-regional-academic-officer.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-08-11-Like-classic-films-Check-out-TCM-this-September.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-08-27-Make-mistakes-learn-from-them-own-them.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-11-11-Thank-a-Veteran-Today.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-12-06-Number-one-job-skill-requested-by-employers.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_config.yml",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/social.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/sidebar.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/footer.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-11-21-Thanksgiving-community-colleges-and-changing-lives.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/github-jekyll-blog.sublime-project",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/History.markdown",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/README.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/changelog.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/sitemap.txt",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/tags.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/Rakefile",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/categories.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/archive.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_config.yml-lagom.yml",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/assets/themes/twitter/css/style.css",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2014-04-27-markdown-test-post.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-28-Becoming-lean-during-tough-budget-cycles.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-08-28-Evansville-a-look-back.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-Education-by-the-numbers.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-Got-caught-did-you.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-01-14-Community-college-quality-versus-cost.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-06-And-here’s-how-we-are-gonna-save-some-cash.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-10-What-I-did.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index-backup.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/404.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/themes/twitter/post.html",
+		"/Users/stevencombs/Desktop/Cummins LDD Email.md",
+		"/Users/stevencombs/Desktop/Cummins LDD Email",
+		"/Users/stevencombs/Dropbox/Mac Syncing/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/stevencombs/Desktop/Test.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-08-11-Like-classic-films-Check-out-TCM-this-September.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-07-14-New-series:-My-first-year-as-a-regional-academic-officer.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-01-14-Apple-TV-Out-of-the-Living-Room-and-into-the-Classroom.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-08-11-Like-classic-films?-Check-out-TCM-this-September!.html",
+		"/Users/stevencombs/Dropbox/Text Files/Seymour-North Vernon Lease Email to Jeff Terp - April 28, 2014.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2014-04-27-Jekyll-markdown-test-post.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-11-MSSC-for-active-duty-military.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-09-17-Ivy-Tech-awarded-“Military-Friendly-School”-title.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-Online-cohorts:-the-next-big-thing?.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-01-15-If-you-are-in-the-ColumbusIndianapolis-area….html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_includes/themes/twitter/default.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-“O-zephyr-winds-which-blow-on-high....html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-08-27-My-first-year-as-an-academic-officer-Lesson-2.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-11-11-Thank-a-Veteran-Today!.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-10-25-Daddys,-Daughters-and-Divorce-(3Ds).html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2013-12-06-What-is-the-number-one-job-skill-requested-by-employers?.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_posts/2012-07-10-What-I-did....html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/_drafts/jekyll-introduction-draft.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/jekyll-blog/_posts/core-samples/2011-12-29-jekyll-introduction.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/index.html",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/Gemfile",
+		"/Users/stevencombs/Dropbox/Mac Syncing/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/StevenCombsGitHub.sublime-project",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/jekyll-bootstrap/sitemap.txt",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/jekyll-bootstrap/README.md",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/stevencombs.github.io/jekyll-bootstrap/_config.yml",
+		"/Users/stevencombs/Dropbox/Programming/GitHub/brickcessory/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&nbsp;",
+			"</strong>",
+			"</li><li><strong>",
+			"  ",
+			"Tags",
+			"color",
+			"with help from",
+			"<br />",
+			"<div style=\"text-align: left;\">",
+			"</div><div style=\"text-align: left;\"></div>",
+			"<div style=\"text-align: left;\">",
+			"</span>",
+			"<span style=\"line-height: 1.3em;\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 115.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}
