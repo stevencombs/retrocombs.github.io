@@ -20,7 +20,7 @@ This blog post will not be a review of this particular Chromebook. That may come
 
 In my post, I will cover the following high-level features:
 
-#Table of Contents
+#TOC
 
 * [Performance](#performance)
 * [Keyboard](#keyboard)
@@ -33,9 +33,9 @@ In my post, I will cover the following high-level features:
 * [Miscellaneous](#miscellaneous)
 	* [iCloud](#icloud)
 	* [Screenshots](#screenshots)
-	* [Text Expansion](#textexpansion)
+	* [Expansion](#expansion)
 	* [Dictation](#dictation)
-	* [Voice Search](#voicesearch)
+	* [Voice](#voice)
 * [Conclusion](#conclusion)
 
 Let’s get started…
@@ -47,7 +47,7 @@ Responsiveness is similar to an iPad. Click on the Chrome browser icon and Chrom
 
 All-in-all, performance and battery life on a modern Chromebook is very similar to the current crop of entry level Mac laptops. My Acer doesn’t include a newer [Haswell chipset](http://en.wikipedia.org/wiki/Haswell_(microarchitecture)), but rather the older Celeron version; however, I still get about 5 hours of battery life. Newer Chromebooks with the Haswell chipset claim about 8-10 hours.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Keyboard
 When you take a quick look at the keyboard on a Chromebook, the differences between it and the Mac are visibly noticeable. There is no command key (⌘), no shift lock, and functions keys are tied to the Chromebook and Chrome OS features. On my particular Acer C720 Chromebook, keys were large, comfortable and easy to read. Keyboard feel is similar to that of the Apple MacBook Air keyboard. This made the transition a bit easier.
@@ -70,7 +70,7 @@ The dialog box below will appear. Here you can switch their function. This makes
 
 ![Keyboard dialog box](https://lh4.googleusercontent.com/-ONKleQrDBdk/VKRrPoB13pI/AAAAAAABXY4/On5EatM2KWc/w459-h467-no/Switch-Alt-Ctrl-ChromeOS.png)
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Touchpad
 The Chromebook touchpad is very similar to the trackpad found on a Mac laptop sans a few features. There is a single button underneath the touchpad and no other buttons. The scrolling direction default mimics traditional Windows scrolling. If you want the modern Apple approach to scrolling, select the Australian scrolling option in the Chrome OS touchpad settings.
@@ -83,7 +83,7 @@ Currently, there is no pinch to zoom option or multi-finger gestures. The only f
 
 That's pretty limited; however, the experimental features page (enter chrome:flags in the URL box) does list pinch-to-zoom options so there is hope that these features are on the way.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Files
 File management is bare bones. The Files app, shown in the image below, is a stripped down version of the Finder found on a Mac. You won't find handy items like tabs or shortcuts.
@@ -119,7 +119,7 @@ If you require a larger preview, double-click to load the image in the default C
 
 The Gallery app loads quickly and almost a fast as *Quick Look* on the Mac. Think of Gallery as the *Preview* app on the Mac, without all the wonderful annotation and PDF features.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Search
 Similar to *Spotlight*, Chrome OS includes Google Search integration within the operating system. A simple tap of the magnifier button found above the left shift key will display the Chrome OS app launcher as shown in the image below. 
@@ -145,19 +145,19 @@ The results will appear as the second result. The first result will perform a Go
 
 Missing from the results are items such as showtimes, weather, stocks, etc. I use these search query's frequently on the iPhone [Google App](https://itunes.apple.com/us/app/mymail-free-email-app-for/id722120997?mt=8&uo=4&at=10l9vL). Inclusion of these results would make the search box more useful and on par with other Mac launch/search tools such as Spotlight, [Alfred](https://itunes.apple.com/us/app/alfred/id405843582?mt=12&uo=4&at=10l9vL) and [LaunchBar](http://obdev.at/launchbar/).
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Browser
 If you use the Chrome Browser on your Mac, the transition to a Chromebook will be smooth. As long as you log into your Google account while using Chrome on the Mac, with data sync on, all your bookmarks, passwords, cross-compatible apps, etc. will sync to your new Chromebook. Adding additional items to your Chromebook will then transfer back to your Mac Chrome browser almost instantaneously, and vice versa. So if you need a tool from your Chromebook, you will find it on your Mac as well.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Applications
 Chromebook now has “real” applications. Before, applications lived online and required a Wi-Fi connection. While most apps found in the Web Store are nothing more than bookmarks to online apps/sites, more of them are now true native apps. The Web Store even has a new area devoted to these [offline apps](http://goo.gl/u5Dpq).
 
 Apps are easy to install and the experience is very similar to the Mac App Store. Search for an app and hit the *Free* or *Cost* button. The app installs immediately. A password is not required for free apps as they are on the Mac App Store. After installation, the app icon appears on the shelf’s Apps launcher. This is similar to the *Applications* icon found on the OS X Dock. A simple click of the icon will load the app.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Shelf
 The Shelf is similar to the OS X Dock. As mentioned above, it contains the App launcher and app shortcuts. Like the Mac Dock, it can auto-hide and move to either the bottom, left or right of the screen. Unfortunately, it cannot contain bookmarks and that's probably why many of the apps found in the Web Store are primarily bookmarks. But there is an advantage to these bookmarks to online apps.
@@ -177,7 +177,7 @@ Another advantage is that I can use the Chrome OS Overview mode, see image below
 
 If apps only open in the Chrome browser, Overview mode will only display Chrome's active tab rather than all tabs. Having them open individually provides a quick visual of all open apps and sites.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Miscellaneous
 Below are some features that may or may not be a part of your Mac workflow. The observations below are for utilities and features that I use that may be of interest to others.
@@ -185,7 +185,7 @@ Below are some features that may or may not be a part of your Mac workflow. The 
 ## iCloud
 If you want access to your iWork files, the online version of iWork works well on a Chromebook. Given the cloud nature of the Chromebook, the two are a perfect fit. I receive a *browser not supported* message, but have yet to find a feature that does not work. [iCloud](http://www.icloud.com) also provides the *Find my iPhone* tool. So the next time you misplace your iPhone, fire up your Chromebook.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 ## Screenshots
 Macs make it easy to take capture a screen. Chromebooks contain the same feature with these keyboard combinations:
@@ -194,22 +194,22 @@ Macs make it easy to take capture a screen. Chromebooks contain the same feature
 
 The Chromebook displays a notification after each capture. This notification provides an option to copy the recently captured image to the clipboard or to display in the Files app. Actual files are saved in your default file location. See the [Files](#Files) section above.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
-## Text Expansion
+## Expansion
 Many Mac users use text expansion utilities such as [TextExpander](https://itunes.apple.com/us/app/textexpander-3-+-custom-keyboard/id917416298?mt=8&uo=4&at=10l9vL). Sadly, I am not able to locate a viable substitute. This is a utility I utilize often and even a rudimentary app to provide this function would significantly enhance usability.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 ## Dictation
 Dictation is relatively new to OS X, so it stands to reason that the Chromebook may not have this capability built-in. I found no viable alternative in the Chrome Web Store. Given Google’s powerful voice search, it would be a nice addition to include this feature for both normal and assistive device users.
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
-## Voice Search
+## Voice
 While dictation is not available, voice search is making its way into Chrome OS. It is not activated by default and as of now is only working on the beta channel (Google that if you don't understand this reference).
 
-[Back to TOC](#tableofcontents)
+[Back to TOC](#toc)
 
 # Conclusion
 In later posts I'll likely share more specific Chromebook tips and tricks. This post simply covers the basics of Chrome OS and how to best make a transition from a Mac to a [Chromebook](https://www.google.com/chrome/devices/) or [Chromebox](http://www.amazon.com/gp/product/B00IT1WJZQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IT1WJZQ&linkCode=as2&tag=bricinmypockb-20). 
