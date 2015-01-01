@@ -18,6 +18,8 @@ During Black Friday 2014, Amazon sold the [Acer C720 Chromebook](!a) for $150. A
 
 This blog post will not be a review of this particular Chromebook. That may come later. What this post provides is a look at Chrome OS from a Mac user's perspective. It will contain my observations as well as some tips and tricks to make the transition a bit easier for Mac users considering a purchase.
 
+{**UPDATE:** Thanks to the folks in the [Google+ Chromebook Community!](https://plus.google.com/communities/105678482604512626671). Several of them helped me work out some technical issues and shared some new tips. Due to their input, I plan update this guide with new items. I'll be sure to note those.}
+
 In my post, I will cover the following high-level features:
 
 #TOC
@@ -45,7 +47,7 @@ The most important feature of any computer is performance. All the apps in app s
 
 Responsiveness is similar to an iPad. Click on the Chrome browser icon and Chrome loads almost immediately. Search results appear as quickly as your internet connection provides. Shutdown is quick. Given the [Chrome OS Linux](https://www.youtube.com/watch?v=KA5RQv9mBoY) underpinnings combined with the on board solid state drive (SSD), this level of performance is expected. 
 
-All-in-all, performance and battery life on a modern Chromebook is very similar to the current crop of entry level Mac laptops. My Acer doesn’t include a newer [Haswell chipset](http://en.wikipedia.org/wiki/Haswell_(microarchitecture)), but rather the older Celeron version; however, I still get about 5 hours of battery life. Newer Chromebooks with the Haswell chipset claim about 8-10 hours.
+All-in-all, performance and battery life on a modern Chromebook is very similar to the current crop of entry level Mac laptops. My Acer doesn’t include the newer Bay Trail chipset, but rather the older Haswell chipset; however, I still get about 5 hours of battery life. Newer Chromebooks with the Bay Trail chipset claim about 8-10 hours.
 
 [Back to TOC](#toc)
 
@@ -75,13 +77,16 @@ The dialog box below will appear. Here you can switch their function. This makes
 # Touchpad
 The Chromebook touchpad is very similar to the trackpad found on a Mac laptop sans a few features. There is a single button underneath the touchpad and no other buttons. The scrolling direction default mimics traditional Windows scrolling. If you want the modern Apple approach to scrolling, select the Australian scrolling option in the Chrome OS touchpad settings.
 
-Currently, there is no pinch to zoom option or multi-finger gestures. The only features currently are:
+The current track pad features include:
 
 * tap to select
 * two-finger tap right-click
 * two-finger scroll
+* {UPDATE} two-finger right and left to browse back and forward
+* {UPDATE} three-finger up to activate Overview mode, similar to Mac's Expose feature, and three down to deactivate
+* {UPDATE} tap-dragging available as an option in the accessibilities settings
 
-That's pretty limited; however, the experimental features page (enter chrome:flags in the URL box) does list pinch-to-zoom options so there is hope that these features are on the way.
+Currently, there is no pinch to zoom option; however, the experimental features page (enter chrome:flags in the URL box) does list pinch-to-zoom options so there is hope that these features are on the way.
 
 [Back to TOC](#toc)
 
@@ -214,6 +219,6 @@ While dictation is not available, voice search is making its way into Chrome OS.
 # Conclusion
 In later posts I'll likely share more specific Chromebook tips and tricks. This post simply covers the basics of Chrome OS and how to best make a transition from a Mac to a [Chromebook](https://www.google.com/chrome/devices/) or [Chromebox](http://www.amazon.com/gp/product/B00IT1WJZQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IT1WJZQ&linkCode=as2&tag=bricinmypockb-20). 
 
-In short, I’ve found my little $150 device to be an excellent device to throw in my bag for meetings, travel or Internet browsing. It often sits on my bed stand or next to the living room sofa. If I need to type, I always reach for the Chromebook rather than my iPad. Even with my bluetooth iOS keyboard, I find the typing experience on my Chromebook to be much better.
+In short, I've found my little $150 device to be an excellent device to throw in my bag for meetings, travel or Internet browsing. It often sits on my bed stand or next to the living room sofa. If I need to type, I always reach for the Chromebook rather than my iPad. Even with my bluetooth iOS keyboard, I find the typing experience on my Chromebook to be much better.
 
-Except for some heavy work tasks that include Microsoft Office documents, there’s really not much I cannot do with my Chromebook. I would highly recommend a Chromebook for K-12 students, grandparents or anyone who simply uses a laptop to browse the web. Chrome OS has come a long way and is very capable. I’m excited to see what new features roll out in the near and distant future and I am glad I have a device where I can discover these new features going forward.
+Except for some heavy work tasks that include Microsoft Office documents, there’s really not much I cannot do with my Chromebook. I would highly recommend a Chromebook for K-12 students, grandparents or anyone who simply uses a laptop to browse the web. Chrome OS has come a long way and is very capable. I'm excited to see what new features roll out in the near and distant future and I am glad I have a device where I can discover these new features going forward.
