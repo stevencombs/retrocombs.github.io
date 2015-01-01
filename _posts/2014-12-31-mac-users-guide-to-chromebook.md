@@ -33,12 +33,12 @@ In my post, I will cover the following high-level features:
 * [Applications](#applications)
 * [Shelf](#shelf)
 * [Miscellaneous](#miscellaneous)
-	* [iCloud](#icloud)
-	* [Screenshots](#screenshots)
-        * [Dropbox](#dropbox)
-	* [Expansion](#expansion)
-	* [Dictation](#dictation)
-	* [Voice](#voice)
+    * [iCloud](#icloud)
+    * [Screenshots](#screenshots)
+    * [Dropbox](#dropbox)
+    * [Expansion](#expansion)
+    * [Dictation](#dictation)
+    * [Voice](#voice)
 * [Conclusion](#conclusion)
 
 Let’s get started…
