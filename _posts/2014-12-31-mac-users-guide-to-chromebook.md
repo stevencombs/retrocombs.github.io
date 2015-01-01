@@ -35,6 +35,7 @@ In my post, I will cover the following high-level features:
 * [Miscellaneous](#miscellaneous)
 	* [iCloud](#icloud)
 	* [Screenshots](#screenshots)
+        * [Dropbox](#dropbox)
 	* [Expansion](#expansion)
 	* [Dictation](#dictation)
 	* [Voice](#voice)
@@ -77,14 +78,15 @@ The dialog box below will appear. Here you can switch their function. This makes
 # Touchpad
 The Chromebook touchpad is very similar to the trackpad found on a Mac laptop sans a few features. There is a single button underneath the touchpad and no other buttons. The scrolling direction default mimics traditional Windows scrolling. If you want the modern Apple approach to scrolling, select the Australian scrolling option in the Chrome OS touchpad settings.
 
-The current track pad features include:
+Current track pad functions include:
 
 * tap to select
 * two-finger tap right-click
 * two-finger scroll
 * {UPDATE} two-finger right and left to browse back and forward
 * {UPDATE} three-finger up to activate Overview mode, similar to Mac's Expose feature, and three down to deactivate
-* {UPDATE} tap-dragging available as an option in the accessibilities settings
+* {UPDATE} three finger left and right to change tab focus in chrome browser
+* {UPDATE} tap-dragging available as an option in accessibilities settings
 
 Currently, there is no pinch to zoom option; however, the experimental features page (enter chrome:flags in the URL box) does list pinch-to-zoom options so there is hope that these features are on the way.
 
@@ -198,6 +200,11 @@ Macs make it easy to take capture a screen. Chromebooks contain the same feature
 ![Screenshot keyboard combinations](https://lh6.googleusercontent.com/-Fx6lQXRpPto/VKRwUyBe77I/AAAAAAABXZg/eN7L4BGEULQ/w638-h101-no/Chromebook-Keyboard-Shortcuts.png)
 
 The Chromebook displays a notification after each capture. This notification provides an option to copy the recently captured image to the clipboard or to display in the Files app. Actual files are saved in your default file location. See the [Files](#Files) section above.
+
+[Back to TOC](#toc)
+
+## Dropbox
+Many Mac users rely on Dropbox to keep their files in sync across devices. Unfortunately, Dropbox support on Chrome OS is app specific. The [Dropbox](https://chrome.google.com/webstore/detail/dropbox/ioekoebejdcmnlefjiknokhhafglcjdl) app on the Web App store is simply a link to the Dropbox web page. It does not provide access to Dropbox files within the Chrome OS Files app. In order for an app to utilize Dropbox storage, the developer must bake it in. In the apps I've tried, the syncing is not instantaneous and the user must initiate a file save. This will be a bit of an inconvenience for Mac users who rely heavily on Dropbox.
 
 [Back to TOC](#toc)
 
