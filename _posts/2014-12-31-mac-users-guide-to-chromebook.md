@@ -18,7 +18,7 @@ During Black Friday 2014, Amazon sold the [Acer C720 Chromebook](!a) for $150. A
 
 This blog post will not be a review of this particular Chromebook. That may come later. What this post provides is a look at Chrome OS from a Mac user's perspective. It will contain my observations as well as some tips and tricks to make the transition a bit easier for Mac users considering a purchase.
 
-{**UPDATE:** Thanks to the folks in the [Google+ Chromebook Community!](https://plus.google.com/communities/105678482604512626671). Several of them helped me work out some technical issues and shared some new tips. Due to their input, I plan update this guide with new items. I'll be sure to note those.}
+{**UPDATE:** Thanks to the folks in the [Google+ Chromebook Community!](https://plus.google.com/communities/105678482604512626671). Several of them helped me work out some technical issues and shared some new tips. Thanks to [their input](https://plus.google.com/118020098182159765872/posts/3Vs8v4q4cgg), I plan to update this post with new items. I'll be sure to note the additions.}
 
 In my post, I will cover the following high-level features:
 
@@ -35,7 +35,7 @@ In my post, I will cover the following high-level features:
 * [Miscellaneous](#miscellaneous)
     * [iCloud](#icloud)
     * [Screenshots](#screenshots)
-    * [Dropbox](#dropbox)
+    * {UPDATE} [Dropbox](#dropbox)
     * [Expansion](#expansion)
     * [Dictation](#dictation)
     * [Voice](#voice)
