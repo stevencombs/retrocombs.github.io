@@ -32,11 +32,12 @@ In my post, I will cover the following high-level features:
 * [Browser](#browser)
 * [Applications](#applications)
 * [Shelf](#shelf)
+* [Overview](#overview)
 * [Miscellaneous](#miscellaneous)
     * [iCloud](#icloud)
     * [Screenshots](#screenshots)
     * {UPDATE} [Dropbox](#dropbox)
-    * [Expansion](#expansion)
+    * [Text Expansion](#text expansion)
     * [Dictation](#dictation)
     * [Voice](#voice)
 * [Conclusion](#conclusion)
@@ -191,11 +192,16 @@ Once an app is on the shelf, or in the launcher, you can choose app launch optio
 
 For the apps on my shelf, I have the *open maximized* option enabled for most. The app opens in its own window and maximized to take full advantage of the screen. Opening apps this way allows me to use the task switcher, alt + tab (⇥), rather than navigate via tabs. This workflow more closely mimics my Mac workflow.
 
-Another advantage is that I can use the Chrome OS Overview mode, see image below, to quickly display thumbnails of all my open applications and websites which is similar to the Spaces feature on a Mac.
+# Overview
+Another advantage to using Chrome Web Store app shortcuts is that I can use the Chrome OS Overview mode, see image below, to quickly display thumbnails of all my open applications and websites. If apps only open in the Chrome browser, Overview mode will only display Chrome's active tab rather than all tabs. Having apps and webpages open individually provides a quick visual of all open apps and sites.
 
 ![Chrome Overiew](https://lh3.googleusercontent.com/-RSg0MlTU9jY/VKRrPkRfogI/AAAAAAABXY4/CfswkHtJFk0/w638-h359-no/ChromeOS-Overview.png)
 
-If apps only open in the Chrome browser, Overview mode will only display Chrome's active tab rather than all tabs. Having them open individually provides a quick visual of all open apps and sites.
+{UPDATE} Overview is similar to *Mission Control* on a Mac. You activate Overview mode by tapping the following Chromebook key found on the top row:
+
+![](https://lh5.googleusercontent.com/-TqRYWo42Po8/VKXqOOTL_CI/AAAAAAABXeQ/Yvw9AU2QlcA/w80-h36-no/chromebook-overview-key.png)
+
+As mentioned early, you can also activate Overview with a three-finger down swipe on the trackpad.
 
 [Back to TOC](#toc)
 
@@ -221,7 +227,7 @@ Many Mac users rely on Dropbox to keep their files in sync across devices. Unfor
 
 [Back to TOC](#toc)
 
-## Expansion
+## Text Expansion
 Many Mac users use text expansion utilities such as [TextExpander](https://itunes.apple.com/us/app/textexpander-3-+-custom-keyboard/id917416298?mt=8&uo=4&at=10l9vL). Sadly, I am not able to locate a viable substitute. This is a utility I utilize often and even a rudimentary app to provide this function would significantly enhance usability.
 
 [Back to TOC](#toc)
