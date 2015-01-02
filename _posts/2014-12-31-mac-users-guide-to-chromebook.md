@@ -26,13 +26,13 @@ In my post, I will cover the following high-level features:
 
 * [Performance](#performance)
 * [Keyboard](#keyboard)
-* [Touchpad](#touchpad)
-* [Files](#files)
-* [Search](#search)
-* [Browser](#browser)
+* [Touchpad](#touchpad) - Magic Track Pad / Track Pad
+* [Files](#files) - Finder
+* [Search](#search) - Spotlight
+* [Chrome](#chrome) - Safari
 * [Applications](#applications)
-* [Shelf](#shelf)
-* [Overview](#overview)
+* [Shelf](#shelf) - Dock
+* [Overview](#overview) - Mission Control
 * [Miscellaneous](#miscellaneous)
     * [iCloud](#icloud)
     * [Screenshots](#screenshots)
@@ -155,7 +155,7 @@ Missing from the results are items such as showtimes, weather, stocks, etc. I us
 
 [Back to TOC](#toc)
 
-# Browser
+# Chrome
 If you use the Chrome browser on your Mac, the transition to a Chromebook will be smooth. As long as you log into your Google account while using Chrome on the Mac, with data sync on, all your bookmarks, passwords, cross-compatible apps, etc. will sync to your new Chromebook. Adding additional items to your Chromebook will then transfer back to your Mac Chrome browser almost instantaneously, and vice versa. So if you need a tool from your Chromebook, you will find it on your Mac as well.
 
 {UPDATE} If you are a *Safari* user and have a bright shiny new Chromebook, now would be the time to make the switch to Chrome on your Mac. You will want to do the following:
