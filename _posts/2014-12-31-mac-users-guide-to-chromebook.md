@@ -86,6 +86,7 @@ Current track pad functions include:
 * two-finger scroll
 * {UPDATE} two-finger right and left to browse back and forward
 * {UPDATE} three-finger up to activate Overview mode, similar to Mac's Expose feature, and three down to deactivate
+* {UPDATE} three-finger tap on tab to close
 * {UPDATE} three finger left and right to change tab focus in chrome browser
 * {UPDATE} tap-dragging available as an option in accessibilities settings
 
