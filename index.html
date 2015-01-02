@@ -45,7 +45,6 @@ title: Home Page
 
 <hr/>
 
-<!-- Old Main List
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:5 %}
 <li>
@@ -53,18 +52,6 @@ title: Home Page
   <h2>{{ post.title }}</h2></a>
   <div>{{ post.date | date: "%B %d, %Y" }} {{ post.content |truncatehtml | truncatewords: 40 }}</div>
 </li>
-{% endfor %}
--->
-
-<h1>Latest Posts</h1>
-{% for post in site.posts limit:15 offset:0 %}
-<hr />
-  <div>
-    <p><a href="{{ BASE_PATH }}{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
-    <p>{{ post.content | strip_html | truncatewords: 40 }}
-    </p>
-  </div>
-</div>
 {% endfor %}
 
 <h2>Looking for something specific? Use the search tool below.</h2>
