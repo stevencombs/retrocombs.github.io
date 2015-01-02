@@ -37,7 +37,7 @@ In my post, I will cover the following high-level features:
     * [iCloud](#icloud)
     * [Screenshots](#screenshots)
     * {UPDATE} [Dropbox](#dropbox)
-    * [Text Expansion](#textexpansion)
+    * [TextExpander](#textexpander)
     * [Dictation](#dictation)
     * [Voice](#voice)
 * [Conclusion](#conclusion)
@@ -227,7 +227,7 @@ Many Mac users rely on Dropbox to keep their files in sync across devices. Unfor
 
 [Back to TOC](#toc)
 
-## Text Expansion
+## TextExpander
 Many Mac users use text expansion utilities such as [TextExpander](https://itunes.apple.com/us/app/textexpander-3-+-custom-keyboard/id917416298?mt=8&uo=4&at=10l9vL). Sadly, I am not able to locate a viable substitute. This is a utility I utilize often and even a rudimentary app to provide this function would significantly enhance usability.
 
 [Back to TOC](#toc)
