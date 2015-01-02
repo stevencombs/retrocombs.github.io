@@ -155,7 +155,20 @@ Missing from the results are items such as showtimes, weather, stocks, etc. I us
 [Back to TOC](#toc)
 
 # Browser
-If you use the Chrome Browser on your Mac, the transition to a Chromebook will be smooth. As long as you log into your Google account while using Chrome on the Mac, with data sync on, all your bookmarks, passwords, cross-compatible apps, etc. will sync to your new Chromebook. Adding additional items to your Chromebook will then transfer back to your Mac Chrome browser almost instantaneously, and vice versa. So if you need a tool from your Chromebook, you will find it on your Mac as well.
+If you use the Chrome browser on your Mac, the transition to a Chromebook will be smooth. As long as you log into your Google account while using Chrome on the Mac, with data sync on, all your bookmarks, passwords, cross-compatible apps, etc. will sync to your new Chromebook. Adding additional items to your Chromebook will then transfer back to your Mac Chrome browser almost instantaneously, and vice versa. So if you need a tool from your Chromebook, you will find it on your Mac as well.
+
+{UPDATE} If you are a *Safari* user and have a bright shiny new Chromebook, now would be the time to make the switch to Chrome on your Mac. You will want to do the following:
+
+1. Download [Chrome for Mac](http://www.google.com/chrome/)
+2. Install Chrome
+3. After the installation, and when prompted, import your Safari Bookmarks and make Chrome your default browser
+4. Open Chrome settings (⌘ + ,)
+4. Select *Advanced sync settings…* within the *Sign in* area at the top of the page
+5. At a minimum, choose to sync autofill, bookmarks, extensions and open tabs (you can later decide if the other items are beneficial - personally, I sync everything!)
+
+If your Chromebook is already configured, you will find that your Safari bookmarks have now merged with your Chromebook bookmarks. You will also begin to notice immediately that your extensions from your Chromebook begin to automatically install within Chrome on your Mac.
+
+If you haven’t set up your Chromebook just yet and anticipate a purchase, you can almost completely configure your Chromebook before your first boot-up by configuring and installing apps and extensions for Chrome on your Mac. Once you boot your Chromebook for the first time and enter your Google account credentials, Chrome on the Chromebook will begin to automatically install and sync with your Mac Chrome installation.
 
 [Back to TOC](#toc)
 
