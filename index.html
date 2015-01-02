@@ -47,7 +47,7 @@ title: Home Page
 {% for post in site.posts limit:5 %}
 <li>
   <a href="{{ post.url }}">
-  <h2>{{ post.title }}</h2></a>
+  <h2 class='span'>{{ post.title }}</h2></a>
   <div>{{ post.date | date: "%B %d, %Y" }} {{ post.content |truncatehtml | truncatewords: 40 }}</div>
 </li>
 {% endfor %}
