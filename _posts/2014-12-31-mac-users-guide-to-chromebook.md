@@ -37,7 +37,7 @@ In my post, I will cover the following high-level features:
     * [iCloud](#icloud)
     * [Screenshots](#screenshots)
     * {UPDATE} [Dropbox](#dropbox)
-    * [Text Expansion](#text_expansion)
+    * [Text Expansion](#textexpansion)
     * [Dictation](#dictation)
     * [Voice](#voice)
 * [Conclusion](#conclusion)
