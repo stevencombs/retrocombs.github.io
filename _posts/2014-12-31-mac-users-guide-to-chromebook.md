@@ -34,12 +34,12 @@ In my post, I will cover the following high-level features:
 8. [Shelf](#shelf) - Dock
 9. [Overview](#overview) - Mission Control
 10. [Miscellaneous](#miscellaneous)
-	1. [iCloud](#icloud)
-	2. [Screenshots](#screenshots)
-	3. [Dropbox](#dropbox)
-	4. [TextExpander](#textexpander)
-	5. [Dictation](#dictation)
-	6. [Voice](#voice)
+	* [iCloud](#icloud)
+	* [Screenshots](#screenshots)
+	* [Dropbox](#dropbox)
+	* [TextExpander](#textexpander)
+	* [Dictation](#dictation)
+	* [Voice](#voice)
 11. [Conclusion](#conclusion)
 
 Let’s get started…
