@@ -8,7 +8,7 @@ category: chrome
 comments: yes
 ---
 
-I like technology and gadgets. I can't help myself. Budget permitting, I try them all and one of the products I didn’t have was a Chromebook. I am unsure why the Google laptop fascinates me. Is it the simplicity? Is it the synchronization with the Chrome browser on my Mac? Is it the Linux underpinnings? I'm really not sure, but I wanted one!
+I like technology and gadgets. I can't help myself. Budget permitting, I try them all and one of the products I didn’t own was a Chromebook. I am unsure why the Google laptop fascinates me. Is it the simplicity? Is it the synchronization with the Chrome browser on my Mac? Is it the Linux underpinnings? I'm really not sure, but I wanted one!
 
 I tried Chrome OS on an old Acer netbook roughly two years ago; however, the installation was a hack and so was the performance. I wanted to experience a "real" Chromebook - one with the logo on the case and one created exclusively for the current version of Chrome OS. I choose the inexpensive [Acer C720](!a).
 
@@ -196,7 +196,7 @@ For the apps on my shelf, I have the *open maximized* option enabled for most. T
 # Overview
 Another advantage to using Chrome Web Store app shortcuts is that I can use the Chrome OS Overview mode, see image below, to quickly display thumbnails of all my open applications and websites. If apps only open in the Chrome browser, Overview mode will only display Chrome's active tab rather than all tabs. Having apps and webpages open individually provides a quick visual of all open apps and sites.
 
-![Chrome Overiew](https://lh3.googleusercontent.com/-RSg0MlTU9jY/VKRrPkRfogI/AAAAAAABXY4/CfswkHtJFk0/w638-h359-no/ChromeOS-Overview.png)
+![Chrome Overview](https://lh3.googleusercontent.com/-RSg0MlTU9jY/VKRrPkRfogI/AAAAAAABXY4/CfswkHtJFk0/w638-h359-no/ChromeOS-Overview.png)
 
 Overview is similar to *Mission Control* on a Mac. You activate Overview mode by tapping the following Chromebook key found on the top row:
 
