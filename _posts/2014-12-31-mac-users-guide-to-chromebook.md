@@ -18,7 +18,7 @@ During Black Friday 2014, Amazon sold the [Acer C720 Chromebook](!a) for $150. A
 
 This blog post will not be a review of this particular Chromebook. That may come later. What this post provides is a look at Chrome OS from a Mac user's perspective. It will contain my observations as well as some tips and tricks to make the transition a bit easier for Mac users considering a purchase.
 
-{**UPDATE:** Thanks to the folks in the [Google+ Chromebook Community!](https://plus.google.com/communities/105678482604512626671). Several of them helped me work out some technical issues and shared some new tips. Thanks to [their input](https://plus.google.com/118020098182159765872/posts/3Vs8v4q4cgg), I plan to update this post with new items. I'll be sure to note the additions.}
+**UPDATE:** Thanks to the folks in the [Google+ Chromebook Community!](https://plus.google.com/communities/105678482604512626671). Several of them helped me work out some technical issues and shared some new tips. Thanks to [their input](https://plus.google.com/118020098182159765872/posts/3Vs8v4q4cgg), I’ve added several new sections and additional information.
 
 In my post, I will cover the following high-level features:
 
@@ -36,7 +36,7 @@ In my post, I will cover the following high-level features:
 * [Miscellaneous](#miscellaneous)
     * [iCloud](#icloud)
     * [Screenshots](#screenshots)
-    * {UPDATE} [Dropbox](#dropbox)
+    * [Dropbox](#dropbox)
     * [TextExpander](#textexpander)
     * [Dictation](#dictation)
     * [Voice](#voice)
@@ -84,11 +84,11 @@ Current track pad functions include:
 * tap to select
 * two-finger tap right-click
 * two-finger scroll
-* {UPDATE} two-finger right and left to browse back and forward
-* {UPDATE} three-finger up to activate Overview mode, similar to Mac's Expose feature, and three down to deactivate
-* {UPDATE} three-finger tap on tab to close
-* {UPDATE} three finger left and right to change tab focus in chrome browser
-* {UPDATE} tap-dragging available as an option in accessibilities settings
+* two-finger right and left to browse back and forward
+* three-finger up to activate Overview mode, similar to Mac's Expose feature, and three down to deactivate
+* three-finger tap on tab to close
+* three finger left and right to change tab focus in chrome browser
+* tap-dragging available as an option in accessibilities settings
 
 Currently, there is no pinch to zoom option; however, the experimental features page (enter chrome:flags in the URL box) does list pinch-to-zoom options so there is hope that these features are on the way.
 
@@ -159,7 +159,7 @@ Missing from the results are items such as showtimes, weather, stocks, etc. I us
 # Chrome
 If you use the Chrome browser on your Mac, the transition to a Chromebook will be smooth. As long as you log into your Google account while using Chrome on the Mac, with data sync on, all your bookmarks, passwords, cross-compatible apps, etc. will sync to your new Chromebook. Adding additional items to your Chromebook will then transfer back to your Mac Chrome browser almost instantaneously, and vice versa. So if you need a tool from your Chromebook, you will find it on your Mac as well.
 
-{UPDATE} If you are a *Safari* user and have a bright shiny new Chromebook, now would be the time to make the switch to Chrome on your Mac. You will want to do the following:
+If you are a *Safari* user and have a bright shiny new Chromebook, now would be the time to make the switch to Chrome on your Mac. You will want to do the following:
 
 1. Download [Chrome for Mac](http://www.google.com/chrome/)
 2. Install Chrome
@@ -198,7 +198,7 @@ Another advantage to using Chrome Web Store app shortcuts is that I can use the 
 
 ![Chrome Overiew](https://lh3.googleusercontent.com/-RSg0MlTU9jY/VKRrPkRfogI/AAAAAAABXY4/CfswkHtJFk0/w638-h359-no/ChromeOS-Overview.png)
 
-{UPDATE} Overview is similar to *Mission Control* on a Mac. You activate Overview mode by tapping the following Chromebook key found on the top row:
+Overview is similar to *Mission Control* on a Mac. You activate Overview mode by tapping the following Chromebook key found on the top row:
 
 ![](https://lh5.googleusercontent.com/-TqRYWo42Po8/VKXqOOTL_CI/AAAAAAABXeQ/Yvw9AU2QlcA/w80-h36-no/chromebook-overview-key.png)
 
