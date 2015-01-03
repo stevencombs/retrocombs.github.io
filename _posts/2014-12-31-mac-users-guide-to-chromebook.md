@@ -10,11 +10,11 @@ comments: yes
 
 I like technology and gadgets. I can't help myself. Budget permitting, I try them all and one of the products I didn’t own was a Chromebook. I am unsure why the Google laptop fascinates me. Is it the simplicity? Is it the synchronization with the Chrome browser on my Mac? Is it the Linux underpinnings? I'm really not sure, but I wanted one!
 
-I tried Chrome OS on an old Acer netbook roughly two years ago; however, the installation was a hack and so was the performance. I wanted to experience a "real" Chromebook - one with the logo on the case and one created exclusively for the current version of Chrome OS. I choose the inexpensive [Acer C720](!a).
+I tried Chrome OS on an old Acer netbook roughly two years ago; however, the installation was a hack and so was the performance. I wanted to experience a "real" Chromebook - one with the logo on the case and one created exclusively for the current version of Chrome OS. I choose the inexpensive [Acer C720](http://www.amazon.com/gp/product/B00FNPD1VW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FNPD1VW&linkCode=as2&tag=bricinmypockb-20).
 
 ![My Chromebook](https://lh5.googleusercontent.com/-yu5L6oA9m3M/VKRrPvV-DXI/AAAAAAABXY4/e3KGCGNUVGo/w638-h479-no/my-chromebook.png)
 
-During Black Friday 2014, Amazon sold the [Acer C720 Chromebook](!a) for $150. Amazon reviews were excellent (4.5 stars). This was a comfortable price-point so I pulled the trigger. I’m really glad I did! I have learned much about Chrome OS.
+During Black Friday 2014, Amazon sold the [Acer C720 Chromebook](http://www.amazon.com/gp/product/B00FNPD1VW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FNPD1VW&linkCode=as2&tag=bricinmypockb-20) for $150. Amazon reviews were excellent (4.5 stars). This was a comfortable price-point so I pulled the trigger. I’m really glad I did! I have learned much about Chrome OS.
 
 This blog post will not be a review of this particular Chromebook. That may come later. What this post provides is a look at Chrome OS from a Mac user's perspective. It will contain my observations as well as some tips and tricks to make the transition a bit easier for Mac users considering a purchase.
 
