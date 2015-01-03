@@ -24,23 +24,23 @@ In my post, I will cover the following high-level features:
 
 #TOC
 
-* [Performance](#performance)
-* [Keyboard](#keyboard)
-* [Touchpad](#touchpad) - Magic Track Pad / Track Pad
-* [Files](#files) - Finder
-* [Search](#search) - Spotlight
-* [Chrome](#chrome) - Safari
-* [Applications](#applications)
-* [Shelf](#shelf) - Dock
-* [Overview](#overview) - Mission Control
-* [Miscellaneous](#miscellaneous)
-    * [iCloud](#icloud)
-    * [Screenshots](#screenshots)
-    * [Dropbox](#dropbox)
-    * [TextExpander](#textexpander)
-    * [Dictation](#dictation)
-    * [Voice](#voice)
-* [Conclusion](#conclusion)
+1. [Performance](#performance)
+2. [Keyboard](#keyboard)
+3. [Touchpad](#touchpad) - Magic Track Pad / Track Pad
+4. [Files](#files) - Finder
+5. [Search](#search) - Spotlight
+6. [Chrome](#chrome) - Safari
+7. [Applications](#applications)
+8. [Shelf](#shelf) - Dock
+9. [Overview](#overview) - Mission Control
+10. [Miscellaneous](#miscellaneous)
+	1. [iCloud](#icloud)
+	2. [Screenshots](#screenshots)
+	3. [Dropbox](#dropbox)
+	4. [TextExpander](#textexpander)
+	5. [Dictation](#dictation)
+	6. [Voice](#voice)
+11. [Conclusion](#conclusion)
 
 Let’s get started…
 
