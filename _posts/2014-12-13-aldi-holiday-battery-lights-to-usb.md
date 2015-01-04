@@ -14,6 +14,8 @@ I started with one of seven old Apple 30 pin dock connector cables (who needs th
 
 I opened the battery compartment, removed the batteries and soldered the positive (red) and negative (black) wires to the battery connectors. Next I routed the cable back through the switch opening. Surprisingly, there was plenty of room. Finally, I put the battery compartment cover back on and flipped the switch. All the lights fired up and there was no smoke. Success! I believe the whole process took me all of about 15 minutes and that includes heating up the soldering iron.
 
+{**UPDATE:** I burned out the LEDs. I made boneheaded error and didn’t convert the 5v to 3v as I thought the number of LEDs could handle it. They couldn’t and started going out one by one. Be sure to solder in a 150 ohm resistor between your positive source. This will convert the voltage roughly to 3v and should save your LEDs.}
+
 Below is a video of the results.
 
 <p><iframe src="//player.vimeo.com/video/114452584" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
