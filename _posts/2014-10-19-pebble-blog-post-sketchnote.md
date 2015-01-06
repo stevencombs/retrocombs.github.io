@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sketchnotes - Pebble Blog Post
+title: Pebble Blog Post Sketchnote
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-10-19 17:20
-category: sketchnotes
+category: art
 comments: yes
 ---
 
