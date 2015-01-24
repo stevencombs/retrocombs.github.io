@@ -18,11 +18,11 @@ While excited about the Palm, I wasn’t using the device regularly and I often 
 ## Enter GTD
 Sometime in the mid 2000s, I discovered the book [Getting Things Done](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0142000280&linkCode=as2&tag=bricinmypockb-20), GTD, by Paul Allen. It changed my life. No, seriously! This book was a game changer and not because I am a fanatic GTD user. Frankly, I've butchered Allen's GTD system to make it more simple and relevant to my life; however, what Allen did provide was inspiration, confidence in a system, and the basic tools to get my life organized. The key takeaway from his book, and the way [Allen sums it up](http://gettingthingsdone.com/) is to:
 
-> (1) **Capture** — collect what has your attention
-> (2) **Clarify** — process what it means
-> (3) **Organize** — put it where it belongs
-> (4) **Reflect** — review frequently
-> (5) **Engage** — simply do
+> (1) **Capture** — collect what has your attention  
+> (2) **Clarify** — process what it means  
+> (3) **Organize** — put it where it belongs  
+> (4) **Reflect** — review frequently  
+> (5) **Engage** — simply do  
 
 And more importantly,
 
