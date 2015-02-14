@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baofeng GT-3 Unboxing Gallery Test
+title: Baofeng GT-3 Unboxing
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-02-14 15:44
