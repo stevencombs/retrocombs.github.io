@@ -13,7 +13,7 @@ I think (as time permits) I want to test and obtain my [Technician Class amateur
 
 The most inexpensive way to try amateur/ham radio is to purchase a [Baofeng 2-way radio](http://goo.gl/mLp88H). These are Chinese manufactured radios that are inexpensive and according to online reviews, a good value. I chose the $50 GT-3 model (thanks to my Mom for the Amazon Gift card!) over the classic $30 [UV-5R model](http://goo.gl/ayYw2Y) simply to get an upgrade to the display, firmware, accessories and appearance.
 
-Without a license, you can use the [Baofeng](http://goo.gl/mLp88H) as a:
+Without the license, you can use the [Baofeng](http://goo.gl/mLp88H) as a:
 
 * family two-way radio ([read more](http://www.fcc.gov/encyclopedia/family-radio-service-frs))
 * FM radio
