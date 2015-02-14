@@ -22,11 +22,11 @@ Not familiar with the Amazon Echo? Take a look at my images and be sure to read 
 
 ![I’m working](https://lh3.googleusercontent.com/-m0YBFMN71vI/VNFkxt9dDbI/AAAAAAABYzw/Etwltizhrgc/w642-h461-no/amazon-echo-ring.gif)
 
-> Alexa: Images can be found on Google+ using the link…
+> Alexa: View images using the gallery below
 
-> [http://goo.gl/zWVZC2](http://goo.gl/zWVZC2)
-
-> Alexa: Be sure to read the captions for each image to ensure full enjoyment. Use the navigation tools at the bottom of the page to cycle through the images.
+<style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 640px; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.flickr.com/photos/bimp/sets/72157650402031559/player/' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+<br>
+> Alexa: Click individual image to see larger version and be sure to read the captions for each image to ensure full enjoyment. Use the navigation tools to cycle through the images.
 
 > Steven: Alexa…Thank you
 
