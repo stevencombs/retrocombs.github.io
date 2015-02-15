@@ -24,7 +24,7 @@ Not familiar with the Amazon Echo? Take a look at my images and be sure to read 
 
 > Alexa: View images using the gallery below
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 640px; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: auto; }</style><div class='embed-container'><iframe src='https://www.flickr.com/photos/bimp/sets/72157650402031559/player/' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 640px; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.flickr.com/photos/bimp/sets/72157650402031559/player/' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
 <br>
 > Alexa: Click individual image to see larger version and be sure to read the captions for each image to ensure full enjoyment. Use the navigation tools to cycle through the images.
 
