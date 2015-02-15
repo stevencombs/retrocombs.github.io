@@ -20,8 +20,6 @@ Not familiar with the Amazon Echo? Take a look at my images and be sure to read 
 
 > Steven: Alexa…show unboxing images
 
-![I’m working](https://lh3.googleusercontent.com/-m0YBFMN71vI/VNFkxt9dDbI/AAAAAAABYzw/Etwltizhrgc/w642-h461-no/amazon-echo-ring.gif)
-
 > Alexa: View images using the gallery below
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 640px; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.flickr.com/photos/bimp/sets/72157650402031559/player/' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
