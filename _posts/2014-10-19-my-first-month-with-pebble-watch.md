@@ -4,7 +4,7 @@ title: My first month with the Pebble watch
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-10-19 15:31
-category: pebble
+category: gadgets
 comments: yes
 ---
 
