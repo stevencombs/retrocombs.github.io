@@ -9,7 +9,7 @@ comments: yes
 ---
 I think (as time permits) I want to test and obtain my [Technician Class amateur radio license](http://www.arrl.org/getting-your-technician-license). To gauge my interest, I purchased the [Baofeng GT-3](http://goo.gl/dQRXj9) and the [Technician Class 2014-18 FCC Element 2 Radio License Preparation](http://goo.gl/W2vpV2) guide.
 
-![My Amateur Radio gauge interest purchases](https://farm8.staticflickr.com/7299/16342091798_fce5b8efb6_z.jpg)
+![My Amateur Radio gauge interest purchases](https://lh4.googleusercontent.com/-s_PnXve79jI/VN_9dRwWjwI/AAAAAAABZU0/7UEaK0hna8o/w692-h519-no/baofenggt3-book.jpg)
 
 The most inexpensive way to try amateur/ham radio is to purchase a [Baofeng 2-way radio](http://goo.gl/mLp88H). These are Chinese manufactured radios that are inexpensive and according to online reviews, a good value. I chose the $50 GT-3 model (thanks to my Mom for the Amazon Gift card!) over the classic $30 [UV-5R model](http://goo.gl/ayYw2Y) simply to get an upgrade to the display, firmware, accessories and appearance.
 
@@ -21,7 +21,7 @@ Without the license, you can use the [Baofeng](http://goo.gl/mLp88H) as a:
 * ham receiver
 * scanner
 
-So far, I’ve been pleased with the radio; *although at this point, I have no idea what I am doing beyond listening to FM radio and programming in our local weather radio*. 
+So far, I’ve been pleased with the radio; *although at this point, I have no idea what I am doing beyond listening to FM radio and programming in our local weather radio*.
 
 This post shares the contents of the box and highlights included accessories. Later posts may include other thoughts as well as tips and tricks. For now, enjoy the unboxing images in the gallery below. Each image includes a quick synopsis and some commentary.
 
