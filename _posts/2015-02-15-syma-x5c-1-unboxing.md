@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: SYMA X5C-1 Quadcopter Unboxing
+title: SYMA X5C1 Quadcopter Unboxing
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-02-15 18:38
