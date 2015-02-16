@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: SYMA X5C1 Quadcopter Unboxing
