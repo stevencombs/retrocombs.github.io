@@ -28,7 +28,7 @@ I made my [purchase from GearBest](http://www.gearbest.com/rc-quadcopters/pp_732
 For now, enjoy my unboxing gallery below to find out what’s in the box as well as read a few observations.
 
 # Syma X5C-1 Quadcopter
+Scroll over image below to reveal gallery navigation tools. Fullscreen also available to view details.
 <style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 640px; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.flickr.com/photos/bimp/sets/72157650831810541/player/' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
-Click individual image to see larger version
 
 If you have any questions, fill free to leave them in the comments below. I’ll try and answer them.
