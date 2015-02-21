@@ -1,7 +1,7 @@
 ---
 
-name: "Steven B. Combs"
-description: "Steven B. Combs’ Blog"
+name: "Steven Combs"
+description: "Steven Combs’ Blog"
 tagline: "Combsing through the minutia"
 url: "http://www.stevencombs.com"
 
@@ -20,6 +20,7 @@ theme:
   email: steven.combs@gmail.com
   google_analytics_key: UA-1632774-9
   highlight_color: "#3498db"
+  name: "Steven Combs"
   show_disclaimer: true
   social:
     gplus: +StevenCombsPhD
