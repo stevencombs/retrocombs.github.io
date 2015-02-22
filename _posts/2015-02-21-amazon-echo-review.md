@@ -182,6 +182,8 @@ You can even use Echo to keep you organized with the following:
 
 These items will be placed in the Amazon Echo app for review. You can even ask Echo to tell you what items are on your lists.
 
+You might not recognize this feature immediately; however, the Echo can serve as a Bluetooth speaker. You can pair your iOS device (“Alexa, pair Bluetooth.”) and stream audio to the Echo. You can then listen to other services not available on the Echo such as Pandora, Spotify or Overcast. You won’t be able to use Echo voice control but the Echo does make a pretty decent sounding Bluetooth speaker. Consider this feature a value add.
+
 # Remote? We don’t need no stinkin’ remote.
 Seriously, I’m not sure why a remote is included in the package. I have mine in its magnetic cradle attached to my iMac. I’ve yet to use it and personally think using it would take away the magic. There may be instances where the remote and its built-in microphone are useful, but I’ve yet to find it. Drop me a comment below if you are Echo user who has found a use for the remote.
 
