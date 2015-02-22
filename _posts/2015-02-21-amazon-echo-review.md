@@ -199,7 +199,7 @@ Since my purchase, I’ve received a one email to inform me of new voice command
 
 You can predict the response from Echo. Now obviously these are just fun commands; however, it does at least demonstrate that the Echo’s cloud brain can learn new tricks. Let’s hope future updates provide more useful commands; which leads me to my wish list.
 
-# Wish I may, I wish I might…
+# Wish I may, wish I might…
 While I do use the Amazon Echo regularly, there are several features I wish were available. I’ll list each one and provide a bit of narrative.
 
 **Shopping** - For the life of me I don’t understand why I can’t purchase items beyond digital music from my Echo. I can’t even price check an item or hear more about a product. This seems like a natural fit with the Echo. Its Amazon after all! This would be a great feature for items you purchase regularly such as batteries, kitchen products, etc.
