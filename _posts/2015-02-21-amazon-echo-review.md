@@ -192,10 +192,10 @@ Since my purchase, I’ve received a one email to inform me of new voice command
 
 > Echo's also quite the movie buff. Have some fun testing out its responses to classic movie quotes. A few to try:
 >
-> From Jerry McGuire: "Alexa, Show me the money!"
-> From Wayne's World: "Alexa, Party on, Wayne." 
-> From Airplane: "Alexa, Surely, you can't be serious."
-> From A Few Good Men: "Alexa, I want the truth."
+> From Jerry McGuire: "Alexa, Show me the money!"  
+> From Wayne's World: "Alexa, Party on, Wayne."  
+> From Airplane: "Alexa, Surely, you can't be serious."  
+> From A Few Good Men: "Alexa, I want the truth."  
 
 You can predict the response from Echo. Now obviously these are just fun commands; however, it does at least demonstrate that the Echo’s cloud brain can learn new tricks. Let’s hope future updates provide more useful commands; which leads me to my wish list.
 
