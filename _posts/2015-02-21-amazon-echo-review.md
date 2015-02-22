@@ -25,7 +25,7 @@ I moved the Echo to what would be its final resting place; the bathroom. We have
 
 ![My Amazon Echo Location](https://lh6.googleusercontent.com/-tkL-ylfSL0k/VOjFGbNKvmI/AAAAAAABZws/PQSY9tn4isI/w1214-h911-no/IMG_7192.jpeg)
 
-I knew I found the perfect location when I came home one evening and heard my  wife using the Echo. She had not used it in any other room the house. So now that you know the location of our Echo, let me share how we use it.
+I knew I found the perfect location when I came home one evening and heard my wife using the Echo. She had not used it in any other room in the house. So now that you know the location of our Echo, let me share how we use it.
 
 # Alexa!
 As shown in the video, you use a *wake* word to activate the Echo. Currently you have two options:
@@ -43,7 +43,7 @@ I have to admit, the light ring is pretty spectacular and a great visual cue. I 
 
 For instance you can say:
 
-“Alexa, what time is it?” 
+“Alexa, what time is it?”
 or
 “Alexa, what’s the weather for tomorrow?”
 
@@ -65,9 +65,9 @@ Like most voice controlled devices, user training is still a requirement. No voi
 Echo provides music using three services, [Amazon Prime Music](http://www.amazon.com/b?node=8335758011), [iHeartRadio](http://www.iheart.com/) and [TuneIn Radio](http://tunein.com/). Since access to on demand music is a key feature of the Echo, let’s take a look at these services.
 
 ## Amazon Prime Music
-To listen to Amazon Prime Music, you must first be an [Amazon Prime](http://www.amazon.com/gp/product/B00DBYBNEE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DBYBNEE&linkCode=as2&tag=bricinmypockb-20) member (currently $99). We are subscribers and if you own an Echo, you will want to be. Many people are unaware that Amazon Prime not only provides free two-day shipping, but also access to video content (Amazon originals, movies and television), the Kindle lending library, photo storage and free music. 
+To listen to Amazon Prime Music, you must first be an [Amazon Prime](http://www.amazon.com/gp/product/B00DBYBNEE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DBYBNEE&linkCode=as2&tag=bricinmypockb-20) member (currently $99). We are subscribers and if you own an Echo, you will want to be. Many people are unaware that Amazon Prime not only provides free two-day shipping, but also access to video content (Amazon originals, movies and television), the Kindle lending library, photo storage and free music.
 
-Echo uses the Amazon Prime music service to provide access to thousands of free songs. Want to listen by a tune from Boston? Say:
+Echo uses the Amazon Prime music service to provide access to thousands of free songs. Want to listen to songs by Boston? Say:
 
 “Alexa, play Amazon Prime band Boston.”
 
@@ -77,7 +77,7 @@ Requests by music genre have been hit or miss for me; although, I have been succ
 
 “Alexa, list classic rock playlists.”
 
-If you store music you own in the Amazon Cloud or have made music purchases via Amazon, you can access your songs and albums using the Echo. I was easily able play purchased albums; however, I have a mix of music from sources such as: ripped CDs, Google Play, Amazon and iTunes. In order to use Echo, I will have to upload every song to Amazon. This would require me to pay extra for cloud storage. I am not going to do this as I can listen to my music collection on my [Sonos](http://www.amazon.com/gp/product/B005441AJC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005441AJC&linkCode=as2&tag=bricinmypockb-20) without the need to purchase cloud storage.
+If you store music you own in the Amazon Cloud or have made music purchases via Amazon, you can access your songs and albums using the Echo. I was able to listen to purchased albums; however, I have a mix of music from sources such as: ripped CDs, Google Play, Amazon and iTunes. In order to use Echo, I have to upload every song to Amazon. This will require me to pay extra for cloud storage. I am not going to do this. I can listen to my music collection on my [Sonos](http://www.amazon.com/gp/product/B005441AJC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005441AJC&linkCode=as2&tag=bricinmypockb-20) without a additional cost.
 
 Frankly, I’m not that interested in storing music in the cloud anymore. I like to be surprised by the next song and to discover new and old favorites. That’s where services such as [Pandora](http://www.pandora.com/) shine; however, Pandora is not an option. Thankfully iHeartRadio is.
 
@@ -86,24 +86,22 @@ Admittedly, before the Echo arrived, I was unfamiliar with [iHeartRadio](http://
 
 iHeartRadio usage is similar to Pandora. You search for an artist or a song and iHeartRadio will build a station around that selection. The key to successful use of iHeartRadio with Echo is to create an iHeartRadio account online, create/save stations, rate music, and then ensure you give your stations names you can remember. Echo, frustratingly, cannot list your saved stations.
 
-While listening to an iHeartRadio station, you can even customize your station by using the command:
+While listening to an iHeartRadio station, I can even customize stations using the command:
 
 “Alexa, [thumbs up/thumbs down].”
 
-iHeartRadio also provides access to local radio stations. I believe TuneIn Radio (more below) provides better access to terrestrial radio streams; however, I can see the appeal of using a single service to provide access to both custom and local stations.
+iHeartRadio also provides access to local radio stations. I believe TuneIn Radio, more later, provides better access to terrestrial radio streams; however, I can see the appeal of using a single service to provide access to both custom and local stations.
 
 To tune to an iHeartRadio station (either live or custom) you simply say:
 
 “Alexa, iHeartRadio station [station name].”
 
-The Echo Light Ring will swirl and within a second or two the Echo will play the requested station; sometimes. Again, you have to know the station name exactly. If you deviate from the station name one iota, all bets (and music) are off. Echo owners will want to create an iHeartRadio account and give it a try. I currently prefer using iHeartRadio over the Amazon Prime Music service.
+The Echo Light Ring will swirl and within a second or two the Echo will play the requested station; sometimes. Again, you have to know the station name exactly. If you deviate from the station name one iota, all bets, and music, are off. Echo owners will want to create an iHeartRadio account and give it a try. I currently prefer using iHeartRadio over the Amazon Prime Music service.
 
 ## TuneIn Radio
-I’ve been a [TuneIn Radio](http://tunein.com/) user for many users. TuneIn Radio’s specialty is to provide streams of terrestrial radio. They’ve even branched out and now provide access to podcasts. So if you want to listen to podcasts on the Echo, this service will provide that option. I haven’t tried this as my podcast listening only occurs while running or in the car.
+I’ve been a [TuneIn Radio](http://tunein.com/) user for many years. TuneIn Radio's main focus is to provide access to to terrestrial radio but it also provides access to podcasts. If you want to listen to podcasts on the Echo, you will use TuneIn Radio. I haven’t tried this as my podcast listening only occurs during my run or while traveling.
 
-While you need an account to iHeartRadio, strangely, an account to TuneIn Radio does not matter. While this might be fine for those who don’t use the service and want to stream local radio, those of us with accounts can’t access our favorites. It doesn’t matter though because TuneIn Radio is the quickest way to tune to a local station on the Echo.
-
-Tuning to a radio station using TuneIn Radio is as simple as knowing the station call letters.
+While you need an account to iHeartRadio, strangely, an account to TuneIn Radio does not matter. While this might be fine for those who don’t use the service regularly, those of us with accounts can’t access our favorites. It doesn’t matter though because tuning to a radio station is as simple as knowing the station call letters.
 
 “Alexa, TuneIn Radio station WWWY.”
 
@@ -114,7 +112,7 @@ Echo provides hands-free control of the music, which is why the bathroom is a gr
 
 “Alexa, turn up the volume.”
 
-or 
+or
 
 “Alexa, volume [number between 0 and 10].”
 
@@ -145,25 +143,25 @@ While shaving or waking up on a lazy Saturday morning, I can say:
 
 “Alexa, news.”
 
-Alexa will play the latest NPR hourly update on TuneIn Radio. Using the iOS app, as shown below, I can choose additional news items for Echo to play or read to me.
+Alexa will play the latest NPR and/or BBC hourly update on TuneIn Radio. Using the iOS app, as shown below, I can choose additional news items for Echo to play or read to me.
 
 ![Echo news selection](https://lh3.googleusercontent.com/-8YhzpSKZADM/VOjIQuaLiHI/AAAAAAABZw0/hqvsMfZIQb8/w557-h988-no/IMG_7195.png)
 
 Did I mention that the bathroom location is the best spot in the house for our Echo?
 
 # Make time for Echo
-Echo is also a great clock even though it doesn’t have a display. You can use echo to set an alarm, timer or simply request the time. I often find myself asking Echo to tell me the time in the morning or later in the evening with a simple:
+Echo is a great clock even though it doesn’t have a display. You can use echo to set an alarm, timer or simply request the time. I often find myself asking Echo to tell me the time with a simple:
 
 “Alexa, what time is it?”
 
-Setting a timer or alarm is simple enough. When you set a timer, you can even ask:
+Setting a timer or alarm is easy and convenient. When you set a timer, you can even ask:
 
 “Alexa, how much time is left?”
 
 Echo will happily tell you the remaining time. Echo really is the best clock, without a display, that I have every used.
 
 # Echo odds and ends
-What I’ve describe above are really the key features of the echo; however there are a many other things you can do. In the list below, from the [Amazon Echo Ask Questions page](http://www.amazon.com/gp/help/customer/display.html?nodeId=201549800), you will find additional commands. What they do should speak (or read) for themselves.
+What I describe above are the key features of the echo; however there are a many other things you can do. In the list below, from the [Amazon Echo Ask Questions page](http://www.amazon.com/gp/help/customer/display.html?nodeId=201549800), you will find additional commands. What they do should speak (or read) for themselves.
 
 * “Alexa, who is [name]?”
 * “Alexa, when is [holiday]?”
@@ -182,27 +180,27 @@ You can even use Echo to keep you organized with the following:
 
 These items will be placed in the Amazon Echo app for review. You can even ask Echo to tell you what items are on your lists.
 
-You might not recognize this feature immediately; however, the Echo can serve as a Bluetooth speaker. You can pair your iOS device (“Alexa, pair Bluetooth.”) and stream audio to the Echo. You can then listen to other services not available on the Echo such as Pandora, Spotify or Overcast. You won’t be able to use Echo voice control but the Echo does make a pretty decent sounding Bluetooth speaker. Consider this feature a value add.
+The Echo is also a Bluetooth speaker. You can pair your iOS device (“Alexa, pair Bluetooth.”) and stream audio to the Echo. You can then listen to other services not available on the Echo such as Pandora, Spotify or Overcast. You won’t be able to use Echo voice control but the Echo does make a pretty decent sounding Bluetooth speaker.
 
 # Remote? We don’t need no stinkin’ remote.
-Seriously, I’m not sure why a remote is included in the package. I have mine in its magnetic cradle attached to my iMac. I’ve yet to use it and personally think using it would take away the magic. There may be instances where the remote and its built-in microphone are useful, but I’ve yet to find it. Drop me a comment below if you are Echo user who has found a use for the remote.
+Seriously, I’m not sure why a remote is included in the package. Our is in its magnetic cradle attached to my iMac. I’ve yet to use it and personally think using it would take away the magic. There may be instances where the remote and its built-in microphone are useful, but I’ve yet to find one. Drop me a comment below if you are Echo user who has found a use for the remote.
 
 # Echo gets smarter
 Since my purchase, I’ve received a one email to inform me of new voice commands. Below is an excerpt from that email.
 
 > Echo's also quite the movie buff. Have some fun testing out its responses to classic movie quotes. A few to try:
 >
-> From Jerry McGuire: "Alexa, Show me the money!"  
-> From Wayne's World: "Alexa, Party on, Wayne."  
-> From Airplane: "Alexa, Surely, you can't be serious."  
-> From A Few Good Men: "Alexa, I want the truth."  
+> From Jerry McGuire: "Alexa, Show me the money!"
+> From Wayne's World: "Alexa, Party on, Wayne."
+> From Airplane: "Alexa, Surely, you can't be serious."
+> From A Few Good Men: "Alexa, I want the truth."
 
 You can predict the response from Echo. Now obviously these are just fun commands; however, it does at least demonstrate that the Echo’s cloud brain can learn new tricks. Let’s hope future updates provide more useful commands; which leads me to my wish list.
 
 # Wish I may, wish I might…
-While I do use the Amazon Echo regularly, there are several features I wish were available. I’ll list each one and provide a bit of narrative.
+While I do use the Amazon Echo regularly, there are several features I recommend. I’ll list each one and provide a bit of narrative.
 
-**Shopping** - For the life of me I don’t understand why I can’t purchase items beyond digital music from my Echo. I can’t even price check an item or hear more about a product. This seems like a natural fit with the Echo. Its Amazon after all! This would be a great feature for items you purchase regularly such as batteries, kitchen products, etc.
+**Shopping** - For the life of me I don’t understand why I can’t purchase items beyond digital music from my Echo. I can’t even price check an item or hear more about a product. This seems like a natural fit for the Echo. Its Amazon after all! This would be a great feature for items you purchase regularly such as batteries, kitchen products, etc.
 
 **Digital display** - I mentioned earlier that the Echo doesn’t have a display; however if it did, I could finally tell the time at night without calling out a name and waking up my wife. The addition of the outside temperature as well as what’s currently playing would also be useful. I get that Amazon wants the echo to be a voice/audio gadget, but sometimes you really need a display.
 
@@ -227,7 +225,7 @@ The Echo could then keep me informed through the morning and ensure I am on time
 That’s a pretty tall order for a first generation device that even Amazon Prime customers can’t purchase for another 3-4 months; however Amazon touts this thing as a device that will continue to get smarter and smarter, so save for the hardware modifications, these aren’t unreasonable requests.
 
 # The final verdict
-I really like our Echo despite the occasional hiccup. It does duplicate the features of other devices, but it also trumps other devices in many ways. After all, I’m not going to use Siri in the shower and Echo sound quality is far superior to my iPhone. 
+I really like our Echo despite the occasional hiccup. It does duplicate the features of other devices, but it also trumps other devices in many ways. After all, I’m not going to use Siri in the shower and Echo sound quality is far superior to my iPhone.
 
 The Echo is a fine gadget and does all things advertised. Given time and a couple of strong cloud updates, the Echo will become more useful and a better value. Part of the fun of Echo ownership is learning what new features Amazon adds.
 
