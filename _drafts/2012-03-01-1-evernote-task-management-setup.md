@@ -8,8 +8,6 @@ category: evernote
 comments: yes
 ---
 
-In a [previous post](http://www.stevencombs.com/evernote/2015/01/24/my-evernote-task-management-journey.html), I discussed my path toward an Evernote task management system. At the completion of that post, I mentioned that I would share my system. This post presents that system. I recommend you read the previous post as it will explain the history, theory and use case of my system.
-
 You can replicate the majority of my system using the free version of Evernote so there's no reason to not give this a shot if you are struggling to get organized. Below you will find step by step instructions to recreate my Evernote task management system.
 
 # Setup
