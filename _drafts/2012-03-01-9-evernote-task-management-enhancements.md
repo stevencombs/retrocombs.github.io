@@ -18,3 +18,4 @@ Code: %filltext:name=Subject% !%Y/%m/%filltext:name=day:default=28:width=2% @Tas
 IFTT integration: see recipe in IF
 AppleScript
 Services
+Evernote Web Clipper
