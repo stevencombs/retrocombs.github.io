@@ -8,8 +8,41 @@ category: evernote
 comments: yes
 ---
 
-## Manual creation in Evernote using Reminders
-Enter an item in the Reminders area at the top of the !Tasks list
+
+In our previous posts we have setup the [Evernote Task Management System (ETMS)](InsertULR) and [created a *Tasks* notebook](InsertURL). If you are just joining us, I recommend you read those two previous posts. Its now time to start managing our tasks and begin to get some work done.
+
+## Task List View
+In the previous post, I shared the image below:
+
+![Task management list](https://lh5.googleusercontent.com/-ZM666NC5aDU/VPtPXQ_DVtI/AAAAAAABZ40/b8cyo5f9vCk/w1280-h720-no/List%2Bfrom%2Bindividual%2Btasks.png)
+
+At the top you see an item that says, *Add a reminder to Tasks*. You can use this area to capture tasks. Let’s give this a shot:
+
+1. Using the mouse, click on the *Add a reminder to Tasks* area. A cursor will appear.
+3. In the *Add a reminder to Tasks* area, type `Create blog post outline`
+2. Press the `Enter` ↩ key.
+
+Evernote creates a new note that includes an undated reminder and presents this note so that you can add additional information to task, set a due date, and/or add tags. This is shown in the image below.
+
+![New Task](https://lh5.googleusercontent.com/-t9dzu_Pgxjo/VPtikXzLphI/AAAAAAABZ5M/twYOQ_JgZ58/w1280-h720-no/New%2BTask.png)
+
+Here’s where the fun begins; as well as the application of the Getting Things Done (GTD) method.
+
+# Apply GTD concepts
+You now know how to create a single task and now understand that the task created is an individual note, not part of a list of tasks on a single note. The power is that now we can use this individual note to apply GTD concepts.
+
+I will not cover the GTD method in this post and I assume you have some familiarity with the system. If you don’t, I recommend you read [Allen’s book](http://www.amazon.com/gp/product/0142000280/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0142000280&linkCode=as2&tag=bricinmypockb-20&linkId=EQFSZW2WSX4HYXI3) book or find one of thousands of blog posts online that provide a primer to the GTD system. I will simply show you how to apply the concepts and briefly touch on what they do.
+
+Let’s start with the reminder that was automatically generated. Yes, the task has a reminder; however, there is no due date. It is simply a tag used by Evernote to identify this note as a task. Let’s add a due date.
+
+
+
+
+
+Daily emails
+
+
+
 
 ## Manual creation using a new note
 Create a note and then tag it appropriately and move to !Task folder

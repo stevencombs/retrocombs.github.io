@@ -19,6 +19,7 @@ Load the Mac Evernote application. Unless you made modifications since the last 
 
 Create a new notebook using the following steps.
 
+
 1. Select *File* | *New Notebook* | *New Synchronized Notebook* from the main menu or use the ⇧⌘N keyboard combination. A synchronized notebook is important because want access to our tasks online and from our iOS devices. Evernote will load the notebooks page and create a new notebook that includes a default name.
 2. Type the name `Tasks` and hit ↩. Evernote will create a new notebook called Tasks.
 3. Double-click the *Task* notebook in the notebook list and Evernote will display the notes view for the *Tasks* notebook. It will, of course, be empty as demonstrated in the image below.
@@ -26,7 +27,7 @@ Create a new notebook using the following steps.
 ![Empty Task Notebook](https://lh4.googleusercontent.com/-gjC-YGc0Psw/VPPBCJOrKBI/AAAAAAABZzA/_XvaNSOONnM/w1280-h720-no/Empty%2BTask%2BNotebook.png)
 
 # System Philosophy
-Long time Evernote users know that Evernote includes a way to create lists in a note. These lists contain check boxes to click once a task is complete. You can see an example of this in the image below.
+Long time Evernote users know that Evernote includes a way to create lists in a note. These lists contain check boxes to identify a task as complete. You can see an example of this in the image below.
 
 ![Sample checklist](https://lh5.googleusercontent.com/-NNanwp_LT2o/VPPBCfuR-wI/AAAAAAABZy4/WxbC8CPiZF4/w1280-h720-no/Sample%2BChecklist.png)
 
@@ -34,15 +35,20 @@ My guess is that many have tried to use this feature to manage their task list. 
 
 If you’ve read Allen’s book, you will see bits and pieces of his system in my ETMS. I won’t go all out and say that my system is a complete Evernote GTD system, but its close. Hardcore GTD disciples may not be able to cope with my degraded GTD system and may need to dive into dedicated Mac GTD software such as [OmniFocus 2](https://itunes.apple.com/us/app/omnifocus-2/id867299399?mt=12&uo=4&at=10l9LR&ct=).
 
-Let’s talk a bit more about Evernote lists. Below are the problems I have with a single note that contains a task list:
+Let’s talk a bit more about Evernote lists. Using task lists, there is no way to:
 
-* There is no way to tag each item with an individual due date. Only notes can have due dates, not items.
-* There is no way to sort tasks automatically.
-* There is no easy way to upgrade a task into a project (a collection of tasks).
-* There is no way to share and/or delegate a single task with others.
-* There is no way to easily attach supporting files to a task without cluttering up the list.
+* assign individual due dates for each task. Only individual notes can have due dates, not items in the list.
+* create individual tags for each task.
+* automatically sort tasks.
+* upgrade a task to a project (a collection of tasks).
+* share and/or delegate a single task to others.
+* attach supporting files to a task without cluttering up the list.
 
-Here’s the secret to my system; we are going to create an individual note for each task and store it within our Task notebook. Not only that, but Evernote will recognize theses notes as tasks and generate an overall task list complete with completion checks. We will learn how to create these tasks in our next post. For now we have a couple of house cleaning items we need to complete.
+Here’s the way around these negatives; we are going to create an individual note for each individual task and store it within our Task notebook. Evernote will then recognize theses notes as tasks and generate an overall task list complete with completion checks, as shown in the image below.
+
+![List from individual tasks](https://lh5.googleusercontent.com/-ZM666NC5aDU/VPtPXQ_DVtI/AAAAAAABZ40/b8cyo5f9vCk/w1280-h720-no/List%2Bfrom%2Bindividual%2Btasks.png)
+
+We create these tasks and utilize this task list in our next post. For now we have a couple of house cleaning items we need to complete.
 
 # Inbox
 Follow steps 1 through 3 and create another notebook called *Inbox*. This notebook will become a critical component not only of your ETMS, but also your day-to-day Evernote usage.
@@ -62,23 +68,22 @@ The *Inbox* notebook is now the default notebook for all incoming notes. You wil
 You will use the inbox to collect items you aren’t sure what to do with. They may become tasks; however, they may be simply something you are unsure whether you should keep or delete. Just keep this in mind for now. More on this as we learn how to use the ETMS.
 
 # Shortcuts
-Although currently we only have two or three notebooks, as you begin to trust Evernote and create additional notebooks, there are some notebooks and notes you will always want to have quick access to. Evernote provides a way to do this using their Shortcuts feature.
+Although currently we only have two or three notebooks, as you begin to create more, there are will be some notebooks and notes you will want to access quickly. Evernote provides a way to do this using the Shortcuts feature.
 
-Shortcuts are found in the upper-left corner of the Evernote software. Look there now and as long as you haven’t created a shortcut, you will find the text:
+Shortcuts are found in the upper-left corner of the Evernote software, highlighted in the image below. Look there now and as long as you haven’t created a shortcut, you will find the text:
 
 > Drag notes, notebook, or tags here for quick access
 
-1. From the *Notebooks* list, drag the two notebooks, *Inbox* and *Tasks*, to the *Shortcuts* text. Make sure that *Inbox* is first and *Tasks* is second.
-2. If they aren’t in the correct order, drag and drop the notebooks to sort. Your Evernote application should look like the image shown below.
+
+Let’s create shortcuts:
+
+1. From the *Notebooks* list, drag the two notebooks, *Inbox* and *Tasks*, to the *Shortcuts* area.
+2. To arrange the order of the shortcuts, drag and drop the notebooks to sort. Your Evernote application should look similar the image shown below.
 
 ![Shortcuts](https://lh4.googleusercontent.com/-rkSlDu_iQSM/VPPBCdaD_EI/AAAAAAABZy8/QTiWg1I30GU/w1281-h720-no/Shortcuts.png)
 
-The nice thing about shortcuts is that they are synchronized. They will appear in the web view of your Evernote account as well as on your iOS devices. This will ensure you have quick access to your inbox, and more importantly, your *Tasks* notebook.
+Shortcuts are synchronized. They will appear in the web view of your Evernote account as well as on your iOS devices. This will ensure you have quick access to your *Inbox*, and more importantly, your *Tasks* notebook.
 
-Go ahead and click on the shortcuts to give them a shot. When you do, you will immediately be taken to the notebook selected. They will both be empty for now, but soon we will fill up the *Tasks* notebook with tasks and that will be the focus of my next post. We will look at how to generate tasks within Evernote and begin to apply some GTD principles to each one.
+Go ahead and click on the shortcuts. When you do, you will immediately be taken to the notebook selected. They will both be empty for now, but soon we will fill up the *Tasks* notebook and that will be the focus of my next post. We will look at how to generate tasks within Evernote, view them and begin to apply some GTD principles to each one.
 
 Have a question or comment about this step in the process? Drop a comment below.
-
-
-
-
