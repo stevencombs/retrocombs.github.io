@@ -81,7 +81,7 @@ Slide the housing back slowly until the volume control, LED and antenna connecto
 ![](https://lh4.googleusercontent.com/-s3KWgSWJw_U/VQ8EBAnN44I/AAAAAAABaPw/DekGU_zG3Ag/s638-no/20.jpeg)
 Now gently flip the assembly from the left to expose the PCB and be careful not to pull the speaker wire off. As mentioned earlier, during this process you will tear a piece of adhesive connecting the speaker and the PCB. It’s not needed, so completely remove it. You’ve already voided the warranty.
 
-That’s all there is too it. That wasn’t hard; however, if you don’t have the step outlined, it could take you a minute or two to figure out the process. Hopefully, these steps will make it easier for someone else who needs/wants to open up their Baofeng GT-3.
+That’s all there is too it. That wasn’t hard; however, if you don’t have the steps outlined, it could be confusing and fraught with error. Hopefully, these steps will make it easier for someone else who needs/wants to open up their Baofeng GT-3.
 
 To put the unit back together, simply reverse the process. I’ve assumed you can figure that part out. I’ve done this several times and its pretty easy.
 
