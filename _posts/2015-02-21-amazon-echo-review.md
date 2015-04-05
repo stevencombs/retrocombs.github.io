@@ -109,7 +109,7 @@ To tune to an iHeartRadio station (either live or custom) you simply say:
 The Echo Light Ring will swirl and within a second or two the Echo will play the requested station; sometimes. Again, you have to know the station name exactly. If you deviate from the station name one iota, all bets, and music, are off. Echo owners will want to create an iHeartRadio account and give it a try. I currently prefer using iHeartRadio over the Amazon Prime Music service.
 
 ## {Update: April 5th, 2015} Pandora Radio
-Last week Amazon made the announcement that the Echo now supports Pandora Radio. Use of Pandora Radio is identifical to iHeartRadio save for the service command. For instance:
+Last week Amazon made the announcement that the Echo now supports Pandora Radio. Use of Pandora Radio is identical to iHeartRadio save for the service command. For instance:
 
 “Alexa, Pandora station [station name].”
 
