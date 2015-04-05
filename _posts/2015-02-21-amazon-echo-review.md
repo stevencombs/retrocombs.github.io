@@ -12,7 +12,7 @@ It’s been about a month since the [unboxing](http://www.stevencombs.com/gadget
 
 <hr>
 
-{**Update: April 5th, 2015**} As the Echo continues to receive upgrades, I will add them to this review. Updates will receive the same marker that appears before this paragraph before each new addition. A list of updates appears below.
+{**Update: April 5th, 2015**} As the Echo continues to receive upgrades, I will add them to this review. Updates will receive the same marker that appears before this paragraph. A list of updates appears below.
 
 **Updates:**
 
