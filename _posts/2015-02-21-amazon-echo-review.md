@@ -10,6 +10,16 @@ comments: yes
 
 It’s been about a month since the [unboxing](http://www.stevencombs.com/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://www.amazon.com/oc/echo/ref_=ods_dp_ae). Since the unboxing, we’ve put the Echo through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren’t familiar with the Amazon Echo, watch the video below before you read the rest of the post.
 
+<hr>
+
+{**Update: April 5th, 2015**} As the Echo continues to receive upgrades, I will add them to this review. Updates will receive the same marker that appears before this paragraph before each new addition. A list of updates appears below.
+
+**Updates:**
+
+* April 5th, 2015 - Echo receives Pandora support
+
+<hr>
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KkOCeAtKHIc" frameborder="0" allowfullscreen></iframe>
 
 Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and plugged it into a 110v outlet (required). Initial tests were conducted in this location. I would quickly learn that this was not to be the permanent home for the Echo.
@@ -97,6 +107,27 @@ To tune to an iHeartRadio station (either live or custom) you simply say:
 “Alexa, iHeartRadio station [station name].”
 
 The Echo Light Ring will swirl and within a second or two the Echo will play the requested station; sometimes. Again, you have to know the station name exactly. If you deviate from the station name one iota, all bets, and music, are off. Echo owners will want to create an iHeartRadio account and give it a try. I currently prefer using iHeartRadio over the Amazon Prime Music service.
+
+## {Update: April 5th, 2015} Pandora Radio
+Last week Amazon made the announcement that the Echo now supports Pandora Radio. Use of Pandora Radio is identifical to iHeartRadio save for the service command. For instance:
+
+“Alexa, Pandora station [station name].”
+
+My Pandora stations all start with a sequential number before the descriptive station name. I was surprised when the Echo was able to start my radio station named `02 | Hair Bands` with a simple:
+
+“Alexa, Pandora station 02.”
+
+I did not have to vocalize the entire station name. This makes it quick and simple to play my Pandora stations. Similar to iHeartRadio, you can also thumbs up and thumbs down your music to tailor your station.
+
+Echo will allow you to create a new Pandora station with the command:
+
+“Alexa, Pandora artist [artist name].”
+
+or...
+
+“Alexa, Pandora song [song name].”
+
+Echo will then ask if you want to add this station to your Pandora Radio list before playing. You won't be able to modify your station name or content using the Echo, but its a great way to create a new station.
 
 ## TuneIn Radio
 I’ve been a [TuneIn Radio](http://tunein.com/) user for many years. TuneIn Radio's main focus is to provide access to to terrestrial radio but it also provides access to podcasts. If you want to listen to podcasts on the Echo, you will use TuneIn Radio. I haven’t tried this as my podcast listening only occurs during my run or while traveling.
