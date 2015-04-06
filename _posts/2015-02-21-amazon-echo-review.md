@@ -241,7 +241,7 @@ While I do use the Amazon Echo regularly, there are several features I recommend
 
 **Enhanced Sound Quality** - Amazon Echo sound isn’t bad, especially for a bathroom radio; however, if you want a true music lover to take this thing seriously, you need better sound and a way to connect two to create a stereo field (once again, a feature stolen from Sonos). Even a simple speaker/microphone only unit would suffice. This would also allow you to extend the vocal receive range of your base unit throughout your home at a cheaper cost.
 
-**Additional Music Services** - Echo needs access to additional services such as Spotify, Pandora and SiriusXM streaming. It would also be nice, as mentioned earlier, to be able to stream my own personal music from a server on my network. I get that Amazon wants to push their music service and I can live with the excellent services the Echo currently includes; however, for mass adoption, I think Amazon will need to branch out and offer additional services as they do on their Fire TV.
+**Additional Music Services** - Echo needs access to additional services such as Spotify<s>, Pandora</s> and SiriusXM streaming. It would also be nice, as mentioned earlier, to be able to stream my own personal music from a server on my network. I get that Amazon wants to push their music service and I can live with the excellent services the Echo currently includes; however, for mass adoption, I think Amazon will need to branch out and offer additional services as they do on their Fire TV.
 
 **Calendar and Email Access** - As part of my morning ritual, I want to ask Echo to tell my about my daily activities or to read email. Add this feature and you have a device that makes you more productive. Add the ability to respond to or create an email and we have a game changer. Especially if I can send email to control [IFTTT](https://ifttt.com/) recipes. While I’m at it, IFTTT integration alone is a game changer.
 
@@ -265,7 +265,3 @@ The Echo is a fine gadget and does all things advertised. Given time and a coupl
 If you are considering an Echo purchase, you have to ask yourself, “Are the Echo features worth $200?” That’s a personal question you have to answer yourself. If you have $200 burning a hole in your pocket, probably. It's a fun device and you could spend much more on other gadgets that do less. If you can grab an Echo at the limited time Amazon Prime rate of $99, I highly recommend a purchase. No matter how much you spend on the Echo, you will only be satisfied if you force yourself to use it on a regular basis, which we have done. Ours is used everyday due to; location, location, location!
 
 More updates are on the way and we should probably look at the Echo again in a year. It might be fun to make a now-versus-then comparison. Until then, drop your comments and questions below.
-
-“Alexa, post blog post.”
-
-> Alexa: Posted. This post was written in Markdown and contains 3605 words and 20831 characters.
