@@ -16,7 +16,7 @@ See the bottom of this post for the raw markdown.
 
 * This is **bold**.
 * This is *italicized*.
-* This text is ~~strikethrough~~. This is <s>strikethrough</s> using html code.
+* This text is ~~strikethrough~~.
 
 ## Numbered List
 
