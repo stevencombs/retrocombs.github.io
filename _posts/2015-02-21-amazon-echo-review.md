@@ -17,7 +17,9 @@ It’s been about a month since the [unboxing](http://www.stevencombs.com/gadget
 **Updates:**
 
 * April 5th, 2015 - Echo receives Pandora support
-* April 11th, 2015 - Echo adds WeMo and Philips Hue support
+* April 11th, 2015 - Echo adds [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) support
+
+**TIP:** To jump to a an update, use the browser find (⌘ + F on Mac) feature and search for the date above.
 
 <hr>
 
@@ -179,7 +181,11 @@ Alexa will play the latest NPR and/or BBC hourly update on TuneIn Radio. Using t
 Did I mention that the bathroom location is the best spot in the house for our Echo?
 
 # {Update: April 11th, 2015} Control your home
-On April 8th, Amazon sent out emails to Echo owners and announced a new exciting feature; home automation control. Echo now supports two important products in this space, [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW). Not all models are supported. Below is the list provided from Amazon:
+On April 8th, Amazon sent out emails to Echo owners to announce a new feature; home automation control. Echo now supports two important products in this space, [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW). Here’s what Amazon had to say about this new feature:
+
+> You can now use Echo to switch on the lamp before getting out of bed, turn on the fan or heater while reading in your favorite chair, or dim the lights from the couch to watch a movie—all without lifting a finger...or even raising your voice.
+
+Not all WeMo and Philips Hue models are supported. Below is the list from Amazon:
 
 * [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3): Switch, Insight Switch, and Light Switch
 * [Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW): A19, Lux, BR30, Bloom, and LightStrip lights
@@ -188,14 +194,14 @@ Setup for both brand of devices is simplified by a single command:
 
 *"Alexa, discover my appliances."*
 
-Philips Hue users are prompted to press the connect button the bridge. After about 20 seconds, Alexa announces the number of devices connected. Once the connection is made, you can control the devices with Echo voice commands.
+Echo will prompt Philips Hue users to press the connect button on the bridge. After about 20 seconds, Alexa announces the number of devices connected. Once the connection is made, you can control the devices with Echo voice commands.
 
 I’ll begin with a WeMo discussion since we have those products in the home.
 
 ## WeMo
-<a href="http://www.amazon.com/gp/product/B00BB2MMNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BB2MMNE&linkCode=as2&tag=bricinmypockb-20&linkId=VLOBUBQU34NTXCRA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BB2MMNE&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bricinmypockb-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bricinmypockb-20&l=as2&o=1&a=B00BB2MMNE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" align="right"/>Before you begin using the WeMo devices, you need to know the label assigned to the each device. Use the WeMo app on your iOS device to view the labels. The label given, is part of the vocal command. If the label is not intuitive or easy to remember, I recommend you modify each before using the Echo. Label changes do not require you to rediscover devices.
+Before you begin to use a WeMo device, you need to know the label assigned to the each device. Use the WeMo app on your iOS device to view the labels. The label given, is part of the vocal command. If the label is not intuitive or easy to remember, I recommend you modify each before using the Echo. Label changes do not require you to rediscover devices.
 
-We have a fan in our bedroom. Initially the label for the WeMo device was *Master Bedroom*. I changed this to simply, *Fan*. I then tried the command:
+We have a fan in our bedroom. Initially the label for the WeMo device was *Master Bedroom*. I changed it to, *Fan*. I then tried the command:
 
 *“Alexa, turn on fan”*
 
@@ -203,18 +209,20 @@ The fan immediately turned on. It was very cool. I then tried this command to tu
 
 *“Alexa, turn off fan”*
 
-Nothing happened. What? I tried it again. Nothing. Several more times and I began to wonder if the Echo was not capable of turning off a device. I was a bit frustrated. Then I tried this command:
+Nothing happened. What? I tried it again. Nothing. Several more times and I began to wonder if the Echo was not capable of turning off a device. I was a bit frustrated. Then I tried this command out of frustration:
 
-*“Alexa turn off the fan”*
+*“Alexa turn off THE fan”*
 
-Did you see the additional *“the”* in that command? That’s what it took for the fan to turn off. You have to say “the Fan”. Now that we have the bit of information, we simply add “the” in front of both the on and off commands for consistency. Works like a charm. We can now turn this fan off from our bed without grabbing our iOS devices. My mind is now churning with other ideas!
+Did you see the additional *“THE”* in that command? That’s what it took for the fan to turn off. You have to say “the Fan”. Now that we have that bit of information, we simply add “the” in front of both the on and off commands for consistency. Works like a charm. We can now turn this fan on or off from our bed without grabbing our iOS devices. My mind is now churning with other ideas!
+
+An obvious exclusion from the list of WeMo devices supported is the [WeMo Maker](http://www.amazon.com/gp/product/B00N32H7U8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N32H7U8&linkCode=as2&tag=bricinmypockb-20&linkId=3GFAD7K72FRL25XM). This devices provides WeMo access to uncommon devices and appliances and allow Makers to tinker. Hopefully they will incorporate this device in the near future. It may actually work, I just don’t have one to test it with.
 
 ## Philips Hue
 I do not currently own a Philips Hue device and was not able to test this capability; however, I will list a demonstration command shared from Amazon below.
 
 *"Alexa, dim the living room lights to 20%"*
 
-Unknown if you can modify colors. I hope to add four Philips Hue bulbs in our bedroom in the future. If that occurs, I will expand this section.
+Unknown if you can modify colors. I hope to add four Philips Hue bulbs in our bedroom in the future. If/when that occurs, I will expand this section.
 
 # Make time for Echo
 Echo is a great clock even though it doesn’t have a display. You can use echo to set an alarm, timer or simply request the time. I often find myself asking Echo to tell me the time with a simple:
