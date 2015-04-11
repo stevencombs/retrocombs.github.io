@@ -17,6 +17,7 @@ It’s been about a month since the [unboxing](http://www.stevencombs.com/gadget
 **Updates:**
 
 * April 5th, 2015 - Echo receives Pandora support
+* April 11th, 2015 - Echo adds WeMo and Philips Hue support
 
 <hr>
 
@@ -38,10 +39,7 @@ I moved the Echo to what would be its final resting place; the bathroom. We have
 I knew I found the perfect location when I came home one evening and heard my wife using the Echo. She had not used it in any other room in the house. So now that you know the location of our Echo, let me share how we use it.
 
 # Alexa!
-As shown in the video, you use a *wake* word to activate the Echo. Currently you have two options:
-
-* Alexa
-* Amazon
+As shown in the video, you use a *wake* word to activate the Echo. Currently you have two options: *Alexa* or *Amazon*.
 
 I was surprised to learn “Echo” wasn’t an option; after all, that’s the name of the device. We choose to stick with Alexa. Amazon just didn’t ring for us.
 
@@ -53,13 +51,13 @@ I have to admit, the light ring is pretty spectacular and a great visual cue. I 
 
 For instance you can say:
 
-“Alexa, what time is it?”
+*“Alexa, what time is it?”*
 or
-“Alexa, what’s the weather for tomorrow?”
+*“Alexa, what’s the weather for tomorrow?”*
 
 I would previously say:
 
-“Alexa [one one thousand, two one thousand], what time is is?”
+*“Alexa [one one thousand, two one thousand], what time is is?”*
 
 Echo has a good track record. If no music is playing and I am within about 20 feet, Echo has about 100% accuracy. Now that’s not to say that Echo’s response is 100%, just that the Echo heard my command and translated was able to translate my voice to text. You may or may not get the response you expected. As you would suspect, accuracy decreases with distance or when there are loud background noises.
 
@@ -79,13 +77,13 @@ To listen to Amazon Prime Music, you must first be an [Amazon Prime](http://www.
 
 Echo uses the Amazon Prime music service to provide access to thousands of free songs. Want to listen to songs by Boston? Say:
 
-“Alexa, play Amazon Prime band Boston.”
+*“Alexa, play Amazon Prime band Boston.”*
 
 Alexa will shuffle the artist’s music. This is great if you know what artists are available. In order to find out, you will need to browse Amazon Prime music in your browser. You can’t ask Echo to list music available. Your request for an artist or song will be a shot in the dark, which can lead to some interesting results.
 
 Requests by music genre have been hit or miss for me; although, I have been successful recently with requests for “classic rock” and “heavy metal.” The music I receive is a curated playlist of songs from the genre. If I move to another genre and back again, the same songs from the original playlist are frequently repeated. There’s not a lot of variety. Additional playlists are available; however, to play them, you must know the exact playlist title. The command below would be useful.
 
-“Alexa, list classic rock playlists.”
+*“Alexa, list classic rock playlists.”*
 
 If you store music you own in the Amazon Cloud or have made music purchases via Amazon, you can access your songs and albums using the Echo. I was able to listen to purchased albums; however, I have a mix of music from sources such as: ripped CDs, Google Play, Amazon and iTunes. In order to use Echo, I have to upload every song to Amazon. This will require me to pay extra for cloud storage. I am not going to do this. I can listen to my music collection on my [Sonos](http://www.amazon.com/gp/product/B005441AJC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005441AJC&linkCode=as2&tag=bricinmypockb-20) without a additional cost.
 
@@ -98,34 +96,34 @@ iHeartRadio usage is similar to Pandora. You search for an artist or a song and 
 
 While listening to an iHeartRadio station, I can even customize stations using the command:
 
-“Alexa, [thumbs up/thumbs down].”
+*“Alexa, [thumbs up/thumbs down].”*
 
 iHeartRadio also provides access to local radio stations. I believe TuneIn Radio, more later, provides better access to terrestrial radio streams; however, I can see the appeal of using a single service to provide access to both custom and local stations.
 
 To tune to an iHeartRadio station (either live or custom) you simply say:
 
-“Alexa, iHeartRadio station [station name].”
+*“Alexa, iHeartRadio station [station name].”*
 
 The Echo Light Ring will swirl and within a second or two the Echo will play the requested station; sometimes. Again, you have to know the station name exactly. If you deviate from the station name one iota, all bets, and music, are off. Echo owners will want to create an iHeartRadio account and give it a try. I currently prefer using iHeartRadio over the Amazon Prime Music service.
 
 ## {Update: April 5th, 2015} Pandora Radio
 Last week Amazon made the announcement that the Echo now supports Pandora Radio. Use of Pandora Radio is identical to iHeartRadio save for the service command. For instance:
 
-“Alexa, Pandora station [station name].”
+*“Alexa, Pandora station [station name].”*
 
 My Pandora stations all start with a sequential number before the descriptive station name. I was surprised when the Echo was able to start my radio station named `02 | Hair Bands` with a simple:
 
-“Alexa, Pandora station 02.”
+*“Alexa, Pandora station 02.”*
 
 I did not have to vocalize the entire station name. This makes it quick and simple to play my Pandora stations. Similar to iHeartRadio, you can also thumbs up and thumbs down your music to tailor your station.
 
 Echo will allow you to create a new Pandora station with the command:
 
-“Alexa, Pandora artist [artist name].”
+*“Alexa, Pandora artist [artist name].”*
 
 or...
 
-“Alexa, Pandora song [song name].”
+*“Alexa, Pandora song [song name].”*
 
 Echo will then ask if you want to add this station to your Pandora Radio list before playing. You won't be able to modify your station name or content using the Echo, but its a great way to create a new station.
 
@@ -134,45 +132,45 @@ I’ve been a [TuneIn Radio](http://tunein.com/) user for many years. TuneIn Rad
 
 While you need an account to iHeartRadio, strangely, an account to TuneIn Radio does not matter. While this might be fine for those who don’t use the service regularly, those of us with accounts can’t access our favorites. It doesn’t matter though because tuning to a radio station is as simple as knowing the station call letters.
 
-“Alexa, TuneIn Radio station WWWY.”
+*“Alexa, TuneIn Radio station WWWY.”*
 
 This command instructs Echo to tune to my local classic rock channel. You can try to tune in using a station’s title or tagline; however, I found this hit or miss. Echo is always spot on when you use the call sign. Once you have music playing, you will want to control it.
 
 # Crank it up
 Echo provides hands-free control of the music, which is why the bathroom is a great location. While in the shower, I can say things like:
 
-“Alexa, turn up the volume.”
+*“Alexa, turn up the volume.”*
 
 or
 
-“Alexa, volume [number between 0 and 10].”
+*“Alexa, volume [number between 0 and 10].”*
 
 Echo will also *pause*, *stop*, *play*, and jump to the *next* song. One of my favorite features while a song is playing is to ask questions such as:
 
-“Alexa, what song is this?”
+*“Alexa, what song is this?”*
 
 or
 
-“Alexa, what album is this song from?”
+*“Alexa, what album is this song from?”*
 
 You can even follow up with questions about the band or the artist and Echo will read you a portion of a Wikipedia entry. I’ve used this several times when a song is playing and I can’t remember the name of the song, artist or the album. You actually can learn a lot about your music using this feature.
 
 # Your personal news and weather personality
 Echo also makes it easy to access the latest weather and news. If I want to know what to wear to work in the morning I can ask:
 
-“Alexa, what’s today’s weather?”
+*“Alexa, what’s today’s weather?”*
 
 or
 
-“Alexa, what’s the temperature?”
+*“Alexa, what’s the temperature?”*
 
 or
 
-“Alexa, is it going to snow today?”
+*“Alexa, is it going to snow today?”*
 
 While shaving or waking up on a lazy Saturday morning, I can say:
 
-“Alexa, news.”
+*“Alexa, news.”*
 
 Alexa will play the latest NPR and/or BBC hourly update on TuneIn Radio. Using the iOS app, as shown below, I can choose additional news items for Echo to play or read to me.
 
@@ -180,34 +178,72 @@ Alexa will play the latest NPR and/or BBC hourly update on TuneIn Radio. Using t
 
 Did I mention that the bathroom location is the best spot in the house for our Echo?
 
+# {Update: April 11th, 2015} Control your home
+On April 8th, Amazon sent out emails to Echo owners and announced a new exciting feature; home automation control. Echo now supports two important products in this space, [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW). Not all models are supported. Below is the list provided from Amazon:
+
+* [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3): Switch, Insight Switch, and Light Switch
+* [Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW): A19, Lux, BR30, Bloom, and LightStrip lights
+
+Setup for both brand of devices is simplified by a single command:
+
+*"Alexa, discover my appliances."*
+
+Philips Hue users are prompted to press the connect button the bridge. After about 20 seconds, Alexa announces the number of devices connected. Once the connection is made, you can control the devices with Echo voice commands.
+
+I’ll begin with a WeMo discussion since we have those products in the home.
+
+## WeMo
+<a href="http://www.amazon.com/gp/product/B00BB2MMNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BB2MMNE&linkCode=as2&tag=bricinmypockb-20&linkId=VLOBUBQU34NTXCRA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BB2MMNE&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bricinmypockb-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=bricinmypockb-20&l=as2&o=1&a=B00BB2MMNE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" align="right"/>Before you begin using the WeMo devices, you need to know the label assigned to the each device. Use the WeMo app on your iOS device to view the labels. The label given, is part of the vocal command. If the label is not intuitive or easy to remember, I recommend you modify each before using the Echo. Label changes do not require you to rediscover devices.
+
+We have a fan in our bedroom. Initially the label for the WeMo device was *Master Bedroom*. I changed this to simply, *Fan*. I then tried the command:
+
+*“Alexa, turn on fan”*
+
+The fan immediately turned on. It was very cool. I then tried this command to turn the fan off.
+
+*“Alexa, turn off fan”*
+
+Nothing happened. What? I tried it again. Nothing. Several more times and I began to wonder if the Echo was not capable of turning off a device. I was a bit frustrated. Then I tried this command:
+
+*“Alexa turn off the fan”*
+
+Did you see the additional *“the”* in that command? That’s what it took for the fan to turn off. You have to say “the Fan”. Now that we have the bit of information, we simply add “the” in front of both the on and off commands for consistency. Works like a charm. We can now turn this fan off from our bed without grabbing our iOS devices. My mind is now churning with other ideas!
+
+## Philips Hue
+I do not currently own a Philips Hue device and was not able to test this capability; however, I will list a demonstration command shared from Amazon below.
+
+*"Alexa, dim the living room lights to 20%"*
+
+Unknown if you can modify colors. I hope to add four Philips Hue bulbs in our bedroom in the future. If that occurs, I will expand this section.
+
 # Make time for Echo
 Echo is a great clock even though it doesn’t have a display. You can use echo to set an alarm, timer or simply request the time. I often find myself asking Echo to tell me the time with a simple:
 
-“Alexa, what time is it?”
+*“Alexa, what time is it?”*
 
 Setting a timer or alarm is easy and convenient. When you set a timer, you can even ask:
 
-“Alexa, how much time is left?”
+*“Alexa, how much time is left?”*
 
 Echo will happily tell you the remaining time. Echo really is the best clock, without a display, that I have every used.
 
 # Echo odds and ends
 What I describe above are the key features of the echo; however there are a many other things you can do. In the list below, from the [Amazon Echo Ask Questions page](http://www.amazon.com/gp/help/customer/display.html?nodeId=201549800), you will find additional commands. What they do should speak (or read) for themselves.
 
-* “Alexa, who is [name]?”
-* “Alexa, when is [holiday]?”
-* “Alexa, when did [historical event] happen?”
-* “Alexa, who starred in the movie [movie title]?”
-* “Alexa, how do you spell [word]?”
-* “Alexa, what is [number] plus [number]?”
-* “Alexa, what is the distance between [location] and [location]?”
-* “Alexa, what time is it in [city]?”
-* “Alexa, tell me a joke.”
+*“Alexa, who is [name]?”
+“Alexa, when is [holiday]?”
+“Alexa, when did [historical event] happen?”
+“Alexa, who starred in the movie [movie title]?”
+“Alexa, how do you spell [word]?”
+“Alexa, what is [number] plus [number]?”
+“Alexa, what is the distance between [location] and [location]?”
+“Alexa, what time is it in [city]?”
+“Alexa, tell me a joke.”*
 
 You can even use Echo to keep you organized with the following:
 
-* “Alexa, add milk to my shopping list.”
-* “Alexa, put mowing on my to-do list.”
+*“Alexa, add milk to my shopping list.”
+“Alexa, put mowing on my to-do list.”*
 
 These items will be placed in the Amazon Echo app for review. You can even ask Echo to tell you what items are on your lists.
 
@@ -247,11 +283,11 @@ While I do use the Amazon Echo regularly, there are several features I recommend
 
 **String commands** -  There are times when I have music or news playing and I want to interrupt Echo with a question. Sometimes Echo will know to return to my music and sometimes it doesn’t. Sometimes when a request is made, the content will continue in the background. I want to string commands together so Echo knows exactly what I want to do. For instance:
 
-“Alexa, Pause, thumbs up, play.”
+*“Alexa, Pause, thumbs up, play.”*
 
 Normally, the Echo will continue to play music at a reduced volume while it executes the command, causing me to miss a part of the song. Stringing commands together will explicitly tell Echo my preference. Stringing commands will also reduce the need for multiple commands in the morning. Imagine this command:
 
-“Alexa, tell me the weather, today’s schedule, the news and when the time is 7:30am.”
+*“Alexa, tell me the weather, today’s schedule, the news and when the time is 7:30am.”*
 
 The Echo could then keep me informed through the morning and ensure I am on time for work.
 
