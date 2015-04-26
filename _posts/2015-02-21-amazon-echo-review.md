@@ -156,7 +156,31 @@ or
 
 *“Alexa, what album is this song from?”*
 
-You can even follow up with questions about the band or the artist and Echo will read you a portion of a Wikipedia entry. I’ve used this several times when a song is playing and I can’t remember the name of the song, artist or the album. You actually can learn a lot about your music using this feature.
+You can even follow up with questions about the band or the artist and Echo will read you a portion of a Wikipedia entry. I’ve used this several times when a song is playing and I can’t remember the name of the song, artist or the album. You actually can learn a lot about your music using this feature and learning isn’t confined to just music.
+
+# The library at Alexandria
+The Echo is a very smart device thanks to Wikipedia, Amazon Maps and several other online resources. In the list below, from the [Amazon Echo Ask Questions page](http://www.amazon.com/gp/help/customer/display.html?nodeId=201549800), you will find commands that provide information. What they do should be obvious.
+
+*“Alexa, who is [name]?”
+“Alexa, when is [holiday]?”
+“Alexa, when did [historical event] happen?”
+“Alexa, who starred in the movie [movie title]?”
+“Alexa, how do you spell [word]?”
+“Alexa, what is [number] plus [number]?”
+“Alexa, what is the distance between [location] and [location]?”
+“Alexa, what time is it in [city]?”
+“Alexa, tell me a joke.”*
+
+Amazon has included a few commands for movie buffs as well. Here’s an excerpt from an email that shares new commands.
+
+> Echo's also quite the movie buff. Have some fun testing out its responses to classic movie quotes. A few to try:
+>
+> From Jerry McGuire: "Alexa, Show me the money!"
+> From Wayne's World: "Alexa, Party on, Wayne."
+> From Airplane: "Alexa, Surely, you can't be serious."
+> From A Few Good Men: "Alexa, I want the truth."
+
+You can predict the response from Echo. Now obviously these are just fun commands; however, it does demonstrate that the Echo’s cloud brain can learn new tricks. Let’s hope future updates provide more useful commands; which leads me to my wish list.
 
 # Your personal news and weather personality
 Echo also makes it easy to access the latest weather and news. If I want to know what to wear to work in the morning I can ask:
@@ -184,20 +208,54 @@ Did I mention that the bathroom location is the best spot in the house for our E
 # Make time for Echo
 Echo is a great clock even though it doesn’t have a display. You can use echo to set an alarm, timer or simply request the time. I often find myself asking Echo to tell me the time with a simple:
 
-*“Alexa, what time is it?”*
+*“Alexa, what time is it”*
 
 Setting a timer or alarm is easy and convenient. When you set a timer, you can even ask:
 
-*“Alexa, how much time is left?”*
+*“Alexa, how much time is left”*
 
-Echo will happily tell you the remaining time. Echo really is the best clock, without a display, that I have every used.
+Echo will happily tell you the remaining time. You can set an alarm with the command:
+
+*“Alexa, set alarm for 7am”*
+
+The Echo will acknowledge the alarm time. I’ve been hesitant to use the alarm feature. First of all because I like to snooze and telling the Echo to snooze is not something I want to do when I first wake up. Wait…maybe that’s a use for the remote!?! However, I’m also hesitant because the Echo has no battery back up. If we lose power, I cannot be sure that Alexa will wake me.
+
+# Stay Organized
+Echo will keep you organized with the following commands:
+
+*“Alexa, add milk to my shopping list”
+“Alexa, put mowing on my to-do list”*
+
+These items will be placed in the Amazon Echo app for review as shown in the image below.
+
+![](https://lh4.googleusercontent.com/-MSiZjkFejCo/VT1o4MgRqSI/AAAAAAABa5Y/2Gfc-eXqypg/w602-h626-no/IMG_8131.png)
+
+Currently, there are only two lists: to-do and shopping. You cannot create one to-do list for work and one for home.
+
+If you don’t have the Echo app available, you can ask Echo to tell you what items are on your list:
+
+*“Alexa, what’s on my to-do list”*
+
+Echo gladly reads your items. As of now, you can only mark items as complete using the Echo iOS app.
+
+# Remote? We don’t need no stinkin’ remote.
+Seriously, I’m not sure why a remote is included in the package. Our remote is in its magnetic cradle next to our bed. I’ve used it on very rare occasions. The majority of the time, use of the remote has been to stop music. I don’t believe I’ve ever used it for voice commands beyond simply trying out the remote. Again, location of the Echo probably has something to do with lack of use of the remote.
+
+# Stream tunes and make a call via Bluetooth
+The Echo is also a Bluetooth speaker. You can pair your iOS device with the command:
+
+*“Alexa, pair Bluetooth”*
+
+Alexa will provide audio instructions. Locate the Echo on your device and initiate a connection. Once the connection is made, you can stream any audio from your iOS device to the Echo. You can then listen to other services not available on the Echo such as Spotify or Overcast. Echo is a quite good Bluetooth speaker and audio quality is on par with other Bluetooth devices that cost the same as the Echo.
+
+Once paired, you can also use the Echo as a handsfree device to make phone calls. You cannot initiate or answer calls from the Echo nor can you use Echo to activate Siri, so remember you have to dial on your iOS device.
 
 # {Update: April 11th, 2015} Control your home
 On April 8th, Amazon sent out emails to Echo owners to announce a new feature; home automation control. Echo now supports two important products in this space, [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW). Here’s what Amazon had to say about this new feature:
 
 > You can now use Echo to switch on the lamp before getting out of bed, turn on the fan or heater while reading in your favorite chair, or dim the lights from the couch to watch a movie—all without lifting a finger...or even raising your voice.
 
-Not all WeMo and Philips Hue models are supported. Below is the list from Amazon:
+The Echo does not support all WeMo and Philips Hue devices. Below is the list from Amazon:
 
 * [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3): Switch, Insight Switch, and Light Switch
 * [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW): A19, Lux, BR30, Bloom, and LightStrip lights
@@ -208,12 +266,12 @@ Setup for both brand of devices is simplified by a single command:
 
 Echo will prompt Philips Hue users to press the connect button on the bridge. After about 20 seconds, Alexa announces the number of devices connected. Once the connection is made, you can control the devices with Echo voice commands.
 
-I’ll begin with a WeMo discussion since we have those products in the home.
-
 ## WeMo
-Before you begin to use a WeMo device, you need to know the label assigned to the each device. Use the WeMo app on your iOS device to view the labels. The label given, is part of the vocal command. If the label is not intuitive or easy to remember, I recommend you modify each before using the Echo. Label changes do not require you to rediscover devices.
+Before you begin to use a WeMo device, you need to know the label assigned to the each device. Use the WeMo app on your iOS device to view the labels. The label you assign, is part of the vocal command. If the label is not intuitive or easy to remember, I recommend you modify each before using the Echo as I show in the image below.
 
-We have a fan in our bedroom. Initially the label for the WeMo device was *Master Bedroom*. I changed it to, *Fan*. I then tried the command:
+![WeMo iOS App](https://lh3.googleusercontent.com/-gWnyjkSj7xY/VT1k9ABdNJI/AAAAAAABa4w/oR1N1l7Op3k/w640-h469-no/wemo-fan-label.png)
+
+Label changes do not require you to rediscover devices. We have a fan in our bedroom. Initially the label for the WeMo device was *Master Bedroom*. I changed it to, *Fan*. I then tried the command:
 
 *“Alexa, turn on fan”*
 
@@ -230,11 +288,11 @@ Did you see the additional *“THE”* in that command? That’s what it took fo
 An obvious exclusion from the list of WeMo devices supported is the [WeMo Maker](http://www.amazon.com/gp/product/B00N32H7U8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N32H7U8&linkCode=as2&tag=bricinmypockb-20&linkId=3GFAD7K72FRL25XM). This devices provides WeMo access to uncommon devices and appliances and allow Makers to tinker. Hopefully they will incorporate this device in the near future. It may actually work, I just don’t have one to test it with.
 
 ## {Update: April 26th, 2015} Philips Hue
-I recently added four [Philips Hue bulbs](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) to our bedroom. I was of course anxious to see if the Echo can control these lights. After pairing the Echo with the Philips Hue hub, using the process described earlier, naming each light using the Philips Hue iOS app, and then placing the four lights in a group called *Bedroom Lights* using the same app, I tried my first command:
+We have four [Philips Hue bulbs](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) in our bedroom. I was of course anxious to see if the Echo can control these lights. After pairing the Echo with the Philips Hue bridge, using the process described earlier, naming each light using the Philips Hue iOS app, and then placing the four lights in a group called *Bedroom Lights* using the same app, I tried my first command:
 
 *"Alexa, turn the Bedroom Lights on"*
 
-All four lights immediately lit. My bedroom now resides on the Starship Enterprise! Let's try and turn them off:
+All four lights immediately lit. I know sleep on the Starship Enterprise! Let's try and turn them off:
 
 *"Alexa, turn the Bedroom Lights off"*
 
@@ -246,48 +304,15 @@ The lights immediately dimmed to darken the room. The Echo only recognizes 10% i
 
 *"Alexa, turn the Left Rear light on"*
 
-In my case, this will turn the left rear light on in my bedroom. This is the light over my side of the bed. This is great when I want to read, but my wife may be trying to get some sleep.
+In my case, this will turn the left rear light on in my bedroom. Each Hue light has a name that notes its location as I lay in the bed, as shown in the image below.
 
-While this works the majority of the time, there have been a few hiccups. There are times when not all lights come on or dim. I often have to repeat a command to get the desired results. I blame this on the Philips Hue hub rather than the Echo as I have the same issue when using the iOS app. I'm hoping a Philips Hue firmware upgrade with fix this in the future.
+![](https://lh5.googleusercontent.com/-ZL-9yJGUT-Q/VT1nd04OOlI/AAAAAAABa5E/Gq9l1eiKjcM/w465-h626-no/IMG_8130.png)
 
-Disappointing is that I cannot change colors. Currenly there is no way to modify the color of the light, so when I issue Echo commands, the Hue bulbs illuminate using their default color values. I believe this to be an Echo limiation, although, given the millions of colors available, I'm not entirely sure how Amazon would add this command. Despite this limitation, this is a great addition to the Echo.
+This is the light over my side of the bed. This is useful when I want to read, but my wife may be trying to get some sleep.
 
-# Echo odds and ends
-What I describe above are the key features of the echo; however there are a many other things you can do. In the list below, from the [Amazon Echo Ask Questions page](http://www.amazon.com/gp/help/customer/display.html?nodeId=201549800), you will find additional commands. What they do should speak (or read) for themselves.
+While this works the majority of the time, there have been a few hiccups. There are times when not all lights come on or dim. I often have to repeat a command to get the desired results. I blame this on the Philips Hue bridge rather than the Echo as I have the same issue when using the iOS app. I'm hoping a Philips Hue firmware upgrade with fix this in the future.
 
-*“Alexa, who is [name]?”
-“Alexa, when is [holiday]?”
-“Alexa, when did [historical event] happen?”
-“Alexa, who starred in the movie [movie title]?”
-“Alexa, how do you spell [word]?”
-“Alexa, what is [number] plus [number]?”
-“Alexa, what is the distance between [location] and [location]?”
-“Alexa, what time is it in [city]?”
-“Alexa, tell me a joke.”*
-
-You can even use Echo to keep you organized with the following:
-
-*“Alexa, add milk to my shopping list.”
-“Alexa, put mowing on my to-do list.”*
-
-These items will be placed in the Amazon Echo app for review. You can even ask Echo to tell you what items are on your lists.
-
-The Echo is also a Bluetooth speaker. You can pair your iOS device (“Alexa, pair Bluetooth.”) and stream audio to the Echo. You can then listen to other services not available on the Echo such as Pandora, Spotify or Overcast. You won’t be able to use Echo voice control but the Echo does make a pretty decent sounding Bluetooth speaker.
-
-# Remote? We don’t need no stinkin’ remote.
-Seriously, I’m not sure why a remote is included in the package. Our is in its magnetic cradle attached to my iMac. I’ve yet to use it and personally think using it would take away the magic. There may be instances where the remote and its built-in microphone are useful, but I’ve yet to find one. Drop me a comment below if you are Echo user who has found a use for the remote.
-
-# Echo gets smarter
-Since my purchase, I’ve received a one email to inform me of new voice commands. Below is an excerpt from that email.
-
-> Echo's also quite the movie buff. Have some fun testing out its responses to classic movie quotes. A few to try:
->
-> From Jerry McGuire: "Alexa, Show me the money!"
-> From Wayne's World: "Alexa, Party on, Wayne."
-> From Airplane: "Alexa, Surely, you can't be serious."
-> From A Few Good Men: "Alexa, I want the truth."
-
-You can predict the response from Echo. Now obviously these are just fun commands; however, it does at least demonstrate that the Echo’s cloud brain can learn new tricks. Let’s hope future updates provide more useful commands; which leads me to my wish list.
+It is disappointing that I cannot change colors. Currently there is no way to modify the color of the light, so when I issue Echo commands, the Hue bulbs illuminate using their default color values. I believe this to be an Echo limitation, although, given the millions of colors available, I'm not entirely sure how Amazon would add this command.
 
 # I wish I may, I wish I might…
 While I do use the Amazon Echo regularly, there are several features I recommend. I’ll list each one and provide a bit of narrative.
