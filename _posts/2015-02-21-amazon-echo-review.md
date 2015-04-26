@@ -29,7 +29,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 
 <hr>
 
-This is a very long post, to assist with navigation, below is a Table of Contents (TOC)
+This is a very long post, to assist with navigation, below is a Table of Contents (TOC).
 
 **Table of Contents**
 
