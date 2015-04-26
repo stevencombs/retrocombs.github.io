@@ -10,6 +10,10 @@ comments: yes
 
 It’s been about a month since the [unboxing](http://www.stevencombs.com/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://www.amazon.com/oc/echo/ref_=ods_dp_ae). Since the unboxing, we’ve put the Echo through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren’t familiar with the Amazon Echo, watch the video below before you read the rest of the post.
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/KkOCeAtKHIc" frameborder="0" allowfullscreen></iframe>
+
+Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and plugged it into a 110v outlet (required). Initial tests were conducted in this location. I would quickly learn that this was not to be the permanent home for the Echo.
+
 <hr>
 
 {**Update: April 5th, 2015**} As the Echo continues to receive upgrades, I will add them to this review. Updates will receive the same marker that appears before this paragraph. A list of updates appears below.
@@ -18,15 +22,38 @@ It’s been about a month since the [unboxing](http://www.stevencombs.com/gadget
 
 * April 5th, 2015 - Echo receives Pandora support
 * April 11th, 2015 - Echo adds [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) support
-* April 26th, 2015 - Philps Hue usage
+* April 26th, 2015 - Philips Hue usage
+* April 26th, 2015 - Added Table of Contents (TOC)
 
-**TIP:** To jump to a an update, use the browser find (⌘ + F on Mac) feature and search for the date above.
+**TIP:** To jump to an update, use the browser find (⌘ + F on Mac) feature and search for the date above.
 
 <hr>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/KkOCeAtKHIc" frameborder="0" allowfullscreen></iframe>
+This is a very long post, to assist with navigation, below is a Table of Contents (TOC)
 
-Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and plugged it into a 110v outlet (required). Initial tests were conducted in this location. I would quickly learn that this was not to be the permanent home for the Echo.
+**Table of Contents**
+
+<!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
+- [Location, Location, Location](#location-location-location)
+- [Alexa!](#alexa)
+- [Time to face the music](#time-to-face-the-music)
+	- [Amazon Prime Music](#amazon-prime-music)
+	- [iHeartRadio](#iheartradio)
+	- [{Update: April 5th, 2015} Pandora Radio](#update-april-5th-2015-pandora-radio)
+	- [TuneIn Radio](#tunein-radio)
+- [Crank it up](#crank-it-up)
+- [The library at Alexandria](#the-library-at-alexandria)
+- [Your personal news and weather personality](#your-personal-news-and-weather-personality)
+- [Make time for Echo](#make-time-for-echo)
+- [Stay Organized](#stay-organized)
+- [Remote? We don’t need no stinkin’ remote.](#remote-we-dont-need-no-stinkin-remote)
+- [Stream tunes and make a call via Bluetooth](#stream-tunes-and-make-a-call-via-bluetooth)
+- [{Update: April 11th, 2015} Control your home](#update-april-11th-2015-control-your-home)
+	- [WeMo](#wemo)
+	- [{Update: April 26th, 2015} Philips Hue](#update-april-26th-2015-philips-hue)
+- [I wish I may, I wish I might…](#i-wish-i-may-i-wish-i-might)
+- [The final verdict](#the-final-verdict)
+<!-- /TOC -->
 
 # Location, Location, Location
 I moved the Echo four times before it landed in a spot where it would be used on a regular basis. My home office desk was the Echo’s first home. This was a horrible location. My computer provided all the capabilities of the Echo. Speaking to obtain music and information was of no value and superfluous. Additionally, the [Alesis monitors](http://www.amazon.com/gp/product/B00F3F7OIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F3F7OIS&linkCode=as2&tag=bricinmypockb-20&linkId=FLW6FCSHU4ACYWHF) provide much better sound than the Echo. Time to try another location.
@@ -350,4 +377,4 @@ The Echo is a fine gadget and does all things advertised. Given time and a coupl
 
 If you are considering an Echo purchase, you have to ask yourself, “Are the Echo features worth $200?” That’s a personal question you have to answer yourself. If you have $200 burning a hole in your pocket, probably. It's a fun device and you could spend much more on other gadgets that do less. If you can grab an Echo at the limited time Amazon Prime rate of $99, I highly recommend a purchase. No matter how much you spend on the Echo, you will only be satisfied if you force yourself to use it on a regular basis, which we have done. Ours is used everyday due to; location, location, location! **{Update: April 26th, 2015}** With the addition of home automation features to control WeMo and Philips Hue devices, the Echo has become the brains of our home automation system. If you use these devices, you will soon be hooked on the use of the Echo to control them.
 
-<s>More updates are on the way and we should probably look at the Echo again in a year. It might be fun to make a now-versus-then comparison. Until then, drop your comments and questions below.</s> I will update this post as Amazon adds new features (as has already been done). Be sure to check back occassionaly and look review the udpates list at the top of the post. Over time, this post will surely be the definitive guide to the Amazon Echo. **{End Update}**
+<s>More updates are on the way and we should probably look at the Echo again in a year. It might be fun to make a now-versus-then comparison. Until then, drop your comments and questions below.</s> I will update this post as Amazon adds new features (as has already been done). Be sure to check back occasionally and look review the updates list at the top of the post. Over time, this post will surely be the definitive guide to the Amazon Echo. **{End Update}**
