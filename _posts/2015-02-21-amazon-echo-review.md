@@ -18,6 +18,7 @@ It’s been about a month since the [unboxing](http://www.stevencombs.com/gadget
 
 * April 5th, 2015 - Echo receives Pandora support
 * April 11th, 2015 - Echo adds [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) support
+* April 26th, 2015 - Philps Hue usage
 
 **TIP:** To jump to a an update, use the browser find (⌘ + F on Mac) feature and search for the date above.
 
@@ -180,6 +181,17 @@ Alexa will play the latest NPR and/or BBC hourly update on TuneIn Radio. Using t
 
 Did I mention that the bathroom location is the best spot in the house for our Echo?
 
+# Make time for Echo
+Echo is a great clock even though it doesn’t have a display. You can use echo to set an alarm, timer or simply request the time. I often find myself asking Echo to tell me the time with a simple:
+
+*“Alexa, what time is it?”*
+
+Setting a timer or alarm is easy and convenient. When you set a timer, you can even ask:
+
+*“Alexa, how much time is left?”*
+
+Echo will happily tell you the remaining time. Echo really is the best clock, without a display, that I have every used.
+
 # {Update: April 11th, 2015} Control your home
 On April 8th, Amazon sent out emails to Echo owners to announce a new feature; home automation control. Echo now supports two important products in this space, [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW). Here’s what Amazon had to say about this new feature:
 
@@ -188,7 +200,7 @@ On April 8th, Amazon sent out emails to Echo owners to announce a new feature; h
 Not all WeMo and Philips Hue models are supported. Below is the list from Amazon:
 
 * [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3): Switch, Insight Switch, and Light Switch
-* [Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW): A19, Lux, BR30, Bloom, and LightStrip lights
+* [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW): A19, Lux, BR30, Bloom, and LightStrip lights
 
 Setup for both brand of devices is simplified by a single command:
 
@@ -217,23 +229,28 @@ Did you see the additional *“THE”* in that command? That’s what it took fo
 
 An obvious exclusion from the list of WeMo devices supported is the [WeMo Maker](http://www.amazon.com/gp/product/B00N32H7U8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N32H7U8&linkCode=as2&tag=bricinmypockb-20&linkId=3GFAD7K72FRL25XM). This devices provides WeMo access to uncommon devices and appliances and allow Makers to tinker. Hopefully they will incorporate this device in the near future. It may actually work, I just don’t have one to test it with.
 
-## Philips Hue
-I do not currently own a Philips Hue device and was not able to test this capability; however, I will list a demonstration command shared from Amazon below.
+## {Update: April 26th, 2015} Philips Hue
+I recently added four [Philips Hue bulbs](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) to our bedroom. I was of course anxious to see if the Echo can control these lights. After pairing the Echo with the Philips Hue hub, using the process described earlier, naming each light using the Philips Hue iOS app, and then placing the four lights in a group called *Bedroom Lights* using the same app, I tried my first command:
 
-*"Alexa, dim the living room lights to 20%"*
+*"Alexa, turn the Bedroom Lights on"*
 
-Unknown if you can modify colors. I hope to add four Philips Hue bulbs in our bedroom in the future. If/when that occurs, I will expand this section.
+All four lights immediately lit. My bedroom now resides on the Starship Enterprise! Let's try and turn them off:
 
-# Make time for Echo
-Echo is a great clock even though it doesn’t have a display. You can use echo to set an alarm, timer or simply request the time. I often find myself asking Echo to tell me the time with a simple:
+*"Alexa, turn the Bedroom Lights off"*
 
-*“Alexa, what time is it?”*
+Yes! After a further review of the commands available for the Philips Hue, I tried this command:
 
-Setting a timer or alarm is easy and convenient. When you set a timer, you can even ask:
+*"Alexa, dim the Bedroom Lights to 20%"*
 
-*“Alexa, how much time is left?”*
+The lights immediately dimmed to darken the room. The Echo only recognizes 10% increments, so a value of 25% does not result in a change. I can also control each light individually by replacing the group name with the individual light name. For instance, I can say:
 
-Echo will happily tell you the remaining time. Echo really is the best clock, without a display, that I have every used.
+*"Alexa, turn the Left Rear light on"*
+
+In my case, this will turn the left rear light on in my bedroom. This is the light over my side of the bed. This is great when I want to read, but my wife may be trying to get some sleep.
+
+While this works the majority of the time, there have been a few hiccups. There are times when not all lights come on or dim. I often have to repeat a command to get the desired results. I blame this on the Philips Hue hub rather than the Echo as I have the same issue when using the iOS app. I'm hoping a Philips Hue firmware upgrade with fix this in the future.
+
+Disappointing is that I cannot change colors. Currenly there is no way to modify the color of the light, so when I issue Echo commands, the Hue bulbs illuminate using their default color values. I believe this to be an Echo limiation, although, given the millions of colors available, I'm not entirely sure how Amazon would add this command. Despite this limitation, this is a great addition to the Echo.
 
 # Echo odds and ends
 What I describe above are the key features of the echo; however there are a many other things you can do. In the list below, from the [Amazon Echo Ask Questions page](http://www.amazon.com/gp/help/customer/display.html?nodeId=201549800), you will find additional commands. What they do should speak (or read) for themselves.
@@ -272,7 +289,7 @@ Since my purchase, I’ve received a one email to inform me of new voice command
 
 You can predict the response from Echo. Now obviously these are just fun commands; however, it does at least demonstrate that the Echo’s cloud brain can learn new tricks. Let’s hope future updates provide more useful commands; which leads me to my wish list.
 
-# Wish I may, wish I might…
+# I wish I may, I wish I might…
 While I do use the Amazon Echo regularly, there are several features I recommend. I’ll list each one and provide a bit of narrative.
 
 **Shopping** - For the life of me I don’t understand why I can’t purchase items beyond digital music from my Echo. I can’t even price check an item or hear more about a product. This seems like a natural fit for the Echo. Its Amazon after all! This would be a great feature for items you purchase regularly such as batteries, kitchen products, etc.
@@ -285,7 +302,7 @@ While I do use the Amazon Echo regularly, there are several features I recommend
 
 **Enhanced Sound Quality** - Amazon Echo sound isn’t bad, especially for a bathroom radio; however, if you want a true music lover to take this thing seriously, you need better sound and a way to connect two to create a stereo field (once again, a feature stolen from Sonos). Even a simple speaker/microphone only unit would suffice. This would also allow you to extend the vocal receive range of your base unit throughout your home at a cheaper cost.
 
-**Additional Music Services** - Echo needs access to additional services such as Spotify<s>, Pandora</s> and SiriusXM streaming. It would also be nice, as mentioned earlier, to be able to stream my own personal music from a server on my network. I get that Amazon wants to push their music service and I can live with the services the Echo currently includes; however, for mass adoption, I think Amazon will need to branch out and offer additional ways to access music.
+**Additional Music Services** - Echo needs access to additional services such as Spotify, <s>Pandora</s> and SiriusXM streaming. It would also be nice, as mentioned earlier, to be able to stream my own personal music from a server on my network. I get that Amazon wants to push their music service and I can live with the services the Echo currently includes; however, for mass adoption, I think Amazon will need to branch out and offer additional ways to access music.
 
 **Calendar and Email Access** - As part of my morning ritual, I want to ask Echo to tell my about my daily activities or to read email. Add this feature and you have a device that makes you more productive. Add the ability to respond to or create an email and we have a game changer. Especially if I can send email to control [IFTTT](https://ifttt.com/) recipes. While I’m at it, IFTTT integration alone is a game changer.
 
@@ -302,10 +319,10 @@ The Echo could then keep me informed through the morning and ensure I am on time
 That’s a pretty tall order for a first generation device that even Amazon Prime customers can’t purchase for another 3-4 months; however Amazon touts this thing as a device that will continue to get smarter and smarter, so save for the hardware modifications, these aren’t unreasonable requests.
 
 # The final verdict
-I really like our Echo despite the occasional hiccup. It does duplicate the features of other devices, but it also trumps other devices in many ways. After all, I’m not going to use Siri in the shower and Echo sound quality is far superior to my iPhone.
+I really like our Echo despite the occasional hiccup here and there. It does duplicate the features of other devices, but it also trumps other devices in many ways. After all, I’m not going to use Siri in the shower and Echo sound quality is far superior to my iPhone.
 
 The Echo is a fine gadget and does all things advertised. Given time and a couple of strong cloud updates, the Echo will become more useful and a better value. Part of the fun of Echo ownership is learning what new features Amazon adds.
 
-If you are considering an Echo purchase, you have to ask yourself, “Are the Echo features worth $200?” That’s a personal question you have to answer yourself. If you have $200 burning a hole in your pocket, probably. It's a fun device and you could spend much more on other gadgets that do less. If you can grab an Echo at the limited time Amazon Prime rate of $99, I highly recommend a purchase. No matter how much you spend on the Echo, you will only be satisfied if you force yourself to use it on a regular basis, which we have done. Ours is used everyday due to; location, location, location!
+If you are considering an Echo purchase, you have to ask yourself, “Are the Echo features worth $200?” That’s a personal question you have to answer yourself. If you have $200 burning a hole in your pocket, probably. It's a fun device and you could spend much more on other gadgets that do less. If you can grab an Echo at the limited time Amazon Prime rate of $99, I highly recommend a purchase. No matter how much you spend on the Echo, you will only be satisfied if you force yourself to use it on a regular basis, which we have done. Ours is used everyday due to; location, location, location! **{Update: April 26th, 2015}** With the addition of home automation features to control WeMo and Philips Hue devices, the Echo has become the brains of our home automation system. If you use these devices, you will soon be hooked on the use of the Echo to control them.
 
-More updates are on the way and we should probably look at the Echo again in a year. It might be fun to make a now-versus-then comparison. Until then, drop your comments and questions below.
+<s>More updates are on the way and we should probably look at the Echo again in a year. It might be fun to make a now-versus-then comparison. Until then, drop your comments and questions below.</s> I will update this post as Amazon adds new features (as has already been done). Be sure to check back occassionaly and look review the udpates list at the top of the post. Over time, this post will surely be the definitive guide to the Amazon Echo. **{End Update}**
