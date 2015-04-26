@@ -53,6 +53,7 @@ This is a very long post, to assist with navigation, below is a Table of Content
 	- [{Update: April 26th, 2015} Philips Hue](#update-april-26th-2015-philips-hue)
 - [I wish I may, I wish I might…](#i-wish-i-may-i-wish-i-might)
 - [The final verdict](#the-final-verdict)
+
 <!-- /TOC -->
 
 # Location, Location, Location
