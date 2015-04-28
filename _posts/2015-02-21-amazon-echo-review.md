@@ -45,7 +45,7 @@ This is a very long post, to assist with navigation, below is a Table of Content
 10. [Stream tunes and make a call via Bluetooth](#stream-tunes-and-make-a-call-via-bluetooth)
 11. [Home automation with a voice](#home-automation-with-a-voice)  
 	a. [WeMo](#wemo)  
-	b. [{Update: April 26th, 2015} Philips   Hue](#update-april-26th-2015-philips-hue)
+	b. [Philips Hue](#philips-hue)
 12. [I wish I may, I wish I might](#i-wish-i-may-i-wish-i-might)
 13. [The final verdict](#the-final-verdict)
 
@@ -293,8 +293,8 @@ Did you see the additional _"THE"_ in that command? That's what it took for the 
 
 An obvious exclusion from the list of WeMo devices supported is the [WeMo Maker](http://www.amazon.com/gp/product/B00N32H7U8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N32H7U8&linkCode=as2&tag=bricinmypockb-20&linkId=3GFAD7K72FRL25XM). This devices provides WeMo access to uncommon devices and appliances and allow Makers to tinker. Hopefully they will incorporate this device in the near future. It may actually work, I just don't have one to test it with.
 
-## {Update: April 26th, 2015} Philips Hue
-We have four [Philips Hue bulbs](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) in our bedroom. I was of course anxious to see if the Echo can control these lights. After pairing the Echo with the Philips Hue bridge, using the process described earlier, naming each light using the Philips Hue iOS app, and then placing the four lights in a group called _Bedroom Lights_ using the same app, I tried my first command:
+## Philips Hue
+**{Update: April 26th, 2015}** We have four [Philips Hue bulbs](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) in our bedroom. I was of course anxious to see if the Echo can control these lights. After pairing the Echo with the Philips Hue bridge, using the process described earlier, naming each light using the Philips Hue iOS app, and then placing the four lights in a group called _Bedroom Lights_ using the same app, I tried my first command:
 
 _"Alexa, turn the Bedroom Lights on"_
 
