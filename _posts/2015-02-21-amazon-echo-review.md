@@ -41,7 +41,7 @@ This is a very long post, to assist with navigation, below is a Table of Content
 6. [Your personal news and weather personality](#your-personal-news-and-weather-personality)
 7. [Make time for Echo](#make-time-for-echo)
 8. [Stay Organized](#stay-organized)
-9. [Remote? We don’t need no stinkin’ remote.](#remote-we-dont-need-no-stinkin-remote)
+9. [No remote necessary](#no-remote-necessary)
 10. [Stream tunes and make a call via Bluetooth](#stream-tunes-and-make-a-call-via-bluetooth)
 11. [Home automation with a voice](#home-automation-with-a-voice)  
 	a. [WeMo](#wemo)  
@@ -245,7 +245,7 @@ _"Alexa, what's on my to-do list"_
 
 Echo gladly reads your items. As of now, you can only mark items as complete using the Echo iOS app.
 
-# Remote? We don’t need no stinkin’ remote.
+# No remote necessary
 Seriously, I'm not sure why a remote is included in the package. Our remote is in its magnetic cradle next to our bed. I've used it on very rare occasions. The majority of the time, use of the remote has been to stop music. I don't believe I've ever used it for voice commands beyond simply trying out the remote. Again, location of the Echo probably has something to do with lack of use of the remote.
 
 # Stream tunes and make a call via Bluetooth
