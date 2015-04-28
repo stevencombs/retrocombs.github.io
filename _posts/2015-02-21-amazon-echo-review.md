@@ -17,6 +17,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 {**Update: April 5th, 2015**} As the Echo continues to receive upgrades, I will add them to this review. Updates will receive the same marker that appears before this paragraph. A list of updates appears below.
 
 **Updates:**
+
 * April 5th, 2015 - Echo receives Pandora support
 * April 11th, 2015 - Echo adds [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) support
 * April 26th, 2015 - Philips Hue usage
