@@ -26,8 +26,6 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 **TIP:** To jump to an update, use the browser find (⌘ + F on Mac) feature and search for the date above or use the TOC below.
 <hr>
 
-This is a very long post, to assist with navigation, below is a Table of Contents (TOC).
-
 **Table of Contents**
 
 1. [Location, Location, Location](#location-location-location)
