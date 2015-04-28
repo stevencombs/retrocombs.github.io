@@ -28,6 +28,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 This is a very long post, to assist with navigation, below is a Table of Contents (TOC).
 
 **Table of Contents** <!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
+
 - [Location, Location, Location](#location-location-location)
 - [Alexa!](#alexa)
 - [Time to face the music](#time-to-face-the-music)
@@ -49,6 +50,7 @@ This is a very long post, to assist with navigation, below is a Table of Content
 
 - [I wish I may, I wish I might](#i-wish-i-may-i-wish-i-might)
 - [The final verdict](#the-final-verdict)
+
 <!-- /TOC -->
 
 # Location, Location, Location
