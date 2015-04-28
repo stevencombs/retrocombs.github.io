@@ -13,7 +13,6 @@ It's been about a month since the [unboxing](http://www.stevencombs.com/gadgets/
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KkOCeAtKHIc" frameborder="0" allowfullscreen></iframe></p>
 Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and plugged it into a 110v outlet (required). Initial tests were conducted in this location. I would quickly learn that this was not to be the permanent home for the Echo.
 <hr>
-
 {**Update: April 5th, 2015**} As the Echo continues to receive upgrades, I will add them to this review. Updates will receive the same marker that appears before this paragraph. A list of updates appears below.
 
 **Updates:**
@@ -25,8 +24,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 
 **TIP:** To jump to an update, use the browser find (⌘ + F on Mac) feature and search for the date above or use the TOC below.
 <hr>
-
-**Table of Contents**
+**Table of Contents:**
 
 1. [Location, Location, Location](#location-location-location)
 2. [Alexa!](#alexa)
@@ -47,7 +45,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 	b. [Philips Hue](#philips-hue)
 12. [I wish I may, I wish I might](#i-wish-i-may-i-wish-i-might)
 13. [The final verdict](#the-final-verdict)
-
+<hr>
 # Location, Location, Location
 I moved the Echo four times before it landed in a spot where it would be used on a regular basis. My home office desk was the Echo's first home. This was a horrible location. My computer provided all the capabilities of the Echo. Speaking to obtain music and information was of no value and superfluous. Additionally, the [Alesis monitors](http://www.amazon.com/gp/product/B00F3F7OIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F3F7OIS&linkCode=as2&tag=bricinmypockb-20&linkId=FLW6FCSHU4ACYWHF) provide much better sound than the Echo. Time to try another location.
 
