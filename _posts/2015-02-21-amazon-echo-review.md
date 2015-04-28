@@ -45,7 +45,9 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 	b. [Philips Hue](#philips-hue)
 12. [I wish I may, I wish I might](#i-wish-i-may-i-wish-i-might)
 13. [The final verdict](#the-final-verdict)
+
 <hr>
+
 # Location, Location, Location
 I moved the Echo four times before it landed in a spot where it would be used on a regular basis. My home office desk was the Echo's first home. This was a horrible location. My computer provided all the capabilities of the Echo. Speaking to obtain music and information was of no value and superfluous. Additionally, the [Alesis monitors](http://www.amazon.com/gp/product/B00F3F7OIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F3F7OIS&linkCode=as2&tag=bricinmypockb-20&linkId=FLW6FCSHU4ACYWHF) provide much better sound than the Echo. Time to try another location.
 
