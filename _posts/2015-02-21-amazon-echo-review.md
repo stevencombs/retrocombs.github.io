@@ -27,31 +27,27 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 
 This is a very long post, to assist with navigation, below is a Table of Contents (TOC).
 
-**Table of Contents** <!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
+**Table of Contents**
 
-- [Location, Location, Location](#location-location-location)
-- [Alexa!](#alexa)
-- [Time to face the music](#time-to-face-the-music)
-  - [Amazon Prime Music](#amazon-prime-music)
-  - [iHeartRadio](#iheartradio)
-  - [Pandora Radio](#pandora-radio)
-  - [TuneIn Radio](#tunein-radio)
-
-- [Crank it up](#crank-it-up)
-- [The library at Alexandria](#the-library-at-alexandria)
-- [Your personal news and weather personality](#your-personal-news-and-weather-personality)
-- [Make time for Echo](#make-time-for-echo)
-- [Stay Organized](#stay-organized)
-- [Remote? We don't need no stinkin' remote.](#remote-we-dont-need-no-stinkin-remote)
-- [Stream tunes and make a call via Bluetooth](#stream-tunes-and-make-a-call-via-bluetooth)
-- [Home automation with a voice](#home-automation-with-a-voice)
-  - [WeMo](#wemo)
-  - [{Update: April 26th, 2015} Philips Hue](#update-april-26th-2015-philips-hue)
-
-- [I wish I may, I wish I might](#i-wish-i-may-i-wish-i-might)
-- [The final verdict](#the-final-verdict)
-
-<!-- /TOC -->
+1. [Location, Location, Location](#location-location-location)
+2. [Alexa!](#alexa)
+3. [Time to face the music](#time-to-face-the-music)
+	a. [Amazon Prime Music](#amazon-prime-music)
+	b. [iHeartRadio](#iheartradio)
+	c. [Pandora Radio](#pandora-radio)
+	d. [TuneIn Radio](#tunein-radio)
+4. [Crank it up](#crank-it-up)
+5. [The library at Alexandria](#the-library-at-alexandria)
+6. [Your personal news and weather personality](#your-personal-news-and-weather-personality)
+7. [Make time for Echo](#make-time-for-echo)
+8. [Stay Organized](#stay-organized)
+9. [Remote? We don’t need no stinkin’ remote.](#remote-we-dont-need-no-stinkin-remote)
+10. [Stream tunes and make a call via Bluetooth](#stream-tunes-and-make-a-call-via-bluetooth)
+11. [Home automation with a voice](#home-automation-with-a-voice)
+	a. [WeMo](#wemo)
+	b. [{Update: April 26th, 2015} Philips Hue](#update-april-26th-2015-philips-hue)
+12. [I wish I may, I wish I might](#i-wish-i-may-i-wish-i-might)
+13. [The final verdict](#the-final-verdict)
 
 # Location, Location, Location
 I moved the Echo four times before it landed in a spot where it would be used on a regular basis. My home office desk was the Echo's first home. This was a horrible location. My computer provided all the capabilities of the Echo. Speaking to obtain music and information was of no value and superfluous. Additionally, the [Alesis monitors](http://www.amazon.com/gp/product/B00F3F7OIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F3F7OIS&linkCode=as2&tag=bricinmypockb-20&linkId=FLW6FCSHU4ACYWHF) provide much better sound than the Echo. Time to try another location.
