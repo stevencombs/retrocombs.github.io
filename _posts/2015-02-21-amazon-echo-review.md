@@ -23,7 +23,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 * April 26th, 2015 - Philips Hue usage
 * April 26th, 2015 - Added Table of Contents (TOC)
 
-**TIP:** To jump to an update, use the browser find (⌘ + F on Mac) feature and search for the date above.
+**TIP:** To jump to an update, use the browser find (⌘ + F on Mac) feature and search for the date above or use the TOC below.
 <hr>
 
 This is a very long post, to assist with navigation, below is a Table of Contents (TOC).
