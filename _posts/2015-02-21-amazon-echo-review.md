@@ -21,6 +21,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 * April 11th, 2015 - Echo adds [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) support
 * April 26th, 2015 - Philips Hue usage
 * April 26th, 2015 - Added Table of Contents (TOC)
+* May 2nd, 2015 - IFTTT support mention added (more details to come)
 
 **TIP:** To jump to an update, use the browser find (⌘ + F on Mac) feature and search for the date above or use the TOC below.
 <hr>
@@ -334,7 +335,9 @@ While I do use the Amazon Echo regularly, there are several features I recommend
 
 **Additional Music Services** - Echo needs access to additional services such as Spotify, <s>Pandora</s> and SiriusXM streaming. It would also be nice, as mentioned earlier, to be able to stream my own personal music from a server on my network. I get that Amazon wants to push their music service and I can live with the services the Echo currently includes; however, for mass adoption, I think Amazon will need to branch out and offer additional ways to access music.
 
-**Calendar and Email Access** - As part of my morning ritual, I want to ask Echo to tell my about my daily activities or to read email. Add this feature and you have a device that makes you more productive. Add the ability to respond to or create an email and we have a game changer. Especially if I can send email to control [IFTTT](https://ifttt.com/) recipes. While I'm at it, IFTTT integration alone is a game changer.
+**Calendar and Email Access** - As part of my morning ritual, I want to ask Echo to tell my about my daily activities or to read email. Add this feature and you have a device that makes you more productive. Add the ability to respond to or create an email and we have a game changer. Especially if I can send email to control [IFTTT](https://ifttt.com/) recipes. 
+
+**IFTTT support** - <strike>While I'm at it, IFTTT integration alone would be a game changer.</strike> {Update: May 2nd, 2015} IFTTT includes an Amazon Alexa channel. Currently, it supports To Do items and lists. More to come later.
 
 **String commands** -  There are times when I have music or news playing and I want to interrupt Echo with a question. Sometimes Echo will know to return to my music and sometimes it doesn't. Sometimes when a request is made, the content will continue in the background. I want to string commands together so Echo knows exactly what I want to do. For instance:
 
