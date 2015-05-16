@@ -1,38 +1,41 @@
 ---
 layout: post
-title: 3 interesting Ardunio components
+title: 3 interesting Arduino components
 date: '2013-11-27 14:56'
 comments: 'yes'
 categories:
   - arduino
+  - raspberrypi
 ---
 
-[Source](http://www.docstechnotes.com/2013/11/check-out-these-three-electronic.html "Permalink to Check out these three electronic components I found on Amazon")
+I ordered three components while "window shopping" at Amazon. A couple of the components I will use for Arduino and Raspberry Pi projects I have in mind and another I bought just to see how the thing worked.
 
-# Check out these three electronic components I found on Amazon
-![][1]Today I received a few electronic components I ordered while browsing Amazon (that's a dangerous thing!). A couple of the components I will use for Arduino and Raspberry Pi projects I have in mind and another I bought just to see how the thing worked. So after a click below, you can see what exactly is in these three packages and what they do. You will also find Amazon and manufacturer links (at least the ones I could locate) should you want to purchase and use these in your own projects.
+You will find Amazon and manufacturer links (at least the ones I could locate) should you want to purchase and use these components in your own projects.
 
-Sometimes you just need to know what's out there to spark ideas. That is the entire point of today's blog post.  
+![][1]
+
+# TCS3200 Color Sensor
+**Manufacturer Description:** TCS3200 Color Sensor is a complete color detector, including a TAOS TCS3200 RGB sensor chip and 4 white LEDs. The TCS3200 can detect and measure a nearly limitless range of visible colors. Applications include test strip reading, sorting by color, ambient light sensing and calibration, and color matching, to name just a few.
 
 ![][2]
 
-**Manufacturer Description:** TCS3200 Color Sensor is a complete color detector, including a TAOS TCS3200 RGB sensor chip and 4 white LEDs. The TCS3200 can detect and measure a nearly limitless range of visible colors. Applications include test strip reading, sorting by color, ambient light sensing and calibration, and color matching, to name just a few.
-
 || [Purchase from Amazon][3] ||<br>|| [Usage Information][4] ||<br>|| [Data Sheet][5]<br>|| [Schematic][6]
+
+# Infrared Motion Sensor
+**Manufacturer Description:** Simple infrared motion sensor. Power the device and wait 1–2 seconds. the sensor will capture a snapshot of the surroundings. If changes within the environment, the 'alarm' pin will register low.
 
 ![][7]
 
-**Manufacturer Description:** Simple infrared motion sensor. Power the device and wait 1–2 seconds. the sensor will capture a snapshot of the surroundings. If changes within the environment, the 'alarm' pin will register low.
-
 || [Purchase from Amazon][8] ||<br>|| [Usage Information][9] ||
+
+# Arduino Sensor Shield
+**Manufacturer Description:** Arduino Sensor Shield V4.0 allows you to connect to various modules like sensors, servos, relays, buttons, potentiometers.just plug & play! Each functional module has buckled port with VCC, GND and Output, which has corresponding port on the Sensor Shield, connected with a plain 2.54mm dual-female cable you may start playing already. Buckled brick cables are like cement for bricks, make the connections easier, secure and more professional looking.
 
 ![][10]
 
-**Manufacturer Description:** Arduino Sensor Shield V4.0 allows you to connect to various modules like sensors, servos, relays, buttons, potentiometers.just plug & play! Each functional module has buckled port with VCC, GND and Output, which has corresponding port on the Sensor Shield, connected with a plain 2.54mm dual-female cable you may start playing already. Buckled brick cables are like cement for bricks, make the connections easier, secure and more professional looking.
-
 || [Purchase from Amazon ][11] ||<br>|| [Usage Information][12] ||<br>|| [Schematic and Pinout][13] ||
 
-Have these components generated some ideas for a project or two? Drop a comment and share. We can do some virtual brainstorming together. If, while testing these components, I run into some interesting observations or discover some tips, I'll share them in future blog posts.
+Have these components generated some ideas for a project or two? Drop a comment and share. We can do some virtual brainstorming together.
 
 [1]: http://2.bp.blogspot.com/-a0seywxOMis/UpZ5wwPlPnI/AAAAAAABNDI/vpwKl5AyNoA/s1600/photo+1.JPG
 [2]: http://3.bp.blogspot.com/-Qd5DchIfslQ/UpZ3EDW0hBI/AAAAAAABNCs/tYD0h_OierU/s1600/TCS3200+Color+Sensor.jpg
