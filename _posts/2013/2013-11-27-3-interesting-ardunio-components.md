@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 interesting Arduino components
+title: Three interesting electronics components
 date: '2013-11-27 14:56'
 comments: 'yes'
 categories:
