@@ -2,8 +2,10 @@
 layout: default
 ---
 
+<a href="http://www.stevencombs.com/{{ page.categories }}.html"> {{ page.categories }} </a>
+
 <p class="meta">
-  Filed under | <a href="http://www.stevencombs.com/{{ page.categories }}.html"</a> | on {{ page.date | date: "%B %d, %Y" }}
+  Filed under | {{ page.categories }} | on {{ page.date | date: "%B %d, %Y" }}
   <a href="/">
     <i class="home fa fa-home"></i>
   </a>
