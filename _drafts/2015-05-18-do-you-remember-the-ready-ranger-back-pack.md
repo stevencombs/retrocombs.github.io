@@ -7,15 +7,15 @@ categories:
   - entertainment
 ---
 
-About a week before the Christmas of 2007, my son came home with an exercise for his Dad. My initial thought, “parents get homework?” Then I read the assignment. Write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several of my favorites: [G.I. Joe and jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Millions Dollar Man](http://www.plaidstallions.com/smdm/), [Evel Knievel](http://www.plaidstallions.com/evel/), [MEGO CD Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, LEGO. However, none of these past christmas gifts would compare to my all time favorite, the Ready Ranger back pack from Aurora.
+About a week before Christmas of 2007, my son came home with homework for his Dad. My initial thought, “parents get homework?” Then I read the assignment; write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several of my favorites: [G.I. Joe with Jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Million Dollar Man action figure](http://www.plaidstallions.com/smdm/), [Evel Knievel action figure with motorcycle](http://www.plaidstallions.com/evel/), [MEGO DC Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, [LEGO](http://www.lego.com). However, none of these past christmas gifts compare to my all time favorite, the Ready Ranger back pack from Aurora.
 
 ![][1]
 
 
 # Best Christmas Ever!
-After preparing my Ready Ranger essay for my son's teacher, I performed a quick search online for information about the backpack. I found a Spiegel catalog page (remember them?), courtesy of plaidstallions.com (see image above). Images of the toy brought back Christmas memories from the mid-70s. In particular, the Christmas I received this gift.
+While I was preparing my Ready Ranger essay for my son's teacher, I performed a quick online search for information about the back pack to spark my memory. I discovered a Spiegel catalog page (remember them?), courtesy of [plaidstallions.com](http://www.plaidstallions.com) (see image above). Images of the toy brought back many Christmas memories from the mid-70s. In particular, the Christmas I received the Ready Ranger.
 
-I found this gift in the trunk of my parents car one year. I wish I could say it was my accident; however, I was a bit of a stinker in my day and I as actually searching for Christmas gifts. Unbeknowst to my parents, even to this day (but not after posting this), they never knew I found my dads keys to the car one day and went out to the trunk for a peak. I was not expecting I would find anything. When I did, “oh boy!” It would be a long wait until Christmas morning.
+I remember requesting this gift from my parents. I actually did not antcipate that I would receive it; however, in early December, I found this gift in the trunk of my parents car. I wish I could say it was my accident; however, I was a bit of a stinker in my day and I was actually searching for Christmas gifts. Unbeknownst to my parents, even to this day (but not after posting this), they never knew I found my dad’s keys to the car and went out to the trunk for a peek. I did not expect to find anything. When I did, “oh boy!” It would be a long several weeks wait until Christmas morning.
 
 # Ready Ranger description
 It was an amazing use of plastic in the mid-1970s and was my Red Ryder BB Gun (a reference to the film [A Christmas Story][2]). Curious about the toy composed of an amalgam of plastic, paper and batteries that led to numerous adventures during my childhood in the 1970s?
