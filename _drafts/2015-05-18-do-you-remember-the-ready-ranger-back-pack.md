@@ -7,22 +7,22 @@ categories:
   - entertainment
 ---
 
-About a week before Christmas of 2007, my son came home with homework for his Dad. My initial thought, “parents get homework?” Then I read the assignment; write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several of my favorites: [G.I. Joe with Jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Million Dollar Man action figure](http://www.plaidstallions.com/smdm/), [Evel Knievel action figure with motorcycle](http://www.plaidstallions.com/evel/), [MEGO DC Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, [LEGO](http://www.lego.com). However, none of these past christmas gifts compare to my all time favorite, the Ready Ranger back pack from Aurora.
+About a week before Christmas of 2007, my son came home with homework for his Dad. My initial thought, “parents get homework?!?” Then I read the assignment; write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several of my favorites: [G.I. Joe with Jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Million Dollar Man action figure](http://www.plaidstallions.com/smdm/), [Evel Knievel action figure with motorcycle](http://www.plaidstallions.com/evel/), [MEGO DC Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, [LEGO](http://www.lego.com). However, none of these past christmas gifts compare to my all time favorite, the Ready Ranger back pack from Aurora.
 
 ![][1]
-
 
 # Best Christmas Ever!
 While I was preparing my Ready Ranger essay for my son's teacher, I performed a quick online search for information about the back pack to spark my memory. I discovered a Spiegel catalog page (remember them?), courtesy of [plaidstallions.com](http://www.plaidstallions.com) (see image above). Images of the toy brought back many Christmas memories from the mid-70s. In particular, the Christmas I received the Ready Ranger.
 
-I remember requesting this gift from my parents. I actually did not antcipate that I would receive it; however, in early December, I found this gift in the trunk of my parents car. I wish I could say it was my accident; however, I was a bit of a stinker in my day and I was actually searching for Christmas gifts. Unbeknownst to my parents, even to this day (but not after posting this), they never knew I found my dad’s keys to the car and went out to the trunk for a peek. I did not expect to find anything. When I did, “oh boy!” It would be a long several weeks wait until Christmas morning.
+I remember requesting this gift from my parents. I actually did not anticipate that I would receive it; however, in early December, I found this gift in the trunk of my parents car. I wish I could say it was my accident; however, I was a bit of a stinker in my day and I was actually searching for Christmas gifts. Unbeknownst to my parents, even to this day (but not after posting this), they never knew I found my dad’s keys to the car and went out to the trunk for a peek. I did not expect to find anything. When I did, “oh boy!” It would be a long several weeks wait until Christmas morning.
 
 # Ready Ranger description
 It was an amazing use of plastic in the mid-1970s and was my Red Ryder BB Gun (a reference to the film [A Christmas Story][2]). Curious about the toy composed of an amalgam of plastic, paper and batteries that led to numerous adventures during my childhood in the 1970s?
 
 I printed and included the image along with my written exercise. I'm definitely an overachiever and Dad would surely receive an "A" for his submission since you can't "shoot your eye out" with this Christmas gift.
 
-This back pack had a phenomenal number of features, at least for a boy of 9. Below are a few of my personal favorites:  
+This back pack had a phenomenal number of features, at least for a boy of 9. Below are a few of my personal favorites:
+
 - Plastic poncho/sleeping bag with a felt liner – very thin as I remember and easy to roll/fold/tear
 - Star Chart – a paper wheel that I could never figure out, but still way cool
 - Periscope – at only about a foot tall, you could barely look over an ant hill, but using it to look around corners was pretty cool as I remember
@@ -36,10 +36,8 @@ This back pack had a phenomenal number of features, at least for a boy of 9. Bel
 
 Sadly there was no walkie-talkie included. This is the only feature I could think of that would make this toy more complete for the young adventurer on the go in the 70s. I already owned a set of walkie-talkies and am betting any other boy interested in this toy would have owned a set as well. Probably not a significant omission; however, this would have made a very intriguing accessory. The title would even be cool and fun to say, "the Ready Ranger Walkie Talkie."
 
-
 # Ready Ranger adventures
 This $11 toy was the perfect gift for a budding gadget geek! I remember a crisp fall day where I made a trek through the forest. Lugging this thing on my back, I headed over a wooded mountain (actually a hill, but hey...I was 9) to visit a friend in a neighboring subdivision. It was great fun and was even a bit rainy that day to add to the "challenge." I considered my solo trek that day an adventure that I would never forget – and I didn't. And yes, I made it to my friend's house; however, my older brother came to pick me up later that day as I was too tired to walk back home. This day may have been a foreshadowing of my Army career now that I look back on it – nah!
-
 
 # Ready Ranger demise
 Sadly, this toy died in the 1970s and to my recollection there has never been another toy like it. Oh, but what memories. Is it me or do toys today not provide the imagination spark that the toys of my generation provide? It's too bad really. Maybe this is why I still have a [fascination with the LEGO brand][4].
