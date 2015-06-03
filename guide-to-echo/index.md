@@ -30,9 +30,9 @@ INSERT HYPE HARDWARE GRAPHIC
 
 Below are Echo features and commands…
 
-|          | audio controls (general use)     |                                                                                       |
-|:---------|:-------------------------------------------------------------------------------------------------------------------------|
-| **play** | _“Alexa, play.”_                                                                                                         |
-|          | Echo plays recently paused music or, if starting from the beginning, selects a recommended playlist from Amazon Prime. | |
-| _stop_   | "Alexa, stop."                                                                                                           |
-|          | Echo stops any music that is currently playing.                                                                          |
+|          | audio controls (general use)     ||                                                                                        |
+|:---------|:---------------------------------------------------------------------------------------------------------------------------|
+| **play** | _“Alexa, play.”_                                                                                                           |
+|          | Echo plays recently paused music or, if starting from the beginning, selects a recommended playlist from Amazon Prime. |   |
+| _stop_   | "Alexa, stop."                                                                                                             |
+|          | Echo stops any music that is currently playing.                                                                          | |
