@@ -4,11 +4,12 @@ title: free ultimate guide to the amazon echo
 category: gadgets
 comments: false
 ---
+
 # <font color="orange">introduction to the echo</font>
 
 I've referred to the Amazon echo as "[Siri in a Pingle Can][3ee33dfb]." It really is one of the best ways to describe not only the Echo's functions, but also its appearance. This tall cylinder sits on a counter, desk or dresser and provides quick access, via audio announcements, to news, weather, music and information. It does all of this using simple voice commands.
 
-**<font color="#3498DB">NOTE:</font>** The Amazon Echo is only available, via waitlist and in limited supplies, to Amazon Prime members.
+<font color="#3498DB">note:</font> The Amazon Echo is only available, via waitlist and in limited supplies, to Amazon Prime members.
 
   [3ee33dfb]: http://www.stevencombs.com/gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"
 
@@ -21,20 +22,45 @@ This page is my attempt to bring sanity to the review feature content by providi
   [b9115e58]: http://www.stevencombs.com/gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"
 
 # <font color="orange">echo hardware</font>
-
 Before we explore the numerous commands available on the Echo, let's first take a look at the hardware.
 
 INSERT HYPE HARDWARE GRAPHIC
 
 # <font color="orange">commands</font>
+Below are Echo features and commands. Features are listed in alphabetical order by section speed searches. For faster searches, use the browser's search function. On the Mac, use the keyboard combination: <kbd>⌘ + F</kbd>
 
-Below are Echo features and commands…
+***
+### <font color="orange">audio controls (general use)</font>
+Commands to control the audio functions of the echo when playing online music or using the Echo as a bluetooth speaker.
 
-|          | audio controls (general use)     ||                                                                                        |
-|:---------|:---------------------------------------------------------------------------------------------------------------------------|
-| **play** | _“Alexa, play.”_                                                                                                           |
-|          | Echo plays recently paused music or, if starting from the beginning, selects a recommended playlist from Amazon Prime. |   |
-| _stop_   | "Alexa, stop."                                                                                                             |
-|          | Echo stops any music that is currently playing.                                                                          | |
+<kbd>**pause** | _"Alexa, pause."_</kbd>&nbsp; | pauses recently any playing audio.
 
-Table here
+<kbd>**play** | _“Alexa, play.”_</kbd>&nbsp; | plays recently paused music or, if starting from the beginning, selects a recommended playlist from Amazon Prime.
+
+<kbd>**stop** | _"Alexa, stop."_</kbd>&nbsp; | stops any music that is currently playing.
+
+<kbd>**track, next** | _"Alexa, next."_</kbd>&nbsp; | plays the next song in the playlist.
+
+<kbd>**track, previous** | _"Alexa, previous."_</kbd>&nbsp; | plays previous song in the playlist. Will not work with some streaming services such as Pandora or live radio (obviously).
+
+<kbd>**volume, raise** | _"Alexa, volume up."_</kbd>&nbsp; | raises volume 10%.
+
+<kbd>**volume, lower** | _"Alexa, volume down."_</kbd>&nbsp; | lowers volume 10%.
+
+<kbd>**volume, set** | _"Alexa, volume 1...10."_</kbd>&nbsp; | sets volume to indicated level.
+
+***
+
+### <font color="orange">calendar, google</font>
+Echo will announce items on your Google Calendar.
+
+<font color="#3498DB">setup required:</font> Link the Echo to your Google Calendar using the iOS app>. Select: <kbd>settings | account | calendar services</kbd>
+
+If the <kbd>calendar services</kbd> option does not appear, log out of the app and then login again.
+<kbd>**calendar entry today** | _"Alexa, what's on my calendar?"_</kbd>&nbsp; | announces the first 25 events.
+
+<kbd>**calendar entry tomorrow** | _"Alexa, what's on my calendar tomorrow?"_</kbd>&nbsp; | announces calendar events on tomorrow's calendar.
+
+<kbd>**calendar, specific day** | _"Alexa, what's on my calendar on [date]."_</kbd>&nbsp; | announces calendar events on specific day.
+
+***
