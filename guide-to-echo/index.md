@@ -30,7 +30,7 @@ INSERT HYPE HARDWARE GRAPHIC
 Below are Echo features and commands. Features are listed in alphabetical order by section speed searches. For faster searches, use the browser's search function. On the Mac, use the keyboard combination: <kbd>⌘ + F</kbd>
 
 ***
-### <font color="orange">audio controls (general use)</font>
+## <font color="orange">audio controls (general use)</font>
 Commands to control the audio functions of the echo when playing online music or using the Echo as a bluetooth speaker.
 
 <kbd>**pause** | _"Alexa, pause."_</kbd>&nbsp; | pauses recently any playing audio.
@@ -51,7 +51,7 @@ Commands to control the audio functions of the echo when playing online music or
 
 ***
 
-### <font color="orange">calendar, google</font>
+## <font color="orange">calendar, google</font>
 Echo will announce items on your Google Calendar.
 
 <font color="#3498DB">setup required:</font> Link the Echo to your Google Calendar using the iOS app>. Select: <kbd>settings | account | calendar services</kbd>
