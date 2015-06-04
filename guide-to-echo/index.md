@@ -57,6 +57,7 @@ Echo will announce items on your Google Calendar.
 <font color="#3498DB">setup required:</font> Link the Echo to your Google Calendar using the iOS app>. Select: <kbd>settings | account | calendar services</kbd>
 
 If the <kbd>calendar services</kbd> option does not appear, log out of the app and then login again.
+
 <kbd>**calendar entry today** | _"Alexa, what's on my calendar?"_</kbd>&nbsp; | announces the first 25 events.
 
 <kbd>**calendar entry tomorrow** | _"Alexa, what's on my calendar tomorrow?"_</kbd>&nbsp; | announces calendar events on tomorrow's calendar.
