@@ -7,7 +7,7 @@ categories:
   - art
 ---
 
-Recently, I wrote about [my first fountain pen](http://www.stevencombs.com/art/2015/05/03/my-first-fountain-pen-Jinhao-250.html), the Jinhao 250. I shared the post in the [PenAddict Slack channel](https://penaddict.slack.com). Slack member @punkey read my review and based on my "so-so" experience recommended I try another fountain pen, the Pilot MR Metropolitan. He then offered to send one to me. Evidently, he likes the pen so much, he keeps spares.
+Recently, I wrote about [my first fountain pen](http://www.stevencombs.com/art/2015/05/03/my-first-fountain-pen-jinhao-250.html), the Jinhao 250. I shared the post in the [PenAddict Slack channel](https://penaddict.slack.com). Slack member @punkey read my review and based on my "so-so" experience recommended I try another fountain pen, the Pilot MR Metropolitan. He then offered to send one to me. Evidently, he likes the pen so much, he keeps spares.
 
 ![](https://lh3.googleusercontent.com/-TygGZeUOOew/VWCXOtFnllI/AAAAAAABbWM/32xbqRkJYSs/w1978-h776-no/Jinhao-vs-pilot-header.jpg)
 
