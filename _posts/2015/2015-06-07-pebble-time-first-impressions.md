@@ -17,7 +17,7 @@ This new Pebble watch will include:
 
 * new watch design
 * new user interface
-* color e-ink display
+* color e-paper display
 * removal of the eight watchface/application limitation
 * new timeline feature
 * new battery port location
@@ -77,7 +77,7 @@ Both the Pebble Time and adapter next to my original Pebble for comparison.
 Another comparison shot of the Pebble Time and original "very dirty" Pebble. The Pebble Time looks much better than the original and hides the charging port underneath.
 
 ![](https://lh3.googleusercontent.com/-rqJGtxFcQhw/VXMF4UKtACI/AAAAAAABesk/yuzz_Z_W7W4/w1896-h1422-no/IMG_8272.JPG)
-Both watches powered up. The Pebble Time is ready to connect to my iPhone while the original Pebble displays my favorite watch face for the black and white e-ink display. I enjoyed my first look at the color e-ink display. As expected, it was easy to read in direct light and always on (unlike other smart watches).
+Both watches powered up. The Pebble Time is ready to connect to my iPhone while the original Pebble displays my favorite watch face for the black and white display. I enjoyed my first look at the color e-paper display. As expected, it was easy to read in direct light and always on (unlike other smart watches).
 
 ![](https://lh3.googleusercontent.com/-j_cfoH-riBc/VXMF4dy-_AI/AAAAAAABesc/z7qqzbSh1kE/w1896-h1422-no/IMG_8274.JPG)
 Time to charge the Pebble Time, connect via Bluetooth to iPhone, and load apps/watch faces. As a Kickstarter backer, this watch has the special stamp on the back that will not be found on the retail models when they ship.
@@ -88,7 +88,7 @@ All setup and ready for wear; here's the Pebble in full sunlight on a rather hai
 #First impressions
 Once again, this is not a full review of the new Pebble Time; however, below I are my first impressions. A full review may come after I have spent some time with the Time.
 
-* The color e-ink display is the first thing you notice and I really like it
+* The color e-paper display is the first thing you notice and I really like it
 * The new watch design is more refined than the original
 * Setup with iPhone was flawless using the new [Pebble Time Watch](https://itunes.apple.com/us/app/pebble-time-watch/id957997620?mt=8&uo=4&at=10l9LR&ct=sc) iOS app
 * Watch faces and apps are no longer limited to a total of eight, but rather the watch memory – THANK YOU PEBBLE!
@@ -99,7 +99,7 @@ Once again, this is not a full review of the new Pebble Time; however, below I a
 * Reminder: this is not a touch screen device
 * New Timeline is AWESOME and as more apps embrace this feature, the Pebble Time will only get better and better
 
-After 48 hours, I am happy with my Pebble Time. There have been no problems and it works as expected. Pebble adds two important new features: color e-ink and the Timeline. These features will make any past Pebble user happy and the Pebble Time worth the upgrade. I look forward to more "time with the Time" as well as the new apps and watch faces that will bring even more value to the watch.
+After 48 hours, I am happy with my Pebble Time. There have been no problems and it works as expected. Pebble adds two important new features: color e-paper and the Timeline. These features will make any past Pebble user happy and the Pebble Time worth the upgrade. I look forward to more "time with the Time" as well as the new apps and watch faces that will bring even more value to the watch.
 
 [2768-0001]: http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=bricinmypockb-20
 [2768-0002]: http://www.amazon.com/gp/product/B00LMIA9L4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00LMIA9L4&linkCode=as2&tag=bricinmypockb-20
