@@ -11,8 +11,8 @@ categories:
 
 ![](https://lh6.googleusercontent.com/-lD93RyZs3Zk/VXTIovoHqkI/AAAAAAABfR0/tzU_gx2aKVs/w1331-h998-no/IMG_8284.JPG)
 
-**Sketchnote Type:** Blog Post Outline
-**Journal Used:** [LEGO Moleskine - 5 x 8.5](https://www.amazon.com/Moleskine-Limited-Edition-Notebook-Large/dp/886732621X/ref=as_sl_pc_ss_til?tag=bricinmypockb-20&linkCode=w01&linkId=TL3CJREDKU33GOJ6&creativeASIN=886732621X)
+**Sketchnote Type:** Blog Post Outline  
+**Journal Used:** [LEGO Moleskine - 5 x 8.5](https://www.amazon.com/Moleskine-Limited-Edition-Notebook-Large/dp/886732621X/ref=as_sl_pc_ss_til?tag=bricinmypockb-20&linkCode=w01&linkId=TL3CJREDKU33GOJ6&creativeASIN=886732621X)  
 **Pen(s) Used:** [Pilot HI-TEC-C maica](http://www.stevencombs.com/art/2015/04/18/pilot-hi-tec-c-maica-review.html)
 
 <hr/>
