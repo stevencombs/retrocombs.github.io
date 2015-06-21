@@ -8,7 +8,7 @@ category: gadgets
 comments: yes
 ---
 
-It’s been a gadget kind of weekend. Yesterday I shared an [unboxing of a new Baofeng GT-3 radio](http://www.stevencombs.com/gadgets/2015/02/14/beofeng-gt3-unboxing.html) and today I had time to unbox a new gadget that arrived last week from China – the [SYMA X5C-1 Quadcopter](http://www.gearbest.com/rc-quadcopters/pp_73260.html#vip=15513).
+It’s been a gadget kind of weekend. Yesterday I shared an [unboxing of a new Baofeng GT-3 radio](http://www.stevencombs.com/gadgets/2015/02/14/beofeng-gt3-unboxing.html) and today I had time to unbox a new gadget that arrived last week from China – the [SYMA X5C-1 Quadcopter](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=bricinmypockb-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU).
 
 ![SYMA Quadcopter Box](https://lh5.googleusercontent.com/aq_R2phMyn6fIZdUmfOjtVU1P1ypfStXyggHyB2b92kv=w1088-h559-no)
 
@@ -23,7 +23,7 @@ The SYMA X5C-1 is a radio controlled quadcopter noted for:
 * 360° flips
 * HD camera
 
-I made my [purchase from GearBest](http://www.gearbest.com/rc-quadcopters/pp_73260.html#vip=15513). Shipped directly from China, it took about 3 weeks to arrive and required a trip to the post office for a signature (thanks Nikki!). Since arriving, I’ve had a chance to open up the box, try a few flights, and make a video. This thing is a blast to fly, although practice is required, and a whole bunch of fun. Well worth the [$50](http://www.gearbest.com/rc-quadcopters/pp_73260.html#vip=15513). I look forward to warmer weather for outside flights and further testing.
+I made my purchase from GearBest, however, you can get purchase these in [America from Amazon as well](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=bricinmypockb-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU). Shipped directly from China, it took about 3 weeks to arrive and required a trip to the post office for a signature (thanks Nikki!). Since arriving, I’ve had a chance to open up the box, try a few flights, and make a video. This thing is a blast to fly, although practice is required, and a whole bunch of fun. Well worth the $50. I look forward to warmer weather for outside flights and further testing.
 
 For now, enjoy my unboxing gallery below to find out what’s in the box as well as read a few observations.
 
