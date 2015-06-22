@@ -60,7 +60,7 @@ This is a good looking quadcopter. Time to charge for a first flight. Battery is
 # Initial Thoughts
 After spending a bit of time with this nano quadcopter, I have a few initial thoughts:
 
-* Excellent price, [at our around $20 at Amazon](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=SYMA%20X12S&linkCode=ur2&tag=bricinmypockb-20&url=search-alias%3Daps&linkId=GTMKPXOAVBTT6IMC)
+* Excellent price, [at, or around, $20 at Amazon](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=SYMA%20X12S&linkCode=ur2&tag=bricinmypockb-20&url=search-alias%3Daps&linkId=GTMKPXOAVBTT6IMC)
 * Great starter quadcopter
 * Good for both indoor and outdoor flights
 * Rubber feet on the bottom make landings less stressful on the quadcopter
