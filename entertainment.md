@@ -5,7 +5,7 @@ title: Entertainment
 
 <img class="category" src="http://www.stevencombs.com/images/design/entertainment.svg" />
 
-Life isn't all work and hobbies. Occasionally I like to simply kick back and enjoy a book, movie or televisions show. On occasion I write or reminisce about these entertainment options. I tend to gravitate toward science fiction, but also enjoy classics as well.
+Life isn't all work and hobbies. Occasionally I like to simply kick back and enjoy a book, movie, television show or reminisce about days gone by. The posts below represent the occasional move/tv/book/toy review.
 
 Below are my posts about books, movies, television and classic toys.
 
