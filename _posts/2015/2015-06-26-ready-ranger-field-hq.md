@@ -7,14 +7,14 @@ categories:
   - entertainment
 ---
 
-{This is a major update to an original post I wrote around 8 years ago} About a week before Christmas of 2007, my son came home with homework for his Dad. My initial thought at the time, “parents get homework?!?” Then I read the assignment; write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several of my favorites: [G.I. Joe with Jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Million Dollar Man action figure](http://www.plaidstallions.com/smdm/), [Evel Knievel action figure with motorcycle](http://www.plaidstallions.com/evel/), [MEGO DC Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, [LEGO](http://www.lego.com). However, none of these past christmas gifts compare to my all time favorite, the Ready Ranger Mobile Field Headquarters (RRMFH) from Aurora {a later version was renamed the Ready Ranger Mobile Field Pack}.
+{This is a major update to an original post I wrote around 8 years ago} About a week before Christmas of 2007, my son came home with homework for his Dad. My initial thought at the time, “Parents get homework?!?” Then I read the assignment; write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several of my favorites: [G.I. Joe with Jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Million Dollar Man action figure](http://www.plaidstallions.com/smdm/), [Evel Knievel action figure with motorcycle](http://www.plaidstallions.com/evel/), [MEGO DC Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, [LEGO](http://www.lego.com). However, none of these past christmas gifts compare to my all time favorite, the Ready Ranger Mobile Field Headquarters (RRMFH) from Aurora {a later version was renamed the Ready Ranger Mobile Field Pack}.
 
 ![][1]
 
 # Best Christmas Ever!
 While preparing my RRMFH essay for my son's teacher, I performed a quick online search for information about the back pack to spark my memories. I discovered a Spiegel catalog page (remember them?), courtesy of [plaidstallions.com](http://www.plaidstallions.com) (see image above). Images of the toy brought back many Christmas memories from the mid-70s. In particular, the Christmas I received the RRMFH.
 
-I remember requesting this toy from my parents. I actually did not anticipate that I would receive it; however, in early December, I found the unopened box in the trunk of my parents car. I wish I could say it was by accident; however, I was a bit of a stinker in my day and I was actually searching for Christmas gifts. Unbeknownst to my parents, even to this day (but not after posting this), they never knew I found (and I use the term loosely) my dad’s keys to the car and went out to the trunk for a peek. I did not expect to find anything. When I did, “oh boy!” It would be a long several weeks wait until Christmas morning.
+I remember requesting this toy from my parents. I actually did not anticipate that I would receive it; however, in early December, I found the unopened box in the trunk of my parents car. I wish I could say it was by accident; however, I was a bit of a stinker in my day and I was actually searching for Christmas gifts. Unbeknownst to my parents, even to this day (but not after posting this), they never knew I found (and I use the term loosely) my dad’s keys to the car and went out to the trunk for a peek. I did not expect to find anything. When I did, “Oh boy!” It would be a long several weeks wait until Christmas morning.
 
 After reminiscing, I made a print of the image and submitted it along with the written exercise to my son's teacher. I'm definitely an overachiever and Dad would surely receive an "A" for his submission since you can't "shoot your eye out" with this Christmas gift (a reference to the film [A Christmas Story][2]). This $11 toy was the perfect gift for a young budding gadget geek and military man like me!
 
@@ -45,14 +45,14 @@ Helicopter not included and sadly, neither was a walkie-talkie. This is the only
 # Ready Ranger Pledge
 Included in the set was a registration card (you can view this card by using the Google+ Photos Album link at the bottom of this post) that also included the "Ready Ranger Pledge" which I share below (raise your right hand and repeat after me):
 
-> I, (state your name), as an offical Ready Ranger, promise:
+> I, (state your name), as an official Ready Ranger, promise:
 >
 > 1. To be loyal to my fellow Ready Rangers and to protect all the members of my team.
 > 2. To be kind and courteous to all people.
 > 3. To care for my environment. To do what I can to see that our land, air and water are kept clean, beautiful and healthful.
 > 4. To take care of my Ready Ranger equipment. To always use it do good, never to harm anything or anyone.
 
-I would suggest that those are some good words to apply today, not just during the 1970s. Who said 1970s toys were not educational?
+I would suggest those words to apply today, not just during the 1970s. Who said 1970s toys were not educational?
 
 # A Ready Ranger adventure
 I alluded to an early adventure. Let me share it now. I remember a crisp early spring day when I made a trek through a forest. Strapping the RRMFH on my back and filling an old military canteen I had inherited from my father, I headed over a wooded mountain (actually a hill, but hey...I was ten) to visit a friend in a neighboring subdivision. It was a bit rainy that day to add challenge and also provide an excuse to use the poncho. Along the way, I made sure to stop, set up my base of operations and defend it against evil.
