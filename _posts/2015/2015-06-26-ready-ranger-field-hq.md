@@ -42,6 +42,18 @@ Speaking of comics, below is an advertisement for the Ready Ranger Mobile Field 
 
 Helicopter not included and sadly, neither was a walkie-talkie. This is the only feature I can think of that would make this toy more complete for the young adventurer at the height of the Citizen's Band (CB) radio craze of the '70s. I owned a set of walkie-talkies and am betting any other child interested in this toy would have owned a set as well. Probably not a significant omission; however, this would have made a very intriguing accessory. The title would even be fun to say, "Ready Ranger Walkie Talkie."
 
+# Ready Ranger Pledge
+Included in the set was a registration card (you can view this card by using the Google+ Photos Album link at the bottom of this post) that also included the "Ready Ranger Pledge" which I share below (raise your right hand and repeat after me):
+
+> I, (state your name), as an offical Ready Ranger, promise:
+>
+> 1. To be loyal to my fellow Ready Rangers and to protect all the members of my team.
+> 2. To be kind and courteous to all people.
+> 3. To care for my environment. To do what I can to see that our land, air and water are kept clean, beautiful and healthful.
+> 4. To take care of my Ready Ranger equipment. To always use it do good, never to harm anything or anyone.
+
+I would suggest that those are some good words to apply today, not just during the 1970s. Who said 1970s toys were not educational?
+
 # A Ready Ranger adventure
 I alluded to an early adventure. Let me share it now. I remember a crisp early spring day when I made a trek through a forest. Strapping the RRMFH on my back and filling an old military canteen I had inherited from my father, I headed over a wooded mountain (actually a hill, but hey...I was ten) to visit a friend in a neighboring subdivision. It was a bit rainy that day to add challenge and also provide an excuse to use the poncho. Along the way, I made sure to stop, set up my base of operations and defend it against evil.
 
