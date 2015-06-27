@@ -52,7 +52,7 @@ Included in the set was a registration card (you can view this card by using the
 > 3. To care for my environment. To do what I can to see that our land, air and water are kept clean, beautiful and healthful.
 > 4. To take care of my Ready Ranger equipment. To always use it do good, never to harm anything or anyone.
 
-I would suggest those words to apply today, not just during the 1970s. Who said 1970s toys were not educational?
+I would suggest those words still apply today, not just during the 1970s. Who said 1970s toys were not educational?
 
 # A Ready Ranger adventure
 I alluded to an early adventure. Let me share it now. I remember a crisp early spring day when I made a trek through a forest. Strapping the RRMFH on my back and filling an old military canteen I had inherited from my father, I headed over a wooded mountain (actually a hill, but hey...I was ten) to visit a friend in a neighboring subdivision. It was a bit rainy that day to add challenge and also provide an excuse to use the poncho. Along the way, I made sure to stop, set up my base of operations and defend it against evil.
