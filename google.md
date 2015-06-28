@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Chrome
+title: Google
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/chrome.svg" />
