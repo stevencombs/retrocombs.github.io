@@ -7,7 +7,7 @@ title: Google
 
 I write often about [Apple](apple.html) products; however, I am also a fan of Google products and services. Along with my iOS and OS X devices, I also own a Chromebook and Nexus 6. Chrome is my primary browser on all devices. I'm a Google Fi customer and can't even remember a day when I didn't use Google Drive or Google Inbox to access my important files and email. I guess you can call me an Apple-Google fanboy.
 
-#Chrome
+<img nopin="nopin" style="float: left; width: 20px;" src="/images/design/chrome.svg" />#Chrome
 Below are posts that share my experience with Chrome OS and/or the Chrome browser.
 
 <ul id="blog-posts" class="posts">
