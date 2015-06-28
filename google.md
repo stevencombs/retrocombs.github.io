@@ -9,7 +9,7 @@ I write often about [Apple](apple.html) products; however, I am also a fan of Go
 
 #Chrome
 Below are posts that share my experience with Chrome OS and/or the Chrome browser.
-<img nopin="nopin" style="float: right; width: 40px;" src="/images/design/chrome.svg" />
+
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.chrome %}
     <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
