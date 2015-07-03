@@ -39,7 +39,7 @@ The pen is not a marvel of industrial design but it is efficient and appropriate
 
 ![](https://lh5.googleusercontent.com/-bzmvpBcS2rM/VZWYIFyMjeI/AAAAAAABllk/epJq6zM4rZc/w1022-h767-no/IMG_20150702_154226.jpg)
 
-Still, Johanna has designed a pen that is attractive. There are design features I appreciate. First, the cap solidly snaps over the stainless steel pen tip to create an air tight pocket. Posting is solid and you will not lose the cap. While the entire pen has a matte finish, a shiny stripe on the cap reminds us that this pen does not include a clip.
+Still, Johanna has designed a pen that is attractive. There are design features I appreciate in this roughly 5.5" length pen. First, the cap solidly snaps over the stainless steel pen tip to create an air tight pocket. Posting is solid and you will not lose the cap. While the entire pen has a matte finish, a shiny stripe on the cap reminds us that this pen does not include a clip.
 
 ![](https://lh3.googleusercontent.com/nz3-7BkfUA8HlpcFVt7UBRjDXmWXVEOMgTlrb0TDyydN=s1330-no)
 
@@ -80,9 +80,9 @@ Bleed was on par with other inks I've used; which is to say, too much. Single li
 
 ![](https://lh3.googleusercontent.com/c0KPqGqHHcvinMdJA4w_Z2uHy-FN8p3kx0_GAQmzlBhM=s966-no)
 
-Go over a line more than once will always result in bleed as shown in the image above. Of course bleed will vary based on paper quality but you should expect it on normal stock. Bleed really is just a pet peeve of mine that I can't let go. It probably isn't as big and issue for most.
+Go over a line more than once will always result in bleed as shown in the image above. Of course bleed will vary based on paper quality but you should expect it on normal stock. Bleed is a pet peeve of mine that I can't let go. It probably isn't as big an issue for most.
 
-My wife characterized the ink by saying, "it is wet." This is spot on. The pen does leave a lot of ink compared to the Pilot pens we both use daily. Still, she summed up by saying she likes the pen for the short marks she makes while working through her to do list.
+My wife characterized the ink by saying, "It is wet." This is spot on. The pen does leave a lot of ink compared to the Pilot pens we both use daily. Still, she summed up by saying she likes the pen for the short marks she makes while working through her to do list.
 
 # Recommendation
 The IKEA FULLFÖLJA gel pen could be something special. The overall experience is harmed only by the barrel. If IKEA were to utilize a heavier barrel material and increase the circumference a tad, this could be a good pen. Maintain the price point and even pen snobs will stop by to purchase. 
