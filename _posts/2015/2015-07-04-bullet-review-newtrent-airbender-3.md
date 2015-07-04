@@ -27,40 +27,71 @@ To review this upgrade, I will begin with the original pros and cons from the Ai
 * Good stability in both horizontal and vertical orientations
 
 > As a matter of fact, the stability on this case is better than any other I have used and that is likely due to the fact that this thing is built like a tank and utilizes a support arm made of metal.
+
 * Use case as separate stand and keyboard (see gallery <strike>below</strike> [in previous post](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html)).
+
 > No change, but do look at the images in the [previous post](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html) to understand how this works.
+
 * Separate the iPad Air from keyboard easily and still have protection for the back of the iPad
+
 > The one feature I miss the most from the Zagg I use currently.
+
 * Keys for home, brightness, virtual keyboard, cut/copy/paste, media, keyboard layouts and lock screen
+
 > Still no key for Spotlight, but let’s hope that feature is available in iOS 9.
+
 * Caps lock light (image in gallery below)
+
 > This light and the others on the top of the keyboard provide visuals that are often not included on other keyboards.
+
 * Fast bluetooth connection and easy pairing
+
 > Still very fast.
+
 * Comfortable key positions
+
 > Keys are in locations that make typing on this reduced keyboard both comfortable and accurate. Additional system keys on the top row make access to other features quick and easy. This really is a good keyboard and the switches seem tighter than the previous version. The updated keyboard alone makes this case worth the upgrade. 
+
 * Easy transition from [Apple Keyboard](http://www.amazon.com/gp/product/B005DLDTAE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005DLDTAE&amp;linkCode=as2&amp;tag=docstechnotes-20)
+
 > If you use the Apple Keyboard, you will continue to find yourself at home on the Airbender 3.0.
+
 * Rechargeable battery via micro USB
+
 > Battery life continues to be excellent with this model.
+
 * Excellent shipping and packaging materials
+
 > Opening the box was a good experience. You feel like you are opening a premium product.
+
 * **{NEW bullet for this review}** Airbender allows for multiple screen angles due to the unique support bar
 
 # Cons
 
 * Physical configuration is a bit unwieldy and awkward
+
 > This case is still a beast and if you want protection for your iPad Air combined with maximum configuration flexibility, you will be able to overlook this. Added to this new model is a rubber latch to keep the keyboard and cover from opening accidentally. I really don’t like it (see image in gallery below). It sticks up when typing and gets in the way. I never had a problem with the 2.0 version so not sure why they included it on the 3.0.
+
 * Instructions are a bit vague
+
 > I would disagree now. I was able to take the keyboard out of the box, charge and connect to my iPad Air in less than a few minutes. You really don’t need instructions for this thing.
+
 * Bulky case (see Pros above)
+
 > Ditto.
+
 * Key markings are not etched and you can see the sticker edges
+
 > This is an area I had hoped NewTrent would address. I get that it costs more; however, etching the keys would just complete the package and up the premium feel and quality of the product.
+
 * No keyboard back-lighting
+
 > Which is another reason I like the Zagg, but at $40, do I really need to spend an additional $50 for this feature for the few times I need it?
+
 * Not as attractive as cases from [Belkin](http://www.amazon.com/gp/product/B00EOE4G4E/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00EOE4G4E&amp;linkCode=as2&amp;tag=docstechnotes-20) and [Logitech](http://www.amazon.com/gp/product/B00EZ9XGE4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00EZ9XGE4&amp;linkCode=as2&amp;tag=docstechnotes-20)
+
 > That is unless you like tanks and as a retired Armor officer, I do!
+
 * **{NEW bullet for this review}** Extending the support bar can often be awkward and draw attention during meetings.
 
 # Recommendation
