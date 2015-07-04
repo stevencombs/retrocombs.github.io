@@ -17,10 +17,15 @@ To review this upgrade, I will begin with the original pros and cons from the Ai
 # Pros
 
 * Excellent functionality, protection and build quality for as little as <strike>$60</strike> $40
+
 > Huge price reduction. At less than [$40 on Amazon](http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ET9YYS2&linkCode=as2&tag=bricinmypockb-20&linkId=NZVX4IXJDHZCILSB), this keyboard is a steal.
+
 * Vertical orientation functionality which is rare for an iPad keyboard case
+
 > This feature is still a rarity and one I am glad the Airbender 3.0 still supports.
+
 * Good stability in both horizontal and vertical orientations
+
 > As a matter of fact, the stability on this case is better than any other I have used and that is likely due to the fact that this thing is built like a tank and utilizes a support arm made of metal.
 * Use case as separate stand and keyboard (see gallery <strike>below</strike> [in previous post](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html)).
 > No change, but do look at the images in the [previous post](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html) to understand how this works.
