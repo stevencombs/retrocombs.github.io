@@ -11,12 +11,12 @@ Once again, [New Trent](http://www.newtrent.com) sent an opportunity to review o
 
 ![](https://lh3.googleusercontent.com/w9_WpJ3EU9tz8dHjuOrPbhC7QIGaL65xCsq7dVenbXWp=s1555-no)
 
-I introduce a new review style with this post. My previous bullet reviews are characterized by…well…bullets. This review will be visual. It will feature images followed by comments. Besides learning about the case, you will read my tips to make the experience even better.
+I introduce a new review style with this post. My previous bullet reviews are characterized by…well…bullets. Visual Reviews will feature images followed by comments. Besides learning about the case, you will read my tips to make the experience even better.
 
 ***
 
 ![](https://lh3.googleusercontent.com/cIGEpGq_WpDS8YTOkgnpbvcvx1iCxEDlFH3wZpOM1Mya=s1555-no)
-The box, in a plastic wrap, arrived from Amazon in a couple of days. Have to love Amazon Prime! New Trent provided me with a promotional code that brought the cost to 25¢. Thanks New Trent!
+The box, in a plastic wrap, arrived from Amazon in a couple of days. Have to love Amazon Prime! New Trent provided me with a promotional code that brought the cost to $1. Thanks New Trent!
 
 ***
 
