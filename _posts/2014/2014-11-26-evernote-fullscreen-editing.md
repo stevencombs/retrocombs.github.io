@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evernote full screen editing on the iPad
+title: Evernote Know How: Edit full screen editing on iPad
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-11-26 14:50
