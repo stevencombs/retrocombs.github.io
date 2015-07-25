@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Evernote Know How: Duplicate a note'
+title: 'Evernote Know How - Duplicate a note'
 date: '2015-07-24 19:22'
 comments: 'yes'
 categories:

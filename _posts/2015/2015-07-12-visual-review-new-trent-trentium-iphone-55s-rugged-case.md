@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Visual Review: New Trent Trentium iPhone 5/5s rugged case'
+title: 'Visual Review - New Trent Trentium iPhone 5/5s rugged case'
 date: '2015-07-12 16:59'
 comments: 'yes'
 categories:
