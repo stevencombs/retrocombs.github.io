@@ -9,7 +9,7 @@ categories:
 
 I've been on the hunt for wallpaper for my Nexus 6 Project Fi phone. There are very few available and my preference is to highlight the Fi logo and add a touch of material design to match Android 5.1.1 Lollipop. Below is my first design.
 
-# <font color="red">The wallpaper Google should have provided for your Project Fi Nexus 6!</font>
+# <font color="red">The wallpaper Google should have sent with your Project Fi Nexus 6!</font>
 
 This first image is what the wallpaper looks like on my phone.
 
