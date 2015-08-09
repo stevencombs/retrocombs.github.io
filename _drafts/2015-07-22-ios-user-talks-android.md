@@ -9,24 +9,29 @@ categories:
 
 Android has come a long way in the past several years and during that time, there has been a huge Hatfield and McCoy mentality between Android and iOS users. The only smart phone I have used is the iPhone. Since standing in line for that first version to my latest, the iPhone 5s, I've been firmly in the iOS camp. That changed recently.
 
-When Google announced Project Fi, I became curious about Android version 5.1 (Lollipop), the Motorola Nexus 6 and Google's new wireless network.  I made a request for an invite to Project Fi. I received the invite about a month and a half ago. I immediately accepted and a few days later, the only phone available on that network, the Motorola Nexus 6, arrived on my door step.
+When Google announced [Project Fi](https://fi.google.com/), I became curious about [Android version 5.1 (Lollipop)](http://www.androidcentral.com/lollipop), the [Motorola Nexus 6](http://www.amazon.com/gp/product/B00R1984DS/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1984DS&linkCode=as2&tag=bricinmypockb-20) and Google's new wireless network.  I made a request for an invite to Project Fi. I received the invite about a month and a half ago. I immediately accepted and a few days later, the only phone available on that network, the Motorola Nexus 6, arrived on my door step. I've used the Nexus 6 for about two months and decided to make conversion from iOS to Android observations. 
 
-I've used the phone for about two months now and decided to make some observations on my conversion from iOS to Android. I will begin each section with a common statements I've seen online.
+I begin each section with a general comment that is either my own observation or a statement I've read online.
 
-# Apps are free
-
+# Android Apps are free
 The majority of the Android apps found in the Google Play store are free; however, to get full functionality for many, or to remove annoying ads, you will most likely need to upgrade from a "lite" version to a "pro" version. App prices are in line with those in the iTunes store for those category of apps I use.
 
-# Android user interface (UI) is old and dated
+# Android user interface (UI) is dated and not as polished as iOS
+Versions of Android prior to version 5.0 (Lollipop) were a mess. Version 5.0+ has been updated with [Google material design](!g) specifications. The UI is modern, functional, bold, attractive, flat and colorful. Material design is also found in Chrome OS bringing consistency across the two platforms. I've grown fond of material design and often miss it when I switch back to the iPad.
 
-Versions of Android prior to version 5.0 (Lollipop) were a mess. Version 5.0+ has been updated with stronger Google Material design specifications. The UI is modern, functional, bold, attractive, flat and colorful. Google Material design is also found in Chrome OS bringing consistency across the two platforms.
+The problem with material design is that app developers are taking their time to adopt. Most popular apps I use have adopted the design specification, but many smaller titles haven't made the move making Google Play store a mishmash of app design.
 
-# Android apps don’t look good and are not as functional as those in the iTunes store
+iOS app design is also a mixed bag. While many apps look great, they are not consistent in their UI design methodology and a feature in one app may not work the same in another. iOS 8 brought with it a new flatter design, but my preference is Google's material design.
 
-Android apps adopting Google Material design principles are beautiful (at least from my perspective). Material design brings a modern look to apps and ensures consistency in UI. iOS UI design has been a mixed bag of late. While many apps look great, they are not consistent in their UI design methodology and a feature in one app may not work the same in another. I have found that Android Material UI design ensures consistency and good looks.
+# Customize your launch experience
+
+# Google's photo management is better than Apple's
+
+# Camera
+
+Still needs work and is slow
 
 # There are no good Android podcast apps
-
 Overcast is my go to Podcast app on iOS. On Android it took some time for me find a competent podcast client and I found it in Pocket Casts. Pocket Casts is very similar in function and design to Overcast. A plus for Android users who also use iOS devices, Pocket Casts is available and syncs between both platforms. Like Overcast, there is also an in sync web service so you can listen to podcasts using the browser.
 
 # You can’t sync data with other Apple devices
