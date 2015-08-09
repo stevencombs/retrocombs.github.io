@@ -22,7 +22,7 @@ This next image you can download to add to your Nexus 6.
 I have ideas for other versions and when I create them, I will post them here. If you have an idea for a design or a variation, post a comment below and let me know.
 
 ***
-**SUPPORT THIS POST WITH A TIP!** If you found this post or its contents useful consider leaving a tip. The suggested tip amount for this post is 50¢. Use the button below to leave a tip via PayPal.
+**SUPPORT THIS POST WITH A TIP!** If you found this post or its contents useful, consider leaving a tip. The suggested tip amount for this post is 50¢. Use the button below to leave a tip via PayPal.
 
 <center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
