@@ -11,18 +11,6 @@ I've been on the hunt for wallpaper for my Nexus 6 Project Fi phone. There are v
 
 # <font color="red">The wallpaper Google should have sent with your Project Fi Nexus 6!</font>
 
-This first image is what the wallpaper looks like on my phone.
-
-![](http://www.stevencombs.com/images/posts/2015-08-09-nexus-6-project-fi-wallpaper/nexus-6-project-fi-wallpaper-1-sample.png)
-
-You can download this next image to your Nexus 6.
-
-![](http://www.stevencombs.com/images/posts/2015-08-09-nexus-6-project-fi-wallpaper/nexus-6-project-fi-wallpaper-1.png)
-
-<center>Right-click image to download.</center>
-
-I have ideas for other versions and when I create them, I will post them here. If you have an idea for a design or a variation, post a comment below and let me know.
-
 ***
 **SUPPORT THIS POST WITH A TIP!** If you found this post or its contents useful, consider leaving a tip. The suggested tip amount for this post is 50¢. Use the button below to leave a tip via PayPal.
 
@@ -34,3 +22,27 @@ I have ideas for other versions and when I create them, I will post them here. I
 </form></center>
 
 ***
+
+This first image is what the wallpaper looks like on my phone.
+
+![](http://www.stevencombs.com/images/posts/2015-08-09-nexus-6-project-fi-wallpaper/nexus-6-project-fi-wallpaper-1-sample.png)
+
+You can download this next image to your Nexus 6. {Update Aug 19, 2015: corrected centering position of logo.}
+
+![](http://www.stevencombs.com/images/posts/2015-08-09-nexus-6-project-fi-wallpaper/nexus-6-project-fi-wallpaper-1.png)
+
+<center>Right-click image to download.</center>
+
+**Just added: Wallpaper number 2 with lock screen centric lower positioning of Fi logo.**
+
+What the wallpaper looks like on my Nexus 6.
+
+![](http://www.stevencombs.com/images/posts/2015-08-09-nexus-6-project-fi-wallpaper/nexus-6-project-fi-wallpaper-2-sample.png)
+
+Download this image for your Nexus 6.
+
+![](http://www.stevencombs.com/images/posts/2015-08-09-nexus-6-project-fi-wallpaper/nexus-6-project-fi-wallpaper-2.png)
+
+<center>Right-click image to download.</center>
+
+I have ideas for other versions and when I create them, I will post them here. If you have an idea for a design or a variation, post a comment below and let me know.
