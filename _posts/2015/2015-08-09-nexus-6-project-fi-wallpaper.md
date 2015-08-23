@@ -7,7 +7,7 @@ categories:
   - android
 ---
 
-I've been on the hunt for wallpaper for my Nexus 6 Project Fi phone. There are very few available and my preference is to highlight the Fi logo and add a touch of material design to match Android 5.1.1 Lollipop. I decided to fire up iDraw on my Mac and create my own.
+I've been on the hunt for wallpaper for my Nexus 6 Project Fi phone. There are very few available and my preference is to highlight the Fi logo and add a touch of material design to match Android 5.1.1 Lollipop. I decided to fire up iDraw on my Mac and create my own. What I came up with was a design that was clean, colorful and minimalist.
 
 {UPDATE: Aug 23, 2015} Many commented that my original wallpaper was not configured for the stock Google Now launcher. I have corrected this and I will now only create versions for the stock launcher.
 
