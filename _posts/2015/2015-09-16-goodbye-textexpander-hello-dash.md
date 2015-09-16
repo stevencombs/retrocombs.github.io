@@ -75,7 +75,7 @@ Snippets don't have to be lines of code though. When Dash is running, expansion 
 | ,,green | #006B54 : the college's official green hex code        |
 | ,,apple |  : because I can never remember the keyboard shortcut |
 
-I currently have around 80 snippets and they work flawlessly in all applications. For general text expansion capabilities, Dash if flawless. Dash even goes further and allows you to use tags to organize your snippets. This makes snippets easy to search and categorize. Below is a screenshot of Dash that displays the tags I use to keep my snippets organized. 
+</p>I currently have around 80 snippets and they work flawlessly in all applications. For general text expansion, Dash if flawless. Dash allows you to use tags to organize your snippets. This makes snippets easy to search and categorize. Below is a screenshot of Dash that displays the tags I use to keep my snippets organized. 
 
 ![](http://www.stevencombs.com/images/posts/2015-09-16-goodbye-textexpander-hello-dash/snippet-tags.png)
 
