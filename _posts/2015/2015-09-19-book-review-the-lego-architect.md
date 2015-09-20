@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Book Review: The LEGO Architect'
-date: '2015-09-19 14:55'
+date: '2015-09-19'
 comments: 'yes'
 categories:
   - lego
@@ -20,7 +20,7 @@ No Starch Press just released their latest LEGO related title, *[The LEGO Archit
 The flow of information is simple and effective. He groups his models by architectural styles. Within each chapter, Tom provides a brief review of the historical significance and unique characteristics of a style. The book includes the following architectural styles:
 
 * Neoclassical
-* Prairie 
+* Prairie
 * Art Deco
 * Modernism (one of my favorites)
 * Brutalism
@@ -52,7 +52,7 @@ If you are in need of LEGO components to create the examples, Tom suggests that 
 
 # Using LDD in conjunction with this book
 
-I began to create the model entirely with white and clear elements to match the LEGO Architecture Studio set elements. While creating the model, I was led through a few interesting LEGO building techniques such studs not on top (SNOT), overlap strengthening, and sub-component assembly. It was a fun build in LDD that I'm sure would be equally as fun with real elements. 
+I began to create the model entirely with white and clear elements to match the LEGO Architecture Studio set elements. While creating the model, I was led through a few interesting LEGO building techniques such studs not on top (SNOT), overlap strengthening, and sub-component assembly. It was a fun build in LDD that I'm sure would be equally as fun with real elements.
 
 At the completion of the build, I decided to add a bit of color to the elements to bring the theatre to Art Deco life. I choose two popular Art Deco colors, light blue and yellow. Below is my before and after color image.
 
@@ -62,6 +62,6 @@ At the completion of the build, I decided to add a bit of color to the elements 
 
 Living in Columbus, Indiana (listed as one of the 10 most architecturally interesting towns in America) and having taught architectural drafting and design many years ago, this book was a natural for me and I couldn't be more thrilled with the content. The book is a great architectural and LEGO architectural model making primer. At $25 retail, Tom's book would be the perfect supplement to the [LEGO Architecture Studio](http://www.amazon.com/gp/product/B00CN5Y1MI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CN5Y1MI&linkCode=as2&tag=bricinmypockb-20) set. Combine the two and you can teach a basic course in architectural design as part of a high school or basic college level architectural design course. Tom only scratches the surface and it is my hope that there is a "Book II" in the works to fill in some missing styles.
 
-The [No Starch Press](https://www.nostarch.com/) graphics designers did an amazing job on this book. Of all the books I have reviewed for No Starch Press, this one is the most beautiful and visually interesting. The quality of images, sans serif type selection and page layout make *The LEGO Architect* not only a great educational reference, but also a beautiful coffee table book. At first glance your guests may not even realize it is a LEGO related book; however, once they open the book, they will be mesmerized by the images and LEGO models inside. 
+The [No Starch Press](https://www.nostarch.com/) graphics designers did an amazing job on this book. Of all the books I have reviewed for No Starch Press, this one is the most beautiful and visually interesting. The quality of images, sans serif type selection and page layout make *The LEGO Architect* not only a great educational reference, but also a beautiful coffee table book. At first glance your guests may not even realize it is a LEGO related book; however, once they open the book, they will be mesmerized by the images and LEGO models inside.
 
 Even though I didn't buy this book, it is a "must buy" for any LEGO or architecture fan. [Get a copy](http://www.amazon.com/gp/product/1593276133/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276133&linkCode=as2&tag=bricinmypockb-20) and pair with the [LEGO Architecture Studio](http://www.amazon.com/gp/product/B00CN5Y1MI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CN5Y1MI&linkCode=as2&tag=bricinmypockb-20) to create an amazing christmas gift for that budding architect or architectural fan.
