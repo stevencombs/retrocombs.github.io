@@ -9,7 +9,7 @@ categories:
 
 No Starch Press sent me a prerelease copy (release date: September 24th, 2015) of their latest LEGO related title, *[The LEGO Architect](http://www.amazon.com/gp/product/1593276133/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276133&linkCode=as2&tag=bricinmypockb-20)*. I AM GLAD THEY DID! Everyone knows that I am a huge fan of Allan Bedford's *[The Unofficial LEGO Builder’s Guide](http://www.stevencombs.com/lego/2012/12/09/book-review-unofficial-lego.html)*. I like his book because it does just more than show you how to build a specific model or genre of models – he teaches concepts that make you a better model builder and gives you a mathematical understanding of LEGO components and their connections.
 
-![](https://lh3.googleusercontent.com/ZlnQ8wx3Up0rG2reH9QQbLGZxhANWiWKyM_EWAsQ11Oyzvh2h8sSRGZE9yJu7Qqg3xS6GG1FIQumOgAMY80zYDt5V8JW1L0rIMPTf51tLF03TtpG9lWqHjLv1ZFEa53rdieqFs1zNDzQ0XqGID3jyyvN4RN_edihm7nTBuNWpjBuGslcU5wipTSXIvTAgnWe-gRcu8f3QNwp-B_-kQBT4yJWgHoRd02hiTqSc1ZYub0KVTPhSvIUx7RG8AC9VMebBRIE01zLCg_P2DwZr6LY753PUPY2cLIEnNJMnFkVbZ-JfJnzt7vAccVwTCLnYeMgnsphe82A6rNn56ax5Wxrr2ufsGc0VZW4hU6PcP5G8gOcYJFYG8FX0ismIqfF_bh3VTonaqrJ45sLBnEMpo8paaxIlz3ABvjvhPCw3XbaEhfv0TxZNkxWhMYzA3WDR7SjT7EGO-4McQ4ngS6lEEavV__o2FTBdfonYF_M636ls0vb8edbT4rq1qSSqVUF3HBEyd_1lbIE5jWGpC9OFBN0A7SiCy1pxsJhewF6SVP0nexS=w2098-h1555-no)
+![](http://www.stevencombs.com/images/posts/2015-09-19-book-review-lego-architect/book-and-computer.jpg)
 
 # The LEGO Architect and Tom Alphin
 
@@ -56,7 +56,7 @@ I began to create the model entirely with white and clear elements to match the 
 
 At the completion of the build, I decided to add a bit of color to the elements to bring the theatre to Art Deco life. I choose two popular Art Deco colors, light blue and yellow. Below is my before and after color image.
 
-![](https://lh3.googleusercontent.com/XDh9hKwrMv7CKNwNCrq1vj4rmI4c0I3nQHnaroT8jd4UaVLMd31a8wM-Th8x_arAijGCCVv0ld6X_SyOW9JdEgn8mtnPCg1dNccAGy2Da0rN5fL017xvvM7eKJyNihFRdOP40jTz-mSa0TSh_SK9r-86nqLrv7VGXGSMCRtPkk4MlCUBs-zdG4i3E8Wtk8HTK9gXfgD6liFfEE8TagbITIQTWkDZVG6mVigGNIYTsI4yNJ4YKlJocFt8AjfsD5iZMn258FD3ldv8VEMjS7eWT7ZHRbAJAim42_AXf0HaoKXOXPfS-Kc_6Acp0eBXDc8UHRshQdCFS-VdmHWZHRdMse3GSRmuUvIAXcYRCmTz8F5gRN_w9FSepa1inItyNtyakIlC20ICsXxv_nHX5wfbG1aMOCN4S7GkAc1XEo-vHxPrDnbAlk5RqsyV6-M2Ka-xYY_KYzfItm7rIsfDKX_PDO7DIFO2zRcpdwZneBIJ6NoRhSSGk-_1wOXnjxS7oPn3NZNK6Ckk0st6ibzwr_Eo4YOL43EtCRQ8H5ZIuU5u2Si5=w1650-h720-no)
+![](http://www.stevencombs.com/images/posts/2015-09-19-book-review-lego-architect/art-deco-theatre.png)
 
 # Must buy!
 
