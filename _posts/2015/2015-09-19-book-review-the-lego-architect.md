@@ -7,7 +7,7 @@ categories:
   - lego
 ---
 
-No Starch Press sent me a prerelease copy (release date: September 24th, 2015) of their latest LEGO related title, *[The LEGO Architect](http://www.amazon.com/gp/product/1593276133/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276133&linkCode=as2&tag=bricinmypockb-20)*. I AM GLAD THEY DID! Everyone knows that I am a huge fan of Allan Bedford's *[The Unofficial LEGO Builder’s Guide](http://www.stevencombs.com/lego/2012/12/09/book-review-unofficial-lego.html)*. I like his book because it does just more than show you how to build a specific model or genre of models – he teaches concepts that make you a better model builder and gives you a mathematical understanding of LEGO components and their connections.
+No Starch Press sent me a prerelease copy (release date: September 24th, 2015) of their latest LEGO related title, *[The LEGO Architect](http://www.amazon.com/gp/product/1593276133/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276133&linkCode=as2&tag=bricinmypockb-20)*. I AM GLAD THEY DID! Everyone knows that I am a huge fan of Allan Bedford's *[The Unofficial LEGO Builder’s Guide](http://www.stevencombs.com/lego/2012/12/09/book-review-unofficial-lego.html)*. I enjoy his book because it does just more than show how to build a specific model or genre of models – it teaches concepts that make you a better model builder and gives you a mathematical understanding of LEGO components and their connections.
 
 ![](http://www.stevencombs.com/images/posts/2015-09-19-book-review-lego-architect/book-and-computer.jpg)
 
@@ -17,7 +17,7 @@ No Starch Press sent me a prerelease copy (release date: September 24th, 2015) o
 
 # Content
 
-The flow of information is simple and effective. He groups his models by architectural styles. Within each chapter, Tom provides a brief review of the historical significance and unique characteristics of a style. The book includes the following architectural styles:
+The flow of information is simple and effective. He groups his models by architectural style. Within each chapter, Tom provides a brief review of the historical significance and unique characteristics of a style. The book includes the following architectural styles:
 
 * Neoclassical
 * Prairie
@@ -27,7 +27,7 @@ The flow of information is simple and effective. He groups his models by archite
 * Postmodern
 * High-tech
 
-Each section provides real-world black/white and color images. Sidebars include LEGO elements that are useful in the recreation of these design styles. Before Tom demonstrates how to build his own models, he shares images of LEGO creations from around the LEGO fan community that represent a given architectural style. Tom's selections are among the most amazing LEGO architectural builds within the LEGO fan community. You will be amazed at the detail and/or creativity of the models.
+Each section provides real-world architectural examples in both black/white and color images. Sidebars include LEGO elements that are useful in the recreation of these design styles. Before Tom demonstrates how to build his own models, he shares images of LEGO creations from around the LEGO fan community that represent a given architectural style. Tom's selections are among the most amazing LEGO architectural builds within the LEGO fan community. You will be amazed at the detail and/or creativity of the models.
 
 At the end of each section, Tom provides building instructions for his models (12 in all). As an example, at the end of the modernist section are instructions to build:
 
@@ -44,7 +44,7 @@ The last chapter in the book provides the reader with a "Builder's Guide." Withi
 * color
 * organization of bricks
 
-These sections serve well not only for architectural LEGO builds, but for any LEGO build. Be sure to check out the image on page 180. I only wish I had my elements so professionally organized. Might be a good winter project.
+These sections assist not only for architectural LEGO builds, but for any LEGO build. Be sure to check out the image on page 180. I only wish I had my elements so professionally organized. Might be a good winter project.
 
 # LEGO Architecture Studio
 
@@ -54,7 +54,7 @@ If you are in need of LEGO components to create the examples, Tom suggests that 
 
 I began to create the model entirely with white and clear elements to match the LEGO Architecture Studio set elements. While creating the model, I was led through a few interesting LEGO building techniques such studs not on top (SNOT), overlap strengthening, and sub-component assembly. It was a fun build in LDD that I'm sure would be equally as fun with real elements.
 
-At the completion of the build, I decided to add a bit of color to the elements to bring the theatre to Art Deco life. I choose two popular Art Deco colors, light blue and yellow. Below is my before and after color image.
+At the completion of the build, I decided to add a bit of color to the elements to bring the theatre to Art Deco life. I choose two popular Art Deco colors, light blue and yellow. These were highlighted in the book. Below is my before and after color image.
 
 ![](http://www.stevencombs.com/images/posts/2015-09-19-book-review-lego-architect/art-deco-theatre.png)
 
