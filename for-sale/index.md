@@ -11,7 +11,7 @@ Item images appear first followed by a description and cost. This page is update
 
 Last updated: Oct 4, 2015
 
-![For Sale Sign](http://www.stevencombs.com/for-sale/for-sale-sign.pngg)
+![For Sale Sign](http://www.stevencombs.com/for-sale/for-sale-sign.png)
 
 # Furniture
 ![IKEA Bookshelf](http://www.stevencombs.com/for-sale/IMG_20150905_130642.jpg)
