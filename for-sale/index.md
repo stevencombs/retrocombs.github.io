@@ -3,7 +3,7 @@ layout: pages
 title: Items for Sale
 ---
 
-Below are a list of items we have for sale in several categories including: Furniture, Electronics, Books (coming soon) and LEGO (coming soon). Prices are below each image, however, reasonable offers are generally considered and sometimes accepted! If you have questions about an item, send them via email to:
+Below are a list of items we have for sale in several categories including: appliances, furniture, electronics, books (coming soon) and LEGO (coming soon). Prices are below each image, however, reasonable offers are generally considered and sometimes accepted! If you have questions about an item, send them via email to:
 
 [steven.combs@gmail.com](mailto:steven.combs@gmail.com)
 
@@ -12,6 +12,11 @@ Item images appear first followed by a description and cost. This page is update
 Last updated: Oct 4, 2015
 
 ![For Sale Sign](http://www.stevencombs.com/for-sale/for-sale-sign.png)
+
+# Appliances
+
+![Kenmore Washer Dryer](/for-sale/kenmore-washer-dryer.jpg)
+Kenmore Washer/Dryer combination is three years old and includes many advanced features. These need to move together as a set and we have priced them to move quickly. **Kenmore Washer/Dryer Combination is $400**.
 
 # Furniture
 ![IKEA Bookshelf](http://www.stevencombs.com/for-sale/IMG_20150905_130642.jpg)
