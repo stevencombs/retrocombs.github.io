@@ -3,7 +3,7 @@ layout: pages
 title: Items for Sale
 ---
 
-Below are a list of items we have for sale. Prices are marked and below each image, however, reasonable offers are generally considered and sometimes accepted! If you have questions about an item, send them via email to:
+Below are a list of items we have for sale in several categories including: Furniture, Electronics, Books (coming soon) and LEGO (coming soon). Prices are below each image, however, reasonable offers are generally considered and sometimes accepted! If you have questions about an item, send them via email to:
 
 [steven.combs@gmail.com](mailto:steven.combs@gmail.com)
 
