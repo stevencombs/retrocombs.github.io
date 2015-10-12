@@ -39,8 +39,7 @@ This Child's bed includes lightly used mattress. Bed was converted from an IKEA 
 
 # Electronics
 
-![TiVo HD](http://www.stevencombs.com/for-sale/tivohd.jpg)
-TiVo HD with Wi-Fi adapter and remote has been used for several years but is still in working order. TiVo fans looking for a second unit will enjoy this unit. **TiVO HD is $50**.
+None
 
 # Books
 
