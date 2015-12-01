@@ -23,17 +23,16 @@ The first step is to determine the MAC address of your Mac. A MAC address is a u
 
 You will see text as shown below (I've replaced my Mac's MAC address with `?` characters for security reasons):
 
-`
-gif0: flags=8010<POINTOPOINT,MULTICAST> mtu 1280
-stf0: flags=0<> mtu 1280
-en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+    gif0: flags=8010<POINTOPOINT,MULTICAST> mtu 1280
+    stf0: flags=0<> mtu 1280
+    en0:
+    flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST>  mtu 1500
     ether ??:??:??:??:??:??
     inet6 fe??::a???:??ff:feae:???e%en0 prefixlen 64 scopeid 0x4
     inet 172.17.26.43 netmask 0xfffffc00 broadcast 172.17.27.255
     nd6 options=1<PERFORMNUD>
     media: autoselect
     status: active
-`
 
 * Look for the `ether` line and note the 12 character address – include the `:` characters
  
