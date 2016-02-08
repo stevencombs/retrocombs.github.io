@@ -45,7 +45,7 @@ Android versions prior to version 5.0 (Lollipop) were a mess. Versions after 5.0
 
 The only problem with material design is that many Android app developers are taking their time to adopt. Most popular apps I use have adopted the design specification, but many smaller titles haven't made the move making Google Play store a mishmash of app design. Over time this will hopefully improve and admittedly, I will not purchase an app now unless it does adhere to the specification.
 
-Additionally, iOS app design is also a mixed bag. While many apps look great, they are not consistent in their UI design methodology and a feature in one app may not work the same in another. iOS 8 brought with it a new flatter design, but my preference is still Google's material design.
+# Additionally, iOS app design is also a mixed bag. While many apps look great, they are not consistent in their UI design methodology and a feature in one app may not work the same in another. iOS 8 brought with it a new flatter design, but my preference is still Google's material design.
 
 # Customization
 If you are looking to customize your phone or tablet’s user interface, move widgets to any home screen, modify the status bar or even change the app icons, choose Android. Android allows so many customization options that it can at times be overwhelming. Having these options though allows each user to have an experience suited to their tastes and usage. If I were to compare customization on a scale of 1 to 10, iOS would be a 2 and Android would be an 11!
@@ -111,17 +111,18 @@ Overcast was my go to Podcast app on iOS. On Android it took some time for me fi
 # Mac syncing
 I worried that when I made the switch to Android, I would lose the ability to easily sync data between my Mac and my mobile device. There was no need to worry. Many solutions exist for seamless sync across devices. Below is a reference table that shows the data I sync and what tools I use:
 
-| Data      | Mac Application | Android App  |
-|:----------|:----------------|:-------------|
-| Bookmarks | Chrome          | Chrome       |
-| Contacts  | Contacts        | Contacts     |
-| Calendar  | Calendar        | Calendar     |
-| Documents | Google Drive    | Google Drive |
-| Music     | iTunes          | iSyncr       |
-| Notes     | Evernote App    | Evernote     |
+| Data      | Mac Application | Android App   |
+|:----------|:----------------|:--------------|
+| Bookmarks | Chrome          | Chrome        |
+| Contacts  | Contacts        | Contacts      |
+| Calendar  | Calendar        | Calendar      |
+| Documents | Google Drive    | Google Drive  |
+| Music     | iTunes          | iSyncr        |
+| Notes     | Evernote App    | Evernote      |
+| Photos    | Google Photos   | Google Photos |
 
 # Personal assistant
-I mentioned Google Now briefly in the [Launcher][23] section above. Google Now is the competitor to Apple's Sir, or [Amazon's Alexa](24). Activation is either through a tap of the microphone button or if configured, by the voice command, "Okay Google." My personal experiences have left me to prefer Google Now over Siri. Google Now is more accurate and provides many additional tools to control my Android device. I could write a whole post on the comparison between the two; however, for this post, I will simply state that Google Now is superior to Siri for my day-to-day workflow.
+I mentioned Google Now briefly in the [Launcher][23] section above. Google Now is the competitor to Apple's Sir, or [Amazon's Alexa][24]. Activation is either through a tap of the microphone button or if configured, by the voice command, "Okay Google." My personal experiences have left me to prefer Google Now over Siri. Google Now is more accurate and provides many additional tools to control my Android device. I could write a whole post on the comparison between the two; however, for this post, I will simply state that Google Now is superior to Siri for my day-to-day workflow.
 
 # Conclusions
 
@@ -134,20 +135,20 @@ I mentioned Google Now briefly in the [Launcher][23] section above. Google Now i
 [7]:	#launcher
 [8]:	#battery-life
 [9]:	#hardware
-[10]:	 #keyboard-and-mouse
-[11]:	 #stability
-[12]:	 #camera-and-photos
-[13]:	 #podcasts
-[14]:	 #mac-syncing
-[15]:	 #personal-assistant
-[16]:	 #conclusions
-[17]:	 http://play.google.com
-[18]:	 https://www.google.com/design/spec/material-design/introduction.html
-[19]:	 http://docs.google.com
-[20]:	 https://play.google.com/store/apps/details?id=com.google.android.launcher&hl=en
-[21]:	 http://www.tomsguide.com/us/fastest-smartphone,review-2881.html
-[22]:	 https://motorola-global-portal.custhelp.com/app/answers/prod_answer_detail/a_id/102414/p/30,6720,9293
-[23]:	 #launcher
-[24]:	 http://www.stevencombs.com/gadgets/2015/02/21/amazon-echo-review.html
+[10]:	#keyboard-and-mouse
+[11]:	#stability
+[12]:	#camera-and-photos
+[13]:	#podcasts
+[14]:	#mac-syncing
+[15]:	#personal-assistant
+[16]:	#conclusions
+[17]:	http://play.google.com
+[18]:	https://www.google.com/design/spec/material-design/introduction.html
+[19]:	http://docs.google.com
+[20]:	https://play.google.com/store/apps/details?id=com.google.android.launcher&hl=en
+[21]:	http://www.tomsguide.com/us/fastest-smartphone,review-2881.html
+[22]:	https://motorola-global-portal.custhelp.com/app/answers/prod_answer_detail/a_id/102414/p/30,6720,9293
+[23]:	#launcher
+[24]:	24
 
 [image-1]:	https://lh3.googleusercontent.com/iuztwmZyshWzHwUnVDfMD0lDT7tXHMlISbwFnJLQNaHUpvH-pEzfz2hxD3D2FeLCcRQwwl61_eXMJWS3hhLKP0nCHxwEINS1LbIoF3nCWLYPiK-G25_SBLnNeLePmiiY2gDogF6NPH7lsGqh_Ke-_9xfQ5EbGv-zp1kCHXzwgCUnMR96SErKsoPjzDpSujKsQX8rLKdrKBdlDlj0i7rkxsYOgxyrgP13P9eXwSz6dmM9X9pyEIHQwEri5Uddalom57OrSr0_ux7oHj5tvRhnhNfHgypwkwrZa4N1_4VKcbEXMApzfUuzAWVul5rI8PInJlLNBqrcLiLAgSPMkRtYXztxGbJG5XufgcG0D70pJNMRpIZkeCGPWSrc9Imphyih6gPkWV_lZeNR_GkvpnsNujkzEIb3gvScwJFCLAE3qXyaC53zAueFLkPW6f-KEniJ7epsJvS25m6RBRE7oR9o_BpwccECloFYogorjt1a9M-dSxDDUDe9kdRfgyIS8dCwVpThbdYwY0OvSUp1lRfgIOyjPSeAMh2-AqezQ0unjAVH8tlcdQZ5PPQgVQ_IuhSWABQ25A=w1717-h841-no "Google Material Design"

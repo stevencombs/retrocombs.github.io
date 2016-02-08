@@ -47,8 +47,7 @@ Combs began his academic teaching career as a graduate teaching assistant and vi
 
 Combs’ doctoral research interest was in the area of faculty development and online course curriculum and development. He has co-authored over [19 AutoCAD and 3D Studio textbooks and workbooks](http://www.amazon.com/author/stevencombs). He currently maintains a  blog at [stevencombs.com](http://www.stevencombs.com) to keep his writing skills sharp, although he is the first to admit, he is his own worst editor.
 
-He currently resides in Columbus with his wife Nikki who is an adjunct professor who specializes in psychology and industrial and organizational psychology. She is a member of the adjunct faculty for Ivy Tech Community College and Indiana University Purdue University Columbus. Combined they have a daughter, Katherine, and two sons, Johnathan and Thomas.
-
+He currently resides in Columbus with his wife Nikki who is an adjunct instructor who specializes in psychology and industrial and organizational psychology. She is a member of the adjunct faculty for Ivy Tech Community College and Indiana University Purdue University Columbus (IUPUC). Combined they have a daughter, Katherine, and two sons, Johnathan and Thomas. Their family pet is a 5 pound Chorkie named, Loki.
 
 [0511-001]: http://www.goarmy.com/rotc.html
 [0511-002]: http://www.transcom.mil/about/org/tcj6/
