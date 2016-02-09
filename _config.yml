@@ -12,9 +12,9 @@ exclude:
   - .gitignore
 lsi: false
 comments: true
-markdown: redcarpet
-redcarpet:
-  extensions: ["smart", "strikethrough", "superscript", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+# markdown: redcarpet
+# redcarpet:
+#  extensions: ["smart", "strikethrough", "superscript", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 pygments: true
 theme:
   email: steven.combs@gmail.com
