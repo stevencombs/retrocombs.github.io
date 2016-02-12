@@ -7,7 +7,7 @@ categories:
   - lego
 ---
 
-No Starch Press sent me a prerelease copy (release date: September 24th, 2015) of their latest LEGO related title, *[The LEGO Architect](http://www.amazon.com/gp/product/1593276133/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276133&linkCode=as2&tag=bricinmypockb-20)*. I AM GLAD THEY DID! Everyone knows that I am a huge fan of Allan Bedford's *[The Unofficial LEGO Builder’s Guide](http://www.stevencombs.com/lego/2012/12/09/book-review-unofficial-lego.html)*. I enjoy his book because it does just more than show how to build a specific model or genre of models – it teaches concepts that make you a better model builder and gives you a mathematical understanding of LEGO components and their connections.
+No Starch Press sent me a prerelease copy (release date: September 24th, 2015) of their latest LEGO related title, *[The LEGO Architect](http://www.amazon.com/gp/product/1593276133/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276133&linkCode=as2&tag=bricinmypockb-20)*. I AM GLAD THEY DID! Everyone knows that I am a huge fan of Allan Bedford's [The Unofficial LEGO Builder’s Guide](http://www.stevencombs.com/lego/2012/12/09/book-review-unofficial-lego.html). I enjoy his book because it does just more than show how to build a specific model or genre of models – it teaches concepts that make you a better model builder and gives you a mathematical understanding of LEGO components and their connections.
 
 ![](http://www.stevencombs.com/images/posts/2015-09-19-book-review-lego-architect/book-and-computer.jpg)
 
