@@ -70,7 +70,8 @@ iframe {
 table {
   font-size: inherit;
   font: 100%;
-  padding-bottom: 18px;} /* Bottom Table Padding Test */
+  padding-bottom: 18px;
+  margin-bottom: 10px;} /* Bottom Table Padding Test */
 
   table tr {
     border-top: 1px solid #cccccc;
