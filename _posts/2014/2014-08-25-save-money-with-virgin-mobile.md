@@ -14,7 +14,7 @@ My wife and I are done paying $150/month for mobile phone service on two iPhones
 I've written about the [iPhone 5s](http://www.stevencombs.com/apple/2014/08/25/upgrade-from-iphone-4s-to-5s.html), so in this post I will share why we chose to switch from Verizon to [Virgin Mobile](https://refer.virginmobileusa.com/3wVpu2Z). I also provide some concerns you must consider should you want to join us in the mobile phone money saving revolution as described in the video below hosted by Sir Richard Branson.
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/0spDpIQND9I" frameborder="0" allowfullscreen></iframe>
-<p></p>
+
 The choice seems obvious. So why isn't everyone using Virgin Mobile? Two main reasons, the initial cost of ownership and the service coverage. I'll first discuss the initial cost and then demonstrate how much money I will save over a two year period. Finally, I'll dive into a discussion of the service and a few additional features and tips to maximize your value.
 
 # The savings are huge!
@@ -33,36 +33,19 @@ However, lets look the long term cost over two years for two phones and see how 
 
 Let’s break the cost down into an easy to read table.
 
-|                                  | **Virgin** | **Verizon** |  
-|:---------------------------------|:-----------|:------------|  
-| **2 iPhone 5s’ (32Mb)**          | $900       | $600        |  
-| **Monthly service**              | $60        | $150        |  
-| **Total service 2 years**        | $1440      | $3600       |  
-|                                  |            |             |  
-| **Total ownership cost 2 years** | $2340      | $4200       |  
-|                                  |            |             |  
+|                                  | **Virgin** | **Verizon** |
+|:---------------------------------|:-----------|:------------|
+| **2 iPhone 5s’ (32Mb)**          | $900       | $600        |
+| **Monthly service**              | $60        | $150        |
+| **Total service 2 years**        | $1440      | $3600       |
+|                                  |            |             |
+| **Total ownership cost 2 years** | $2340      | $4200       |
+|                                  |            |             |
 | **Savings**                      |            | **$1860**   |
 
-</p></p>
+> **UPDATE - September 7, 2014:** We sold our two iPhone 4s phones to [Amazon](https://www.amazon.com/Electronics-Trade-In/b/ref=as_acph_ce_tradein_92_on?ie=UTF8&node=2226766011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-1&pf_rd_r=1EQ7QHB2V5T3RZZESGFN&pf_rd_t=101&pf_rd_p=1504083182&pf_rd_i=2242532011&tag=bricinmypockb-20&camp=0&creative=0&linkCode=ur1&adid=0WCNTQG8YX5EQB6GXZQV&) to for $190.00. That’s means our two-year savings is now $2050.00.
 
-> **UPDATE - September 7, 2014:** We sold our two iPhone 4s phones to [Amazon](https://www.amazon.com/Electronics-Trade-In/b/ref=as_acph_ce_tradein_92_on?ie=UTF8&node=2226766011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-1&pf_rd_r=1EQ7QHB2V5T3RZZESGFN&pf_rd_t=101&pf_rd_p=1504083182&pf_rd_i=2242532011&tag=bricinmypockb-20&camp=0&creative=0&linkCode=ur1&adid=0WCNTQG8YX5EQB6GXZQV&) to for $190.00. That’s means our two-year savings is now $2050.00. If you are also interested in getting some cash for your older phone, use the banner below.
-
-<div class="alignleft">  
-<script type='text/javascript'>
- amzn_assoc_ad_type = 'banner';
- amzn_assoc_tracking_id = 'bricinmypockb-20';
- amzn_assoc_marketplace = 'amazon';
- amzn_assoc_region = 'US';
- amzn_assoc_placement = 'assoc_banner_placement_default';
- amzn_assoc_linkid = 'HNBNC6ZAGL6JCDY5';
- amzn_assoc_campaigns = 'ce_tradein_iphone';
- amzn_assoc_banner_type = 'category';
- amzn_assoc_isresponsive = 'true';
-</script>
-<script src='//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1'></script>
-</div>
-
-<p></p>That's just under $2000 in two years. With the savings, I can:
+That's just under $2000 in two years. With the savings, I can:
 
 * activate my mobile hotspot a couple of times a year
 * purchase a new iPad every year
@@ -80,7 +63,7 @@ For me, Virgin Mobile fits the bill nicely. I have LTE available in my area. I r
 # Mobile hotspot
 Let me talk about one other feature others may see as a negative. I mentioned mobile hotspot activation earlier and the cost of $5 per day. “Per day” is a bit fuzzy. You can maximize a day if you know the details. Mobile hotspot expires when you reach 250Mb or midnight the day after the initial activation. So if you activate at 9:00am on a Wednesday, you will have mobile hotspot availability until Thursday at 11:59pm. That’s two full workdays. Again, that's if you don't burn through your 250Mb first.
 
-Many will point out that 250Mb "ain't much" and $5 per day is a bit steep. As for the first point, read my ([Five Ways to Reduce iPhone-Data Usage](http://www.stevencombs.com/apple/2011/05/20/five-ways-to-reduce-iphone-data.html)) post to minimize your data usage. Also keep in mind that mobile hotspot usage does not count against your iPhone unlimited data. 
+Many will point out that 250Mb "ain't much" and $5 per day is a bit steep. As for the first point, read my ([Five Ways to Reduce iPhone-Data Usage](http://www.stevencombs.com/apple/2011/05/20/five-ways-to-reduce-iphone-data.html)) post to minimize your data usage. Also keep in mind that mobile hotspot usage does not count against your iPhone unlimited data.
 
 As I stated earlier, I am not a heavy user of the mobile hotspot feature as I have Wi-Fi everywhere, so this is not a concern for me and fits my usage habits nicely. I'd rather pay for the hotspot when I need it, rather than pay for it when I don't. If you use your phone heavily as a hotspot, Virgin may not be the service for you or you may want to purchase a [Virgin Mobile Broadband2Go hotspot](http://www.virginmobileusa.com/shop/mobile-broadband/broadband-2-go/).
 
@@ -107,6 +90,6 @@ One last way to save money is to use a referral link [such as this one](https://
 
 # Conclusion
 
-For my usage, Virgin Mobile makes perfect sense and saves me a ton of money. If you live in an area where coverage is good and can live with the few caveats I note above, I think you too will find it an amazing value. 
+For my usage, Virgin Mobile makes perfect sense and saves me a ton of money. If you live in an area where coverage is good and can live with the few caveats I note above, I think you too will find it an amazing value.
 
 Did you make the change to Virgin? What’s been your experience? Know a better way to save money on mobile phone plans (iPhone only please)? Drop a comment below.

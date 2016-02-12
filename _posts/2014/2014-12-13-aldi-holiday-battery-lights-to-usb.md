@@ -18,6 +18,6 @@ I opened the battery compartment, removed the batteries and soldered the positiv
 
 Below is a video of the results.
 
-<p><iframe src="//player.vimeo.com/video/114452584" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<iframe src="//player.vimeo.com/video/114452584" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 This was a VERY simple hack that anyone with basic soldering skills can complete. Now I can enjoy the lights of Christmas while chugging away on my Mac.

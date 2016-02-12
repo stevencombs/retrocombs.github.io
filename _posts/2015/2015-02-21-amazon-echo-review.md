@@ -10,7 +10,8 @@ comments: true
 
 It's been about a month since the [unboxing](http://www.stevencombs.com/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://www.amazon.com/oc/echo/ref_=ods_dp_ae). Since the unboxing, we've put the [Amazon Echo](http://amzn.to/1Qlp3d1) through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren't familiar with the [Amazon Echo](http://amzn.to/1Qlp3d1), watch the video below before you read the rest of the post.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/KkOCeAtKHIc" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/KkOCeAtKHIc" frameborder="0" allowfullscreen></iframe>
+
 Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and plugged it into a 110v outlet (required). Initial tests were conducted in this location. I would quickly learn that this was not to be the permanent home for the Echo.
 <hr>
 {**Update: April 5th, 2015**} As the Echo continues to receive upgrades, I will add them to this review. Updates will receive the same marker that appears before this paragraph. A list of updates appears below.
@@ -335,7 +336,7 @@ While I do use the Amazon Echo regularly, there are several features I recommend
 
 **Additional Music Services** - Echo needs access to additional services such as Spotify, <s>Pandora</s> and SiriusXM streaming. It would also be nice, as mentioned earlier, to be able to stream my own personal music from a server on my network. I get that Amazon wants to push their music service and I can live with the services the Echo currently includes; however, for mass adoption, I think Amazon will need to branch out and offer additional ways to access music.
 
-**Calendar and Email Access** - As part of my morning ritual, I want to ask Echo to tell my about my daily activities or to read email. Add this feature and you have a device that makes you more productive. Add the ability to respond to or create an email and we have a game changer. Especially if I can send email to control [IFTTT](https://ifttt.com/) recipes. 
+**Calendar and Email Access** - As part of my morning ritual, I want to ask Echo to tell my about my daily activities or to read email. Add this feature and you have a device that makes you more productive. Add the ability to respond to or create an email and we have a game changer. Especially if I can send email to control [IFTTT](https://ifttt.com/) recipes.
 
 **IFTTT support** - <strike>While I'm at it, IFTTT integration alone would be a game changer.</strike> {Update: May 2nd, 2015} IFTTT includes an Amazon Alexa channel. Currently, it supports To Do items and lists. More to come later.
 
