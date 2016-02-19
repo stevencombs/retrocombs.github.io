@@ -8,7 +8,7 @@ category: gadgets
 comments: true
 ---
 
-It's been about a month since the [unboxing](http://www.stevencombs.com/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://www.amazon.com/oc/echo/ref_=ods_dp_ae). Since the unboxing, we've put the [Amazon Echo](http://amzn.to/1Qlp3d1) through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren't familiar with the [Amazon Echo](http://amzn.to/1Qlp3d1), watch the video below before you read the rest of the post.
+It's been about a month since the [unboxing](http://www.stevencombs.com/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://amzn.to/21dvBwS). Since the unboxing, we've put the [Amazon Echo](http://amzn.to/21dvBwS) through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren't familiar with the [Amazon Echo](http://amzn.to/21dvBwS), watch the video below before you read the rest of the post.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/KkOCeAtKHIc" frameborder="0" allowfullscreen></iframe>
 
