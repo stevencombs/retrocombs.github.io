@@ -43,7 +43,7 @@ ChromeDuino provides sample code that blinks the onboard light on pin 13 and sen
 
 I made an attempt to upload the code to an [Arduino Diecimila](http://arduino.cc/en/Main/ArduinoBoardDiecimila). I hit the `Program` button. I was unsure whether ChromeDuino was actually uploading the Arduino sketch because there was no on screen indication. I hit the `Program` button again and looked at the Arduino TX/RX lights to verify activity. There was activity, but the sketch never worked as programmed. 
 
-Online searches reveal that the Uno seems to the only Arduino model that works consistently. I had an [Arduino Uno](http://www.amazon.com/gp/product/B006H06TVG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006H06TVG&linkCode=as2&tag=bricinmypockb-20) available and tried again. It worked the first time. It was now time to try this same process on my iMac.
+Online searches reveal that the Uno seems to the only Arduino model that works consistently. I had an [Arduino Uno](http://www.amazon.com/gp/product/B006H06TVG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006H06TVG&linkCode=as2&tag=stevenccom-20) available and tried again. It worked the first time. It was now time to try this same process on my iMac.
 
 # ChromeDuino on the Mac
 Load the application on a Mac using the Chrome App Launcher (Alfred also works). ChromeDuino prompts you to select a serial device as shown in the image below.

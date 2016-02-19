@@ -45,5 +45,5 @@ That's two in a row for New Trent. I am becoming a huge fan of their low cost an
 <embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="600" height="400" flashvars="host=picasaweb.google.com&captions=1&noautoplay=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F118020098182159765872%2Falbumid%2F5990673359990730609%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCMuO29mL5NzPjgE%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
 
 [2]: http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html
-[3]: http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ET9YYS2&linkCode=as2&tag=docstechnotes-20
-[4]: http://www.amazon.com/gp/product/B00HNFPZF0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HNFPZF0&linkCode=as2&tag=docstechnotes-20
+[3]: http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ET9YYS2&linkCode=as2&tag=stevenccom-20
+[4]: http://www.amazon.com/gp/product/B00HNFPZF0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HNFPZF0&linkCode=as2&tag=stevenccom-20

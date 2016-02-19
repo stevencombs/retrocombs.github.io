@@ -8,13 +8,13 @@ category: art
 comments: true
 ---
 
-I listen to [The Pen Addict podcast](http://www.relay.fm/penaddict). This is a dangerous thing. Listening causes me to use my precious gadget budget to feed a new addiction, pens and paper. During [The Pen Addict podcast](http://www.relay.fm/penaddict), the hosts, Myke and Brad, regularly extoll the [fountain pen](https://en.wikipedia.org/w/index.php?title=Special:Search&search=fountain+pens&profile=default) writing and ownership experience. I decided to see what all the fuss was about and begin [shopping Amazon for a good starter fountain pen](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=fountain%20pens&linkCode=ur2&tag=bricinmypockb-20&url=search-alias%3Daps&linkId=OWDJZADZLFQU5TXZ).
+I listen to [The Pen Addict podcast](http://www.relay.fm/penaddict). This is a dangerous thing. Listening causes me to use my precious gadget budget to feed a new addiction, pens and paper. During [The Pen Addict podcast](http://www.relay.fm/penaddict), the hosts, Myke and Brad, regularly extoll the [fountain pen](https://en.wikipedia.org/w/index.php?title=Special:Search&search=fountain+pens&profile=default) writing and ownership experience. I decided to see what all the fuss was about and begin [shopping Amazon for a good starter fountain pen](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=fountain%20pens&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=OWDJZADZLFQU5TXZ).
 
-Since I am new to the fountain pen game, I only had two criteria for my fountain pen purchase: good looks and an Amazon rating of 4 or more stars. After several hours of review, I chose the [JinHao 250 Stainless Steel Gold Trim Fountain Pen - Medium](http://www.amazon.com/gp/product/B0052KLTM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0052KLTM6&linkCode=as2&tag=bricinmypockb-20&linkId=TSUEOXKLITSDKODM).
+Since I am new to the fountain pen game, I only had two criteria for my fountain pen purchase: good looks and an Amazon rating of 4 or more stars. After several hours of review, I chose the [JinHao 250 Stainless Steel Gold Trim Fountain Pen - Medium](http://www.amazon.com/gp/product/B0052KLTM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0052KLTM6&linkCode=as2&tag=stevenccom-20&linkId=TSUEOXKLITSDKODM).
 
 ![](https://lh3.googleusercontent.com/-dmGbXr0YXVc/VUZKN8N5soI/AAAAAAABbBM/qUvOOEIQDkY/w1196-h897-no/IMG_8110.jpg)
 
-I added the JinHao 250 to my shopping cart along with [5 packs of 5 JinHao ink cartridges](http://www.amazon.com/gp/product/B00CQF69SO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CQF69SO&linkCode=as2&tag=bricinmypockb-20&linkId=NJN5J2VF6Q72IO2H) as shown in the image below. Surprisingly, the ink cost more than the pen!
+I added the JinHao 250 to my shopping cart along with [5 packs of 5 JinHao ink cartridges](http://www.amazon.com/gp/product/B00CQF69SO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CQF69SO&linkCode=as2&tag=stevenccom-20&linkId=NJN5J2VF6Q72IO2H) as shown in the image below. Surprisingly, the ink cost more than the pen!
 
 ![](https://lh4.googleusercontent.com/-uoFtl4CCOv8/VUZKKTQB4nI/AAAAAAABbB4/1p4tkW76_Vg/s988-no/IMG_8100.jpg)
 
@@ -114,7 +114,7 @@ I understand that my dislikes may be due to my ignorance using fountain pens and
 
 Even though I have a long list of dislikes, I wouldn’t call this purchase or experience a bust. $8 is a minimal expense and I now have a better understanding of fountain pen operation, terminology, and writing experience.
 
-This pen and experience has piqued my interest in other fountain pens. I’ve heard from a colleague and read online that [Lamy fountain pens](http://www.amazon.com/gp/product/B0002T401Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0002T401Y&linkCode=as2&tag=bricinmypockb-20&linkId=ZUUB7EPP4TKLVXHO) provide an exceptional fountain pen writing experience. I think it is time to begin putting money back for one.
+This pen and experience has piqued my interest in other fountain pens. I’ve heard from a colleague and read online that [Lamy fountain pens](http://www.amazon.com/gp/product/B0002T401Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0002T401Y&linkCode=as2&tag=stevenccom-20&linkId=ZUUB7EPP4TKLVXHO) provide an exceptional fountain pen writing experience. I think it is time to begin putting money back for one.
 
 In the meantime, I’ll continue to use the JinHao 250. I might even spend some money to buy differing inks and see if I can upgrade the JinHao 250 writing experience. If anyone has ink recommendations, please leave them in the comments below. I also need to learn how to clean and clear ink from a fountain pen. More online research for me.
 

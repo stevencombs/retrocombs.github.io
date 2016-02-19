@@ -19,7 +19,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 **Updates:**
 
 * April 5th, 2015 - Echo receives Pandora support
-* April 11th, 2015 - Echo adds [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) support
+* April 11th, 2015 - Echo adds [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=stevenccom-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW) support
 * April 26th, 2015 - Philips Hue usage
 * April 26th, 2015 - Added Table of Contents (TOC)
 * May 2nd, 2015 - IFTTT support mention added (more details to come)
@@ -51,13 +51,13 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 <hr>
 
 # Location, Location, Location
-I moved the Echo four times before it landed in a spot where it would be used on a regular basis. My home office desk was the Echo's first home. This was a horrible location. My computer provided all the capabilities of the Echo. Speaking to obtain music and information was of no value and superfluous. Additionally, the [Alesis monitors](http://www.amazon.com/gp/product/B00F3F7OIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F3F7OIS&linkCode=as2&tag=bricinmypockb-20&linkId=FLW6FCSHU4ACYWHF) provide much better sound than the Echo. Time to try another location.
+I moved the Echo four times before it landed in a spot where it would be used on a regular basis. My home office desk was the Echo's first home. This was a horrible location. My computer provided all the capabilities of the Echo. Speaking to obtain music and information was of no value and superfluous. Additionally, the [Alesis monitors](http://www.amazon.com/gp/product/B00F3F7OIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F3F7OIS&linkCode=as2&tag=stevenccom-20&linkId=FLW6FCSHU4ACYWHF) provide much better sound than the Echo. Time to try another location.
 
-The second location chosen was the living room. I had hopes of more use in this location. Again, the device was duplicative because the living room already had a Sonos and television with an [Amazon Fire TV](http://www.amazon.com/gp/product/B00CX5P8FC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CX5P8FC&linkCode=as2&tag=bricinmypockb-20). No one was asking the Echo to help them with anything. If it was used, it was purely as a novelty or to quickly check the weather.
+The second location chosen was the living room. I had hopes of more use in this location. Again, the device was duplicative because the living room already had a Sonos and television with an [Amazon Fire TV](http://www.amazon.com/gp/product/B00CX5P8FC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CX5P8FC&linkCode=as2&tag=stevenccom-20). No one was asking the Echo to help them with anything. If it was used, it was purely as a novelty or to quickly check the weather.
 
 The third location was the kitchen, which is adjacent to our living room. Once again, this was a bad spot. It became an expensive oven timer. It was time to try yet another room; however, I was running out of public locations. Then it dawned on me. Maybe a public space was not the answer.
 
-I moved the Echo to what would be its final resting place; the bathroom. We have a unique bathroom feature. Between our master bedroom and bathroom, we have a built in coffee bar. Our [Keurig coffee maker](http://www.amazon.com/gp/product/B000AQSMPO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000AQSMPO&linkCode=as2&tag=bricinmypockb-20) is on the coffee bar. One morning while brewing a cup of coffee it hit me, "This is the perfect spot for the Amazon Echo!" I was correct. From this location, we can control the Echo from the bathroom, bedroom and our walk-in closet. We even noticed, by accident mind you while discussing the Echo, that if we directed our voice, we could even issue commands from our Kitchen and laundry room.
+I moved the Echo to what would be its final resting place; the bathroom. We have a unique bathroom feature. Between our master bedroom and bathroom, we have a built in coffee bar. Our [Keurig coffee maker](http://www.amazon.com/gp/product/B000AQSMPO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000AQSMPO&linkCode=as2&tag=stevenccom-20) is on the coffee bar. One morning while brewing a cup of coffee it hit me, "This is the perfect spot for the Amazon Echo!" I was correct. From this location, we can control the Echo from the bathroom, bedroom and our walk-in closet. We even noticed, by accident mind you while discussing the Echo, that if we directed our voice, we could even issue commands from our Kitchen and laundry room.
 
 ![My Amazon Echo Location](https://lh6.googleusercontent.com/-tkL-ylfSL0k/VOjFGbNKvmI/AAAAAAABZws/PQSY9tn4isI/w1214-h911-no/IMG_7192.jpeg)
 
@@ -96,7 +96,7 @@ Like most voice controlled devices, user training is still a requirement. No voi
 Echo provides music using three services, [Amazon Prime Music](http://www.amazon.com/b?node=8335758011), [iHeartRadio](http://www.iheart.com/) and [TuneIn Radio](http://tunein.com/). Since access to on demand music is a key feature of the Echo, let's take a look at these services.
 
 ## Amazon Prime Music
-To listen to Amazon Prime Music, you must first be an [Amazon Prime](http://www.amazon.com/gp/product/B00DBYBNEE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DBYBNEE&linkCode=as2&tag=bricinmypockb-20) member (currently $99). We are subscribers and if you own an Echo, you will want to be. Many people are unaware that Amazon Prime not only provides free two-day shipping, but also access to video content (Amazon originals, movies and television), the Kindle lending library, photo storage and free music.
+To listen to Amazon Prime Music, you must first be an [Amazon Prime](http://www.amazon.com/gp/product/B00DBYBNEE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DBYBNEE&linkCode=as2&tag=stevenccom-20) member (currently $99). We are subscribers and if you own an Echo, you will want to be. Many people are unaware that Amazon Prime not only provides free two-day shipping, but also access to video content (Amazon originals, movies and television), the Kindle lending library, photo storage and free music.
 
 Echo uses the Amazon Prime music service to provide access to thousands of free songs. Want to listen to songs by Boston? Say:
 
@@ -108,7 +108,7 @@ Requests by music genre have been hit or miss for me; although, I have been succ
 
 _"Alexa, list classic rock playlists."_
 
-If you store music you own in the Amazon Cloud or have made music purchases via Amazon, you can access your songs and albums using the Echo. I was able to listen to purchased albums; however, I have a mix of music from sources such as: ripped CDs, Google Play, Amazon and iTunes. In order to use Echo, I have to upload every song to Amazon. This will require me to pay extra for cloud storage. I am not going to do this. I can listen to my music collection on my [Sonos](http://www.amazon.com/gp/product/B005441AJC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005441AJC&linkCode=as2&tag=bricinmypockb-20) without a additional cost.
+If you store music you own in the Amazon Cloud or have made music purchases via Amazon, you can access your songs and albums using the Echo. I was able to listen to purchased albums; however, I have a mix of music from sources such as: ripped CDs, Google Play, Amazon and iTunes. In order to use Echo, I have to upload every song to Amazon. This will require me to pay extra for cloud storage. I am not going to do this. I can listen to my music collection on my [Sonos](http://www.amazon.com/gp/product/B005441AJC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005441AJC&linkCode=as2&tag=stevenccom-20) without a additional cost.
 
 Frankly, I'm not that interested in storing music in the cloud anymore. I like to be surprised by the next song and to discover new and old favorites. That's where services such as [Pandora](http://www.pandora.com/) shine; however, Pandora is not an option. Thankfully iHeartRadio is.
 
@@ -259,13 +259,13 @@ Alexa will provide audio instructions. Locate the Echo on your device and initia
 Once paired, you can also use the Echo as a handsfree device to make phone calls. You cannot initiate or answer calls from the Echo nor can you use Echo to activate Siri, so remember you have to dial on your iOS device.
 
 # Home automation with a voice
-**{Update: April 11th, 2015}** On April 8th, Amazon sent out emails to Echo owners to announce a new feature; home automation control. Echo now supports two important products in this space, [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW). Here's what Amazon had to say about this new feature:
+**{Update: April 11th, 2015}** On April 8th, Amazon sent out emails to Echo owners to announce a new feature; home automation control. Echo now supports two important products in this space, [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=stevenccom-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW). Here's what Amazon had to say about this new feature:
 
 > You can now use Echo to switch on the lamp before getting out of bed, turn on the fan or heater while reading in your favorite chair, or dim the lights from the couch to watch a movie--all without lifting a finger...or even raising your voice.
 
 The Echo does not support all WeMo and Philips Hue devices. Below is the list from Amazon:
-- [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=bricinmypockb-20&linkId=LG2JYL3I2VX5IWE3): Switch, Insight Switch, and Light Switch
-- [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW): A19, Lux, BR30, Bloom, and LightStrip lights
+- [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=stevenccom-20&linkId=LG2JYL3I2VX5IWE3): Switch, Insight Switch, and Light Switch
+- [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW): A19, Lux, BR30, Bloom, and LightStrip lights
 
 Setup for both brand of devices is simplified by a single command:
 
@@ -292,10 +292,10 @@ _"Alexa turn off THE fan"_
 
 Did you see the additional _"THE"_ in that command? That's what it took for the fan to turn off. You have to say "the Fan". Now that we have that bit of information, we simply add "the" in front of both the on and off commands for consistency. Works like a charm. We can now turn this fan on or off from our bed without grabbing our iOS devices. My mind is now churning with other ideas!
 
-An obvious exclusion from the list of WeMo devices supported is the [WeMo Maker](http://www.amazon.com/gp/product/B00N32H7U8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N32H7U8&linkCode=as2&tag=bricinmypockb-20&linkId=3GFAD7K72FRL25XM). This devices provides WeMo access to uncommon devices and appliances and allow Makers to tinker. Hopefully they will incorporate this device in the near future. It may actually work, I just don't have one to test it with.
+An obvious exclusion from the list of WeMo devices supported is the [WeMo Maker](http://www.amazon.com/gp/product/B00N32H7U8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N32H7U8&linkCode=as2&tag=stevenccom-20&linkId=3GFAD7K72FRL25XM). This devices provides WeMo access to uncommon devices and appliances and allow Makers to tinker. Hopefully they will incorporate this device in the near future. It may actually work, I just don't have one to test it with.
 
 ## Philips Hue
-**{Update: April 26th, 2015}** We have four [Philips Hue bulbs](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=bricinmypockb-20&linkId=YN3EYWUQT5D5UDSW) in our bedroom. I was of course anxious to see if the Echo can control these lights. After pairing the Echo with the Philips Hue bridge, using the process described earlier, naming each light using the Philips Hue iOS app, and then placing the four lights in a group called _Bedroom Lights_ using the same app, I tried my first command:
+**{Update: April 26th, 2015}** We have four [Philips Hue bulbs](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW) in our bedroom. I was of course anxious to see if the Echo can control these lights. After pairing the Echo with the Philips Hue bridge, using the process described earlier, naming each light using the Philips Hue iOS app, and then placing the four lights in a group called _Bedroom Lights_ using the same app, I tried my first command:
 
 _"Alexa, turn the Bedroom Lights on"_
 
@@ -328,7 +328,7 @@ While I do use the Amazon Echo regularly, there are several features I recommend
 
 **Digital display** - I mentioned earlier that the Echo doesn't have a display; however if it did, I could finally tell the time at night without calling out a name and waking up my wife. The addition of the outside temperature as well as what's currently playing would also be useful. I get that Amazon wants the echo to be a voice/audio gadget, but sometimes you really need a display.
 
-**Control FireTV** - Imagine a day when I could use the Echo to control my [Amazon Fire TV](http://www.amazon.com/gp/product/B00CX5P8FC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CX5P8FC&linkCode=as2&tag=bricinmypockb-20). I could have Echo find content to play, pause my movies and even tell me more about what's playing. This integration would begin to bring Amazon into the connected home category.
+**Control FireTV** - Imagine a day when I could use the Echo to control my [Amazon Fire TV](http://www.amazon.com/gp/product/B00CX5P8FC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CX5P8FC&linkCode=as2&tag=stevenccom-20). I could have Echo find content to play, pause my movies and even tell me more about what's playing. This integration would begin to bring Amazon into the connected home category.
 
 **Multiple Echo Connections** - I'm stealing this feature from Sonos. The ability to connect two or more Echo's throughout the home will allow me to control music throughout our home. From any Echo, I could control music, play the same music on all devices or cause different content to play in different rooms.
 

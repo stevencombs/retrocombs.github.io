@@ -74,7 +74,7 @@ Success! The Arduino IDE is installed and configured properly. Now get out there
 
 That's all there is to it. Linux use and acceptability has come a long way in the past few years and given the ease of this process, I can highly recommend a Linux box (or an old Acer Aspire netbook) as an Arduino development tool.
 
-[2]: http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=arduino&amp;linkCode=ur2&amp;sprefix=Arduino%2Caps%2C236&amp;tag=docstechnotes-20&amp;url=search-alias%3Delectronics
+[2]: http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=arduino&amp;linkCode=ur2&amp;sprefix=Arduino%2Caps%2C236&amp;tag=stevenccom-20&amp;url=search-alias%3Delectronics
 [3]: http://peppermintos.com/
 [4]: http://www.docstechnotes.com/2009/07/install-arduino-on-ubuntu-netbook-remix.html
 [6]: http://1.bp.blogspot.com/-3E9xwqUMbKc/Uss1DrNCbJI/AAAAAAABOgM/-g4fXHU5t8o/s1600/Permission+Checker.png

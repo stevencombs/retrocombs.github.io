@@ -10,7 +10,7 @@ A little over a year ago I reviewed the [NewTrent Airbender 2.0](http://www.stev
 
 ![](https://lh6.googleusercontent.com/-Q6ufztsma0g/VZcHPIpxoHI/AAAAAAABlr8/AwIJl1U8cFA/s966-no/IMG_8387.JPG)
 
-I really like the original Airbender, although admittedly, I grew tired of the bulk and later moved to the more svelte [Zagg iPad Air bluetooth keyboard](http://www.amazon.com/gp/product/B00EXPSEFQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00EXPSEFQ&linkCode=as2&tag=bricinmypockb-20). What I did miss from the original Airbender was the protection it afforded the iPad Air. The system felt like a tank. I expected no less from this newer model as visually it is identical to the original.
+I really like the original Airbender, although admittedly, I grew tired of the bulk and later moved to the more svelte [Zagg iPad Air bluetooth keyboard](http://www.amazon.com/gp/product/B00EXPSEFQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00EXPSEFQ&linkCode=as2&tag=stevenccom-20). What I did miss from the original Airbender was the protection it afforded the iPad Air. The system felt like a tank. I expected no less from this newer model as visually it is identical to the original.
 
 To review this upgrade, I will begin with the original pros and cons from the Airbender 2.0 bullet review and then comment on modifications. At the end of the bullet review, I include images of this new model. There really isn't much difference so if you want to see the different configurations possible, I recommend you view my [Airbender 2.0 review](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html). Time for my bullet review below.
 
@@ -18,7 +18,7 @@ To review this upgrade, I will begin with the original pros and cons from the Ai
 
 * Excellent functionality, protection and build quality for as little as <strike>$60</strike> $40
 
-> Huge price reduction. At less than [$40 on Amazon](http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ET9YYS2&linkCode=as2&tag=bricinmypockb-20&linkId=NZVX4IXJDHZCILSB), this keyboard is a steal.
+> Huge price reduction. At less than [$40 on Amazon](http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ET9YYS2&linkCode=as2&tag=stevenccom-20&linkId=NZVX4IXJDHZCILSB), this keyboard is a steal.
 
 * Vertical orientation functionality which is rare for an iPad keyboard case
 
@@ -52,7 +52,7 @@ To review this upgrade, I will begin with the original pros and cons from the Ai
 
 > Keys are in locations that make typing on this reduced keyboard both comfortable and accurate. Additional system keys on the top row make access to other features quick and easy. This really is a good keyboard and the switches seem tighter than the previous version. The updated keyboard alone makes this case worth the upgrade. 
 
-* Easy transition from [Apple Keyboard](http://www.amazon.com/gp/product/B005DLDTAE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005DLDTAE&amp;linkCode=as2&amp;tag=docstechnotes-20)
+* Easy transition from [Apple Keyboard](http://www.amazon.com/gp/product/B005DLDTAE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005DLDTAE&amp;linkCode=as2&amp;tag=stevenccom-20)
 
 > If you use the Apple Keyboard, you will continue to find yourself at home on the Airbender 3.0.
 
@@ -88,7 +88,7 @@ To review this upgrade, I will begin with the original pros and cons from the Ai
 
 > Which is another reason I like the Zagg, but at $40, do I really need to spend an additional $50 for this feature for the few times I need it?
 
-* Not as attractive as cases from [Belkin](http://www.amazon.com/gp/product/B00EOE4G4E/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00EOE4G4E&amp;linkCode=as2&amp;tag=docstechnotes-20) and [Logitech](http://www.amazon.com/gp/product/B00EZ9XGE4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00EZ9XGE4&amp;linkCode=as2&amp;tag=docstechnotes-20)
+* Not as attractive as cases from [Belkin](http://www.amazon.com/gp/product/B00EOE4G4E/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00EOE4G4E&amp;linkCode=as2&amp;tag=stevenccom-20) and [Logitech](http://www.amazon.com/gp/product/B00EZ9XGE4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00EZ9XGE4&amp;linkCode=as2&amp;tag=stevenccom-20)
 
 > That is unless you like tanks and as a retired Armor officer, I do!
 

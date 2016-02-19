@@ -13,7 +13,7 @@ comments: yes
 **Reference URL:** [bit.ly/my-pebble](bit.ly/my-pebble)  
 **Type:** Brainstorming  
 **Journal:** Ecosystem Pocket (3.5” x 5.5”) {Clearance rack at Barnes & Noble}  
-**Pen:** [Pilot Precise V5 RT](http://www.amazon.com/gp/product/B001E6A9M8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E6A9M8&linkCode=as2&tag=bricinmypockb-20)
+**Pen:** [Pilot Precise V5 RT](http://www.amazon.com/gp/product/B001E6A9M8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E6A9M8&linkCode=as2&tag=stevenccom-20)
 
 <hr/>
 

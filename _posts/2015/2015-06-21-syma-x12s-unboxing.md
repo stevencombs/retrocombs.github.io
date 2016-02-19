@@ -10,7 +10,7 @@ comments: yes
 
 Today I received a great Father's Day gift for a gadget lover like me. The gift has taunted me for about a week. My wife placed a box wrapped in blue wrapping paper on my desk last week with a warning note attached that said: *"Do not open until Father's Day!"* This morning, the box moved from my desk to the kitchen table and was presented with a fresh stack of hot pancakes and hot coffee. I do have a wonderful wife!
 
-I unwrapped the box and inside was a Syma X12S mini quadcopter. I already own a larger [Syma X5C1](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=bricinmypockb-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU) that [I discussed in an earlier blog post](http://www.stevencombs.com/gadgets/2015/02/15/syma-x5c-1-unboxing.html). After reviewing the larger quadcopter, I placed this smaller version in my [Amazon Wish List](http://amzn.com/w/2ULILGJHKWDGJ), which is where my wife found the idea for the gift. In all honesty, I had forgotten about it, so this was indeed a nice surprise.
+I unwrapped the box and inside was a Syma X12S mini quadcopter. I already own a larger [Syma X5C1](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=stevenccom-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU) that [I discussed in an earlier blog post](http://www.stevencombs.com/gadgets/2015/02/15/syma-x5c-1-unboxing.html). After reviewing the larger quadcopter, I placed this smaller version in my [Amazon Wish List](http://amzn.com/w/2ULILGJHKWDGJ), which is where my wife found the idea for the gift. In all honesty, I had forgotten about it, so this was indeed a nice surprise.
 
 The X5C1 purchased earlier is a full size quadcopter with a camera. This smaller Syma is drastically smaller with a total width of about 3.5 inches. Syma describes it as a nano quadcopter. A comparison of the full size and nano is shown in the image below.
 
@@ -60,7 +60,7 @@ This is a good looking quadcopter. Time to charge for a first flight. Battery is
 # Initial Thoughts
 After spending a bit of time with this nano quadcopter, I have a few initial thoughts:
 
-* Excellent price, [at, or around, $20 at Amazon](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=SYMA%20X12S&linkCode=ur2&tag=bricinmypockb-20&url=search-alias%3Daps&linkId=GTMKPXOAVBTT6IMC)
+* Excellent price, [at, or around, $20 at Amazon](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=SYMA%20X12S&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=GTMKPXOAVBTT6IMC)
 * Great starter quadcopter
 * Good for both indoor and outdoor flights
 * Rubber feet on the bottom make landings less stressful on the quadcopter

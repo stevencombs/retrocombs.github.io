@@ -39,14 +39,14 @@ Have these components generated some ideas for a project or two? Drop a comment 
 
 [1]: http://2.bp.blogspot.com/-a0seywxOMis/UpZ5wwPlPnI/AAAAAAABNDI/vpwKl5AyNoA/s1600/photo+1.JPG
 [2]: http://3.bp.blogspot.com/-Qd5DchIfslQ/UpZ3EDW0hBI/AAAAAAABNCs/tYD0h_OierU/s1600/TCS3200+Color+Sensor.jpg
-[3]: http://www.amazon.com/gp/product/B008F7K168/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008F7K168&linkCode=as2&tag=docstechnotes-20
+[3]: http://www.amazon.com/gp/product/B008F7K168/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008F7K168&linkCode=as2&tag=stevenccom-20
 [4]: http://www.dfrobot.com/wiki/index.php?title=TCS3200_Color_Sensor_(SKU:SEN0101)
 [5]: http://www.dfrobot.com/image/data/SEN0101/TCS3200%20TCS3210.pdf
 [6]: http://www.dfrobot.com/image/data/SEN0101/TCS3200%20Sch.pdf
 [7]: http://4.bp.blogspot.com/-YMEw8rOBcNY/UpZ3JTYAzCI/AAAAAAABNC0/Py8bv0VyTyA/s1600/HC-SR501+Human+Sensor+Module+Pyroelectric+Infrared.jpg
-[8]: http://www.amazon.com/gp/product/B007XQRKD4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007XQRKD4&linkCode=as2&tag=docstechnotes-20
+[8]: http://www.amazon.com/gp/product/B007XQRKD4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007XQRKD4&linkCode=as2&tag=stevenccom-20
 [9]: http://www.dfrobot.com/wiki/index.php?title=Digital_Infrared_motion_sensor_(SKU:SEN0018)
 [10]: http://3.bp.blogspot.com/-hqjYUlazWVA/UpZ3R7YSdRI/AAAAAAABNC8/McQmrUTWgxY/s1600/Arduino+Sensor+Shield.jpg
-[11]: http://www.amazon.com/gp/product/B006TQ314G/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006TQ314G&linkCode=as2&tag=docstechnotes-20
+[11]: http://www.amazon.com/gp/product/B006TQ314G/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006TQ314G&linkCode=as2&tag=stevenccom-20
 [12]: http://www.sainsmart.com/sainsmart-sensor-shield-v4-module-for-arduino-duemilanove-uno-mega2560-atmel.html
 [13]: http://www.sainsmart.com/zen/documents/20-011-904/Pinout.png

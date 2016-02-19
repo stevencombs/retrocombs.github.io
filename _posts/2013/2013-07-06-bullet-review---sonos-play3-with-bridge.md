@@ -42,11 +42,11 @@ If my wife finds the Sonos compelling, it must be good. Right? She's really good
 If you have a Sonos or if you simply have a question or comment, drop it in the comments area below.
 
 [1]: http://2.bp.blogspot.com/-jEt0Mj44iqs/UddbFcfD89I/AAAAAAABKIE/67H_zLUzgpc/s1600/Sonos+Bridge+Under+iMac.jpg
-[2]: http://www.amazon.com/gp/product/B005441AJC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005441AJC&linkCode=as2&tag=docstechnotes-20
-[3]: http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=Sonos&linkCode=ur2&rh=i%3Aaps%2Ck%3ASonos&sprefix=Sonos%2Caps&tag=docstechnotes-20&url=search-alias%3Daps
-[4]: http://www.amazon.com/gp/product/B000X1TS54/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000X1TS54&linkCode=as2&tag=docstechnotes-20
+[2]: http://www.amazon.com/gp/product/B005441AJC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005441AJC&linkCode=as2&tag=stevenccom-20
+[3]: http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=Sonos&linkCode=ur2&rh=i%3Aaps%2Ck%3ASonos&sprefix=Sonos%2Caps&tag=stevenccom-20&url=search-alias%3Daps
+[4]: http://www.amazon.com/gp/product/B000X1TS54/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000X1TS54&linkCode=as2&tag=stevenccom-20
 [5]: http://www.sonos.com/music
 [6]: http://3.bp.blogspot.com/-fA3txJ2ScMw/UddbMMjEODI/AAAAAAABKIM/WFo0MxwAmmU/s1600/Sonos+on+Shelf.jpg
-[7]: http://www.amazon.com/gp/product/B002S53LJ2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002S53LJ2&linkCode=as2&tag=docstechnotes-20
-[8]: http://www.amazon.com/gp/product/B00AEMGGU2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00AEMGGU2&linkCode=as2&tag=docstechnotes-20
-[9]: http://www.amazon.com/gp/product/B00834SIO0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00834SIO0&linkCode=as2&tag=docstechnotes-20
+[7]: http://www.amazon.com/gp/product/B002S53LJ2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002S53LJ2&linkCode=as2&tag=stevenccom-20
+[8]: http://www.amazon.com/gp/product/B00AEMGGU2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00AEMGGU2&linkCode=as2&tag=stevenccom-20
+[9]: http://www.amazon.com/gp/product/B00834SIO0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00834SIO0&linkCode=as2&tag=stevenccom-20

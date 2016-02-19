@@ -60,9 +60,9 @@ Even though [Alan Bedford's book][5]![][6] is still the reigning king of the LEG
 So what about it readers? Do you agree or disagree? Have a copy and want to discuss or not sure you want to purchase? Drop a comment below.
 
 [2]: http://www.nostarch.com/
-[3]: http://www.amazon.com/s/?ie=UTF8&tag=bricksinmypoc-20&link_code=btl&camp=213689&creative=392969&search-alias=aps&field-keywords=%20LEGO%20Technic%20Idea%20Book
-[4]: http://www.assoc-amazon.com/e/ir?t=bricksinmypoc-20&l=btl&camp=213689&creative=392969&o=1&a=
-[5]: http://www.amazon.com/Unofficial-LEGO-Builders-Guide/dp/1593270542?ie=UTF8&tag=bricksinmypoc-20&link_code=btl&camp=213689&creative=392969
-[6]: http://www.assoc-amazon.com/e/ir?t=bricksinmypoc-20&l=btl&camp=213689&creative=392969&o=1&a=1593270542
-[7]: http://www.amazon.com/LEGO-Technic-Idea-Book-Machines/dp/1593272774?ie=UTF8&tag=bricksinmypoc-20&link_code=btl&camp=213689&creative=392969
-[8]: http://www.assoc-amazon.com/e/ir?t=bricksinmypoc-20&l=btl&camp=213689&creative=392969&o=1&a=1593272774
+[3]: http://www.amazon.com/s/?ie=UTF8&tag=stevenccom-20&link_code=btl&camp=213689&creative=392969&search-alias=aps&field-keywords=%20LEGO%20Technic%20Idea%20Book
+[4]: http://www.assoc-amazon.com/e/ir?t=stevenccom-20&l=btl&camp=213689&creative=392969&o=1&a=
+[5]: http://www.amazon.com/Unofficial-LEGO-Builders-Guide/dp/1593270542?ie=UTF8&tag=stevenccom-20&link_code=btl&camp=213689&creative=392969
+[6]: http://www.assoc-amazon.com/e/ir?t=stevenccom-20&l=btl&camp=213689&creative=392969&o=1&a=1593270542
+[7]: http://www.amazon.com/LEGO-Technic-Idea-Book-Machines/dp/1593272774?ie=UTF8&tag=stevenccom-20&link_code=btl&camp=213689&creative=392969
+[8]: http://www.assoc-amazon.com/e/ir?t=stevenccom-20&l=btl&camp=213689&creative=392969&o=1&a=1593272774

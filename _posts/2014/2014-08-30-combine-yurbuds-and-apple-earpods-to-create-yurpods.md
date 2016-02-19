@@ -12,8 +12,8 @@ For several years I’ve searched for the perfect earbuds for my iPhone. The pro
 
 The two current pairs I alternate using were sitting on my desk a few days ago:
 
-* a pair of [Apple Earpods](http://www.amazon.com/gp/product/B0097BEG1C/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0097BEG1C&linkCode=as2&tag=bricinmypockb-20)
-* a pair of [Yurbuds Ironman Focus](http://www.amazon.com/gp/product/B00503ZT9E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00503ZT9E&linkCode=as2&tag=bricinmypockb-20). 
+* a pair of [Apple Earpods](http://www.amazon.com/gp/product/B0097BEG1C/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0097BEG1C&linkCode=as2&tag=stevenccom-20)
+* a pair of [Yurbuds Ironman Focus](http://www.amazon.com/gp/product/B00503ZT9E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00503ZT9E&linkCode=as2&tag=stevenccom-20). 
 
 I like the Apple Earpods because they include full inline controls (volume, pause/play, next track, Siri, etc) and a microphone. While I like the sound, they often come loose in my ear as I run. They never fall out, but I occasionally have to fidget with them to ensure maximum sound quality and comfort. This is a bit of a pain while I run or bike.
 
@@ -23,7 +23,7 @@ It dawned on me while looking at both pairs on my desk – create an amalgam of 
 
 ![My Yurbud Apple Earpod amalgam](http://www.stevencombs.com/images/posts/2014-08-30-yurpods.png)
 
-The secret sauce of the Yurbud is the [Yurbud Earbud Covers](http://www.amazon.com/gp/product/B00A8ML9S2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A8ML9S2&linkCode=as2&tag=bricinmypockb-20) which you can purchase separately. I removed the covers from my Yurbuds and put them on the Apple Earpods. They fit perfectly. I stuck the new headphone combination in my ear using the Yurbud rotation process and low and behold, they fit and felt just like the comfortable Yurbud.
+The secret sauce of the Yurbud is the [Yurbud Earbud Covers](http://www.amazon.com/gp/product/B00A8ML9S2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A8ML9S2&linkCode=as2&tag=stevenccom-20) which you can purchase separately. I removed the covers from my Yurbuds and put them on the Apple Earpods. They fit perfectly. I stuck the new headphone combination in my ear using the Yurbud rotation process and low and behold, they fit and felt just like the comfortable Yurbud.
 
 I set out on my run. I found the sound of the Apple Earpod to be much better thanks to a better direction of the sound into my ear canal and tighter fit. Not one time during my run did I feel a need to adjust the fit. Of course, thanks the Apple Earpod inline controls and microphone, I had full control of my iPhone. Perfect!
 

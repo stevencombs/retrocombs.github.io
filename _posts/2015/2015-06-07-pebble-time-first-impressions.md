@@ -101,5 +101,5 @@ Once again, this is not a full review of the new Pebble Time; however, below I a
 
 After 48 hours, I am happy with my Pebble Time. There have been no problems and it works as expected. Pebble adds two important new features: color e-paper and the Timeline. These features will make any past Pebble user happy and the Pebble Time worth the upgrade. I look forward to more "time with the Time" as well as the new apps and watch faces that will bring even more value to the watch.
 
-[2768-0001]: http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=bricinmypockb-20
-[2768-0002]: http://www.amazon.com/gp/product/B00LMIA9L4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00LMIA9L4&linkCode=as2&tag=bricinmypockb-20
+[2768-0001]: http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=stevenccom-20
+[2768-0002]: http://www.amazon.com/gp/product/B00LMIA9L4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00LMIA9L4&linkCode=as2&tag=stevenccom-20

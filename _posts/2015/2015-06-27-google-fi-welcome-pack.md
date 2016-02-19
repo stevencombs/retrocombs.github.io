@@ -64,7 +64,7 @@ Here's the Fi logo in all its "stamped" glory.
 And the last image is the note found under the top of the Project Fi welcome pack. This message and unexpected bonus package really do give you the feeling that you are a part of something special. Here's hoping Project Fi can live up to that hype.
 ***
 
-I've yet to try out these bonus items, save the for the Nexus 6 cover. I used it for a day or two but did not like the white case, even with the cool Fi branding. The color just wasn't my style and I was afraid that dirt would begin to show. I purchased [a clear case from Amazon](http://www.amazon.com/gp/product/B00OWXD3GE/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00OWXD3GE&linkCode=as2&tag=bricinmypockb-20&linkId=3UXTXJI3DNDVWUOK) for $7 that has served me well.
+I've yet to try out these bonus items, save the for the Nexus 6 cover. I used it for a day or two but did not like the white case, even with the cool Fi branding. The color just wasn't my style and I was afraid that dirt would begin to show. I purchased [a clear case from Amazon](http://www.amazon.com/gp/product/B00OWXD3GE/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00OWXD3GE&linkCode=as2&tag=stevenccom-20&linkId=3UXTXJI3DNDVWUOK) for $7 that has served me well.
 
 I hope to try the other two items soon and if I do, I will be sure to come back and update this post. Until then, I will display these items in my office. The gadgets and the packaging are quite the conversation pieces.
 

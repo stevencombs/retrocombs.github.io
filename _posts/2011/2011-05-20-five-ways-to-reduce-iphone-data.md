@@ -52,8 +52,8 @@ To turn off the automatic downloads feature in Software Update, select Apple Men
 
 There you have it, <strike>five</strike> six ways you can reduce iPhone personal hotspot data consumption. This is obviously not an all inclusive list, but rather a list to get you thinking about iPhone personal hotspot usage. Did I miss an obvious tip? Drop a comment below and add to this Tech Note as others have already done. If it's a good tip, I'll add it to this list and give you credit.
 
-[2]: https://www.amazon.com/dp/B0047DVVZO/ref=as_li_ss_til?tag=bricinmypockb-20&amp;camp=213381&amp;creative=390973&amp;linkCode=as4&amp;creativeASIN=B0047DVVZO&amp;adid=0ZYHMX9S4H9MPSGB0ZEM&amp;
-[3]: http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_ss_sc_0_4%26y%3D0%26field-keywords%3Dmifi%26url%3Dsearch-alias%253Daps%26sprefix%3Dmifi%23&amp;tag=bricinmypockb-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957
+[2]: https://www.amazon.com/dp/B0047DVVZO/ref=as_li_ss_til?tag=stevenccom-20&amp;camp=213381&amp;creative=390973&amp;linkCode=as4&amp;creativeASIN=B0047DVVZO&amp;adid=0ZYHMX9S4H9MPSGB0ZEM&amp;
+[3]: http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_ss_sc_0_4%26y%3D0%26field-keywords%3Dmifi%26url%3Dsearch-alias%253Daps%26sprefix%3Dmifi%23&amp;tag=stevenccom-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957
 [4]: http://4.bp.blogspot.com/-qwHYByIBNHM/TdamifxAq6I/AAAAAAAA1R4/Scv8krr-x-0/s200/Notifications.PNG
 [5]: http://3.bp.blogspot.com/-YWaVlPW7qfo/Tdamging-JI/AAAAAAAA1Rw/Fd6Xl-BqKTs/s200/Fetch+New+Data.PNG
 [6]: http://3.bp.blogspot.com/-10VSZ3BKvOk/Tdamix69fuI/AAAAAAAA1R8/1y1ZfdhcrPo/s200/Pause+Synching.png

@@ -61,13 +61,13 @@ After removing the cap, I was happy to find a white plastic ball on the tip. As 
 The FULLFÖLJA pen uses the ball point tip to guide ink on the paper. I am not normally a fan of ball point tips so was dubious about the pen's writing experience.
 
 # Pen usage
-I took out my trusty [Moleskine LEGO journal](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=moleskine%20LEGO&linkCode=ur2&tag=bricinmypockb-20&url=search-alias%3Daps&linkId=C2YM5NAMAWN7WIHE) and began to craft a writing test. I chose to recreate some of the text and art found on the pen's label.
+I took out my trusty [Moleskine LEGO journal](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=moleskine%20LEGO&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=C2YM5NAMAWN7WIHE) and began to craft a writing test. I chose to recreate some of the text and art found on the pen's label.
 
 ![](https://lh3.googleusercontent.com/-BI6uxrgA-ZI/VZWYIIxvzLI/AAAAAAABllk/_YIxPBga6kM/w1022-h767-no/IMG_20150702_155141.jpg)
 
 The pen itself was too light – scary light. I had problems holding the pen comfortably and after a bit of time drawing small intricate letters, my hand began to cramp. The matte finish did no favors for the pen. The pen slid around in my hand and I found it difficult to create details. The pen easily bends with a tight grip.
 
-I began to capture notes for this blog post. The more I used it, the more my hand cramped. [Pilot HI-TEC-C maica](http://www.amazon.com/gp/product/B00N92S8FA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N92S8FA&linkCode=as2&tag=bricinmypockb-20&linkId=R77MS3W7GALBZ6XT) pens were used to add a splash of color to the page and to give my hand a break from the FULLFÖLJA pen. I trudged through to create an entire page of notes. My blunt review of the pen's writing experience – for lengthy writing, this pen is a disaster.
+I began to capture notes for this blog post. The more I used it, the more my hand cramped. [Pilot HI-TEC-C maica](http://www.amazon.com/gp/product/B00N92S8FA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N92S8FA&linkCode=as2&tag=stevenccom-20&linkId=R77MS3W7GALBZ6XT) pens were used to add a splash of color to the page and to give my hand a break from the FULLFÖLJA pen. I trudged through to create an entire page of notes. My blunt review of the pen's writing experience – for lengthy writing, this pen is a disaster.
 
 ![](https://lh4.googleusercontent.com/-ZyRxSK2mEaw/VZWfXNQ_YGI/AAAAAAABlnE/mXoLkyTSD1c/w705-h965-no/IMG_20150702_162434.jpg)
 

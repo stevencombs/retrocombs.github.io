@@ -59,7 +59,7 @@ Add the free [Pedometer++](https://itunes.apple.com/us/app/walkmeter-gps-pedomet
 
 # Connector
 
-Say what you will about the new Lightning connector, but ever since I began using the Lightning connection on my iPad Air, I've been a fan. I'm even more of a fan on the iPhone. The tiny connector is a no muse, no fuse affair. I have no negative comments about the switch from the 30-pin to the Lightning connector. If you need various size connectors, I’ve found the [AmazonBasics Lightning connector](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=bricinmypockb-20) to be of excellent construction and value. Grab several in various lengths from [4”](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=bricinmypockb-20) to [6’](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=bricinmypockb-20).
+Say what you will about the new Lightning connector, but ever since I began using the Lightning connection on my iPad Air, I've been a fan. I'm even more of a fan on the iPhone. The tiny connector is a no muse, no fuse affair. I have no negative comments about the switch from the 30-pin to the Lightning connector. If you need various size connectors, I’ve found the [AmazonBasics Lightning connector](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=stevenccom-20) to be of excellent construction and value. Grab several in various lengths from [4”](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=stevenccom-20) to [6’](http://www.amazon.com/gp/product/B009SYZ8OC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SYZ8OC&linkCode=as2&tag=stevenccom-20).
 
 [Return to TOC](#contents)
 
@@ -71,7 +71,7 @@ The number of folks at work who have an iPhone 5s and do not use touch ID amazes
 
 # Color
 
-I choose the champaign gold iPhone 5s because it was on sale. By itself, I don’t particularly like the mix of champaign gold and white. When I add a [Gold Spigen iPhone 5s case](http://www.amazon.com/gp/product/B00FFM7UKG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FFM7UKG&linkCode=as2&tag=bricinmypockb-20), the phone looks great and the combination of the black and gold gives the phone a more industrial look. As my wife says, it classes up the phone a bit. Check out my image below and see if you don’t agree.
+I choose the champaign gold iPhone 5s because it was on sale. By itself, I don’t particularly like the mix of champaign gold and white. When I add a [Gold Spigen iPhone 5s case](http://www.amazon.com/gp/product/B00FFM7UKG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FFM7UKG&linkCode=as2&tag=stevenccom-20), the phone looks great and the combination of the black and gold gives the phone a more industrial look. As my wife says, it classes up the phone a bit. Check out my image below and see if you don’t agree.
 
 ![Spigen iPhone 5s case](http://www.stevencombs.com/images/posts/2014-08-25-iphone-5s-spigen-case.jpg)
 

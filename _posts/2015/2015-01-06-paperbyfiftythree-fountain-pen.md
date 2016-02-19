@@ -8,7 +8,7 @@ category: art
 comments: yes
 ---
 
-I recently purchased a new [Pencil by FiftyThree](http://www.amazon.com/gp/product/B00JP12300/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JP12300&linkCode=as2&tag=bricinmypockb-20&linkId=DHKTVRXUYJNKKOTX) bluetooth stylus to use with the [Paper by FiftyThree](https://www.fiftythree.com/paper) iOS app. I’d been using the two together to simply sketch lines on the virtual page and had not experimented with colors or shading. I'm a trained draftsman, not artist (there is a difference), and my sketches tend to focus on line drawings only.
+I recently purchased a new [Pencil by FiftyThree](http://www.amazon.com/gp/product/B00JP12300/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JP12300&linkCode=as2&tag=stevenccom-20&linkId=DHKTVRXUYJNKKOTX) bluetooth stylus to use with the [Paper by FiftyThree](https://www.fiftythree.com/paper) iOS app. I’d been using the two together to simply sketch lines on the virtual page and had not experimented with colors or shading. I'm a trained draftsman, not artist (there is a difference), and my sketches tend to focus on line drawings only.
 
 Recently while trying to find interesting uses for my new bluetooth Pencil stylus, I ran across Michael Rose’s [Made Mistakes](https://mademistakes.com/) web site. On the site Michael shares some wonderful tutorials on how to get the most out of Paper and especially Paper with Pencil.
 

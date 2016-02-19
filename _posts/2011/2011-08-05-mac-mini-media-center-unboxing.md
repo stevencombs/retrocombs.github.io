@@ -52,17 +52,17 @@ Here is the Mac mini next to our Apple TV. We will use the Apple TV in another r
 
 There you have the first images of my Mac mini being converted to an MMMC. Any questions? Post them in the comments section below.
 
-[1]: http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_noss%26y%3D0%26field-keywords%3Dmac%2520mini%26url%3Dsearch-alias%253Daps%23&tag=bricinmypockb-20&linkCode=ur2&camp=1789&creative=390957
-[2]: https://www.amazon.com/dp/B004QX6E7K/ref=as_li_ss_til?tag=bricinmypockb-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=B004QX6E7K&adid=19X2A98RE1BDHM1K4C6W&
+[1]: http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_noss%26y%3D0%26field-keywords%3Dmac%2520mini%26url%3Dsearch-alias%253Daps%23&tag=stevenccom-20&linkCode=ur2&camp=1789&creative=390957
+[2]: https://www.amazon.com/dp/B004QX6E7K/ref=as_li_ss_til?tag=stevenccom-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=B004QX6E7K&adid=19X2A98RE1BDHM1K4C6W&
 [3]: http://3.bp.blogspot.com/-UypFI5rTb4A/TjsGfiURTOI/AAAAAAAA3JI/0eqFAtN4B8Y/s640/IMG_00210.jpg
 [4]: http://2.bp.blogspot.com/-WR4oRR9ONYA/TjsGmmFndOI/AAAAAAAA3JQ/G2mZsR7Fj2w/s640/IMG_00211.jpg
 [5]: http://3.bp.blogspot.com/-EGOpNbL-loo/TjsGs6kU7lI/AAAAAAAA3JU/bYtS1fTj1qQ/s640/IMG_00212.jpg
 [6]: http://3.bp.blogspot.com/-hJkKMXxI1JE/TjsGyxlyRdI/AAAAAAAA3JY/hChlFdU7p9s/s640/IMG_00213.jpg
 [7]: http://www.docstechnotes.com/2011/08/mac-mini-to-media-center-rescue.html
 [8]: http://2.bp.blogspot.com/-DLE4SNA9B58/TjsG43UmrFI/AAAAAAAA3Jc/Mm2DLLk4BuM/s640/IMG_00214.jpg
-[9]: https://www.amazon.com/dp/B003L1ZYYM/ref=as_li_ss_til?tag=bricinmypockb-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=B003L1ZYYM&adid=1ZQVMP6QAM8VQJGCS8PQ&
+[9]: https://www.amazon.com/dp/B003L1ZYYM/ref=as_li_ss_til?tag=stevenccom-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=B003L1ZYYM&adid=1ZQVMP6QAM8VQJGCS8PQ&
 [10]: http://4.bp.blogspot.com/-D5N9DKOqyIA/TjsG-QZ2gJI/AAAAAAAA3Jo/rtQc4_eocLg/s640/IMG_00215.jpg
-[11]: https://www.amazon.com/dp/B003UE52ME/ref=as_li_ss_til?tag=bricinmypockb-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=B003UE52ME&adid=1DXMTZ3AX151HY7N4PMN&
+[11]: https://www.amazon.com/dp/B003UE52ME/ref=as_li_ss_til?tag=stevenccom-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=B003UE52ME&adid=1DXMTZ3AX151HY7N4PMN&
 [12]: http://4.bp.blogspot.com/-NGR-LJ_-4F0/TjsOsQsTVTI/AAAAAAAA3KE/3c7xDn7qKZw/s640/IMG_00220.jpg
 [13]: http://1.bp.blogspot.com/-oUojOV_VpZ4/TjsOyl2vTbI/AAAAAAAA3KI/lmYT2I7wWU0/s640/IMG_00221.jpg
 [14]: http://4.bp.blogspot.com/-qr0mDgIWeHI/TjsO9QhxMmI/AAAAAAAA3KQ/hz_6zeWwm2A/s640/IMG_00223.jpg

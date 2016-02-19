@@ -31,7 +31,7 @@ Obviously, a review of the slides and the links below are not enough for readers
 
 ## Slide 2 - Get a System
 
-* [*Getting Things Done* by David Allen](http://www.amazon.com/gp/product/0142000280/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0142000280&linkCode=as2&tag=bricinmypockb-20&linkId=7TLAVZ6TY6BY355Q)
+* [*Getting Things Done* by David Allen](http://www.amazon.com/gp/product/0142000280/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0142000280&linkCode=as2&tag=stevenccom-20&linkId=7TLAVZ6TY6BY355Q)
 * [GTD](http://www.davidco.com/)
 
 ## Slide 3 - Inbox Zero
