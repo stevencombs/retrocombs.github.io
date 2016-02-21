@@ -2,18 +2,18 @@
 layout: post
 title: iOS user talks Android
 date: '2015-07-22 14:57'
-comments: 'yes'
+comments:	'yes'
 categories:
-  - android
+	- android
 ---
 
 Android has come a long way in the past several years and during that time, there has been a huge Hatfield and McCoy mentality between Android and iOS users. The only smart phone I have used is the iPhone. Since standing in line for that first version to my latest, the iPhone 5s, I've been firmly in the iOS camp. That has changed.
 
 When Google announced [Project Fi][1], I became curious about [Android version 5.1 (Lollipop)][2], the [Motorola Nexus 6][3] and Google's new wireless network. I requested an invite to Project Fi and it arrived a month later. I immediately accepted and a few days later, the only phone available on that network, the Motorola Nexus 6 arrived on my door step. I've used the Nexus 6 for about six months. In December 2015, the phone was upgraded from Android 5.1.1 (Lollipop) to Android 6.0 and then 6.0.1 (Marshmallow).
 
-Marshmallow brought stability and battery life to the Nexus. My experience with the phone led me to the purchase of an Android tablet. After much soul searching, and a budget of $200, I choose the nVidia Shield tablet K1. Designed for gaming, the tablet came with an 8” screen and some hefty processing power. It also came with the promise of an upgrade from Lollipop to Android. Upon turning the tablet on during Christmas day, the upgrade to 6.0 was available. I’m now waiting on the 6.0.1, but not in a rush.
+Marshmallow brought stability and battery life to the Nexus. My experience with the phone led me to the purchase of an Android tablet. After much soul searching, and a budget of $200, I choose the nVidia Shield tablet K1. Designed for gaming, the tablet came with an 8” screen and some hefty processing power. It also came with the promise of an upgrade from Lollipop to Android. Upon turning the tablet on during Christmas Day, the upgrade to 6.0 was available. I’m now waiting on the 6.0.1, but not in a rush.
 
-After using these two devices extensively, I now have enough experience using android on two platforms (phone and tablet)  that I can now share my thoughts on the whole Android -vs- iOS debate. One caveat to keep in mind; I’ve tried not to spend too much time discussing hardware (save for battery) as this can differ greatly given the abundance of gadgets that run the Android operating system. I will focus on the operating system (Android -vs- iOS).
+After using these two devices extensively, I now have enough experience using android on two platforms (phone and tablet)  that I can now share my thoughts on the whole Android versus iOS debate. One caveat to keep in mind; I’ve tried not to spend too much time discussing hardware (save for battery) as this can differ greatly given the abundance of gadgets that run the Android operating system. I will focus on the operating system and not the devices.
 
 I’ve organized my thoughts into the following categories and you can use the table to contents below to jump to specific section:
 
@@ -36,7 +36,7 @@ Years ago, I would have worried that the app I used on my iOS device would not b
 
 Despite popular belief, Android apps are not all free. Many great apps require a pro activation. I’m okay with this as I don’t mind supporting great developers and the costs are always  minimal and comparable with the Apple App Store. There are also ways to get these pro activations for free. That’s for another post.
 
-> **NEAT ANDROID FEATURE:** You can purchase an app on the Google Play store using your computer browser and after the purchase, direct the app to a specific device. Go to that device and the app will already be installed.
+> **NEAT ANDROID FEATURE:** You can purchase an app on the Google Play store using your computer browser and after the purchase, direct the app to a specific Android device. Go to that device and the app will be installed.
 
 # User interface (UI)
 Android versions prior to version 5.0 (Lollipop) were a mess. Versions after 5.0 include the [Google material design specification][18]. The Android UI is now modern, functional, bold, attractive, flat and colorful. Material design is also found in Chrome OS bringing consistency across the two platforms. This design specification is also applied to many Google online tools such as [Google Docs][19]. I've grown fond of material design. When I look over at my wife as she uses her iPad, it seems dull and dated. That is unless she loads a Google iOS app. Google is also applying this design specification to their iOS apps as well.
@@ -77,7 +77,7 @@ Motorola builds the Nexus 6 and includes the following:
 Newer Nexus devices include finger print scanners. Nexus hardware is now equivalent to most iOS devices and in some ways (wireless charging and AMOLED screens) surpasses Apple iOS devices. It appears that the only inequity between the latest iOS devices and the Nexus line is the [processor performance][21].
 
 # Keyboard and mouse
-Attach an external Bluetooth keyboard to a device running Android 6 and your fingers can fire off keyboard strokes and combinations that will make an iOS device cry. The ability to control Android with a keyboard is simply amazing. Here’s what you can do with an external keyboard:
+Attach an external Bluetooth keyboard (I recommend [this model for Android devices][amzn]) to a device running Android 6 and your fingers can fire off keyboard strokes and combinations that will put iOS devices to shame. The ability to control Android with a keyboard is simply amazing. Here’s what you can do with an external keyboard:
 
 * Take a screen capture with a single keystroke
 * Activate the search field
@@ -90,7 +90,7 @@ Add a Bluetooth mouse to mix and you now have a pointer and almost pure desktop 
 {Insert Screenshot or video of mouse and keyboard}
 
 # Stability
-Android, at least on the devices I use, still has several stability issues including:
+Android 6.0+, at least on the devices I use, still has several stability issues including:
 
 * Tap and wait stuttering
 * Bluetooth connectivity issues
@@ -98,37 +98,42 @@ Android, at least on the devices I use, still has several stability issues inclu
 * Camera not responding or slow to respond
 * “Application not responding” errors
 
-I won’t say these are constant issues, but that’s a problem too. There’s no way to troubleshoot the issues when they are random. Some days are worse than others. A reboot or a [cache partition wipe][22] will often correct. You will restart your Android device much more frequently that an iOS device to improve device stability.
+The most particularly annoying stability issue is the camera application (see [Camera and photos][12] section below). There have been one too many times I have missed a shot because the camera was slow to initialize or the application crashed. With each new Android update I anticipate a fix, but the camera app still needs work. Get on this Google!
+
+I won’t say these are constant issues, but that’s a problem too. There’s no way to troubleshoot the issues when they are random. Some days are worse than others. A reboot or a [cache partition wipe][22] will often correct, but that's not a viable solution in all situations. You will restart your Android device much more frequently that an iOS device to improve device stability.
 
 # Camera and photos
-The camera on my Nexus 6 is not nearly as good as the camera I had on my iPhone 5s. I do have to make sure conditions are just right in low light levels and the camera sometimes takes entirely to long to activate. I have missed a few good shots waiting for the camera. Android 6 has made the camera more responsive and has added a very nice feature - tap the power button twice and the camera loads immediately. No need to unlock the device. It's a great feature.
+The camera on my Nexus 6 is not nearly as good as the camera I had on my iPhone 5s. I do have to make sure conditions are just right in low light levels and the camera sometimes takes entirely to long to activate (see [Stability][11] section). I have missed a few good shots waiting for the camera. Android 6 has made the camera more responsive and has added a very nice feature - tap the power button twice and the camera loads immediately. No need to unlock the device. It's a great feature.
 
-Android 6.0 also include the outstanding Google Photos app. Google Photos is a huge improvement over Apple Photos. Organization, sharing, editing, web access, search and collaboration are far better than the Apple alternative. One mind blowing feature is Google Photos search. Without any tagging on my part, I can search for say a "car" and Google Photos display my photos that include cars. It's amazing.
+Android 6.0 includes the outstanding Google Photos app. Google Photos is a huge improvement over Apple Photos. Organization, sharing, editing, web access, search and collaboration are far better than the Apple alternative. One mind blowing feature is Google photos search. Without any tagging on my part, I can search for say a "car" and Google Photos display my photos that include cars. Searches can be more complex as well. I can type `steven in the snow` and all images with me in the snow will appear. It's amazing and once you use it, you will never go back. The app is also available on iOS so there's no reason for iOS users not to give a try.
 
 # Podcasts
-Overcast was my go to Podcast app on iOS. On Android it took some time for me find a competent podcast client and I found it in Pocket Casts. Pocket Casts is very similar in function and design to Overcast. A plus for Android users who also use iOS devices, Pocket Casts is available and syncs between both platforms. Like Overcast, Pocket Casts includes a web based version so you can listen to podcasts using a browser. If you make the switch to Android and are a heavy podcast listener; no worries.
+[Overcast][apple] is my go to Podcast app on iOS. On Android it took some time for me find a competent podcast client and I found it in [Pocket Casts][google]. Pocket Casts is very similar in function and design to Overcast. A plus for Android users who also use iOS devices, Pocket Casts is available and syncs between both platforms. Like Overcast, [Pocket Casts][google] includes a web based version so you can listen to podcasts using a browser. If you make the switch to Android and are a heavy podcast listener; no worries.
 
 # Mac syncing
 I worried that when I made the switch to Android, I would lose the ability to easily sync data between my Mac and my mobile device. There was no need to worry. Many solutions exist for seamless sync across devices. Below is a reference table that shows the data I sync and what tools I use:
 
-| Data      | Mac Application | Android App   |
-|:----------|:----------------|:--------------|
-| Bookmarks | Chrome          | Chrome        |
-| Contacts  | Contacts        | Contacts      |
-| Calendar  | Calendar        | Calendar      |
-| Documents | Google Drive    | Google Drive  |
-| Music     | iTunes          | iSyncr        |
-| Notes     | Evernote App    | Evernote      |
-| Photos    | Google Photos   | Google Photos |
+| Data	| Mac Application	| Android App	|  
+|:----------	|:----------------	|:--------------	|  
+| Bookmarks	| Chrome	| Chrome	|  
+| Contacts	| Contacts	| Contacts	|  
+| Calendar	| Calendar	| Calendar	|  
+| Documents	| Google Drive	| Google Drive	|  
+| Music	| iTunes	| iSyncr & Apple Music	|  
+| Notes	| Keep & Evernote	| Keep & Evernote	|  
+| Photos	| Google Photos	| Google Photos	|  
+
+These tools may not be compatible with your workflow but work extremely well with mine. If you have a question about any of these, leave it in the comments below.
 
 # Personal assistant
 I mentioned Google Now briefly in the [Launcher][23] section above. Google Now is the competitor to Apple's Sir, or [Amazon's Alexa][24]. Activation is either through a tap of the microphone button or if configured, by the voice command, "Okay Google." My personal experiences have left me to prefer Google Now over Siri. Google Now is more accurate and provides many additional tools to control my Android device. I could write a whole post on the comparison between the two; however, for this post, I will simply state that Google Now is superior to Siri for my day-to-day workflow.
 
 # Conclusions
+As of this writing, I've been using both a [Nexus 6][amazon] and an [nVidia Shield K1 Tablet][amazon 2] on a regular basis to give Android a shot on both phone and tablet form factors. It has been an interesting experiment.
 
 [1]:	https://fi.google.com/
 [2]:	http://www.androidcentral.com/lollipop
-[3]:	http://www.amazon.com/gp/product/B00R1984DS/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1984DS&linkCode=as2&tag=bricinmypockb-20
+[3]:	http://www.amazon.com/gp/product/B00R1984DS/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1984DS&linkCode=as2&tag=stevenccom-20
 [4]:	#app-availability
 [5]:	#user-interface-(ui)
 [6]:	#customization
@@ -149,6 +154,12 @@ I mentioned Google Now briefly in the [Launcher][23] section above. Google Now i
 [21]:	http://www.tomsguide.com/us/fastest-smartphone,review-2881.html
 [22]:	https://motorola-global-portal.custhelp.com/app/answers/prod_answer_detail/a_id/102414/p/30,6720,9293
 [23]:	#launcher
-[24]:	24
+[24]:	http://amzn.to/1osIAfL
 
 [image-1]:	https://lh3.googleusercontent.com/iuztwmZyshWzHwUnVDfMD0lDT7tXHMlISbwFnJLQNaHUpvH-pEzfz2hxD3D2FeLCcRQwwl61_eXMJWS3hhLKP0nCHxwEINS1LbIoF3nCWLYPiK-G25_SBLnNeLePmiiY2gDogF6NPH7lsGqh_Ke-_9xfQ5EbGv-zp1kCHXzwgCUnMR96SErKsoPjzDpSujKsQX8rLKdrKBdlDlj0i7rkxsYOgxyrgP13P9eXwSz6dmM9X9pyEIHQwEri5Uddalom57OrSr0_ux7oHj5tvRhnhNfHgypwkwrZa4N1_4VKcbEXMApzfUuzAWVul5rI8PInJlLNBqrcLiLAgSPMkRtYXztxGbJG5XufgcG0D70pJNMRpIZkeCGPWSrc9Imphyih6gPkWV_lZeNR_GkvpnsNujkzEIb3gvScwJFCLAE3qXyaC53zAueFLkPW6f-KEniJ7epsJvS25m6RBRE7oR9o_BpwccECloFYogorjt1a9M-dSxDDUDe9kdRfgyIS8dCwVpThbdYwY0OvSUp1lRfgIOyjPSeAMh2-AqezQ0unjAVH8tlcdQZ5PPQgVQ_IuhSWABQ25A=w1717-h841-no "Google Material Design"
+
+[amazon]: http://www.amazon.com/gp/product/B00R1984DI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1984DI&linkCode=as2&tag=stevenccom-20
+[amazon 2]: http://www.amazon.com/gp/product/B0171BS9CG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0171BS9CG&linkCode=as2&tag=stevenccom-20
+[amzn]: http://amzn.to/21dy0rr
+[apple]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&uo=4&at=10l9vL
+[google]: https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts
