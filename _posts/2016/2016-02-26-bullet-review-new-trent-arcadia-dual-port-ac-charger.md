@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bullet Review: New Trent Arcadia dual port AC charger'
-date: '2016-02-26 16:00'
+date: '2016-02-26'
 comments: 'yes'
 categories:
   - gadgets
