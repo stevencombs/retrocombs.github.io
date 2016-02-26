@@ -18,6 +18,8 @@ The New Trent Arcadia dual port AC charger has the following strengths:
 
 * Small compact square design
 * Outlet prongs that fold in/out for easy storage and protection
+* Solid construction
+* Built like a tank and doesn't feel cheap or flimsy
 * Reasonable price at around $13.00
 * Labeled ports so you know which USB port to use for which device
 * Includes both a 2.4 amp and 1 amp port (this becomes a con below)
