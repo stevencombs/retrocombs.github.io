@@ -113,15 +113,15 @@ Android 6.0 includes the outstanding Google Photos app. Google Photos is a huge 
 # Mac syncing
 I worried that when I made the switch to Android, I would lose the ability to easily sync data between my Mac and my mobile device. There was no need to worry. Many solutions exist for seamless sync across devices. Below is a reference table that shows the data I sync and what tools I use:
 
-| Data	| Mac Application	| Android App	|  
-|:----------	|:----------------	|:--------------	|  
-| Bookmarks	| Chrome	| Chrome	|  
-| Contacts	| Contacts	| Contacts	|  
-| Calendar	| Calendar	| Calendar	|  
-| Documents	| Google Drive	| Google Drive	|  
-| Music	| iTunes	| iSyncr & Apple Music	|  
-| Notes	| Keep & Evernote	| Keep & Evernote	|  
-| Photos	| Google Photos	| Google Photos	|  
+| Data	| Mac Application	| Android App	|
+|:----------	|:----------------	|:--------------	|
+| Bookmarks	| Chrome	| Chrome	|
+| Contacts	| Contacts	| Contacts	|
+| Calendar	| Calendar	| Calendar	|
+| Documents	| Google Drive	| Google Drive	|
+| Music	| iTunes	| iSyncr, Apple Music	|
+| Notes	| Keep, Evernote	| Keep, Evernote	|
+| Photos	| Google Photos	| Google Photos	|
 
 These tools may not be compatible with your workflow but work extremely well with mine. If you have a question about any of these, leave it in the comments below.
 
@@ -129,7 +129,16 @@ These tools may not be compatible with your workflow but work extremely well wit
 I mentioned Google Now briefly in the [Launcher][23] section above. Google Now is the competitor to Apple's Sir, or [Amazon's Alexa][24]. Activation is either through a tap of the microphone button or if configured, by the voice command, "Okay Google." My personal experiences have left me to prefer Google Now over Siri. Google Now is more accurate and provides many additional tools to control my Android device. I could write a whole post on the comparison between the two; however, for this post, I will simply state that Google Now is superior to Siri for my day-to-day workflow.
 
 # Conclusions
-As of this writing, I've been using both a [Nexus 6][amazon] and an [nVidia Shield K1 Tablet][amazon 2] on a regular basis to give Android a shot on both phone and tablet form factors. It has been an interesting experiment.
+As of this writing, I've been using both a [Nexus 6][amazon] and an [nVidia Shield K1 Tablet][amazon 2] on a regular basis to give Android a shot on both phone and tablet form factors. In the past I've owned an iPhone and iPad since the originals and I've seen several Android devices become the primary device for family members. I can tell you that over the years, Android has significantly imporoved. In the past, I would never have considered Android on a primary device. After using the [Nexus 6][amazon] and the [nVidia Shield K1 Tablet][amazon 2] I have changed my mind.
+
+While Amazon still seems to have some stability issues, while working on this review, my daughter was using her iPhone to scan some documents for a college project. During the process, the app crashed and she lost her scans. As I witnessed her frustration, I thought about this review. Maybe I'm being a bit harsh on Android.
+
+So which operating system would I recommend? I can actually recommend both depending.
+
+Android has driven development
+
+Apple pencil
+
 
 [1]:	https://fi.google.com/
 [2]:	http://www.androidcentral.com/lollipop
