@@ -7,14 +7,16 @@ categories:
   - raspberrypi
 ---
 
-This post shares the process I use to install [openHAB][8291-0001], the "vendor and technology agnostic open source automation software for your home," on a Raspberry Pi 2. While I use the Raspberry Pi 2, this process should work on any variant. After scouring the web, I found multiple tutorials, but none worked for me exclusively. After much experimentation, my process became an amalgam of several online resources. 
+This post shares the process I use to install [openHAB][8291-0001], the "vendor and technology agnostic open source automation software for your home," on a Raspberry Pi 2. While I use the Raspberry Pi 2, this process should work on any variant. After scouring the web, I found multiple tutorials, but none worked for me exclusively. After much experimentation, my process became an amalgam of several online resources.
 
 My tutorial assumes you have a working [Raspberry Pi][8291-0002] running the [Raspian Operating System][8291-0003] with Internet connectivity. I connect to the Raspberry Pi remotely using [SSH][8291-0004] on my Mac, but you can use the *Terminal* to follow these steps directly on the Raspberry Pi.
 
 # Very Java Version
 openHAB makes extensive use of [Java][8291-0005] and version 1.6 or higher is required. The first step is to ensure our Raspberry Pi includes a recent version of Java.
 
-`java -version`
+```
+java -version
+```
 
 The Raspberry Pi will present the version of Java installed as shown below.
 
