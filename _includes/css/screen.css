@@ -176,8 +176,8 @@ nav hr {
 }
 
 #post pre {
-  border: 0px solid #888;
-  background-color: #ddd;
+  border: 0px solid #eee;
+  background-color: #eee;
   font-size: 100%;
   padding: 0 .2em;
 }
@@ -188,8 +188,8 @@ nav hr {
 }
 
 #post code {
-  border: 0px solid #888;
-  background-color: #ddd;
+  border: 1px solid #aaa;
+  background-color: #eee;
   font-size: 85%;
   padding: 0 .2em;
 }
