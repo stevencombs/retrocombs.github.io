@@ -176,10 +176,10 @@ nav hr {
 }
 
 #post pre {
-  border: 1px solid #888;
+  border: 0px solid #888;
   background-color: #ddd;
-  padding: 0 .4em;
-  margin-bottom: 20px !important;
+  font-size: 100%;
+  padding: 0 .2em;
 }
 
 #post ul,
@@ -188,7 +188,7 @@ nav hr {
 }
 
 #post code {
-  border: 1px dotted #888;
+  border: 0px solid #888;
   background-color: #ddd;
   font-size: 85%;
   padding: 0 .2em;

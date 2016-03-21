@@ -26,11 +26,15 @@ Java HotSpot(TM) Client VM (build 25.65-b01, mixed mode)
 
 In my case, I have an install version of `1.8.0_65`. I'm good to go. If your version does not meet the requirement, use the following commands in the terminal:
 
-`sudo apt-get update`
+```
+sudo apt-get update
+```
 
 This will update your Raspbian (Debian) packages. Type the following:
 
-`sudo apt-get dist-upgrade`
+```
+sudo apt-get dist-upgrade
+```
 
 After a bit of time, the Raspian OS will update; including Java.
 
@@ -40,15 +44,21 @@ We can install openHAB from a download, but being able to install from the `apt-
 
 First we download the repository key:
 
-`wget -qO - 'https://bintray.com/user/downloadSubjectPublicKey?username=openhab' | sudo apt-key add -`
+```
+wget -qO - 'https://bintray.com/user/downloadSubjectPublicKey?username=openhab' | sudo apt-key add -
+```
 
 We now add the repository to our apt sources list:
 
-`echo "deb http://dl.bintray.com/openhab/apt-repo stable main" | sudo tee /etc/apt/sources.list.d/openhab.list`
+```
+echo "deb http://dl.bintray.com/openhab/apt-repo stable main" | sudo tee /etc/apt/sources.list.d/openhab.list
+```
 
 With the new repository in our list, we update our list of available applications:
 
-`sudo apt-get update`
+```
+sudo apt-get update
+```
 
 No errors should display and we are now ready to install openHAB from the repository.
 
@@ -56,13 +66,17 @@ No errors should display and we are now ready to install openHAB from the reposi
 
 The command below will install openHAB on the Raspberry Pi.
 
-`sudo apt-get install openhab-runtime`
+```
+sudo apt-get install openhab-runtime
+```
 
 # Start the openHAB server
 
 If all went according to plan, we can now run the openHAB server:
 
-`sudo /etc/init.d/openhab start`
+```
+sudo /etc/init.d/openhab start
+```
 
 The Raspberry Pi will display the following to verify server operation:
 
@@ -74,13 +88,17 @@ The Raspberry Pi will display the following to verify server operation:
 
 Check the status of the openHAB installation with the command below:
 
-`sudo /etc/init.d/openhab status`
+```
+sudo /etc/init.d/openhab status
+```
 
 ## Stop the openHAB server
 
 Use the command below to stop the server:
 
-`sudo /etc/init.d/openhab stop`
+```
+sudo /etc/init.d/openhab stop
+```
 
 The Raspberry Pi will display the following to verify the server has stopped:
 
