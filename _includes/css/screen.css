@@ -176,11 +176,12 @@ nav hr {
 }
 
 #post pre {
-  border: 1px solid #eee;
+  border: 1px solid #555;
   background-color: #eee;
+  text-decoration-color: #000
   font-size: 100%;
   padding: 0 .2em;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 #post ul,
