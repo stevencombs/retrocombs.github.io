@@ -116,7 +116,7 @@ The install is just the start of my openHAB journey. As I learn to control my ho
 [comment]: <> (URL: http://localhost:8080/openhab.app?sitemap=yourname)
 
 [8291-0001]: http://www.openhab.org/
-[8291-0002]: http://www.amazon.com/gp/product/B009SQQF9C/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SQQF9C&linkCode=as2&tag=stevenccom-20
+[8291-0002]: http://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias%3Dcomputers&field-keywords=raspberry+pi&linkCode=ll2&tag=stevenccom-20&linkId=2d763c65ad763020ae7df5b164423328
 [8291-0003]: https://www.raspbian.org/
 [8291-0004]: https://en.wikipedia.org/wiki/Secure_Shell
 [8291-0005]: https://java.com/download
