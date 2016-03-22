@@ -75,9 +75,15 @@ Let's use the built in Mac VNC viewer, Screen Sharing, to make the connection to
 
 From the *Finder* menu, select *Go | Connect to Server…* or use the `⌘` + `k` keyboard combination.
 
-Enter `vnc://XXX.XXX.XXX.XXX` into the Server Address text area, as shown in the image below, where `XXX.XXX.XXX.XXX` is the IP address of the Pi.
+Enter `vnc://XXX.XXX.XXX.XXX` into the Server Address text area, as shown in the image below, where `XXX.XXX.XXX.XXX` is the IP address of the Pi. In this example, the IP address is `10.0.1.100`.
 
 ![Connect to Server dialog box](http://www.stevencombs.com/images/posts/2016-03-23-connect-to-server-dialog-box.png)
+
+Click the Connect button and the dialog box below will display:
+
+![Password dialog box](http://www.stevencombs.com/images/posts/2016-03-23-password-dialog-box.png)
+
+Enter the password, choose whether or not to remember the password and then select the *Connect* button.
 
 > TROUBLESHOOTING TIP: If you cannot connect, ensure *System Preferences | Sharing | Screen Sharing |* is off, or not selected.
 
