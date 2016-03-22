@@ -83,7 +83,11 @@ Click the Connect button and the dialog box below will display:
 
 ![Password dialog box](http://www.stevencombs.com/images/posts/2016-03-23-password-dialog-box.png)
 
-Enter the password, choose whether or not to remember the password and then select the *Connect* button.
+Enter the password, choose whether or not to remember the password and then select the *Connect* button. After a second or two you will see the Raspberry Pi main display on your Mac as shown in the image below.
+
+![Password dialog box](http://www.stevencombs.com/images/posts/2016-03-23-virtual-raspberry-pi.png)
+
+You can now control the Pi using your Mac's keyboard and mouse.
 
 > TROUBLESHOOTING TIP: If you cannot connect, ensure *System Preferences | Sharing | Screen Sharing |* is off, or not selected.
 
