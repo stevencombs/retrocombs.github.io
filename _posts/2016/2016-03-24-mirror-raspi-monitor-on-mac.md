@@ -74,7 +74,7 @@ I use the built in Mac VNC viewer, **Screen Sharing**, to make the connection to
 
 > **NOTE:** Users of [Apple's Remote Desktop][1229-0005] will be able to connect to the Raspberry Pi using this configuration; however, Remote Desktop will not discover the Raspberry Pi on the network automatically. You will need to add it manually in the *All Computers* area.
 
-From the *Finder* menu, select *Go | Connect to Server…* or use the `⌘` + `k` keyboard combination.
+From the *Finder* menu, select *Go / Connect to Server…* or use the `⌘` + `k` keyboard combination.
 
 Enter `vnc://XXX.XXX.XXX.XXX` into the Server Address text area, as shown in the image below. Substitute `XXX.XXX.XXX.XXX` for the IP address of the Raspberry Pi. In this example, the IP address is `10.0.1.100`.
 
@@ -90,11 +90,11 @@ Enter the password, choose whether or not to remember the password in the keycha
 
 Use the Mac's keyboard and mouse to control the Raspberry Pi. If you look on the actual display connected to the Pi, you will notice the mouse moves in sync with your Mac mouse. Success!
 
-> TROUBLESHOOTING TIP: If you cannot connect, ensure *System Preferences | Sharing | Screen Sharing |* is off, or not selected.
+> TROUBLESHOOTING TIP: If you cannot connect, ensure *System Preferences / Sharing / Screen Sharing* is off, or not selected.
 
 # Stop Screen Sharing
 
-On the Mac, from the main menu, choose *Screen Sharing | Quick Screen Sharing* to stop mirroring the Raspberry Pi screen on the Mac.
+On the Mac, from the main menu, choose *Screen Sharing / Quick Screen Sharing* to stop mirroring the Raspberry Pi screen on the Mac.
 
 # Create a shell script
 The entire *x11vnc* command with parameters is hard to remember. Create a [shell script][1229-0006] to make it easier to start the *x11vnc* server. The single line of code shown below will create a new shell script in the home directory:
