@@ -97,7 +97,7 @@ The OTG Cloud can serve as a Wi-Fi extender. That is, you can use the device to 
 
 2. The device creates a new Wi-Fi SSID. So in effect, you create two separate networks. The OTG Cloud will not inherit the SSID from the host Wi-Fi router as an AirPort Express does. It is not a mesh whereby the extender becomes an extension of the network and utilizes the same IP address range. The OTG Cloud requests an IP address from the main router and then becomes its own DNS server: creating a whole new series of IP addresses. This setup is kludgy and very confusing. There is no way someone without some network experience is going to figure this out.
 
-I decided to keep the device in this configuration when it is attached to my home Wi-Fi. While not a true mesh network, it does allow the device to remain on my network so that it is accessible to other devices. On my Mac I use the Finder _Go_ | _Connect to Sever_ menu item and then type in:
+I decided to keep the device in this configuration when it is attached to my home Wi-Fi. While not a true mesh network, it does allow the device to remain on my network so that it is accessible to other devices. On my Mac I use the Finder _Go_ / _Connect to Sever_ menu item and then type in:
 
 `smb://10.0.1.200`
 

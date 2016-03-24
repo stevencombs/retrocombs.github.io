@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mirror the monitor connected to a Raspberry Pi on a Mac
+title: Mirror and control the monitor connected to a Raspberry Pi on a Mac
 date: 2016-03-24
 comments: yes
 categories:
