@@ -11,7 +11,7 @@ I often use the Internet sharing feature on a Mac to either create/extend a netw
 
 ![][1]
 
-Internet sharing doesn't work out of the box. You need to know the secret, and very simple, sauce. Given that I use this ubiquitous Mac feature regularly, a post was in order. Let's get started.  
+Internet sharing doesn't work out of the box. You need to know the secret, and very simple, sauce. Given that I use this ubiquitous Mac feature regularly, a post was in order. Let's get started.
 
 # Equipment Needed:
 - Mac with Wi-Fi capabilities
@@ -24,7 +24,7 @@ Internet sharing doesn't work out of the box. You need to know the secret, and v
 - Ensure the Mac is currently connected to a network via Wi-Fi
 - Connect an Ethernet cable to the Ethernet port on the back of Mac
 - Connect the other end of the of the Ethernet cable to the other Ethernet device
-- On the Mac, select _ | Preferences..._ from the Finder menu - the _System Preferences_ window will appear as shown in the image below
+- On the Mac, select _ / Preferences..._ from the Finder menu - the _System Preferences_ window will appear as shown in the image below
 
 ![][3]
 - Select the _Sharing_ option as shown in the image above - the _Sharing_ preferences pane will display as shown in the image below

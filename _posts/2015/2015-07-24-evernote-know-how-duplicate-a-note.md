@@ -20,7 +20,7 @@ Use the images and text below each to learn how to duplicate/copy an Evernote no
 ![](https://lh3.googleusercontent.com/3atprNjaAUR76CxVugGCuKSWZRGzUwarnleiAr8xGBtj=w771-h554-no)
 Steps 1 and 2 are a simple right-click of the note you wish to duplicate (copy).
 
-> As an alternative to the steps above, you can also select the note and then select the *Evernote* | *Note* | *Copy to Notebook…* pull-down menu option. After that, continue with steps 3 through 6 below.
+> As an alternative to the steps above, you can also select the note and then select the *Evernote* / *Note* / *Copy to Notebook…* pull-down menu option. After that, continue with steps 3 through 6 below.
 
 ***
 

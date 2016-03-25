@@ -1,8 +1,8 @@
 ---
 layout: post
 title: iOS user talks Android
-date: '2015-07-22 14:57'
-comments:	'yes'
+date: 2015-07-22 14:57
+comments: yes
 categories:
 	- android
 ---
@@ -36,7 +36,7 @@ Years ago, I would have worried that the app I used on my iOS device would not b
 
 Despite popular belief, Android apps are not all free. Many great apps require a pro activation. I’m okay with this as I don’t mind supporting great developers and the costs are always  minimal and comparable with the Apple App Store. There are also ways to get these pro activations for free. That’s for another post.
 
-> **NEAT ANDROID FEATURE:** You can purchase an app on the Google Play store using your computer browser and after the purchase, direct the app to a specific Android device. Go to that device and the app will be installed.
+> **NEAT ANDROID FEATURE:** App purchases on the Google Play store using your computer browser will install automatically to a selected Android device.
 
 # User interface (UI)
 Android versions prior to version 5.0 (Lollipop) were a mess. Versions after 5.0 include the [Google material design specification][18]. The Android UI is now modern, functional, bold, attractive, flat and colorful. Material design is also found in Chrome OS bringing consistency across the two platforms. This design specification is also applied to many Google online tools such as [Google Docs][19]. I've grown fond of material design. When I look over at my wife as she uses her iPad, it seems dull and dated. That is unless she loads a Google iOS app. Google is also applying this design specification to their iOS apps as well.
