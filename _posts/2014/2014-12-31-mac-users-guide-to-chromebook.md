@@ -22,7 +22,7 @@ This blog post will not be a review of this particular Chromebook. That may come
 
 In my post, I will cover the following high-level features:
 
-#TOC
+# TOC
 
 1. [Performance](#performance)
 2. [Keyboard](#keyboard)
