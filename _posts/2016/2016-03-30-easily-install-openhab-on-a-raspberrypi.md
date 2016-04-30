@@ -11,7 +11,7 @@ This post shares the process I use to install [openHAB][8291-0001], the "vendor 
 
 My tutorial assumes you have a working [Raspberry Pi][8291-0002] running the [Raspian Operating System][8291-0003] with Internet connectivity. I connect to the Raspberry Pi remotely using [SSH][8291-0004] on my Mac, but you can use the *Terminal* to follow these steps directly on the Raspberry Pi.
 
-# Very Java Version
+# Verify Java Version
 openHAB makes extensive use of [Java][8291-0005] and version 1.6 or higher is required. The first step is to ensure our Raspberry Pi includes a recent version of Java.
 
 ```
@@ -108,7 +108,7 @@ The Raspberry Pi will display the following to verify the server has stopped:
 [ ok ] Stopping openhab (via systemctl): openhab.service.
 ```
 
-# Just the start
+# Just the start...
 
 The install is just the start of my openHAB journey. As I learn to control my home with openHAB and the Raspberry Pi, I will continue to add additional instructions. For now, if this install process works for you, please drop a comment below and let me know. I'm looking forward to my openHAB experiments.
 
