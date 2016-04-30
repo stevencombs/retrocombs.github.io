@@ -17,7 +17,7 @@ Gist provides tools to archive and share your code snippets either as a link or 
 
 As you can see, the embedded Gist includes language based color syntax code and code numbering that make it easy to read and reference. Both tools are beneficial for anyone teaching and/or sharing code and code languages.
 
-Create snippets by visiting the Gist page, clicking the *New snippet* button, copying and pasting the code snippet into a form field, selecting the code language and hitting submit. 
+Create snippets by visiting the Gist page, clicking the *New snippet* button, copying and pasting the code snippet into a form field, selecting the code language and hitting submit.
 
 After the code is published, you share the code by copying a small script that you can include in a blog post (see below) or share the URL to the script page to share in an email, text or other electronic communication.
 

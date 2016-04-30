@@ -4,7 +4,7 @@ title: An iOS user talks Android
 date: 2016-04-30
 comments: yes
 categories:
-	- android
+  - android
 ---
 
 Android has come a long way in the past several years and during that time, there has been a Hatfield/McCoy divide among Android and iOS users. Until recently, the only smart phone I have used is the iPhone. Since standing in line for the first generation iPhone to my latest, the iPhone 5s, I've been firmly in the iOS camp. But then something changed.
