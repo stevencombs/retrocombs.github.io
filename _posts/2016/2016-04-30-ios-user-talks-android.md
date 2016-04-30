@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An iOS user talks Android"
+title: 'An iOS user talks Android'
 date: 2016-04-30
 comments: yes
 categories:
@@ -139,7 +139,7 @@ As of this writing, I've been using both a [Nexus 6][amazon] and an [nVidia Shie
 
 Android still has some stability and battery issues; however, while working on this review, a family member was using an iPhone to scan some documents. During the process, the app crashed and they lost their scans. As I witnessed their frustration, I thought about this review. Maybe I'm being a bit harsh on Android's stability.
 
-So which mobile operating system do I recommend? In my opinion, both can go toe-to-toe with each other as long as we are comparing apples to apples (latest versions of iOS and Android). Both have strengths over the other. Where iOS trumps is in Apples ability to control the hardware along with the operating system adding to increased stability and battery life. It is often bad hardware by third party manufactures that cause horrible Android experiences. 
+So which mobile operating system do I recommend? In my opinion, both can go toe-to-toe with each other as long as we are comparing apples to apples (latest versions of iOS and Android). Both have strengths over the other. Where iOS trumps is in Apples ability to control the hardware along with the operating system adding to increased stability and battery life. It is often bad hardware by third party manufactures that cause horrible Android experiences.
 
 While I will recommend Android devices now to my family and friends, I will always recommend they research in detail a specific Android device before purchase. Customer reviews will reveal much. It is also important the device includes the latest version of the Android operating system. I've done much of the research already and if you stay with the [Nexus][7572-0001] or [nVidia Shield][7572-0002] hardware, you should have a very good Android experience.
 
