@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An iOS user talks Android'
+title: An iOS user talks Android
 date: 2016-04-30
 comments: yes
 categories:
