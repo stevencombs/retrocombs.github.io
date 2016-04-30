@@ -119,15 +119,15 @@ The Google Play Music app now includes rudimentary podcast support; however, if 
 # Mac syncing
 When I made the switch to Android, I worried I would lose the ability to sync data with my Mac computers. There was no need to worry. Many solutions exist for seamless sync across devices. Below is a reference table that shows the data I sync and what tools I use:
 
-| Data	| Mac Application	| Android App	|
-|:----------	|:----------------	|:--------------	|
-| Bookmarks	| Chrome	| Chrome	|
-| Contacts	| Contacts	| Contacts	|
-| Calendar	| Calendar	| Calendar	|
-| Documents	| Google Drive	| Google Drive	|
-| Music	| iTunes	| iSyncr, Apple Music	|
-| Notes	| Keep, Evernote	| Keep, Evernote	|
-| Photos	| Google Photos	| Google Photos	|
+| Data      | Mac Application | Android App         |
+|:----------|:----------------|:--------------------|
+| Bookmarks | Chrome          | Chrome              |
+| Contacts  | Contacts        | Contacts            |
+| Calendar  | Calendar        | Calendar            |
+| Documents | Google Drive    | Google Drive        |
+| Music     | iTunes          | iSyncr, Apple Music |
+| Notes     | Keep, Evernote  | Keep, Evernote      |
+| Photos    | Google Photos   | Google Photos       |
 
 These tools may not be compatible with your workflow; however, they work extremely well with mine. If you have a question about this table, leave it in the comments below. Also share suggestions to sync other types of data.
 
