@@ -163,7 +163,7 @@ While I will recommend Android devices now to my family and friends, I will alwa
 [15]:	#personal-assistant
 [16]:	#conclusions
 [17]:	http://play.google.com
-[26]:   #photos
+[26]:	#photos
 [18]:	https://www.google.com/design/spec/material-design/introduction.html
 [19]:	http://docs.google.com
 [20]:	https://play.google.com/store/apps/details?id=com.google.android.launcher&hl=en
