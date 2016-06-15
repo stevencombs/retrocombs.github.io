@@ -31,7 +31,7 @@ Share URL: [http://www.stevencombs.com/about](http://www.stevencombs.com/about)
 
 ## Biography
 
-Steven B. Combs, Ph.D. is currently the campus president for the [Columbus, Indiana campus of Ivy Tech Community College](http://www.ivytech.edu/columbus). In this position he fosters community engagement and campus/site operations in the communities of Columbus, Seymour, Scottsburg, North Vernon and Nashville. Before this role, he served seven months as the interim chancellor for the previous Ivy Tech Community College – Columbus/Franklin region.
+Steven B. Combs, Ph.D. is currently the campus president for the [Columbus, Indiana campus of Ivy Tech Community College](http://www.ivytech.edu/columbus). In this position he fosters community engagement/collaboration and is responsible for campus and instructional site operations in the communities of Columbus, Seymour, Greensburg, Scottsburg, North Vernon and Nashville. Before this role, he served seven months as the interim chancellor for the previous Ivy Tech Community College – Columbus/Franklin region.
 
 Prior to these higher education executive leadership roles, Combs served as the vice chancellor for academic affairs for the Ivy Tech Community College – Columbus/Franklin region. Two years earlier, he served as dean and professor for the School of Applied Science and Engineering Technology at Ivy Tech Community College – Lafayette.
 
@@ -45,9 +45,9 @@ Before being placed on active duty, he served as a department chair and professo
 
 Combs began his academic teaching career as a graduate teaching assistant and visiting lecturer at [Murray State University][0511-005]. While pursuing his graduate degree, he also taught as an adjunct for [Paducah Community College][0511-006].
 
-Combs’ doctoral research interest was in the area of faculty development and online course curriculum and development. He has co-authored over [19 AutoCAD and 3D Studio textbooks and workbooks](http://www.amazon.com/author/stevencombs). He currently maintains a  blog at [stevencombs.com](http://www.stevencombs.com) to keep his writing skills sharp, although he is the first to admit, he is his own worst editor.
+Combs’ doctoral qualitative research interest was in the area of faculty development and online course curriculum and development. He has co-authored over [19 AutoCAD and 3D Studio textbooks and workbooks](http://www.amazon.com/author/stevencombs). He uses his blog at [stevencombs.com](http://www.stevencombs.com) to maintain his technical writing skills; although he is the first to admit that he is his own worst editor.
 
-He currently resides in Columbus with his wife Nikki who is an adjunct instructor who specializes in psychology and industrial and organizational psychology. She is a member of the adjunct faculty for Ivy Tech Community College and Indiana University Purdue University Columbus (IUPUC). Combined they have a daughter, Katherine, and two sons, Johnathan and Thomas. Their family pet is a 5 pound Chorkie named, Loki.
+He currently resides in Columbus with his wife Nikki who is an adjunct instructor who specializes in psychology and industrial and organizational psychology. She is a member of the adjunct faculty for Ivy Tech Community College and Indiana University Purdue University Columbus (IUPUC). Combined they have a daughter, Katherine, and two sons, Johnathan and Thomas. Their family pets include a 5 pound Chorkie named Loki and a 4 pound Chihuahua named Váli.
 
 [0511-001]: http://www.goarmy.com/rotc.html
 [0511-002]: http://www.transcom.mil/about/org/tcj6/
