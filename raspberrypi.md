@@ -16,12 +16,11 @@ On June 17th, I was the guest speaker for our local Chamber of Commerce TANK Tal
 Coming Soon
 
 ## My Raspberry Pi blog posts (list updates automatically)
-
-{% for post in site.categories.raspberrypi %} -
-
-<span>{{ post.date | date_to_string }} »</span>
-
-[{{ post.title }}]({{ post.url }}) {% endfor %}
+<ul id="blog-posts" class="posts">
+{% for post in site.categories.raspberrypi %}
+    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
 
 ![Getting ready for the presentation](https://scontent.ford1-1.fna.fbcdn.net/t31.0-8/13482925_10154251193643839_5171870026505777217_o.jpg)
 
