@@ -23,6 +23,8 @@ Coming Soon
 
 [{{ post.title }}]({{ post.url }}) {% endfor %}
 
+![Getting ready for the presentation](https://scontent.ford1-1.fna.fbcdn.net/t31.0-8/13482925_10154251193643839_5171870026505777217_o.jpg)
+
 ## Feedback
 
 Have a questions or want to send feedback? You can [send me email](mailto:steven.combs@gmail.com).
