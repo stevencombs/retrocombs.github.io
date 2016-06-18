@@ -5,7 +5,7 @@ comments: yes
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/embedded.svg" />
-On June 17th, I was the guest speaker for our local [Chamber of Commerce TANK Talk](https://www.facebook.com/events/1271805972849192/). I was asked to give a presentation about the Raspberry Pi and its use in physical computing, making and education. I decided to expand the presentation to include other physical computing devices such as the Arduino and a Kickstarter project. This page collects my online presentation as well as additional notes, images and links. It will also become a clearing house for additional information I will include in future Raspberry Pi presentations.
+On June 17th, I was the guest speaker for our local [Columbus area Chamber of Commerce TANK Talk](https://www.facebook.com/events/1271805972849192/). I was asked to give a presentation about the Raspberry Pi and its use in physical computing, making and education. I decided to expand the presentation to include other physical computing devices such as the Arduino and a Kickstarter project. This page collects my online presentation as well as additional notes, images and links. It will also become a clearing house for additional information I will include in future Raspberry Pi presentations.
 
 ## Presentation
 
