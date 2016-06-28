@@ -11,14 +11,21 @@ You may be looking for my [dedicated Raspberry Pi presentation page](http://www.
 
 Below are my embedded systems posts:
 
-## Arduino Projects
+## Arduino
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.arduino %}
     <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
-## Raspberry Pi Projects
+## C.H.I.P. and Pocket C.H.I.P.
+<ul id="blog-posts" class="posts">
+{% for post in site.categories.chip %}
+    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+## Raspberry Pi
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.raspberrypi %}
     <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
