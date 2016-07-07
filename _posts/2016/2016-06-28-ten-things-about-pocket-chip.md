@@ -88,6 +88,16 @@ Check out the resource below for additional calculator functions:
 
 <https://docs.python.org/3/tutorial/introduction.html>
 
+For a more traditional calculator, **try this:**
+
+In the *Terminal* type:
+
+`xcalc`
+
+Your Pocket C.H.I.P. is now old school basic calculator as shown in the image below. This one makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to [midheaventech](https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs).
+
+![xCalc on Pocket C.H.I.P.](http://www.stevencombs.com/images/posts/xCalc.png)
+
 ## Number 9: Use a full-size keyboard
 
 The [Logitech K400 keyboard](http://amzn.to/29loNc3) is an awesome external keyboard not only for a Raspberry Pi, but also the Pocket C.H.I.P. Plug the dongle into the USB port to make Pico 8 programming and use much more computer like, but with a tiny little screen.
