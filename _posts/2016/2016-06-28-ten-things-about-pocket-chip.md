@@ -94,17 +94,17 @@ In the *Terminal* type:
 
 `xcalc`
 
-Your Pocket C.H.I.P. is now old school basic calculator as shown in the image below. This one makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to [midheaventech](https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs).
+Your Pocket C.H.I.P. is now an old school basic functions calculator as shown in the image below. This application makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to [midheaventech](https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs).
 
 ![xCalc on Pocket C.H.I.P.](http://www.stevencombs.com/images/posts/xCalc.png)
 
 ## Number 9: Use a full-size keyboard
 
-The [Logitech K400 keyboard](http://amzn.to/29loNc3) is an awesome external keyboard not only for a Raspberry Pi, but also the Pocket C.H.I.P. Plug the dongle into the USB port to make Pico 8 programming and use much more computer like, but with a tiny little screen.
+The [Logitech K400 keyboard](http://amzn.to/29loNc3) is an awesome external keyboard not only for a Raspberry Pi, but also the Pocket C.H.I.P. Plug the dongle into the USB port to make Pico 8 programming easier with the tiny little screen.
 
 ## Number 10: Control the Pocket C.H.I.P. from a computer
 
-Don't want to purchase an external keyboard? Control your Pocket C.H.I.P. using your computer keyboard and trackpad/mouse. Follow my [Raspberry Pi `x11vnc` instructions](http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html). They work just as well on the C.H.I.P.
+Don't purchase an external keyboard. Control your Pocket C.H.I.P. using your computer keyboard and trackpad/mouse. Follow my [Raspberry Pi `x11vnc` instructions](http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html). They work just as well on the C.H.I.P.
 
 ![Controlling the Pocket C.H.I.P. via x11vnc](https://lh3.googleusercontent.com/mLeA1bFTLZkzlWfV-QaG3OB5-438GbNNd2GiNcYbj6DvGYhMATZbbUvL0A2jCKR5_Ab02fagGrgeRPh2naC2qPx-y9WSEo2q3G-iJd5_by_TZDs7NmLTvX6iqqorpxT1PLXh0tGk1ITUNRvPLGCiR0Bull1EL14Mfq3P-w0hBf4wRsU2ANgOK9kkeex11xm1dwSsNAInMZFSckKgZ2Bmyhf-f-v_z6CNzqRo5NiqWs57FGPQRHNeMdPCsbBWlfhG6p7tB0pu-1R-G2cbsvJEMwY2E39CipwHp5_q9xtODNm1GxxRDSoAzr3pauRTRoQ-VT7IkJIpfkGTMil8nyOR2y16GpfVIsDIP3apTQYR-FHxXaTLaYJYjtLQaXh4KxrObBvT46J0y3mKghW8L12mn8iidv1R5vNwDbwUOGog7k_dDuwbr90-JHu3b9HkT8YenAp2yZv_efN0D4Nh6vuuMMdEI5dij7MxndbkuTIrBDzv6W4TndySD5zOVxvFmX10uFW5V-D4TsG8YvCiUhYdGbFdgJ8xzmRDl84HpAT-pQhJcavPwp5VsX2cvfXVw0-q8hdMqLQEOJB3uOJf5U_dGfsNUUeutR-f=w960-h680-no)
 
@@ -122,11 +122,11 @@ You can modify the default home screen icons and launcher. Use the visual instru
 
 <http://imgur.com/gallery/J8Tqo>
 
-Be advised that this is till a bit of a hack. Next Thing is working on official documentation/process.
+Be advised that this is still a bit of a hack. Next Thing is working on an official implementation.
 
 ### Add a speaker: (bmjohnsn from the BBS)
 
-It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with this clever little soldering hack, you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
+It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with [this clever little soldering hack](https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511), you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
 
 ### Emulate games: (bmjohnsn from the BBS)
 
@@ -134,7 +134,7 @@ bmjohnsn recommends this Nintendo-centric retro gaming link:
 
 https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
 
-However, I'm more of an 80s gaming retro fan and am anxioulsy awaiting some [VICE](http://vice-emu.sourceforge.net/) support for Commodore computing. How awesome would that be?
+However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE](http://vice-emu.sourceforge.net/) support for Commodore computing. How awesome would that be?
 
 ## Did I miss anything? 
 
