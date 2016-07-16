@@ -120,6 +120,20 @@ Watch the original Star Wars story unfold on your Pocket C.H.I.P. **Try this:** 
 
 ## Bonus tips from the Pocket C.H.I.P. community
 
+### WARNING TIPS 
+
+Thanks to [senkun](https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs) for these tips.
+
+> Don't peel off the plastic film off the super clicky buttons. The film holds the buttons in place.
+
+and
+
+> When charging, be careful when plugging and unplugging the micro USB plug. On some units the connector on the CHIP isn't soldered properly and may just get ripped off.
+
+I felt it important to add these two warnings so new owners have a good first experience and realize that these devices can be a bit fragile if not handled correctly. 
+
+When my Pocket C.H.I.P. first arrived, I too wondered if I should peel off the keyboard plastic covering, but quickly decided against. New owners might consider doing this and this would not be good!
+
 ### Customize the home screen: (ejamer from the BBS)
 
 You can modify the default home screen icons and launcher. Use the visual instructions found at:
