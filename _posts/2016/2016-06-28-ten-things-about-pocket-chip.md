@@ -7,7 +7,7 @@ categories:
   - chip
 ---
   
-I've had some fun playing with the Pocket C.H.I.P. over the past week and while I do plan to write a full review, for now, I have ten things to share that might be of interest to new users of the the geekiest gadget I have ever owned.
+I've had some fun playing with the Pocket C.H.I.P. over the past week and while I do plan to write a full review, for now, I have ten things to share that might be of interest to new users of the geekiest gadget I have ever owned.
 
 ![Pocket C.H.I.P.](http://www.stevencombs.com/images/posts/pocket_chip.jpg)
 
@@ -19,7 +19,7 @@ The Pocket C.H.I.P. has a built in browser called `surf`.
 
 `surf google.com` 
 
-The Google search page will load. You will most likely have to scroll up/down and left/right to see the page. This is a very rudimentary browser with no user interface save for the scroll bars. In a pinch though, it could be very useful. To exit the browser, you return to the *Terminal* and use the ctrl + 'z' keyboard combination.
+The Google search page will load. You will most likely have to scroll up/down and left/right to see the page. This is a very rudimentary browser with no user interface save for the scroll bars. In a pinch though, it is very useful. To exit the browser, use the ctrl + 'q' keyboard combination.
 
 ## Number 2: Use a Terminal browser
 
@@ -82,7 +82,11 @@ The python prompt will appear. Type:
 
 Python will display the sum. To exit the Python interpreter, type:
 
-`ctrl` + `z` 
+`ctrl` + `d`
+
+or
+
+`ctrl` + `q` to exit the *Terminal* back to the home screen. {Thanks to Adam Higerd for the details and correction!}
 
 Check out the resource below for additional calculator functions: 
 
@@ -135,6 +139,12 @@ bmjohnsn recommends this Nintendo-centric retro gaming link:
 https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
 
 However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE](http://vice-emu.sourceforge.net/) support for Commodore computing. How awesome would that be?
+
+### Install Doom and a launch Icon to the home screen:
+
+The official Next Thing Co. blog now provides instruction to install Doom and include a launch icon to the home screen. It's a bit of a hack, but does show active development and is a fun way to learn more about your little hand held Linux box.
+
+[Install Doom & give it an icon on the home screen](http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/)
 
 ## Did I miss anything? 
 
