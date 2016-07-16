@@ -154,6 +154,8 @@ https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
 
 However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE](http://vice-emu.sourceforge.net/) support for Commodore computing. How awesome would that be?
 
+**UPDATE:** [The Rift Conspiracy](http://www.rift.dk/) provides [instructions to download and configure the VICE emulator](http://www.rift.dk/blog/run-vice-on-your-pocketchip) for the Pocket C.H.I.P. I've not tried, but hope to do so soon.
+
 ### Install Doom and a launch Icon to the home screen:
 
 The official Next Thing Co. blog now provides instruction to install Doom and include a launch icon to the home screen. It's a bit of a hack, but does show active development and is a fun way to learn more about your little hand held Linux box.
