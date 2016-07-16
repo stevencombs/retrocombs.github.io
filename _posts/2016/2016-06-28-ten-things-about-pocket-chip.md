@@ -154,7 +154,9 @@ https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
 
 However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE](http://vice-emu.sourceforge.net/) support for Commodore computing. How awesome would that be?
 
-**UPDATE:** [The Rift Conspiracy](http://www.rift.dk/) provides [instructions to download and configure the VICE emulator](http://www.rift.dk/blog/run-vice-on-your-pocketchip) for the Pocket C.H.I.P. I've not tried, but hope to do so soon.
+**UPDATE:** [The Rift Conspiracy](http://www.rift.dk/) provides [instructions to download and configure the VICE emulator](http://www.rift.dk/blog/run-vice-on-your-pocketchip) for the Pocket C.H.I.P. I've installed (see image below), but have not tried any games or applications yet. I hope to do so soon.
+
+![VICE on Pocket C.H.I.P.](http://www.stevencombs.com/images/posts/vice-on-pchip.png)
 
 ### Install Doom and a launch Icon to the home screen:
 
