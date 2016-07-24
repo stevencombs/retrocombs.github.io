@@ -9,7 +9,7 @@ categories:
   
 I've had some fun playing with the Pocket C.H.I.P. over the past week and while I do plan to write a full review, for now, I have ten things to share that might be of interest to new users of the geekiest gadget I have ever owned.
 
-![Pocket C.H.I.P.](http://www.stevencombs.com/images/posts/pocket_chip.jpg)
+![Pocket C.H.I.P.][image-1]
 
 ## Number 1: A browser is built in
 
@@ -27,10 +27,10 @@ Download a *Terminal* text-based browser to provide quick access to information 
 
 **Try this:** Install `elinks` using the following *Terminal* commands:
 
-```
+\`\`\`
 sudo apt-get update
-sudo apt-get install elinks`
-```
+sudo apt-get install elinks\`
+\`\`\`
 
 When the installation is complete **try this:** 
 
@@ -38,11 +38,11 @@ When the installation is complete **try this:**
 
 The *Terminal* will display this site in all its text-based glory. Use the tab and arrow keys to navigate.
 
-## Number 3: Help is available 
+## Number 3: Help is available
 
-There is an excellent online bulletin board system (BBS) full of users and Next Computing staff to provide assistance and support. It is located at <https://bbs.nextthing.co/>. The community is quick to answer questions. Be sure to search the BBS before you post a question. You will most likely find an answer immediately. Before heading to the BBS though, review the documentation at: 
+There is an excellent online bulletin board system (BBS) full of users and Next Computing staff to provide assistance and support. It is located at [https://bbs.nextthing.co/][1]. The community is quick to answer questions. Be sure to search the BBS before you post a question. You will most likely find an answer immediately. Before heading to the BBS though, review the documentation at: 
 
-<http://docs.getchip.com/pocketchip.html>
+[http://docs.getchip.com/pocketchip.html][2]
 
 > The BBS community has been instrumental into the quality and accuracy of this post. Be sure to see the bonus "things to know" at the bottom of this post. Many "things to know" were provided by this group and I update this post frequently based on their suggestions. You may want to return in a day or two to see what I add.
 
@@ -52,21 +52,21 @@ Do not hit the home button to get back to other apps or the *Terminal*. The incl
 
 `ctrl` + `tab`
 
-## Number 5: It's a really tiny screen 
+## Number 5: It's a really tiny screen
 
 Not all software will display properly on the small LCD screen and you may not be able to access all UI elements. There is no pinch and zoom currently and this is likely not an option. One option would be to have a utility that will scale the screen in some way so as to access all controls. Keeping my fingers crossed that some enterprising developer will find a way to take care of this.
 
-## Number 6: Calibrate the touch screen 
+## Number 6: Calibrate the touch screen
 
 If your resistive touch screen (not capacitance like screens found on tablets and phones) is giving you fits, you can calibrate it using these instructions: 
 
-<http://www.chip-community.org/index.php/Troubleshooting#Calibrating_Touchscreen_on_PocketChip>
+[http://www.chip-community.org/index.php/Troubleshooting#Calibrating\_Touchscreen\_on\_PocketChip][3]
 
 ## Number 7: Play retro style games and learn to program
 
 Pico 8 is a fabulous app that not only let's you play retro style games, but also learn/teach basic programming skills using the Lua programming language. Check out these excellent resources to get started: 
 
-<https://github.com/felipebueno/awesome-PICO-8>
+[https://github.com/felipebueno/awesome-PICO-8][4]
 
 ## Number 8: Use Pocket C.H.I.P. as a calculator
 
@@ -90,7 +90,7 @@ or
 
 Check out the resource below for additional calculator functions: 
 
-<https://docs.python.org/3/tutorial/introduction.html>
+[https://docs.python.org/3/tutorial/introduction.html][5]
 
 For a more traditional calculator, **try this:**
 
@@ -98,31 +98,31 @@ In the *Terminal* type:
 
 `xcalc`
 
-Your Pocket C.H.I.P. is now an old school basic functions calculator as shown in the image below. This application makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to [midheaventech](https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs).
+Your Pocket C.H.I.P. is now an old school basic functions calculator as shown in the image below. This application makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to [midheaventech][6].
 
-![xCalc on Pocket C.H.I.P.](http://www.stevencombs.com/images/posts/xCalc.png)
+![xCalc on Pocket C.H.I.P.][image-2]
 
 ## Number 9: Use a full-size keyboard
 
-The [Logitech K400 keyboard](http://amzn.to/29loNc3) is an awesome external keyboard not only for a Raspberry Pi, but also the Pocket C.H.I.P. Plug the dongle into the USB port to make Pico 8 programming easier with the tiny little screen.
+The [Logitech K400 keyboard][7] is an awesome external keyboard not only for a Raspberry Pi, but also the Pocket C.H.I.P. Plug the dongle into the USB port to make Pico 8 programming easier with the tiny little screen.
 
 ## Number 10: Control the Pocket C.H.I.P. from a computer
 
-Don't purchase an external keyboard. Control your Pocket C.H.I.P. using your computer keyboard and trackpad/mouse. Follow my [Raspberry Pi `x11vnc` instructions](http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html). They work just as well on the C.H.I.P.
+Don't purchase an external keyboard. Control your Pocket C.H.I.P. using your computer keyboard and trackpad/mouse. Follow my [Raspberry Pi `x11vnc` instructions][8]. They work just as well on the C.H.I.P.
 
-![Controlling the Pocket C.H.I.P. via x11vnc](https://lh3.googleusercontent.com/mLeA1bFTLZkzlWfV-QaG3OB5-438GbNNd2GiNcYbj6DvGYhMATZbbUvL0A2jCKR5_Ab02fagGrgeRPh2naC2qPx-y9WSEo2q3G-iJd5_by_TZDs7NmLTvX6iqqorpxT1PLXh0tGk1ITUNRvPLGCiR0Bull1EL14Mfq3P-w0hBf4wRsU2ANgOK9kkeex11xm1dwSsNAInMZFSckKgZ2Bmyhf-f-v_z6CNzqRo5NiqWs57FGPQRHNeMdPCsbBWlfhG6p7tB0pu-1R-G2cbsvJEMwY2E39CipwHp5_q9xtODNm1GxxRDSoAzr3pauRTRoQ-VT7IkJIpfkGTMil8nyOR2y16GpfVIsDIP3apTQYR-FHxXaTLaYJYjtLQaXh4KxrObBvT46J0y3mKghW8L12mn8iidv1R5vNwDbwUOGog7k_dDuwbr90-JHu3b9HkT8YenAp2yZv_efN0D4Nh6vuuMMdEI5dij7MxndbkuTIrBDzv6W4TndySD5zOVxvFmX10uFW5V-D4TsG8YvCiUhYdGbFdgJ8xzmRDl84HpAT-pQhJcavPwp5VsX2cvfXVw0-q8hdMqLQEOJB3uOJf5U_dGfsNUUeutR-f=w960-h680-no)
+![Controlling the Pocket C.H.I.P. via x11vnc][image-3]
 
 ## Bonus: Star Wars
 
 Watch the original Star Wars story unfold on your Pocket C.H.I.P. **Try this:** in the Terminal type: `sudo apt-get update`, followed by `sudo apt-get install telnet` followed by `telnet towel.blinkenlights.nl`. Use ctrl + 'j' to close the telnet session and ctrl + 'l' to clear the *Terminal*.
 
-![Star Wars on the C.H.I.P.](https://lh3.googleusercontent.com/cFUGmmQh0EzBBCwFvnsbrvE22fWpOfyMehtge99keeoKHBLP0PmV-X0DHPhiAm8E718KGb2Z4asueGfxzRWYvroox1xig1cJe5Wozb3JkiESyg5j5jAenuP0ViCgvt97X2kXUs75UXuqk0wX3RrprDdnIfLlqIjCy-eov_WHbLTm4F-z0qH4mPrD8EY9ZaMpQifP0MdZzx5ulPb4ihQ9yt1q32oIimhdzEPog-v_CVizlZycYhBp05IpWzyZrcoM4-EPIcV3qaAHnLDt_wxnde_pNuxG5857fm761Ldkp7mpy1lnySJh0QcoZWkuklYuQLbGz5K2OI1_qFGNoMoSetDUMWEuGGh4ymPiVh7ZRVCruJfFHL8jUvGAHOVck9NSQpReGybTfLSSi3P4EicbQowmGEQcZPgMREUnfRpNihysiP03CCq6i64MrKRlqBjhDW2h_nxPO0s_OTVEhuNW0EZbFckxsnzG0ny34M5KXr8wBQemmXqViDwjUZuaIzdt9wXvL0TqOv39g8xAkGIM1rEa5lWugm9jHZcBsHRyQtc9wmyLpsV048WPYqmmsEhNRu-fOhUeJBCoqEeEmXGatY1qJyAaJyaV=w960-h545-no)
+![Star Wars on the C.H.I.P.][image-4]
 
 ## Bonus tips from the Pocket C.H.I.P. community
 
-### WARNING TIPS 
+### WARNING TIPS
 
-Thanks to [senkun](https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs) for these tips.
+Thanks to [senkun][9] for these tips.
 
 > Don't peel off the plastic film off the super clicky buttons. The film holds the buttons in place.
 
@@ -138,13 +138,13 @@ When my Pocket C.H.I.P. first arrived, I too wondered if I should peel off the k
 
 You can modify the default home screen icons and launcher. Use the visual instructions found at:
 
-<http://imgur.com/gallery/J8Tqo>
+[http://imgur.com/gallery/J8Tqo][10]
 
 Be advised that this is still a bit of a hack. Next Thing is working on an official implementation.
 
 ### Add a speaker: (bmjohnsn from the BBS)
 
-It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with [this clever little soldering hack](https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511), you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
+It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with [this clever little soldering hack][11], you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
 
 ### Emulate games: (bmjohnsn from the BBS)
 
@@ -152,18 +152,40 @@ bmjohnsn recommends this Nintendo-centric retro gaming link:
 
 https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
 
-However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE](http://vice-emu.sourceforge.net/) support for Commodore computing. How awesome would that be?
+However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE][12] support for Commodore computing. How awesome would that be?
 
-**UPDATE:** [The Rift Conspiracy](http://www.rift.dk/) provides [instructions to download and configure the VICE emulator](http://www.rift.dk/blog/run-vice-on-your-pocketchip) for the Pocket C.H.I.P. I've installed (see image below), but have not tried any games or applications yet. I hope to do so soon.
+**UPDATE:** [The Rift Conspiracy][13] provides [instructions to download and configure the VICE emulator][14] for the Pocket C.H.I.P. I've installed (see image below), but have not tried any games or applications yet. I hope to do so soon.
 
-![VICE on Pocket C.H.I.P.](http://www.stevencombs.com/images/posts/vice-on-pchip.png)
+![VICE on Pocket C.H.I.P.][image-5]
 
 ### Install Doom and a launch Icon to the home screen:
 
 The official Next Thing Co. blog now provides instruction to install Doom and include a launch icon to the home screen. It's a bit of a hack, but does show active development and is a fun way to learn more about your little hand held Linux box.
 
-[Install Doom & give it an icon on the home screen](http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/)
+[Install Doom & give it an icon on the home screen][15]
 
-## Did I miss anything? 
+## Did I miss anything?
 
 Have something else I should add to the list that other Pocket C.H.I.P. owners should know? Drop in the comments below. I would love to read your suggestions.
+
+[1]:	https://bbs.nextthing.co/
+[2]:	http://docs.getchip.com/pocketchip.html
+[3]:	http://www.chip-community.org/index.php/Troubleshooting#Calibrating_Touchscreen_on_PocketChip
+[4]:	https://github.com/felipebueno/awesome-PICO-8
+[5]:	https://docs.python.org/3/tutorial/introduction.html
+[6]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs
+[7]:	http://amzn.to/29loNc3
+[8]:	http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
+[9]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs
+[10]:	http://imgur.com/gallery/J8Tqo
+[11]:	https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511
+[12]:	http://vice-emu.sourceforge.net/
+[13]:	http://www.rift.dk/
+[14]:	http://www.rift.dk/blog/run-vice-on-your-pocketchip
+[15]:	http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/
+
+[image-1]:	http://www.stevencombs.com/images/posts/chip/pocket_chip.jpg
+[image-2]:	http://www.stevencombs.com/images/posts/chip/xCalc.png
+[image-3]:	https://lh3.googleusercontent.com/mLeA1bFTLZkzlWfV-QaG3OB5-438GbNNd2GiNcYbj6DvGYhMATZbbUvL0A2jCKR5_Ab02fagGrgeRPh2naC2qPx-y9WSEo2q3G-iJd5_by_TZDs7NmLTvX6iqqorpxT1PLXh0tGk1ITUNRvPLGCiR0Bull1EL14Mfq3P-w0hBf4wRsU2ANgOK9kkeex11xm1dwSsNAInMZFSckKgZ2Bmyhf-f-v_z6CNzqRo5NiqWs57FGPQRHNeMdPCsbBWlfhG6p7tB0pu-1R-G2cbsvJEMwY2E39CipwHp5_q9xtODNm1GxxRDSoAzr3pauRTRoQ-VT7IkJIpfkGTMil8nyOR2y16GpfVIsDIP3apTQYR-FHxXaTLaYJYjtLQaXh4KxrObBvT46J0y3mKghW8L12mn8iidv1R5vNwDbwUOGog7k_dDuwbr90-JHu3b9HkT8YenAp2yZv_efN0D4Nh6vuuMMdEI5dij7MxndbkuTIrBDzv6W4TndySD5zOVxvFmX10uFW5V-D4TsG8YvCiUhYdGbFdgJ8xzmRDl84HpAT-pQhJcavPwp5VsX2cvfXVw0-q8hdMqLQEOJB3uOJf5U_dGfsNUUeutR-f=w960-h680-no
+[image-4]:	https://lh3.googleusercontent.com/cFUGmmQh0EzBBCwFvnsbrvE22fWpOfyMehtge99keeoKHBLP0PmV-X0DHPhiAm8E718KGb2Z4asueGfxzRWYvroox1xig1cJe5Wozb3JkiESyg5j5jAenuP0ViCgvt97X2kXUs75UXuqk0wX3RrprDdnIfLlqIjCy-eov_WHbLTm4F-z0qH4mPrD8EY9ZaMpQifP0MdZzx5ulPb4ihQ9yt1q32oIimhdzEPog-v_CVizlZycYhBp05IpWzyZrcoM4-EPIcV3qaAHnLDt_wxnde_pNuxG5857fm761Ldkp7mpy1lnySJh0QcoZWkuklYuQLbGz5K2OI1_qFGNoMoSetDUMWEuGGh4ymPiVh7ZRVCruJfFHL8jUvGAHOVck9NSQpReGybTfLSSi3P4EicbQowmGEQcZPgMREUnfRpNihysiP03CCq6i64MrKRlqBjhDW2h_nxPO0s_OTVEhuNW0EZbFckxsnzG0ny34M5KXr8wBQemmXqViDwjUZuaIzdt9wXvL0TqOv39g8xAkGIM1rEa5lWugm9jHZcBsHRyQtc9wmyLpsV048WPYqmmsEhNRu-fOhUeJBCoqEeEmXGatY1qJyAaJyaV=w960-h545-no
+[image-5]:	http://www.stevencombs.com/images/posts/chip/vice-on-pchip.png "VICE on Pocket C.H.I.P."

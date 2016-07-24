@@ -3,12 +3,63 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<integer>0</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>467936794</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>1999-01-01-markdown-test-post.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>467936794</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-467936794.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+		</dict>
+		<key>sheetOrder</key>
+		<real>491067731.93206799</real>
+		<key>userIconName</key>
+		<real>491067938.895136</real>
+	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>1999-01-01-markdown-test-post.md</string>
 		</array>
 	</array>
+	<key>sheetOrder</key>
+	<string>modificationDate</string>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>userIconName</key>
+	<string>Calendar1</string>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+			<integer>3</integer>
+		</dict>
+		<key>userIconName</key>
+		<dict>
+			<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+			<integer>11</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>
