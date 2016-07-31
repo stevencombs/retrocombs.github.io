@@ -7,28 +7,28 @@ categories:
   - chip
 ---
 
-In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out *Happy Holidays* kits to their users. The kit included Project Fi building bricks. Many folks online inaccurately called them LEGO bricks despite the fact that they are definitely not LEGO brand. You can tell because they have “fi” on the stud and the quality is not up to LEGO manufacturing standards.
+In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out *Happy Holidays* kits to their users. Inside the kit were Project Fi building bricks. Many folks online inaccurately called them LEGO bricks. These bricks are definitely not manufactured by LEGO. They have “fi” on the stud and the quality is not up to LEGO manufacturing standards.
 
 ![][image-1]
 
-The *Happy Holidays* kit was a followup to the [Project Fi welcome kits][2] that were sent out to early adopters of Project Fi. The intent of the *Happy Holidays* kit is to build a stand for a Nexus 6 phone, the only phone available on Project Fi at that time. You can see their design in the image below.
+The *Happy Holidays* kit is a followup to the [Project Fi welcome kits][2] that were sent out to early adopters of Project Fi. Using bricks in the *Happy Holidays* kit, you build a stand for a Nexus 6 phone, the only phone available on Project Fi at that time. You can see Google's design in the image below.
 
 ![][image-2]
 
-I could never bring myself to break open the pack. I really didn’t need a stand for my Nexus 6 so the kit remained on my shelf until today. I was sitting at my desk and trying out a [Logitech K400 plus keyboard][3] with my Pocket C.H.I.P. Normally I place a pencil in one of the provided holes to support the Pocket C.H.I.P. in a vertical position. On this day I couldn’t find a pencil. Instead, I stumbled upon the Project Fi *Happy Holidays* kit. I had a few minutes and wondered if I could quickly build a stand for my Pocket C.H.I.P. 
+I could never bring myself to break open the pack. I didn’t need a stand for my Nexus 6 so the kit remained on my shelf until today. I was sitting at my desk and trying out a [Logitech K400 plus keyboard][3] with my Pocket C.H.I.P. Normally, I place a pencil in one of the provided holes to support the Pocket C.H.I.P. in a vertical position. I couldn’t find a pencil. Instead, I stumbled upon the Project Fi *Happy Holidays* kit. I wondered if I could quickly build a stand for my Pocket C.H.I.P.
 
-For the first time, I broke open the bag of bricks and began building. To my surprise, I was able to quickly create a stand for my Pocket C.H.I.P. that was both functional and good looking. Well, as good looking as you can make with the bricks and colors provided. Without further ado, I present what I call my *Pocket C.H.I.P. Building Brick Dock*.
+For the first time, I broke open the bag of bricks and began building. To my surprise, I was able to quickly create a stand for my Pocket C.H.I.P. that was both functional and good looking. Well, as good looking as the bricks and colors provided allow. I now present what I call the *Pocket C.H.I.P. Building Brick Dock*. Even if you do not have the Project Fi kit, this bock can easily be built using LEGO bricks.
 
 Below you will find an image gallery with descriptions beneath each image. If you have any questions or comments, feel free to leave them at the end of the post.
 
 ![][image-3]
-The Pocket C.H.I.P. Building Brick Dock complete with a [Logitech Keyboard][4] and a [Music Bullet portable speaker][5]. Yes, that's a C.H.I.P. to the left.
+The *Pocket C.H.I.P. Building Brick Dock* complete with a [Logitech Keyboard][4] and a [Music Bullet portable speaker][5]. Yes, that's a C.H.I.P. to the left.
 
 ![][image-4]
 Front view with Pocket C.H.I.P. firmly in place and balanced nicely so it does not tip forward or backward.
 
 ![][image-5]
-Side view of my stair-step design. The bricks provided do not allow many design options.
+Side view of my stair-step design. The Project Fi brick selections do not provide many design options.
 
 ![][image-6]
 In this image you can see the back of the dock as well as “fi” on the top of each stud. Color variations in the bricks provide a bit of visual interest.
@@ -46,7 +46,7 @@ Detail view of the angled resting surface and interior.
 Back view of the dock.
 
 ![][image-11]
-I slide the Pocket C.H.I.P. into the dock. I was surprised how close the width tolerance of the Pocket C.H.I.P. was to my design. It really does fit like a glove. Made me wonder if the folks at Next Thing Co. were LEGO fans and actually made the width specifically for this type application.
+I slide the Pocket C.H.I.P. into the dock. It is surprising how close the width tolerance of the Pocket C.H.I.P. was to my design. It really does fit like a glove. This made me wonder if the folks at Next Thing Co. are LEGO fans and actually made the width specifically for this type application.
 
 ![][image-12]
 I built in an integrated V shape to provide access to, and visually point out, the home/power button.
@@ -63,7 +63,7 @@ I built in an integrated V shape to provide access to, and visually point out, t
 [image-4]: http://www.stevencombs.com/images/posts/chip/dock4.jpg
 [image-5]: http://www.stevencombs.com/images/posts/chip/dock5.jpg
 [image-6]: http://www.stevencombs.com/images/posts/chip/dock6.jpg
-[image-7]: http://www.stevencombs.com/images/posts/chip/dock2.jpg
+[image-7]: http://www.stevencombs.com/images/posts/chip/dock7.jpg
 [image-8]: http://www.stevencombs.com/images/posts/chip/dock8.jpg
 [image-9]: http://www.stevencombs.com/images/posts/chip/dock9.jpg
 [image-10]:	http://www.stevencombs.com/images/posts/chip/dock10.jpg
