@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ‘Project Fi bricks meet Pocket C.H.I.P.’
-date: ‘July 30, 2016’
-comments: ‘yes’
+title: 'Project Fi bricks meet Pocket C.H.I.P.'
+date: 'July 30, 2016'
+comments: 'yes'
 categories:
   - chip
 ---
