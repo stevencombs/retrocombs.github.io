@@ -7,7 +7,7 @@ categories:
   - chip
 ---
 
-In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out *Happy Holidays* kits to their users. The kit included Project Fi building bricks. Many online inaccurately called them LEGO bricks despite the face that they are definitely not LEGO brand. You can tell because they have “fi” on the stud and the quality of each brick is not up to LEGO manufacturing standards.
+In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out *Happy Holidays* kits to their users. The kit included Project Fi building bricks. Many folks online inaccurately called them LEGO bricks despite the fact that they are definitely not LEGO brand. You can tell because they have “fi” on the stud and the quality is not up to LEGO manufacturing standards.
 
 ![][image-1]
 
@@ -15,9 +15,9 @@ The *Happy Holidays* kit was a followup to the [Project Fi welcome kits][2] that
 
 ![][image-2]
 
-I could never bring myself to break open the pack. I really didn’t need a stand for my Nexus 6 so the kit remained on my shelf until today. I was sitting at my desk and trying out a [Logitech K400 plus keyboard][3] with my Pocket C.H.I.P. Normally I place a pencil in one of the provided holes to support the Pocket C.H.I.P. in a vertical position. On this day I couldn’t find a pencil in my office. Instead, I stumbled upon the Project Fi *Happy Holidays* kit. I had a few minutes and wondered if I could quickly build a stand for my Pocket C.H.I.P. 
+I could never bring myself to break open the pack. I really didn’t need a stand for my Nexus 6 so the kit remained on my shelf until today. I was sitting at my desk and trying out a [Logitech K400 plus keyboard][3] with my Pocket C.H.I.P. Normally I place a pencil in one of the provided holes to support the Pocket C.H.I.P. in a vertical position. On this day I couldn’t find a pencil. Instead, I stumbled upon the Project Fi *Happy Holidays* kit. I had a few minutes and wondered if I could quickly build a stand for my Pocket C.H.I.P. 
 
-For the first time, I broke open the bag of bricks and began building. To my surprise, I was able to quickly create a stand for my Pocket C.H.I.P. that was both functional and good looking. Well, as good looking as you can make with the bricks and colors provided. Without further ado, I present what I call my Pocket C.H.I.P. Building Brick Dock.
+For the first time, I broke open the bag of bricks and began building. To my surprise, I was able to quickly create a stand for my Pocket C.H.I.P. that was both functional and good looking. Well, as good looking as you can make with the bricks and colors provided. Without further ado, I present what I call my *Pocket C.H.I.P. Building Brick Dock*.
 
 Below you will find an image gallery with descriptions beneath each image. If you have any questions or comments, feel free to leave them at the end of the post.
 
