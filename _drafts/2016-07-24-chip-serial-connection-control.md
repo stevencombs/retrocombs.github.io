@@ -47,22 +47,51 @@ This is where it gets a bit tricky, so follow closely. Load the *Terminal* appli
 
 `ls /dev/tty*`
 
-You are likely to see a long list of devices similar to the image below. 
+You are likely to see a long list of *tty* devices similar to the image below. 
 
+![TTY Devices][image-5]
 
+Most likely, the device you are looking for is not on the current page. Use the arrow keys and scroll up. You are looking for a device that has the following format:
 
+`/dev/tty.usbmodemXXXX` where XXXX is a four digit number
+
+Write down that four digit number, or better yet, write that entire line with the four digit numbers. In my case, I have the following serial device name:
+
+`/dev/tty.usbmodem2623
+`
 # Connect using a Serial Terminal
 
-The Mac has a serial terminal built-in called `screen` and we will use this to make a connection to the C.H.I.P. so we can issue Terminal commands.
+The Mac has a serial connection command built-in called `screen` and we will use the `screen` command to make a serial connection to the C.H.I.P. so we can issue terminal commands on the C.H.I.P. without the necessity of having it attached to a network.
 
-`screen /dev/tty.usbmodem2413 115200`
+* Use the command below to establish a serial connection to the C.H.I.P. using the USB cable:  
+	  
+	`screen /dev/tty.usbmodem2623 115200`
+
+> We add the 115200 (to represent 115,200bps) at the end of the command to establish the connection speed between the Mac and the C.H.I.P.
+
+If the connection is successful, the C.H.I.P. will promote you for a username and password. The defaults are listed below:
 
 username: `root`
 password: `chip`
 
+After the login process you should have the prompt shown in the image below:
+
+![A successful serial connection][image-6]
+
+With this serial connection, you can now issue any *Terminal* command you could during an SSH connection to the C.H.I.P. I obviously won’t go into a along discussion of the possibilities at this point; however, I do want to share two very useful things we can do with the C.H.I.P. and this serial connection:
+
+1. Connect the C.H.I.P. to Wi-Fi 
+2. Determine the C.H.I.P. IP address
+
+Once you do these two things you can untether your C.H.I.P. from your Mac and make a connection via SSH to administer it remotely .
+
 # Connect C.H.I.P. to Wi-Fi
 
+To connect your C.H.I.P. to your Wi-Fi network, first see that your C.H.I.P. can find your network by scanning the Wi-Fi spectrum using the command below:
+
 `nmcli device wifi list`
+
+If you see the name of your Wi-Fi network (along with others depending on the proximity to your neighbors), you are ready to make a connection using the command below. Remember to make the substitutions and exclude the parenthesis.
 
 `sudo nmcli device wifi connect '(your wifi network name/SSID)' password '(your wifi password)' ifname wlan0`
 
@@ -80,3 +109,5 @@ password: `chip`
 [image-2]:	http://www.stevencombs.com/images/posts/chip/chip-jumper-pins.jpg
 [image-3]:	http://www.stevencombs.com/images/posts/chip/flashing.png
 [image-4]:	http://www.stevencombs.com/images/posts/chip/flashing-success.png
+[image-5]:	http://www.stevencombs.com/images/posts/chip/tty-devices.png
+[image-6]:	http://www.stevencombs.com/images/posts/chip/serial-connection.png
