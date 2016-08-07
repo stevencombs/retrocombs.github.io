@@ -18,23 +18,17 @@ Before a C.H.I.P. will work out of the box with a USB OTG connection, you need t
 * Navigate to the C.H.I.P. Flasher page at: [http://flash.getchip.com/][4]. Chrome will prompt you to install the Flasher application. 
 * Click through to install.
 * Once the Flasher is installed, the Flasher page will present several version of the C.H.I.P. OS as shown in the image below:  
-	  
 	![C.H.I.P. Flasher Page][image-1]
 
 * Before you flash the C.H.I.P., place a jumper between the C.H.I.P. FEL and GRND pins as shown in the image below:   
-	  
 	![Place jumper on C.H.I.P. to flash][image-2]  
-	  
 	**TIP:** If you don't have a jumper wire, you can use a paper clip or a pipe cleaner.
 
 * Use a microUSB cable and plug the micro connector into the C.H.I.P. and the standard USB connector into the Mac.
 * On the Flasher web page, click the image to flash. The C.H.I.P. Flasher application will load and begin the flash process as shown in the image below:  
-	  
 	![Flashing the C.H.I.P.][image-3]  
-	  
 	It will take awhile, so kick back and relax as you contemplate the wonderful things are are going to do with your $9 computer.
 * Once flashing is complete, click the *EXIT FLASHER* area at the bottom of the dialog box and unplug the chip from the USB cable.  
-	  
 	![Flashing succesful][image-4]  
 
 * Remove the jumper from pins REL and GND.
@@ -57,15 +51,13 @@ Most likely, the C.H.I.P. *tty* device is not on the current page. Use the arrow
 
 Write down that four digit number, or better yet, write that entire line with the four digit numbers. In my case, I have the following serial device name:
 
-`/dev/tty.usbmodem2623
-`
+\`/dev/tty.usbmodem2623
+\`
 # Connect using a Serial Terminal
 The Mac has a serial connection command built-in called `screen` and we will use the `screen` command to make a serial connection to the C.H.I.P. so we can issue commands on the C.H.I.P.
 
 * Use the command below (remember to substitute XXXX for your four digit number) to establish a serial connection to the C.H.I.P.:  
-	  
 	`screen /dev/tty.usbmodemXXXX 115200`  
-	  
 	The 115200 (115,200bps) at the end of the command is the connection speed between the Mac and the C.H.I.P.
 
 If the connection is successful, the C.H.I.P. will promote you for a username and password. The defaults are below:
@@ -109,7 +101,9 @@ Enter `chip` and hit the enter key. After a second or two, you will see a line s
 
 Success! The C.H.I.P. will remember the Wi-Fi connection even after a reboot.
 
-Now determine the C.H.I.P. IP address so you can untether the C.H.I.P. from the Mac and make a remote connection via SSH. 
+Now determine the C.H.I.P. IP address so you can untether the C.H.I.P. from the Mac and make a remote connection via SSH.
+
+> **TIP** After I wrote this post, I discovered a visual way to configure the Wi-Fi network. Issue the `nmtui` command and you will see a terminal “blue-box” that will guide you through this process using a terminal dialog box. Pretty slick.
 
 # Determine IP Address
 To determine the C.H.I.P. IP address, use the command below:
