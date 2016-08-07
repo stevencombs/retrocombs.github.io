@@ -40,6 +40,8 @@ This is where it gets a bit tricky, so follow closely. Load the *Terminal* appli
 
 `ls /dev/tty*`
 
+Take a quick visual note of the device list.
+
 # Connect using a Serial Terminal
 
 The Mac has a serial terminal built-in called `screen` and we will use this to make a connection to the C.H.I.P. so we can issue Terminal commands.
@@ -65,5 +67,5 @@ password: `chip`
 [3]:	https://www.google.com/chrome/browser/desktop/index.html
 [4]:	http://flash.getchip.com/
 
-[image-1]:	http://www.stevencombs.com/images/posts/chip/chip-flasher-page.png "C.H.I.P. Flasher Page"
+[image-1]:	http://www.stevencombs.com/images/posts/chip/choose-version.png
 [image-2]:	http://www.stevencombs.com/images/posts/chip/chip-jumper-pins.jpg
