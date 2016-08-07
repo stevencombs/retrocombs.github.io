@@ -18,13 +18,13 @@ Before a new C.H.I.P. will work out of the box with a USB OTG connection, you ne
 
 * Load the [Chrome browser][3].
 * Navigate to the C.H.I.P. Flasher page at: [http://flash.getchip.com/][4]. Chrome will prompt you to install the Flasher application. Click through to install.
-* Once the Flasher is installed, the Flasher page will present several version of the C.H.I.P. OS to install as shown in the image below.
+* Once the Flasher is installed, the Flasher page will present several version of the C.H.I.P. OS to install as shown in the image below.  
+	  
+	![C.H.I.P. Flasher Page][image-1]
 
-> ![C.H.I.P. Flasher Page][image-1]
-
-* Before you can flash the C.H.I.P., you must first place a jumper between the C.H.I.P. FEL and GRND pins as shown in the image below. **TIP:** If you don't have a jumper wire, you can use a paper clip or a pipe cleaner.
-
-> ![Place jumper on C.H.I.P. to flash][image-2]
+* Before you can flash the C.H.I.P., you must first place a jumper between the C.H.I.P. FEL and GRND pins as shown in the image below. **TIP:** If you don't have a jumper wire, you can use a paper clip or a pipe cleaner.  
+	  
+	![Place jumper on C.H.I.P. to flash][image-2]
 
 * Use a microUSB cable and plug the micro connector into the C.H.I.P. and the standard USB connector into the Mac.
 * Click on the image you wish to flash. The C.H.I.P. Flasher application will load and begin the flash process as shown in the image below.  
@@ -47,7 +47,9 @@ This is where it gets a bit tricky, so follow closely. Load the *Terminal* appli
 
 `ls /dev/tty*`
 
-Take a quick visual note of the device list.
+You are likely to see a long list of devices similar to the image below. 
+
+
 
 # Connect using a Serial Terminal
 
