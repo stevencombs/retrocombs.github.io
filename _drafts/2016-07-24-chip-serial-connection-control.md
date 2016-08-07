@@ -27,7 +27,11 @@ Before a new C.H.I.P. will work out of the box with a USB OTG connection, you ne
 > ![Place jumper on C.H.I.P. to flash][image-2]
 
 * Use a microUSB cable and plug the micro connector into the C.H.I.P. and the standard USB connector into the Mac.
-* Click on the image you wish to flash. The C.H.I.P. Flasher application will load and begin the flash process. It will take awhile, so kick back and relax as you contemplate the wonderful things are are going to do with your $9 computer.
+* Click on the image you wish to flash. The C.H.I.P. Flasher application will load and begin the flash process as shown in the image below.  
+	  
+	![Flashing the C.H.I.P.][image-3]  
+	  
+	It will take awhile, so kick back and relax as you contemplate the wonderful things are are going to do with your $9 computer.
 * Once flashing is complete, unplug the chip from the USB cable.
 * Remove the jumper from pins REL and GND.
 * Reconnect the C.H.I.P. to the Mac again without the jumper. The C.H.I.P. will begin the boot process.
@@ -69,3 +73,4 @@ password: `chip`
 
 [image-1]:	http://www.stevencombs.com/images/posts/chip/choose-version.png
 [image-2]:	http://www.stevencombs.com/images/posts/chip/chip-jumper-pins.jpg
+[image-3]:	http://www.stevencombs.com/images/posts/chip/flashing.png
