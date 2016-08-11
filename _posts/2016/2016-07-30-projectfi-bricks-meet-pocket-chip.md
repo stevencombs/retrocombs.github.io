@@ -9,6 +9,10 @@ categories:
 
 In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out *Happy Holidays* kits to their users. Inside the kit were Project Fi building bricks. Many folks online inaccurately called them LEGO bricks. These bricks are definitely not manufactured by LEGO. They have “fi” on the stud and the quality is not up to LEGO manufacturing standards.
 
+<center><img src="https://cdn.shopify.com/s/files/1/1065/9514/t/15/assets/ntclogo.png?752585561207401692" width=150 height=150></center>
+
+> Thanks to the folks over at [Next Thing Co.][6] for making this build a feature of their [August 11, 2016 blog post][7]. If you are coming over from their post, WELCOME! Also be sure to check out a few of my [other C.H.I.P. related posts](http://www.stevencombs.com/embedded.html). Many more to come.
+
 ![][image-1]
 
 The *Happy Holidays* kit is a followup to the [Project Fi welcome kits][2] that were sent out to early adopters of Project Fi. Using bricks in the *Happy Holidays* kit, you build a stand for a Nexus 6 phone, the only phone available on Project Fi at that time. You can see Google's design in the image below.
@@ -22,7 +26,7 @@ For the first time, I broke open the bag of bricks and began building. To my sur
 Below you will find an image gallery with descriptions beneath each image. If you have any questions or comments, feel free to leave them at the end of the post.
 
 ![][image-3]
-The *Pocket C.H.I.P. Building Brick Dock* complete with a [Logitech Keyboard][4] and a [Music Bullet portable speaker][5]. Yes, that's a C.H.I.P. to the left.
+The *Pocket C.H.I.P. Building Brick Dock* complete with a [Logitech Keyboard][4] and a [Music Bullet portable speaker][5]. Yes, that is a C.H.I.P. to the left.
 
 ![][image-4]
 Front view with Pocket C.H.I.P. firmly in place and balanced nicely so it does not tip forward or backward.
@@ -56,6 +60,8 @@ I built in an integrated V shape to provide access to, and visually point out, t
 [3]:	http://amzn.to/2alx7Y5
 [4]:	http://amzn.to/2alx7Y5
 [5]:	http://amzn.to/2acE2Dv
+[6]:	https://www.nextthing.co/
+[7]:	http://blog.nextthing.co/pocketc-h-i-p-community-projects-a-pokemon-go-trainer-bot-a-drawing-robot-a-brick-built-stand/
 
 [image-1]: http://www.stevencombs.com/images/posts/chip/dock1.jpg
 [image-2]: http://www.stevencombs.com/images/posts/chip/dock2.jpg
