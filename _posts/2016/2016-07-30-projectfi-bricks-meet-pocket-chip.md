@@ -9,7 +9,7 @@ categories:
 
 In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out *Happy Holidays* kits to their users. Inside the kit were Project Fi building bricks. Many folks online inaccurately called them LEGO bricks. These bricks are definitely not manufactured by LEGO. They have “fi” on the stud and the quality is not up to LEGO manufacturing standards.
 
-<center><img src="https://cdn.shopify.com/s/files/1/1065/9514/t/15/assets/ntclogo.png?752585561207401692" width=150 height=150></center>
+![Next Think Co. Logo](https://cdn.shopify.com/s/files/1/1065/9514/t/15/assets/ntclogo.png?752585561207401692)
 
 > Thanks to the folks over at [Next Thing Co.][6] for making this build a feature of their [August 11, 2016 blog post][7]. If you are coming over from their post, WELCOME! Also be sure to check out a few of my [other C.H.I.P. related posts](http://www.stevencombs.com/embedded.html). Many more to come.
 
