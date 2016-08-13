@@ -11,17 +11,20 @@ The PocketC.H.I.P. keyboard, while great in a pinch, can be a bit of bear when t
 
 ## Why fish?
 
-Below is my quick list as to why you want to install fish on the PocketC.H.I.P. or any C.H.I.P. for that matter:
+Below is my list to explain why you want to install fish on the PocketC.H.I.P.; or any C.H.I.P. for that matter:
 
 * provides features that will streamline keystrokes on a PocketC.H.I.P. keyboard
+* use ⇥ (tab) to complete long commands as fish autosuggests commands
 * remembers all your previous commands without an ↑ keystroke (see below)
 
 > ![fish on chip][image-1]
 
-* brings back the `*` wildcard
-* 
+* brings back the `*` wildcard to `ls` and `cat` commands
+* includes syntax highlights (red text indicates an invalid command, blue text indicates valid commands and underlined strings are valid paths)
+* includes loops and functions
+* provides a robust startup scripting in an easy to manage file (`~/.config/fish/config.fish`)
 
-Learn more by browsing the [fish tutorial page][2].
+There is much more to explore and users who's Linux-foo is stronger than mine will find additional feature sure to put a smile on their face. Browse the [fish tutorial page][2] to learn more.
 
 ## Install fish
 
@@ -37,7 +40,7 @@ The fish shell is now installed.
 
 ## Use fish for the first time
 
-To use the fish shell, Fire up the *Terminal*. At the command prompt type:
+To use the fish shell, fire up the *Terminal*. At the command prompt type:
 
 `fish`
 
@@ -49,8 +52,10 @@ Type help for instructions on how to use fish
 chip@pocketchip ~> 
 ```
 
-You can now use fish to issue Terminal commands.
+You can now use fish to issue *Terminal* commands. Give is a shot and type:
 
+`
+`
 ## Make *fish* the default bash shell
 
 If after using fish for awhile you would like to make it the default Terminal shell, you can use the following command:
