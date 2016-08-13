@@ -70,7 +70,7 @@ Reboot the PocketC.H.I.P. and launch the *Terminal*. You will see the `Welcome t
 This indicates that `fish` is now the default terminal shell.
 
 ## Yummy `fish` and C.H.I.P.s
-I've used the **`fish` and C.H.I.P.s** configuration for about a week and really like it. I've installed `fish` on both my regular C.H.I.P. and Mac with additional plans to add to a couple of Raspberry Pis. The features `fish` provides are great for all keyboards; however, if I had not been looking for a way to reduce typing on my PocketC.H.I.P., I would never have been exposed to this wonderful bash shell replacement. Chock up another good learning experience to the PocketC.H.I.P.
+I've used the **`fish` and C.H.I.P.s** configuration for about a week and really like it. I've installed `fish` on both my regular C.H.I.P. and Mac with additional plans to add to a couple of Raspberry Pis. The features `fish` provides are great for all keyboards; however, if I had not been looking for a way to reduce typing on my PocketC.H.I.P., I would never have been exposed to this wonderful `bash` shell replacement. Chock up another good learning experience to the PocketC.H.I.P.
 
 Anyone else using `fish`? Share your tips and tricks in the comments below so we can share ways to get the most out of this shell and our PocketC.H.I.P.s.
 
