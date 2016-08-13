@@ -9,7 +9,7 @@ categories:
 
 The PocketC.H.I.P. keyboard can be a bit of bear when trying to enter long commands in the *Terminal*. C.H.I.P. comes with `bash` as the default *Terminal* shell (as do most Debian Linux distributions). However, we are not confined to this shell. You can install others and the one I find particularly suited to the PocketC.H.I.P. is a shell called [fish][1]. That's right, **`fish` and C.H.I.P.s**! What could be more tasty? This combination will shorten lengthy commands and make that PocketC.H.I.P. keyboard more enjoyable to use.
 
-## Why fish?
+## Why `fish`?
 Below are the reasons I find `fish` the perfect match for the PocketC.H.I.P.; or any C.H.I.P. for that matter:
 
 * uses ⇥ (tab) to complete long character strings while the `fish` shell autosuggests commands
@@ -24,7 +24,7 @@ Below are the reasons I find `fish` the perfect match for the PocketC.H.I.P.; or
 
 There is much more to explore and users whose Linux-foo is stronger than mine will appreciate the additional features. Browse the [fish tutorial page][2] to learn more.
 
-## Install fish
+## Install `fish`
 Installation of `fish` begins with a quick series of `apt` commands as shown below:
 
 ```
