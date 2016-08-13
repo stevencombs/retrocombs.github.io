@@ -7,11 +7,11 @@ categories:
   - category
 ---
 
-The [C.H.I.P.](http://www.getchip.com) packs a lot of computing power into a small board that also include Bluetooth and Wi-Fi. It's the prefect combination of small size and performance to power a tracked robotic platform. 
+The [C.H.I.P.][1] packs a lot of computing power into a small board that also include Bluetooth and Wi-Fi. It's the prefect combination of small size and performance to power a tracked robotic platform. 
 
 I've built a tracked robotic platform that was to use an Arduino; however the Arduino is just a bit too and and does not include Bluetooth and Wi-Fi. Believe it or not, I can also purchase the C.H.I.P. for less than the cost of the Arduino which does not include Bluetooth and Wi-Fi.
 
-My hope is that the C.H.I.P. will serve masterfully as the brain behind my tracked robotic platform and provide expandibility that an Arduino cannot. The challenge will be to replicate the [Arduino motor sheild](http://amzn.to/2bd7rBX) and interface with the [range detector](http://amzn.to/2aJTgTH) I currently use.
+My hope is that the C.H.I.P. will serve masterfully as the brain behind my tracked robotic platform and provide expandability that an Arduino cannot. The challenge will be to replicate the [Arduino motor sheild][2] and interface with the [range detector][3] I currently use.
 
 Before I add the C.H.I.P. to my tracked robotic platform, I will configure the C.H.I.P. as follows:
 
@@ -23,12 +23,12 @@ Before I add the C.H.I.P. to my tracked robotic platform, I will configure the C
 * Install the C.H.I.P. Python GPIO library
 * Test the platform by controling an LED with Python
 * Connect to the C.H.I.P. via SFTP
-* Use the Mac application [ForkLift](!mas) to connect to the C.H.I.P.
+* Use the Mac application [ForkLift][4] to connect to the C.H.I.P.
 * Modify Python code on Mac
 
 Once these tasks are complete, I can then use the C.H.I.P. as the brains of the tracked robotic platform.
 
-![Tracked Vehicle Platform](http://www.stevencombs.com/images/posts/chip/tracked-robotic-platform.jpg)
+![Tracked Vehicle Platform][image-1]
 
 ## Install OS and place the C.H.I.P. on local network
 
@@ -53,7 +53,7 @@ Set the time zone to ensure the onboard clock is always accurate.
 ## Install the C.H.I.P. Python GPIO Library
 Python on the C.H.I.P. now needs a library it can use to address the GPIO pins. We will use the library found on GitHub at:
 
-\<https://github.com/xtacocorex/CHIP_IO\>
+\<https://github.com/xtacocorex/CHIP\_IO\>
 
 Use the following commands to install the Python library:
 
@@ -71,28 +71,43 @@ sudo python setup.py install
 cd ..
 sudo rm -rf CHIP_IO
 ```
-`
+\`
 You now only need to import the library and set the pins as  into a Python program to be able to use the GPIO pins:
 
 ```python
 `import CHIP_IO.GPIO as GPIO
 ```
-`
+\`
 Similar to using the GPIOs on a Raspberry Pi, you must also tell Python which pins are inputs and which pins are outputs as shown in the examples below:
 
+\`\`\`
+\`
+## Connect an LED to the C.H.I.P.
+For this example, we are going to use the GPIO pin labeled CSID0. See image below and connect an LED (long to GPIO and short to GND)
+
+![][image-2]
+
+## Turn on LED using Python
+
+```
+`import CHIP_IO.GPIO as GPIO
+GPIO.setup("CSID0", GPIO.OUT)
+GPIO.output("CSID0", GPIO.HIGH)
 ```
 `
-## Connect an LED to the C.H.I.P. 
+Use the command below to turn on the LED:
+`sudo python led-csid0-on.py`
 
-See image below and connect an LED (long to GPIO and short to GND)
+## Turn off LED using Python
 
-## Create a Python program to turn the LED on
-
-nano example
-
-## Create a Python program to turn the LED off
-
-linux command to copy previous example and then edit using nano
+```
+`import CHIP_IO.GPIO as GPIO
+GPIO.setup("CSID0", GPIO.OUT)
+GPIO.output("CSID0", GPIO.LOW)
+```
+`
+Use the command below to turn off the LED:
+`sudo python led-csid0-off.py`
 
 ## The ForkLift option for Mac
 
@@ -100,3 +115,11 @@ SFTP in to the C.H.I.P.
 
 Now you can use any programming tool on the Mac you prefer
 
+[1]:	http://www.getchip.com
+[2]:	http://amzn.to/2bd7rBX
+[3]:	http://amzn.to/2aJTgTH
+[4]:	!mas
+
+
+[image-1]:	http://www.stevencombs.com/images/posts/chip/tracked-robotic-platform.jpg
+[image-2]:	http://www.stevencombs.com/images/posts/chip/chip-led.jpg
