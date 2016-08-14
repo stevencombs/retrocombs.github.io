@@ -97,13 +97,15 @@ import CHIP_IO.GPIO as GPIO
 Similar to GPIO use on a Raspberry Pi, configure GPIO connections as inputs or outputs. This is done within the Python code. I will share the code after I attach an LED to the C.H.I.P.
 
 # Connect LED to the C.H.I.P.
-Connect the LED to GPIO pins labeled CSID0 and GND as shown in the image below:
+Connect the LED to GPIO pins labeled CSID0 and GND as shown in the image below. You will note that I have an inline 1K ohm resistor to protect the LED, GPIOs and C.H.I.P.
 
-> **WARNING:** Please read this [warning from fordsfords][22] on the Next Thing Co. BBS. He correctly notes that I do not include an inline 1 to 10K resistor. The particular LED I use has a high internal resistance (to protect the GPIO from burn out) and is an LED I use for this type of experimentation frequently. If you are unsure, we both recommend you include a resistor inline on the positive side of the LED. I really should correct the image (and hope to do so in the near future), but for now, all have been warned.
+> **WARNING:** Please read this [warning from fordsfords][22] on the Next Thing Co. BBS. He correctly notes that originally I did not include an inline 1 to 10K resistor. The particular LED I use has a high internal resistance (to protect the GPIO from burn out) and is an LED I use for this type of experimentation frequently. While not required, I made an update to this post and the image to include an inline 1K ohm resistor as a safety buffer.
 
 ![][image-2]
 
-Connect the LED long wire (anode - positive) to GPIO-CSID0 and the short wire (cathode - negative) to GND.
+Connect the LED long wire (anode - positive) to the resistor and then to GPIO pin CSID0.
+
+Connect and the short wire (cathode - negative) to GPIO pin GND.
 
 > If you don't have LEDs, I recommend this [batch from Amazon][23] or stop by your local Radio Shack.
 
