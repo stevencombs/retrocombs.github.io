@@ -99,11 +99,13 @@ Similar to GPIO use on a Raspberry Pi, configure GPIO connections as inputs or o
 # Connect LED to the C.H.I.P.
 Connect the LED to GPIO pins labeled CSID0 and GND as shown in the image below:
 
+> **WARNING:** Please read this [warning from fordsfords][22] on the Next Thing Co. BBS. He correctly notes that I do not include an inline 1 to 10K resistor. The particular LED I use has a high internal resistance (to protect the GPIO from burn out) and is an LED I use for this type of experimentation frequently. If you are unsure, we both recommend you include a resistor inline on the positive side of the LED. I really should correct the image (and hope to do so in the near future), but for now, all have been warned.
+
 ![][image-2]
 
-Connect the LED long wire (positive) to GPIO-CSID0 and the short wire (negative) to GND.
+Connect the LED long wire (anode - positive) to GPIO-CSID0 and the short wire (cathode - negative) to GND.
 
-> If you don't have LEDs, I recommend this [batch from Amazon][22] or stop by your local Radio Shack.
+> If you don't have LEDs, I recommend this [batch from Amazon][23] or stop by your local Radio Shack.
 
 # Turn the LED on
 Now the fun begins. Create a Python program on the C.H.I.P. to the LED on.
@@ -175,7 +177,7 @@ Let's see if we can turn the LED off. Use the command below to turn the LED off:
 
 If the `[sudo] password for chip:` prompt appears (and it may not this time), enter the default: `chip`
 
-The LED will turn off. It did turn off, right? If not, follow the troubleshooting steps in the [Turn the LED on][23] section above.
+The LED will turn off. It did turn off, right? If not, follow the troubleshooting steps in the [Turn the LED on][24] section above.
 
 # Hello World
 The Python code above is the physical computing equivalent to the popular "hello world" programs found in beginning programming classes and tutorials. The difference is that we use an LED connected to the C.H.I.P. as our output instead of words on the screen.
@@ -203,8 +205,9 @@ In other words, you now have the basics necessary to begin experiments with Pyth
 [19]:	https://try.github.io/levels/1/challenges/1
 [20]:	https://github.com/xtacocorex/CHIP_IO
 [21]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
-[22]:	http://amzn.to/2bq6e7w
-[23]:	#turn-the-led-on
+[22]:	https://bbs.nextthing.co/t/hello-world-control-a-gpio-connected-led-using-python-on-the-c-h-i-p/8421/6?u=stevencombs
+[23]:	http://amzn.to/2bq6e7w
+[24]:	#turn-the-led-on
 
 [image-1]:	http://www.stevencombs.com/images/posts/chip/tracked-robotic-platform.jpg
 [image-2]:	http://www.stevencombs.com/images/posts/chip/chip-led.jpg
