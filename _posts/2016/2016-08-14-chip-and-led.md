@@ -1,47 +1,47 @@
 ---
 layout: post
-title: ‘Program a C.H.I.P. with Python to control LED’
+title: 'Program C.H.I.P. with Python to control LED'
 date: 'August 14, 2016'
 comments: 'yes'
 categories:
-  - category
+  - chip
 ---
 
-The [C.H.I.P.][1] packs a lot of computing power into a tiny board that includes both Bluetooth and Wi-Fi. It's the perfect combination of small size and performance to power physical computing projects.
+The [C.H.I.P.][1] packs a lot of power into a tiny board that includes both Bluetooth and Wi-Fi. It's the perfect combination of small size and performance to power physical computing projects.
 
-I recently built a tracked robotic platform, shown in the image below, for [a physical computing presentation][2]. My platform uses an Arduino; however the Arduino is just a bit too large, has limited capabilities, and does not include Bluetooth and Wi-Fi. I can purchase the C.H.I.P. for half[the cost of the Arduino][3].
+I recently built a tracked robotic platform, shown in the image below, for [a physical computing presentation][2]. My platform uses an Arduino; however the Arduino is too large, has limited capabilities, and does not include Bluetooth and Wi-Fi. The C.H.I.P. corrects these deficiencies and is half [the cost of the Arduino][3]. The C.H.I.P. seems perfect for this project.
 
 ![Tracked Vehicle Platform][image-1]
 
-My goal is to configure a C.H.I.P. so it can serve as the brain for my tracked robotic platform. I will install a complete Python GPIO development environment on the C.H.I.P. To test the environment, I will connect an LED to the GPIO pins and create two Python programs to turn an LED on and off.
+My goal for this post is to configure a C.H.I.P. so it can serve as the brain for my tracked robotic platform. I will install a complete [Python][4] GPIO development environment on the C.H.I.P. To test the environment, I will connect an LED to the GPIO pins and create two Python programs to turn an LED on and off.
 
 # Table of Contents
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Flash the C.H.I.P. without a GUI][4]
-- [Connect C.H.I.P. to network][5]
-- [Set the locale][6]
-- [Set timezone][7]
-- [Install Git][8]
-- [Install Python][9]
-- [Install the Python GPIO Library][10]
-- [Connect LED to the C.H.I.P.][11]
-- [Turn the LED on][12]
-- [Turn the LED off][13]
-- [Hello World][14]
+- [Flash the C.H.I.P. without a GUI][5]
+- [Connect C.H.I.P. to network][6]
+- [Set the locale][7]
+- [Set timezone][8]
+- [Install Git][9]
+- [Install Python][10]
+- [Install the Python GPIO Library][11]
+- [Connect LED to the C.H.I.P.][12]
+- [Turn the LED on][13]
+- [Turn the LED off][14]
+- [Hello World][15]
 
 <!-- /TOC -->
 
 # Flash the C.H.I.P. without a GUI
-A graphical user interface is not needed. My [flash the C.H.I.P.][15] post provides instructions to install a *Headless* image.
+A graphical user interface is not needed. My [flash the C.H.I.P.][16] post provides instructions to flash the C.H.I.P. Choose the latest (v4.4 as of this writing) *headless* image to flash.
 
 # Connect C.H.I.P. to network
-My [flash the C.H.I.P.][16] post demonstrates how to connect the C.H.I.P. to a network so you can use SSH to issue the commands below to the C.H.I.P.
+My [flash the C.H.I.P.][17] post demonstrates how to add the C.H.I.P. to a network so you can connect via SSH.
 
-> **Alternatively:** Use a USB-OTG serial connection, instructions found in the [flash the C.H.I.P.]() post, without the need to connect the C.H.I.P. to a network.
+> **Alternatively:** Use a USB-OTG serial connection, instructions found in the [flash the C.H.I.P.][18] post, without the need to connect the C.H.I.P. to a network.
 
 # Set the locale
-Use the commands below to set the locale of the chip to ensure keyboard commands are geographically correct:
+Use the *Terminal* command below to set the locale of the chip to ensure keyboard commands are geographically correct:
 
 `sudo apt-get update && sudo apt-get install locales && sudo dpkg-reconfigure locales && sudo locale-gen`
 
@@ -50,14 +50,14 @@ Use the command below to set the time zone to ensure the onboard clock is accura
 
 `sudo dpkg-reconfigure tzdata`
 
-This is important if you use Python time-based event programming.
+This is important if you use time-based Python event programming.
 
 # Install Git
 The Python GPIO library requires Git. Use the command below to install Git:
 
 `sudo apt install git`
 
-> Learn [what Git can do][18]. It is a valuable tool to use when programming.
+> Learn [what Git can do][19]. It is a valuable tool to use when programming.
 
 # Install Python
 Use the command below to install the Python programming language:
@@ -67,9 +67,9 @@ Use the command below to install the Python programming language:
 # Install the Python GPIO Library
 Python on the C.H.I.P. requires a library to address and provide access to the GPIO pins. Use the library and instructions (also found below) from the GitHub site below:
 
-[https://github.com/xtacocorex/CHIP\_IO][19]
+[https://github.com/xtacocorex/CHIP\_IO][20]
 
-> **Optional:** Before you begin the lengthy commands below, I recommend you replace the default `bash` shell with the `fish` shell. You can find more information on my [fish and C.H.I.P.s][20] post.
+> **Optional:** Before you begin the lengthy commands below, I recommend you replace the default `bash` shell with the `fish` shell. You can find more information on my [fish and C.H.I.P.s][21] post.
 
 Use the commands below to install the Python library:
 
@@ -88,7 +88,7 @@ cd ..
 sudo rm -rf CHIP_IO
 ```
 
-To use the GPIO library and access the pins, include the Python `import` command below at the beginning of your program.
+To use the GPIO library and access the pins, include the Python `import` command below at the beginning of your program:
 
 ```python
 import CHIP_IO.GPIO as GPIO
@@ -103,7 +103,7 @@ Connect the LED to GPIO pins labeled CSID0 and GND as shown in the image below:
 
 Connect the LED long wire (positive) to GPIO-CSID0 and the short wire (negative) to GND.
 
-> If you don't have LEDs, I recommend this [batch from Amazon][21] or stop by your local Radio Shack.
+> If you don't have LEDs, I recommend this [batch from Amazon][22] or stop by your local Radio Shack.
 
 # Turn the LED on
 Now the fun begins. Create a Python program on the C.H.I.P. to the LED on.
@@ -175,7 +175,7 @@ Let's see if we can turn the LED off. Use the command below to turn the LED off:
 
 If the `[sudo] password for chip:` prompt appears (and it may not this time), enter the default: `chip`
 
-The LED will turn off. It did turn off, right? If not, follow the troubleshooting steps in the [Turn the LED on][22] section above.
+The LED will turn off. It did turn off, right? If not, follow the troubleshooting steps in the [Turn the LED on][23] section above.
 
 # Hello World
 The Python code above is the physical computing equivalent to the popular "hello world" programs found in beginning programming classes and tutorials. The difference is that we use an LED connected to the C.H.I.P. as our output instead of words on the screen.
@@ -185,24 +185,26 @@ In other words, you now have the basics necessary to begin experiments with Pyth
 [1]:	http://www.getchip.com
 [2]:	http://www.stevencombs.com/raspberrypi.html
 [3]:	http://amzn.to/2bfqY4g
-[4]:	#flash-the-chip-without-a-gui
-[5]:	#connect-chip-to-network
-[6]:	#set-the-locale
-[7]:	#set-timezone
-[8]:	#install-git
-[9]:	#install-python
-[10]:	#install-the-python-gpio-library
-[11]:	#connect-led-to-the-chip
-[12]:	#turn-the-led-on
-[13]:	#turn-the-led-off
-[14]:	#hello-world
-[15]:	http://www.stevencombs.com/chip/2016/08/07/mac-to-chip-serial-connection.html
+[4]:	http://amzn.to/2aSrf9b
+[5]:	#flash-the-chip-without-a-gui
+[6]:	#connect-chip-to-network
+[7]:	#set-the-locale
+[8]:	#set-timezone
+[9]:	#install-git
+[10]:	#install-python
+[11]:	#install-the-python-gpio-library
+[12]:	#connect-led-to-the-chip
+[13]:	#turn-the-led-on
+[14]:	#turn-the-led-off
+[15]:	#hello-world
 [16]:	http://www.stevencombs.com/chip/2016/08/07/mac-to-chip-serial-connection.html
-[18]:	https://try.github.io/levels/1/challenges/1
-[19]:	https://github.com/xtacocorex/CHIP_IO
-[20]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
-[21]:	http://amzn.to/2bq6e7w
-[22]:	#turn-the-led-on
+[17]:	http://www.stevencombs.com/chip/2016/08/07/mac-to-chip-serial-connection.html
+[18]:	http://www.stevencombs.com/chip/2016/08/07/mac-to-chip-serial-connection.html
+[19]:	https://try.github.io/levels/1/challenges/1
+[20]:	https://github.com/xtacocorex/CHIP_IO
+[21]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
+[22]:	http://amzn.to/2bq6e7w
+[23]:	#turn-the-led-on
 
 [image-1]:	http://www.stevencombs.com/images/posts/chip/tracked-robotic-platform.jpg
 [image-2]:	http://www.stevencombs.com/images/posts/chip/chip-led.jpg
