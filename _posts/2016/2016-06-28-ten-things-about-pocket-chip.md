@@ -104,6 +104,19 @@ Don't purchase an external keyboard. Control your Pocket C.H.I.P. using your com
 
 ![Controlling the Pocket C.H.I.P. via x11vnc][image-3]
 
+## Bonus: Learn Linux Terminal commands (Added: August 21, 2016)
+You will want to learn how to use terminal commands. One of the best features of the PocketC.H.I.P. is the ability to carry a full fledge Linux Terminal in your pocket. For students in computer science or information security courses, this can be a huge advantage to learning. 
+
+Below are my two favorite resources to learn Linux Terminal commands:
+
+* [The Linux Command Line: A Complete Introduction][9], 1st Edition by William E. Shotts Jr.
+
+I've been pouring through this book for days. I can easily throw the book and my PocketC.H.I.P. in my bag. When I have some free time, I take both out to learn more about Terminal commands. It's a very geeky combination. To this day, I cannot believe I didn't know about the simple `cal` command. As an educator, I also plan to recommend this package to students.
+
+* [Learning the Shell][10] on the [linuxcommand.org][11] site 
+
+This is a free resource. The site loads quickly and you can browse the site on your PocketC.H.I.P.
+
 ## Bonus: Star Wars
 Watch the original Star Wars story unfold on your Pocket C.H.I.P. **Try this:** in the Terminal type: `sudo apt-get update`, followed by `sudo apt-get install telnet` followed by `telnet towel.blinkenlights.nl`. Use ctrl + 'j' to close the telnet session and ctrl + 'l' to clear the *Terminal*.
 
@@ -114,12 +127,12 @@ The PocketC.H.I.P. includes the standard `bash` shell; however, you can replace 
 
 ![][image-5]
 
-Intrigued? Visit my [fish on C.H.I.P.s blog post][9] to learn more.
+Intrigued? Visit my [fish on C.H.I.P.s blog post][12] to learn more.
 
 ## Bonus tips from the Pocket C.H.I.P. community
 
 ### WARNING TIPS
-Thanks to [senkun][10] for these tips.
+Thanks to [senkun][13] for these tips.
 
 > Don't peel off the plastic film off the super clicky buttons. The film holds the buttons in place.
 
@@ -134,26 +147,26 @@ When my Pocket C.H.I.P. first arrived, I too wondered if I should peel off the k
 ### Customize the home screen (Updated: August 13, 2016): (marshmallow from the BBS)
 The PocketC.H.I.P. includes a home screen; however, you can replace it with an outstanding, and in continual development, replacement called *Pocket Home*. It's an easy install and the home screen replacement provides some great features such as adding and deleting items and changing the background color or image.
 
-Learn more on the [Next Thing Co. BBS post from *marshmallow*][11]
+Learn more on the [Next Thing Co. BBS post from *marshmallow*][14]
 
 ### Add a speaker: (bmjohnsn from the BBS)
-It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with [this clever little soldering hack][12], you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
+It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with [this clever little soldering hack][15], you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
 
 ### Emulate games: (bmjohnsn from the BBS)
 bmjohnsn recommends this Nintendo-centric retro gaming link:
 
 \<https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027\>
 
-However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE][13] support for Commodore computing. How awesome would that be?
+However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE][16] support for Commodore computing. How awesome would that be?
 
-**UPDATE:** [The Rift Conspiracy][14] provides [instructions to download and configure the VICE emulator][15] for the Pocket C.H.I.P. I've installed (see image below), but have not tried any games or applications yet. I hope to do so soon.
+**UPDATE:** [The Rift Conspiracy][17] provides [instructions to download and configure the VICE emulator][18] for the Pocket C.H.I.P. I've installed (see image below), but have not tried any games or applications yet. I hope to do so soon.
 
 ![VICE on Pocket C.H.I.P.][image-6]
 
 ### Install Doom and a launch Icon to the home screen:
 The official Next Thing Co. blog now provides instruction to install Doom and include a launch icon to the home screen. It's a bit of a hack, but does show active development and is a fun way to learn more about your little hand held Linux box.
 
-[Install Doom & give it an icon on the home screen][16]
+[Install Doom & give it an icon on the home screen][19]
 
 ## Did I miss anything?
 Have something else I should add to the list that other Pocket C.H.I.P. owners should know? Drop in the comments below. I would love to read your suggestions.
@@ -166,14 +179,17 @@ Have something else I should add to the list that other Pocket C.H.I.P. owners s
 [6]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs
 [7]:	http://amzn.to/29loNc3
 [8]:	http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
-[9]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
-[10]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs
-[11]:	https://bbs.nextthing.co/t/new-pocket-home-marshmallow-edition/6579
-[12]:	https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511
-[13]:	http://vice-emu.sourceforge.net/
-[14]:	http://www.rift.dk/
-[15]:	http://www.rift.dk/blog/run-vice-on-your-pocketchip
-[16]:	http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/
+[9]:	http://amzn.to/2bvjFa0
+[10]:	http://linuxcommand.org/learning_the_shell.php
+[11]:	http://www.linuxcommand.org
+[12]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
+[13]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs
+[14]:	https://bbs.nextthing.co/t/new-pocket-home-marshmallow-edition/6579
+[15]:	https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511
+[16]:	http://vice-emu.sourceforge.net/
+[17]:	http://www.rift.dk/
+[18]:	http://www.rift.dk/blog/run-vice-on-your-pocketchip
+[19]:	http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/
 
 [image-1]:	http://www.stevencombs.com/images/posts/chip/pocket_chip.jpg
 [image-2]:	http://www.stevencombs.com/images/posts/chip/xCalc.png
