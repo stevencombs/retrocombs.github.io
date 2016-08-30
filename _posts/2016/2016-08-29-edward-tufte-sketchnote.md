@@ -28,13 +28,15 @@ Overall, I am pleased with my sketchnote. I’m still getting the hang of the pr
 
 As for the session; it is recommended. It’s a bit pricey, but you receive some really good information. You also walk home with four great books to remind and reinforce concepts.
 
-**Sketchnote Type:** Presentation  
-**Journal Used:** [Rhodia Black Webnotebook inch Dot Grid][2]  
+**Sketchnote Type:** Presentation    
+**Journal Used:** [Rhodia Black Webnotebook inch Dot Grid][2]    
 **Pen(s) Used:** [Pilot Precise V5 RT][3] and [Staedtler Triplus Fineliner][4] yellow
 
 # Sketchnote
 
 ![][image-1]
+
+
 
 [1]:	https://www.edwardtufte.com/tufte/courses
 [2]:	http://amzn.to/2c5gouJ
