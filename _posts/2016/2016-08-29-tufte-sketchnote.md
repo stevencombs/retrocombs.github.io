@@ -27,7 +27,6 @@ As for the session; it is recommended. It’s a bit pricey, but you receive some
 ![][image-1]
 
 
-
 [1]:	https://www.edwardtufte.com/tufte/courses
 [2]:	http://amzn.to/2c5gouJ
 [3]:	http://www.amazon.com/gp/product/B001E6A9M8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E6A9M8&linkCode=as2&tag=stevenccom-20
