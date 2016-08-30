@@ -26,13 +26,6 @@ As for the session; it is recommended. It’s a bit pricey, but you receive some
 
 ![][image-1]
 
-# Tweet
-As of this writing, the tweet below of this sketchnote was my most popular. It even came with some kind comments.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/EdwardTufte">@EdwardTufte</a> seminar complete. Compelling workshop on presentation of data and info. Highly recommended. <a href="https://twitter.com/hashtag/sketchnote?src=hash">#sketchnote</a><a href="https://t.co/88f1fRNhu9">pic.twitter.com/88f1fRNhu9</a></p>Steven B. Combs (@StevenCombs)<a href="https://twitter.com/StevenCombs/status/769284114394611712">August 26, 2016</a></blockquote>
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [1]:	https://www.edwardtufte.com/tufte/courses
 [2]:	http://amzn.to/2c5gouJ
 [3]:	http://amzn.to/2bRNBLp
