@@ -7,17 +7,7 @@ categories:
   - art
 ---
 
-On Friday, August 26th, 2016 I had the opportunity to attend the [EDWARD TUFTE: PRESENTING DATA AND INFORMATION][1] one-day seminar at the Westin in Chicago, Illinois. The Edward Tufte site describes the session.
-
-> Fundamental design strategies for all information displays: sentences, tables, diagrams, maps, charts, images, video, data visualizations, and randomized displays for making graphical statistical inferences.
-> 
-> New ideas on spectatorship, consuming reports. How to assess the credibility of a presentation and its presenter, how to detect cherry-picking, how to reason about alternative explanations.
-> 
-> Standards of comparison for workaday and for cutting edge visualizations. How to identify excellent information architectures and use them as models and comparison sets for your own work and for the work of your contractors. Monitoring the designs of others.
-> 
-> The future of information displays: 4K, 6K, 8K video maps moving in time.
-> 
-> Practical examples are from everywhere: science, social science, music, business, finance, sports, art, medicine, architecture, NASA, government reports.
+On Friday, August 26th, 2016 I had the opportunity to attend the [EDWARD TUFTE: PRESENTING DATA AND INFORMATION][1] one-day seminar at the Westin in Chicago, Illinois. I generated a sketchnote during the session as I will describe below.
 
 # Description
 I was excited to create a sketchnote for this session given that the presentation involves the display of data and information. My sketchnote would need a full open spread and I chose to rotate my Rhodia notebook 90º. I came prepared with my Staedtler color pens to highlight.
