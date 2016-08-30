@@ -3,8 +3,7 @@ layout: post
 title: 'Edward Tufte seminar sketchnote'
 date: 'August 29, 2016'
 comments: 'yes'
-categories:
-  - art
+category: art
 ---
 
 On Friday, August 26th, 2016 I had the opportunity to attend the [EDWARD TUFTE: PRESENTING DATA AND INFORMATION][1] one-day seminar at the Westin in Chicago, Illinois. I generated a sketchnote during the session as I will describe below.
