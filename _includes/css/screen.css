@@ -275,7 +275,7 @@ sub {
 }
 
 #home h2 {
-  color: {{ site.theme.highlight_color }};
+  color: {{ site.theme_settings.highlight_color }};
 }
 
 #logo {
@@ -301,7 +301,7 @@ sub {
 
 #stalker a:hover {
   text-decoration: none;
-  color: {{ site.theme.highlight_color }};
+  color: {{ site.theme_settings.highlight_color }};
 }
 
 i.fa-hn {
