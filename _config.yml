@@ -12,12 +12,9 @@ exclude:
   - .gitignore
 lsi: false
 comments: true
-# markdown: redcarpet
-# redcarpet:
-#  extensions: ["smart", "strikethrough", "superscript", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter: rouge
 
-theme_settings:
+themed:
   email: steven.combs@gmail.com
   google_analytics_key: UA-1632774-9
   highlight_color: "#3498db"
