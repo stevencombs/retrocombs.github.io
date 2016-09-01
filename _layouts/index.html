@@ -6,14 +6,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.theme.name }} - {{ page.title }}</title>
-  <meta name="author" content="{{ site.theme.name }}" />
-  <meta name="description" content="The blog of {{ site.theme.name }}" />
+  <title>{{ site.themed.name }} - {{ page.title }}</title>
+  <meta name="author" content="{{ site.themed.name }}" />
+  <meta name="description" content="The blog of {{ site.themed.name }}" />
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
 
   <link href="//fonts.googleapis.com/css?family=Open+Sans:600,800" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="/favicon.png">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.theme.name }}" href="{{site.url}}/atom.xml" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.themed.name }}" href="{{site.url}}/atom.xml" />
 
   <link rel="stylesheet" href="/assets/css/all.css">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.min.css">
@@ -30,7 +30,7 @@
   </div>
 
 <p style="font-size: 12px; text-align: center; margin-top: 10px; border-top: 1px solid #ccc;">
-    © {{ site.theme.name }}, 2014 | Built with <a href="http://jekyllrb.com/">Jekyll</a> and the <a href="http://jekyllthemes.org/themes/lagom/">Lagom theme</a> | Hosted on <a href="http://www.github.com">GitHub</a>
+    © {{ site.themed.name }}, 2014 → 2016 | Built with <a href="http://jekyllrb.com/">Jekyll</a> and the <a href="http://jekyllthemes.org/themes/lagom/">Lagom theme</a> | Hosted on <a href="http://www.github.com">GitHub</a>
 </p>
 
 {% include analytics.html %}
