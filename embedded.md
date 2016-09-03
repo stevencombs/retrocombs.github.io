@@ -5,7 +5,7 @@ title: Embedded Systems and Physical Computing
 
 <img class="category" src="http://www.stevencombs.com/images/design/embedded.svg" />
 
-I am not sure when the physical computing bug hit me. I think it was sometime in 2007 when I was teaching C programming. No matter when the date, I am still hooked and enjoy any chance I have to tinker with my two favorite boards: the [Arduino](http://www.arduino.cc/) and the [Raspberry Pi](http://www.raspberrypi.org/).
+I am not sure when the physical computing bug hit me. I think it was sometime in 2007 when I was teaching C programming. No matter the date, I am hooked and enjoy any chance I have to tinker with my three of favorite boards: the [Arduino](http://www.arduino.cc/), [C.H.I.P.](http://www.getchip.com) and [Raspberry Pi](http://www.raspberrypi.org/).
 
 You may be looking for my [dedicated Raspberry Pi presentation page](http://www.stevencombs.com/raspberrypi.html).
 
