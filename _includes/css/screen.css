@@ -176,7 +176,7 @@ nav hr {
 }
 
 #post pre {
-  background-color: #fff;
+  background-color: #eee;
   text-decoration-color: #000
   font-size: 100%;
   padding: 0 .2em;
@@ -189,8 +189,8 @@ nav hr {
 }
 
 #post code {
-  background-color: #fff;
-  font-size: 85%;
+  background-color: #eee;
+  font-size: 100%;
   padding: 0 .2em;
 }
 
