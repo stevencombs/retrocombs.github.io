@@ -183,15 +183,15 @@ nav hr {
   margin-bottom: 12px;
 }
 
-#post ul,
-#post ol {
-  margin-left: 1em;
-}
-
 #post code {
   background-color: #eee;
   font-size: 100%;
   padding: 0 .2em;
+}
+
+#post ul,
+#post ol {
+  margin-left: 1em;
 }
 
 /* CSS for Sub and Superscript */
