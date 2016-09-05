@@ -190,10 +190,11 @@ pre code {
   white-space: pre;
   border: none;
   background: transparent;
+  background-color: #DDDDDD;
 }
 
 .highlight pre {
-  background-color: #f8f8f8;
+  background-color: #DDDDDD;
   border: 1px solid #cccccc;
   font-size: 13px;
   line-height: 19px;
@@ -203,7 +204,7 @@ pre code {
 }
 
 pre {
-  background-color: #f8f8f8;
+  background-color: #DDDDDD;
   border: 1px solid #cccccc;
   font-size: 13px;
   line-height: 19px;
