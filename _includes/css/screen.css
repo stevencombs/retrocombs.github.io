@@ -180,8 +180,8 @@ code, tt {
   padding: 0 5px;
   white-space: nowrap;
   border: 1px solid #eaeaea;
-  background-color: #f8f8f8;
-  border-radius: 5px;
+  background-color: #DDDDDD;
+  border-radius: 0px;
 }
 
 pre code {
