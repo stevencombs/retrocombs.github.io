@@ -175,27 +175,19 @@ nav hr {
   font-size: 13px;
 }
 
-#post pre {
-  border: 1px solid #555;
-  background-color: #eee;
-  text-decoration-color: #000
-  font-size: 100%;
-  padding: 0 .2em;
-  margin-bottom: 12px;
-}
-
 #post ul,
 #post ol {
   margin-left: 1em;
 }
 
-#post code {
+#post pre code {
   margin: 0 2px;
   padding: 0 5px;
   white-space: nowrap;
   border: 1px solid #eaeaea;
   background-color: #f8f8f8;
-  border-radius: 3px; }
+  border-radius: 3px; 
+  }
 
 /* CSS for Sub and Superscript */
 
