@@ -175,7 +175,7 @@ nav hr {
   font-size: 13px;
 }
 
-#post pre {
+#post pre code {
   border: 0px;
   background-color: #eee;
   text-decoration-color: #000
@@ -187,13 +187,6 @@ nav hr {
 #post ul,
 #post ol {
   margin-left: 1em;
-}
-
-#post code {
-  border: 0px solid #aaa;
-  background-color: #eee;
-  font-size: 85%;
-  padding: 0 .2em;
 }
 
 /* CSS for Sub and Superscript */
