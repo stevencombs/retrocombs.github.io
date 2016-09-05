@@ -179,14 +179,14 @@ nav hr {
   background-color: #eee;
   text-decoration-color: #000
   font-size: 100%;
-  padding: 0 .2em;
+  padding: 1em 0em;
   margin-bottom: 12px;
 }
 
 #post code {
   background-color: #eee;
   font-size: 100%;
-  padding: 0 1em;
+  padding: 1em 0em;
 }
 
 #post ul,
