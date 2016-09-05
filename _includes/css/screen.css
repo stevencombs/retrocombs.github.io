@@ -177,9 +177,9 @@ nav hr {
 
 #post pre code {
   border: 0px;
-  background-color: #dddddd;
+  text-decoration-color: #000
   font-size: 100%;
-  padding: 0 1em;
+  padding: 0 .2em;
   margin-bottom: 12px;
 }
 
