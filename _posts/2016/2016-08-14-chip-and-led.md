@@ -43,26 +43,26 @@ My [flash the C.H.I.P.][17] post demonstrates how to add the C.H.I.P. to a netwo
 # Set the locale
 Use the *Terminal* command below to set the locale of the chip to ensure keyboard commands are geographically correct:
 
-`sudo apt-get update && sudo apt-get install locales && sudo dpkg-reconfigure locales && sudo locale-gen`
+	sudo apt-get update && sudo apt-get install locales && sudo dpkg-reconfigure locales && sudo locale-gen
 
 # Set timezone
 Use the command below to set the time zone to ensure the onboard clock is accurate:
 
-`sudo dpkg-reconfigure tzdata`
+	sudo dpkg-reconfigure tzdata
 
 This is important if you use time-based Python event programming.
 
 # Install Git
 The Python GPIO library requires Git. Use the command below to install Git:
 
-`sudo apt install git`
+	sudo apt install git
 
 > Learn [what Git can do][19]. It is a valuable tool to use when programming.
 
 # Install Python
 Use the command below to install the Python programming language:
 
-`sudo apt install python`
+	sudo apt install python
 
 # Install the Python GPIO Library
 Python on the C.H.I.P. requires a library to address and provide access to the GPIO pins. Use the library and instructions (also found below) from the GitHub site below:
@@ -116,7 +116,7 @@ Ensure there is still an SSH or Serial connection to the C.H.I.P.
 
 Type the following:
 
-`nano led-csid0-on.py`
+	nano led-csid0-on.py
 
 The *nano* editor will load a blank page.
 
@@ -140,7 +140,7 @@ Press `y` followed by ↩ to save the code and exit the editor. The Python code 
 
 Use the command below to execute the Python program to turn the LED off:
 
-`sudo python led-csid0-on.py`
+	sudo python led-csid0-on.py
 
 If the `[sudo] password for chip:` prompt appears, enter the default: `chip`
 
@@ -157,7 +157,7 @@ Now we need to turn off the LED. Don’t unplug the LED or reboot the C.H.I.P. W
 # Turn the LED off
 With the current SSH or serial connection, type the following:
 
-`nano led-csid0-off.py`
+	nano led-csid0-off.py
 
 The *nano* editor will load a blank page.
 
@@ -175,7 +175,7 @@ The nano editor will prompt you to save the code. Press `y` followed by ↩ to s
 
 Let's see if we can turn the LED off. Use the command below to turn the LED off:
 
-`sudo python led-csid0-off.py`
+	sudo python led-csid0-off.py
 
 If the `[sudo] password for chip:` prompt appears (and it may not this time), enter the default: `chip`
 
