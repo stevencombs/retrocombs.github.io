@@ -185,7 +185,8 @@ nav hr {
 #post code {
   background-color: #eee;
   font-size: 100%;
-  margin: 10px 10px 10px 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 #post ul,
