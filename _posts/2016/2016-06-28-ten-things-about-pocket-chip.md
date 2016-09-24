@@ -53,6 +53,8 @@ Do not hit the home button to get back to other apps or the *Terminal*. The incl
 ## Number 5: It's a really tiny screen
 Not all software will display properly on the small LCD screen and you may not be able to access all UI elements. There is no pinch and zoom currently and this is likely not an option. One option would be to have a utility that will scale the screen in some way so as to access all controls. Keeping my fingers crossed that some enterprising developer will find a way to take care of this.
 
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=wireless&banner=05Z80C1436ZHNQNKJBR2&f=ifr&linkID=958652a295dabbce9a8c29181477ed8a&t=stevenccom-20&tracking_id=stevenccom-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
 ## Number 6: Calibrate the touch screen
 If your resistive touch screen (not capacitance like screens found on tablets and phones) is giving you fits, you can calibrate it using these instructions: 
 
@@ -113,7 +115,7 @@ Below are my two favorite resources to learn Linux Terminal commands:
 
 I've been pouring through this book for days. I can easily throw the book and my PocketC.H.I.P. in my bag. When I have some free time, I take both out to learn more about Terminal commands. It's a very geeky combination. To this day, I cannot believe I didn't know about the simple `cal` command. As an educator, I also plan to recommend this package to students.
 
-* [Learning the Shell][10] on the [linuxcommand.org][11] site 
+* [Learning the Shell][10] on the [linuxcommand.org][11] site
 
 This is a free resource. The site loads quickly and you can browse the site on your PocketC.H.I.P.
 
