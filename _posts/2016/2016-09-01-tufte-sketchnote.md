@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edward Tufte seminar sketchnote'
-date: ’September 1, 2016'
+date: 'September 1, 2016'
 comments: 'yes'
 categories:
   - art
