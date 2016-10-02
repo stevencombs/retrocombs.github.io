@@ -9,17 +9,17 @@ categories:
 
 About this time every year, right before the holidays begin, [No Starch Press][1] sends me a review copy of their latest LEGO title. Last year it was the [The LEGO Architect]() and this year it is their equally fun imprint, [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3]. Receipt of these books prior to Halloween has become a fun tradition in the Combs household. It also comes with a promise to read and review the title; also something I look forward to. Let's take a look at this new book by David Scarfe.
 
-# A bit about David Scarfe
+# About David Scarfe
 I always begin my reviews with a bit of detail about the author, in this case David Scarfe. Here's the press release for David:
 
-> David Scarfe is a *Sunday Times* bestselling author as well as co-creator and designer of Channel 4's critically acclaimed cartoon *Full English*. He is a grade of the Royal Academy School of Arts
+> David Scarfe is a *Sunday Times* bestselling author as well as co-creator and designer of Channel 4's critically acclaimed cartoon *Full English*. He is a grade of the Royal Academy School of Arts.
 
 David has impressive artistic credentials and we will see them throughout the book. Interestingly, there is very little in the book about the author nor was I able to locate an online presence for his LEGO builds other than the No Starch site. If someone can point me to those, please leave a comment below. Despite my inability to locate an online presence for David, from model number one, it is evident that David knows his LEGO and has developed his own unique LEGO build style.
 
-# Overview of the title
+# Title overview
 This 7.75 x 10 inch book is hardbound with a matte cover. It includes 128 pages of high color glossy pages. It was released in September of 2016 and retails for $19.95 U.S. and 22.95 CND. [Amazon pricing][4] is in line with the MSRP. As with all No Starch LEGO books, the design is unique to the title and fits well with the retro and quirky nature of the builds.
 
-# Content
+# Contents
 The book begins with a short introduction stating the obvious, this is a book of inspirations. The 21 projects are designed not only for the reader to build, but to inspire their own geeky modifications and projects.
 
 What caught my eye immediately was the "retro" feel of the projects. From *"fuzzy" dice* to *floppy disks coasters*, this book is just full of "cool" projects. **If Austin Powers were to build with LEGO, these would be his creations.**
@@ -55,7 +55,7 @@ It is obvious that David draws from his art and cartooning background with these
 
 Regardless of the model, all are based on mosaic designs that provide detail with blocks of color. This is the appeal of David's models. Think Minecraft meets LEGO. Wait! That has already been done. Nevertheless, this is still a valid analogy because each of these models would be at home inside the world of Minecraft.
 
-# Recommendation
+# Final Recommendation
 As a child of the 70s and 80s, many of these models "speak" to me; especially the *space invader space savers* and *cassette letter holder*. Younger generations will enjoy the *rubber ducky* and *christmas decorations*. What David and No Starch have created is a book that can be enjoyed by LEGO fans of all ages. 
 
 This is a wonderful book to have handy throughout the holiday season. Parents will enjoy the nostalgia inside the book, while children will be itching to grab their tub of LEGO bricks and begin building Halloween, Thanksgiving, Christmas and other holiday decorations or even gifts. The fun and inspiration will come when they don't have the color or element suggested.
