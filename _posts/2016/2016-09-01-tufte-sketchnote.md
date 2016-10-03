@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Edward Tufte seminar sketchnote'
+title: 'Sketchnote: Edward Tufte seminar'
 date: 'September 1, 2016'
 comments: 'yes'
 categories:
