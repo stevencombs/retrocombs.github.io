@@ -7,7 +7,7 @@ categories:
   - lego
 ---
 
-Each year before the holidays begin, [No Starch Press][1] sends me a review copy of their latest LEGO title. Last year it was the [The LEGO Architect]() and this year it is their equally fun text, [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3]. Receipt of these books prior to Halloween has become a fun tradition in the Combs household. It also means a promise to read and review the book; something I've always enjoyed. Let's take a look at this new book by David Scarfe.
+Each year before the holidays begin, [No Starch Press][1] sends me a review copy of their latest LEGO title. Last year it was the [The LEGO Architect]() and this year it is, [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3]. Receipt of these books prior to Halloween has become a fun tradition in the Combs household. It also means a promise to read and review the book; something I've always enjoyed. Let's take a look at this new book by David Scarfe.
 
 # About David Scarfe
 Let me begin my review with detail about the author, David Scarfe. Below is information from the No Starch press release:
