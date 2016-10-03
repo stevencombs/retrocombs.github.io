@@ -56,7 +56,7 @@ It is obvious that David draws from his art and cartooning background for these 
 The designs provide detail with blocks of color. This is the appeal of David's models. Think Minecraft meets LEGO. Wait! That's been done. Nevertheless, this is still a valid analogy because each of these models would be at home inside the world of Minecraft.
 
 # Final Recommendation
-As a child of the 70s and 80s, many of these models "speak" to me; especially the *space invader space savers* and *cassette letter holder*. Younger generations will enjoy the *rubber ducky* and *christmas decorations*. What David and No Starch have created is a book that can be enjoyed by LEGO fans of all ages. 
+As a child of the 70s and 80s, many of these models "speak" to me; especially the *space invader space savers* and *cassette letter holder*. Younger generations will enjoy the *rubber ducky* and *Christmas decorations*. What David and No Starch have created is a book that can be enjoyed by LEGO fans of all ages. 
 
 This is a wonderful book to have handy throughout the holiday season. Parents will enjoy the nostalgia inside the book, while children will be itching to grab their tub of LEGO bricks and begin building Halloween, Thanksgiving, Christmas and other holiday decorations or even gifts.
 
