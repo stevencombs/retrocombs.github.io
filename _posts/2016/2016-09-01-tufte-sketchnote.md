@@ -32,10 +32,13 @@ As of this writing, the tweet below of this sketchnote was my most popular. It e
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/EdwardTufte">@EdwardTufte</a> seminar complete. Compelling workshop on presentation of data and info. Highly recommended. <a href="https://twitter.com/hashtag/sketchnote?src=hash">#sketchnote</a> <a href="https://t.co/88f1fRNhu9">pic.twitter.com/88f1fRNhu9</a></p>&mdash; Steven B. Combs (@StevenCombs) <a href="https://twitter.com/StevenCombs/status/769284114394611712">August 26, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+# Dedication
+This sketchnote is dedicated to the two colleagues from the Community Education Coalition that traveled with me to attend this session: Jack Hess and Amber Fischvogt. It was great to get to know the two of them better during our lunch and evening dinners in Chicago.
+
 [1]:	https://www.edwardtufte.com/tufte/courses
 [2]:	http://www.stevencombs.com/art/2015/03/20/staedtler-triplus-fineliner-review.html
 [3]:	http://amzn.to/2c5gouJ
 [4]:	http://amzn.to/2bRNBLp
 [5]:	http://amzn.to/2c5O8Z0
 
-[image-1]:	https://pbs.twimg.com/media/Cq0Li87WcAAPSuu.jpg
+[image-1]:	https://lh3.googleusercontent.com/30C0zW-GZsw78PFR2WV_RsiZyt9bs6NhS9gJY31knlOnWP40H0NwAx8LGpya0z65WUP4_ZCqvnRCxIKC2c_F93LFj1uwjexOH9YUVAxEGDF3ziLul2ixU1NtoZHp10DFZd0_Qmf6FSKPSgUabqJmjCaopDXDR-46mlJ8mgAWr37wfzCtyRnuxqRWILUBve6NcRgyMllxeMF6cg4UIuMb1Vw0OpOQNjLifstZtAfUkY9NiFmPLP8W1xtTVdeWbQpTupoSNFXWoLxtEmX_BHdz-EtVxJh11TS0mDipA3QFq-TiF-hV9b5dyfsee7Wiu-68PeM-yvEqS5AF8Fj4IJcJIclltQ_sDp9udCiAFosN5EtBO5Lk7J24fkvJ8SLS6SP1HSPY9j3379MBCh70Xsdw9Q-lHq74tq_s1x5jh8_3qRVZDn2i35PHq9MHgmIqO-wAdv5MvNajLsaIWlBmPEKw78Iv4u85_zQlH5iALBtBeGH9fYck7uZUsLpG3UkAZomCFUKpvvQHiMhbrfwTkAHk_gJawsuWTbBZnCT6KByQYJTbfogAfSgaxZkULvb8Jebd67EZi4Sa4T7vVJtK2K926jJEjYGe7uzwmgsJofZD-UeWvqaw9g=w741-h961-no
