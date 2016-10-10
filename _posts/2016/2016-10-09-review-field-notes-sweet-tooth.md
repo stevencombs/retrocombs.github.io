@@ -36,7 +36,7 @@ Upon first inspection, I did not believe these 3½" × 5½" memo books would hol
 
 ![][image-4]
 
-I've used the yellow memo book for over a month now and it has held up nicely. No torn pages, scuffed cover or noticeable wear despite being thrown into cargo pants pockets and suit pockets on a regular basis. The embossed front cover titles have some scratches as shown below; however, I'm quite pleased how well the memo book has held up.
+I've used the yellow memo book for over a month now and it has held up nicely. No torn pages, scuffed cover or noticeable wear despite being thrown into cargo pants pockets and suit pockets on a regular basis. The embossed front cover title has some scratches as shown below; however, I'm quite pleased how well the memo book has held up. Even the spine has help up well.
 
 ![][image-5]
 
