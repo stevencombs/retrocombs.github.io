@@ -73,7 +73,7 @@ I can see why there are Field Note enthusiasts who never miss a quarterly releas
 
 I am so tempted to purchase an annual subscription! If you like your paper products to have personality, look no further than Field Notes. They've even teamed with [other brands][14] to create customized products.
 
-Did I mention that these note books are friendly? The minute you remove them from their cellophane wrapping, you are greeted as shown in the image below:
+Did I mention that these memo books are friendly? The minute you remove them from their cellophane wrapping, you are greeted as shown in the image below:
 
 ![][image-8]
 
