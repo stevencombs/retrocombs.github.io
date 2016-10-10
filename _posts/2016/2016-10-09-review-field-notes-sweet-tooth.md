@@ -43,7 +43,7 @@ I've used the yellow memo book for over a month now and it has held up nicely. N
 For the on-the-go use these memo books are designed for, they perform admirably. I look forward to using both the red and the blue once the yellow is full.
 
 # Writing experience
-I knew the writing experience would not match that of the Rhodia I use daily; however, the paper is thick enough that most pens will not bleed through the page. The writing experience is quite pleasurable. I never dread pulling the memo book out of my pocket to capture notes as I do with small cheap spiral bound pads.
+I knew the writing experience would not match that of the Rhodia I use daily; however, the paper is thick enough that most pens will not bleed through the page. The writing experience is pleasurable. I never dread pulling the memo book out of my pocket to capture notes as I do with small cheap spiral bound pads.
 
 The page absorbs the ink, without spread, and dries quickly. As mentioned earlier, pages are thick enough that I don't have to worry about bleed. Disclaimer; I use the [Pilot Precise V5 RT][10] exclusively for my writing. It is a perfect match with the Sweet Tooth memo books in both size and ink quality. If someone has experience using a fountain pen with these memo books, drop a comment below.
 
@@ -73,10 +73,14 @@ I can see why there are Field Note enthusiasts who never miss a quarterly releas
 
 I am so tempted to purchase an annual subscription! If you like your paper products to have personality, look no further than Field Notes. They've even teamed with [other brands][14] to create customized products.
 
+Did I mention that these note books are friendly? The minute you remove them from their cellophane wrapping, you are greeted as shown in the image below:
+
+![][image-8]
+
 # Gallery
 I've included many images in this review; however, some didn't make the cut. You can view more images in my [Field Notes - Sweet Tooth][15] Google Photos album.
 
-![][image-8]
+![][image-9]
 
 # To buy, or not to buy
 **Buy**, these things are SWEET! Sweet Tooth Field Notes may be a bit more expensive, $9.99 for a pack of three, than other cheap paper note pads, but the quality, fun tricolors, rugged look, handy extras and superb quality will more than make up for the added cost. If you have a paper product fan on your holiday shopping list, these will make great gifts. Grab them before they are out of stock!
@@ -109,4 +113,5 @@ Are you a Field Notes fan? Drop a comment below and tell me which products you u
 [image-5]:	https://lh3.googleusercontent.com/ujgQqOV9YK4--0V6jwbQkS9CCd2SvxcoodJq6ZtsLMLK9aS2YTlA3Gn0gAJNXyLw64idWlOmUjQ=w1635-h1226-no
 [image-6]:	https://lh3.googleusercontent.com/7FCiPqLHEEtGPmy6KRxEfkT480_PtWw4eDQbEc_7V2oXglZ1YJcKCmf7z85Jgcft6hQLeeeT5-YhbgXpHY-KO7hhzZZOga--fPG9UMBcZT759uS6SHqb7xx8ursKVZOZhVwo9fAoa3GRgcwKvYSAXMWi5IobWKbnKJxRKe8ASfjsXmMcb55bSdD-tA87XBkVzxAJGaARuU0ffE9xRm-oWXeXsJgIQJReXFyZCI_yv4T4wY8e0suxnQn01c7ajfUawRxXZdGG3LQPZKVG81jyV3843r_FD-ei0ifRYsX1YsxR2n6ZxMBNB5XPGryiqSWoCZct33cMGXmJofCVXr4mU56hIiv6WzUVPCh6KtwWYvpiu0aW5c8YBT6x43_f8Dm7i_PnRqSZUlMjYLQ522R2AE1_9v1acsP4VR2mohkFuHy-57fhWf0m168Y4gDezkZAAx2mY_hDqdAQoLu29_aw98avMRMHlK0T8N3MXMMK9Q_GhSFnpofnkQ-Cv9CWhbAqXUAONLqklZRk6TkWXHXM0kniWGc3e_PcrNtDdj0uISAzzcnrCJ2zugmKE0-qWyUg_R-9hEB-BiEmF1TeDAg0osHHeR8ztsg67Om7akTLpFGRha5wbw=s1226-no
 [image-7]:	https://lh3.googleusercontent.com/z3nQHf3IJGlswI0xbP5Xlz4nAj1b0tox7vnhkn82RGQR3E_8dcsNcxp39DBRlM5e_AhBQkBeuwP_EDWWvgRdqjqHsDbY4dyT9vuq1mf-RStidHVi3By-c7kpsW1vzafe81TejuVcjjKMIvl1xcPsRbs2HiCy6fYnGrScaoZyF3Fq46rAWU0inwr_z9piLlXajjCQvTSNNy_pdNwzRhV3-DibB94HFpo4JNYSnurnIGQvpDva_4ahh15KLx2MNWhnHtq0tc-Yq6cX5drTfBns_6LhouvbK8iiz759zN9-Z-07NSj3sfV8LueIg1xQxVHIbhGVrPQrY4KpIfyo8iGA_M6RZTYRs0p4HRF7LtSKEKO8dxHP-VMHrf-fTWbchntDF4gA1uWMTsvI-9ZwM8cEcnY3w8SCin54PmZ07QvRy26g6E-kFsNawC5uE1Or0k8csobPfze3g3I3pGNC5rTqfftR9frmbnWfhODq8QrEzg5njyyo-iR62pygEOBZLkhE58_aF_60yT37mAp0jmjv_jt5symTgXPAPlVo0YICLOS_ORb9R1itYtJExnoC3jxRsdQm6Fx7VazesjCGPCj6U8YnTK0kx_GD2LUO-qCWsKykhSwcQg=s1226-no
-[image-8]:	https://lh3.googleusercontent.com/CA338e5o2rIqZNQIyeCxBfgJcmnNgKac81QsLlHv_DCPMfgPC-F9VHwcVnswuAMk8fSq3Ele6IllDhOX9XHVMaXFhx2tgiB3rFSmaqSnVEd4cEachDdhTLjQ0ODprgwCCGK_jIkP_SvLOuVUb3FHXL2zk8ZtLH_R9qGmuSuqNpmK1Rcy5H5sZPUU9KVrYYy6O0WdtleklyvI-R7aKLRDBV3sN1dz3XST5FNQlmelp7Aq8MTC3G4QVlqc_vWYsVPgiaLn7zWCOs60ajiQB-2f7UouZckbqR8PUPDMGRVsYyiNAnOBozbHrJ84OVwmsAu5Pz-YHLS9wtvDuXmU_5J8M-UD5vOA0hLKgS7YJJGNaWtA6Mgto4QfELNKidBmW49qLoSRzbbNnVwFrfC0y8WO5U1F4DuloJouVyVdG7pasn7n1uA_LDrzIC4NOX9HtLU_tGo-ULYRKVBwv2QjnSYd_6Z8g-K_ipSsBOCRVnzswq1hqLD-Yek1rYbH-PsIauSpR8VmwnjV-8PAuU1uBz0ElDZp_TBrWbt6OXAfl25TWq4u0qtUbe7P3roSl3SIUEZ1a34VqAOD50CaMDG97mqIM1_euBZ5vgFexG70CQ9bdT8bC5xO1w=s1226-no
+[image-8]:	https://lh3.googleusercontent.com/jBc79TRRpzybG9hLawq4JCCrIadK1lgyPTyUHf_HJbhzxC4PRoMpGBHM2tfQM0xcvc5ZgVnRhi1O5Gmia16A0MuDZx5VfUGOeZA-am7gR5NHLPC4VmvutsosgciOvk6iV_Z4n999_WtVJjRJreCnOsqQmDWriVq9EGIpvsyW8duNRFSUU72mV2j8C8fZnO28b33m8SGgCjRT4y5juBDmzJwVfSqXSJGgPikU6dklUdXTj42o2iAWHO43dHfm8Bmi2SGhodejJnWHZ0xenljV9tZ8Fhzvm6GVmXbYSkrZn_zGtdU3ns6gLDkkj8m8qsIAoC2bpYVn4LHCNms-SXZ7FPKFyMphFeOg176FDwWVxIoG-Zm4NnJ_jmdoygHfeRxzp8v7Jtg3BqgH45iKFrtM6yjG-mvsLNUvYtgeipm0s9P6Wej6w1703JqLg2_wVLG8lNzGmcKWVT9AfV8KtJxqz0t8Je4emEZmuF_BRkzFdDfHyuNc-y1H3TCxqgVAB9De0E3LZvRhtktjDesPKjGFH2MFIKMHnLeZZSFcQGD-Z2dvEflT_YSl3e7hE5XGVuog1pwUYDUKADLOXj_z6U7nxnZvYpf5q7tVlwXCYlfhUZ9edPZe3w=s1177-no
+[image-9]:	https://lh3.googleusercontent.com/CA338e5o2rIqZNQIyeCxBfgJcmnNgKac81QsLlHv_DCPMfgPC-F9VHwcVnswuAMk8fSq3Ele6IllDhOX9XHVMaXFhx2tgiB3rFSmaqSnVEd4cEachDdhTLjQ0ODprgwCCGK_jIkP_SvLOuVUb3FHXL2zk8ZtLH_R9qGmuSuqNpmK1Rcy5H5sZPUU9KVrYYy6O0WdtleklyvI-R7aKLRDBV3sN1dz3XST5FNQlmelp7Aq8MTC3G4QVlqc_vWYsVPgiaLn7zWCOs60ajiQB-2f7UouZckbqR8PUPDMGRVsYyiNAnOBozbHrJ84OVwmsAu5Pz-YHLS9wtvDuXmU_5J8M-UD5vOA0hLKgS7YJJGNaWtA6Mgto4QfELNKidBmW49qLoSRzbbNnVwFrfC0y8WO5U1F4DuloJouVyVdG7pasn7n1uA_LDrzIC4NOX9HtLU_tGo-ULYRKVBwv2QjnSYd_6Z8g-K_ipSsBOCRVnzswq1hqLD-Yek1rYbH-PsIauSpR8VmwnjV-8PAuU1uBz0ElDZp_TBrWbt6OXAfl25TWq4u0qtUbe7P3roSl3SIUEZ1a34VqAOD50CaMDG97mqIM1_euBZ5vgFexG70CQ9bdT8bC5xO1w=s1226-no
