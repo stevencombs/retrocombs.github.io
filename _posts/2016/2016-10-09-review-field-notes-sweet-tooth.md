@@ -58,7 +58,7 @@ Inside the back cover is a brief history of Field Notes, examples of "practical"
 
 Lastly, each page is perforated. Each page can be torn out of the memo book to share or begin an origami project. I can't bring myself to tear pages out of the book, but it is a nice option in the event I find a need to do so. Unlike some perforated books, I don't get the sense that these pages will easily remove themselves from the book. As a matter of fact, if you didn't know they were perforated, you might not even notice this feature.
 
-# Its a culture of products
+# It's a culture of products
 As I research Field Notes, I find that much like [Moleskine][11], there's a whole brand culture. The Field Notes culture is fun to follow and I recommend you visit the [Field Notes web site][12] to see what I mean.
 
 Each quarter of the year, Field Notes releases a new themed notebook. As of this writing, the Fall 2016 notebook is Lunacy, which is a moon themed notebook. See their roll out, including a snazzy video, [here][13]. "It's just a phase they are going through." Nice! 
@@ -79,7 +79,7 @@ I've included many images in this review; however, some didn't make the cut. You
 ![][image-8]
 
 # To buy, or not to buy
-**Buy**. Sweet Tooth Field Notes may be a bit more expensive, $9.99 for a pack of three, than other cheap paper note pads, but the quality, fun tricolors, rugged look, handy extras and superb quality will more than make up for the added cost. If you have a paper product fan on your holiday shopping list, these will make great gifts. Grab them before they are out of stock!
+**Buy**, these things are SWEET! Sweet Tooth Field Notes may be a bit more expensive, $9.99 for a pack of three, than other cheap paper note pads, but the quality, fun tricolors, rugged look, handy extras and superb quality will more than make up for the added cost. If you have a paper product fan on your holiday shopping list, these will make great gifts. Grab them before they are out of stock!
 
 Might I also recommend the [Field Notes Byline][16] edition, before they sell out, for your journalist/reporter friends? I'm not a reporter, but I couldn't resist these limited edition notepads. Look for a review in the future.
 
