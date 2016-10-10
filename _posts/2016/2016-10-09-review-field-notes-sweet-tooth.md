@@ -14,7 +14,7 @@ While I enjoy the Rhodia notebook's 5.5 x 8.3 inch size for meetings, it's too l
 2. 2 sets of two [Byline reporter's notebooks with receipt pocket][7]
 3. One unnamed set that will be a 2016 Christmas gift for a family member
 
-In this post I will review the [Field Notes Sweet Tooth 48 page memo books][8].
+In this post I review the [Field Notes Sweet Tooth 48 page memo books][8].
 
 ![][image-1]
  
@@ -25,14 +25,14 @@ The first thing you notice about the Sweet Tooth pack are the colors. Field Note
 
 You can use these colors to code the contents of each memo book, but I threw caution to the wind and grabbed a yellow pad to my first formal event; my nephew’s wedding.
 
-I took the yellow memo book out of my pocket during the wedding dinner and my sister in-law immediately asked what it was as I scribed a note. The foil embossed field note title on the front was likely to have caught her eye.
+I took the yellow memo book out of my pocket during the wedding dinner and my sister in-law immediately asked what it was as I scribed a note. The foil embossed Field Note title on the front was likely to have caught her eye.
 
 ![][image-3]
 
-For the rest of the event, anytime I brought out the notepad, my brother would proclaim, "He just thought of something!" Why yes I did and I finally had a way to capture thoughts quickly while suited up.
+For the rest of the event, anytime I brought out the notepad, my brother would proclaim, "He just thought of something!" Why yes I did and I finally had a place to capture my thoughts quickly while suited up and separated from my larger notebook.
 
 # Quality
-Upon first inspection, I did not believe these 3½" × 5½" memo books would hold up over time. The front and back covers are made of the same paper as the pages inside except they are thicker at 100-lb versus the 70-lb pages. However, my concerns were unfounded.
+Upon first inspection, I did not believe these 3½" × 5½" memo books would hold up over time. The front and back covers are made of the same paper as the pages inside except they are thicker at 100-lb versus the 70-lb interior pages. My concern was unfounded.
 
 ![][image-4]
 
