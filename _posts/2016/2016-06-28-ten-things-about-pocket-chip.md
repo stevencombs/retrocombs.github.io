@@ -24,19 +24,19 @@ The Google search page will load. You will most likely have to scroll up/down an
 
 **Try This:** Reader [buergi][1] provided the `surf` keystrokes below:
 
-`ctrl` + `g`: goto URL (opens URL bar)
-`ctrl` + `h`: back
-`ctrl` + `l`: forward
-`ctrl` + `r`: reload
-`↑` or `↓` or `→` or `←`: select Link
-`ctrl` + `u` or `i` or `j` or `k`: scroll
-`ctrl` + `↑` or `↓` or `→` or `←`: scroll
-`ctrl` + `b`: scroll pagewise
-`ctrl` + `o`: switch between page/source
-`ctrl` + `f` or `ctrl` + `/`: search in page
-`ctrl` + `n`: next result
-`ctrl` + `shift` + `n`: previous result
-`ctrl` + `q`: quit
+`ctrl` + `g`: goto URL (opens URL bar)  
+`ctrl` + `h`: back  
+`ctrl` + `l`: forward  
+`ctrl` + `r`: reload  
+`↑` or `↓` or `→` or `←`: select Link  
+`ctrl` + `u` or `i` or `j` or `k`: scroll  
+`ctrl` + `↑` or `↓` or `→` or `←`: scroll  
+`ctrl` + `b`: scroll pagewise  
+`ctrl` + `o`: switch between page/source  
+`ctrl` + `f` or `ctrl` + `/`: search in page  
+`ctrl` + `n`: next result  
+`ctrl` + `shift` + `n`: previous result  
+`ctrl` + `q`: quit  
 
 ## Number 2: Use a Terminal browser
 Download a terminal text-based browser to provide quick access to information (sans graphics). A couple of my favorites include `w3m`, `lynx` and `elinks`. 
