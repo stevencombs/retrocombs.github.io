@@ -160,7 +160,7 @@ The move from the Nexus 6 to the Google Pixel was more dramatic than expected. A
 
 ![][image-10]
 
-Google has restored my faith in their mobile operating system and their ability to create a premium mobile phone. The Pixel is a fabulous first attempt by Google to produce a premium, Google branded, phone. I know I will want to upgrade to the next release of the phone. I likely will not purchase due to the now high cost of the phones, but know I will be jealous of those who own one. The battle between premium phones just got interesting. 
+Google has restored my faith in their mobile operating system and their ability to create a premium mobile phone. The battle within the premium smartphone space just got interesting. The Pixel is a fabulous first attempt by Google to produce a premium, Google branded, phone. I likely will want to upgrade to the next release of the phone (because I always do) but will not due to the now high cost of the phone.
 
 Apple now has a true competitor for the premium smartphone category. Could the Android tablet market be next? Or how about that Chromebook market? [Rumor has it][32], ChromeOS and Android will soon merge. This will create another interesting device to compete with macOS and iOS.
 
