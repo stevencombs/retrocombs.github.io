@@ -40,6 +40,8 @@ Chris includes a retro *Computer* model that is reminiscent of a 1980s IBM PC. I
 
 The book ends without fanfare and includes a brief blurb about Chris and a link to his page. I highly recommend you review [his page][11] to get a feel for his style.
 
+The instruction pages, the majority of the book, provide all the information necessary to create each model. A materials list before each model, and opposite a completed model photograph, assists in the identification of the elements you will need for each build. Build steps are numbered to keep you on track. When necessary, the instructions include arrows to ensure correct placement of elements. I had no trouble following each step and enjoyed the colorful and visual style of the instructions.
+
 # Final Recommendation
 This is the perfect holiday book to purchase for yourself or as a gift for your favorite LEGO fan. Its smaller size makes it an excellent stocking stuffer. That is rare in the world of oversized and tome-like LEGO books. 
 
