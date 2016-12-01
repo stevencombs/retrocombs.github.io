@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Book Review - The LEGO Christmas Ornaments Book'
-date: 'November 1, 2016'
+date: 'December 1, 2016'
 comments: 'yes'
 categories:
   - lego
