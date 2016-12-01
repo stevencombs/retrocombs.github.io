@@ -10,7 +10,7 @@ categories:
 In the past year, [No Starch Press][1] sent both [The LEGO Architect][2] and [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3] for a review. On October 6, 2016, I also found Chris McVeigh's new book, [The LEGO Christmas Ornament Book: 15 Designs to Spread Holiday Cheer][4] in my mailbox. I mentioned in my [Geeky LEGO Crafts: 21 Fun and Quirky Projects][5] review that I was a huge fan of McVeigh's style so I was thrilled to receive this new book.
 
 # About Chris McVeigh
-Chris is well known among the LEGO community. He has an active social media presence on multiple platforms and maintains his LEGO related site at [chrismcveigh.com][6]. He is know for his LEGO photography, miniature models and something he has coined as "[Brick Sketches][7]." Chris has great "cred" among the adult fans of LEGO (AFOL) community. I am literally, one of his biggest fans and often share his creations (like the one shown below).
+Chris is well known among the LEGO community. He has an active social media presence on multiple platforms and maintains his LEGO related site at [chrismcveigh.com][6]. He is known for his LEGO photography, miniature models and something he has coined as "[Brick Sketches][7]." Chris has great "cred" among the adult fans of LEGO (AFOL) community. I am one of his biggest fans and often share his creations (like the one shown below).
 
 ![][image-1]
 
@@ -23,7 +23,7 @@ This 7.25 x 7.25 inch book is hardbound with a matte cover. It includes 216 colo
 
 ![][image-2]
 
-The traditionally bound book includes imaging inside the front and back covers to highlight the models inside. The glossy pages can make it difficult to review details while building; however,  that same gloss gives the book a premium feel while browsing. All-in-all, the book is the perfect size and feel that lend themselves well to the tagline on the back of the book, "Merry Brickmas!" You can't help but want to browse and review this book.
+The traditionally bound book includes imaging inside the front and back covers to highlight the models inside. The glossy pages can make it difficult to review details while building; however,  that same gloss gives the book a premium feel while browsing. The book is the perfect size. It lends itself well to the tagline on the back of the book, "Merry Brickmas!" You can't help but want to browse and review this book.
 
 # Contents
 The book, while small in size, is packed with ideas to make your LEGO holiday celebration festive. The intro is short. A single contents page follows. Chris includes 15 builds ranging from heavily holiday influenced *Christmas Tree* and *Present* to more non-holiday related builds such as *Computer* and *Burger*. 
@@ -34,7 +34,7 @@ Model difficulty ranges from beginner, *Wreath*, to expert, *Camera*. My persona
 
 ![][image-4]
 
-Chris includes a retro *Computer* model that is reminiscent of a 1980s IBM PC. It is shown in the image below along with more examples of the models you will find in this book. As a 1980s Commodore and [Mac][10] fan, my only wish from Santa is the inclusion of a model from those brands.
+Chris includes a retro *Computer* model that is reminiscent of a 1980s IBM PC. It is shown in the collage below. As a 1980s Commodore and [Apple][10] fan, my only wish from Santa is the inclusion of a model from those brands.
 
 ![][image-5]
 
