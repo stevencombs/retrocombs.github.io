@@ -11,7 +11,7 @@ published: true
 # Mobile Tech
 
 ## Pixel Phone
-I've already posted [my thoughts on the Pixel Phone][1], Google's first attempt to produce a mobile phone of the same quality and caliber as an Apple iPhone. In my view, this is the best Android phone on the market. While the high cost might lead some to look elsewhere, Android phone users looking for a pure Google premium phone need look no further.
+I've already posted [my thoughts on the Pixel Phone][1], Google's first attempt to produce a mobile phone of the same quality and caliber as an Apple iPhone. In my view, this is the best Android phone on the market. While the high cost might lead some to look elsewhere, Android phone users looking for a pure Google premium phone need look no further. Get Google's [Project Fi](https://fi.google.com/) service to save money on your montly service.
 
 ## Acer R13 Chromebook
 
@@ -23,6 +23,7 @@ I've already posted [my thoughts on the Pixel Phone][1], Google's first attempt 
 # Audio/Video
 
 ## Anker SoundCore
+A good Bluetooth speaker is imporatant to any gadget loving geek. The Anker SoundCore is my favorite to through into my travel bag. Purchase a case to keep is safe and secure.
 
 ## Fire TV Stick
 If you need a 4K experience, look to the Fire TV instead of the Fire TV Stick.
