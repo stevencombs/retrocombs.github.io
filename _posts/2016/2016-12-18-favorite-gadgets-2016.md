@@ -9,7 +9,7 @@ categories:
 
 This past year brought many gadgets into our home. As the year winds up, I decided to share my favorites and those I use on a regular basis. Some of these were purchased prior to 2016, but remain useful. I include prices that were accurate at the time of this writing. Below is a table of contents to provide quick access to each gadget description.
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+** Table of Contents:**
 
 - [Mobile Tech][1]
 	- [Google Pixel Phone][2]
@@ -35,8 +35,6 @@ This past year brought many gadgets into our home. As the year winds up, I decid
 	- [Anker 24W Dual USB Car Charger][22]
 	- [Logitech K400 Keyboard][23]
 	- [IKEA STORHÖGEN Battery Charger with Storage][24]
-
-<!-- /TOC -->
 
 # Mobile Tech
 My routine requires reliable mobile technology. I am frequently not at my desk and the ability to get things done on the road is important. Below are the mobile gadgets that keeps me sane and productive while on the go.
