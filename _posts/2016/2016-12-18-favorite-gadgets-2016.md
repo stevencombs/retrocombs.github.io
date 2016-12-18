@@ -9,7 +9,7 @@ categories:
 
 This past year brought many gadgets into our home. As the year winds up, I decided to share my favorites and those I use on a regular basis. Some of these were purchased prior to 2016, but remain useful. I include prices that were accurate at the time of this writing. Below is a table of contents to provide quick access to each gadget description.
 
-** Table of Contents:**
+**Table of Contents:**
 
 - [Mobile Tech][1]
 	- [Google Pixel Phone][2]
