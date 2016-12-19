@@ -13,6 +13,34 @@ I've had fun playing with the Pocket C.H.I.P. since it landed on my door. <strik
 
 **New updates and additions on:** December 18, 2016
 
+Table of contents is below so you can jump to a specific section.
+
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [A browser is built in](#a-browser-is-built-in)
+- [Use a Terminal browser](#use-a-terminal-browser)
+- [Help is available](#help-is-available)
+- [Use the app switcher](#use-the-app-switcher)
+- [Tiny screen](#tiny-screen)
+- [Calibrate the touch screen](#calibrate-the-touch-screen)
+- [Play retro style games and learn to program](#play-retro-style-games-and-learn-to-program)
+- [Use as a calculator](#use-as-a-calculator)
+- [Use a full-size keyboard](#use-a-full-size-keyboard)
+- [Control from a computer](#control-from-a-computer)
+- [Play Minecraft](#play-minecraft)
+- [Learn Linux Terminal commands](#learn-linux-terminal-commands)
+- [Watch Star Wars](#watch-star-wars)
+- [Replace the bash](#replace-the-bash)
+- [Bonus tips from the community](#bonus-tips-from-the-community)
+	- [WARNING TIPS](#warning-tips)
+	- [Customize the home screen](#customize-the-home-screen)
+	- [Add a speaker](#add-a-speaker)
+		- [Emulate games](#emulate-games)
+	- [Install Doom and a launch Icon](#install-doom-and-a-launch-icon)
+	- [Join the discussion](#join-the-discussion)
+
+<!-- /TOC -->
+
 # A browser is built in
 The Pocket C.H.I.P. has a built in browser called `surf`.
 
