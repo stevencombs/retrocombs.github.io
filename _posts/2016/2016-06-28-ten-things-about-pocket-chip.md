@@ -13,7 +13,7 @@ I've had fun playing with the Pocket C.H.I.P. since it landed on my door. <strik
 
 **New updates and additions on:** December 18, 2016
 
-Table of contents is below so you can jump to a specific section.
+Table of contents below so you can jump to a specific section.
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
