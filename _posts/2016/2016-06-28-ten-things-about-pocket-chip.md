@@ -17,27 +17,27 @@ Table of contents below so you can jump to a specific section.
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [A browser is built in](#a-browser-is-built-in)
-- [Use a Terminal browser](#use-a-terminal-browser)
-- [Help is available](#help-is-available)
-- [Use the app switcher](#use-the-app-switcher)
-- [Tiny screen](#tiny-screen)
-- [Calibrate the touch screen](#calibrate-the-touch-screen)
-- [Play retro style games and learn to program](#play-retro-style-games-and-learn-to-program)
-- [Use as a calculator](#use-as-a-calculator)
-- [Use a full-size keyboard](#use-a-full-size-keyboard)
-- [Control from a computer](#control-from-a-computer)
-- [Play Minecraft](#play-minecraft)
-- [Learn Linux Terminal commands](#learn-linux-terminal-commands)
-- [Watch Star Wars](#watch-star-wars)
-- [Replace the bash](#replace-the-bash)
-- [Bonus tips from the community](#bonus-tips-from-the-community)
-	- [WARNING TIPS](#warning-tips)
-	- [Customize the home screen](#customize-the-home-screen)
-	- [Add a speaker](#add-a-speaker)
-		- [Emulate games](#emulate-games)
-	- [Install Doom and a launch Icon](#install-doom-and-a-launch-icon)
-	- [Join the discussion](#join-the-discussion)
+- [A browser is built in][1]
+- [Use a Terminal browser][2]
+- [Help is available][3]
+- [Use the app switcher][4]
+- [Tiny screen][5]
+- [Calibrate the touch screen][6]
+- [Play retro style games and learn to program][7]
+- [Use as a calculator][8]
+- [Use a full-size keyboard][9]
+- [Control from a computer][10]
+- [Play Minecraft][11]
+- [Learn Linux Terminal commands][12]
+- [Watch Star Wars][13]
+- [Replace the bash][14]
+- [Bonus tips from the community][15]
+	- [WARNING TIPS][16]
+	- [Customize the home screen][17]
+	- [Add a speaker][18]
+	- [Emulate games][19]
+	- [Install Doom and a launch Icon][20]
+	- [Join the discussion][21]
 
 <!-- /TOC -->
 
@@ -50,7 +50,7 @@ The Pocket C.H.I.P. has a built in browser called `surf`.
 
 The Google search page will load. You will most likely have to scroll up/down and left/right to see the page. This is a very rudimentary browser with no user interface save for the scroll bars and some keystroke combinations (see below). In a pinch though, it is useful. To exit the browser, use the `ctrl` + `q` keyboard combination.
 
-**Try This:** Reader [buergi][1] provided the `surf` keystrokes below:
+**Try This:** Reader [buergi][22] provided the `surf` keystrokes below:
 
 `ctrl` + `g`: goto URL (opens URL bar)  
 `ctrl` + `h`: back  
@@ -81,9 +81,9 @@ When the installation is complete **try this:**
 The *Terminal* will display this site in all its text-based glory. Use the tab and arrow keys to navigate.
 
 # Help is available
-There is an excellent online bulletin board system (BBS) full of users and Next Computing staff to provide assistance and support. It is located at [https://bbs.nextthing.co/][2]. The community is quick to answer questions. Be sure to search the BBS before you post a question. You will most likely find an answer immediately. Before heading to the BBS though, review the documentation at:
+There is an excellent online bulletin board system (BBS) full of users and Next Computing staff to provide assistance and support. It is located at [https://bbs.nextthing.co/][23]. The community is quick to answer questions. Be sure to search the BBS before you post a question. You will most likely find an answer immediately. Before heading to the BBS though, review the documentation at:
 
-[http://docs.getchip.com/pocketchip.html][3]
+[http://docs.getchip.com/pocketchip.html][24]
 
 > The BBS community has been instrumental into the quality and accuracy of this post. Be sure to see the bonus "things to know" at the bottom of this post. Many "things to know" were provided by this group and I update this post frequently based on their suggestions. You may want to return in a day or two to see what I add.
 
@@ -100,12 +100,12 @@ Not all software will display properly on the small LCD screen and you may not b
 # Calibrate the touch screen
 If your resistive touch screen (not capacitance like screens found on tablets and phones) is giving you fits, you can calibrate it using these instructions:
 
-[http://www.chip-community.org/index.php/Troubleshooting#Calibrating\_Touchscreen\_on\_PocketChip][4]
+[http://www.chip-community.org/index.php/Troubleshooting#Calibrating\_Touchscreen\_on\_PocketChip][25]
 
 # Play retro style games and learn to program
 Pico 8 is a fabulous app that not only let's you play retro style games, but also learn/teach basic programming skills using the Lua programming language. Check out these excellent resources to get started:
 
-[https://github.com/felipebueno/awesome-PICO-8][5]
+[https://github.com/felipebueno/awesome-PICO-8][26]
 
 # Use as a calculator
 Use the included Python programming language as a built in calculator.
@@ -128,7 +128,7 @@ or
 
 Check out the resource below for additional calculator functions:
 
-[https://docs.python.org/3/tutorial/introduction.html][6]
+[https://docs.python.org/3/tutorial/introduction.html][27]
 
 For a more traditional calculator, **try this:**
 
@@ -136,20 +136,20 @@ In the *Terminal* type:
 
 `xcalc`
 
-Your Pocket C.H.I.P. is now an old school basic functions calculator as shown in the image below. This application makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to [midheaventech][7].
+Your Pocket C.H.I.P. is now an old school basic functions calculator as shown in the image below. This application makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to [midheaventech][28].
 
 ![xCalc on Pocket C.H.I.P.][image-2]
 
 # Use a full-size keyboard
-The [Logitech K400 keyboard][8] is an awesome external keyboard not only for a Raspberry Pi, but also the Pocket C.H.I.P. Plug the dongle into the USB port to make Pico 8 programming easier with the tiny little screen.
+The [Logitech K400 keyboard][29] is an awesome external keyboard not only for a Raspberry Pi, but also the Pocket C.H.I.P. Plug the dongle into the USB port to make Pico 8 programming easier with the tiny little screen.
 
 # Control from a computer
-Don't purchase an external keyboard. Control your Pocket C.H.I.P. using your computer keyboard and trackpad/mouse. Follow my [Raspberry Pi `x11vnc` instructions][9]. They work just as well on the C.H.I.P.
+Don't purchase an external keyboard. Control your Pocket C.H.I.P. using your computer keyboard and trackpad/mouse. Follow my [Raspberry Pi `x11vnc` instructions][30]. They work just as well on the C.H.I.P.
 
 ![Controlling the Pocket C.H.I.P. via x11vnc][image-3]
 
 # Play Minecraft
-(Added December 18, 2016) Minecraft is what all the kids are playing. Since the original release of the Pocket C.H.I.P., users have been asking, how do I play Minecraft on the Pocket C.H.I.P.? Next Thing Co. heard the pleas of the masses and created [step-by-step instructions][10] on their blog. Both individual and multiplayer options are available. Grab that pickaxe folks!
+(Added December 18, 2016) Minecraft is what all the kids are playing. Since the original release of the Pocket C.H.I.P., users have been asking, how do I play Minecraft on the Pocket C.H.I.P.? Next Thing Co. heard the pleas of the masses and created [step-by-step instructions][31] on their blog. Both individual and multiplayer options are available. Grab that pickaxe folks!
 
 ![][image-4]
 
@@ -158,11 +158,11 @@ Don't purchase an external keyboard. Control your Pocket C.H.I.P. using your com
 
 Below are my two favorite resources to learn Linux *Terminal* commands:
 
-* [The Linux Command Line: A Complete Introduction][11], 1st Edition by William E. Shotts Jr.
+* [The Linux Command Line: A Complete Introduction][32], 1st Edition by William E. Shotts Jr.
 
 I've been pouring through this book for days. I can easily throw the book and my PocketC.H.I.P. in my bag. When I have some free time, I take both out to learn more about *Terminal* commands. It's a very geeky combination. To this day, I cannot believe I didn't know about the simple `cal` command. As an educator, I also plan to recommend this package to students.
 
-* [Learning the Shell][12] on the [linuxcommand.org][13] site
+* [Learning the Shell][33] on the [linuxcommand.org][34] site
 
 This is a free resource. The site loads quickly and you can browse the site on your PocketC.H.I.P.
 
@@ -176,12 +176,12 @@ Watch the original Star Wars story unfold on your Pocket C.H.I.P. **Try this:** 
 
 ![][image-6]
 
-Intrigued? Visit my [fish on C.H.I.P.s blog post][14] to learn more.
+Intrigued? Visit my [fish on C.H.I.P.s blog post][35] to learn more.
 
 # Bonus tips from the community
 
 ## WARNING TIPS
-Thanks to [senkun][15] for these tips.
+Thanks to [senkun][36] for these tips.
 
 > Don't peel off the plastic film off the super clicky buttons. The film holds the buttons in place.
 
@@ -196,52 +196,73 @@ When my Pocket C.H.I.P. first arrived, I too wondered if I should peel off the k
 ## Customize the home screen
 (Updated: August 13, 2016): (marshmallow from the BBS): The PocketC.H.I.P. includes a home screen; however, you can replace it with an outstanding, and in continual development, replacement called *Pocket Home*. It's an easy install and the home screen replacement provides some great features such as adding and deleting items and changing the background color or image.
 
-Learn more on the [Next Thing Co. BBS post from *marshmallow*][16]
+Learn more on the [Next Thing Co. BBS post from *marshmallow*][37]
 
 ## Add a speaker
-(bmjohnsn from the BBS) It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with [this clever little soldering hack][17], you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
+(bmjohnsn from the BBS) It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with [this clever little soldering hack][38], you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
 
 ### Emulate games
 (bmjohnsn from the BBS) bmjohnsn recommends this Nintendo-centric retro gaming link:
 
-[https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027][18]
+[https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027][39]
 
-However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE][19] support for Commodore computing. How awesome would that be?
+However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE][40] support for Commodore computing. How awesome would that be?
 
-**UPDATE:** [The Rift Conspiracy][20] provides [instructions to download and configure the VICE emulator][21] for the Pocket C.H.I.P. I've installed (see image below), but have not tried any games or applications yet. I hope to do so soon.
+**UPDATE:** [The Rift Conspiracy][41] provides [instructions to download and configure the VICE emulator][42] for the Pocket C.H.I.P. I've installed (see image below), but have not tried any games or applications yet. I hope to do so soon.
 
 ![VICE on Pocket C.H.I.P.][image-7]
 
 ## Install Doom and a launch Icon
 The official Next Thing Co. blog now provides instruction to install Doom and include a launch icon to the home screen. It's a bit of a hack, but does show active development and is a fun way to learn more about your little hand held Linux box.
 
-[Install Doom & give it an icon on the home screen][22]
+[Install Doom & give it an icon on the home screen][43]
 
 ## Join the discussion
 Have something else I should add to the list that other Pocket C.H.I.P. owners should know? Drop in the comments below. I would love to read your suggestions.
 
-[1]:	https://disqus.com/by/buergi/
-[2]:	https://bbs.nextthing.co/
-[3]:	http://docs.getchip.com/pocketchip.html
-[4]:	http://www.chip-community.org/index.php/Troubleshooting#Calibrating_Touchscreen_on_PocketChip
-[5]:	https://github.com/felipebueno/awesome-PICO-8
-[6]:	https://docs.python.org/3/tutorial/introduction.html
-[7]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs
-[8]:	http://amzn.to/29loNc3
-[9]:	http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
-[10]:	http://blog.nextthing.co/play-minecraft-on-your-c-h-i-p-pocketc-h-i-p/
-[11]:	http://amzn.to/2bvjFa0
-[12]:	http://linuxcommand.org/learning_the_shell.php
-[13]:	http://www.linuxcommand.org
-[14]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
-[15]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs
-[16]:	https://bbs.nextthing.co/t/new-pocket-home-marshmallow-edition/6579
-[17]:	https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511
-[18]:	https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
-[19]:	http://vice-emu.sourceforge.net/
-[20]:	http://www.rift.dk/
-[21]:	http://www.rift.dk/blog/run-vice-on-your-pocketchip
-[22]:	http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/
+[1]:	#a-browser-is-built-in
+[2]:	#use-a-terminal-browser
+[3]:	#help-is-available
+[4]:	#use-the-app-switcher
+[5]:	#tiny-screen
+[6]:	#calibrate-the-touch-screen
+[7]:	#play-retro-style-games-and-learn-to-program
+[8]:	#use-as-a-calculator
+[9]:	#use-a-full-size-keyboard
+[10]:	#control-from-a-computer
+[11]:	#play-minecraft
+[12]:	#learn-linux-terminal-commands
+[13]:	#watch-star-wars
+[14]:	#replace-the-bash
+[15]:	#bonus-tips-from-the-community
+[16]:	#warning-tips
+[17]:	#customize-the-home-screen
+[18]:	#add-a-speaker
+[19]:	#emulate-games
+[20]:	#install-doom-and-a-launch-icon
+[21]:	#join-the-discussion
+[22]:	https://disqus.com/by/buergi/
+[23]:	https://bbs.nextthing.co/
+[24]:	http://docs.getchip.com/pocketchip.html
+[25]:	http://www.chip-community.org/index.php/Troubleshooting#Calibrating_Touchscreen_on_PocketChip
+[26]:	https://github.com/felipebueno/awesome-PICO-8
+[27]:	https://docs.python.org/3/tutorial/introduction.html
+[28]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs
+[29]:	http://amzn.to/29loNc3
+[30]:	http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
+[31]:	http://blog.nextthing.co/play-minecraft-on-your-c-h-i-p-pocketc-h-i-p/
+[32]:	http://amzn.to/2bvjFa0
+[33]:	http://linuxcommand.org/learning_the_shell.php
+[34]:	http://www.linuxcommand.org
+[35]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
+[36]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs
+[37]:	https://bbs.nextthing.co/t/new-pocket-home-marshmallow-edition/6579
+[38]:	https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511
+[39]:	https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
+[40]:	http://vice-emu.sourceforge.net/
+[41]:	http://www.rift.dk/
+[42]:	http://www.rift.dk/blog/run-vice-on-your-pocketchip
+[43]:	http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/
 
 [image-1]:	http://www.stevencombs.com/images/posts/chip/pocket_chip.jpg
 [image-2]:	http://www.stevencombs.com/images/posts/chip/xCalc.png
