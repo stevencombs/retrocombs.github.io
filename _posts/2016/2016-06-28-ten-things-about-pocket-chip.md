@@ -1,3 +1,5 @@
+
+---
 layout: post
 title: 'Things to know about your new Pocket C.H.I.P.'
 date: 'June 28, 2016'

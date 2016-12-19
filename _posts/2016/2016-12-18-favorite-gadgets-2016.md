@@ -35,7 +35,7 @@ This past year brought many gadgets into our home. As the year winds up, I decid
 	- [IKEA STORHÖGEN Battery Charger with Storage][24]
 
 # Mobile Tech
-My routine requires reliable mobile technology. I am frequently not at my desk and the ability to get things done on the road is important. Below are the mobile gadgets that keeps me sane and productive while on the go.
+My routine requires reliable mobile technology. I am frequently not at my desk and the ability to get things done on the road is important. Below are the mobile gadgets that keep me sane and productive while on the go.
 
 ## Google Pixel Phone
 I've posted [my thoughts on the Pixel Phone][25], Google's first attempt to produce a mobile phone of the same quality and caliber as an Apple iPhone. In my view, this is the best Android phone on the market. While the phone's high cost may cause some to look elsewhere, Android users looking for a pure Google premium phone need look no further. Use this phone on Google's [Project Fi][26] mobile plan to save money on your monthly service and recoup the cost of the phone or pay for it over time.
