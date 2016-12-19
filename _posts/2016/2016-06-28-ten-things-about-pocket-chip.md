@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'Things to know about your new Pocket C.H.I.P.'
