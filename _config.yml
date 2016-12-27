@@ -13,6 +13,7 @@ exclude:
 lsi: false
 comments: true
 highlighter: rouge
+theme: jekyll-theme-minimal
 
 themed:
   email: steven.combs@gmail.com
