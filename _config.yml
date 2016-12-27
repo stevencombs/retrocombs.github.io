@@ -15,16 +15,16 @@ lsi: false
 comments: true
 highlighter: rouge
 
-# themed:
-#  email: steven.combs@gmail.com
-#  google_analytics_key: UA-1632774-9
-#  highlight_color: "#3498db"
-#  name: "Steven Combs"
-#  show_disclaimer: true
-#  social:
-#    gplus: +StevenCombsPhD
-#    linkedin: stevencombs
-#    twitter: StevenCombs
-#    github: stevencombs
-#    tumblr: stevencombs
-#    facebook: steven.b.combs
+themed:
+ email: steven.combs@gmail.com
+ google_analytics_key: UA-1632774-9
+ highlight_color: "#3498db"
+ name: "Steven Combs"
+ show_disclaimer: true
+ social:
+   gplus: +StevenCombsPhD
+   linkedin: stevencombs
+   twitter: StevenCombs
+   github: stevencombs
+   tumblr: stevencombs
+   facebook: steven.b.combs
