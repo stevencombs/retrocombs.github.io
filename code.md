@@ -14,7 +14,7 @@ Below are my code related project attempts. I also maintain a [GIST repository](
 I’m creating a [Hello World page](http://www.stevencombs.com/hello-world/) that demonstrates a single program in multiple languages. You may find this valuable if you are new to coding and have an interest in the different programming languages and structure. *Please note that this page is under construction.*
 
 ## Alfred Workflows
-Alfred workflows I have created or use on a regular basis are below.
+My Alfred workflows creations or those I use on a regular basis are below.
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.alfred %}

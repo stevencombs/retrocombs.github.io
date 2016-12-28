@@ -20,7 +20,7 @@ None
 # Furniture
 
 ![Child's Bed](http://www.stevencombs.com/for-sale/IMG_20150926_171610.jpg)
-This Child's bed includes lightly used mattress. Bed was converted from an IKEA bunk bed set. Rails ensure child doesn't fall out and stands are also included to prop the bed up a bit. **Child's Bed and Mattress is $40**.
+This Child's bed includes lightly used mattress. Bed was converted from an IKEA bunk bed set. Rails ensure child doesn't fall out and stands are also included to prop the bed up a bit. **Child's Bed and Mattress is $20**.
 
 # Electronics
 

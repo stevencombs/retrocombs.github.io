@@ -5,7 +5,7 @@ title: Google
 
 <img class="category" src="http://www.stevencombs.com/images/design/google.svg" />
 
-I write often about [Apple](apple.html) products; however, I am also a fan of Google products and services. Along with my iOS and OS X devices, I also own a Chromebook and Nexus 6. Chrome is my primary browser on all devices. I'm a Google Fi customer and can't even remember a day when I didn't use Google Drive or Google Inbox to access my important files and email. I guess you can call me an Apple-Google fanboy.
+I write often about [Apple](apple.html) products; however, I am also a fan of Google products and services. Along with my iOS and OS X devices, I also own a [Acer R13 Chromebook](http://amzn.to/2i5kWGy) and Pixel phone. Chrome is my primary browser on all devices. I'm a Google Fi customer and can't even remember a day when I didn't use Google Drive or Google Inbox to access my important files and email. I guess you can call me an Apple-Google fanboy.
 
 ## Android
 
