@@ -13,7 +13,7 @@ exclude:
   - .DS*
 lsi: false
 comments: true
-highlighter: pygments
+highlighter: rouge
 
 themed:
  email: steven.combs@gmail.com
