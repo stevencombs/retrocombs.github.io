@@ -28,3 +28,7 @@ themed:
    github: stevencombs
    tumblr: stevencombs
    facebook: steven.b.combs
+
+tipue_search:
+  include:
+    pages: true
