@@ -5,21 +5,6 @@ title: Home Page
 
 <!-- This page must remain in html format -->
 
-<h2>Tipuesearch Test</h2>
-<form action="{{ page.url | relative_url }}">
-  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
-  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
-  <div style="clear: both;"></div>
-</form>
-
-<div id="tipue_search_content"></div>
-
-<script>
-$(document).ready(function() {
-  $('#tipue_search_input').tipuesearch();
-});
-</script>
-
 <a href="/blog.html"><img nopin="nopin" style="float: left; width: 16.6%;" src="/images/design/blog.svg" title="Blog roll – the whole enchilada" alt="Blog" /></a>
 
 <a href="/about.html"><img nopin="nopin" style="float: left; width: 16.6%;" src="/images/design/about.svg" title="More about Steven" alt="About" /></a>
@@ -57,6 +42,23 @@ $(document).ready(function() {
 <a href="/index.html"><img nopin="nopin" style="float: left; width: 16.6%;" src="/images/design/place-holder.svg" title="Place Holder for future sections" alt="Placeholder" /></a>
 
 <hr/>
+
+<h2>Tipuesearch Test</h2>
+<form action="{{ page.url | relative_url }}">
+  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
+  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+  <div style="clear: both;"></div>
+</form>
+
+<div id="tipue_search_content"></div>
+
+<script>
+$(document).ready(function() {
+  $('#tipue_search_input').tipuesearch();
+});
+</script>
+
+</hr/>
 
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:10 %}
