@@ -18,20 +18,20 @@
   <link rel="stylesheet" href="/assets/css/all.css">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.min.css">
 
+  <!-- Tipuesearch Code -->
+  {% if page.tipue_search_active or layout.tipue_search_active %}
+  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+  <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+  <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+  {% endif %}
+  <!-- End Tipuesearch Code -->
+
 <!-- Start Shareaholic Code -->
 <script type='text/javascript' data-cfasync='false' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='b8f70ae32498ed656c574f3e35e36039' async='async'></script>
 <!-- End Shareaholic Code -->
-
-<!-- Tipuesearch Code -->
-{% if page.tipue_search_active or layout.tipue_search_active %}
-<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
-<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
-<script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
-<script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
-{% endif %}
-<!-- End Tipuesearch Code -->
 
 </head>
 <body>
@@ -49,9 +49,9 @@
     © {{ site.name }}, 2014 → 2016 | Built with <a href="http://jekyllrb.com/">Jekyll</a> and the <a href="http://jekyllthemes.org/themes/lagom/">Lagom theme</a> | Hosted on <a href="http://www.github.com">GitHub</a>
 </p>
 
-<!--      <div class="footer">
+<!--<div class="footer">
         {% include footer.html %}
-      </div>
+    </div>
 -->
     </div>
   </div>
