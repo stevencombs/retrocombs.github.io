@@ -41,6 +41,10 @@ h3 {
   margin: 0 0 0 0;
 }
 
+form {
+border: 0px;
+}
+
 ul {
   list-style: disc;
 }
