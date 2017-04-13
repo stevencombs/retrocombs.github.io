@@ -43,16 +43,6 @@ title: Home Page
 
 <hr/>
 
-<div id="tipue_search_content"></div>
-
-<script>
-$(document).ready(function() {
-  $('#tipue_search_input').tipuesearch();
-});
-</script>
-
-</hr/>
-
 <h1>Latest Posts</h1>
 {% for post in site.posts limit:10 %}
 <li style='list-style-type: none;'>
