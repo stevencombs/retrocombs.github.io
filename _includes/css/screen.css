@@ -69,6 +69,7 @@ iframe {
 
 table.gsc-search-box {
 	border: 0px;
+	alignment-baseline: top;
 }
 
 table {
