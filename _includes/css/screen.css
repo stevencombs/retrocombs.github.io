@@ -41,10 +41,6 @@ h3 {
   margin: 0 0 0 0;
 }
 
-form {
-border: 0px;
-}
-
 ul {
   list-style: disc;
 }
@@ -78,7 +74,7 @@ table {
   margin-bottom: 14px;} /* Bottom Table Padding Test */
 
   table tr {
-    border-top: 1px solid #cccccc;
+    border-top: 0px solid #cccccc;
     background-color: white;
     margin: 0;
     padding: 0; }
