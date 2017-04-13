@@ -67,6 +67,10 @@ iframe {
 
 /* End Main Page Search Box CSS */
 
+table.gsc-search-box {
+	border: 0px;
+}
+
 table {
   font-size: inherit;
   font: 100%;
