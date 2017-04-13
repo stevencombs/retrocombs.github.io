@@ -1,6 +1,6 @@
 ---
-layout: default
-permalink: /search/
+layout: pages
+title: Search Page 2
 ---
 
 <div id="home-search" class="home">
