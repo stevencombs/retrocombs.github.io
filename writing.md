@@ -3,7 +3,7 @@ layout: pages
 title: Writing
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/writing.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/place-holder.svg" />
 
 I've been a writer most of my adult life (mainly non-fiction) and use various tools for this work. This page consolidates those posts.
 
