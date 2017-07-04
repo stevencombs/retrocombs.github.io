@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Code
+title: Writing
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/writing.svg" />
