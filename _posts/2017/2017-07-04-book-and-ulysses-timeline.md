@@ -80,7 +80,7 @@ I hope other authors using Ulysses find this technique useful. If so, let me kno
 ---- 
 *Are you a literary agent looking for a motivated, experienced writer with an intriguing genre story? Why not get in touch with me now and learn more. First draft will be finished by December 2017 with an anticipated final draft ready by February 2018.*
 
-[1]:	amazon.com/author/stevencombs
+[1]:	https://www.amazon.com/author/stevencombs
 [2]:	https://www.ulyssesapp.com/
 [3]:	https://www.timeanddate.com/calendar/basic.html
 
