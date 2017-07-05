@@ -5,14 +5,11 @@ title: About Steven
 
 <img class="category" src="http://www.stevencombs.com/images/design/about.svg" />
 
-This pages serves two purposes:
+This page lists posts that provide insights into my personal interests or that do not fit within major blog categories. It also provides a comprehensive employment biography that can be used as a narrative for conference and presentation introductions.
 
-• it lists posts that provide insights into my personal interests and that do not fit within major blog categories  
-• it provides a comprehensive employment biography that can be used as a narrative for conference and presentation introductions
+This page can be accessed and shared using the link below:
 
-While both of these may seem a bit self-serving, the number of times I receive requests for these items amazes me. Now I have an easy way to provide this information. I simply send the link below.
-
-Share URL: <http://www.stevencombs.com/about>
+<http://www.stevencombs.com/about>
 
 ## Post about me
 
