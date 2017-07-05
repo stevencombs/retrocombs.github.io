@@ -3,15 +3,8 @@ layout: pages
 title: About Steven
 ---
 
-<img
-src="http://www.stevencombs.com/images/design/about.svg"
-style="
-  float: left;
-  width: 100px;
-  margin-left: -7px;
-  margin-top: -3px;
-  "
-/>
+<img class="category" src="http://www.stevencombs.com/images/design/about.svg" />
+
 This pages serves two purposes:
 
 • it lists posts that provide insights into my personal interests and that do not fit within major blog categories  
@@ -31,11 +24,11 @@ Share URL: <http://www.stevencombs.com/about>
 
 ## Biography
 
-Steven B. Combs, Ph.D. is currently the campus president for the [Columbus, Indiana campus of Ivy Tech Community College](http://www.ivytech.edu/columbus). In this position he fosters community engagement/collaboration and is responsible for campus and instructional site operations in the communities of Columbus, Seymour, Greensburg, Scottsburg, North Vernon and Nashville. Before this role, he served seven months as the interim chancellor for the previous Ivy Tech Community College – Columbus/Franklin region.
+Steven B. Combs, Ph.D. is currently the chancellor for the [Columbus, Indiana campus of Ivy Tech Community College](http://www.ivytech.edu/columbus). In this position he is the senior campus executive officer. He fosters community engagement/collaboration and is responsible for campus and instructional site operations in the communities of Columbus, Seymour, Greensburg, and North Vernon. Combs also serves as an adjunct faculty member for Purdue Polytechnic Columbus.
 
-Prior to these higher education executive leadership roles, Combs served as the vice chancellor for academic affairs for the Ivy Tech Community College – Columbus/Franklin region. Two years earlier, he served as dean and professor for the School of Applied Science and Engineering Technology at Ivy Tech Community College – Lafayette.
+Before service as chancellor, he was the campus president for two years. Seven months prior to that position, he was appointed the interim chancellor for the previous Ivy Tech Community College – Columbus/Franklin region while also serving as the vice chancellor for academic affairs, a role he held for two years prior. Two years earlier, he served as dean and professor for the School of Applied Science and Engineering Technology at Ivy Tech Community College – Lafayette.
 
-He is a 27 year military veteran and began his service as an airman in the United States Air Force as an automatic flight control specialist. During college, he transferred to the [Army Reserve Officer Training Corp][0511-001] to obtain his federal commission. He retired from the Army Reserve holding the rank of Major having served as an armor officer and later an adjutant general officer.
+He is a 27 year military veteran and began his service as an airman in the United States Air Force as an automatic flight control specialist. During college, he transferred to the [Army Reserve Officer Training Corp][0511-001] to obtain his federal commission. He retired from the Army Reserve holding the rank of Major having served as an armor officer and later an adjutant general corps officer.
 
 Major Combs served on active duty for 2 years as the chief, command and control systems section at [United States Transportation Command (USTRANSCOM)][0511-002] where he supervised 18 contractors who maintained all secure enterprise level information technology systems. Upon his departure from USTRANSCOM he was awarded the [Defense Meritorious Service Medal][0511-003] for his service.
 
