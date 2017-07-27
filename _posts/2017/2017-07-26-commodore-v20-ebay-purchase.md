@@ -13,8 +13,7 @@ I've been reminiscing about my first computer, the [Commodore VIC-20][1], since 
 > 
 >  <iframe width="560" height="315" src="https://www.youtube.com/embed/-V-bPLmtAFg" frameborder="0" allowfullscreen></iframe>
 
-</p>
-
+  
 Although the seller listed the VIC-20s "for parts only," I believed that from the four, I could get at least one working. I waited patiently for them to arrive at my door three days later. I have to give kudos to the seller. The computers, software and peripherals were lovingly packed and everything was as advertised.
 
 After an unboxing and close inspection of the contents, I believed I found a solution to the non working computer problem. The use of an RCA to coaxial cable adapter got me 50% of the way through my troubleshooting. Within thirty minutes, I had two VIC-20s working, one almost working (some fuzzy video that I think I can adjust), and one that likely is completely dead (I need to put a volt-ohm meter on it to confirm). This "dead" VIC-20 is in horrible shape complete with cracks, yellowing, missing keys, etc.
