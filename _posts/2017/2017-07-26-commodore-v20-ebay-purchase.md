@@ -24,8 +24,9 @@ They all are very dirty interiors. The first step will be to completely clean bo
 I plan to display one working VIC-20 in my home office and another working VIC-20 in my college office. The broken VIC-20, that I'm not actually sure I can get running, may be gutted. I will then install a [Raspberry Pi 3][4] and use the original keyboard as the input device. With the Raspberry Pi 3 replacing the original motherboard, I will bring the VIC-20 back to life using the wonderful [Combian 64][5] Linux distribution that boots directly to the [VICE Commodore emulator][6]. Using this Linux distribution the newly enhanced VIC-20 can emulate any one of many great early Commodore computers including the VIC-20, PET, 64, Plus/4 and even the 128. 
 
 I am happy to know that I will be able to restore at least a couple of these computers from what was considered to be four "parts only" computers. I look forward to returning to my glory days of computing and experiencing what made Commodore VIC-20s so magical during the 1980s. As I continue this project, I'll do my best, time permitting, to share my experiences and the tips and tricks I learned along the way. If you have tips for me, please drop them in the comments section, below the eBay listing, below.
----- 
+
 ## eBay Listing
+
 > ![][image-1]
 > Up for auction is largely a parts or repair lot of Commodore VIC-20 stuff. I want to be very clear, this strictly is for parts or repair. Below I will describe conditions to the best of my knowledge, but the entire lot should be considered for parts or repair. I'm mostly a Commodore 64/128 guy and I'm liquidating all of my excess VIC-20 stuff. I don't have enough knowledge to quickly repair the VIC-20 line and I just keep one for the "collection" and hope someone else will find enjoyment out of the rest. This is a $9.99 no reserve plus calculated shipping auction to help me clear out my house and move on to the next project. The $10 is really just to cover the time and packing materials. I'd rather this stuff go to an enthusiast rather than a thrift store or recycler. 
 > 
@@ -70,7 +71,6 @@ I am happy to know that I will be able to restore at least a couple of these com
 > This is a 24 x 18 x 18 heavy duty box packed to the gills with nearly 55 pounds of VIC-20 stuff and packing materials. I filled as many voids as possible of the VIC-20 original boxes with the extras. Remaining extras and computers are wrapped in ESD bubble wrap and brown packing paper makes up any other slack in the box. Great care was taken to ensure this arrives in similar condition that it leaves in. Not counting the trip to Lowe's for the box, it took an hour to pack this stuff! This will have to ship UPS ground. I will ship it for exactly what UPS charges me to do so. I presume the eBay calculator is fairly correct, but if you want a guaranteed quote ahead of time, message me and I will check it manually. It is boxed, packed, and ready to go. It will ship out within two business days of receipt of payment, typically the next day.
 > 
 > A note about shipping costs for your consideration: I am a hobbyist/enthusiast of vintage computing, not a commercial endeavor. All items are packed very carefully using packing paper, ESD bubble wrap (where appropriate), and USPS Priority Mail packaging when possible.
----- 
 
 [1]:	https://en.wikipedia.org/wiki/Commodore_VIC-20
 [2]:	http://www.stevencombs.com/writing/2017/07/04/book-and-ulysses-timeline.html
