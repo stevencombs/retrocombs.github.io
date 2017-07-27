@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Commodore VIC 20 eBaybay purchase'
+title: 'Commodore VIC 20 eBay purchase'
 date: 'July 26, 2017'
 comments: 'yes'
 categories:
