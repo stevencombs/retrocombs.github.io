@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Commodore VIC 20 eBay purchase'
+title: 'Commodore VIC-20 eBay purchase'
 date: 'July 26, 2017'
 comments: 'yes'
 categories:
@@ -12,6 +12,8 @@ I've been reminiscing about my first computer, the [Commodore VIC-20][1], since 
 > Never heard of the Commodore VIC-20? Hear what "The Shat" has to say about this computer in the 1982 commercial below.
 > 
 >  <iframe width="560" height="315" src="https://www.youtube.com/embed/-V-bPLmtAFg" frameborder="0" allowfullscreen></iframe>
+
+</p>
 
 Although the seller listed the VIC-20s "for parts only," I believed that from the four, I could get at least one working. I waited patiently for them to arrive at my door three days later. I have to give kudos to the seller. The computers, software and peripherals were lovingly packed and everything was as advertised.
 
