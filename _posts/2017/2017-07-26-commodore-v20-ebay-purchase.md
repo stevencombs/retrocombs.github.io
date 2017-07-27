@@ -13,6 +13,7 @@ I've been reminiscing about my first computer, the [Commodore VIC-20][1], since 
 > 
 >  <iframe width="560" height="315" src="https://www.youtube.com/embed/-V-bPLmtAFg" frameborder="0" allowfullscreen></iframe>
 
+<p></p>
   
 Although the seller listed the VIC-20s "for parts only," I believed that from the four, I could get at least one working. I waited patiently for them to arrive at my door three days later. I have to give kudos to the seller. The computers, software and peripherals were lovingly packed and everything was as advertised.
 
@@ -20,11 +21,13 @@ After an unboxing and close inspection of the contents, I believed I found a sol
 
 So of the four, I believe the two I have working can be restored to very good condition. The one that is "almost working" I can likely restore to fair condition through troubleshooting and/or cannibalizing of parts. The last non-working computer will serve as a source of parts.
 
-They all are very dirty interiors. The first step will be to completely clean both the inside and outside of the computers. My second step will be to whiten the cases as they are all yellowed. In the third and final step, I will repair several loose connectors on the main boards by re-soldering the leads.
+All VIC-20s have dirty interiors. The first step will be to completely clean both the inside and outside of the computers. My second step will be to whiten the cases as they are all yellowed. In the third and final step, I will repair several loose connectors on the main boards by re-soldering the leads.
 
 I plan to display one working VIC-20 in my home office and another working VIC-20 in my college office. The broken VIC-20, that I'm not actually sure I can get running, may be gutted. I will then install a [Raspberry Pi 3][4] and use the original keyboard as the input device. With the Raspberry Pi 3 replacing the original motherboard, I will bring the VIC-20 back to life using the wonderful [Combian 64][5] Linux distribution that boots directly to the [VICE Commodore emulator][6]. Using this Linux distribution the newly enhanced VIC-20 can emulate any one of many great early Commodore computers including the VIC-20, PET, 64, Plus/4 and even the 128. 
 
 I am happy to know that I will be able to restore at least a couple of these computers from what was considered to be four "parts only" computers. I look forward to returning to my glory days of computing and experiencing what made Commodore VIC-20s so magical during the 1980s. As I continue this project, I'll do my best, time permitting, to share my experiences and the tips and tricks I learned along the way. If you have tips for me, please drop them in the comments section, below the eBay listing, below.
+
+---- 
 
 ## eBay Listing
 
