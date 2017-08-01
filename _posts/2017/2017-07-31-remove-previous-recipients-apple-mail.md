@@ -13,7 +13,7 @@ Here's a quick tip for those who may be battling the "previous recipients issue"
 
 You can remove an address from the Apple Mail previous recipients list with the following steps:
 
-* From the Apple Mail pull-down menu, chose *Window* | *Previous Recipients* - Apple Mail will display the *Previous Recipients* window shown in the image below.
+* From the Apple Mail pull-down menu, chose *Window* / *Previous Recipients* - Apple Mail will display the *Previous Recipients* window shown in the image below.
 
 ![][image-1]
 
