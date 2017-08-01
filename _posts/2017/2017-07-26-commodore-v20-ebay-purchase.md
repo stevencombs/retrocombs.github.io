@@ -21,6 +21,8 @@ After an unboxing and close inspection of the contents, I believed I found a sol
 
 So of the four, I believe the two I have working can be restored to very good condition. The one that is "almost working" I can likely restore to fair condition through troubleshooting and/or cannibalizing of parts. The last non-working computer will serve as a source of parts.
 
+<p><center><iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=computers_accesories&banner=1F7Q9NHQ9S6JKBM0DFG2&f=ifr&linkID=728565b53953954edb9f44e3da4153cd&t=stevenccom-20&tracking_id=stevenccom-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center></p>
+
 All VIC-20s have dirty interiors. The first step will be to completely clean both the inside and outside of the computers. My second step will be to whiten the cases as they are all yellowed. In the third and final step, I will repair several loose connectors on the main boards by re-soldering the leads.
 
 I plan to display one working VIC-20 in my home office and another working VIC-20 in my college office. The broken VIC-20, that I'm not actually sure I can get running, may be gutted. I will then install a [Raspberry Pi 3][4] and use the original keyboard as the input device. With the Raspberry Pi 3 replacing the original motherboard, I will bring the VIC-20 back to life using the wonderful [Combian 64][5] Linux distribution that boots directly to the [VICE Commodore emulator][6]. Using this Linux distribution the newly enhanced VIC-20 can emulate any one of many great early Commodore computers including the VIC-20, PET, 64, Plus/4 and even the 128. 
