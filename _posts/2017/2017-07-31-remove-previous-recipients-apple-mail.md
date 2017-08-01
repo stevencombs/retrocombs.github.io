@@ -22,7 +22,7 @@ You can remove an address from the Apple Mail previous recipients list with the 
 * Click the *Remove From List* button to eradicate the email address from the previous recipients list
 * Close the *Previous Recipients* window
 
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=bkgdgtguide&banner=05T4NNT1QMESCD6RVZR2&f=ifr&linkID=f8848c6e54b4869e3fa0c8ae2b1f756b&t=stevenccom-20&tracking_id=stevenccom-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<center><iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=bkgdgtguide&banner=05T4NNT1QMESCD6RVZR2&f=ifr&linkID=f8848c6e54b4869e3fa0c8ae2b1f756b&t=stevenccom-20&tracking_id=stevenccom-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
 When you create a new email message (⌘ + n) and begin to enter an email address, the incorrect recipient's email address should no longer appear.
 
