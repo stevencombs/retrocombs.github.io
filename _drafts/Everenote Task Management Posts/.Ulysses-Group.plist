@@ -12,92 +12,128 @@
 		<dict>
 			<key>2012-03-01-1-evernote-task-management-introduction.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.30046397</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.30046397</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>2</integer>
 				</dict>
 			</dict>
 			<key>2012-03-01-2-evernote-task-management-install.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.51435399</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.51435399</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>4</integer>
 				</dict>
 			</dict>
 			<key>2012-03-01-3-evernote-task-management-setup.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.51371098</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.51371098</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>3</integer>
 				</dict>
 			</dict>
 			<key>2012-03-01-4-evernote-task-management-creation.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.68324202</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.68324202</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>6</integer>
 				</dict>
 			</dict>
 			<key>2012-03-01-5-evernote-task-management-review.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.68273199</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.68273199</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>5</integer>
 				</dict>
 			</dict>
 			<key>2012-03-01-6-evernote-task-management-completion.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.77891099</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.77891099</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>7</integer>
 				</dict>
 			</dict>
 			<key>2012-03-01-7-evernote-task-management-scenarios.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.77960801</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.77960801</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>8</integer>
 				</dict>
 			</dict>
 			<key>2012-03-01-8-evernote-task-management-paper.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.97174901</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.97174901</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>9</integer>
 				</dict>
 			</dict>
 			<key>2012-03-01-9-evernote-task-management-enhancements.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>523860195.97230101</real>
 				<key>lastModification</key>
-				<real>467936794</real>
+				<real>523860195.97230101</real>
 				<key>version</key>
 				<dict>
-					<key>legacy-467936794.000000</key>
-					<integer>1</integer>
+					<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
+					<integer>10</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -148,7 +184,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>cbd72b75a885875341cfc9884be12d1cb02a0c38efab457349826e26d94ae637</key>
-			<integer>1</integer>
+			<integer>10</integer>
 		</dict>
 		<key>userIconName</key>
 		<dict>
