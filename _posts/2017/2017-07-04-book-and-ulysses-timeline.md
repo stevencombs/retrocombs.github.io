@@ -78,7 +78,7 @@ I will not have all events from my book in this timeline before I begin writing 
 I hope other authors using Ulysses find this technique useful. If so, let me know in the comments below. I’d also be interested in your thoughts on how we can make this timeline even more useful.
 
 ---- 
-*Are you a literary agent looking for a motivated, experienced writer with an intriguing genre story? Why not get in touch with me now and learn more. First draft will be finished by December 2017 with an anticipated final draft ready by February 2018.*
+*Are you a literary agent or publisher looking for a motivated, experienced writer with an intriguing genre story? Why not get in touch with me now and learn more. First draft will be finished by December 2017 with an anticipated final draft ready by in the second quarter of 2018.*
 
 [1]:	https://www.amazon.com/author/stevencombs
 [2]:	https://www.ulyssesapp.com/
