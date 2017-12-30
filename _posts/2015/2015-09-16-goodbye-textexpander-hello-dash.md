@@ -75,7 +75,7 @@ Snippets don't have to be lines of code though. When Dash is running, expansion 
 | ,,green | #006B54 : the college's official green hex code        |
 | ,,apple |  : because I can never remember the keyboard shortcut |
 
-I currently have around 80 snippets and they work flawlessly in all applications. For general text expansion, Dash if flawless. Dash allows you to use tags to organize your snippets. This makes snippets easy to search and categorize. Below is a screenshot of Dash that displays the tags I use to keep my snippets organized. 
+I currently have around 80 snippets and they work flawlessly in all applications. For general text expansion, Dash if flawless. Dash allows you to use tags to organize your snippets. This makes snippets easy to search and categorize. Below is a screenshot of Dash that displays the tags I use to keep my snippets organized.
 
 ![](http://www.stevencombs.com/images/posts/2015-09-16-goodbye-textexpander-hello-dash/snippet-tags.png)
 
@@ -83,10 +83,10 @@ This list grows regularly as I find other ways to use Dash to reduce typing.
 
 # Snippet variables
 
-An additional power of snippets is the use of variables. Dash provides basic variables that allow you to customize snippets on the fly. For instance, I have a snippet that rapidly formats an email to our scheduler when I need to host a meeting. I type `yamr` and Dash prompts me for the meeting subject, participants, location and amount of time. Once I enter that information, the snippet expands into a formatted listing of the requirements that make it easy for our scheduler to set up the meeting.
+An additional power of snippets is the use of variables. Dash provides basic variables that allow you to customize snippets on the fly. For instance, I have a snippet that rapidly formats an email to our scheduler when I need to host a meeting. I type `yamr` and Dash prompts me for the meeting subject, participants, location and amount of time. Once I enter that information, the snippet expands into a formatted list of meeting requirements.
 
-Dash also allows provides simple variables such as date and time. I type `,,date` and Dash will expand the current date. Very handy when I eSign documents. `,,time` will, of course, expand the date. Finally, Dash also includes a cursor location variable so you can set the location of the cursor after the snippet expands.
+Dash also provides simple variables such as date and time. I type `,,date` and Dash will expand the current date. Very handy when I eSign documents. `,,time` will, of course, expand the time. Finally, Dash includes a cursor location variable to set the location of the cursor after the snippet expands.
 
 # Sorry TextExpander
 
-Granted, TextExpander is far more capable and provides advanced features that Dash will likely never include. However, I will continue to use Dash and there is no reason for me to upgrade both applications on a regular basis when Dash handles 95% of my text expansion needs. If you are new to text expansion applications, I highly recommend you try Dash first and enjoy the other capabilities the software provides. You will find snippets very easy to create and once you get started, the creation of new snippets is very addicting. TextExpander has been removed from all my Macs for several months now and I have yet to miss it.
+Granted, TextExpander is far more capable and provides advanced features that Dash will likely never include; however, I will continue to use Dash and there is no reason for me to upgrade both applications on a regular basis when Dash handles 95% of my text expansion needs. If you are new to text expansion applications, I highly recommend you try Dash first and enjoy the other capabilities the software provides. You will find snippets very easy to create and once you get started, the creation of new snippets is very addicting. TextExpander has been removed from all my Macs for several months now and I have yet to miss it.
