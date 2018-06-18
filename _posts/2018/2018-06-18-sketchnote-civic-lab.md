@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sketchnote: Civic Lab Training’
-date: ‘2018-06-18’
+title: 'Sketchnote: Civic Lab Training'
+date: '2018-06-18'
 comments: 'yes'
 categories:
   - art
