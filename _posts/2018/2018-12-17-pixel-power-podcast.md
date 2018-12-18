@@ -21,7 +21,7 @@ There are three reasons I decided to jump back in the fray:
 
 If you have an interest in Google Pixel phones, The Google Pixelbook, Chromebooks, Google Home devices, and/or Google apps I think you will find some great tips and tricks to get the most out of these products and services. Each episode is less than 30 minutes. No guests yet, but I plan to add that feature in 2019.
 
-I hope you will stop by and take a listen. Or you can search for Pixel Power Podcast in iTunes, Spotify, Pocket Cast or any other popular podcast client. Even if you don't listen, the episode shownote pages are loaded with links and content.
+I hope you will stop by and take a listen. Or you can search for Pixel Power Podcast in iTunes, Spotify, Pocket Casts or any other popular podcast client. Even if you don't listen, the episode shownote pages are loaded with links and content.
 
 All right, I have to go now. Creating the outline for the next episode! Merry Christmas everyone.
 
