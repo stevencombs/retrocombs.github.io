@@ -68,9 +68,9 @@ If you don't own this book, [a purchase is a "no-brainer."][3] This book is perf
 
 You've done it again Allan. You've created the definitive book on the basics of LEGO building. How are you gonna top this one? Gotta go. I have a tub of bricks and elements calling my name.
 
-[2]: http://goo.gl/JMFZS
-[3]: http://goo.gl/F8Nou
-[4]: http://goo.gl/0zsrU
+[2]: https://www.dropbox.com/s/pqhijt51enq0988/BimPCast_24_02_25_06_allan_bedford.mp3?dl=0
+[3]: https://amzn.to/2XlQoBQ
+[4]: https://amzn.to/2XqRe07
 [6]: http://1.bp.blogspot.com/-SNwSBpiesfg/UMUF9fVhucI/AAAAAAABExg/Ryix_vH6ZqQ/s640/BW-Color+Comparison.png
-[8]: http://goo.gl/OataZ
-[9]: https://www.amazon.com/dp/1593270542/ref=as_li_ss_til?tag=stevenccom-20&camp=0&creative=0&linkCode=as4&creativeASIN=1593270542&adid=12N7PPCN8KKXDVAVMZ5G&
+[8]: https://amzn.to/2ZkPIOS
+[9]: https://amzn.to/2ZkQ9Zw
