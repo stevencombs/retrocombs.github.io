@@ -45,10 +45,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/stevencombs/Google Drive/stevencombs.github.io"
+		"/Users/stevencombs/Google Drive/stevencombs.github.io",
+		"/Users/stevencombs/Google Drive/stevencombs.github.io/_posts"
 	],
 	"file_history":
 	[
+		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/stevencombs/Google Drive/stevencombs.github.io/_posts/2012/2012-07-06-And-here’s-how-we-are-gonna-save-some-cash.md",
+		"/Users/stevencombs/Google Drive/stevencombs.github.io/_posts/2012/2012-12-09-book-review-unofficial-lego.md",
 		"/home/stevencombs/Google Drive/Text Files/Ivy Tech/Reassigning Employees Policy.md",
 		"/home/stevencombs/Google Drive/Text Files/Ivy Tech/Time Spent on VDI",
 		"/home/stevencombs/Google Drive/Text Files/Book Drafts/My Leadership Principles.md",
@@ -173,7 +178,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 235.0,
+	"side_bar_width": 266.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
