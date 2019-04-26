@@ -11,13 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -31,8 +24,32 @@
 		"selected_items":
 		[
 			[
+				"template",
+				"Jekyll: Browse templates..."
+			],
+			[
+				"templ",
+				"Jekyll: Remove template"
+			],
+			[
+				"temp",
+				"Jekyll: Browse templates..."
+			],
+			[
+				"new",
+				"Jekyll: New template"
+			],
+			[
+				"markdownediting: theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
 				"pi",
 				"Package Control: Install Package"
+			],
+			[
+				"draft",
+				"Jekyll: Open draft"
 			],
 			[
 				"links",
@@ -148,18 +165,22 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/stevencombs/Google Drive/stevencombs.github.io",
-		"/Users/stevencombs/Google Drive/stevencombs.github.io/_drafts"
+		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io"
 	],
 	"file_history":
 	[
+		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io/_templates/test.yaml",
+		"/home/stevencombs/.config/sublime-text-3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/home/stevencombs/.config/sublime-text-3/Packages/User/Jekyll.sublime-settings",
+		"/home/stevencombs/.config/sublime-text-3/Packages/User/Jekyll Templates/test.yaml",
+		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io/_drafts/2018-00-00-raspberry Pilus-4.md",
+		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
 		"/Users/stevencombs/Google Drive/stevencombs.github.io/_drafts/2017-08-12-thomas-arc-reactor.md",
 		"/Users/stevencombs/Google Drive/stevencombs.github.io/_drafts/2018-03-25-plex-berry-pi.md",
 		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
 		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
 		"/Users/stevencombs/Google Drive/stevencombs.github.io/_drafts/_mdwriter.cson",
 		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
-		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
 		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
 		"/Users/stevencombs/Google Drive/stevencombs.github.io/_posts/2012/2012-07-06-And-here’s-how-we-are-gonna-save-some-cash.md",
 		"/Users/stevencombs/Google Drive/stevencombs.github.io/_posts/2012/2012-12-09-book-review-unofficial-lego.md",
@@ -170,7 +191,7 @@
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -201,45 +222,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"default_dir": "/Users/stevencombs/Google Drive/stevencombs.github.io",
-							"git_gutter_is_enabled": false,
-							"markdonw_live_preview_last_run": 1555778407.81,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 70.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -268,6 +258,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -292,7 +286,7 @@
 	"project": "stevencombs.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":

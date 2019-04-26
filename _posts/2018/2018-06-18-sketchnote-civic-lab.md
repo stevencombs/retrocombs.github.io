@@ -22,7 +22,7 @@ This session was ripe for sketchnotes and a facilitator, who is familiar with my
 ![][image-1]
 
 # Sidenote
-Is this really my first blog post of 2018? Wow! It’s been way too long.
+Is this really my first post of 2018? Wow! It’s been way too long.
 
 [1]:	http://www.educationcoalition.com/#partners
 [2]:	http://amzn.to/2c5gouJ

@@ -7,7 +7,7 @@ date: 2015-03-20 15:23
 category: art
 comments: yes
 ---
-For several months now, I have been on a search for color pens to add a splash of color to my sketchnotes. What I thought would be a simple task, proved to be more difficult than expected. There are hundreds of brands/varieties of colorful markers and pens; however, I had very specific requirements:
+For several months now, I have been on a search for color pens to add a splash of color to my sketchnotes. What I thought would be a simple task, proved to be more difficult than expected. There are hundreds of brands/varieties of colorful markers and pens; however, I had specific requirements:
 
 * 12 or more useful colors
 * .3mm to .5mm fine tip

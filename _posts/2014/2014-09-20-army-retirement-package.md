@@ -10,6 +10,8 @@ comments: yes
 
 After a three year period, I FINALLY received my United States Army retirement materials. When I left the Army in August of 2011, there was no fanfare, ceremony or recognition from my unit. Honestly, it was a huge letdown after 27 years of military service in both the United States Air Force as an enlisted airman and the United States Army as an Armor and Adjutant General officer. Despite the lack of recognition from my unit, I did think the Army would eventually send me my retirement certificate. It did not happen. 
 
+> If you read the comments below this post, you will find that "online scammers" have used my images to con folks out of money and to charge recent retirees to receive this package. You do not have to pay for these documents. If anyone asks you for money, tell them to go pound sand, contact your battalion S-1, and ask for their assistance to receive your own, well earned and free, retirement certificates.
+
 Several weeks ago, I noticed that my unit’s major command was promoting their [Facebook page for retirees](https://www.facebook.com/88thRSO). I decided to drop them a message about my disappointment and lack of materials. A response was almost instantaneous. My request was quickly researched and an apology sent. Within two weeks, a box was on my doorstep. It arrived on a bright Saturday morning. I was elated as I held a warm cup of coffee in one hand and reached down to grab the package with my other. It was like Christmas morning.
 
 I’ve conducted several unboxing of gadgets, but today I present the most important unboxing yet. The unboxing of my United States Army retiree package!
