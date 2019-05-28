@@ -24,6 +24,22 @@
 		"selected_items":
 		[
 			[
+				"templa",
+				"Jekyll: New post from template"
+			],
+			[
+				"je",
+				"Jekyll: Browse templates..."
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"jek",
+				"Jekyll: Open post"
+			],
+			[
 				"template",
 				"Jekyll: Browse templates..."
 			],
@@ -42,10 +58,6 @@
 			[
 				"markdownediting: theme",
 				"MarkdownEditing: Change color scheme..."
-			],
-			[
-				"pi",
-				"Package Control: Install Package"
 			],
 			[
 				"draft",
@@ -134,14 +146,6 @@
 			[
 				"jt",
 				"Jekyll: New post from template"
-			],
-			[
-				"je",
-				"Jekyll: New template"
-			],
-			[
-				"jek",
-				"Jekyll: Open draft"
 			]
 		],
 		"width": 0.0
@@ -165,13 +169,19 @@
 	},
 	"expanded_folders":
 	[
-		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io"
+		"/Users/stevencombs/Google Drive/stevencombs.github.io"
 	],
 	"file_history":
 	[
-		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io/_templates/test.yaml",
-		"/home/stevencombs/.config/sublime-text-3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/stevencombs/Google Drive/stevencombs.github.io/3dprint.md",
+		"/Users/stevencombs/Google Drive/stevencombs.github.io/index.html",
+		"/Users/stevencombs/Google Drive/stevencombs.github.io/_drafts/2019-05-28-my-new-3d-printer.md",
+		"/home/stevencombs/.config/sublime-text-3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/home/stevencombs/.config/sublime-text-3/Packages/User/Markdown (Standard).sublime-settings",
+		"/home/stevencombs/.config/sublime-text-3/Packages/User/MultiMarkdown.sublime-settings",
 		"/home/stevencombs/.config/sublime-text-3/Packages/User/Jekyll.sublime-settings",
+		"/home/stevencombs/.config/sublime-text-3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io/_templates/test.yaml",
 		"/home/stevencombs/.config/sublime-text-3/Packages/User/Jekyll Templates/test.yaml",
 		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io/_drafts/2018-00-00-raspberry Pilus-4.md",
 		"/Users/stevencombs/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
@@ -195,7 +205,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 158.0,
+		"height": 179.0,
 		"where_history":
 		[
 		]
@@ -229,11 +239,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 39.0
 	},
 	"input":
 	{
-		"height": 75.0
+		"height": 87.0
 	},
 	"layout":
 	{
@@ -286,7 +296,7 @@
 	"project": "stevencombs.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 74.0
 	},
 	"save_all_on_build": true,
 	"select_file":
