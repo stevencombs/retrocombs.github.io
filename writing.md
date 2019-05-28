@@ -22,6 +22,6 @@ As I work with new writing tools, and as I begin my foray into fiction, this pag
 </ul>
 
 ## A note to literary agents
-If you are a literary agent looking for a motivated, experienced writer with an intriguing genre story, why not get in touch with me now and learn more? First draft of my new novel, and first piece of fiction, will be finished by the last quarter of 2017 with an anticipated final draft ready by second quarter of 2018. You can send inquires to:
+If you are a literary agent looking for a motivated, experienced writer with an intriguing genre story, why not get in touch with me now and learn more? You can send inquires to:
 
 <steven.combs@gmail.com>
