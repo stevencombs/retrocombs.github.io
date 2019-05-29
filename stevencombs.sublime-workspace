@@ -11,6 +11,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_drafts/2019-05-28-my-new-3d-printer.md",
+			"settings":
+			{
+				"buffer_size": 12401,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -23,6 +32,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"image",
+				"MarkdownEditing: New Image"
+			],
+			[
+				"new",
+				"Jekyll: New draft"
+			],
 			[
 				"templa",
 				"Jekyll: New post from template"
@@ -50,10 +67,6 @@
 			[
 				"temp",
 				"Jekyll: Browse templates..."
-			],
-			[
-				"new",
-				"Jekyll: New template"
 			],
 			[
 				"markdownediting: theme",
@@ -169,13 +182,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/stevencombs/Google Drive/stevencombs.github.io"
+		"/home/stevencombs/Google Drive/stevencombs.github.io",
+		"/home/stevencombs/Google Drive/stevencombs.github.io/_drafts"
 	],
 	"file_history":
 	[
-		"/Users/stevencombs/Google Drive/stevencombs.github.io/3dprint.md",
-		"/Users/stevencombs/Google Drive/stevencombs.github.io/index.html",
-		"/Users/stevencombs/Google Drive/stevencombs.github.io/_drafts/2019-05-28-my-new-3d-printer.md",
+		"/home/stevencombs/Google Drive/stevencombs.github.io/_drafts/2019-05-28-my-new-3d-printer.md",
 		"/home/stevencombs/.config/sublime-text-3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
 		"/home/stevencombs/.config/sublime-text-3/Packages/User/Markdown (Standard).sublime-settings",
 		"/home/stevencombs/.config/sublime-text-3/Packages/User/MultiMarkdown.sublime-settings",
@@ -201,7 +213,7 @@
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -215,6 +227,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"### "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -222,6 +235,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"## "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -232,14 +246,44 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_drafts/2019-05-28-my-new-3d-printer.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1233,
+								1233
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 39.0
+		"height": 42.0
 	},
 	"input":
 	{
@@ -296,7 +340,7 @@
 	"project": "stevencombs.sublime-project",
 	"replace":
 	{
-		"height": 74.0
+		"height": 134.0
 	},
 	"save_all_on_build": true,
 	"select_file":
