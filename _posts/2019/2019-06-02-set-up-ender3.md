@@ -25,7 +25,7 @@ The video says I should not be able to rotate the idler by hand. I can, so I nee
 ## 12:47 Level the build surface
 This seems like a step I will need to do regularly so I need to pay attention to this one. I need a business card or a post-it note. Now where can I find one of those? Alright, have a post-in note and I need to feed a pet; be back in a bit.
 
-Back to the video. Turn the printer on. Got it. Select *Prepare* | *Auto home* on the controller. Place the print head at one corner of the build surface on top of the bed level adjustment dial.
+Back to the video. Turn the printer on. Got it. Select *Prepare* / *Auto home* on the controller. Place the print head at one corner of the build surface on top of the bed level adjustment dial.
 
 * Clockwise to move bed closer to print head
 * Count-clockwise to move bed away from print head
@@ -39,17 +39,17 @@ Next, I adjust the opposite corner. Since this was an out of the box leveling, i
 ## 13:02 Install PLA filament
 The first step is to move the head high enough from the build surface so I can purge some of the filament:
 
-Select *Prepare* | *Move Axis* | *Move Z* | *40mm* on the controller.
+Select *Prepare* / *Move Axis* / *Move Z* / *40mm* on the controller.
 
 I'm going to use PLA filament, so I will preheat the bed and the nozzle for that material.
 
-Select *Prepare* | *Preheat PLA* | *Preheat PLA* on the controller.
+Select *Prepare* / *Preheat PLA* / *Preheat PLA* on the controller.
 
 The default temperature for Preheat PLA is 180° and the suggestion is to make it 200°. I'm going to change that setting and store 200° as the default setting.
 
-Select *Control* | *Temperature* | *Nozzle:* | *200°* on the controller.
+Select *Control* / *Temperature* / *Nozzle:* / *200°* on the controller.
 
-Select *Control* | *Store settings* | and wait for beep.
+Select *Control* / *Store settings* / and wait for beep.
 
 Now that the temperature is set to a new default, I'll wait for the temperature on the display to reach 200°.
 
@@ -88,7 +88,7 @@ Didn't put the microSD card in the printer. Turing printer off, then on, and pre
 
 Per the video:
 
-Select *Print from TF* | *Test-dog.gcode*
+Select *Print from TF* / *Test-dog.gcode*
 
 Cool (reverse pun intended), the build surface heats up automatically based on the .gcode. Looks like 50°. Now the printer is homing automatically. And it's printing! This is a bit larger than I wanted. I may not complete the whole dog as it is burning through my red PLA. Everything seems to be working well though. Lunch time!
 
