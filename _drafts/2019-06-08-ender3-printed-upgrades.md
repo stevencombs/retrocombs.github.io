@@ -10,7 +10,7 @@ comments: yes
 
 In [my last 3D printing post](linkhere) I journaled my experience setting up my new Creality Ender-3 and producing my first print. The next step in my 3D Printer journey was to begin printing upgrades. This post will capture those upgrades. I will update this post regularly. I decided to print each upgrade using [MIKA3D black PLA](https://amzn.to/2IecWi0) so the objects would seamlessly blend in with the original design.
 
-## Printing preparation
+# Printing preparation
 Before I share the 3D printed upgrades, I feel I should share my process to prepare each print for the [Creality Ender-3 printer](https://amzn.to/2EL2hKE). I am using Ubuntu Linux on an older Intel i5 based computer and the [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) software but no matter your PC setup, the steps below should be similar:
 
 1. Connect the Creality Ender-3 microSD to a PC
@@ -27,14 +27,14 @@ Before I share the 3D printed upgrades, I feel I should share my process to prep
 2. Turn on the 3D printer
 3. Select ..........
 
-## Controller fan cover
+# Controller fan cover
 The first print recommended by most is a cover for the controller fan at the front of the printer. Why? Because if you aren't careful, you could have material run out of the extruder and into the fan. Plus the cover I choose also gave the controller board a cool retro look.
 
 ![Image of controller fan cover]()
 
 [Link to Thingiverse file](https://www.thingiverse.com/thing:3155772) by [makken104](https://www.thingiverse.com/makken104/designs)
 
-## Extruder knob
+# Extruder knob
 There were several extruder knobs available, but I was looking for something small. The one chosen has some additional features that looked interesting to include knurling.
 
 [Link to Thingiverse file](https://www.thingiverse.com/thing:3540163) by [Gees86](https://www.thingiverse.com/Gees86/designs)
@@ -45,11 +45,11 @@ There were tiny holes on the knob that included excess material. I used one of t
 
 {UPDATE: I may try another. This one will suffice for now, but the quality of the top is a bit rough. Not enough to make me print another now though.}
 
-## Display back cover plate
+# Display back cover plate
 The control panel's electronics are exposed behind the panel. It's not a big issue, you you do find your hand occassionally underneath when you push the controller button. This plate is unique in that you can use the factpr screws included. Some designs require new, longer, screws.
 
 [Link to Thingiverse file](https://www.thingiverse.com/thing:2987100) by [MakeChetti](https://www.thingiverse.com/MakeChetti)
 
-## Belt tensioner
+# Belt tensioner
 
 [Link to Thingiverse file](https://www.thingiverse.com/thing:2986144) by [MakeChetti](https://www.thingiverse.com/MakeChetti)

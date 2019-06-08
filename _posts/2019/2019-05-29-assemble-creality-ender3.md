@@ -24,22 +24,22 @@ While browsing 3D printers at Amazon, I found the [Creality Ender-3 for $229 wit
 
 Let's get to it:
 
-## Day 1: 11:10 - Draft the blog post
+# Day 1: 11:10 - Draft the blog post
 A blog post draft in [Sublime Text](https://www.sublimetext.com/) is ready (you are reading it). Time to break open the Creality box and see what's inside.
 
 ![Opening the box](/images/posts/2019-05-29-assemble-creality-ender3/01.jpg)
 
-## 11:22
+# 11:22
 First item out of the box is poorly translated assembly instructions. Images are well done and I should be able to assemble using these instructions. If not, I'm sure there's a YouTube video that can help {Update: Didn't need to use any stinkin' video}. Each item has an associated number. I will use these numbers as a reference in this post.
 
 ![Instructions](/images/posts/2019-05-29-assemble-creality-ender3/02.jpg)
 
-## 11:25
+# 11:25
 First thing I noticed, and a bit disappointing, is the Ender-3 does not include the magnetic build plate. It is removable, but is held down with the included binder clips. {Update: Online sources reveal not having the magnetic version found in the Pro pack may be a good thing. Seems heat transfer is an issue.}
 
 ![Image of build plate](/images/posts/2019-05-29-assemble-creality-ender3/03.jpg)
 
-## 11:27
+# 11:27
 Not sure which items to pull out of the box first, so started with the printer control assembly. 
 
 ![First package to remove](/images/posts/2019-05-29-assemble-creality-ender3/04.jpg)
@@ -48,7 +48,7 @@ There is protective covering on the LCD panel. I'll leave that on until the asse
 
 ![Printer control assembly](/images/posts/2019-05-29-assemble-creality-ender3/05.jpg)
 
-## 11:31
+# 11:31
 Now I'm really confused. Not sure what to take out of the box next so I am working my way around the small things first and in this order:
 
 1. Control Display (as mentioned above) - Part 01
@@ -57,7 +57,7 @@ Now I'm really confused. Not sure what to take out of the box next so I am worki
 4. Print head servo assembly - Part 06 (This thing is a beast! All metal assembly. So glad I chose this over the [Anet a8 Prusa i3](https://amzn.to/2HKzoQH).
 5. Power supply - Part 03 (Another reason to choose the Ender-3 is the 24v power supply. Other under $200 models often include a 12v supply. 24v should ensure better heating with power to spare for mechanicals.) {Update: I've also learned that I may be able to power my OctoPi server to this power supply and reduce cabling.}
 
-## 11:46
+# 11:46
 I removed the first layer of packaging to reveal another layer underneath. Items on the second layer include:
 
 1. Power cord - Item 13
@@ -95,7 +95,7 @@ I removed the first layer of packaging to reveal another layer underneath. Items
 
 Whew! And that completes removal of all parts and cataloging. Time: 12:18. Lunch time!
 
-## 15:32
+# 15:32
 Took some time to download software and firmware using my Chromebook while watching an old Kung Fu movie on my [Roku Ultra](https://amzn.to/2W4yFxS). Downloaded new firmware for the Ender-3 along with Linux (appImage) and Mac (.dmg) versions of Cura, the free 3D slicing software recommended by everyone online. I have no idea how to use any of this, but looking forward to trying it out.
 
 While downloading files, I also received a box from Amazon. This includes items to create an [OctoPi](https://octoprint.org/download/) to connect to the Ender-3. More on that in a future post.
@@ -106,7 +106,7 @@ For these next steps, I have tied the narrative to the step number in the PDF fi
 
 {Update: The day after, I found another PDF file that included English text next to each image! That would have been helpful.}
 
-## 17:18 - (Step 1) Vertical Supports
+# 17:18 - (Step 1) Vertical Supports
 Time to begin assembly. Glad I found those instructions on the included miroSD. The included tools are put to use immediately.
 
 Right off the bat! I put the wrong vertical support on the wrong side. Didn't look to see that they were different. Will make note of this as I now remove said support and put it on the correct side! AND, I didn't even install the lock washers. It's going to be a long install.
@@ -117,63 +117,63 @@ I asked my Google Home Hub to play some calming music ([Cinemix on TuneIn](https
 
 Vertical supports now installed correctly.
 
-## 17:43 - (Step 2) Power supply and control panel
+# 17:43 - (Step 2) Power supply and control panel
 Another Allen wrench. I feel like I'm assembling what an IKEA version of a 3D Printer would be. And that's not necessarily a bad thing.
 
 ![Power supply and control panel](/images/posts/2019-05-29-assemble-creality-ender3/08.jpg)
 
 Remember to switch from 230v to 115v on the power supply if you live in North America.
 
-## 17:52 - (Step 3) Limit switch plate on vertical bar.
+# 17:52 - (Step 3) Limit switch plate on vertical bar.
 Limit switch is in a plastic bag inside another plastic bag. It is well protected. This is interesting. The screws and hammer nuts for the limit switch are on the limit switch. The only part packaged this way. {Update: There were others.}
 
 ![Vertical limit switch](/images/posts/2019-05-29-assemble-creality-ender3/09.jpg)
 
 That was a bit tricky. I had to align the hammer nuts perfectly in the channel before tightening. Glad there was a stop on the limit switch holder to perfectly place it on the channel. {Update: The hammer nuts will seat themselves as you tighten. No need to worry with exact alignment. Just get them close.}
 
-## 18:05 - (Step 4) Vertical servo and screw
+# 18:05 - (Step 4) Vertical servo and screw
 This seems to be straight forward. I had to move the bed to tighten the screws. I dropped the vertical screw bar as shown in the instructions. It did not instruct me to tighten the bar. Hopefully that will come in a later step. Most likely some parts alignment that needs to occur first. I'm also keeping the protective sleeve on the screw bar to protect it. {Update: Good move on my part. I hit this vertical bar a couple of time. Probably wouldn't have hurt it, but who knows.}
 
-## 18:16 - (Step 5) Horizontal servo chassis (w/limit switch)
+# 18:16 - (Step 5) Horizontal servo chassis (w/limit switch)
 This step is a bit scary. I'm not quite sure what I'm looking at but will give it a shot. That was a bit tricky due to a very tight space for the screws and the possibility that if not careful, I could damage the limit switch. Thanks to Creality for including holes in the roller plate so the Allen wrench could reach the screws.
 
 ![Horizontal assembly](/images/posts/2019-05-29-assemble-creality-ender3/10.jpg)
 
-## 18:32 - (Step 6) Horizontal belt
+# 18:32 - (Step 6) Horizontal belt
 The belt was easy to install but hangs loose making it difficult to work with on the next few steps.
 
-## 18:35 - (Step 7) Printer head assembly
+# 18:35 - (Step 7) Printer head assembly
 Oh boy, this looks complicated. Ugh, I have to try and get that print head on the rail with that umbilical cable out of the way. This is the trickiest step so far. It would have been helpful for the instructions to mention that you must install the print head before the tri-roller mount. Of course, it shows it that way, but I and I'm sure others may have assumed you could roll that on afterward - you cannot! Had to take the roller assembly off and put it back on.
 
 ![Print head assembly](/images/posts/2019-05-29-assemble-creality-ender3/11.jpg)
 
 Connecting the belt to the print head on was also a bit tricky not knowing how it would be tightened later.
 
-## 18:56 - (Step 8) Belt tensioner
+# 18:56 - (Step 8) Belt tensioner
 Another part with screws and hammer nuts included. It's getting difficult to install the print rail due to the umbilical cord and confinement from the bar. It seems like I have it together properly though. Rail moves smoothly.
 
 ![Animation of print head rail](/images/posts/2019-05-29-assemble-creality-ender3/01.gif)
 
 Phone call! Be back soon.
 
-## 19:06 - (Step 9) Horizontal bar
+# 19:06 - (Step 9) Horizontal bar
 Finally! I don't have to balance the horizontal print head bar anymore. Time to install it on the vertical supports.
 
 Removed the vertical screw cover. Remember the screw on the connector at the bottom of the vertical bar? It didn't say to tighten it in this step either, I tightened it anyway. There were two screws the instructions say to "Don't tighten too tight." What they mean is leave them loose. If you tighten them at all, the vertical screw will not turn smoothly and the bar will not move up and down easily. Could strain your stepper motor if you make this mistake.
 
 ![Vertical screw, screws](/images/posts/2019-05-29-assemble-creality-ender3/12.jpg)
 
-## 19:21 - (Step 10) Top horizontal bar support
+# 19:21 - (Step 10) Top horizontal bar support
 As far as assembly goes, this was likely the easiest step so far. Okay, maybe Step 2 was easier. It was a tight, but necessary, fit to ensure everything was held together tightly. Hey! It's finally starting to look like a 3D printer.
 
 ![Vertical bar makes it look like a 3D printer](/images/posts/2019-05-29-assemble-creality-ender3/13.jpg)
 
-## 19:30 - (Step 11) Material spool
+# 19:30 - (Step 11) Material spool
 That went smoothly. I just had to anticipate the best location for the spool so the material will feed smoothly into the feed mechanism. No direction given for that distance across the top support rail.
 
 ![Spool holder](/images/posts/2019-05-29-assemble-creality-ender3/14.jpg)
 
-## 19:38 - (Step 12) - Electrical connectors
+# 19:38 - (Step 12) - Electrical connectors
 I'm getting close to the end now. Just have to take my time and ensure every electrical connector is where it belongs.
 
 Oops. Just noticed I didn't put on the end caps from step 10. Doing that now.
@@ -196,7 +196,7 @@ Current time 20:02. Not bad. That's a pretty quick build time even when you cons
 
 Okay, this is disturbing. I have a bag of M4x14P with M4T nuts. I've looked and I don't see them in the printed instructions included in the box or the PDF file. I also don't see any holes not filled. I'll assume they aren't needed and are used for optional parts. Lots of other spare screws and nuts, but they are all duplicates of other's used. I am not worried about those.
 
-## 20:09 - Turning 3D printer on the for the first time
+# 20:09 - Turning 3D printer on the for the first time
 It's plugged in. Do I dare throw the switch? Here I go.
 
 ![Turning the device on for the first time](/images/posts/2019-05-29-assemble-creality-ender3/16.jpg)
@@ -207,7 +207,7 @@ Fans are on, smell of ozone, and controller display is bright. Success so far. N
 
 And it works! Assembly complete.
 
-## What's next?
+# What's next?
 I have no idea. I've never 3D printed anything before and I know there is a learning curve. I'll soon find out how steep that curve is. While learning, I will continue to document the process and post here. As a matter of fact, I've already started documenting the next part of the process, preparing the 3D printer to print. By the time I learn how to print, I should have a really good source of information available for me to refer to and share.
 
 I hope you enjoyed this post on the assembly of my new Creality Ender-3. Leave a comment below if you have any tips for me.

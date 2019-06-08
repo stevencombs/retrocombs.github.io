@@ -12,20 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "_drafts/2019-06-01-settingup-ender3.md",
-			"settings":
-			{
-				"buffer_size": 7475,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "_drafts/2019-06-08-ender3-printed-upgrades.md",
 			"settings":
 			{
 				"buffer_size": 4027,
-				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -41,6 +31,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"markdown theme",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
 			[
 				"pi",
 				"Package Control: Install Package"
@@ -112,10 +110,6 @@
 			[
 				"activ",
 				"Material Theme: Activate theme"
-			],
-			[
-				"theme",
-				"Material Theme: Configuration"
 			],
 			[
 				"dat",
@@ -195,11 +189,13 @@
 	},
 	"expanded_folders":
 	[
-		"/media/stevencombs/BackUp/Google Docs/stevencombs.github.io",
-		"/media/stevencombs/BackUp/Google Docs/stevencombs.github.io/_drafts"
+		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io",
+		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io/_drafts"
 	],
 	"file_history":
 	[
+		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io/_drafts/2019-06-08-ender3-printed-upgrades.md",
+		"/mnt/chromeos/GoogleDrive/MyDrive/stevencombs.github.io/_drafts/2019-06-01-settingup-ender3.md",
 		"/media/stevencombs/BackUp/Google Docs/stevencombs.github.io/_drafts/2019-06-01-settingup-ender3.md",
 		"/media/stevencombs/BackUp/Google Docs/stevencombs.github.io/_posts/2019-05-29-assemble-creality-ender3.md",
 		"/home/stevencombs/.config/sublime-text-3/Packages/User/degree.sublime-snippet",
@@ -230,7 +226,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -263,42 +259,13 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_drafts/2019-06-01-settingup-ender3.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7475,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7468,
-								7468
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 4287.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "_drafts/2019-06-08-ender3-printed-upgrades.md",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 4027,
@@ -308,17 +275,26 @@
 						"selection":
 						[
 							[
-								3824,
-								3824
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"git_gutter_is_enabled": false,
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 596,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"git_gutter_is_enabled": true,
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1701.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -329,7 +305,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -386,7 +362,7 @@
 	"project": "stevencombs.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
