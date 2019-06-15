@@ -3,7 +3,7 @@
 name: "Steven Combs"
 description: "Steven Combs’ Blog"
 tagline: "Combsing through the minutia"
-url: "http://www.stevencombs.com"
+url: "https://www.stevencombs.com"
 
 exclude:
   - LICENSE
