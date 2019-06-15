@@ -30,16 +30,16 @@ siteImagesDir: "images/{year}/{month}/"
 
 # URLs to tags/posts/categories JSON files
 # https://github.com/zhuochun/md-writer/wiki/Settings-for-Front-Matters
-urlForPosts: "https://www.stevencombs.com/blog.html"
-urlForTags: ""
-urlForCategories: "https://www.stevencombs.com/categories"
+urlForPosts: "https://www.stevencombs.com/posts.json"
+urlForTags: "https://www.stevencombs.com/tags.json"
+urlForCategories: "https://www.stevencombs.com/categories.json"
 
 # The front matter key name
 frontMatterNameTags: "tags"
 frontMatterNameCategories: "categories"
 
 # Filename format of new drafts created
-newDraftFileName: "{slug}{extension}"
+newDraftFileName: "{year}-{month}-{day}-{slug}{extension}"
 # Filename format of new posts created
 newPostFileName: "{year}-{month}-{day}-{slug}{extension}"
 
@@ -49,16 +49,15 @@ newPostFileName: "{year}-{month}-{day}-{slug}{extension}"
 # frontMatterCustomFields:
 #   author: "Your Name Here"
 # Front matter date format, determines the {date} in frontMatter
-frontMatterDate: "{year}-{month}-{day} {hour}:{minute}"
+frontMatterDate: "{year}-{month}-{day}"
 # Front matter template
 frontMatter: """
 ---
 layout: "{layout}"
 title: "{title}"
 date: "{date}"
-author: "Steven B. Combs, Ph.D.
+author: "Steven B. Combs, Ph.D."
 email: "steven.combs@gmail.com"
-category: "{categories}"
 comments: yes
 ---
 """
