@@ -10,12 +10,12 @@ comments: yes
 
 I mentioned in my [last post][printer-setup] that my new Creality Ender-3 3D printer build surface is warped. I blame myself because when I removed fresh prints, I would often bend the build surface slightly to remove the new print. I learned quickly, DON'T DO THAT, STUPID! Because my build surface seems irreparably damaged, I ordered the replacement below for around $20.
 
-[Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][build-surface]
+[Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][build-surface-amazon]
 
 This post shares my experience replacing the old build surface with the one above.
 
 # Research
-I reviewed several options to replace the warped build surface. The build surface originally included with the Ender-3 is made of plastic. 
+I reviewed several options to replace the warped build surface. The build surface originally included with the Ender-3 is made of plastic.
 
 ![The original plastic bed][plastic-bed-flipped]
 
@@ -29,7 +29,7 @@ What I thought would be the perfect solution is for a glass plate to have the te
 
 ![The original plastic bed build surface][plastic-bed-surface]
 
-After more research, I discovered that Creality produces what I was looking for in an item they call the [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][build-surface]. That's a mouthful, but seemed to be what I was looking for; however, reviews are mixed. Some reviewers said this was the best build surface since sliced bed (although I wouldn't recommend sliced bread), others stated they had issues with longevity, while others didn't seem to know what they were doing in the first place. Overall, it was a four-star review. My minimum rating for a purchase. Add to cart, proceed to checkout, and ordered!
+After more research, I discovered that Creality produces what I was looking for in an item they call the [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][build-surface-amazon]. That's a mouthful, but seemed to be what I was looking for; however, reviews are mixed. Some reviewers said this was the best build surface since sliced bed (although I wouldn't recommend sliced bread), others stated they had issues with longevity, while others didn't seem to know what they were doing in the first place. Overall, it was a four-star review. My minimum rating for a purchase. Add to cart, proceed to checkout, and ordered!
 
 # Arrival
 I used the Amazon postponed shipping feature and had the item delivered several days later since I was going to be out of town. It arrived in a nicely packaged box as shown below.
@@ -46,7 +46,7 @@ I peeled the protective coating off of the glass plate and it felt heavy and sub
 
 The next step was to replace the old build surface.
 
-I also just noticed something. My plate is not screened with the same logo found on the [Amazon page][amazon-link]. Wonder what, if anything, that means for quality.
+I also just noticed something. My plate is not screened with the same logo found on the [Amazon page][build-surface-amazon]. Wonder what, if anything, that means for quality.
 
 # Installation
 Installation should (and I just jinxed it) be super easy. Remove the binder clips. Remove the old build surface. Replace with new build surface. Replace binder clips.
@@ -72,7 +72,7 @@ I backed the levelers WAY down since the glass surface is much thicker than the 
 With the bed level, I am ready to print on my new glass build surface.
 
 > Note to self: I wonder how well these clips will hold up on the bed once heated. Will they lose their grip over time? The first time? I don't believe they will be a long term solution.
-> 
+>
 > {UPDATE: Yep, they didn't work for more than one print. Heat was too much and they are now loose. Using a more heat resistant material than PLA may be an option. For now, I need to find medium binder clips.}
 
 # First use
@@ -114,7 +114,7 @@ Below are items that might be a draw back for some, but in my case, not enough t
 * original small binder clips don't work due to thickness of glass plate
 * no alternative clips provided
 
-For now, I would rate the [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][build-surface] a winner.
+For now, I would rate the [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][build-surface-amazon] a winner.
 
 # Long term review
 I will post a long term review at a later date; probably in a couple of months or so. I'll be sure to add an item in Todoist to make sure I come back to this so you know if after several prints the build surface it performing as well as it did out-of-the-box.
@@ -125,7 +125,7 @@ If you are still using the original Creality build surface and it is working, do
 Do you own this build surface and have another or long-term experience? Drop me a comment below.
 
 
-[amazon-link]: https://amzn.to/31gy9R4
+[build-surface-amazon]: https://amzn.to/31gy9R4
 [printer-setup]: https://www.stevencombs.com/3dprinting/2019/06/02/set-up-ender3.html
 [clip]: https://www.thingiverse.com/thing:3045991
 [thingiverse]: https://www.thingiverse.com

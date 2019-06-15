@@ -52,4 +52,7 @@ The control panel's electronics are exposed behind the panel. It's not a big iss
 
 # Belt tensioner
 
-[Link to Thingiverse file](https://www.thingiverse.com/thing:2986144) by [MakeChetti](https://www.thingiverse.com/MakeChetti)
+
+# Cable Clips
+
+[Link to Thingiverse file](https://www.thingiverse.com/thing:2960375) by [Holspeed](https://www.thingiverse.com/Holspeed)
