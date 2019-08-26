@@ -7,7 +7,7 @@ categories:
   - arduino
 ---
 
-In 2017 my son had surgery for his spine. It was pretty invasive, but in the end, he stands taller and will be much more comfortable. As part of his rehab, he must wear a brace. We joked that with the brace on, he looked like Iron Man. That was all I had to hear. Time to build an Iron Man like Arc Reactor for his chest plate. 
+In 2017 my son had surgery for his spine. It was pretty invasive, but in the end, he stands taller and will be much more comfortable. As part of his rehab, he must wear a brace. We joked that with the brace on, he looked like Iron Man. That was all I had to hear. Time to build an Iron Man like Arc Reactor for his chest plate.
 
 My goal was a quick and inexpensive build. I had the materials I needed, but two I would have to purchase: an [Arduino Flora][1] and a [24 LED NeoPixel Ring][2]. A quick search on Amazon led me to both items. Total cost was $23.00 minus tax. Not bad! Below is my build list complete with links. I've included links to all supplies in case you want to follow along and are missing something.
 
@@ -18,7 +18,7 @@ My goal was a quick and inexpensive build. I had the materials I needed, but two
 * [Micro USB Cable][5] - $6.00-$10.00 (you should have one in your home)
 * [Multicolor Electronic Alligator clips][6] - $8.00
 * [22 Gage Wire][7] - $18.00
-* [Soldering Iron and kit (w/Solder)][8] - 
+* [Soldering Iron and kit (w/Solder)][8] -
 * 3 inch peanuts can lid (you will have to search for this one)
 
 # Install Arduino IDE on computer
