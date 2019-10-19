@@ -13,7 +13,7 @@ A couple of years ago, we received the [Star Shower Window Wonderland](https://a
 
 This year, we wanted to break away from the standard scenes provided and brighten up the image. I've become familiar with [sub-$100 projectors](https://amzn.to/2MSWTZa) by browsing Amazon and have been intrigued. I almost pulled the trigger several times this past year but kept telling myself that there was no way these inexpensive projectors would be worth the purchase.
 
-Toward the holiday season, I once again began thinking about these devices. I browsed the numerous listings of these tiny inexpensive projectors until my head was about to explode. I looked at makes, models, brands and reviews. I placed several in my cart, removed them, then added others. In the end, I finally decided to purchase the [AuKing Mini Projector (Upgraded for 2019)](https://amzn.to/32Hhqq8).
+Toward the holiday season, I once again began thinking about these devices. I browsed the numerous listings of these tiny inexpensive projectors until my head was about to explode. I looked at brands, models, and reviews. I placed several projectors in my cart, removed them, then added others. In the end, I finally decided to purchase the [AuKing Mini Projector (Upgraded for 2019)](https://amzn.to/32Hhqq8).
 
 ![The AuKing 2019 Mini Projector](https://lh3.googleusercontent.com/HBweqj-hJII-uOXNhpUU-NDs-gEuG1dlLReDaDK8Tca-4XuNav-4Np-yL4_ib88TWo9PdsWueAzxYDWvYrFvYcsaBXnVVO1TwWiynXK38vmWcXu_K5eD5Ki3NQBz80el9xXhhpVPv2Uy3PEa0BWslHVy-AsFbGKuuviZlk3E2uQn3fXI4eosGrIkOJfHivyMN3zYvqrcGdCm-U7jWsFyBl-fXJaxNq0rG7SInY-bAHI0ekgCf0gr7LTulpdpOOGlVUKKvqNA6a1HicaBg6ESRbmoHvrV0qi6r4sPmDo8wcvPmd-Iithu7z_m2X8qHiSkwJgK4iaAlK9upz4I9QNVqd_BySm7mhZ3_dKrRZ6y7wWHSdv7S-xbeyrSEIajRLmhR4c2c06CrUPZDMOFsSXi3ZVhXLOsCMc133AeEvBRO_ybvpSITaWkp_3MR0HEX1OpljZOPsAG_ijanikfxZc_ClxTTU352PtkOhL37ujlMxNk0mxaAMYwzGgEM_-Wp_0YY62lP-kLDaIIDeJ6KdlPXNqs1swgEcTvT-hg_J3eXbdxfOfXcazUu1dJbMeRKUoI7qeVUkTakIUpoD9NiL0hDDuIhzN8_uTS3w1y_CiUOcRfs7lIgdhVLGze5-Bv3-ACsW7Wy-WcHn85ZnF6X_3-u5-wt7XqB7t8AKOCIoZqNLNBuikI64BibVE=w1096-h822-no)
 
@@ -21,74 +21,78 @@ I choose the AuKing for three reasons:
 
 1. The price was amazing! After applying a 25% off electronic coupon to the already low price of $70, the cost was only $52.50. That's a little more than double the cost of the [Star Shower Window Wonderland](https://amzn.to/2J6VVHA).
 2. The AuKing has one of the highest lumen levels (2600) of the sub-$60 LCD projectors.
-3. It has the ability to display almost ANYTHING (more on that in the bullets)
+3. It has the ability to display almost ANYTHING (more on that in the bullets).
 
-# My Holiday Use Case
-Before I share my review, I want to describe how I use this projector. The LCD projector is connected to an [AmazonBasics standard camera tripod](https://amzn.to/35QsBie). The LCD projector includes the threads necessary. I shoot the image on a translucent window shade mounted to a large window on the front of our home.
+## My Holiday Use Case
+Before I share my review, I want to describe how I use this projector. The LCD projector is connected to an [AmazonBasics standard camera tripod](https://amzn.to/35QsBie). The LCD projector includes the threads necessary. I shoot the image onto a translucent window shade mounted to a large window on the front of our home.
 
 ![AuKing on AmazonBasics Tripod](https://lh3.googleusercontent.com/qLtijphu1-gTipQ0DQf5C5DjMLjBpp8ZsuDchhCuJ90h0V3UnKM3dgycidDfnyK5Vwm5iLrfTHchclsWlQGcRH9vWNDfW-tog_PjqglsqyOfieV0BW77t-CWZ-W7DiwJzZPhUF2dp3e5Um0CrevJGvrtXF6OFoqmp9hzzlfls9hU2nz9lNsSBsH8t7bZqZ95JrKzI0AVy234lYoDsGgHh87Fr-6kYlXVwJG173ltuVfdakB5Oa30x5ohTO6y1t9-K0tpyjFsNLFQXNrJ1ILD9ZBp2J8WfYiw49nfxFsx5cQSylRaq_e1cYHLZeJS6IdQPEjxv2H2dxQxiYE0g3zMouBDwb6xWTrNmwzG0agwkq-amensQPK4oSLmyLcR9f5rdJhKRp3gMqMTN4EPrXEV6KJfQf_6ZFm84DGdh5-s9ZG3dOeJhytqhlnP4QS-_Iox6N3QKleIxgWEEUYD22dXARdH_HAIiIHUgKj9jImzTqCFyWaeN_5n3UgQ6Qp6T6P3B5kqVTZDplNRRUDk6penu2ODdfgKpRa1xGuP4Zy4F7ipAXeqn2fZeEBye_Pdl3rRxM5vFxC25IR8wlEDjGrvYiXGf2Ww4oQi7gl7cNbJRPc-1UVrxJl1-9n72XUnI_fr6eSrVJ_41vALXmXNmW5Qr-u1tN7r4PbpTx3uilVAaVFRqow8y9QZfRU=w952-h714-no)
 
-Visitors are treated to movies that I play from an inexpensive [32 Gb microSD card](https://amzn.to/2qotTRn) plugged into the LCD projector. You probably wouldn't guess it with a projector this inexpensive, but the it includes the ability to reverse the image so visitors don't see mirrored video. The projector also includes repeat and sleep timer features. I simply turn the projector on, select the movie to display from the built-in media display menus, select repeat, and finally select four hours of play. In the words of Ron Popeil, I "set it and forget it."
+Visitors are treated to movies I play from an inexpensive [32 Gb microSD card](https://amzn.to/2qotTRn) plugged into the LCD projector. You probably wouldn't guess it with a projector this inexpensive, but the it includes the ability to reverse the image so visitors don't see mirrored video. The projector also includes repeat and sleep timer features. I simply turn the projector on, select the movie to display from the built-in media display menus, select repeat, and finally select four hours of play. In the words of Ron Popeil, I "set it and forget it."
 
-You can find my use of the projector displaying a Halloween film in the video below:
+You can find my use of the projector displaying a film in the video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBiOFIS65D0?start=40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBiOFIS65D0?start=35" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For Halloween 2019, I downloaded public domain, and VERY creepy, silent films from the 1920s. My personal favorites to display are Faust, Nosferatu, and The Cabinet of Dr. Caligari. Each of these films provide just the right atmosphere for visitors and Trick 'r Treaters. As mentioned earlier, because the projector includes the ability to mirror the display, viewers can read the narrative cards. I've already begun my search for public domain Christmas films and cartoons.
 
-That's my use case and I hope it explains how this device replaces the limited scene displaying [Star Shower Window Wonderland](https://amzn.to/2J6VVHA). With only a double the cost investment, I now have limitless display options. Now, let's dive into my bullet review of the Amazon titled product:
+I hope it explains how this device replaces the limited scene displaying [Star Shower Window Wonderland](https://amzn.to/2J6VVHA). With only a double the cost investment, I now have limitless display options. Now, let's dive into my bullet review of the Amazon titled product:
 
 [AuKing Mini Projector 2019 Upgraded Portable Video-Projector,55000 Hours Multimedia Home Theater Movie Projector,Compatible with Full HD 1080P HDMI,VGA,USB,AV,Laptop,Smartphone](https://amzn.to/32Hhqq8)
 
 Whew, that's a mouthful!
 
-# The Good:
+## The Good:
 
-* Cost – What more can I say, it's ≈$50 currently
-* 16.7 million colors
+* Cost – What more can I say, it's ≈$50 currently with electronic coupon (as of 2019-10-19)
+* 16.7 million colors - I'll have to take their word for it as I didn't have time to count them
 * ≈55,000 hour LCD screen life – I'm sure I'll replace the device before the bulb burns out
 * Projects a 32→172 inch display – You can't focus the lens outside of this range; which means you can't make the display smaller either
 * Includes ±15° keystone adjustment – pretty cheap, but works
 * Built-in power supply – some brands include an external power bricks
 * Construction - I was prepared to find cheap materials but they are better than expected for the price
 * Supports 1080P video – which is not what you think, more on that later
-* Supports a large variety of video formats - MPEG1, MPEG2, MPEG4, RM, AVIRMVB, MOV, MKV, DIVX, and VOB
+* Large video format support - MPEG1, MPEG2, MPEG4, RM, AVIRMVB, MOV, MKV, DIVX, and VOB
 * Playlists - with the included playback software, you can string video together in a playlist
 * Ports - 3.5" audio, 3.5" composite video, microSD, HDMI (turn off Dolby Sound on devices if now sound present using HDMI), USB, and VGA
 * Included necessary cables – power, composite, and HDMI
 * 4 watt stereo (2 per channel) speakers with surround - Not great, but works in a pinch and some projectors in this price range only support mono; plus, you can add an external speaker with the included jack and cable
-* Image is highly visible in a completely dark or very low lit rooms when projected on a white backdrop (see image gallery for an example)
-* Remote control to access all features - IR receiver on both the front and back of device
-* On device controls - Mirrors all remote controls
+* Image visibility – works in a completely dark or very low lit rooms when projected onto a white backdrop (see image gallery for a bad example)
+* Remote control - access all features and includes IR receiver on both the front and back of the device
+* On device controls - mirrors all remote controls
 * Standard tripod connector – you will definitely want to attach to a tripod if a high table is not available
-* Angle adjustment – screen adjustment on the bottom of the projector
+* Angle adjustment – screw style screen adjustment on the bottom of the projector
 
 ** TIP:** Connect a [Chromecast](https://amzn.to/2MTDt6B), [Fire TV Stick](https://amzn.to/2MVFsXX), or portable [Roku](https://amzn.to/2BtIOfn) device to the HDMI port but note that the USB port will not provide power to the device.
 
-# The Bad (But again, it's a $50 projector!):
+## The Bad (But again, it's a $50 projector!):
 
 * Low lumens – you will not be able to watch video in anything but a dark room and the more dark, the better
-* Difficult to focus – can't focus the entire screen to perfection 
-* Keystone control – flimsy and has a tendency to shift if at high angles
+* Focus – can't focus the entire screen to perfection 
+* Keystone control - flimsy and has a tendency to shift if at high angles
 * Screen resolution (800x480) – "supports 1080p" means you can feed it that resolution, but you will never see it
+* Remote control – does not recognize remote 100% of the time
 * No batteries for remote – at this price, should you complain?
 * Instruction manual – vague but you'll figure it out
-* Ability to update firmware – could not find a site online to find updates
-* Remote control – does not recognize remote 100% of the time
-* Janky menus – difficult to use built-in media playback controls but again, you'll figure it out
+* Janky screen menus – difficult to use built-in media playback controls but again, you'll figure it out
+* Firmware – could not find a site online to find updates even though there is an option in the menus
 
-# Summary:
+## Summary:
 While you can find faults with this projector, if you set your expectations where they should be and remember "THIS IS A $50 LCD PROJECTOR!" you will not be disappointed. You may even find yourself having a blast once you understand what you can do with this portable projector. 
 
 If you need a home theater projector to display your favorite movies in pristine color, look elsewhere. But for hacking the holidays, sharing video in a dark room, group video gaming, and the occasional family movie night outdoors, I don't think you can get this much fun for $50 in a projector this size.
 
-So would I recommend this projector? Oh yeah! With Amazon's generous return policy and the low cost to entry, I don't think you can make a wrong decision here. Even if you don't like it, pack it up and give it to the kids. They'll surely enjoy it!
+So would I recommend this projector? Oh yeah! With Amazon's generous return policy and the low cost to entry, I don't think a purchase will be a wrong decision in the long run. Even if you don't like it, pack it up and give it to the kids. They'll surely enjoy it!
 
-Having typed that, if you have a bit more budget, you might want to check out this next level up: [VANKYO Leisure 510 HD Movie Projector with 4200 Lux, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag](https://amzn.to/2oN2IQ4) that has a higher resolution and more lumens for about $160.
+If you have a bit more budget, you might want to check out this next level up: 
+
+[VANKYO Leisure 510 HD Movie Projector with 4200 Lux, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag](https://amzn.to/2oN2IQ4) 
+
+This make and model has a higher resolution and more lumens for about $160. I almost sprung for this one, but was lured to the low cost of the AuKing (i.e. I'm frugal!).
 
 ![VANKYO Leisure 510 HD](https://images-na.ssl-images-amazon.com/images/I/71AkNHjB8vL._SL1500_.jpg)
 
-# Gallery
+## Gallery
 Below are images of the item reviewed. Comments are below each image.
 
 ![AuKing in box](https://lh3.googleusercontent.com/geybuB7am-zqhnAJ0jKdMpFXxy-CtPcKKnemi7GkjHRo5Z_VAdQOYznc-M9ZEgOqqk-XRRrH4yLsaXYSrSBjhJnNj6p-jxhqv7vDSZ7PN1xVEWG-rzRdckhnSl67GbnV0s7_lcFFa9HUf6VVbOqUE0PGr3vvukTr3tI71WwOdHD8RJAzIaBa90Bdy6eJvoGicCkDAbpeRFeNn5P5OucAqm-4cZDxYXxXuD_x87L5kg8HoC0GX34oV31mQ_7-lp0x20QplvuHdjcCSFpT3hp3DA8azwBilJkuIVrV9_Tj1dCNmz4O0v4J4Qud7fBfas-E5VQY_J5O__nUqjxfB6UDwN7urJ7XB9dTQ2e9oHVeBZb_WwVpeP_07t1Y9U0dAuspuwkEM2KhiRl7b5fDJx3BspgieH_7nI5oa99tV61VPni2tQWe5XxKDH8zWRFl4mz8RZ7dCDXYSJfklwCCtRI2NEkRbkNCfZEjXZ7VjpqfX8GfGNn1XHOIS0cjXCC_oYMPQxN0-SbT9ADh6Z6wLsdxJAbmmnKXxdRV2X2yzHc4Lb-LB-gAzITdtNl20_B3Kg3b7KbMTehFY6Wxqo6ug7N9L5ZqIQImTJNG_pK235QcSWYrgdHtbMjsT8pk9qtNjph-QaMZnn-mAzqvDdOhpdVRWScdU7n6mA3PQratM7y35QXI43MfFkpU2vI=w952-h714-no)
