@@ -1,30 +1,46 @@
 ---
 layout: post
-title: 'Bullet Review: '
+title: 'Bullet Review: TITLE HERE'
+date: '2019-01-01'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
-date: 2019-04-25
-category: 
-comments: yes
+comments: 'yes'
+categories:
+  - gadgets
 ---
-
-# Bullet Review
 
 Introduction to review
 
-## The Good:
+![Image Caption][image-1]
 
-* 
+# The Good:
 
-## The Bad:
+*
 
-* 
+# The Bad:
 
-## Summary:
+*
+
+# Summary:
 
 
-## Unboxing images
-Below are unboxing images of the product.
+# Gallery
+Below are images of the item reviewed. Comments are below each image.
 
-![][image-10]
-Caption
+![Description][image-2]
+Caption here
+
+----
+
+![Description][image-3]
+Caption here
+
+----
+
+![Description][image-4]
+Caption here
+
+[image-1]: Introduction Image URL
+[image-2]: Gallery Image 1 URL
+[image-3]: Gallery Image 2 URL
+[image-4]: Gallery Image 3 URL
