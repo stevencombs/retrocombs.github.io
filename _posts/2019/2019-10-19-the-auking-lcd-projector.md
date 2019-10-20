@@ -15,7 +15,7 @@ This year, we wanted to break away from the standard scenes provided and brighte
 
 Toward the holiday season, I once again began thinking about these devices. I browsed the numerous listings of these tiny inexpensive projectors until my head was about to explode. I looked at brands, models, and reviews. I placed several projectors in my cart, removed them, then added others. In the end, I finally decided to purchase the [AuKing Mini Projector (Upgraded for 2019)](https://amzn.to/32Hhqq8).
 
-![The AuKing 2019 Mini Projector](https://www.stevencombs.com/images/posts/2019-10-19-auking/1.jpg)
+![The AuKing 2019 Mini Projector](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/1.jpg)
 
 I choose the AuKing for three reasons:
 
@@ -26,7 +26,7 @@ I choose the AuKing for three reasons:
 ## My Holiday Use Case
 Before I share my review, I want to describe how I use this projector. The LCD projector is connected to an [AmazonBasics standard camera tripod](https://amzn.to/35QsBie). The LCD projector includes the threads necessary. I shoot the image onto a translucent window shade mounted to a large window on the front of our home.
 
-![AuKing on AmazonBasics Tripod](https://lh3.googleusercontent.com/qLtijphu1-gTipQ0DQf5C5DjMLjBpp8ZsuDchhCuJ90h0V3UnKM3dgycidDfnyK5Vwm5iLrfTHchclsWlQGcRH9vWNDfW-tog_PjqglsqyOfieV0BW77t-CWZ-W7DiwJzZPhUF2dp3e5Um0CrevJGvrtXF6OFoqmp9hzzlfls9hU2nz9lNsSBsH8t7bZqZ95JrKzI0AVy234lYoDsGgHh87Fr-6kYlXVwJG173ltuVfdakB5Oa30x5ohTO6y1t9-K0tpyjFsNLFQXNrJ1ILD9ZBp2J8WfYiw49nfxFsx5cQSylRaq_e1cYHLZeJS6IdQPEjxv2H2dxQxiYE0g3zMouBDwb6xWTrNmwzG0agwkq-amensQPK4oSLmyLcR9f5rdJhKRp3gMqMTN4EPrXEV6KJfQf_6ZFm84DGdh5-s9ZG3dOeJhytqhlnP4QS-_Iox6N3QKleIxgWEEUYD22dXARdH_HAIiIHUgKj9jImzTqCFyWaeN_5n3UgQ6Qp6T6P3B5kqVTZDplNRRUDk6penu2ODdfgKpRa1xGuP4Zy4F7ipAXeqn2fZeEBye_Pdl3rRxM5vFxC25IR8wlEDjGrvYiXGf2Ww4oQi7gl7cNbJRPc-1UVrxJl1-9n72XUnI_fr6eSrVJ_41vALXmXNmW5Qr-u1tN7r4PbpTx3uilVAaVFRqow8y9QZfRU=w952-h714-no)
+![AuKing on AmazonBasics Tripod](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/2.jpg)
 
 Visitors are treated to movies I play from an inexpensive [32 Gb microSD card](https://amzn.to/2qotTRn) plugged into the LCD projector. You probably wouldn't guess it with a projector this inexpensive, but the it includes the ability to reverse the image so visitors don't see mirrored video. The projector also includes repeat and sleep timer features. I simply turn the projector on, select the movie to display from the built-in media display menus, select repeat, and finally select four hours of play. In the words of Ron Popeil, I "set it and forget it."
 
@@ -95,67 +95,67 @@ This make and model has a higher resolution and more lumens for about $160. I al
 ## Gallery
 Below are images of the item reviewed. Comments are below each image.
 
-![AuKing in box](https://lh3.googleusercontent.com/geybuB7am-zqhnAJ0jKdMpFXxy-CtPcKKnemi7GkjHRo5Z_VAdQOYznc-M9ZEgOqqk-XRRrH4yLsaXYSrSBjhJnNj6p-jxhqv7vDSZ7PN1xVEWG-rzRdckhnSl67GbnV0s7_lcFFa9HUf6VVbOqUE0PGr3vvukTr3tI71WwOdHD8RJAzIaBa90Bdy6eJvoGicCkDAbpeRFeNn5P5OucAqm-4cZDxYXxXuD_x87L5kg8HoC0GX34oV31mQ_7-lp0x20QplvuHdjcCSFpT3hp3DA8azwBilJkuIVrV9_Tj1dCNmz4O0v4J4Qud7fBfas-E5VQY_J5O__nUqjxfB6UDwN7urJ7XB9dTQ2e9oHVeBZb_WwVpeP_07t1Y9U0dAuspuwkEM2KhiRl7b5fDJx3BspgieH_7nI5oa99tV61VPni2tQWe5XxKDH8zWRFl4mz8RZ7dCDXYSJfklwCCtRI2NEkRbkNCfZEjXZ7VjpqfX8GfGNn1XHOIS0cjXCC_oYMPQxN0-SbT9ADh6Z6wLsdxJAbmmnKXxdRV2X2yzHc4Lb-LB-gAzITdtNl20_B3Kg3b7KbMTehFY6Wxqo6ug7N9L5ZqIQImTJNG_pK235QcSWYrgdHtbMjsT8pk9qtNjph-QaMZnn-mAzqvDdOhpdVRWScdU7n6mA3PQratM7y35QXI43MfFkpU2vI=w952-h714-no)
+![AuKing in box](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/3.jpg)
 
 AuKing projector prior to unboxing.
 
 ----
 
-![Cables](https://lh3.googleusercontent.com/_ftH9rqULM9crIf3wOtOvA6KGW2iAeOMtcIcqG2oAOX9ahZ9Rp4BHz2Le9slScwq_UlD2lGrnx2cNkNB_fi9zlGHyQxv82LJ6cijP5sfOO9BcUzV9G7LWZius5Jp6fDrTN5yBXHFMvhVKcOogtb9ofF1ahr3TeNkDhfWSByzACdnFq2jIvskyHkjpiuiHspuJ6Rvr0e8RzrYXUkJXwod50hD2ve5x8U_QxtmxsLAegi80aMJc3Z_4b547R7dzP-_CDNErAMGM8a2iRY47-7CDWOgDoYcG1aXBLmYgJ81Rxb6_mN9ReNli3y5VsmFNW2sKLj4SNHtJGIqe7iXTJpBz__sCmvUdd6FJJIlIgo_PKO8SDhBv_j8trZ_qzhhFn6gaigIs8Lkg-HOjP0Qqr60gm43__IYkHj-VGVez9KREQEEd6CUdu06vfczfTKDR4w8BcNYQcBIO8cr4OiLjaMMH-icwfa7ytD-Du8MugfEj80vd2qqZuyU7cpEXIc13EowxgdXhOhUmdaDvEN-KEVZX2WKX0pslVI_2N2T5uTh1n7E2tMzjL-RG9-ISIPBCZwP7IznDi7Nv7qexcKeXoYETWp3jMQHqBATw22_tpSbcDMK-n3MP3ezkCI7KDjsdZuRSHGrEbuWuOA0huOtnDKli1E_2aNu_b9lqBTA9Kj28l4ijcBPDSIQHBo=w952-h714-no)
+![Cables](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/4.jpg)
 
 Includes all the cables you need and a remote (batteries not included).
 
 ----
 
-![Instruction manual](https://lh3.googleusercontent.com/F4ChoRz-MzCYhvRXOMvoSrPSCf0A2SX2EOsbuHO-IfTA4Imwwq9KadY0FQ7MQDQD80gtZ0RX5MXdlJlHoRtMdPQqm51T1fmf1PmK6ti2LBD-EdPLa8u-H9tz7mWHc-b9ZXXmmWK3t_tp_28DgP4Y0fjIZjLM4NEp32QFw77YUWNTlLWpAP3mOoaky26UBFBD5MLtg7tzKw0FUHQ77ei3l3uGTdKq-rvNj3va28wBvGsGzdlLppFGit7OxqiqaN_847F4ipl8DLF9AiZFMOyJNiTtdCvS7QwYP5GOS9LmzepBxsiIMg5OkEOUxuRGBy6kH_WAgRLWnlJk_i1Ls3SHgXeacy_fDW_fwJv_R_4sIjBvuHj-gQNE28VIP-1rnQcmikIjrgn2QEAw92-y3MJRb-LQS8TOQPb9OrgNBaB6K2iaNcivFS43QDGLnYSKCHqQi6WFzFqaceJV_6pO2iCS7RnYnfNWXsRKnq6EQyie6DltxFTYvXwsDVq0Q-7s9yBa3D1vthPnNufu6onxovEJ9qHdDU9t3U7lgU96QpxSXbVEsdcBqiO-u-SWwrwDuBQSFwJTzG_Wb6PYPPPEnQ_SO3zqOcAtQm3UWSK3l7oJVcmogoH6g29dxD_7hT2IQKT08O2WfP8tYojeFMlX40aSTQ3xHBtrxrIWIuWluSk0854XCx2kpspNhK4=w952-h714-no)
+![Instruction manual](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/5.jpg)
 
 Functional, but don't expect any details in this flimsy manual.
 
 ----
 
-![The projector and remote](https://lh3.googleusercontent.com/cz_dVrf01NbULNU9_NeTrImqngiAvWKF795OqJ4s0u0vFhOx5klx8Wx-k2dK4IhZoJSoe3XqlUXklUcp067Eh1A9A9n4-4jr67S72IYeCuoYYEl97pxa7NGy9AcjdMixegOGAussyl4z1Lwj50ZA6S0hpTLBPQ3HccQvyZ0k_cf4a_7U58ijqlkOAOWLnoM2fA6MsPih93WR0LfMxYLio8aiYTTPCh8LN1IlCwsQfN_gPy_3a2edoxc_y6fULCNoaRlPGPAEWfRGy-6BnSjBfu0rZhCtKENK4L0tl_5ZPC336m5H-r5Nhu-WBgPXOrvrf5wV4QOjPfNrP9aXe1Jki3xWM-fP6tM99Qs_6hI81ZzQTEfXc0CTvfujS3PFtAeAsBSidj9ZUk9OaVePA6kFB1gESLJIaBywGNsUuH8v1z5lNO1N5yL8Fve7p2AbK8XxJtaDnuvpLDbhkdAblEMVVH14U53i_gQjDR2dlMgghVNsEqGtqgJ_AH7ersYjubj0q4h9gGIOU8ZGJ23D9MFnrY500ySNoKFCr6iMrldv7Ru3SXlCvdxwquZXcgrrxF0ta4Mf65PDj-Yw1kZ79qy_A8eKEkGG-jiW3f-n3_T_VVhhBug5UV-xfEkETj0sTfLN8HrQQPC6mzM9GQPhDc4fzYtW74iykHSotyYclnLPx5RLOyfTIdNs5rU=w952-h714-no)
+![The projector and remote](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/6.jpg)
 
 The Auking projector and remote. The mouse is included in image to provide a size comparison.
 
 ----
 
-![Ports](https://lh3.googleusercontent.com/ky2QuPD1cNgQ5Yxc8INNRmpjeRwJKcDVJGo_N-saQdT7rGktjylsEmZIUNnXxcszDemDEHxaAcsm9uPhLAHOKTnoSTr4ENJ7kBB-AmT2hltz6AxYHb0AKwfqUtp2aVG6ESl3ElYH7v6k5iUznqT9jpNSgPples5TeyEwjTICXxqiR3zXuplkC3gYIASCab2YJTNyGQ4iivHt8MnHbllDEtmpxMpUPusgA_XLszD3AHY1OHbrVsiC6zIQ0Cy6klzAeJFEYki5WkVxA0mlSfqMGAg9niu8HGjLn3OHNiGq4vtYDOM0--WEshrAuPrn2nTd9EWpGQg7jahUG3fHWxgXZrNE4ag4p7SQbNJaVJOSBYT5nJ7qrZbYm_eKbfa5z5p6ia9mV9vogjUFpfAto1DoryCajnDmO_rfOmzjlZFdD6MQYazIctsMr0im1tWSmkEkWqa-CysrfPIp0n74qEDstm5ym_GQMk5ByWJpQHiZElbrzGGq7kSDevA-DMUce-Zx-N_8k_RIxa66JDsOHtr9SQagra6zaxHBZfRuEUrMNxTqiiS6IJYXH5YfxSQyGhk--W11qRu9tjUiEPp2SHa8YKs0ohgzcYurQucyK3yTL6yH9uwlQwGZkluPKfdALxalHtT_yd0DIatTpLZ_JaEDBf2eLOGYDu6dN_IA-TyN6rkp1_r2hVynzUw=w952-h714-no)
+![Ports](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/7.jpg)
 
 Includes all the port you need to connect to most devices.
 
 ----
 
-![Stereo speakers](https://lh3.googleusercontent.com/Votd_hWBai0hAUq60TwLKZIkfHLrHWHd5i_aMVsdeHkGSOz4a87a20gpvt08X8BH-lGf4ulmCREJeJlO-QMVybSlJUzsmIerw6KLdG-nQSMrCMIjVrXJpapqbaMH1KC9b3A3u5UqS1uQQ0nB3k_Kv6Td_qZ9PTth1dVbZYsiBY65Eb1KlOjKs3d3LCTLtmKjpGi3pHvcOj0D-b7y2oiiDcEYeMhYzL-E4P-26W9zLc7eK-dACx5SObNQg9IBFisKoc3lul2hA_TaIDbebQsrdWigVIzXNkfUj_xUIdMfamc4u_FIP58fscQgCmXqLHeSW5bn-mEtouxd09ehgorEH1Ab4Z5AYux1EVcjEy9wM96qMBP2AVjBmb6TP50vYhcODe_vZjXJ0nVpy_Ya7RF_WYMnb_gptSCOZkEEQJssO-gM8Zc5xNoOInLPdY9x92O33xc3otyVGJ-2ZNk0sY_mH7qecIoEYNu__-ezFvsJ2t8fimuDp2HiaKP5mjhv9HqVj2lDueaD8nVrGCzUMvOz9zPQGA7j6Gn4QnAvXesmc65QmEqn6__jozgWVtYRBXScE0Dwou4MywpWxgynxYwx-JWyef09WUdra-HTvOAmP5WayxstrR0K5ARWwZIktCR9-M4SM-l6lbYhEPj3zjP9lXz2sD8aAVG_QmbSh76GlZQeSDtdyiGhM_Y=w952-h714-no)
+![Stereo speakers](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/8.jpg)
 
 Includes 4 watt stereo speakers.
 
 ----
 
-![Front of projector](https://lh3.googleusercontent.com/HBweqj-hJII-uOXNhpUU-NDs-gEuG1dlLReDaDK8Tca-4XuNav-4Np-yL4_ib88TWo9PdsWueAzxYDWvYrFvYcsaBXnVVO1TwWiynXK38vmWcXu_K5eD5Ki3NQBz80el9xXhhpVPv2Uy3PEa0BWslHVy-AsFbGKuuviZlk3E2uQn3fXI4eosGrIkOJfHivyMN3zYvqrcGdCm-U7jWsFyBl-fXJaxNq0rG7SInY-bAHI0ekgCf0gr7LTulpdpOOGlVUKKvqNA6a1HicaBg6ESRbmoHvrV0qi6r4sPmDo8wcvPmd-Iithu7z_m2X8qHiSkwJgK4iaAlK9upz4I9QNVqd_BySm7mhZ3_dKrRZ6y7wWHSdv7S-xbeyrSEIajRLmhR4c2c06CrUPZDMOFsSXi3ZVhXLOsCMc133AeEvBRO_ybvpSITaWkp_3MR0HEX1OpljZOPsAG_ijanikfxZc_ClxTTU352PtkOhL37ujlMxNk0mxaAMYwzGgEM_-Wp_0YY62lP-kLDaIIDeJ6KdlPXNqs1swgEcTvT-hg_J3eXbdxfOfXcazUu1dJbMeRKUoI7qeVUkTakIUpoD9NiL0hDDuIhzN8_uTS3w1y_CiUOcRfs7lIgdhVLGze5-Bv3-ACsW7Wy-WcHn85ZnF6X_3-u5-wt7XqB7t8AKOCIoZqNLNBuikI64BibVE=w952-h714-no)
+![Front of projector](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/9.jpg)
 
 Good looking projector that includes both zoom and keystone adjustments.
 
 ----
 
-![On device controls](https://lh3.googleusercontent.com/K3_pv_h19JMdzb2T2nQux2RpM-Xq3cJ5dVCHbXO4gCVuvT9iMTYdxx2mmwGBQVr7vGqoVIK2cpbtDZdkGPbNwfhDlWlEFLBFon1uCw6UDi2lJiVK1iru9KT8ei2DMSUyloJkOMUy9tpoPg06FYyvE2c8QfCDJwCTAtCIUjEqzm-Os48Cw8bNrIazyiqsVtIUbSA05VHOJw6oYX6KTf84Kj7qWt7VFMqPhr5jzJNAb0DFEn27e8d3pf-tw1JQFWsDroa3CfB4B-k8nLU3BBv8jpyLwEXBkpvHIFT1q52EAxV1gu7U2XzbPyUCwjPS-z83a8_qfH2wBs5kvRtxJRKqb0hvtVUpolENvSJqo6ZG59VMu7OiTDm-VtU_ieCJnIe6I1cNRZ3-XVTN1wxsYYEv0_kksrr60kTxGyycpCDGKfpcS6veIwIG-J7hbFnrFyk6K_PXsR32Kv_HuGMcGJxCyyLko_836FpihY4vQZKvISUlne_1IwF7k6CEQnM05ea2zgCymNoxKRozixEXvxV6YAcjPjLnhvMJMUORHUUPvBB5ZZ06PtwvlH_DqVJv_7inS21_CwBrrsnxaXvV_ZfUzfH6yUZ4sOMBUNu18KKNTk3CGmwOIYTlAqQ69gNBAiMwNhQiC_n40-ei0iriFpeBouywLxrt6L_Ltk6vABgypc6Hp2eq00howGQ=w952-h714-no)
+![On device controls](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/10.jpg)
 
 On device controls when the remote won't function.
 
 ----
 
-![Demonstration projection](https://lh3.googleusercontent.com/NuKFxA1JMNL7sMIzOLnuQ0mAaqX4ovkDeAv1lQug1MK97qbCW-RQI1uD0a3tLzKo7p1ZP7XYDNMhapq9CepXxkfRdAgqybWEvgND5oIIeAOSuNQMDr__cQ-qnCwWieH1MnJQgDAVMXLonmXVAy6NdAyWsKc8FW83L5eS79pH7KiKX2lMDJN4NZYyTfWE9-5G7YigFXoaifndKteAngHzXAwueZ0FD1WsSvwCvaCxTz6qa7fhoE-r5QJU5VAFbva9qdpkswPS-yitPzEQpVPbKybWQginQcyJYVesgLU30KXJsBa1lZLewsk2cP1CogR-_ciTQYK77KC0pI8YXoRKHHXECU3HqJiFSjZMZE--vJtKttHF5QUEEyrZKGL2tlntcTnk8KzduQq_r23MzHtvw5NosZV3Kck85u1jr3iTlRzuTWXU0TTh6_k8pv3_eV-d3Yyk1djg_iEB7LYMWoVi3AwW9j6--lXdhfZjnuq38a3F8j_815uQ2pdj79a7MlSnMPyYs3MWdSl9odweXbpmPUHjVrH1KNNcR8RO4FkyJxeAuT9Oa1dSGmmD1oDA3uiOzmnhrshWuLjXAUWjjhgty41qdN9jumd2IAZN18f_3mSeBWTR0g7vhR6n8zQf_Qlz5lC8q8VjKYoKA5sQMLZ_5J-vf9TZP2bBdAh5NV5AHGMKrG3EZ64uPGA=w952-h714-no)
+![Demonstration projection](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/11.jpg)
 
 Sample of my first trial. Connected to a Fire TV stick in dark basement onto a blue wall.
 
 ----
 
-![Sample of pixels](https://lh3.googleusercontent.com/-VqwxVuhoIGWxwKuqU7TFDPP7e4HVo6eWXBjzCzsHW95Zgk0wipy6L4-C1kQ1Nx3nLlhcdyT5AKVBFOKaxKKZQygHpkm9mpe58RwlxvzeUTB_Ef9dyoNHDNneVgZKNxNCyxpP7ukNy9Dp0SCKnVrkctxXWWkU2C-IrngzM7X8Mni_dtXQbbTJx3EHyZm1cXiL0-YJLmTb52JTIhytuyWUGPnXtJQn4-vSGGa9xtmqU21NL8oo3TSy8M5B6tYllzW_IJGTlw27vUjfcEn0PBVnbWx2emiCw0xmHtWkfS4WGYaTFCe-dJo8Xc_BbrloCRtYwfy5aRLGxCNWzO8kgodjBf5URoH1TPvJ9okYZDYAlNVML_ul2V7mCZh9SkvnAKaUaJSzRSWX7NJX4nwJAFTsjTQnIKdRtCdE5KSzlIMb_jkBdt2UXwP9-Tl0A2j5P2l39QKZe4EX-HpPqGbrTZ1P_RQn2G80pr8CBvJ8tkNriUTvdWH4Y_Gn-9x4pYVmtlzGOgpIHHz9PlXFD3X54prlCpFfnZxbVrmeI-OqAvugArf450Ip4cD4Vv8UeV_5W-0EGgbGNRdnikFVifjznMATmSPk22JWk6Dk4g14K9o7BNW8uMewhrlkOLn0Rzw3d-iWKKKRypdBMj3A0bp5h9_Z0mkucEoru_E0CcQHTX384qFvGoLULsSfJQ=w952-h714-no)
+![Sample of pixels](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/12.jpg)
 
 A close up image of the pixelation.
 
 ----
 
-![Everything operating](https://lh3.googleusercontent.com/KUJ8k6shrf6LozRuNkeVJI3xr7WaOtyMJ2HPdcgcwQryDFF01-n5OcEVtqvuhJyu0tUcQ5UqbF8NIAvby3QESNE0Fgdk_WVhD6HAs8lGReRC4a_3ozd3TybYicGro390Iv8Ii5WQC0mGjY47llGVN0kEygNzMiDiaTO0gNfilSacw_G1Qewtk7AzJ7raSgaBlH2w18WMMRYwG7j5t4l2TIh-RFEVAatODbJDJyQcZhmqoiwO9dL2xY_aM67s9nBygCahfd7rBgVl1vxMhVnb2DdhCr4QjaSxGAf9whVg50jsthb2CtXa02-Uvj28MX0L98LFBmo_gCYJDtsWmK8m1xY_-RX0QToVZUjM0oxTOGnlgzwqnaFtikhTHCDcCVgc2hsJWuRPnccpzlqiY_MtIA4y69aGpCGhlyXM9lh_7YAteacby4zu3De3NPCB0PFxpXk3XCiHnSd0SXsFgzOEMQb0MdZF77t55BrrvD8dIyxIAIwrsBi5PV-n8zYOKWvkgPz7QDCbSlyF_qBrwWGpC2-x035YjTpWJHJUO8Eahx_0gfyfFKlgQ61eOTKDy6FsD0rHdNF8fkb13FblU1CbXFeuVQf7EuxjmuYX7vdeN6NSqVbdCAd4Wz01mkEOBok_FIUC0rOCFWN1IO39g0N1hI3xx3-hLBsQMVbNwBKh85BGlcz7a63rWtw=w952-h714-no)
+![Everything operating](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/13.jpg)
 
 Everything connected and operating.
 
