@@ -15,7 +15,7 @@ This year, we wanted to break away from the standard scenes provided and brighte
 
 Toward the holiday season, I once again began thinking about these devices. I browsed the numerous listings of these tiny inexpensive projectors until my head was about to explode. I looked at brands, models, and reviews. I placed several projectors in my cart, removed them, then added others. In the end, I finally decided to purchase the [AuKing Mini Projector (Upgraded for 2019)](https://amzn.to/32Hhqq8).
 
-![The AuKing 2019 Mini Projector](https://lh3.googleusercontent.com/HBweqj-hJII-uOXNhpUU-NDs-gEuG1dlLReDaDK8Tca-4XuNav-4Np-yL4_ib88TWo9PdsWueAzxYDWvYrFvYcsaBXnVVO1TwWiynXK38vmWcXu_K5eD5Ki3NQBz80el9xXhhpVPv2Uy3PEa0BWslHVy-AsFbGKuuviZlk3E2uQn3fXI4eosGrIkOJfHivyMN3zYvqrcGdCm-U7jWsFyBl-fXJaxNq0rG7SInY-bAHI0ekgCf0gr7LTulpdpOOGlVUKKvqNA6a1HicaBg6ESRbmoHvrV0qi6r4sPmDo8wcvPmd-Iithu7z_m2X8qHiSkwJgK4iaAlK9upz4I9QNVqd_BySm7mhZ3_dKrRZ6y7wWHSdv7S-xbeyrSEIajRLmhR4c2c06CrUPZDMOFsSXi3ZVhXLOsCMc133AeEvBRO_ybvpSITaWkp_3MR0HEX1OpljZOPsAG_ijanikfxZc_ClxTTU352PtkOhL37ujlMxNk0mxaAMYwzGgEM_-Wp_0YY62lP-kLDaIIDeJ6KdlPXNqs1swgEcTvT-hg_J3eXbdxfOfXcazUu1dJbMeRKUoI7qeVUkTakIUpoD9NiL0hDDuIhzN8_uTS3w1y_CiUOcRfs7lIgdhVLGze5-Bv3-ACsW7Wy-WcHn85ZnF6X_3-u5-wt7XqB7t8AKOCIoZqNLNBuikI64BibVE=w1096-h822-no)
+![The AuKing 2019 Mini Projector](https://www.stevencombs.com/images/posts/2019-10-19-auking/1.jpg)
 
 I choose the AuKing for three reasons:
 
