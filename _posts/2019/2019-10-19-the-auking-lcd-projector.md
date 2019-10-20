@@ -63,7 +63,7 @@ Whew, that's a mouthful!
 * Standard tripod connector – you will definitely want to attach to a tripod if a high table is not available
 * Angle adjustment – screw style screen adjustment on the bottom of the projector
 
-** TIP:** Connect a [Chromecast](https://amzn.to/2MTDt6B), [Fire TV Stick](https://amzn.to/2MVFsXX), or portable [Roku](https://amzn.to/2BtIOfn) device to the HDMI port but note that the USB port will not provide power to the device.
+> **TIP:** Connect a [Chromecast](https://amzn.to/2MTDt6B), [Fire TV Stick](https://amzn.to/2MVFsXX), or portable [Roku](https://amzn.to/2BtIOfn) device to the HDMI port but note that the USB port will not provide power to the device.
 
 ## The Bad (But again, it's a $50 projector!):
 
