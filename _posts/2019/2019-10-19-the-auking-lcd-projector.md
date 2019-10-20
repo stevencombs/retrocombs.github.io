@@ -78,7 +78,7 @@ Whew, that's a mouthful!
 * Firmware – could not find a site online to find updates even though there is an option in the menus
 
 ## Summary:
-While you can find faults with this projector, if you set your expectations where they should be and remember "THIS IS A $50 LCD PROJECTOR!" you will not be disappointed. You may even find yourself having a blast once you understand what you can do with this portable projector. 
+While you can find faults with this projector, if you set your expectations where they should be and remember "THIS IS A $50 LCD PROJECTOR!" You will not be disappointed. You may even find yourself having a blast once you understand what you can do with this portable projector. 
 
 If you need a home theater projector to display your favorite movies in pristine color, look elsewhere. But for hacking the holidays, sharing video in a dark room, group video gaming, and the occasional family movie night outdoors, I don't think you can get this much fun for $50 in a projector this size.
 
