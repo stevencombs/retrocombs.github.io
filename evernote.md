@@ -1,13 +1,11 @@
 ---
 layout: pages
-title: Evernote
+title: Productivity
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/evernote.svg" />
 
-It’s true. I am a huge fan of [Evernote](https://www.evernote.com/referral/Registration.action?uid=33239&sig=4da3897d067e65f5e7cc3c59c00fddb7). I use it for everything. If you are on this page looking for the single most important tip, that’s it. Put EVERYTHING in Evernote. Until you observe this single strategy, you will not yield the full power of Evernote.
-
-If you are looking for more tips and tricks, this page contains links (or will in the future) to all my Evernote related blog posts.
+In the past, I was a power user of Evernote. I've since moved on to other tools to organize my life; however, this page remains for those looking for past tips and tricks. One tip not included below; If you use Evernote, be sure to put EVERYTHING in the application. This is the way you maximize it's built-in tools. Now, on to my archived list of tips.
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.evernote %}
