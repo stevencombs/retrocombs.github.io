@@ -4,7 +4,7 @@ title: The wallpaper that should come with the Project Fi Nexus 6
 date: '2015-08-09 18:38'
 comments: 'yes'
 categories:
-  - android
+  - art
 ---
 
 I've been on the hunt for wallpaper for my Nexus 6 Project Fi phone. There are very few available and my preference is to highlight the Fi logo and add a touch of material design to match Android 5.1.1 Lollipop. I decided to fire up iDraw on my Mac and create my own. What I came up with was a design that was clean, colorful and minimalist.

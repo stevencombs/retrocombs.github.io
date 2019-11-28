@@ -4,10 +4,10 @@ title: 'Connect Chromecast to hotel (captive portal) Wi-Fi'
 date: '2015-11-29'
 comments: 'yes'
 categories:
-  - google
+  - gadgets
 ---
 
-The Chromecast, while a great device, has one huge flaw. Unlike the [Amazon Fire TV (or Stick)][amazon], it does not have a way to authenticate into a hotel that has a captive portal web page. This is an omission I would like to see Google include. Without a remote, this could be difficult to include. No worries though. There is a way to use your Chromecast in **some** hotels and this post will show you how to do so using your Mac. 
+The Chromecast, while a great device, has one huge flaw. Unlike the [Amazon Fire TV (or Stick)][amazon], it does not have a way to authenticate into a hotel that has a captive portal web page. This is an omission I would like to see Google include. Without a remote, this could be difficult to include. No worries though. There is a way to use your Chromecast in **some** hotels and this post will show you how to do so using your Mac.
 
 NOTE: This process will also work for Linux users. Windows users with [Cygwin][cygwin] can probably follow along. I have not verified.
 

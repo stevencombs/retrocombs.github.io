@@ -4,7 +4,7 @@ title: 'I am podcasting again'
 date: '2018-12-17'
 comments: 'yes'
 categories:
-  - google
+  - personal
 ---
 
 Some may remember that many years ago Nikki and I had a podcast centered around Adult Fans of LEGO (AFOL). After a long hiatus away from the microphone, I decided to return; but with a brand new subject: Google services and hardware. The new podcast is called the [Pixel Power Podcast][1]. You can view the logo below.

@@ -4,7 +4,7 @@ title: Program Arduino on Chromebook using ChromeDuino
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-01-04 12:38
-categories: chrome arduino
+categories: chromeos
 comments: yes
 ---
 
@@ -35,13 +35,13 @@ After you launch ChromeDuino, a select a serial device prompt will appear as sho
 
 ![Select the serial port connection on the Chromebook](https://lh5.googleusercontent.com/-0lfDctG1ibY/VKmPq1tOLtI/AAAAAAABXgc/sh2FO8qXdC4/w935-h732-no/chromeduino-select-serial-chromebook.png)
 
-While Chrome does not include serial drivers, ChromeDuino packages them in the app. Unless you have more than one Arduino plugged in, which I’m not even sure you can do, you should have a single option shown. Select the *Connect* button to make the serial connection and load the programming environment. 
+While Chrome does not include serial drivers, ChromeDuino packages them in the app. Unless you have more than one Arduino plugged in, which I’m not even sure you can do, you should have a single option shown. Select the *Connect* button to make the serial connection and load the programming environment.
 
 > **!!NOTE!!** The *Demo* button simply lets you try the software without making a connection to the Arduino.
 
 ChromeDuino provides sample code that blinks the onboard light on pin 13 and sends a `println` command through the serial connection. I made a modification (see [Code](#code) at bottom of post) of the blink period to 2 seconds.
 
-I made an attempt to upload the code to an [Arduino Diecimila](http://arduino.cc/en/Main/ArduinoBoardDiecimila). I hit the `Program` button. I was unsure whether ChromeDuino was actually uploading the Arduino sketch because there was no on screen indication. I hit the `Program` button again and looked at the Arduino TX/RX lights to verify activity. There was activity, but the sketch never worked as programmed. 
+I made an attempt to upload the code to an [Arduino Diecimila](http://arduino.cc/en/Main/ArduinoBoardDiecimila). I hit the `Program` button. I was unsure whether ChromeDuino was actually uploading the Arduino sketch because there was no on screen indication. I hit the `Program` button again and looked at the Arduino TX/RX lights to verify activity. There was activity, but the sketch never worked as programmed.
 
 Online searches reveal that the Uno seems to the only Arduino model that works consistently. I had an [Arduino Uno](http://www.amazon.com/gp/product/B006H06TVG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006H06TVG&linkCode=as2&tag=stevenccom-20) available and tried again. It worked the first time. It was now time to try this same process on my iMac.
 
@@ -107,9 +107,9 @@ I modified the demonstration code that comes with ChromeDuino. It’s the perfec
 int led = 13;
 
 // the setup routine runs once when you press reset:
-void setup() {                
+void setup() {
   // initialize the digital pin as an output.
-  pinMode(led, OUTPUT); 
+  pinMode(led, OUTPUT);
   Serial.begin(115200);
 }
 

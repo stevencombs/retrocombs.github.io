@@ -4,7 +4,7 @@ title: A Mac user’s guide to the Chromebook
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-12-31
-category: chrome
+category: chromeos
 comments: yes
 ---
 
@@ -47,7 +47,7 @@ Let’s get started…
 # Performance
 The most important feature of any computer is performance. All the apps in app store don't matter if performance is sluggish and frustrating. Luckily, at least on the Acer C720, performance is excellent. My Chromebook boots up and connects to my Wi-Fi network in about 10 secs. Not a single Mac I own can claim those speeds.
 
-Responsiveness is similar to an iPad. Click on the Chrome browser icon and Chrome loads almost immediately. Search results appear as quickly as your internet connection provides. Shutdown is quick. Given the [Chrome OS Linux](https://www.youtube.com/watch?v=KA5RQv9mBoY) underpinnings combined with the on board solid state drive (SSD), this level of performance is expected. 
+Responsiveness is similar to an iPad. Click on the Chrome browser icon and Chrome loads almost immediately. Search results appear as quickly as your internet connection provides. Shutdown is quick. Given the [Chrome OS Linux](https://www.youtube.com/watch?v=KA5RQv9mBoY) underpinnings combined with the on board solid state drive (SSD), this level of performance is expected.
 
 All-in-all, performance and battery life on a modern Chromebook is very similar to the current crop of entry level Mac laptops. My Acer doesn’t include the newer Bay Trail chipset, but rather the older Haswell chipset; however, I still get about 5 hours of battery life. Newer Chromebooks with the Bay Trail chipset claim about 8-10 hours.
 
@@ -66,7 +66,7 @@ For keyboard shortcut users, this is a fabulous tool that I wish were integrated
 
 Here’s quick tip to help restore your muscle memory from your Mac keystrokes. Switch the ctrl and alt keys. Chrome OS makes this easy:
 
-1. Select the Chrome OS Status area (where  your account picture appears) 
+1. Select the Chrome OS Status area (where  your account picture appears)
 1. Select the Settings icon
 2. Select keyboard settings
 
@@ -101,7 +101,7 @@ File management is bare bones. The Files app, shown in the image below, is a str
 
 There are two areas within the left-hand files area of the app: Google Drive files at the top and local files at the bottom (found in the Downloads folder). Local files are files stored on the Chromebook only. They do not automatically sync to Google Drive. This is important to understand. If you want access to the files on your Mac, you need to save files to Google Drive. This is not the default. You can change the default in Chrome OS Settings using these steps:
 
-1. Select the Chrome OS Status area (where  your account picture appears) 
+1. Select the Chrome OS Status area (where  your account picture appears)
 1. Select the Settings icon
 2. Click Show advanced settings at the bottom of the page.
 3. In the "Downloads" section, click the *Change…* button to pick a default download location.
@@ -118,7 +118,7 @@ You can perform basic file management with the Chrome OS Files app such as:
 * delete files/folders
 * share Google Drive files
 
-You can also view thumbnail previews of files. Think of this as a scaled down version of *Quick Look* on the Mac. Move the cursor over the thumbnail at the bottom of the Files app as shown in the image below and a mini version of the document appears. 
+You can also view thumbnail previews of files. Think of this as a scaled down version of *Quick Look* on the Mac. Move the cursor over the thumbnail at the bottom of the Files app as shown in the image below and a mini version of the document appears.
 
 ![Image preview](https://lh6.googleusercontent.com/-oQTqN8AeFEg/VKRrPsqCWhI/AAAAAAABXY4/n5E4kVIB_AA/w638-h359-no/Files-App-Preview.png)
 
@@ -131,7 +131,7 @@ The Gallery app loads quickly and almost a fast as *Quick Look* on the Mac. Thin
 [Back to TOC](#toc)
 
 # Search
-Similar to *Spotlight*, Chrome OS includes Google Search integration within the operating system. A simple tap of the magnifier button found above the left shift key will display the Chrome OS app launcher as shown in the image below. 
+Similar to *Spotlight*, Chrome OS includes Google Search integration within the operating system. A simple tap of the magnifier button found above the left shift key will display the Chrome OS app launcher as shown in the image below.
 
 ![Google Search](https://lh6.googleusercontent.com/-PIaA6Vm0dcA/VKRrPv5MLVI/AAAAAAABXY4/HlphQ0P1aH4/w638-h359-no/Chrome-OS-App-Launcher.png)
 
@@ -145,7 +145,7 @@ To select a search result, use the arrow up/down keys to highlight and press ret
 
 Like *Spotlight*, you can also use the search box to make quick calculations and conversions. Instead of a search query, just enter your calculation or conversion such as:
 
-* 2+2*7  
+* 2+2*7
 * tablespoons in a 1/4 cup
 * 25m to feet
 * 15% of 150
@@ -244,7 +244,7 @@ While dictation is not available, voice search is making its way into Chrome OS.
 [Back to TOC](#toc)
 
 # Conclusion
-In later posts I'll likely share more specific Chromebook tips and tricks. This post simply covers the basics of Chrome OS and how to best make a transition from a Mac to a [Chromebook](https://www.google.com/chrome/devices/) or [Chromebox](http://www.amazon.com/gp/product/B00IT1WJZQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IT1WJZQ&linkCode=as2&tag=stevenccom-20). 
+In later posts I'll likely share more specific Chromebook tips and tricks. This post simply covers the basics of Chrome OS and how to best make a transition from a Mac to a [Chromebook](https://www.google.com/chrome/devices/) or [Chromebox](http://www.amazon.com/gp/product/B00IT1WJZQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IT1WJZQ&linkCode=as2&tag=stevenccom-20).
 
 In short, I've found my little $150 device to be an excellent device to throw in my bag for meetings, travel or Internet browsing. It often sits on my bed stand or next to the living room sofa. If I need to type, I always reach for the Chromebook rather than my iPad. Even with my bluetooth iOS keyboard, I find the typing experience on my Chromebook to be much better.
 

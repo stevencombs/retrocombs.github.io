@@ -17,16 +17,6 @@ My experiences with Google Fi and Android are in the posts listed below.
 {% endfor %}
 </ul>
 
-## Chrome
-
-Below are posts that share my experience with Chrome OS and/or the Chrome browser.
-
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.chrome %}
-    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-
 ## Google
 
 Below are Google product tips and tricks.
