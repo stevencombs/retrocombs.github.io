@@ -4,10 +4,10 @@ title: 'My Android TV Remote Chart'
 date: '2019-02-22'
 comments: 'yes'
 categories:
-  - 'google'
+  - android
 ---
 
-In [episode 0012][EP-0012] of my new podcast, [Pixel Power Podcast][PPP], I share my experiences with several Android TV remotes. While preparing for the episode, I created a [Google Sheet](https://sheets.google.com) to compare the features of each remote I tried. When I completed the sheet I thought, "this might be useful for others." After completing the comparison sheet, I provided a link in the [show notes][SN-0012].
+In [episode 0012][EP-0012] of my podcast, [Pixel Power Podcast][PPP], I share my experiences with several Android TV remotes. While preparing for the episode, I created a [Google Sheet](https://sheets.google.com) to compare the features of each remote I tried. When I completed the sheet I thought, "this might be useful for others." After completing the comparison sheet, I provided a link in the [show notes][SN-0012].
 
 During the episode, I asked listeners to contribute to the sheet. If you are reading this and you use an Android TV box (I use the [nVidia Shield TV][nVidia]) with a third-party remote that is not listed, please send me the information, and I'll add it.
 
