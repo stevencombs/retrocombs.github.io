@@ -37,9 +37,7 @@ I only include symbols I use frequently. The list is formatted as a quick refere
 | ’      | ⌥ ⇧ \]   |
 | – <sup>(en-dash)</sup> | ⌥ \-   |
 | — <sup>(em-dash)</sup> | ⌥ ⇧ \- |
-
-</br>
-
+  
 Did I miss a commonly used symbol that I should include? Leave me a comment and let me know. It is an easy task to include it and together we can make a better reference.
 
 [1]: http://www.stevencombs.com/apple/2009/09/03/use-the-os-x-onscreen-keyboard-create-symbols.html
