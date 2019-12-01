@@ -4,7 +4,7 @@ title: My Evernote task management journey
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-01-24 12:04
-category: evernote
+category: productivity
 comments: yes
 ---
 
@@ -18,17 +18,17 @@ While excited about the Palm, I wasn’t using the device regularly and I often 
 ## Enter GTD
 Sometime in the mid 2000s, I discovered the book [Getting Things Done](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0142000280&linkCode=as2&tag=stevenccom-20), GTD, by Paul Allen. It changed my life. No, seriously! This book was a game changer and not because I am a fanatic GTD user. Frankly, I've butchered Allen's GTD system to make it more simple and relevant to my life; however, what Allen did provide was inspiration, confidence in a system, and the basic tools to get my life organized. The key takeaway from his book, and the way [Allen sums it up](http://gettingthingsdone.com/) is to:
 
-> (1) **Capture** — collect what has your attention  
-> (2) **Clarify** — process what it means  
-> (3) **Organize** — put it where it belongs  
-> (4) **Reflect** — review frequently  
-> (5) **Engage** — simply do  
+> (1) **Capture** — collect what has your attention
+> (2) **Clarify** — process what it means
+> (3) **Organize** — put it where it belongs
+> (4) **Reflect** — review frequently
+> (5) **Engage** — simply do
 
 And more importantly,
 
 > *Have a trusted system!*
 
-In other words, utilize a system that collects everything so your mind doesn't have to. Only when you have removed your busy life from your brain and moved it into your trusted system, can you enjoy life while at home and be productive while at work. 
+In other words, utilize a system that collects everything so your mind doesn't have to. Only when you have removed your busy life from your brain and moved it into your trusted system, can you enjoy life while at home and be productive while at work.
 
 As I read Allen's GTD book, I modified some techniques to make it more usable in my world. My belief is that no one system is perfect for anyone; however, the basic tenants of Allen’s GTD system apply to any productive task management system, no matter what shape, form or tool is used. My mediocre higher education career and military careers began to take off as colleagues now considered me to be very organized and impressed in the amount of work I could complete. Adding to the GTD method my Inbox zero process, and I was finally able to go home in the evenings and not think of work, but rather engage in the things at home that I enjoyed. I didn’t need to think about work, because those tasks were in my trusted system and would be there when I arrived the next day.
 
@@ -40,9 +40,9 @@ This time my use of a Moleskine was focused and I began to implement the GTD sys
 
 ![A sample page that includes tasks from an old Evernote notebook](https://lh6.googleusercontent.com/-m-yt1ec9tL4/VMPhyAGF4hI/AAAAAAABYTo/KpZJnPABjYQ/w612-h944-no/My_Task_List_from_Moleskine.png)
 
-As you can see above, the page contains data from meetings as well as a list of tasks generated. The journal is a great place to capture all types of data quickly. When I complete a task, I place a diagonal slash through it. Two complete and three incomplete tasks are shown in the image above. 
+As you can see above, the page contains data from meetings as well as a list of tasks generated. The journal is a great place to capture all types of data quickly. When I complete a task, I place a diagonal slash through it. Two complete and three incomplete tasks are shown in the image above.
 
-You will notice that I also integrate symbology at the end of each task. The `@` symbol denotes an email action, a circled `?` denotes a research actions, and the `☎` icon denotes a phone call. These are simple symbols to create. Names after these symbols denote the contact. I have other icons to represent other actions, delegates `>`, and locations not shown on this page; however this gives you a brief sample. 
+You will notice that I also integrate symbology at the end of each task. The `@` symbol denotes an email action, a circled `?` denotes a research actions, and the `☎` icon denotes a phone call. These are simple symbols to create. Names after these symbols denote the contact. I have other icons to represent other actions, delegates `>`, and locations not shown on this page; however this gives you a brief sample.
 
 I quite like this system and others who view my notes are quizzical. This becomes a good time to share my system in hopes of encouraging them to create their own trusted system. I am very proud of my manual system and it works well for me. It also integrates nicely into my new love of [Sketchnotes](http://rohdesign.com/sketchnotes/), as I can sketch during presentations and also captures tasks.
 
@@ -69,6 +69,6 @@ After much experimentation, trial and error, I finally came up with a system I t
 
 Integrating Evernote into my task management workflow has significantly improved my productivity!
 
-By now, there is probably a curiosity as to how I use Evernote as my task management system and that, readers, is for another post. I am currently refining and outlining my process for publication. When that post is complete, it will allow you to replicate and/or modify my system to make it your own. It will take some time to complete this documentation, but my hope is that sharing will help others and also help me to refine the process. 
+By now, there is probably a curiosity as to how I use Evernote as my task management system and that, readers, is for another post. I am currently refining and outlining my process for publication. When that post is complete, it will allow you to replicate and/or modify my system to make it your own. It will take some time to complete this documentation, but my hope is that sharing will help others and also help me to refine the process.
 
 Be sure to check back for my Evernote Task Management post, or subscribe to the [RSS feed](http://www.stevencombs.com/atom.xml). I also announce new posts on [my Twitter feed](https://twitter.com/StevenCombs) as well as [Google+](https://plus.google.com/+StevenCombsPhD). In the meantime, drop a comment below and tell me about the road to your task management system.

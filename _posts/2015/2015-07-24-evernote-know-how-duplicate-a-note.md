@@ -4,7 +4,7 @@ title: 'Evernote Know How - Duplicate a note'
 date: '2015-07-24 19:22'
 comments: 'yes'
 categories:
-  - evernote
+  - productivity
 ---
 
 Similar to my first [Evernote Know How blog post](http://www.stevencombs.com/evernote/2014/11/26/evernote-fullscreen-editing.html). This is a simple tip, but not immediately obvious. The task today is to simply duplicate a note. There are many reasons to duplicate a note and if you need to, I don't need to explain. So I won't.

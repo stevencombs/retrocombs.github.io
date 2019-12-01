@@ -5,7 +5,7 @@ author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-11-26 14:50
 categories:
-  - evernote
+  - productivity
 comments: yes
 ---
 
