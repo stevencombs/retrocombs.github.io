@@ -11,7 +11,7 @@ category: higher-education
 
 The legislation is not difficult to read; however, I need to provide an Executive Summary for the board, so I thought I may as well share my outline. My bullets are more concise and a bit more “bottom line up front.”
 
-## Transfer Changes Board Report  
+## Transfer Changes Board Report
 __Two important pieces of legislation:__
 
 1. House Enrolled Act No. 1220 (Credit Creep)
@@ -40,4 +40,4 @@ __Sources:__
 
 1. <a href="http://www.in.gov/legislative/bills/2012/HE/HE1220.1.html">House Enrolled Act No. 1220</a>
 1. <a href="http://www.in.gov/legislative/bills/2012/SE/SE0182.1.html">Senate Enrolled Act No. 182</a>
-1. <a href="http://www.transferin.net/">TransferIN.net</a></li></ul>
+1. <a href="http://www.transferin.net/">TransferIN.net</a>
