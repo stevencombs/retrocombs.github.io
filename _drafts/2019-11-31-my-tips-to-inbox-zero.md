@@ -37,7 +37,7 @@ Even if you do need the email info at a later date, you can rest assured that th
 Email rules can automate the removal of messages. For instance, I do not need to know when everyone responds to an invite to attend a meeting, that's what the meeting invite is for, so I use rules to automatically delete these responses. I also have a rule that deletes forwards of forwards since those are almost always chain emails.
 
 # Step 3: Schedule time to inbox zero
-After you prune and automate your inbox, you will use steps four through six to tidy up your inbox daily. Before you start these steps, block out a couple of hours to a half day to complete your first triage session (depending on the number of message in your inbox).
+After you prune and automate your inbox, you will use steps four through six daily to tidy up your inbox. Before you start these steps, block out a couple of hours to a half day to complete your first triage session (depending on the number of message in your inbox).
 
 # Step 4: Daily triage
 You receive messages daily. The best case scenario is for you to review all messages at once, on a computer, at a specific time, during the day; however, depending on your role within an organization, this may not be an option. In this case, use your mobile phone to triage your email throughout the day. I define triage as:
@@ -54,7 +54,7 @@ The most common comment I hear from naysayer colleagues is, "I can't move to inb
 
 I see it all the time; people scrolling and scrolling to find a message they need. Instead of scrolling, try using the search tool built-in to the email client. Second, don't be amazed when that search tool lets you down. This was the single flaw in the system that caused me to create a text-based archival system.
 
-So what's my system for email archival? I Use a system that incorporates a robust search tool. I archive messages in folders on my computer in plain text files (or Markdown but that's for another post). These can be easily searched using the built-in tools of the operating system or online when archived to a Google Drive.
+So what's my system for email archival? I archive messages in folders on my computer in plain text files (or Markdown but that's for another post). These can be easily searched using the built-in tools of the operating system or online when archived to a Google Drive.
 
 Use the YYYY-MM-DD date format at the BEGINNING of each archival file. Why this format and why at the beginning?
 
