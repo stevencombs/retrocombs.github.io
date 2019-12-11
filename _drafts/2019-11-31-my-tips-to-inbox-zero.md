@@ -27,7 +27,9 @@ For reputable organizations, these links do work. If you aren't sure about the o
 
 3. Next choose the option to move the original email to the Spam folder to report all future messages as spam in the even that unsubscribe does not work. ![Move to Spam](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-report-spam.png)
 
-These tools work well. Unfortunately, I only have my personal account in Gmail. For work, I am stuck with Outlook which only includes a report as spam option as shown below: ![Outlook Junk Menu](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/outlook-junk-menu.png)
+These tools work well. Unfortunately, I only have my personal account in Gmail. For work, I am stuck with Outlook which only includes a report as spam option as shown below:
+
+![Outlook Junk Menu](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/outlook-junk-menu.png)
 
 # Step 2: Delete, delete, and delete
 Begin by deleting everything in your inbox older than 18 months (24 at the most).
@@ -54,9 +56,46 @@ The most common comment I hear from naysayer colleagues is, "I can't move to inb
 
 I see it all the time; people scrolling and scrolling to find a message they need. Instead of scrolling, try using the search tool built-in to the email client. Second, don't be amazed when that search tool lets you down. This was the single flaw in the system that caused me to create a text-based archival system.
 
-So what's my system for email archival? I archive messages in folders on my computer in plain text files (or Markdown but that's for another post). These can be easily searched using the built-in tools of the operating system or online when archived to a Google Drive.
+So what's my system for email archival? I archive messages in folders on my computer in plain text files (or Markdown but that's for another post).
 
-Use the YYYY-MM-DD date format at the BEGINNING of each archival file. Why this format and why at the beginning?
+## Why text files?
+Below are the five reasons I think you should use text files when archiving information:
+
+1. Text files are always accessible. If you have basic text files from the late 1980s, you can still open and edit them because they are not in some proprietary format that has changed or is no longer supported.
+2. Because the text files are not in some wacky format, they can be opened by any word processor if you need to repurpose the text for another document.
+3. Plain text is easy to copy and paste (an email for instance). I regularly will copy text from a text file to share in an email. I also like to prewrite long emails in a text editor so I don't accidently send to early and so I can use that content in the future without retyping.
+4. Text files can be quickly searched using the built-in tools of most operating systems. On a Mac, activate Spotlight. On Windows, tap the Windows key. On Chrome OS, press the search key. On Linux, refer to your distro for the proper file search tool.
+5. A good text editor (more on that in a minute) can do things that not even a full-featured word process can do.
+
+## Which editor is right for me?
+To get you started, here are a few text editors you can try to create, edit, and organize your text files.
+
+Standard OS Text Editor
+Caret (Chrome OS)
+Atom (Mac, Windows, Linux, and Chrome OS)
+
+Don't use these apps to load a single text file; rather, load an entire folder of text files.
+
+<insert image of this concept>
+
+Don't want to set up folder on a computer but want access to all this text file goodness? Give [Simple Note](https://simplenote.com/) (Window, Mac, Linux, iOS, Android, and Web) a try. It's free, includes search, syncs across all devices, and if you ever do need your data as plain text, you can export everynote.
+
+> Some of you may be thinking about Evernote for your notes. I do not recommend this app. First, Evernote does not store files as plain text and this makes it hard to export your data. Second, Evernote limits the number of devices you can sync with on a free account. Third, I like free options and Evernote continues to increase their cost.
+
+## File names matter
+I use the format YYYY-MM-DD at the BEGINNING of almost every file I create or copy to my computer. I've never had anyone ask me why I do this and I've noticed that to this day, there are only a few individuals who are aware of the advantages, listed below, of this naming convention:
+
+1. You will always know, by reading the name of the file, when the file originated. Remember, if you modify a file, the date of the file changes. Most operating systems (OS) maintain a creation date, but not all share that information by default.
+2. Sorting your files by name will always put files in chronological order.
+3. You can use your computer's automated system to delete files, if you like, when they reach an expiration date. Granted, most OSs can already do this, but the date of a file changes if you modify it and using this date at the beginning of the file will always retain the files orgination date.
+4. Use your computer's search (see number 4 of previous section) and search quickly for files by year, month, and even day (if you can remember it).
+
+## Where do I store the files?
+You could store files in a folder on your desktop or laptop; however, if you want to have access to these files anywhere, you need to place them in a file that syncs across devices. Doing so will make this system really shine!
+
+Imagine being on the go and someone asks you a question about information you have stored in one of these text files. Because you have these files in a folder synced across devices, you can use the mobile devices browse or search tools to quickly located the file and retrieve the information.
+
+If you want this type of access, don't just save them to a folder on your desktop or laptop. Save the files to a Google Drive, iCloud, or Dropbox folder and then sync that folder across all your devices.
 
 # Step 7: Create a routine
 Schedule a couple of hours every week on your calendar to reach inbox zero. I try and do this twice a week (and admittedly am not always successful, but never have over 50 messages in my inbox at one time).
