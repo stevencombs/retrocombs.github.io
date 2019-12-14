@@ -10,6 +10,18 @@ comments: 'yes'
 
 I often "brag" to family, friends and colleagues that I have reached inbox zero. This is not to bring attention to myself but rather to inspire others to share in my joy of having a tamed inbox. Unfortunately, my boasting was not helpful. I simply showed in my social media posts that it could be done. I never shared how it is done; until now. I hope that others will spend time understanding my process and use it to create their own. See what I wrote there? That's right. The steps I list below may not work for everyone (but it might for some); however, I hope to inspire you to develop your own process.
 
+- [Step 1: Unsubscribe to EVERYTHING](#step-1-unsubscribe-to-everything)
+- [Step 2: Delete, delete, and delete](#step-2-delete-delete-and-delete)
+- [Step 3: Schedule time to inbox zero](#step-3-schedule-time-to-inbox-zero)
+- [Step 4: Daily triage](#step-4-daily-triage)
+- [Step 5: Make time for longer replies](#step-5-make-time-for-longer-replies)
+- [Step 6: Create your personal information library](#step-6-create-your-personal-information-library)
+  - [Rational to use text files](#rational-to-use-text-files)
+  - [Choosing the correct editor](#choosing-the-correct-editor)
+  - [File names matter](#file-names-matter)
+  - [Where to store the files](#where-to-store-the-files)
+- [Step 7: Create a routine](#step-7-create-a-routine)
+
 Below are the seven steps I use to reach inbox zero:
 
 ## Step 1: Unsubscribe to EVERYTHING
@@ -48,8 +60,8 @@ After you prune and automate your inbox, you will use steps four through six dai
 
 You receive messages daily. The best case scenario is for you to review all messages at once, on a computer, at a specific time, during the day; however, depending on your role within an organization, this may not be an option. In this case, use your mobile phone to triage your email throughout the day. I define triage as:
 
-1. Delete messages that have no value (you know the ones)
-2. Mark messages as spam and unsubscribe
+1. Delete messages that have no value (you know the ones).
+2. Mark messages as spam and unsubscribe.
 3. Respond to messeages when they only require a one or two line response. If a longer response is needed, use your computer with a full-size keyboard because you are wasting time if you type and edit a reply on your mobile device. OPTIONAL: Use the voice typing features on your phone. I recommend [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US) for both iOS and Android.
 
 ## Step 5: Make time for longer replies
