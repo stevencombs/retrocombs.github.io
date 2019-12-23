@@ -22,6 +22,7 @@ I often "brag" to family, friends and colleagues that I have reached inbox zero.
   - [Choosing the correct editor](#choosing-the-correct-editor)
   - [File names matter](#file-names-matter)
   - [Where to store the files](#where-to-store-the-files)
+  - [Attachments](#attachments)
 - [Step 7: Create a routine](#step-7-create-a-routine)
 - [Step 8: Celebrate](#step-8-celebrate)
 
