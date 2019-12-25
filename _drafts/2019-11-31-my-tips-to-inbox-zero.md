@@ -8,7 +8,7 @@ category: productivity
 comments: 'yes'
 ---
 
-I often "brag" to family, friends and colleagues that I have reached inbox zero. This is not to bring attention to myself but rather to inspire others to share in my joy of having a tamed inbox. Unfortunately, my boasting was not helpful. I simply showed in my social media posts that it could be done. I never shared how it is done; until now. I hope that others will spend time understanding my process and use it to create their own. See what I wrote there? That's right. The steps I list below may not work for everyone (but it might for some); however, I hope to inspire you to develop your own process.
+I often "brag" to family, friends, and colleagues when I reach inbox zero. I do this to inspire others to share in my joy of having a tamed inbox. Unfortunately, my boasting is not helpful. I just tell people my inbox is empty, but have never shared the process; until now. Let's get started. I include a table of contents in case you want to jump around this post to specific steps.
 
 <!-- TOC -->
 
@@ -23,12 +23,14 @@ I often "brag" to family, friends and colleagues that I have reached inbox zero.
   - [File names matter](#file-names-matter)
   - [Where to store the files](#where-to-store-the-files)
   - [Attachments](#attachments)
+  - [PDF files](#pdf-files)
 - [Step 7: Create a routine](#step-7-create-a-routine)
 - [Step 8: Celebrate](#step-8-celebrate)
+- [Conclusion](#conclusion)
 
 <!-- /TOC -->
 
-Below are the seven steps I use to reach inbox zero:
+Let's get started on the eight steps I use to reach inbox zero:
 
 ## Step 1: Unsubscribe to EVERYTHING
 
@@ -40,9 +42,9 @@ Look in the email for an unsuscribe link; most of the time these links are at th
 
 For reputable organizations, these links do work. If you aren't sure about the organization's validity or can't find a link to unsubscribe, use your email client's tools to spam the message. Gmail provides an unsubscribe and spam tools such as the ones shown below:
 
-1.  Click the *Unsubscribe* link. ![Unsubscribe link](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-link.png)
-2.  Click the *Unsubscribe* button to verify.![Unsubscribe button](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-dialog.png)
-3.  Next choose the option to move the original email to the Spam folder to report all future messages as spam in the even that unsubscribe does not work. ![Move to Spam](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-report-spam.png)
+1. Click the *Unsubscribe* link. ![Unsubscribe link](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-link.png)
+2. Click the *Unsubscribe* button to verify.![Unsubscribe button](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-dialog.png)
+3. Next choose the option to move the original email to the Spam folder to report all future messages as spam in the even that unsubscribe does not work. ![Move to Spam](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-report-spam.png)
 
 These tools work well. Unfortunately, I only have my personal account in Gmail. For work, I am stuck with Outlook which only includes a report as spam option as shown below:
 
@@ -64,9 +66,9 @@ After you prune and automate your inbox, you will use steps four through six dai
 
 You receive messages daily. The best case scenario is for you to review all messages at once, on a computer, at a specific time, during the day; however, depending on your role within an organization, this may not be an option. In this case, use your mobile phone to triage your email throughout the day. I define triage as:
 
-1.  Delete messages that have no value (you know the ones).
-2.  Mark messages as spam and unsubscribe.
-3.  Respond to messeages when they only require a one or two line response. If a longer response is needed, use your computer with a full-size keyboard because you are wasting time if you type and edit a reply on your mobile device.
+1. Delete messages that have no value (you know the ones).
+2. Mark messages as spam and unsubscribe.
+3. Respond to messeages when they only require a one or two line response. If a longer response is needed, use your computer with a full-size keyboard because you are wasting time if you type and edit a reply on your mobile device.
 
 > **OPTIONAL:** Use the voice typing features on your phone. I recommend [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US) for both iOS and Android.
 
@@ -86,11 +88,11 @@ So what's my system for email archival? I archive messages in folders on my comp
 
 Why a text file to save information? Below are the five reasons I think you should use text files when archiving information:
 
-1.  Text files are always accessible. If you have text files from the late 1980s, you can still open and edit them because they are not in some proprietary format that has changed or is no longer supported.
-2.  Because text files are not in some wacky format, they can be opened by any word processor if you need to repurpose the text for another document.
-3.  Plain text is easy to copy and paste (an email for instance). I prefer to prewrite long emails in a text editor so I don't accidently send them before they are complete or gone through a second editing process. Since they are stored as a file, I can later reuse that content.
-4.  Text files are quickly searched using the built-in tools of most operating systems. On a Mac, activate Spotlight. On Windows, tap the Windows key. On Chrome OS, press the search key. On Linux, refer to your distro for the proper file search tool.
-5.  A good text editor provides tools that even full-featured word processors don't have such as multiple cursors (see example below), language recognition, advanced line sorting, search across multiple files, and additional plugins to add text based superpowers.
+1. Text files are always accessible. If you have text files from the late 1980s, you can still open and edit them because they are not in some proprietary format that has changed or is no longer supported.
+2. Because text files are not in some wacky format, they can be opened by any word processor if you need to repurpose the text for another document.
+3. Plain text is easy to copy and paste (an email for instance). I prefer to prewrite long emails in a text editor so I don't accidently send them before they are complete or gone through a second editing process. Since they are stored as a file, I can later reuse that content.
+4. Text files are quickly searched using the built-in tools of most operating systems. On a Mac, activate Spotlight. On Windows, tap the Windows key. On Chrome OS, press the search key. On Linux, refer to your distro for the proper file search tool.
+5. A good text editor provides tools that even full-featured word processors don't have such as multiple cursors (see example below), language recognition, advanced line sorting, search across multiple files, and additional plugins to add text based superpowers.
 
 ![Multiple cursors in actions](/images/posts/2019-12-24-inbox-zero/multiple-cursors.gif)
 
@@ -115,11 +117,11 @@ I use the format YYYY-MM-DD at the BEGINNING of almost every file I create or co
 
 Using this file format, I can:
 
-  *  view the original creation or reference date of the file. Remember, if you modify a file, the date of the file changes. Most operating systems (OS) maintain a creation date, but not all share that information by default
-  *  sort files by name in chronological or reverse chronological order
-  *  search for a file's timeframe when I can't remember the name of the file
-  *  search `2019-10` to reveal all files created in the month of October in the year 2019
-  *  use my computer's automation tools to delete files when they reach an expiration date (for instance, delete any file over two years old.)
+- view the original creation or reference date of the file. Remember, if you modify a file, the date of the file changes. Most operating systems (OS) maintain a creation date, but not all share that information by default
+- sort files by name in chronological or reverse chronological order
+- search for a file's timeframe when I can't remember the name of the file
+- search `2019-10` to reveal all files created in the month of October in the year 2019
+- use my computer's automation tools to delete files when they reach an expiration date (for instance, delete any file over two years old.)
 
 ### Where to store the files
 
@@ -131,11 +133,16 @@ If you want this type of access, don't just save them to a folder on your deskto
 
 ### Attachments
 
-If your inbox is like mine, it is full of email messages with attachments. Here's what I do with those.
+If your inbox is like mine, it is full of email messages with attachments. Some of these you may need to refer to at a later date. Here's what I do with these documents:
 
-Download Attachments
-Name them using date format
-Search by date show text file and associated documents
+- Download the attachments to a folder (a flat folder is fine, but you can organize by topic if you like)
+- Name the file using date format outlined above
+
+Like the text files, you can now search these attachments by date. Since you are adding the date at the beginning of the file, now when you search for a specific date, not only will the text file appear, but also the associated attachment.
+
+### PDF files
+
+If this whole text file and attachment things seems a bit complicated (its really not), you can export email as PDF files. Most operating systems now have an option to print to a PDF file and will perform optical character recognition on the file so you can search for the contents of the documents. Again, start the name of the file with a date.
 
 ## Step 7: Create a routine
 
@@ -143,10 +150,16 @@ Schedule a couple of hours every week on your calendar to reach inbox zero. I tr
 
 ## Step 8: Celebrate
 
-Now that you have your inbox clean (and that won't last long). Take time to celebrate (i.e. BRAG!). Do this on social media such as Facebook or LinkedIn with ``#inboxzero`. Be the envy of your peers.
+Now that you have your inbox clean (and that won't last long). Take time to celebrate (i.e. BRAG!). Do this on social media such as Facebook or LinkedIn with `#inboxzero`. Be the envy of your peers.
 
 Collagues at work know of my love to celebrate my status of Inbox Zero and gave me this shirt for Christmas 2019.
 
 ![Inbox Zero Shirt]()
 
 You better bet I'm going to wear it!
+
+## Conclusion
+
+So that's my system and my suggestions for modifications; however, I know this system will not be everyone's cup of tea but hopefully it gets the gears turning in your head. What, if any, of these steps can help you achieve the sanity that is #inboxzero?
+
+Have other ideas or questions? Drop them in the comments below.
