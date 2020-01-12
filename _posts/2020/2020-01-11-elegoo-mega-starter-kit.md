@@ -27,7 +27,7 @@ During an email exchange with the director of the program (my boss) during fall 
 
 During the course, we will unpack our kits together and go over every component. In preparation for that excercise, and to provide an opportunity for someone who missed the class session, I prepared an unpacking video and [placed it on YouTube](https://youtu.be/jY8Jj0Rim70). You can view the video below.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jY8Jj0Rim70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jY8Jj0Rim70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 There are a few errors (aren't there always!) and as you learn while watching, I recorded the whole thing once only to find it didn't record! But that's how you learn; you fail first.
 
