@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Android TV Remote Chart'
+title: 'My Android TV remote chart'
 date: '2019-02-22'
 comments: 'yes'
 categories:
