@@ -6,6 +6,15 @@ author: "Steven B. Combs, Ph.D."
 comments: 'yes'
 categories:
   - arduino
+tags:
+  - arduino
+  - elegoo
+  - electronics
+  - maker
+  - video
+  - unboxing
+  - unpacking
+  - amazon
 ---
 
 I am priviledged to have the opportunity teach a course at our local Purdue Polytechnic Columbus campus. The course is _TECH 120: Design Thinking in Technology_. The focus of the course is to create solutions to modern problems, using software and hardware, while implementing the basics of design thinking.
