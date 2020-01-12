@@ -3,7 +3,7 @@ layout: post
 title: 'VIDEO: Unpacking the Elegoo Arduino Mega Starter Kit'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
-date: 2020-01-11
+date: '2020-01-11'
 comments: 'yes'
 category: arduino
 tags:
