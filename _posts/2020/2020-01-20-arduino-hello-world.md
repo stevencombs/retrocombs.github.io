@@ -75,27 +75,6 @@ Once the project is assembled are wired, create the code in the [Arduino IDE](ht
 
 <script src="https://gist.github.com/stevencombs/b988f757c5ffd8cc99d3177b56b62118.js"></script>
 
-```
-int ledPin = 12;
-int buttonPin = 9;
-int toggleState = false;
-
-void setup()
-{
-  pinMode(ledPin, OUTPUT);
-  pinMode(buttonPin, INPUT_PULLUP);
-}
-
-void loop()
-{
-  if (digitalRead(buttonPin) == false) {
-  toggleState = !toggleState;
-  digitalWrite(ledPin, toggleState);
-  }
-  while (digitalRead(buttonPin) == false);
-  delay(50);
-}
-```
 [Download the code](/images/posts/2020-01-20-adruino-switch-led/mega-toggled-led.ino).
 
 [View code as GIST that includes comprehensive comments](https://gist.github.com/stevencombs/b988f757c5ffd8cc99d3177b56b62118).
@@ -106,20 +85,20 @@ Once the code is entered, upload to the MEGA using the Arduino IDE.
 
 Uploading the code is simple if the Arduino IDE is installed and setup properly.
 
-1. Select `Tools` / `Board` from the Arduino IDE.
-2. Select the `Arduino/Geninuino MEGA or MEGA 2560` from the Arduino boards available.
+1. Select _Tools_ / _Board_ from the Arduino IDE.
+2. Select the _Arduino/Geninuino MEGA or MEGA 2560_ from the Arduino boards available.
 3. Select the serial port used to connect the Arduino to the computer. This will vary based on computer and operating system.
 4. Select the upload button in the Arduino IDE toolbar menu (⮊).
 
-If the program is correct and contains no errors, the IDE will compile the code and sent to the MEGA.
+If the program contains no errors, the IDE will compile the code and send it to the MEGA.
 
 ## Operation
 
-Verify that the LED connected to the MEGA turns on when you press the push-button and off when you press the push-button again. If it is not working properly, verify the code, make necessary changes, and then upload the program again.
+Verify that the LED connected to the MEGA turns on when you press the push-button and off when you press the push-button again. If it is not working properly, verify the code, make necessary changes, and upload the program again.
 
 ## Summing up
 
-Hopefully this project was a great way to learn more about the MEGA, the Elegoo kits, and the Arduino IDE. I would love to read your comments. If you have them, drop them in the comments section below.
+Hopefully this project was a great way to learn more about the MEGA, the Elegoo kit components, and the Arduino IDE. I would love to read your comments. If you have any, drop them in the comments section below.
 
 ## References
 
