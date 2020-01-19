@@ -27,7 +27,7 @@ This post includes the components, files, images, video, resources, and steps ne
 
 Using an Elegoo branded Arduino MEGA 2560 (MEGA) and associated electronic components, create a hardware and software solution that will turn on an LED when a momentary button is pressed and then turn off the LED when the button is pressed again (view or download video below).
 
-<a href="/images/posts/2020-01-20-adruino-switch-led/VID_20200118_180203.mkv" title="Link Title"><img src="/images/posts/2020-01-20-adruino-switch-led/video-thumbnail.png" alt="Video Demonstration" target="new"/></a>
+<video width="560" height="315" src="/images/posts/2020-01-20-adruino-switch-led/VID_20200118_180203.mkv" autobuffer> <div class="fallback">
 
 ## Video
 
