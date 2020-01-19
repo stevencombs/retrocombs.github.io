@@ -17,7 +17,7 @@ tags:
   - elegoo
 ---
 
-A project that brand-new Arduino users often complete is to connect an LED to the board and create a program to turn on the LED. This is the Arduino's equivilent of the programmer's "Hello World!" (https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" I wanted the first student project, for a [course I am teaching](https://bit.ly/sbc-design-thinking), to be similar but with a "logic programming" spin that intergrates more hardware and programming fundamentals.
+A project that brand-new Arduino users often complete is to connect an LED to the board and create a program to turn on the LED. This is the Arduino's equivilent of the programmer's ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" I wanted the first student project, for a [course I am teaching](https://bit.ly/sbc-design-thinking), to be similar but with a "logic programming" spin that intergrates more hardware and programming fundamentals.
 
 I developed a simple project and one that has been replicated many times; however, this post and associated video will explain each step along the way to allows students to accelerate their understanding of physical computing.
 
@@ -25,15 +25,16 @@ This post includes the components, files, images, video, resources, and steps ne
 
 ## Objective
 
-Using an Elegoo branded Arduino MEGA 2560 (MEGA) and associated electronic components, create a hardware and software solution that will turn on an LED when a momentary button is pressed and then turn off the LED when the button is pressed again (as shown in the video below).
+Using an Elegoo branded Arduino MEGA 2560 (MEGA) and associated electronic components, create a hardware and software solution that will turn on an LED when a momentary button is pressed and then turn off the LED when the button is pressed again (view or download video below).
 
-<a href="/images/posts/2020-01-20-adruino-switch-led/VID_20200118_180203.mkv" title="Link Title"><img src="/images/posts/2020-01-20-adruino-switch-led/video-thumbnail.png" alt="Video Demonstration" target="blank"/></a>
+<a href="/images/posts/2020-01-20-adruino-switch-led/VID_20200118_180203.mkv" title="Link Title"><img src="/images/posts/2020-01-20-adruino-switch-led/video-thumbnail.png" alt="Video Demonstration" target="new"/></a>
 
 ## Video
 
 Below is the step-by-step video I produced for this project.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FcK--sJlcJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FcK--sJlcJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<br>
 
 ## Supplies
 
@@ -43,14 +44,14 @@ Everything you need for this project, with Amazon links, are listed below:
 1 - [USB Cable](https://amzn.to/2uX7xst): Transfer code from the Arduino IDE to hardware and provides power to the MEGA.
 1 - [Arduino IDE](https://www.arduino.cc/en/main/software): Use the link to the left and follow the instructions to download and install the IDE on your computer.
 
-    > **NOTE:** If you use Ubuntu or Ubuntu Mate might I recommend [my install instructions](https://www.stevencombs.com/arduino/2019/12/31/install-arduino-ubuntu.html).
+> **NOTE:** If you use Ubuntu or Ubuntu Mate might I recommend [my install instructions](https://www.stevencombs.com/arduino/2019/12/31/install-arduino-ubuntu.html).
 
 1 - [Elegoo Breadboard](https://amzn.to/377CB7e): Breadboards are used to prototype circuits.
 1 - [Momentary push-button switch](https://amzn.to/2uZLGkd): This tiny push-button switch has a tactile sound when pressed and is perfect for use with the breadboard. The MEGA has one on the board. It serves as a device reset.
 1 - [Diffused White LED](https://amzn.to/3amlfFv): Standard white LED with a slight frost to diffuse the light.
 1 - [1k Ω (ohm) resistor](https://amzn.to/2u8s8Ke): Connect this resistor between the power source and the LED. This resistor is larger than necessary but will ensure we protect our LED when we apply power. The color code for a 1K Ω resistor is Brown, Black, Red, and Gold.
 
-    > **NOTE:** Red is often hard to discern, especially if your resistor is blue. If you are unsure, use a Volt/Ohm meter to verify the value. Set the meter to 2k and connect the black lead to the COM port on the meter and the red lead to ΩV port.
+> **NOTE:** Red is often hard to discern, especially if your resistor is blue. If you are unsure, use a Volt/Ohm meter to verify the value. Set the meter to 2k and connect the black lead to the COM port on the meter and the red lead to ΩV port.
 
 5 - [Male to male breadboard jumper wires](https://amzn.to/2ufQf9z): Makes prototyping on the breadboard a snap!
 1 - [Small 5" needle nose plyers](https://amzn.to/2G003Hy) (optional): Used to help make bends on component leads. More tips in the video.
@@ -71,6 +72,8 @@ Below is a Fritzing image that serves as instructions for project assembly. Watc
 ## Programming
 
 Once the project is assembled are wired, create the code in the [Arduino IDE](https://www.arduino.cc/en/main/software). Below is the code for this project. Do not copy and paste. Type the code and include your own comments (`//`) that explain what each line does. This will help annotate the code for later review and help you understand what each line accomplishes.
+
+<script src="https://gist.github.com/stevencombs/b988f757c5ffd8cc99d3177b56b62118.js"></script>
 
 ```
 int ledPin = 12;
@@ -106,7 +109,7 @@ Uploading the code is simple if the Arduino IDE is installed and setup properly.
 1. Select `Tools` / `Board` from the Arduino IDE.
 2. Select the `Arduino/Geninuino MEGA or MEGA 2560` from the Arduino boards available.
 3. Select the serial port used to connect the Arduino to the computer. This will vary based on computer and operating system.
-4. Select the upload button in the Arduino IDE toolbar menu |⮊|.
+4. Select the upload button in the Arduino IDE toolbar menu (⮊).
 
 If the program is correct and contains no errors, the IDE will compile the code and sent to the MEGA.
 
