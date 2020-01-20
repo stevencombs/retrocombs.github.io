@@ -100,7 +100,7 @@ Inside the extracted folder is an install script. Use the script to complete the
     done!
     ```
 
-## Install Desktop_Launcher_
+## Install the desktop launcher
 
 This is where it gets strange. You will execute the install file one more time but without `sudo`.
 
