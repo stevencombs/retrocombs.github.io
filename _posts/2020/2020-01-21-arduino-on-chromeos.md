@@ -35,7 +35,7 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 
 ## Video demonstrations
 
-Before I share the procedure, below is a video I produced to show you that this process does, in fact, work on my Pixel Slate.
+Before I share the procedure, below is a video I produced to show you that these instructions do, in fact, work on my Pixel Slate. I've also been able to repeat this on my Pixelbook.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hAuv_M3l_ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
