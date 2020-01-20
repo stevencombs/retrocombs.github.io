@@ -25,7 +25,7 @@ This post includes the components, files, images, video, resources, and steps ne
 
 ## Objective
 
-Using an Elegoo branded Arduino MEGA 2560 (MEGA) and various electronic components, create a hardware and software solution that will turn on an LED when a momentary button is pressed and then turn off the LED when the button is pressed again (see video below).
+Using an [Elegoo branded Arduino MEGA 2560 (MEGA)](https://amzn.to/362vn2V) and various electronic components, create a hardware and software solution that will turn on an LED when a momentary button is pressed and then turn off the LED when the button is pressed again (see video below).
 
 ![Animated GIF of objective](/images/posts/2020-01-20-adruino-switch-led/led-switch-demo.gif)
 
@@ -34,7 +34,6 @@ Using an Elegoo branded Arduino MEGA 2560 (MEGA) and various electronic componen
 Below is a step-by-step video I produced for this project.
 
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FcK--sJlcJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<br>
 
 ## Supplies
 
@@ -57,7 +56,7 @@ Everything you need for this project, with Amazon links, is listed below:
 1 - [Small 5" needle nose plyers](https://amzn.to/2G003Hy) (optional): Use to resistor legs. More tips in the video.
 1 - [Volt/Ohm multimeter (optional)](https://amzn.to/2ufV9mZ): Optional but you should own one!
 
-> **NOTE:** If you don't want to source the electronic parts individually, purchase the [$60 Elegoo MEGA 2560 Most Complete Starter Kit](https://amzn.to/2Rqsio6). It contains everything you need for this exercise and much, much, more! It's a great value and is often on sale. You can even [view a video I produced](https://youtu.be/jY8Jj0Rim70) that shows and explains the contents of this kit.
+> **NOTE:** If you don't want to source the electronic parts individually, purchase the [$59 Elegoo MEGA 2560 Most Complete Starter Kit](https://amzn.to/2Rqsio6). It contains everything you need for this exercise and much, much, more! It's a great value and is often on sale. You can even [view a video I produced](https://youtu.be/jY8Jj0Rim70) that shows and explains the contents of this kit.
 
 ![Supplies for this project](/images/posts/2020-01-20-adruino-switch-led/project-supplies.jpg)
 
@@ -92,7 +91,7 @@ If the program contains no errors, the IDE will compile the code and send it to 
 
 ## Operation
 
-Press the button to verify that the LED turns on. Press the button to verify the LED turns off. If you do not see the desired results, verify the code, make necessary changes, and upload the program again. Troubleshooting is a part of the learning process.
+Press the button to verify the LED turns on. Press the button again to verify the LED turns off. If you do not see the desired results, verify the code, make necessary changes, and upload the program again. Troubleshooting is a part of the learning process.
 
 ## Summing up
 
