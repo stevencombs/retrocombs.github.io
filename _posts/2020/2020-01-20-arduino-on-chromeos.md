@@ -31,7 +31,7 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 
 > **NOTE 2:** I used the Linux guide available at <https://www.arduino.cc/en/guide/linux> as a basis for these instructions.
 
-> **NOTE 3:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* | *Enable Linux beta*.
+> **NOTE 3:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* / *Enable Linux beta*.
 
 ## Download Chrome OS
 
@@ -83,7 +83,8 @@ Inside the extracted folder is an install script. Use the script to complete the
 
 3. The _Terminal_ is going to throw a lot of scary messages at you, similar to the following, but don't worry about them:
 
-    ```Adding desktop shortcut, menu item and file associations for Arduino IDE...xdg-desktop-menu: No writable system menu directory found.
+    ```
+    Adding desktop shortcut, menu item and file associations for Arduino IDE...xdg-desktop-menu: No writable system menu directory found.
 
     xdg-desktop-menu: No writable system menu directory found.
     touch: cannot touch '/root/.local/share/applications/mimeapps.list': No such file or directory
@@ -119,7 +120,7 @@ Do nothing with the contents of the file but ensure it is not deleted. A review 
 
 ## Start the Arduino IDE
 
-If all went as expected, activate the _Launcher_ to view the new icon named `Arduino IDE` as shown in the image below.
+If all went as expected, activate the _Launcher_ to view the new icon named _Arduino IDE_ as shown in the image below.
 
 ![Arduino IDE icon in_Launcher_](/images/posts/2020-01-20-arduino-ide-chrome-os/arduino-ide-icon-launcher.png)lin
 
