@@ -39,7 +39,7 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 
     <https://www.arduino.cc/en/Main/Software>
 
-2. Scroll down the page and click the `**Linux** 64 bits` download link as shown below; unless your Chrome OS device uses an ARM processor and in that case choose the `**Linux** ARM 64 bits` download link.
+2. Scroll down the page and click the _Linux 64 bits_ download link as shown below; unless your Chrome OS device uses an ARM processor and in that case choose the _Linux ARM 64 bits_ download link.
 
     ![Linux download link](/images/posts/2020-01-20-arduino-ide-chrome-os/arduino-linux-download-link.png)
 
@@ -142,7 +142,7 @@ USB device support is not activated by default. As mentioned, I assume you are o
 
     `Crostini USB`
 
-3. Select the _Enabled_ option in the drop-down menu next to the `# Crostini Usb Allow Unsupported` flag.
+3. Select the _Enabled_ option in the drop-down menu next to the _# Crostini Usb Allow Unsupported_ flag.
 4. Reboot the Chrome OS device.
 
 ## Connect the Arduino to the Chrome OS device
@@ -174,14 +174,14 @@ Let's see if the Arduino IDE has access to the USB device using the following st
 
    ![Tools menu](/images/posts/2020-01-20-arduino-ide-chrome-os/arduino-connected.png)
 
-3. The first step before uploading a program is to always select the type of Arduino used. Make that selection in the _Board:_ menu.
+3. The first step before uploading a program is to select the type of Arduino board. Make that selection in the _Board:_ menu.
 4. Below the _Board:_ menu is the _Port:_ menu. If you followed all the steps above, you should see something similar to the one shown in the image and in the line below:
 
     `"/dev/ttyACM0 (Arduino/Genuino Uno)"`
 
-5. If you select the _Port:_ menu, you will only see one available device since only one was granted device access.
+5. Select the _Port:_ menu and you will see one available device.
 
-You can now load or code a program, upload the program to the Arduino, and test!
+Load or code a program, upload the program to the Arduino, and test!
 
 ## What this means
 
