@@ -33,7 +33,7 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 
 > **NOTE 3:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* | *Enable Linux beta*.
 
-## Video demonstrations
+## Video demonstration
 
 Before I share the procedure, below is a video I produced to show you that these instructions do, in fact, work on my Pixel Slate. I've also been able to repeat this on my Pixelbook.
 
