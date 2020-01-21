@@ -150,7 +150,7 @@ USB device support is not activated by default. As mentioned, I assume you are o
 
     `Crostini USB`
 
-3. Select the _Enabled_ option in the drop-down menu next to the <kbd># Crostini Usb Allow Unsupported</kbd> flag.
+3. Select the _Enabled_ option in the drop-down menu next to the _# Crostini Usb Allow Unsupported_ flag.
 4. Reboot the Chrome OS device.
 
 ## Connect the Arduino to the Chrome OS device
