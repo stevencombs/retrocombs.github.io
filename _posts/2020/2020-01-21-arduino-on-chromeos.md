@@ -47,7 +47,7 @@ Now, let's make this happen on your Chrome OS device!
 
     <https://www.arduino.cc/en/Main/Software>
 
-2. Scroll down the page and click the `**Linux** 64 bits` download link as shown below; unless your Chrome OS device uses an ARM processor and in that case choose the `**Linux** ARM 64 bits` download link.
+2. Scroll down the page and click the _Linux 64 bits_ download link as shown below; unless your Chrome OS device uses an ARM processor and in that case choose the _Linux ARM 64 bits_ download link.
 
     ![Linux download link](/images/posts/2020-01-20-arduino-ide-chrome-os/arduino-linux-download-link.png)
 
@@ -62,7 +62,7 @@ The Arduino IDE comes inside a compressed `.tar.xz` file format. Use the _Termin
 1. Activate the _Terminal_ from the _Launcher_
 2. Because the file is in the Linux folder, the compressed file is in your Linux home directory. Verify with the `ls` command and you should see a file name similar to the following:
 
-    `arduino-1.8.10-linux64.tar.xz`
+    _arduino-1.8.10-linux64.tar.xz_
 
 3. By default, Debian does not provide the option you need to decompress a `.tar.xz` file. You can install the required package using the commands below:
 
@@ -150,7 +150,7 @@ USB device support is not activated by default. As mentioned, I assume you are o
 
     `Crostini USB`
 
-3. Select the _Enabled_ option in the drop-down menu next to the `# Crostini Usb Allow Unsupported` flag.
+3. Select the _Enabled_ option in the drop-down menu next to the <kbd># Crostini Usb Allow Unsupported</kbd> flag.
 4. Reboot the Chrome OS device.
 
 ## Connect the Arduino to the Chrome OS device
