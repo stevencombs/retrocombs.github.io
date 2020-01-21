@@ -31,7 +31,7 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 
 > **NOTE 2:** I used the Linux guide available at <https://www.arduino.cc/en/guide/linux> as a basis for these instructions.
 
-> **NOTE 3:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* | *Enable Linux beta*.
+> **NOTE 3:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* / *Enable Linux beta*.
 
 ## Video demonstration
 
@@ -91,7 +91,8 @@ Inside the extracted folder is an install script. Use the script to complete the
 
 3. The _Terminal_ is going to throw a lot of scary messages at you, similar to the following, but don't worry about them:
 
-    ```Adding desktop shortcut, menu item and file associations for Arduino IDE...xdg-desktop-menu: No writable system menu directory found.
+    ```
+    Adding desktop shortcut, menu item and file associations for Arduino IDE...xdg-desktop-menu: No writable system menu directory found.
 
     xdg-desktop-menu: No writable system menu directory found.
     touch: cannot touch '/root/.local/share/applications/mimeapps.list': No such file or directory
@@ -184,7 +185,7 @@ Let's see if the Arduino IDE has access to the USB device using the following st
 3. The first step before uploading a program is to always select the type of Arduino used. Make that selection in the _Board:_ menu.
 4. Below the _Board:_ menu is the _Port:_ menu. If you followed all the steps above, you should see something similar to the one shown in the image and in the line below:
 
-    `"/dev/ttyACM0 (Arduino/Genuino Uno)"`
+    _"/dev/ttyACM0 (Arduino/Genuino Uno)"_
 
 5. If you select the _Port:_ menu, you will only see one available device since only one was granted device access.
 
@@ -196,4 +197,4 @@ Google continues to refine Linux support on Chrome OS devices. Just months ago, 
 
 Installation of the Arduino IDE on a Chromebook is an educator's dream. If you are a high school teacher, you likely use a Chromebook as your "daily driver." In order to teach Arduino and physical computing concepts, you likely had to pull out a leftover Windows machine from the IT closet for demonstrations. You no longer need to do this! You can now use a Chromebook.
 
-I am very excited about that capability this brings to my Pixelbook and Pixel Slate. As you can tell from the multiple exclamation marks in this post, I am very excited that I can use Chrome OS for one of my [favorite hobbies](https://www.stevencombs.com/embedded.html) and as [part of my job](https://sites.google.com/site/stevencombs/home/instruction/design-thinking-in-technology). I hope others find this post helpful. Happy programming!
+I am excited about the capability this brings to my Pixelbook and Pixel Slate. As you can tell from the multiple exclamation marks in this post, I am happy I now can use Chrome OS for one of my [favorite hobbies](https://www.stevencombs.com/embedded.html) and as [part of my job](https://sites.google.com/site/stevencombs/home/instruction/design-thinking-in-technology). I hope others find this post helpful. Happy programming!
