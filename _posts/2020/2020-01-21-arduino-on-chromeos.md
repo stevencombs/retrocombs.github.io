@@ -49,11 +49,11 @@ Now, let's make this happen on your Chrome OS device!
 
 2. Scroll down the page and click the `**Linux** 64 bits` download link as shown below; unless your Chrome OS device uses an ARM processor and in that case choose the `**Linux** ARM 64 bits` download link.
 
-    ![Linux download link](/images/posts/2020-01-21-arduino-ide-chrome-os/arduino-linux-download-link.png)
+    ![Linux download link](/images/posts/2020-01-20-arduino-ide-chrome-os/arduino-linux-download-link.png)
 
 3. Download the file directly to the Chrome OS Linux folder as shown in the image below:
 
-    ![Download to Linux folder](/images/posts/2020-01-21-arduino-ide-chrome-os/download-to-linux-folder.png)
+    ![Download to Linux folder](/images/posts/2020-01-20-arduino-ide-chrome-os/download-to-linux-folder.png)
 
 ## Extract the compressed file
 
@@ -129,7 +129,7 @@ Do nothing with the contents of the file but ensure it is not deleted. A review 
 
 If all went as expected, activate the _Launcher_ to view the new icon named `Arduino IDE` as shown in the image below.
 
-![Arduino IDE icon in_Launcher_](/images/posts/2020-01-21-arduino-ide-chrome-os/arduino-ide-icon-launcher.png)lin
+![Arduino IDE icon in_Launcher_](/images/posts/2020-01-20-arduino-ide-chrome-os/arduino-ide-icon-launcher.png)lin
 
 > **TIP:** Right-click on the Arduino icon and select `Pin to Shelf` for quick access.
 
@@ -170,7 +170,7 @@ Chrome OS now has access to the Arduino but now we want to pass that permission 
 
 > **NOTE:** The page states that, "Linux won't remember a USB device after it's removed." And it won't! When you shutdown your Chrome OS device or disconnect the Arduino or the USB Hub, you will need to allow permissions when you reconnect. Luckily, Chrome OS will display the notification below to remind you when a device is connected:
 
-> ![Connect USB device notification](/images/posts/2020-01-21-arduino-ide-chrome-os/reconnect-notification.png)
+> ![Connect USB device notification](/images/posts/2020-01-20-arduino-ide-chrome-os/reconnect-notification.png)
 
 ## Select the device in the Arduino IDE
 
@@ -179,7 +179,7 @@ Let's see if the Arduino IDE has access to the USB device using the following st
 1. Open the _Arduino_ application.
 2. Select the _Tools_ / _Board:_ menu item.You will see an image similar to the one shown below:
 
-   ![Tools menu](/images/posts/2020-01-21-arduino-ide-chrome-os/arduino-connected.png)
+   ![Tools menu](/images/posts/2020-01-20-arduino-ide-chrome-os/arduino-connected.png)
 
 3. The first step before uploading a program is to always select the type of Arduino used. Make that selection in the _Board:_ menu.
 4. Below the _Board:_ menu is the _Port:_ menu. If you followed all the steps above, you should see something similar to the one shown in the image and in the line below:
