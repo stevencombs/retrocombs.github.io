@@ -6,7 +6,7 @@ permalink: /entertainment
 
 <img class="category" src="http://www.stevencombs.com/images/design/entertainment.svg" />
 
-Life isn't all work and hobbies. Occasionally I like to kick back and enjoy a book, movie, television show or reminisce about days gone by. The posts below are about books, movies, television and classic toys.
+Life isn't all work and hobbies. Occasionally I like to kick back and enjoy a book, movie, television show or reminisce about days gone by (usually the 1970s and 1980s). The posts below are about books, movies, television and classic toys from yesterday and today.
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.entertainment %}
