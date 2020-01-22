@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Code
+permalink: /code
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/code.svg" />

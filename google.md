@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Google
+permalink: /google
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/google.svg" />

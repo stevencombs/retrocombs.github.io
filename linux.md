@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Linux
+permalink: /linux
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/linux.svg" />

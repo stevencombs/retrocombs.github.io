@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Higher Education
+permalink: /higher-education
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/higher-education.svg" />

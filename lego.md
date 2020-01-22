@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: LEGO
+permalink: /lego
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/lego.svg" />

@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Writing
+permalink: /writing
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/writing.svg" />
@@ -9,7 +10,7 @@ I've been a writer most of my adult life. In the mid and late 1990s, my focus wa
 
 You can see a list of books I've authored on my Amazon Author's page at:
 
-<http://www.amazon.com/author/stevencombs> 
+<http://www.amazon.com/author/stevencombs>
 
 As I work with new writing tools, and as I begin my foray into fiction, this page will consolidate posts related to my experiences.
 

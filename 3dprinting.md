@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: 3D Printing
+permalink: /3dprinting
 ---
 
 <img class="category" src="/images/design/3dprinting.svg" />

@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Productivity
+permalink: /productivity
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/productivity.svg" />

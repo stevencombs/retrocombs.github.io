@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: 3D Models
+permalink: /models
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/models.svg" />

@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Chrome OS
+permalink: /chromeos
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/chromeos.svg" />

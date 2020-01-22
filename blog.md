@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Blog Posts
+permalink: /blog
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/blog.svg" />

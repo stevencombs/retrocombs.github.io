@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Apple
+permalink: /apple
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/apple.svg" />

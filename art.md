@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Art
+permalink: /art
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/art.svg" />

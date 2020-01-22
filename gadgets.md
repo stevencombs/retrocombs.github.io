@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Gadgets
+permalink: /gadgets
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/gadgets.svg" />

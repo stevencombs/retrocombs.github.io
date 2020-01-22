@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: About Steven
+permalink: /about
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/about.svg" />

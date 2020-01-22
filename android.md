@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Android
+permalink: /android
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/android.svg" />

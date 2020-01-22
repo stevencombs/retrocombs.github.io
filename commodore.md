@@ -1,11 +1,12 @@
 ---
 layout: pages
 title: Commodore Computers
+permalink: /commodore
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/commodore.svg" />
 
-My very first computer was a Commodore VIC 20. I've always had a special place in my heart for this machine and upgraded across the Commodore line as the 80s and 90s progressed. 
+My very first computer was a Commodore VIC 20. I've always had a special place in my heart for this machine and upgraded across the Commodore line as the 80s and 90s progressed.
 
 Below are my experiences in the 8-bit and retro Commodore computer world both yesterday and today:
 

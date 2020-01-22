@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Presentations
+permalink: /presentations
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/presentations.svg" />

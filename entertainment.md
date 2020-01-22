@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Entertainment
+permalink: /entertainment
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/entertainment.svg" />

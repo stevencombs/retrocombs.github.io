@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Raspberry Pi Presentation
-comments: true
+permalink: /raspberrypi
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/embedded.svg" />
@@ -83,9 +83,9 @@ Have a questions or want to send feedback? You can [send me email](mailto:steven
     */
     (function() {  // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
-        
+
         s.src = '//stevencombs.disqus.com/embed.js';
-        
+
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
