@@ -55,13 +55,29 @@ I found an HDR setting on the built-in controls and was able to modify the scree
 
 The monitor even includes stereo audio. Now they won't win any audio quality awards, but they are good enough.
 
-# Good
+## Good
 
-# Not So Good
+## Not So Good
 
 Here are some of the negatives of this monitor (but not enough to stop me from recommending):
 
-* Monitor settings are not maintained between power-ups
-* Monitor is not the brightest you will find
-* Colors are a bit washed out
-*
+  *  Monitor settings are not maintained between power-ups
+  *  Monitor is not the brightest you will find
+  *  Colors are a bit washed out
+
+
+<!-- Should this be a seperate post and linked to from this post -->
+
+## My Mobile Setup
+
+Here's an image of my Pixel Slate traveling office. Beneath the image is a description of each item and an Amazon link if you are interested in creating your own mobile office setup. If so, drop a comment below.
+
+![Mobile Office Setup](/images/posts/2020-01-25-lepow-review/slate-traveling-office.jpg)
+
+[Pixel Slate](https://amzn.to/36nZRws) - The Pixel Slate is still my favorite Chrome OS device. The versatility of having a laptop or tablet form factor make it the most useful device I own.
+
+[Logitech M557 Bluetooth Mouse](https://amzn.to/2RmD6Vx) - The slate blue matches the Slate nicely and Bluetooth means I don't have to schlepp around more cables.
+
+[Anker SoundCore 2](https://amzn.to/2GnOHxo) - Another Bluetooth hardware device that provides great sound from YouTube Music (on the external monitor in this image) while I work.
+
+[LePow 15.6" USB-C External Monitor](https://amzn.to/37rcKam) - Purchased on a whim during Black Friday, this external monitor plus in to the right-side USB-C port that provides video out and power. The monitor folds up into it's own folio case and is as thin as the Slate.

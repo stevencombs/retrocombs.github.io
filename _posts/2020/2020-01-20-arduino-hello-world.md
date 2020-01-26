@@ -33,6 +33,8 @@ Using an [Elegoo branded Arduino MEGA 2560 (MEGA)](https://amzn.to/362vn2V) and 
 
 Below is a step-by-step video I produced for this project.
 
+> **CORRECTION:** In the video I state that the `int` command is initialize. It is not. This command initializes an integer variable.
+
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FcK--sJlcJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ## Supplies
