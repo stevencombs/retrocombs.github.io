@@ -42,14 +42,19 @@ Below is a step-by-step video I produced for this project.
 Everything you need for this project, with Amazon links, is listed below:
 
 1 - [Elegoo MEGA 2560](https://amzn.to/362vn2V): The MEGA is overkill but is the device I recommend for students. The additional digital I/O ports provide the option to create more complex projects.
+
 1 - [USB Cable](https://amzn.to/2uX7xst): Use to upload code from the Arduino IDE and to provide power to the MEGA.
+
 1 - [Arduino IDE](https://www.arduino.cc/en/main/software): Use the link to the left and follow the instructions to download and install the IDE on your computer.
 
 > **NOTE:** If you use Ubuntu or Ubuntu Mate might I recommend [my install instructions](https://www.stevencombs.com/arduino/2019/12/31/install-arduino-ubuntu.html).
 
 1 - [Elegoo Breadboard](https://amzn.to/377CB7e): Use the breadboard to prototype the project.
+
 1 - [Momentary push-button switch](https://amzn.to/2uZLGkd): This tiny push-button switch makes a click when pressed and is perfect for the breadboard. The MEGA has a push-button switch. It serves as a device reset.
+
 1 - [Diffused White LED](https://amzn.to/3amlfFv): A standard white LED with a  frost cover to diffuse the light.
+
 1 - [1k Ω (ohm) resistor](https://amzn.to/2u8s8Ke): Connect this resistor between the power source and the LED. This resistor is larger than necessary but will ensure we protect our LED when we apply power. The color code for a 1K Ω resistor is Brown, Black, Red, and Gold.
 
 > **NOTE:** The red band is often hard to discern, especially if your resistor is blue. If you are unsure, use a Volt/Ohm meter to verify the value. Set the meter to 2k and connect the black lead to the COM port on the meter and the red lead to ΩV port.
