@@ -73,7 +73,7 @@ Here are some of the negatives of this monitor (but not enough to stop me from r
 Here's an image of my Pixel Slate traveling office. Beneath the image is a description of each item and an Amazon link if you are interested in creating your own mobile office setup. If so, drop a comment below.
 
 ![Mobile Office Setup](/images/posts/2020-01-25-lepow-review/slate-traveling-office.jpg)
-
+t
 [Pixel Slate](https://amzn.to/36nZRws) - The Pixel Slate is still my favorite Chrome OS device. The versatility of having a laptop or tablet form factor make it the most useful device I own.
 
 [Logitech M557 Bluetooth Mouse](https://amzn.to/2RmD6Vx) - The slate blue matches the Slate nicely and Bluetooth means I don't have to schlepp around more cables.
