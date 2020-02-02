@@ -57,27 +57,15 @@ The monitor even includes stereo audio. Now they won't win any audio quality awa
 
 ## Good
 
+1. Folio case protects and serves as a stand for the monitor.
+2. Light, thin, and easy to throw into my bag with my Pixelbook or Pixel Slate.
+2. Screen protector includes; however, it is very difficult to apply.
+
 ## Not So Good
 
 Here are some of the negatives of this monitor (but not enough to stop me from recommending):
 
-  *  Monitor settings are not maintained between power-ups
-  *  Monitor is not the brightest you will find
-  *  Colors are a bit washed out
-
-
-<!-- Should this be a seperate post and linked to from this post -->
-
-## My Mobile Setup
-
-Here's an image of my Pixel Slate traveling office. Beneath the image is a description of each item and an Amazon link if you are interested in creating your own mobile office setup. If so, drop a comment below.
-
-![Mobile Office Setup](/images/posts/2020-01-25-lepow-review/slate-traveling-office.jpg)
-t
-[Pixel Slate](https://amzn.to/36nZRws) - The Pixel Slate is still my favorite Chrome OS device. The versatility of having a laptop or tablet form factor make it the most useful device I own.
-
-[Logitech M557 Bluetooth Mouse](https://amzn.to/2RmD6Vx) - The slate blue matches the Slate nicely and Bluetooth means I don't have to schlepp around more cables.
-
-[Anker SoundCore 2](https://amzn.to/2GnOHxo) - Another Bluetooth hardware device that provides great sound from YouTube Music (on the external monitor in this image) while I work.
-
-[LePow 15.6" USB-C External Monitor](https://amzn.to/37rcKam) - Purchased on a whim during Black Friday, this external monitor plus in to the right-side USB-C port that provides video out and power. The monitor folds up into it's own folio case and is as thin as the Slate.
+1. Monitor settings are not maintained between power-ups. You will have to work through them each and every time.
+2. Monitor is not very bright on default settings or after max brightness is applied. The monitor is fine for indoors but will be hard to see outside.
+3. Colors are washed out on the default settings and don't get a whole lot better after correcting; however, it is definitely better than expected for the price I paid.
+4. Folio case cannot serve as a stand for the monitor in portrait mode. I recommend [this stand]() in this use case.
