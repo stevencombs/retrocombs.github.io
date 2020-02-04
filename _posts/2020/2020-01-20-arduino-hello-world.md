@@ -60,7 +60,9 @@ Everything you need for this project, with Amazon links, is listed below:
 > **NOTE:** The red band is often hard to discern, especially if your resistor is blue. If you are unsure, use a Volt/Ohm meter to verify the value. Set the meter to 2k and connect the black lead to the COM port on the meter and the red lead to ΩV port.
 
 5 - [Male to male breadboard jumper wires](https://amzn.to/2ufQf9z): Prototyping on the breadboard a snap with these wires!
+
 1 - [Small 5" needle nose plyers](https://amzn.to/2G003Hy) (optional): Use to resistor legs. More tips in the video.
+
 1 - [Volt/Ohm multimeter (optional)](https://amzn.to/2ufV9mZ): Optional but you should own one!
 
 > **NOTE:** If you don't want to source the electronic parts individually, purchase the [$59 Elegoo MEGA 2560 Most Complete Starter Kit](https://amzn.to/2Rqsio6). It contains everything you need for this exercise and much, much, more! It's a great value and is often on sale. You can even [view a video I produced](https://youtu.be/jY8Jj0Rim70) that shows and explains the contents of this kit.
@@ -77,7 +79,7 @@ Below is a Fritzing image that serves as instructions for project assembly. Watc
 
 ## Programming
 
-Once the project is assembled are wired, create the code in the [Arduino IDE](https://www.arduino.cc/en/main/software). Below is the code for this project. Do not copy and paste. Type the code and include your own comments (`//`) that explain what each line does. This will help annotate the code for later review and help you understand what each line accomplishes.
+Once the components are placed and wired, code the project in the [Arduino IDE](https://www.arduino.cc/en/main/software). Below is the code for this project. Do not copy and paste. Type the code and include your own comments (`//`) to explain each line. These comments will remind you later what each line accomplishes.
 
 <script src="https://gist.github.com/stevencombs/b988f757c5ffd8cc99d3177b56b62118.js"></script>
 
@@ -106,7 +108,7 @@ Hopefully this project was a great way to learn more about the MEGA, the Elegoo 
 
 ## References
 
-Here are the pages I referenced for this project:
+Below are the references for this project:
 
 1. [Arduino button tutorial](https://www.arduino.cc/en/tutorial/button)
 2. [LED resistor calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor?_ga=2.47531951.968511582.1579365631-286915608.1579365631&_gac=1.181821269.1579365633.Cj0KCQiA9orxBRD0ARIsAK9JDxTauk9R4xTKrslBCN1JgI0T9SqCEZ2rH3MH9jL-MBPtQopC1jNAoK4aAiXiEALw_wcB)
