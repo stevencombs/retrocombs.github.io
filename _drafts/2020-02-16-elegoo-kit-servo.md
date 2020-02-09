@@ -44,3 +44,21 @@ Everything you need for this project, with Amazon links, is listed below:
 > **NOTE:** If you don't want to source the electronic parts individually, purchase the [$59 Elegoo MEGA 2560 Most Complete Starter Kit](https://amzn.to/2Rqsio6). It contains everything you need for this exercise and much, much, more! It's a great value and is often on sale. You can even [view a video I produced](https://youtu.be/jY8Jj0Rim70) that shows and explains the contents of this kit.
 
 ![Supplies for this project](/images/posts/2020-01-20-adruino-switch-led/project-supplies.jpg)
+
+
+
+
+
+
+
+
+## Upload to Mega
+
+Uploading the code is easy; if the Arduino IDE is installed and setup properly.
+
+1. Select _Tools_ / _Board_ from the Arduino IDE.
+2. Select the _Arduino/Geninuino MEGA or MEGA 2560_ from the Arduino boards available.
+3. Select the serial port used to connect the Arduino to the computer. This will vary based on computer and operating system.
+4. Select the upload button in the Arduino IDE toolbar menu (⮊).
+
+If the program contains no errors, the IDE will compile the code and send it to the MEGA.
