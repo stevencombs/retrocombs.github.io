@@ -35,7 +35,10 @@ Below is a step-by-step video I produced for this project.
 
 > **CORRECTION:** In the video I state that the `int` command is initialize. It is not. This command initializes an integer variable.
 
-<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FcK--sJlcJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div style="position:relative;padding-top:56.25%;">
+  <p><iframe src="https://www.youtube.com/embed/FcK--sJlcJI" frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
+</div>
 
 ## Supplies
 

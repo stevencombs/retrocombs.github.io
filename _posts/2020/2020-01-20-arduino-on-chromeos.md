@@ -33,6 +33,13 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 
 > **NOTE 3:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* / *Enable Linux beta*.
 
+Before I share the process, here's a video showing the Arduino IDE uploading code from my Pixel Slate to an Arduino Uno.
+
+<div style="position:relative;padding-top:56.25%;">
+  <p><iframe src="https://www.youtube.com/embed/hAuv_M3l_ag" frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
+</div>
+
 ## Download Chrome OS
 
 1. Chrome OS's Crostini virtual machine (VM) uses Debian, a Linux distribution. Because of this, we can use the software found on the Arduino download page at:
@@ -93,7 +100,7 @@ Inside the extracted folder is an install script. Use the script to complete the
     done!
     ```
 
-## Install Desktop_Launcher_
+## Install Desktop Launcher
 
 This is where it gets strange. You will execute the install file one more time but without `sudo`.
 
