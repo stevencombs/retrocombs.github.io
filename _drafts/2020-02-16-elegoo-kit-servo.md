@@ -16,9 +16,6 @@ tags:
 
 Expanding on my previous unboxing and led and pushbutton Arduino projects, this post provides instructions to control a servo motor with an ELEGOO Mega Arduino board.
 
-
-
-
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jY8Jj0Rim70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ## Objective
@@ -44,13 +41,6 @@ Everything you need for this project, with Amazon links, is listed below:
 > **NOTE:** If you don't want to source the electronic parts individually, purchase the [$59 Elegoo MEGA 2560 Most Complete Starter Kit](https://amzn.to/2Rqsio6). It contains everything you need for this exercise and much, much, more! It's a great value and is often on sale. You can even [view a video I produced](https://youtu.be/jY8Jj0Rim70) that shows and explains the contents of this kit.
 
 ![Supplies for this project](/images/posts/2020-01-20-adruino-switch-led/project-supplies.jpg)
-
-
-
-
-
-
-
 
 ## Upload to Mega
 
