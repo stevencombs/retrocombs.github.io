@@ -2,10 +2,14 @@
 layout: post
 title: Markdown Test Post
 date: 1999-01-01 19:19:19
-author: {{ site.name }}
-email: {{ site.email }}
+author: "{{ site.name }}"
+email: "{{ site.email }}"
 comments: false
 category: web
+tags:
+ - code
+ - markdown
+ - jekyll
 ---
 
 I make numerous changes to the CSS on this blog to refine the conversion of my markdown posts to HTML. I use this post to view the effects made to the final rendering of the markdown files. This post includes the important HTML tags that are affected when Jekyll renders static pages.
