@@ -1,7 +1,7 @@
 ---
 layout: post
-title: `Education by the numbers`
-date: 2012-10-25 18:52:58 UTC
+title: 'Education by the numbers'
+date: '2012-10-25'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Test Post
+title: 'Markdown Test Post'
 date: 1999-01-01 19:19:19
 author: "{{ site.name }}"
 email: "{{ site.email }}"
@@ -51,12 +51,12 @@ Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
 
 ## Table
 
-| Tables        | Are           | Cool  |
-| ------------- |:------------- | -----:|
+| Tables        | Are           |  Cool |
+|:--------------|:--------------|------:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-| raspberry pi	| rock			|   $39	|
+| raspberry pi  | rock          |   $39 |
 
 
 ## Inline Code

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: `The College of 2020 is a must read for administrators`
-date: 2012-10-25 19:06:28 UTC
+title: 'The College of 2020 is a must read for administrators'
+date: '2012-10-25'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: `Got caught, did you?`
-date: 2012-10-25 18:47:40 UTC
+title: 'Got caught, did you?'
+date: '2012-10-25'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: true
