@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `Turn your RaspberryPi into a development platform with Coder`
+title: 'Turn your RaspberryPi into a development platform with Coder'
 date: 2013-09-15 19:19:19
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

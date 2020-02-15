@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `Apple TV in the classroom`
+title: 'Apple TV in the classroom'
 date: 2013-01-14 19:51:19 UTC
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

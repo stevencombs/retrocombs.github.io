@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `Install the Arduino IDE on Peppermint OS 4`
+title: Install the Arduino IDE on Peppermint OS 4
 date: 2014-01-06 05:00:06
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
