@@ -39,7 +39,10 @@ I began to read and watch reviews. Reviewers were generally positive with some m
 
 This post is not a review of the Lenovo Smart Tab with Google Assistant, that will probably come later. What this post does do is provide a video I threw together that is an "unboxing" of the device. There was little information about the device and I am hopeful this video will help others make a decision about whether they too should give this tablet a shot. Here's the video:
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Hu-KtK3lYzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div style="position:relative;padding-top:56.25%;">
+  <p><iframe src="https://www.youtube.com/embed/Hu-KtK3lYzA" frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
+</div>
 
 The unboxing was a good experience and includes a few surprises. It wasn't the same premium unboxing experience you get with an Apple product but it was adequate and I didn't pay extra for a package experience. Before the video ends, I do turn on the device. Let me know your thoughts on the device in the comments below and whether this video helped anyone.
 
