@@ -4,7 +4,7 @@ title: Android
 permalink: /android
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/android.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/android.svg" width="20%" />
 
 I was an iOS user for years, but have since moved over to Android as my primary mobile operating system. I even have my own podcast about these devices called the Pixel Power Podcast. You can learn about this podcast [here](https://www.pixelpowerpodcast.com). There are times when a blog post about android is necessary. This page collects those posts.
 

@@ -4,7 +4,7 @@ title: LEGO
 permalink: /lego
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/lego.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/lego.svg" width="20%" />
 
 I'm a self professed [AFOL](http://en.wikipedia.org/wiki/AFOL). Below are my MOCs and reviews of building brick related products. If you understand those last two sentences, welcome! You are in the right spot. If not, take a look and find out why LEGO is not just for children any more.
 

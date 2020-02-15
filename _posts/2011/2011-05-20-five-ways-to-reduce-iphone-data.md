@@ -2,6 +2,8 @@
 layout: post
 title: Five ways to reduce iPhone or hotspot data usage
 date: 2011-05-20 10:11:12
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: apple
 ---

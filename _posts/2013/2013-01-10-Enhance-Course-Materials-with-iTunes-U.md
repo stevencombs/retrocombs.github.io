@@ -1,13 +1,14 @@
----     
+---
 layout: post
-title: Enhance Course Materials with iTunes U
+title: `Enhance Course Materials with iTunes U`
 date: 2013-01-10 01:09:10 UTC
-updated: 2013-01-10 01:09:10 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 categories: presentations higher-education apple
 ---
 
-Hot on the heels of my [_Apple TV: “Out of the Living Room and into the Classroom”_ presentation](http://www.stevencombs.com/presentations/higher-education/apple/2013/01/14/Apple-TV-Out-of-the-Living-Room-and-into-the-Classroom.html), I have prepared another entitled, _Enhance Course Materials with iTunes U_. This presentation was held on January 10th, 2013 from 12:00 - 1:00PM in Poling Hall, Room 201 on the Ivy Tech Columbus campus. 
+Hot on the heels of my [_Apple TV: “Out of the Living Room and into the Classroom”_ presentation](http://www.stevencombs.com/presentations/higher-education/apple/2013/01/14/Apple-TV-Out-of-the-Living-Room-and-into-the-Classroom.html), I have prepared another entitled, _Enhance Course Materials with iTunes U_. This presentation was held on January 10th, 2013 from 12:00 - 1:00PM in Poling Hall, Room 201 on the Ivy Tech Columbus campus.
 
 ![](http://3.bp.blogspot.com/-DmCzV7LBG-k/UO35pceB4_I/AAAAAAABFog/GBBJDrZtvpA/s400/iTunes+U.png)
 
@@ -71,7 +72,7 @@ Let’s take a look at some unique iTunes U content available for your course:
 * Simple to use electronic book authoring
 * Interactive components to enhance content
 * Self publish!!!
-* iBooks OS X 
+* iBooks OS X
 
 ![](http://1.bp.blogspot.com/-euUasrKRgCY/UO4QUu-p20I/AAAAAAABFow/fnqhOHtrpq4/s400/iBooks+Author.png)
 

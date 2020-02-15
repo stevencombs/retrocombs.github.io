@@ -2,6 +2,8 @@
 layout: post
 title: Pebble Time first impressions
 date: '2015-06-07 15:17'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - gadgets

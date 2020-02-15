@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Three interesting electronics components
+title: `Three interesting electronics components`
 date: '2013-11-27 14:56'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - arduino
-  - raspberrypi
 ---
 
 I ordered three components while "window shopping" at Amazon. A couple of the components I will use for Arduino and Raspberry Pi projects I have in mind and another I bought just to see how the thing worked.

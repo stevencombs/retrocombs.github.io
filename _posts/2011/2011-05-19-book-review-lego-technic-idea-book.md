@@ -2,6 +2,8 @@
 layout: post
 title: Book Review – LEGO Technic Idea Book Series
 date: 2011-05-19 01:01:01
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: lego
 ---

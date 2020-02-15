@@ -1,10 +1,17 @@
 ---
 layout: post
-title: “O zephyr winds which blow on high...
+title: `O zephyr winds which blow on high...`
 date: 2012-10-25 19:00:40 UTC
-updated: 2012-10-25 19:00:40 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: entertainment
+tags:
+  - saturday
+  - morning
+  - cartoons
+  - isis
+  - shazam 
 ---
 
 {UPDATE: This is a repost from another blog. As those who know me can attest, I’m a bit of a sci-fi geek and love to reminisce about days of old. So enjoy this somewhat quirky post on this Saturday morning}

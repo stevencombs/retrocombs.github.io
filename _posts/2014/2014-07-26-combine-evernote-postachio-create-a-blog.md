@@ -2,6 +2,8 @@
 layout: post
 title: "Combine Evernote and Postach.io to create a blog"
 date: "2014-07-26"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 category: evernote
 comments: true
 ---
@@ -37,7 +39,7 @@ Your post is now available to the world. You can use the Postach.io [dashboard](
 Postach.io [Markdown][4] support is experimental. Just visit your Postach.io dashboard and select the option to write in Markdown. I did create a test post in Markdown but was unsuccessful. All the text was present, but the format was a mess and line numbers did not render sequentially. Seems they still have a ways to go on the Evernote Markdown support.
 
 # Format and multimedia
-Evernote allows you to easily insert formatted elements, images and audio within notes. Using the [Evernote](https://itunes.apple.com/us/app/evernote/id406056744?mt=12&uo=4&at=10l9vL) Mac app, these can be included with a simple drag and drop or click of the toolbar. Check out [my Postach.io test post](http://stevencombs.postach.io/use-evernote-to-create-a-blog) to see numerous examples. 
+Evernote allows you to easily insert formatted elements, images and audio within notes. Using the [Evernote](https://itunes.apple.com/us/app/evernote/id406056744?mt=12&uo=4&at=10l9vL) Mac app, these can be included with a simple drag and drop or click of the toolbar. Check out [my Postach.io test post](http://stevencombs.postach.io/use-evernote-to-create-a-blog) to see numerous examples.
 
 Postach.io would not display my attached animated GIFs or video. I tried over and over and simply could not get them to appear, nor appear as a link. Admittedly, I did not research this issue at length. I was not inclined to do so since my expectation was that whatever elements are within the note should render on the page. Maybe a later version will correct or possibly I did something wrong. Although, I can't imagine what that might be.
 
@@ -47,7 +49,7 @@ You can create a single site free of charge. A pro version is available for $5/m
 * generate multiple sites
 * enhanced security
 * share writing duties with other users
- 
+
 This seems very reasonable if you need these features and extremely reasonable for a hosted site. Here's a nice surprise, the use of a custom domain does not require a pro account!
 
 # Conclusion

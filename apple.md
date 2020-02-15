@@ -4,7 +4,7 @@ title: Apple
 permalink: /apple
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/apple.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/apple.svg" width="20%" />
 
 I'm an unabashed Mac fan. Anyone who knows me understands this and knows at any time I probably have a Mac on hand. Will you find a similar Windows page on this site? No way! What about Linux? <a href="linux.html">You betcha!</a>
 

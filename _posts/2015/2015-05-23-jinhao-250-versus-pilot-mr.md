@@ -2,6 +2,8 @@
 layout: post
 title: Jinhao 250 versus Pilot MR Metropolitan
 date: '2015-05-23 15:27'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - art
@@ -145,7 +147,7 @@ Posting is the act of placing the pen cover on the other end of the pen as shown
 When you post the Pilot cover on the end of the pen, it is secure and you can flip the pen over without the cover falling off the pen base. Don’t try that with the Jinhao. You can post the cover, but if you flip the pen over, it will fall off. I am unable to write with the Jinhao cover posted as I always feel as if it is going to fall off. Pilot wins this category.
 
 ## Scratch
-I use the term scratch to describe the resistance the pen makes when you write on a piece of paper. As the nib moves across the paper is it smooth or does it snag the fibers of the page?  [Micromesh](http://www.gouletpens.com/gpc-micro-mesh/p/GPC-Micro-Mesh) can correct these snags; however, I compared the out of the box (or plastic sleeve in the case of the Jinhao) experience. 
+I use the term scratch to describe the resistance the pen makes when you write on a piece of paper. As the nib moves across the paper is it smooth or does it snag the fibers of the page?  [Micromesh](http://www.gouletpens.com/gpc-micro-mesh/p/GPC-Micro-Mesh) can correct these snags; however, I compared the out of the box (or plastic sleeve in the case of the Jinhao) experience.
 
 One of my first Jinhao complaints was the way the nib moved across the page. There is significant scratch. The Pilot however, moves smoothly over the page. I was instantly amazed at the difference between the two. Using the Jinhao, I sometimes felt as if I was cutting the page. I never had that feeling with the Pilot so it wins this category.
 

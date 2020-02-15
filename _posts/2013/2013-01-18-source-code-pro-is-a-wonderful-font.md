@@ -2,6 +2,8 @@
 layout: post
 title: "Source Code Pro is a wonderful Markdown font"
 date: "2013-01-18"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 category: web
 comments: true
 ---
@@ -12,7 +14,7 @@ While reviewing Markdown text editors for the iPad [during my last post][2], I h
 
 During a recent update, Textastic included several new features (but sadly, not the ones I was hoping for). There was one little addition that enhanced my editing not only on the iPad using Textastic, but also on my Mac. The inclusion of a single Adobe open source font called _Source Code Pro_. Learn more about this font after the click below.
 
-I have to admit, I'm a bit of a font geek. Not one of those, downloading every font I can find and installing on my Mac, but one of those, I love the shapes and styles of fonts and how they interact with objects on a page. I find typography to be an interesting art form and science. 
+I have to admit, I'm a bit of a font geek. Not one of those, downloading every font I can find and installing on my Mac, but one of those, I love the shapes and styles of fonts and how they interact with objects on a page. I find typography to be an interesting art form and science.
 
 As soon as I discovered Textastic included a new font, I was intrigued. I changed the default font in Textastic and loaded up a file. This new mono-spaced font is gorgeous, as you can see in the image below.
 

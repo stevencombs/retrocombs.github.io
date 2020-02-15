@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Apple TV in the classroom
+title: `Apple TV in the classroom`
 date: 2013-01-14 19:51:19 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 categories: presentations higher-education apple
 ---
@@ -16,7 +18,7 @@ This post provides the slides used for that presentation as well as the presenta
 
 __Presentation Notes: TV - *Out of the Living Room and into the Classroom*:__
 
-**Agenda (slide 2):**  
+**Agenda (slide 2):**
 This 45 minute presentation will discuss the Apple TV and its use in the classroom. Major topics include:
 
 * Why Apple TV (TV)
@@ -29,27 +31,27 @@ This 45 minute presentation will discuss the Apple TV and its use in the classro
 
 _Background music before presentation provided by TV Radio, Classical, [A1900 Classical][2]_
 
-**Why an TV (slide 3):**  
+**Why an TV (slide 3):**
 
 * Ubiquitous nature iOS devices
 * Student friendly
 * Ease of use
 * WirelessCost (Entire secure setup for around $250)
 
-**Hardware (slide 4–5):**  
+**Hardware (slide 4–5):**
 Below is a list of the hardware you may need based on your classroom:
 
 * [Apple TV, $99][3] - the subject of our presentation
 * [ATV Pro, $45][4] - converts from HDMI to RGB and audio for older projectors
 * [HDMI Cable, 2 for $10][5] - newer projectors will only require the HDMI cable
 
-**Remote Control (slide 6):**  
+**Remote Control (slide 6):**
 You can control the Apple TV with the following devices:
 
 * Apple Remote (included with TV)
 * [Remote app, Free][6] for iPhone/iPod Touch/iPad (iOS devices)
 
-**Out of the Box Capabilities (slide 7) and Demonstration:**  
+**Out of the Box Capabilities (slide 7) and Demonstration:**
 Without a connection to any other device, the TV provides the following features to enhance instruction (brainstorming time!):
 
 * Moves/TV Shows/Music from the Apple Store
@@ -62,7 +64,7 @@ Without a connection to any other device, the TV provides the following featu
 * Wall Street Journal Live
 * More to come from Apple…all apps can be removed from the homescreen
 
-**AirPlay Demonstration:**  
+**AirPlay Demonstration:**
 AirPlay is the process of transmitting audio, video and apps to the TV. The following are discussed:
 
 * iOS Devices (iPhone and iPad) - AirPlay Music (Music app) and Video (YouTube app) demonstrations from iPhone 4S, Mirroring (iPhone 4S or greater or new iPad required) and [Skitch][8] demonstration from iPhone 4S
@@ -70,7 +72,7 @@ AirPlay is the process of transmitting audio, video and apps to the TV. The f
 * OS X Integration - Basic connection functionality built into OS X Mountain Lion only
 * [AirParrot for OS X][11] - Adds AirPlay to all Macs and adds additional functionality such as full desktop (scaled), extended desktop and by applicationA quick word about security - Passcode can be set and device connected cannot be bumped by another device
 
-**Network Requirements:**  
+**Network Requirements:**
 The TV has the following network requirements:
 
 * All devices must be on the same network

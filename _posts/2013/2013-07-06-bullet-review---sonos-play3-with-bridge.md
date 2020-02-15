@@ -2,6 +2,8 @@
 layout: post
 title: 'Bullet Review - Sonos Play:3 with Bridge'
 date: '2013-07-06 09:51'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - gadgets

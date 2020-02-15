@@ -2,6 +2,8 @@
 layout: post
 title: Mac mini Media Center (MmMC) software winner
 date: 2012-03-13 19:19:19
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: apple
 ---

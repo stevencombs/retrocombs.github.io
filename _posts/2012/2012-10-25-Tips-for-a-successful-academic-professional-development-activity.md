@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Successful academic professional development sessions
+title: `Successful academic professional development sessions`
 date: 2012-10-25 18:53:56 UTC
-updated: 2012-10-25 18:53:56 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: higher-education
 ---

@@ -2,6 +2,8 @@
 layout: post
 title: Syma X12S unboxing and mini review
 date: '2015-06-21 17:26'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 categories:
   - gadgets
 comments: yes

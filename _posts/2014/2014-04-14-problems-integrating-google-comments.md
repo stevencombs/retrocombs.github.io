@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Integrate Google+ comments into Blogger Template
+title: `Integrate Google+ comments into Blogger Template`
 date: 2014-04-14 19:19:19
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: web
 ---

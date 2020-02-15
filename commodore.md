@@ -4,7 +4,7 @@ title: Commodore Computers
 permalink: /commodore
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/commodore.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/commodore.svg" width="20%" />
 
 My very first computer was a Commodore VIC 20. I've always had a special place in my heart for this machine and upgraded across the Commodore line as the 80s and 90s progressed.
 

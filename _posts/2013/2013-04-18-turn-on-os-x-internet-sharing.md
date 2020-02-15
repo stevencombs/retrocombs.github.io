@@ -2,6 +2,8 @@
 layout: post
 title: Turn on OS X Internet Sharing
 date: '2013-04-18 10:19'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - apple

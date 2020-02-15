@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Education by the numbers
+title: `Education by the numbers`
 date: 2012-10-25 18:52:58 UTC
-updated: 2012-10-25 18:52:58 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: higher-education
 ---
@@ -21,6 +22,6 @@ category: higher-education
 Those are just few numbers that were discussed today during a recent regional academic officer’s meeting. There were others, as I found while perusing my notes, but these were the digits I found most interesting, striking, confusing or worrisome. I’ll keep my eyes open in the future for other numbers and when I do find more of interest, I’ll try and remember to consolidate them and add to a future post.
 
 ---
-<sup>1</sup> [IndyStar](http://www.indystar.com/article/20120904/NEWS/120904020/Gov-Mitch-Daniels-halts-renovation-of-Purdue-president-s-office?odyssey=tab%7Cmostpopular%7Ctext%7CFRONTPAGE) ↩  
-<sup>2</sup> [IN.gov](http://www.in.gov/che/files/Table_1_Historical_Summary_of_Appropriations_for_Indiana_Higher_Education_(1984-85_to_2012-13).pdf) ↩  
+<sup>1</sup> [IndyStar](http://www.indystar.com/article/20120904/NEWS/120904020/Gov-Mitch-Daniels-halts-renovation-of-Purdue-president-s-office?odyssey=tab%7Cmostpopular%7Ctext%7CFRONTPAGE) ↩
+<sup>2</sup> [IN.gov](http://www.in.gov/che/files/Table_1_Historical_Summary_of_Appropriations_for_Indiana_Higher_Education_(1984-85_to_2012-13).pdf) ↩
 <sup>3</sup> [Stats Indiana](http://www.stats.indiana.edu/profiles/profiles.asp?scope_choice=a&county_changer=18000&button1=Get+Profile&id=2&page_path=Area+Profiles&path_id=11&panel_number=1) ↩

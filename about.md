@@ -4,7 +4,7 @@ title: About Steven
 permalink: /about
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/about.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/about.svg" width="20%" / >
 
 This page lists posts that provide insights into my personal interests or that do not fit within major blog categories. It also provides a comprehensive employment biography that can be used as a narrative for conference and presentation introductions.
 

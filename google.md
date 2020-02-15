@@ -4,7 +4,7 @@ title: Google
 permalink: /google
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/google.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/google.svg" width="20%" />
 
 I use Google services and apps daily. I even have my own podcast about these services called the Pixel Power Podcast. You can learn about this podcast [here](https://www.pixelpowerpodcast.com). There are times when a blog post about Google services and applications are necessary. This page collects those posts.
 

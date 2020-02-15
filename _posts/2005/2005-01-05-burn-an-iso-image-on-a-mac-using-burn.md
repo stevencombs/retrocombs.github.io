@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Burn an iso image on a Mac using Burn"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: "2005-01-05"
 category: apple
 ---

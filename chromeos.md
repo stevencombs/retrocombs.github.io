@@ -4,7 +4,7 @@ title: Chrome OS
 permalink: /chromeos
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/chromeos.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/chromeos.svg" width="20%" />
 
 Chrome OS devices are quickly becoming my favorite. I even have my own podcast about these devices called the Pixel Power Podcast. You can learn about this podcast [here](https://www.pixelpowerpodcast.com). There are times when a blog post about Chrome OS is necessary. This page collects those posts.
 

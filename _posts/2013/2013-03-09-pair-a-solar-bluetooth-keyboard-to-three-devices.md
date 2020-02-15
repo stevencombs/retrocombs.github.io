@@ -2,6 +2,8 @@
 layout: post
 title: Pair a solar bluetooth keyboard to three devices
 date: '2013-03-09 15:36'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - apple

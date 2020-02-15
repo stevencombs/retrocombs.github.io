@@ -2,6 +2,8 @@
 layout: post
 title: "My Arduino Esplora came with the wrong joystick knob"
 date: "2014-07-27"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 category: arduino
 comments: true
 ---

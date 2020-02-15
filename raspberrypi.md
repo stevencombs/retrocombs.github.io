@@ -4,7 +4,7 @@ title: Raspberry Pi Presentation
 permalink: /raspberrypi
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/embedded.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/embedded.svg" width="20%" />
 On June 17th, I was the guest speaker for our local [Columbus area Chamber of Commerce TANK Talk](https://www.facebook.com/events/1271805972849192/). I was asked to give a presentation about the Raspberry Pi and its use in physical computing, making and education. I decided to expand the presentation to include other physical computing devices such as the Arduino and a Kickstarter project. The presentation description was as follows:
 
 > While a Raspberry Pi AlaMode sounds like a tasty treat, it means something completely different in the world of physical computing. In this late afternoon session, Steven will introduce you to the world of physical computing and how a $35 computer, the size of several stacked credit cards, is revolutionizing the way we introduce children and adults to programming and prototyping. And yes, you will learn why a Raspberry Pi AlaMode may not be as tasty to eat as it sounds.

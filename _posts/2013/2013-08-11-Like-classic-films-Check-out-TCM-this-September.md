@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Like classic films? Check out TCM this September!
+title: `Like classic films? Check out TCM this September!`
 date: 2013-08-11 16:50:56 UTC
-updated: 2013-08-11 16:50:56 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: entertainment
 ---

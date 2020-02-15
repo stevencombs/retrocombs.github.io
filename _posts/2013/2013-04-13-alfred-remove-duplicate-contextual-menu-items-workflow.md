@@ -2,6 +2,8 @@
 layout: post
 title: "Alfred Workflow - Remove Duplicate Contextual Menu Items"
 date: "2013-04-13"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: alfred
 ---

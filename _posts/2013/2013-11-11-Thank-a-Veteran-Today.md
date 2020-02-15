@@ -1,8 +1,9 @@
----           
+---
 layout: post
-title: Thank a Veteran Today!
+title: `Thank a Veteran Today!`
 date: 2013-11-11 11:39:25 UTC
-updated: 2013-11-11 11:39:25 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: Holiday
 ---
@@ -11,7 +12,7 @@ category: Holiday
 
 I am especially grateful for those that served and still serve “down-range.” Every day they are in harms way, is a day we are able to sleep comfortably knowing that we are being protected by the best military in the world. A military staffed by volunteers willing to offer themselves in service to their country. Are you willing to make this sacrifice? If not, you should be especially grateful. Because if not for them, then who?
 
-Whatever your political bent: 
+Whatever your political bent:
 
 ## Get out there and thank a veteran!
 

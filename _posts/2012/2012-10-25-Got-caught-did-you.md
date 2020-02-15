@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Got caught, did you?
+title: `Got caught, did you?`
 date: 2012-10-25 18:47:40 UTC
-updated: 2012-10-25 18:47:40 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: higher-education
 ---

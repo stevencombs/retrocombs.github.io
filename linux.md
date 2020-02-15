@@ -4,7 +4,7 @@ title: Linux
 permalink: /linux
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/linux.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/linux.svg" width="20%" />
 
 While I'm a huge [Apple fan](/apple.html), I also believe Linux to be a viable alternative for both new and old computers. It also is the OS behind many of my [physical computing projects](http://www.stevencombs.com/embedded.html). As you will find below, I tend to try multiple distributions (versions) of Linux and have yet to settle on a single one. That’s part of the fun.
 

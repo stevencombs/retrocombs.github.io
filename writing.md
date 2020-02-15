@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/writing.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/writing.svg" width="20%" />
 
 I've been a writer most of my adult life. In the mid and late 1990s, my focus was on  non-fiction. During the 90s, I used the ubiquitous Microsoft Word and Aldus Pagemaker for my writing. Now, I use Ulysses (for macOS and iOS) and Markdown (not software, but a markup language for quick and distraction free writing) for large writing projects.
 

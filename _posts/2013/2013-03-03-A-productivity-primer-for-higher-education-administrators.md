@@ -2,7 +2,8 @@
 layout: post
 title: A productivity primer for higher education administrators
 date: 2013-03-03 23:49:23 UTC
-updated: 2013-03-03 23:49:23 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: higher-education
 ---

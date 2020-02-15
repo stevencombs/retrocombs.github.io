@@ -2,6 +2,8 @@
 layout: post
 title: Create bootable USB drive on Mac OS X
 date: 2009-05-28 01:01:01
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: apple
 ---
@@ -47,7 +49,7 @@ __NOTE:__ Not all USB drives are created equally. Some will function as bootable
 
 * In the _Terminal_, type: `sudo umount /dev/disk2`
 * Enter the system password and press ↩.
-* DO NOT PHYSICALLY REMOVE THE DRIVE! 
+* DO NOT PHYSICALLY REMOVE THE DRIVE!
 
 # Burn the image to the USB drive
 

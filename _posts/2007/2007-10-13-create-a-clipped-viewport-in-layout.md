@@ -2,6 +2,8 @@
 layout: post
 title: "Create a clipped viewport in LayOut"
 date: "2007-10-13"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 category: models
 ---
 

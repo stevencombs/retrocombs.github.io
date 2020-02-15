@@ -2,6 +2,8 @@
 layout: post
 title: "Post to a Jekyll blog from an iPad"
 date: "2014-07-01"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: web
 ---

@@ -4,7 +4,7 @@ title: Code
 permalink: /code
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/code.svg" />
+<img class="category" src="http://www.stevencombs.com/images/design/code.svg" width="20%" />
 
 I dabble in code. I am not an expert and users of any code related project I share should do so at their own risk. My projects are sure not to be bug tested or optimized in any way. Did I mention I dabble in code?!? You have been warned.
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Indiana legislation all faculty should understand
+title: `Indiana legislation all faculty should understand`
 date: 2013-01-15 19:55:02 UTC
-updated: 2013-01-15 19:55:02 UTC
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: higher-education
 ---

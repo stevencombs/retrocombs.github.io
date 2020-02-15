@@ -2,6 +2,8 @@
 layout: post
 title: "Keystrokes to create typographic symbols on a Mac"
 date: "2014-07-12"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: apple
 ---
@@ -12,10 +14,10 @@ To help me out, I created the quick reference below. It includes the typographic
 
 I only include symbols I use frequently. The list is formatted as a quick reference clip-out. Simply print out this post, cut along the exterior lines and place somewhere next to your computer keyboard or monitor.
 
-**OS X Typographic Symbol Keyboard Reference**  
+**OS X Typographic Symbol Keyboard Reference**
 
-**Key:  
-⌥ = option  
+**Key:
+⌥ = option
 ⇧ = shift**
 
 | Symbol | Keystroke |
@@ -37,7 +39,7 @@ I only include symbols I use frequently. The list is formatted as a quick refere
 | ’      | ⌥ ⇧ \]   |
 | – <sup>(en-dash)</sup> | ⌥ \-   |
 | — <sup>(em-dash)</sup> | ⌥ ⇧ \- |
-  
+
 Did I miss a commonly used symbol that I should include? Leave me a comment and let me know. It is an easy task to include it and together we can make a better reference.
 
 [1]: http://www.stevencombs.com/apple/2009/09/03/use-the-os-x-onscreen-keyboard-create-symbols.html

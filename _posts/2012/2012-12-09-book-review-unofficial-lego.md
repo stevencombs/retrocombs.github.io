@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Book Review – The Unofficial LEGO Builder’s Guide 2nd Edition
+title: `Book Review – The Unofficial LEGO Builder’s Guide 2nd Edition`
 date: 2012-12-09 12:12:12
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: true
 category: lego
 ---
@@ -17,7 +19,7 @@ So after the click below, let's take a look at the new edition, discuss whether 
 ## Book Information
 
 __Title:__ The Unofficial LEGO Builder's Guide: Second Edition
-__Publication Date:__ November 2012  
+__Publication Date:__ November 2012
 __Author:__ Allan Bedford
 __Illustrator:__ Eric Albrecht
 __Publisher:__ No Starch Press
