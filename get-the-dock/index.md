@@ -67,7 +67,7 @@ A: Not really. I put this together from my odds and ends bin. You might check cu
 
 **Q: What if I can't find a part I need in my stash?**
 
-A: I highly recommend Bricklink ([http://www.bricklink.com][http://www.bricklink.com/]) where you can purchase single elements! This is where I usually get pieces to finish my MOCs. The other alternative is to improvise. Look for other parts that serve the same purpose. That's the fun of LEGO. And you may just find that you version is better than mine! If you do, send me an [e-mail][mailto:steven.combs@gmail.com] with a pic and share your idea.
+A: I highly recommend [Bricklink](http://www.bricklink.com) where you can purchase single elements! The other alternative is to improvise. Look for other parts that serve the same purpose. That's the fun of LEGO. And you may just find that you version is better than mine! If you do, send me an [email](steven.combs@gmail.com) with a pic and share your idea.
 
 ## Errata
 
