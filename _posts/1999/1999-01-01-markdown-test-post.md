@@ -2,6 +2,7 @@
 layout: post
 title: Markdown Test Post
 date: 1999-01-01 19:19:19
+author: {{ site.name }}
 comments: false
 category: web
 ---
