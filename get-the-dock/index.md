@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Instructions for my LEGO Rotating iPhone Dock
+permalink: get-the-dock
 category: lego
 comments: true
 ---
