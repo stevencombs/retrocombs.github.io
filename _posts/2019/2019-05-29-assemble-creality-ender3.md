@@ -6,6 +6,13 @@ email: 'steven.combs@gmail.com'
 date: 2019-05-29
 category: 3dprinting
 comments: 'yes'
+tags:
+  - creality
+  - ender3
+  - 3dprinting
+  - 3dprinter
+  - setup
+  - assembly
 ---
 
 I purchased my first 3D Printer over the 2019 Memorial Day weekend. I've been researching 3D printers for over 18 months and found it difficult to choose a brand and model. I have been searching for a printer that meets specific criteria:
@@ -20,7 +27,7 @@ I purchased my first 3D Printer over the 2019 Memorial Day weekend. I've been re
 * Well reviewed
 * And of course, produces good prints
 
-While browsing 3D printers at Amazon, I found the [Creality Ender-3 for $229 with a $40 coupon code](https://amzn.to/2Wt0i7O). It met my first criteria. This was not the Ender-3 Pro. However, that model was currently more than $200 and after reading comparisons of the two, there wasn't enough value in the Pro version to justify the extra cost. The Ender-3 also met all of my criteria. The remainder of this post will be my experience assembling the printer. It will be in journal format with times listed to give you an idea of how long each step took. 
+While browsing 3D printers at Amazon, I found the [Creality Ender-3 for $229 with a $40 coupon code](https://amzn.to/2Wt0i7O). It met my first criteria. This was not the Ender-3 Pro. However, that model was currently more than $200 and after reading comparisons of the two, there wasn't enough value in the Pro version to justify the extra cost. The Ender-3 also met all of my criteria. The remainder of this post will be my experience assembling the printer. It will be in journal format with times listed to give you an idea of how long each step took.
 
 Let's get to it:
 
@@ -40,7 +47,7 @@ First thing I noticed, and a bit disappointing, is the Ender-3 does not include 
 ![Image of build plate](/images/posts/2019-05-29-assemble-creality-ender3/03.jpg)
 
 # 11:27
-Not sure which items to pull out of the box first, so started with the printer control assembly. 
+Not sure which items to pull out of the box first, so started with the printer control assembly.
 
 ![First package to remove](/images/posts/2019-05-29-assemble-creality-ender3/04.jpg)
 

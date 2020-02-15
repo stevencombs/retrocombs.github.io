@@ -1,10 +1,18 @@
 ---
 layout: post
 title: 'Three week thoughts on the Google Pixel'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: 'November 13, 2016'
 comments: 'yes'
 categories:
   - android
+tags:
+  - google
+  - pixelphone
+  - phone
+  - android
+  - review 
 ---
 
 The new Google Pixel smartphone arrived on my door step October 21, 2016; a day after the official release. I preordered the  phone the next day. As Google made the phone demonstration at their October 4 event (see video below), I knew it was time to replace my aging Nexus 6 phone with the new Google Pixel phone.
@@ -36,7 +44,7 @@ This is a rather long post. Below is a table of contents you can use to jump to 
 13. [Final thoughts][16]
 
 # Form factor
-The move from the Nexus 6's six inch screen to the Pixel's smaller five inch screen has made me happy. While I enjoy the Nexus 6 screen, the form factor is just too large to carry comfortably unless I wear a jacket. 
+The move from the Nexus 6's six inch screen to the Pixel's smaller five inch screen has made me happy. While I enjoy the Nexus 6 screen, the form factor is just too large to carry comfortably unless I wear a jacket.
 
 ![][image-2]
 
@@ -60,7 +68,7 @@ Other Android devices I use often feel laggy. The Pixel response is instantaneou
 # Ports
 The Pixel has a USB-C port for charing and data sync. Like the iPhone lightning port, it doesn't matter which way you attach the adapter. Unlike the Apple lightning port, many devices use USB-C ports. Google includes two USB-C cables.
 
-> My Apple MacBook uses USB-C to charge. I can use the same charger for both the MacBook and the Pixel – something I cannot  do with an iPhone. That just seems odd to me. In this way, my Pixel is more compatible with my Apple computer than an iPhone. 
+> My Apple MacBook uses USB-C to charge. I can use the same charger for both the MacBook and the Pixel – something I cannot  do with an iPhone. That just seems odd to me. In this way, my Pixel is more compatible with my Apple computer than an iPhone.
 
 My car, a [2016 Honda Civic Touring edition][19], includes Android Auto. The USB-C cable, rather than the micro-USB, is more convenient and the connection between the Pixel and the Civic's head unit is more reliable.
 

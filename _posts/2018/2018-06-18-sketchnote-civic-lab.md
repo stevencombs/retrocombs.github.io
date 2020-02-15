@@ -3,8 +3,14 @@ layout: post
 title: 'Sketchnote: Civic Lab Training'
 date: '2018-06-18'
 comments: 'yes'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 categories:
   - art
+tags:
+  - sketchnotes
+  - civiclab
+  - illustration
 ---
 
 The [CivicLab][1] provided our college with some excellent community engagement skills today. A quick description is below:
@@ -15,8 +21,8 @@ This session was ripe for sketchnotes and a facilitator, who is familiar with my
 
 # Sketchnote
 
-**Sketchnote Type** Training  
-**Journal Used** [Rhodia Black Webnotebook inch Dot Grid][2] - I continue to love this journal and it is my default for all notes, not just sketchnotes.  
+**Sketchnote Type** Training
+**Journal Used** [Rhodia Black Webnotebook inch Dot Grid][2] - I continue to love this journal and it is my default for all notes, not just sketchnotes.
 **Pen(s) Used** [Pilot Precise V5 RT Deco Collection][3] - You must check these pens out if you like a great writing instrument with some barrel style!
 
 ![][image-1]

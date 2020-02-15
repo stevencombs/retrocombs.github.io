@@ -1,10 +1,18 @@
 ---
 layout: post
 title: 'Book Review - The LEGO Christmas Ornaments Book'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: 'December 1, 2016'
 comments: 'yes'
 categories:
   - lego
+tags:
+  - lego
+  - book
+  - review
+  - christmas
+  - ornaments 
 ---
 
 In the past year, [No Starch Press][1] sent both [The LEGO Architect][2] and [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3] for a review. On October 6, 2016, I also found Chris McVeigh's new book, [The LEGO Christmas Ornament Book: 15 Designs to Spread Holiday Cheer][4] in my mailbox. I mentioned in my [Geeky LEGO Crafts: 21 Fun and Quirky Projects][5] review that I was a huge fan of McVeigh's style so I was thrilled to receive this new book.
@@ -26,7 +34,7 @@ This 7.25 x 7.25 inch book is hardbound with a matte cover. It includes 216 colo
 The traditionally bound book includes imaging inside the front and back covers to highlight the models inside. The glossy pages can make it difficult to review details while building; however,  that same gloss gives the book a premium feel while browsing. The book is the perfect size. It lends itself well to the tagline on the back of the book, "Merry Brickmas!" You can't help but want to browse and review this book.
 
 # Contents
-The book, while small in size, is packed with ideas to make your LEGO holiday celebration festive. The intro is short. A single contents page follows. Chris includes 15 builds ranging from heavily holiday influenced *Christmas Tree* and *Present* to more non-holiday related builds such as *Computer* and *Burger*. 
+The book, while small in size, is packed with ideas to make your LEGO holiday celebration festive. The intro is short. A single contents page follows. Chris includes 15 builds ranging from heavily holiday influenced *Christmas Tree* and *Present* to more non-holiday related builds such as *Computer* and *Burger*.
 
 ![][image-3]
 
@@ -43,7 +51,7 @@ The book ends without fanfare and includes a brief blurb about Chris and a link 
 The instruction pages, the majority of the book, provide all the information necessary to create each model. A materials list before each model, and opposite a completed model photograph, assists in the identification of the elements you will need for each build. Build steps are numbered to keep you on track. When necessary, the instructions include arrows to ensure correct placement of elements. I had no trouble following each step and enjoyed the colorful and visual style of the instructions.
 
 # Final Recommendation
-This is the perfect holiday book to purchase for yourself or as a gift for your favorite LEGO fan. Its smaller size makes it an excellent stocking stuffer. That is rare in the world of oversized and tome-like LEGO books. 
+This is the perfect holiday book to purchase for yourself or as a gift for your favorite LEGO fan. Its smaller size makes it an excellent stocking stuffer. That is rare in the world of oversized and tome-like LEGO books.
 
 Although it does make a great gift, I recommend [you grab a copy][12] before Christmas and build your way through the pages. This is a great way to begin your Christmas celebration. The models you build will look nice hung on your Christmas tree or next to Santa's milk and cookies.
 

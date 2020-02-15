@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Field Notes Sweet Tooth memo books review'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: 'October 09, 2016'
 comments: 'yes'
 categories:
@@ -17,7 +19,7 @@ While I enjoy the Rhodia notebook's 5.5 x 8.3 inch size for meetings, it's too l
 In this post I review the [Field Notes Sweet Tooth 48 page memo books][8].
 
 ![][image-1]
- 
+
 # Pretty colors
 The first thing you notice about the Sweet Tooth pack are the colors. Field Notes describes them as "candy colors." Unlike [plain Field Notes][9], the Sweet Tooth memo books come in orange (Tangy Orange), blue (Blu-Raspberry) and yellow (Banana Split) as shown in the image below.
 
@@ -61,7 +63,7 @@ Lastly, each page is perforated. Each page can be torn out of the memo book to s
 # It's a culture of products
 As I research Field Notes, I find that much like [Moleskine][11], there's a brand culture. The Field Notes culture is fun to follow and I recommend you visit the [Field Notes web site][12] to see what I mean.
 
-Each quarter of the year, Field Notes releases a new themed notebook. As of this writing, the fall 2016 notebook is Lunacy, which is a moon themed notebook. See their roll out, including a snazzy video, [here][13]. "It's just a phase they are going through." Nice! 
+Each quarter of the year, Field Notes releases a new themed notebook. As of this writing, the fall 2016 notebook is Lunacy, which is a moon themed notebook. See their roll out, including a snazzy video, [here][13]. "It's just a phase they are going through." Nice!
 
 I can see why there are Field Note enthusiasts who never miss a quarterly release. Field Notes makes it easy for these enthusiasts and provides a yearly subscription plan. Below is a description:
 

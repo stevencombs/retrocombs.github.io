@@ -7,6 +7,11 @@ email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - gadgets
+tags:
+  - lcd
+  - projector
+  - review
+  - auking 
 ---
 
 A couple of years ago, we received the [Star Shower Window Wonderland](https://amzn.to/2J6VVHA) as a gift from family members who knew our love of holiday decorations. We used this little single-use projector for both Halloween and Christmas. It served us faithfully by projecting several built-in holiday themed animated scenes at very low lumens (a measure of brightness for the projector).
@@ -68,7 +73,7 @@ Whew, that's a mouthful!
 ## The Bad (But again, it's a $50 projector!):
 
 * Low lumens – you will not be able to watch video in anything but a dark room and the more dark, the better
-* Focus – can't focus the entire screen to perfection 
+* Focus – can't focus the entire screen to perfection
 * Keystone control - flimsy and has a tendency to shift if at high angles
 * Screen resolution (800x480) – "supports 1080p" means you can feed it that resolution, but you will never see it
 * Remote control – does not recognize remote 100% of the time
@@ -78,15 +83,15 @@ Whew, that's a mouthful!
 * Firmware – could not find a site online to find updates even though there is an option in the menus
 
 ## Summary:
-While you can find faults with this projector, if you set your expectations where they should be and remember "THIS IS A $50 LCD PROJECTOR!" You will not be disappointed. You may even find yourself having a blast once you understand what you can do with this portable projector. 
+While you can find faults with this projector, if you set your expectations where they should be and remember "THIS IS A $50 LCD PROJECTOR!" You will not be disappointed. You may even find yourself having a blast once you understand what you can do with this portable projector.
 
 If you need a home theater projector to display your favorite movies in pristine color, look elsewhere. But for hacking the holidays, sharing video in a dark room, group video gaming, and the occasional family movie night outdoors, I don't think you can get this much fun for $50 in a projector this size.
 
 So would I recommend this projector? Oh yeah! With Amazon's generous return policy and the low cost to entry, I don't think a purchase will be a wrong decision in the long run. Even if you don't like it, pack it up and give it to the kids. They'll surely enjoy it!
 
-If you have a bit more budget, you might want to check out this next level up: 
+If you have a bit more budget, you might want to check out this next level up:
 
-[VANKYO Leisure 510 HD Movie Projector with 4200 Lux, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag](https://amzn.to/2oN2IQ4) 
+[VANKYO Leisure 510 HD Movie Projector with 4200 Lux, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag](https://amzn.to/2oN2IQ4)
 
 This make and model has a higher resolution and more lumens for about $160. I almost sprung for this one, but was lured to the low cost of the AuKing (i.e. I'm frugal!).
 

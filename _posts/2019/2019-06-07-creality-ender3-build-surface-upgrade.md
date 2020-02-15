@@ -6,6 +6,12 @@ email: 'steven.combs@gmail.com'
 date: 2019-06-08
 category: 3dprinting
 comments: yes
+tags:
+  - 3dprinting
+  - creality
+  - ender3
+  - build
+  - surface 
 ---
 
 I mentioned in my [last post][printer-setup] that my new Creality Ender-3 3D printer build surface is warped. I blame myself because when I removed fresh prints, I would often bend the build surface slightly to remove the new print. I learned quickly, DON'T DO THAT, STUPID! Because my build surface seems irreparably damaged, I ordered the replacement below for around $20.

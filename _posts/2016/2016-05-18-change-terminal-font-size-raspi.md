@@ -1,25 +1,27 @@
 ---
 layout: post
 title: 'Change the Terminal font size on Raspberry Pi'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: 'May 18, 2016'
 comments: 'yes'
 categories:
   - raspberrypi
 ---
-  
+
 If you connect a Raspberry Pi to an HDMI monitor, you may find the terminal font size to be a bit small; especially if the monitor sits a foot or more away. This post demonstrates how to choose a different font size.
 
 # Steps
 
 * Boot the Raspberry Pi to the terminal (or console)
- 
+
 > If your Raspberry Pi boots to the desktop environment, exit the GUI to see the command prompt. You can use the `sudo raspi-config` utility to modify the boot options for the Raspberry Pi if you always want to boot to the command prompt.
- 
+
 * Type `sudo dpkg-reconfigure console-setup` at the prompt
 * If prompted, type the Raspberry Pi password - the *Package configuration* application will appear as shown in the image below
 
 > ![Package Configuration - Configuring console-setup](http://www.stevencombs.com/images/posts/terminal-font-size-1.png)
- 
+
 *  If not the default, select the `UTF-8` option and hit ↩ - the screen below will display
 
 > ![Package Configuration - Configuring console-setup](http://www.stevencombs.com/images/posts/terminal-font-size-2.png)

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'fish and C.H.I.P.s'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: 'August 13, 2016'
 comments: 'yes'
 categories:
@@ -45,7 +47,7 @@ The terminal will respond with the following prompt:
 ```
 Welcome to fish, the friendly interactive shell
 Type help for instructions on how to use fish
-chip@pocketchip ~> 
+chip@pocketchip ~>
 ```
 
 Use `fish` and issue *Terminal* commands. Give it a shot and type the `ls` command. As shown in the image below and on your own PocketC.H.I.P., the list is now color coded and syntax highlighting is in effect. The effect is really great on the PocketC.H.I.P. screen.

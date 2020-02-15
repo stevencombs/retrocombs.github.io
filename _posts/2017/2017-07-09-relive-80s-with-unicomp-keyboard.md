@@ -3,8 +3,17 @@ layout: post
 title: 'Relive the 1980s with a Unicomp Keyboard'
 date: 'July 9, 2017'
 comments: 'yes'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 categories:
   - gadgets
+tags:
+  - keyboard
+  - unicomp
+  - mechanical
+  - ibm
+  - 1980s
+  - clickity
 ---
 
 I’m a keyboard nerd. I enjoy trying different keyboards with different key mechanisms. I have fond memories of an IBM keyboard I used as a student worker at Murray State University back in the 1980s. While I wasn’t as obsessed with keyboards then, to the point of remembering their model numbers, I believe the keyboard in the image below was the first keyboard I ever enjoyed using.
@@ -20,7 +29,7 @@ My fond memories of this keyboard are two fold. First, it was the first computer
 <iframe src="https://player.vimeo.com/video/224860160" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <a href="https://vimeo.com/224860160">Unicomp Model M clickity-clack demo</a> from <a href="https://vimeo.com/user20097235">Steven Combs</a> on <a href="https://vimeo.com">Vimeo</a>.
 
-Isn't that a great sound (although the typing is a bit of a mess)? 
+Isn't that a great sound (although the typing is a bit of a mess)?
 
 # My search for a modern replacement
 For the past several years, I’ve been trying to find a keyboard that will bring back those fond memories of the “clickity-clack” keys. The list below shares several:

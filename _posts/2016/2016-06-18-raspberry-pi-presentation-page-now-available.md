@@ -1,6 +1,8 @@
 ---
 layout: "post"
 title: "Raspberry Pi presentation page now available"
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: "2016-06-18 13:21"
 comments: no
 categories:

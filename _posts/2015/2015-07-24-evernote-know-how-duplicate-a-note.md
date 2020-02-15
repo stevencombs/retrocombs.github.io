@@ -2,6 +2,8 @@
 layout: post
 title: 'Evernote Know How - Duplicate a note'
 date: '2015-07-24 19:22'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - productivity

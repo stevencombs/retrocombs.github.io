@@ -2,12 +2,14 @@
 layout: post
 title: IKEA FULLFÖLJA gel pen
 date: '2015-07-03 11:00'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - art
 ---
 
-Today I present a pen review that quite probably no one saw coming. You can't purchase this pen at [JetPens](http://www.jetpens.com). You won't find it at your local discount store and you won't even find it at [Pen Chalet](http://www.penchalet.com). Nope, for this one, you need stop by the home of Swedish design; [IKEA](http://www.ikea.com). 
+Today I present a pen review that quite probably no one saw coming. You can't purchase this pen at [JetPens](http://www.jetpens.com). You won't find it at your local discount store and you won't even find it at [Pen Chalet](http://www.penchalet.com). Nope, for this one, you need stop by the home of Swedish design; [IKEA](http://www.ikea.com).
 
 On a recent trip to IKEA–West Chester, and after engorging myself on a Swedish meatball lunch, I browsed the home office area and noticed stationary products. My eye was then drawn to the view shown below.
 
@@ -72,7 +74,7 @@ I began to capture notes for this blog post. The more I used it, the more my han
 ![](https://lh4.googleusercontent.com/-ZyRxSK2mEaw/VZWfXNQ_YGI/AAAAAAABlnE/mXoLkyTSD1c/w705-h965-no/IMG_20150702_162434.jpg)
 
 # Ink quality
-Despite the horrible writing experience, here's a surprise. This pen has amazing ink! I really like the ink in this pen. My guess is the thickness of the line is either a 0.5mm, 0.7mm or somewhere in between. Ink is dark and black on the page. Line thickness is consistent and there was rarely a break in the line. 
+Despite the horrible writing experience, here's a surprise. This pen has amazing ink! I really like the ink in this pen. My guess is the thickness of the line is either a 0.5mm, 0.7mm or somewhere in between. Ink is dark and black on the page. Line thickness is consistent and there was rarely a break in the line.
 
 Despite my apprehension toward the ball point, the pen placed ink on the page with aplomb. Writing was smooth with nary a snag on the paper. It would seem that the Italian roots of this pen led to an excellent ink supplier. The pen ink is more consistent than the [JinHao](http://www.stevencombs.com/art/2015/05/03/my-first-fountain-pen-jinhao-250.html) ink I shared in an earlier post.
 
@@ -85,7 +87,7 @@ Go over a line more than once will always result in bleed as shown in the image 
 My wife characterized the ink by saying, "It is wet." This is spot on. The pen does leave a lot of ink compared to the Pilot pens we both use daily. Still, she summed up by saying she likes the pen for the short marks she makes while working through her to do list.
 
 # Recommendation
-The IKEA FULLFÖLJA gel pen could be something special. The overall experience is harmed only by the barrel. If IKEA were to utilize a heavier barrel material and increase the circumference a tad, this could be a good pen. Maintain the price point and even pen snobs will stop by to purchase. 
+The IKEA FULLFÖLJA gel pen could be something special. The overall experience is harmed only by the barrel. If IKEA were to utilize a heavier barrel material and increase the circumference a tad, this could be a good pen. Maintain the price point and even pen snobs will stop by to purchase.
 
 Given the amount of wood IKEA utilizes, it would be interesting for IKEA to design a pen with a wood barrel. Pair it with the excellent stainless still tip and ink found in this pen and we would have a truly unique pen. As it is, we have a basic, throw away pen.
 

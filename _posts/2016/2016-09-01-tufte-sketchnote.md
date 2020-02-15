@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Sketchnote: Edward Tufte seminar'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: 'September 1, 2016'
 comments: 'yes'
 categories:
@@ -20,8 +22,8 @@ As for the session; it is recommended. It’s a bit pricey, but you receive some
 
 # Sketchnote
 
-**Sketchnote Type** Presentation  
-**Journal Used** [Rhodia Black Webnotebook inch Dot Grid][3]  
+**Sketchnote Type** Presentation
+**Journal Used** [Rhodia Black Webnotebook inch Dot Grid][3]
 **Pen(s) Used** [Pilot Precise V5 RT][4] and [Staedtler Triplus Fineliner][5] yellow
 
 ![][image-1]

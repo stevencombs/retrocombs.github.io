@@ -2,6 +2,8 @@
 layout: post
 title: 'Goodbye TextExpander, hello Dash'
 date: '2015-09-16'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - apple

@@ -2,12 +2,21 @@
 layout: post
 title: 'Remove previous recipients from Apple Mail'
 date: 'July 31, 2017'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - apple
+tags:
+  - apple
+  - email
+  - recipients
+  - tip
+  - mac
+  - macos 
 ---
 
-Here's a quick tip for those who may be battling the "previous recipients issue" in Apple Mail. For those not familiar with the issue, let me give you a quick example. 
+Here's a quick tip for those who may be battling the "previous recipients issue" in Apple Mail. For those not familiar with the issue, let me give you a quick example.
 
 > You compose a message in Apple Mail and send it to a recipient. You then later find that the recipient prefers future messages sent to a different email address. When you compose your next message to the recipient, the old address appears as you start to address the new email. You enter the new address; however, the third and subsequent times you compose a message to the recipient, autocomplete shows both addresses. If you are not careful, you will repeat your original error and select the non-preferred address. How do you get rid of the old address?
 

@@ -2,9 +2,18 @@
 layout: post
 title: 'My Android TV remote chart'
 date: '2019-02-22'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - android
+tags:
+  - android
+  - androidtv
+  - remotecontrols
+  - remote
+  - chart
+  - features
 ---
 
 In [episode 0012][EP-0012] of my podcast, [Pixel Power Podcast][PPP], I share my experiences with several Android TV remotes. While preparing for the episode, I created a [Google Sheet](https://sheets.google.com) to compare the features of each remote I tried. When I completed the sheet I thought, "this might be useful for others." After completing the comparison sheet, I provided a link in the [show notes][SN-0012].

@@ -2,12 +2,14 @@
 layout: post
 title: 'Bullet Review: New Trent Arcadia dual port AC charger'
 date: 'February 26, 2016'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - gadgets
 ---
 
-[New Trent][1] once again provided me with an opportunity to review a new product; the [Arcadia dual port AC charger][2]. When I received an email that the product was available for review, I must admit, my decision to review the charger was a bit selfish. I could sure use a free wall wart for the brand new [nVidia Shield K1 Tablet][3] I received over the holidays. 
+[New Trent][1] once again provided me with an opportunity to review a new product; the [Arcadia dual port AC charger][2]. When I received an email that the product was available for review, I must admit, my decision to review the charger was a bit selfish. I could sure use a free wall wart for the brand new [nVidia Shield K1 Tablet][3] I received over the holidays.
 
 nVidia does not include a charger as a cost savings measure. An extra charger to throw in my travel bag would be just the ticket. Let's see if this charger punches that ticket. Here's my bullet review:
 
@@ -46,42 +48,42 @@ Below are images of the New Trent Arcadia dual port AC charger. Comments are bel
 ![Back of box][image-2]
 The back of the charger box. Typical New Trent box quality. Accurately describes what you are getting.
 
----- 
+----
 
 ![Opening box][image-3]
 Opening the box to see what's inside.
 
----- 
+----
 
 ![Contents][image-4]
 Inside we get warranty card and the charger protected by a piece of molded plastic. No case and no instructions. You should be able to figure out how to use it.
 
----- 
+----
 
 ![Removal][image-5]
 Time to free the charger from it's protective shell.
 
----- 
+----
 
 ![Protective wrap][image-6]
 Like most gadgets, the device comes in protective wrap that you must peel off.
 
----- 
+----
 
 ![Prong down][image-7]
 Fold the charger outlet prongs into the unit for easy and compact storage.
 
----- 
+----
 
 ![Prongs up][image-8]
 Prongs are up and ready for a charge.
 
----- 
+----
 
 ![Unit][image-9]
 The charger comes with two USB ports. One for a tablet or large smartphone (2.4 amps) and one for a small smartphone (1 amp).
 
----- 
+----
 
 [1]:	http://www.newtrent.com/
 [2]:	http://www.amazon.com/gp/product/B00M7F15QO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00M7F15QO&linkCode=as2&tag=stevenccom-20&linkId=ZBKBNNRCRTWAGJAL

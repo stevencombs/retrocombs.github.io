@@ -3,8 +3,15 @@ layout: post
 title: 'My preparation for NaNoWriMo 2017'
 date: 'October 22, 2017'
 comments: 'yes'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 categories:
   - writing
+tags:
+  - nanowrimo
+  - preparation
+  - writing
+  - words 
 ---
 
 During February 2017, I announced that I will write my first work of fiction. This became official in a [blog post][1] on this site and on Facebook to my friends and family. This announcement was designed to keep me motivated. And it did! Several friends have asked about my progress and the last thing I want to say is, “Oh, I gave up on that project.” I am all in on this goal. I’ve spend the last eight months preparing for my novel writing journey next month (November).
@@ -16,7 +23,7 @@ If you are not familiar with NaNoWriMo, [visit their site][4] to learn more. If 
 
 > On November 1, participants begin working towards the goal of writing a 50,000-word novel by 11:59 PM on November 30. Valuing enthusiasm, determination, and a deadline, NaNoWriMo is for anyone who has ever thought about writing a novel.
 
-NaNoWriMo was just the accountability and gamification nudge I needed. There are opportunities to post your intent to publish, find a writing partner, join local groups, participate in a write-in, gauge progress and win “stuff.” That is, if you meet the 50,000 words in a month challenge. 
+NaNoWriMo was just the accountability and gamification nudge I needed. There are opportunities to post your intent to publish, find a writing partner, join local groups, participate in a write-in, gauge progress and win “stuff.” That is, if you meet the 50,000 words in a month challenge.
 
 I have been aware of NaNoWriMo since 2011, the year I created my account, but I have yet to participate. Given my lack of history with fiction, I wasn't quite sure how to begin; however, a wonderful book set me on the right course.
 
@@ -39,7 +46,7 @@ I've had several ideas over the years and even started one science fiction book,
 Thanks to Denise's book and her assignments, what started as a "kinda interesting" premise, slowly turned into an intriguing conspiracy theory story that takes place in the 1980s. Through further development, I became more excited about my story and couldn't wait to start writing. However, there was still much work to do. It was time to research.
 
 # Research
-Everything I read about fiction writing suggests I write about a genre and theme I know and love; however, while there are many components of my story that I am very familiar with, my historical setting means it is important that I get the facts correct. Wikipedia is my go to start point for research. I then take deeper dives using a Google Search, a trip to the library, or access the many scholarly journals I have access to as part of my day job. Accuracy is important, but in my alternative history narrative, it isn't critical. I can bend the timeline in my own world. 
+Everything I read about fiction writing suggests I write about a genre and theme I know and love; however, while there are many components of my story that I am very familiar with, my historical setting means it is important that I get the facts correct. Wikipedia is my go to start point for research. I then take deeper dives using a Google Search, a trip to the library, or access the many scholarly journals I have access to as part of my day job. Accuracy is important, but in my alternative history narrative, it isn't critical. I can bend the timeline in my own world.
 
 I do want the timeline to be familiar to the reader and ensure they feel comfortable living in it for 50,000 or so words. My research presented new ideas and opportunities for my story. I’m not sure I could have written my particular book without spending much time conducting research. This research also ensured that my story flows up until the eventual climax and that the reader ultimately says, “I see how it all fits now. That was a cool ride!”
 
@@ -48,19 +55,19 @@ As I captured notes in my Reporter's Notebook, I decided I would need an electro
 # Selecting a writing tool
 Scrivener is a favorite application among authors. I own a copy and several years ago I used it to begin my previously mentioned and abandoned book. I admittedly didn't know how to use the software and found Scrivener too daunting. It had many cool features but, for me, it was lacking one significant feature by default; Markdown. This is not a Markdown post so if you are not familiar with this markup language, I recommend you check out the [Wikipedia Markdown entry][8] for a quick summary.
 
-I use Markdown daily at work. I also use Markdown to write every blog post I create, like this one. I've used several Markdown apps over time, [Byword][9], [MultiMarkdown Composer][10], [Atom][11] and [nvALT][12]. Each has a unique feature that you may find perfect for your use. I still use Atom and Byword on occasion; however, there is one tool that I simply adore and am not sure how I could write without. 
+I use Markdown daily at work. I also use Markdown to write every blog post I create, like this one. I've used several Markdown apps over time, [Byword][9], [MultiMarkdown Composer][10], [Atom][11] and [nvALT][12]. Each has a unique feature that you may find perfect for your use. I still use Atom and Byword on occasion; however, there is one tool that I simply adore and am not sure how I could write without.
 
 ## Ulysses is my writing tool
-I am a heavy user of Ulysses on my MacBook and my Mac mini at work. This is not a review of Ulysses, but I encourage you to check out [their web site][13] to learn why this tool is popular among writers and Markdown fans. A word of caution; ignore the reviews you find on the iTunes and App Stores. Many users are angry that the pricing model changed to a subscription and are unjustly writing a software review based on price alone. 
+I am a heavy user of Ulysses on my MacBook and my Mac mini at work. This is not a review of Ulysses, but I encourage you to check out [their web site][13] to learn why this tool is popular among writers and Markdown fans. A word of caution; ignore the reviews you find on the iTunes and App Stores. Many users are angry that the pricing model changed to a subscription and are unjustly writing a software review based on price alone.
 
 While I too did not like the change at first, over time I found that my use of this application was well worth the cost when I consider the boon to my productivity, the enhanced writing experience, and the fact that the cost also includes the iOS version (which I have installed on my iPad Pro).
 
 During the planning phase of my book, I used Ulysses to capture ideas, organizing research, [create timelines][14], draft character profiles, journal, experiment with dialog and identify gaps using smart filters and tags. I am a planner and Ulysses has made this process efficient and fun. I cannot imagine doing any of this pre-work in a tool such as Microsoft Word.
 
 ## Supplement planning with Google Docs
-One of the limitations (or features) of Ulysses is that it prefers an Apple ecosystem and many capabilities are not available if you don’t use iCloud to sync your work across iOS and macOS devices. Additionally, the Ulysses app is only available on macOS and iOS. 
+One of the limitations (or features) of Ulysses is that it prefers an Apple ecosystem and many capabilities are not available if you don’t use iCloud to sync your work across iOS and macOS devices. Additionally, the Ulysses app is only available on macOS and iOS.
 
-I use many different devices. I have computers with macOS, ChromeOS and Linux. I also use both iOS (iPad Pro) and Android (Google Pixel) mobile devices. Because I don't always have an Apple device with me and I do want to always have access to my writing, I decided to supplement my use of Ulysses with Google Drive syncing and Google Applications to ensure I have anywhere access planning files. 
+I use many different devices. I have computers with macOS, ChromeOS and Linux. I also use both iOS (iPad Pro) and Android (Google Pixel) mobile devices. Because I don't always have an Apple device with me and I do want to always have access to my writing, I decided to supplement my use of Ulysses with Google Drive syncing and Google Applications to ensure I have anywhere access planning files.
 
 I keep a single Markdown document for idea creation synced on [Google Drive][15] between all devices. When I use an Android device, I fire up [iaWriter][16] on Android and quickly capture ideas that will sync back to each device and to Ulysses when I add an external folder (not an iCloud folder) to the Ulysses document library.
 
@@ -109,7 +116,7 @@ Has my self developed process prepared me for the month ahead? I believe so; how
 
 Have any other tips for me? Are you a seasoned NaNoWriMo writer? Leave me a comment below and share your ideas and feedback. I would love to read them; however, I may not get back to you in a timely manner. I kind of have a book to write!
 
----- 
+----
 *Are you a literary agent or publisher looking for a motivated, experienced writer with an intriguing genre story? Why not get in touch with me now and learn more. First draft will be finished by December 2017 with an anticipated final draft ready by in the second quarter of 2018.*
 
 [1]:	http://www.stevencombs.com/writing/2017/07/04/book-and-ulysses-timeline.html

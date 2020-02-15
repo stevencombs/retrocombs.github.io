@@ -6,6 +6,12 @@ email: steven.combs@gmail.com
 date: 2019-06-02T00:00:00.000Z
 category: 3dprinting
 comments: 'yes'
+tags:
+  - creality
+  - ender3
+  - 3dprinting
+  - 3dprinter
+  - setup
 ---
 
 In [my last post](https://www.stevencombs.com/3dprinting/2019/05/29/assemble-creality-ender3.html) I journaled my experience assembling my new [Creality Ender-3 3D printer](https://www.amazon.com/gp/product/B07H9T3H57/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=stevenccom-20&linkId=d9740afb59e8b51c16c9252eb48c07ba&language=en_US). As I mentioned in that post, I have never created a 3D print and have no idea what to do first. Luckily, a [video from 3D Printing Canada](https://youtu.be/N9aWBjbj3Ag) was just what the doctor ordered.

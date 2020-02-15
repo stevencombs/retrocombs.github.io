@@ -2,6 +2,8 @@
 layout: post
 title: "Bullet Review – NewTrent Airbender 3.0"
 date: '2015-07-04'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 category: apple
 comments: 'yes'
 ---
@@ -50,7 +52,7 @@ To review this upgrade, I will begin with the original pros and cons from the Ai
 
 * Comfortable key positions
 
-> Keys are in locations that make typing on this reduced keyboard both comfortable and accurate. Additional system keys on the top row make access to other features quick and easy. This really is a good keyboard and the switches seem tighter than the previous version. The updated keyboard alone makes this case worth the upgrade. 
+> Keys are in locations that make typing on this reduced keyboard both comfortable and accurate. Additional system keys on the top row make access to other features quick and easy. This really is a good keyboard and the switches seem tighter than the previous version. The updated keyboard alone makes this case worth the upgrade.
 
 * Easy transition from [Apple Keyboard](http://www.amazon.com/gp/product/B005DLDTAE/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005DLDTAE&amp;linkCode=as2&amp;tag=stevenccom-20)
 

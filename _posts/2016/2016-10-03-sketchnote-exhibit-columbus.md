@@ -1,20 +1,22 @@
 ---
 layout: post
 title: 'Sketchnote: Exhibit Columbus'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 date: 'October 3, 2016'
 comments: 'yes'
 categories:
   - art
 ---
 
-I created this sketchnote during the Friday, September 30th, 2016 morning session of [Exhibit Columbus][1]. The Exhibit Columbus website describes this event as, "an annual exploration of architecture, art, design, and community with programming that alternates between symposium and exhibition years. It seeks to celebrate Columbus’ design heritage, while making it relevant to new audiences." 
+I created this sketchnote during the Friday, September 30th, 2016 morning session of [Exhibit Columbus][1]. The Exhibit Columbus website describes this event as, "an annual exploration of architecture, art, design, and community with programming that alternates between symposium and exhibition years. It seeks to celebrate Columbus’ design heritage, while making it relevant to new audiences."
 
 The morning was ripe with images to include in a sketchnote. The morning session included five speakers (names listed on the sketchnote) with varying topics. My sketchnote is a mash-up of topics from the speakers. Each speaker's presentation could have been a separate page; however, I chose to capture a single page that includes interesting imaging or quotes.
 
 # Sketchnote
 
-**Sketchnote Type** Presentation  
-**Journal Used** [Rhodia Black Webnotebook inch Dot Grid][2]  
+**Sketchnote Type** Presentation
+**Journal Used** [Rhodia Black Webnotebook inch Dot Grid][2]
 **Pen(s) Used** [Pilot Precise V5 RT][3] and [Staedtler Triplus Fineliner][4] orange
 
 ![][image-1]

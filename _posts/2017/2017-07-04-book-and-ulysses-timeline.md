@@ -2,9 +2,18 @@
 layout: post
 title: 'I am writing a book, and sharing a Ulysses tip'
 date: 'July 4, 2017'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - writing
+tags:
+  - writing
+  - author
+  - ulysses
+  - nanowrimo
+  - timeline
+  - book 
 ---
 
 Today I announce, I am writing a book! Yes, [I’ve written books in the past][1], but this is my first piece of fiction. I've been working on the plot, scenes, characters, themes and research since February 20th, 2017; a day I noted in my writing journal. I use [Ulysses][2] for macOS to write, manage, and journal about, my book. I am preparing for NaNoWriMo in November and the story is a geeky piece of genre prose. Announcement DONE; now the tip.
@@ -77,7 +86,7 @@ I will not have all events from my book in this timeline before I begin writing 
 
 I hope other authors using Ulysses find this technique useful. If so, let me know in the comments below. I’d also be interested in your thoughts on how we can make this timeline even more useful.
 
----- 
+----
 *Are you a literary agent or publisher looking for a motivated, experienced writer with an intriguing genre story? Why not get in touch with me now and learn more. First draft will be finished by December 2017 with an anticipated final draft ready by in the second quarter of 2018.*
 
 [1]:	https://www.amazon.com/author/stevencombs

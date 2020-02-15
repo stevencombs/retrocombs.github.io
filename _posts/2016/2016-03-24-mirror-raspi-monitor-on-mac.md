@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Mirror a monitor connected to a Raspberry Pi on a Mac
+title: 'Mirror a monitor connected to a Raspberry Pi on a Mac'
 date: 2016-03-24
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
 comments: yes
 categories:
   - raspberrypi
@@ -124,13 +126,13 @@ If you need to stop (kill) the x11vnc server, use the command below to determine
 
 ```pgrep x11vnc```
 
-Raspian will display a three or four digit number. 
+Raspian will display a three or four digit number.
 
 Next type the command below:
 
 ```
 kill XXXX
-``` 
+```
 
 Where XXXX is the process number identified in the previous step. The x11vnc server will stop. If you need to restart, just enter the short shell script name: `./x11vnc.sh`
 
