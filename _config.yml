@@ -1,13 +1,26 @@
 ---
 
-title: "StevenCombs.com"
-logo: /images/design/steven-square.svg
-description: "Combsing through the minutia…"
+title: 'StevenCombs.com'
+logo: '/images/design/steven-square.svg'
+description: 'Thoughts from Steven B. Combs as he combsing through the minutia and shares his thoughts on tech, gadgets, Google, higher education, physical computing, and military topics.'
 show_downloads: true
 google_analytics: UA-1632774-9
-name: "Steven B. Combs"
-tagline: "Combsing through the minutia"
-url: "https://www.stevencombs.com"
+name: 'Steven B. Combs'
+email: 'steven.combs@gmail.com'
+tagline: 'Combsing through the minutia…'
+url: 'https://www.stevencombs.com'
+
+lsi: false
+comments: true
+highlighter: rouge
+
+themed:
+ highlight_color: '#3498db'
+ show_disclaimer: true
+
+tipue_search:
+  include:
+    pages: true
 
 exclude:
   - LICENSE
@@ -15,16 +28,3 @@ exclude:
   - README.md
   - .gitignore
   - .DS*
-
-lsi: false
-comments: true
-highlighter: rouge
-
-themed:
- email: steven.combs@gmail.com
- highlight_color: "#3498db"
- show_disclaimer: true
-
-tipue_search:
-  include:
-    pages: true
