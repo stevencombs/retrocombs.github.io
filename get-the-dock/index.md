@@ -1,9 +1,15 @@
 ---
 layout: pages
-title: Instructions for my LEGO Rotating iPhone Dock
+title: LEGO Rotating iPhone Dock and Instructions
 permalink: get-the-dock
 category: lego
 comments: true
+tags:
+  - lego
+  - dock
+  - iphone
+  - moc
+  - build 
 ---
 
 **As featured on:**
