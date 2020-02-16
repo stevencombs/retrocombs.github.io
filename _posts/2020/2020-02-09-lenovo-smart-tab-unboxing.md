@@ -22,7 +22,7 @@ Finding a good, nay adequate, Google-based tablet is not an easy proposition. Go
 
 ![Lenovo Smart Tab with Google Assistant](/images/posts/2020-02-09-lenovo-smart-tab.jpg)
 
-My search for a tablet took over three months because I had very specific requirements. In January of 2020, I believed I would not find a tablet to meet the majority of my requirements shown in the list below:
+My search for a tablet took over three months because I had very specific requirements. In January of 2020, I believed I would not find a tablet to meet the majority of my require (see video below) to purge iOS mobile devices. Review coming soon.ments shown in the list below:
 
    1. **USB-C power adapter** - I can carry a single charger for both my Pixel phone and tablet.
    3. **10 inch or larger HD screen** - This will match the current iPad screen size and HD resolution is the minimum for text and video.
@@ -30,7 +30,7 @@ My search for a tablet took over three months because I had very specific requir
    5. **64 Gb storage** - I've yet to run out of storage on my Pixel 4 XL with 64 Gb.
    6. **Fast processor** - A sluggish processor means a sluggish user experience.
    7. **Stereo external speakers** - Many tablets have a single speaker; however, I plan to watch video and listen to music on the road with this device.
-   8. **Android 9.0 (10 preferred) or Chrome OS** - I knew this would be a tough one. There are a ton of tablets out there and I'm amazed that many of them still run Android 6.0! At this point in time, most Chrome OS devices available that serve as tablets are convertibles, like the Pixelbook I currently use. I want a pure tablet form factor.
+   8. **Android 9.0 (10 preferred) or Chrome OS** - I knew this would be a tough one. There are a ton of tablets out there and I'm amazed that many of them still run Android  (see video below) to purge iOS mobile devices. Review coming soon.6.0! At this point in time, most Chrome OS devices available that serve as tablets are convertibles, like the Pixelbook I currently use. I want a pure tablet form factor.
    9. **Excellent battery life** - Another area where the iPad shines is in battery life. I can expect a good two to three days on a charge and want that same experience on the new tablet I choose.
 
 In January of 2020 I came across the [Lenovo Smart Tab with Google Assistant](https://www.lenovo.com/us/en/tablets/android-tablets/lenovo-tab-series/Lenovo-Yoga-Smart-Tab-with-the-Google-Assistant/p/ZZITZTBYT2X). The retail price was $350 but there was a $100 off opportunity when purchased directly from the Lenovo website. Amazon does not offer this device; probably because it prominently features the rival Google Assistant.
