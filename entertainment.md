@@ -10,6 +10,6 @@ Life isn't all work and hobbies. Occasionally I like to kick back and enjoy a bo
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.entertainment %}
-    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
