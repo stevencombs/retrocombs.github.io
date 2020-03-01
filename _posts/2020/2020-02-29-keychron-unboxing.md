@@ -21,7 +21,7 @@ It was time to get a new Mac keyboard. I've been using the same Matias One Keybo
 
 Much has changed since the original purchase of this keyboard. I've replaced my iPhone with a [Pixel Phone](https://www.pixelpowerpodcast.com), I've gone through three Macs, I've grown more fond of "clicky" mechanical keyboards, and I like to use my keyboard with more than one Bluetooth device at a time.
 
-Enter my new purchase, the [Keycron K2 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard).
+Enter my new purchase, the [Keychron K2 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard).
 
 This is not a review of the Keychron K2 but an explanation of my purchase and insights to the video I posted on YouTube, Opening the box: Keychron K2 keyboard. That video is below:
 
@@ -40,7 +40,7 @@ Other features I already appreciate include:
 1. The ability to connect and control three different Bluetooth devices.
 2. The keyboard design, the key colors, and the font used on the keys provides a modern looking keyboard.
 
-    ![K2 Keyboard](/images/posts/2020-02-29-keychron-unboxing/keycron-k2.jpg)
+    ![Keychron K2 Keyboard](/images/posts/2020-02-29-keychron-unboxing/keycron-k2.jpg)
 
 2. An extra long USB-C charging cable for optional wired connectivity (is this feature available on any other keyboard?). If the rechargeable batteries die, you can connect to a Mac using the included cable and keep working.
 3. Quality quick reference card and instruction manual (see video for more information).
