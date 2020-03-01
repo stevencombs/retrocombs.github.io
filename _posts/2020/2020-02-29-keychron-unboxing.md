@@ -37,7 +37,7 @@ While this is not a review of the keyboard, I did use this Keychron K2 to write 
 
 Other features I already appreciate include:
 
-1. The Ability to connect and control three different Bluetooth devices.
+1. The ability to connect and control three different Bluetooth devices.
 2. The keyboard design, the key colors, and the font used on the keys provides a very modern looking keyboard.
 
     ![K2 Keyboard](/images/posts/2020-02-29-keychron-unboxing/keycron-k2.jpg)
