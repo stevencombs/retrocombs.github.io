@@ -26,7 +26,7 @@ My student work assignment was for the dean of the college of humanistic studies
 
 My fond memories of this keyboard are two fold. First, it was the first computer keyboard I used that I considered a proper “business” keyboard and second, the “clickity-clack” sound the keyboard made as each key was pressed. The video below provides a sample of the sound on my [Unicomp Model M][2] that mimics the sound of the original Model F almost exactly.
 
-<iframe src="https://player.vimeo.com/video/224860160" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/224860160" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <a href="https://vimeo.com/224860160">Unicomp Model M clickity-clack demo</a> from <a href="https://vimeo.com/user20097235">Steven Combs</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 Isn't that a great sound (although the typing is a bit of a mess)?
