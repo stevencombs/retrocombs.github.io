@@ -113,7 +113,7 @@ This project took me much longer than I expected. For some reason, the logic to 
 
 Hopefully this project was a great way to learn more about the MEGA, the Elegoo kit components, servo motors, encoder, functions, and the Arduino IDE. I would love to read your comments. If you have any, drop them in the comments section below.
 
-<hr></hr>
+<hr>
 
 ## Reference
 
