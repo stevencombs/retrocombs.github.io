@@ -45,9 +45,9 @@ All equipment for this project, with Amazon links, is listed below:
 
 > **NOTE:** If you don't want to source the electronic parts individually, purchase the [$59 Elegoo MEGA 2560 Most Complete Starter Kit](https://amzn.to/2Rqsio6). It contains everything you need for this exercise and much, much, more! It's a great value and is often on sale. You can even [view a video I produced](https://youtu.be/jY8Jj0Rim70) that shows and explains the contents of this kit.
 
-1 - [Elegoo MEGA 2560](https://amzn.to/362vn2V): The MEGA is overkill but is the device I recommend for students. The additional digital I/O ports provide the option to create more complex projects.
+1 - [Elegoo MEGA 2560](https://amzn.to/362vn2V): The MEGA is overkill, but is the device I recommend for students. The additional digital I/O ports provide the option to create more complex projects.
 
-1 - [USB Cable](https://amzn.to/2uX7xst): Use to upload code from the Arduino IDE and to provide power to the MEGA.
+1 - [USB Cable](https://amzn.to/2uX7xst): Used to upload code from the Arduino IDE and to provide power to the MEGA.
 https://www.stevencombs.com/arduino/2020/01/11/elegoo-mega-starter-kit.html
 
 1 - [Arduino IDE](https://www.arduino.cc/en/main/software): Use the link to the left and follow the instructions to download and install the IDE on your computer.
@@ -58,13 +58,13 @@ https://www.stevencombs.com/arduino/2020/01/11/elegoo-mega-starter-kit.html
 
 1 - [1K Ω (ohm) resistor](https://amzn.to/2u8s8Ke): Connect this resistor between the power source and the LED. This resistor is larger than necessary but will ensure we protect our LED when we apply power. The color code for a 1K Ω resistor is Brown, Black, Red, and Gold.
 
-1 - [Red LED](https://amzn.to/2UcAKZq): A standard red LED is used as a power indicator.
+1 - [Red LED](https://amzn.to/2UcAKZq): I use a standard red LED as a power indicator.
 
 1 - [Rotary Encoder](https://amzn.to/2wG9vi4): This device will provide rotational control of the servo motor.
 
-1 - [Micro Servo SG90](https://amzn.to/3cDgtol): A micro servo that is easily powered by an Arduino and controlled by the potentiometer above.
+1 - [Micro Servo SG90](https://amzn.to/3cDgtol): A micro servo that is easily powered by an Arduino and controlled by the encoder above.
 
-1 - [Small 5" needle nose pliers](https://amzn.to/2G003Hy) (optional): Use to insert resistor legs into the breadboard. More tips in the video.
+1 - [Small 5" needle nose pliers](https://amzn.to/2G003Hy) (optional): Used to insert resistor legs into the breadboard. More tips in the video.
 
 1 - [Volt/Ohm multimeter (optional)](https://amzn.to/2ufV9mZ): Optional but you should own one!
 
