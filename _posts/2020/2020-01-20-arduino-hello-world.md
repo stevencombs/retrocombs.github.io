@@ -15,6 +15,7 @@ tags:
   - physicalcomputing
   - led
   - elegoo
+  - tutorial
 ---
 
 A project that brand-new Arduino users often complete is to connect an LED to the board and create a program to turn on the LED. This is the Arduino's equivilent of the programmer's ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" I wanted the first student project, for a [course I am teaching](https://bit.ly/sbc-design-thinking), to be similar but with a "logic programming" spin that intergrates more hardware and programming fundamentals.
@@ -40,7 +41,7 @@ Below is a step-by-step video I produced for this project.
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
-## Supplies
+## Bill of Materials (BOM)
 
 All equipment for this project, with Amazon links, is listed below:
 
@@ -64,7 +65,7 @@ https://www.youtube.com/embed/FcK--sJlcJI
 
 5 - [Male to male breadboard jumper wires](https://amzn.to/2ufQf9z): Prototyping on the breadboard a snap with these wires!
 
-1 - [Small 5" needle nose plyers](https://amzn.to/2G003Hy) (optional): Use to resistor legs. More tips in the video.
+1 - [Small 5" needle nose pliers](https://amzn.to/2G003Hy) (optional): Use to insert resistor legs into the breadboard. More tips in the video.
 
 1 - [Volt/Ohm multimeter (optional)](https://amzn.to/2ufV9mZ): Optional but you should own one!
 
@@ -97,7 +98,7 @@ Uploading the code is easy; if the Arduino IDE is installed and setup properly.
 1. Select _Tools_ / _Board_ from the Arduino IDE.
 2. Select the _Arduino/Geninuino MEGA or MEGA 2560_ from the Arduino boards available.
 3. Select the serial port used to connect the Arduino to the computer. This will vary based on computer and operating system.
-4. Select the upload button in the Arduino IDE toolbar menu (⮊).
+4. Select the upload button in the Arduino IDE toolbar menu.
 
 If the program contains no errors, the IDE will compile the code and send it to the MEGA.
 
@@ -105,7 +106,7 @@ If the program contains no errors, the IDE will compile the code and send it to 
 
 Press the button to verify the LED turns on. Press the button again to verify the LED turns off. If you do not see the desired results, verify the code, make necessary changes, and upload the program again. Troubleshooting is a part of the learning process.
 
-## Summing up
+## Summing Up
 
 Hopefully this project was a great way to learn more about the MEGA, the Elegoo kit components, and the Arduino IDE. I would love to read your comments. If you have any, drop them in the comments section below.
 
