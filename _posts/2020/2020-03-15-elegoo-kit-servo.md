@@ -60,7 +60,7 @@ https://www.stevencombs.com/arduino/2020/01/11/elegoo-mega-starter-kit.html
 
 1 - [Red LED](https://amzn.to/2UcAKZq): I use a standard red LED as a power indicator.
 
-1 - [Rotary Encoder](https://amzn.to/2wG9vi4): This device will provide rotational control of the servo motor.
+1 - [Rotary Encoder](https://amzn.to/3dmU7YE): This device will provide rotational control of the servo motor.
 
 1 - [Micro Servo SG90](https://amzn.to/3cDgtol): A micro servo that is easily powered by an Arduino and controlled by the encoder above.
 
