@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Opening the box: Keychron K2 keyboard for Mac'
+title: 'OPEN THE BOX: Keychron K2 keyboard for Mac'
 date: 2020-02-29
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -8,6 +8,7 @@ comments: 'yes'
 categories:
   - apple
 tags:
+  - openthebox
   - keychron
   - keyboard
   - mac

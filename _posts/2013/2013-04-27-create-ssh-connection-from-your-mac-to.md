@@ -1,12 +1,19 @@
 ---
 layout: post
-title: Create an ssh connection to a headless Raspberry Pi
+title: 'HOWTO: Create an ssh connection to a headless Raspberry Pi'
 date: 2013-04-27 11:10:09
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: true
-categories: raspberrypi apple linux
+categories: raspberrypi
+tags:
+  - howto
+  - raspberrypi
+  - ssh
+  - headless
+  - raspbian
 ---
+
 You finally receive that Raspberry Pi you've been waiting for only to find that you don't have an extra keyboard, mouse or monitor laying around. Yeah, you should have taken care of that prior to the purchase (or maybe you did and those items are on their way in a separate order), but does that mean you can't fiddle with your new Raspberry Pi? Of course not. While waiting on the other devices, you can have a ton of fun learning about the new device while at the same time, learning a bit about Linux and remote connections.
 
 <img src="https://lh4.googleusercontent.com/-NjsjbCYtA8Y/UXwPS_XqaKI/AAAAAAABIlM/ztfeD2wMg-A/w770-h557-no/ssh+to+raspi.png" width="100%" />

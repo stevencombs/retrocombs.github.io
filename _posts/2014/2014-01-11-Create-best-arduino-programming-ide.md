@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Sublime Text Arduino programming IDE on Peppermint OS
+title: 'HOWTO: Sublime Text Arduino programming IDE on Peppermint OS'
 date: 2014-01-11 17:00:39
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: true
-categories: linux arduino
+categories:
+  - arduino
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="http://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png" align="right" width="250" />In a previous post I demonstrated the [install of the Arduino IDE](http://www.stevencombs.com/linux/2014/01/05/Install-arduino-ide-on-peppermint-os.html) on a [Peppermint OS 4](http://peppermintos.com/guide/software/) install. Today I want to take this a bit further and show you how to create an Arduino programming environment that knocks the socks of the original Arduino IDE.

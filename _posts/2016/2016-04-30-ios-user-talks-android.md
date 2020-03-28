@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An iOS user talks Android
+title: 'An iOS user talks Android'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 2016-04-30

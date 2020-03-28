@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enhance Course Materials with iTunes U'
+title: 'HOWTO: Enhance Course Materials with iTunes U'
 date: 2013-01-10 01:09:10 UTC
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

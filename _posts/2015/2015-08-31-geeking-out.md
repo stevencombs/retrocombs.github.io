@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geeking Out
+title: 'Geeking Out'
 date: '2015-08-31 18:37'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

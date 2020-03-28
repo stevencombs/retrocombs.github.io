@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first month with the Pebble watch
+title: 'My first month with the Pebble watch'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-10-19 15:31
@@ -72,40 +72,40 @@ Now that we know how the watch operates, let’s look at the good and bad featur
 # The good
 There is a lot to like about this watch and the list below highlights my favorite features.
 
-**Cost**  
+**Cost**
 At $99 the device is now below three digits and at a price point that puts it inline with many iPhone accessories.
 
-**Style**  
+**Style**
 Although the watch is plastic, the black model fits well in both my business and casual wear.
 
-**Durability**  
+**Durability**
 Not a scratch yet.
 
-**Comfort**  
+**Comfort**
 I thought I would notice a watch on my wrist after not wearing one for many years; however, the Pebble and included band both go unnoticed until a notification arrives.
 
 **Charger**
 Simple and effective magnetic charger allows quick connection to encourage charging. Takes little time for a full charge.
 
-**Water-proof**  
+**Water-proof**
 I don’t worry if I am in the rain or shower. Even though it is rated to 50 meters, I am not sure I would go for a swim with it on.
 
-**eInk display**  
+**eInk display**
 With the included backlight available at a shake of the wrist, the eInk screen ensures I can view the Pebble in both the darkest rooms and the sunniest outdoors. The display is also the key to the battery life.
 
-**Battery life**  
+**Battery life**
 I turn my watch off every night and get about six days on a charge. I receive a fair amount of notifications daily.
 
-**Notifications**  
+**Notifications**
 As I stated earlier, if your phone can send a notification, your Pebble can receive it and this proves valuable during meetings or when in the car.
 
-**IFTTT**  
+**IFTTT**
 Add even more useful notifications using the [IFTTT](https://ifttt.com/) service and the [IFTTT](https://itunes.apple.com/us/app/ifttt/id660944635?mt=8&uo=4&at=10l9vL) iPhone app. I have a notification sent whenever it is [raining](https://ifttt.com/recipes/212988-alert-columbus-indiana-residents-when-it-is-raining) or [snowing](https://ifttt.com/recipes/212987-alert-columbus-indiana-residents-when-it-is-snowing) outside.
 
-**Updates**  
+**Updates**
 Since owning the Pebble, there have been two updates to the Pebble app and the Pebble firmware to add new features and shore up bugs. There is obviously a robust development team in place.
 
-**Apps/watchfaces**  
+**Apps/watchfaces**
 There are a ton of apps/watchfaces and entirely too many list here. I list a few of my favorite apps in the [Apps section](#apps))below.
 
 That’s a fine list of good things, so what could possibly be bad?
@@ -113,22 +113,22 @@ That’s a fine list of good things, so what could possibly be bad?
 # The bad
 There are a few things that bother me about the Pebble and below is my list:
 
-**iPhone required**  
+**iPhone required**
 Wouldn’t it be great if we didn’t need the phone? We just aren’t technologically there yet. Even the much anticipated Apple Watch will require iPhone connectivity.
 
-**iOS limitations**  
+**iOS limitations**
 Android phone owners have many more app/feature options due to the open nature of Android operating system. iOS users are hampered, which leads me to my next item in this list.
 
-**No two-way communication**  
+**No two-way communication**
 Using an iPhone, you cannot send a message, not even a canned response, back via the Pebble.
 
-**8 slots**  
+**8 slots**
 While the locker is useful for organizing and maintaining apps and watchfaces, 8 slots limit the Pebble. Here’s hoping a later Pebble hardware upgrade will include memory for additional slots.
 
-**Pebble App Store**  
+**Pebble App Store**
 It is hard to review watchfaces at the Pebble store due to an overabundance. Even though the store includes some categorization, it doesn't help discovery of the thousands of watchfaces available.
 
-**No Nike+ support**  
+**No Nike+ support**
 I use the [Nike+](https://itunes.apple.com/us/app/sneaker-crush-release-dates/id661034398?mt=8&uo=4&at=10l4tL&ct=searchlink) iPhone app regularly and would like my Pebble to display my time and distance while running. This is a personal wish and not really a fault of the Pebble. There are other running apps I could use for this, but I have too many miles logged with Nike to make a change.
 
 Those are the limitations I have found. Overall though, I don’t find them enough of a distractor to not recommend the Pebble and if you are an Android user, two of those negatives go away.
@@ -137,10 +137,10 @@ Those are the limitations I have found. Overall though, I don’t find them enou
 
 I’ve been mucking around the Pebble App store for hours and below are the only two apps I use regularly – and I have tried many.
 
-**Evernote**  
+**Evernote**
 Access to notes on the Pebble can be a bit tedious. It is easier to simply break out my iPhone; however, you cannot deny the cool factor of bringing up a note on your watch. You can create a workflow that makes frequently used notes easily accessible. For instance, I use a feature that allows a long press of the down button on the right-hand side to quickly load the Evernote Pebble app. I then set the Evernote Pebble app to display my shortcuts upon startup. Handy for work notes that include copy machine, long distance and fuel codes that I can never remember.
 
-**Smartwatch+**  
+**Smartwatch+**
 This app requires two pieces, the free Smartwatch+ Pebble app and the $2.99 [Smartwatch+](https://itunes.apple.com/us/app/smartwatch+-for-pebble/id711357931?mt=8&uo=4&at=10l9vL) iPhone app. Together the two provide additional functionality to the Pebble such as weather, calendar, camera control, stocks and GPS location. Lastly, the Smartwatch+ app allows the installation of another component called SmartStatus which is demonstrated in the image below.
 
 ![SmartStatus](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/smartstatus.gif)

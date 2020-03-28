@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Army retirement package
+title: 'Army retirement package'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-09-20 19:28
@@ -8,7 +8,7 @@ category: personal
 comments: yes
 ---
 
-After a three year period, I FINALLY received my United States Army retirement materials. When I left the Army in August of 2011, there was no fanfare, ceremony or recognition from my unit. Honestly, it was a huge letdown after 27 years of military service in both the United States Air Force as an enlisted airman and the United States Army as an Armor and Adjutant General officer. Despite the lack of recognition from my unit, I did think the Army would eventually send me my retirement certificate. It did not happen. 
+After a three year period, I FINALLY received my United States Army retirement materials. When I left the Army in August of 2011, there was no fanfare, ceremony or recognition from my unit. Honestly, it was a huge letdown after 27 years of military service in both the United States Air Force as an enlisted airman and the United States Army as an Armor and Adjutant General officer. Despite the lack of recognition from my unit, I did think the Army would eventually send me my retirement certificate. It did not happen.
 
 > If you read the comments below this post, you will find that "online scammers" have used my images to con folks out of money and to charge recent retirees to receive this package. You do not have to pay for these documents. If anyone asks you for money, tell them to go pound sand, contact your battalion S-1, and ask for their assistance to receive your own, well earned and free, retirement certificates.
 
@@ -42,7 +42,7 @@ Time to see what is included in the box.
 
 ![](http://www.stevencombs.com/images/posts/2014-09-20-retirement-package/09-20-retirement-package-04.jpg)
 
-# What’s in the envelope? 
+# What’s in the envelope?
 Let’s open it up and see what’s inside.
 
 ![](http://www.stevencombs.com/images/posts/2014-09-20-retirement-package/09-20-retirement-package-05.jpg)
@@ -67,7 +67,7 @@ Certificate from the Chief Army Reserve (CAR).
 
 ![](http://www.stevencombs.com/images/posts/2014-09-20-retirement-package/09-20-retirement-package-09.jpg)
 
-# Certificate of retirement 
+# Certificate of retirement
 This is the most important document in the box and is from the United States Army chief of staff.
 
 ![](http://www.stevencombs.com/images/posts/2014-09-20-retirement-package/09-20-retirement-package-10.jpg)

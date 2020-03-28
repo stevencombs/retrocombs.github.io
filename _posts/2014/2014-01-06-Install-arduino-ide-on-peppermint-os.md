@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Install the Arduino IDE on Peppermint OS 4
+title: 'HOWTO: Install the Arduino IDE on Peppermint OS 4'
 date: 2014-01-06 05:00:06
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: true
-categories: linux arduino
+categories:
+  - arduino
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="http://2.bp.blogspot.com/-JWkcedZQv6k/Uss6UrZB9oI/AAAAAAABOg8/qhcYMT0zEXA/s1600/Loki+Blogs.jpg" align="right" width="250" />

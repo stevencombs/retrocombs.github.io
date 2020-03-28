@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Fi welcome kit was a surprise
+title: 'Project Fi welcome kit was a surprise'
 date: '2015-06-27 15:59'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

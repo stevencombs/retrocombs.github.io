@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Field Notes Sweet Tooth memo books review'
+title: 'REVIEW: Field Notes Sweet Tooth memo books'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 'October 09, 2016'

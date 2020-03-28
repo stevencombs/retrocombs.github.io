@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sketchnote: Exhibit Columbus'
+title: 'SKETCHNOTE: Exhibit Columbus'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 'October 3, 2016'

@@ -1,10 +1,18 @@
 ---
 layout: post
-title: 'Update your Raspberry Pi OS and software'
+title: 'HOWTO: Update your Raspberry Pi OS and software'
 date: 'May 25, 2016'
 comments: 'yes'
 categories:
   - raspberrypi
+tags:
+  - howto
+  - raspberrypi
+  - terminal
+  - raspian
+  - firmware
+  - update
+  - software
 ---
 
 The Raspberry Pi's operating system (OS) is a modified version of the open source (free) [Debian Linux](https://en.wikipedia.org/wiki/Debian) distribution. Debian includes a package (software) manager know as the advanced packaging tool. This tool is used to update the [Raspberry Pi's](http://amzn.to/1RrDln4) OS and software. While using the command line to update software might seem daunting, the process couldn't be easier once you know and understand how the package manager works. This post will give you those skills.

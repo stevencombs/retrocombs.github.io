@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syma X12S unboxing and mini review
+title: 'OPEN THE BOX: Syma X12S unboxing'
 date: '2015-06-21 17:26'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

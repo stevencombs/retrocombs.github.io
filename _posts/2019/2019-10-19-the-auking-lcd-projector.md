@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bullet Review: The AuKing $52 LCD Projector'
+title: 'BULLET REVIEW: The AuKing $52 LCD Projector'
 date: '2019-10-19'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -8,10 +8,11 @@ comments: 'yes'
 categories:
   - gadgets
 tags:
+  - bulletreview
   - lcd
   - projector
   - review
-  - auking 
+  - auking
 ---
 
 A couple of years ago, we received the [Star Shower Window Wonderland](https://amzn.to/2J6VVHA) as a gift from family members who knew our love of holiday decorations. We used this little single-use projector for both Halloween and Christmas. It served us faithfully by projecting several built-in holiday themed animated scenes at very low lumens (a measure of brightness for the projector).

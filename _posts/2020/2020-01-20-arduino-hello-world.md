@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BUILD & CODE VIDEO: Arduino Hello World! (build-code-operate)'
+title: 'BUILD & CODE: Arduino Hello World! (build-code-operate)'
 date: 2020-01-20
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -8,6 +8,7 @@ comments: 'yes'
 categories:
   - arduino
 tags:
+  - buildandcode
   - arduino
   - ide
   - programming

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Mac user’s guide to the Chromebook
+title: 'A Mac user’s guide to the Chromebook'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-12-31

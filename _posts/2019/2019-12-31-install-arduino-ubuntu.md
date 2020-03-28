@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 'Install the Arduino IDE on Ubuntu Mate'
+title: 'HOWTO: Install the Arduino IDE on Ubuntu Mate'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 2019-12-31
 category: arduino
 comments: 'yes'
 tags:
+  - howto
   - arduino
   - arduino-ide
   - ubuntu

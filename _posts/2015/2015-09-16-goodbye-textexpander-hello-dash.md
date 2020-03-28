@@ -1,13 +1,20 @@
 ---
 layout: post
-title: 'Goodbye TextExpander, hello Dash'
+title: 'HOWTO: Say goodbye to TextExpander and hello to Dash'
 date: '2015-09-16'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
   - apple
-  - code
+tags:
+  - howto
+  - apple
+  - mac
+  - textexpander
+  - dash
+  - text
+  - expansion
 ---
 
 For several years [TextExpander](https://smilesoftware.com/TextExpander/) has been my go to Mac text expansion utility. There was a brief switch to [aText](https://itunes.apple.com/us/app/atext/id488566438?mt=12&uo=4&at=10l9vL); however, I came back to TextExpander because it has more polish and better community support. Recently a new version of TextExpander was released (version 5.0). Version 5 includes new features, most notably the ability to identify and create expansion snippets automatically. For me, this feature did not compel me to purchase the $19 upgrade.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bullet Review: New Trent Arcadia dual port AC charger'
+title: 'BULLET REVIEW: New Trent Arcadia dual port AC charger'
 date: 'February 26, 2016'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

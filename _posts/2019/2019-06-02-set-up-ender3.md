@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Set up the Creality Ender-3 for first print
+title: 'HOWTO: Set up the Creality Ender-3 for first print'
 author: 'Steven B. Combs, Ph.D.'
 email: steven.combs@gmail.com
 date: 2019-06-02T00:00:00.000Z
 category: 3dprinting
 comments: 'yes'
 tags:
+  - howto
   - creality
   - ender3
   - 3dprinting

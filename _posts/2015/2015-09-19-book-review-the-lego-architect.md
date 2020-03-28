@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book Review - The LEGO Architect'
+title: 'BOOK REVIEW: The LEGO Architect'
 date: '2015-09-19'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

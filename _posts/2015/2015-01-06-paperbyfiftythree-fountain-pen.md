@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper by FiftyThree Fountain Pen
+title: 'Paper by FiftyThree Fountain Pen'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-01-06 17:20

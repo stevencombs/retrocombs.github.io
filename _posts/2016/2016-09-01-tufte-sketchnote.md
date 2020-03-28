@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sketchnote: Edward Tufte seminar'
+title: 'SKETCHNOTE: Edward Tufte seminar'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 'September 1, 2016'

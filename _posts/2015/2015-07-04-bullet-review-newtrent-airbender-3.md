@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bullet Review – NewTrent Airbender 3.0"
+title: "BULLET REVIEW: NewTrent Airbender 3.0"
 date: '2015-07-04'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

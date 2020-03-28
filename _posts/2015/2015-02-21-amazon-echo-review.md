@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon Echo is Siri in a Pringle® can
+title: 'REVIEW: Amazon Echo is Siri in a Pringle® can'
 author: 'Steven B. Combs, Ph.D.'
 email: steven.combs@gmail.com
 date: '2015-02-21 16:36'
@@ -30,11 +30,11 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 
 1. [Location, Location, Location](#location-location-location)
 2. [Alexa!](#alexa)
-3. [Time to face the music](#time-to-face-the-music)  
-	a. [Amazon Prime Music](#amazon-prime-music)  
-	b. [iHeartRadio](#iheartradio)  
-	c. [Pandora Radio](#pandora-radio)  
-	d. [TuneIn Radio](#tunein-radio)  
+3. [Time to face the music](#time-to-face-the-music)
+	a. [Amazon Prime Music](#amazon-prime-music)
+	b. [iHeartRadio](#iheartradio)
+	c. [Pandora Radio](#pandora-radio)
+	d. [TuneIn Radio](#tunein-radio)
 4. [Crank it up](#crank-it-up)
 5. [The library at Alexandria](#the-library-at-alexandria)
 6. [Your personal news and weather personality](#your-personal-news-and-weather-personality)
@@ -42,8 +42,8 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 8. [Stay Organized](#stay-organized)
 9. [No remote necessary](#no-remote-necessary)
 10. [Stream tunes and make a call via Bluetooth](#stream-tunes-and-make-a-call-via-bluetooth)
-11. [Home automation with a voice](#home-automation-with-a-voice)  
-	a. [WeMo](#wemo)  
+11. [Home automation with a voice](#home-automation-with-a-voice)
+	a. [WeMo](#wemo)
 	b. [Philips Hue](#philips-hue)
 12. [I wish I may, I wish I might](#i-wish-i-may-i-wish-i-might)
 13. [The final verdict](#the-final-verdict)

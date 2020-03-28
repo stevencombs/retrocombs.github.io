@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create bootable USB drive on Mac OS X
+title: 'HOWTO: Create bootable USB drive on Mac OS X'
 date: 2009-05-28 01:01:01
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

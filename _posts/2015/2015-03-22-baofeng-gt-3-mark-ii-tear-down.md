@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baofeng GT-3 Mark II tear down
+title: 'TEAR DOWN: Baofeng GT-3 Mark II'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-03-22 15:18

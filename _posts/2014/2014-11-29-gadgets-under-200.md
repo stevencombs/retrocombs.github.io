@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best gadgets under $200, 2014 Edition
+title: 'Best gadgets under $200, 2014 Edition'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-11-29 17:25

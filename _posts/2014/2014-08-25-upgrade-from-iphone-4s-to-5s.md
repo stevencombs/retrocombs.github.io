@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upgrade from iPhone 4s to 5s
+title: 'Upgrade from iPhone 4s to 5s'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-08-25 09:24
@@ -9,7 +9,7 @@ category: apple
 comments: yes
 ---
 
-I finally took the plunge and upgraded my iPhone 4s to the iPhone 5s. Many of you reading this will notice that we are only a couple of weeks away from an iPhone 6 launch. So why didn’t I wait? I found an [incredible deal](http://www.virginmobileusa.com/shop/cell-phones/iphone5s-32gb-silver-phone/features/) with Virgin mobile ([learn more about my move to Virgin mobile](http://www.stevencombs.com/apple/2014/08/25/save-money-with-virgin-mobile.html)) on a 32Gb non-contract iPhone 5s. 
+I finally took the plunge and upgraded my iPhone 4s to the iPhone 5s. Many of you reading this will notice that we are only a couple of weeks away from an iPhone 6 launch. So why didn’t I wait? I found an [incredible deal](http://www.virginmobileusa.com/shop/cell-phones/iphone5s-32gb-silver-phone/features/) with Virgin mobile ([learn more about my move to Virgin mobile](http://www.stevencombs.com/apple/2014/08/25/save-money-with-virgin-mobile.html)) on a 32Gb non-contract iPhone 5s.
 
 Since the iPhone 5s was the feature iPhone for the iOS 8 demonstration at this year’s Apple World Wide Developers Conference, I feel confident I will receive 95% of the iOS 8 features. Any new features will likely come from hardware additions. While the allure of a larger screen will appeal to some, I don’t know that I need it. My iPhone is truly a one hand, quick use device and any extensive iOS usage I reserve for my iPad air.
 
@@ -51,7 +51,7 @@ Thanks to the new A7 chip mentioned above and an increase in system RAM to 1Gb, 
 
 # Motion
 
-The iPhone 5s includes the new M7 motion chip. The purpose of the M7 is to offload the collection of motion data from the processor and conserve precious battery life. The M7 chip constantly collects movement data and does so with hardly a sip of battery power. Think of it as a [Fitbit](!g) built into your iPhone 5s. 
+The iPhone 5s includes the new M7 motion chip. The purpose of the M7 is to offload the collection of motion data from the processor and conserve precious battery life. The M7 chip constantly collects movement data and does so with hardly a sip of battery power. Think of it as a [Fitbit](!g) built into your iPhone 5s.
 
 Add the free [Pedometer++](https://itunes.apple.com/us/app/walkmeter-gps-pedometer-walking/id330594424?mt=8&uo=4&at=10l9vL) app and you have a simple way to track all your steps during the day. Better yet, add the free [MyFitnessPal](https://itunes.apple.com/us/app/calorie-counter-diet-tracker/id341232718?mt=8&uo=4&at=10l9vL) app and track your activity and your eating habits. I often misplace or forget my Fitbit. I never go anywhere without my iPhone, so this allows me to be more diligent tracking steps.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Install Arduino IDE on Chrome OS - now with device support!'
+title: 'HOWTO: Install Arduino IDE on Chrome OS - now with device support!'
 date: 2020-01-20
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -8,6 +8,7 @@ comments: 'yes'
 categories:
   - arduino
 tags:
+  - howto
   - arduino
   - linux
   - debian

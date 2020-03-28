@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book Review - The LEGO Christmas Ornaments Book'
+title: 'BOOK REVIEW: The LEGO Christmas Ornaments Book'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 'December 1, 2016'
@@ -12,7 +12,7 @@ tags:
   - book
   - review
   - christmas
-  - ornaments 
+  - ornaments
 ---
 
 In the past year, [No Starch Press][1] sent both [The LEGO Architect][2] and [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3] for a review. On October 6, 2016, I also found Chris McVeigh's new book, [The LEGO Christmas Ornament Book: 15 Designs to Spread Holiday Cheer][4] in my mailbox. I mentioned in my [Geeky LEGO Crafts: 21 Fun and Quirky Projects][5] review that I was a huge fan of McVeigh's style so I was thrilled to receive this new book.

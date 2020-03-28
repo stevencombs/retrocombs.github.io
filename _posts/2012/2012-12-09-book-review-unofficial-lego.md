@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book Review – The Unofficial LEGO Builder’s Guide 2nd Edition'
+title: 'BOOK REVIEW: The Unofficial LEGO Builder’s Guide 2nd Edition'
 date: 2012-12-09 12:12:12
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Program C.H.I.P. with Python to control LED'
+title: 'HOWTO: Program C.H.I.P. with Python to control LED'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 'August 14, 2016'

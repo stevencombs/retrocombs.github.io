@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketchnoting the Amazon Echo ultimate guide page
+title: 'SKETCHNOTE: Amazon Echo ultimate guide page'
 date: '2015-06-07 18:38'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

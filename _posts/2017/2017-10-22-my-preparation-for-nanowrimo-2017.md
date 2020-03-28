@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My preparation for NaNoWriMo 2017'
+title: 'HOWTO: Prepare for NaNoWriMo 2017'
 date: 'October 22, 2017'
 comments: 'yes'
 author: 'Steven B. Combs, Ph.D.'
@@ -11,7 +11,7 @@ tags:
   - nanowrimo
   - preparation
   - writing
-  - words 
+  - words
 ---
 
 During February 2017, I announced that I will write my first work of fiction. This became official in a [blog post][1] on this site and on Facebook to my friends and family. This announcement was designed to keep me motivated. And it did! Several friends have asked about my progress and the last thing I want to say is, “Oh, I gave up on that project.” I am all in on this goal. I’ve spend the last eight months preparing for my novel writing journey next month (November).

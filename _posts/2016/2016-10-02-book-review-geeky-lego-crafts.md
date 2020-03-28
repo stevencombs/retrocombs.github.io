@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book Review - Geeky LEGO Crafts'
+title: 'BOOK REVIEW: Geeky LEGO Crafts'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 'October 2, 2016'

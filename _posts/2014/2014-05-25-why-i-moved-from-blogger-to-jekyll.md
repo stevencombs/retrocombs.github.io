@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I moved from Blogger to Jekyll
+title: 'Why I moved from Blogger to Jekyll'
 date: 2014-06-13T21:10:20.000Z
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

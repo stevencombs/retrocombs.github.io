@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sketchnote: Civic Lab Training'
+title: 'SKETCHNOTE: Civic Lab Training'
 date: '2018-06-18'
 comments: 'yes'
 author: 'Steven B. Combs, Ph.D.'

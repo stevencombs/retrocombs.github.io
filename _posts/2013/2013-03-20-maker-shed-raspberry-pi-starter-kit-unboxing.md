@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Maker Shed Raspberry Pi Starter Kit Unboxing
+title: 'OPENING THE BOX: Maker Shed Raspberry Pi Starter Kit'
 date: '2013-03-20 10:58'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
+  - openingthebox
   - raspberrypi
 ---
 

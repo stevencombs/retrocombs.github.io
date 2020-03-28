@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keystrokes to create typographic symbols on a Mac"
+title: "HOWTO: Use Keystrokes to create typographic symbols on a Mac"
 date: "2014-07-12"
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

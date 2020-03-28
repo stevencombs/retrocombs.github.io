@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New series - My first year as a regional academic officer'
+title: 'My first year as a regional academic officer'
 date: 2013-07-14 18:51:27 UTC
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

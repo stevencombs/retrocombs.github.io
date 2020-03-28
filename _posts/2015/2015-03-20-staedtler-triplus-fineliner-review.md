@@ -1,12 +1,19 @@
 ---
 layout: post
-title: Staedtler Triplus Fineliner review
+title: 'REVIEW: Staedtler Triplus Fineliner'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-03-20 15:23
 category: art
+tags:
+  - review
+  - staedtler
+  - pen
+  - color
+  - ink
 comments: yes
 ---
+
 For several months now, I have been on a search for color pens to add a splash of color to my sketchnotes. What I thought would be a simple task, proved to be more difficult than expected. There are hundreds of brands/varieties of colorful markers and pens; however, I had specific requirements:
 
 * 12 or more useful colors
@@ -18,7 +25,7 @@ and most importantly
 
 * NO BLEED!
 
-My first purchase was a 24 set of [Sharpie Permanent Markers, Ultra Fine Points][1]. I chose them for the variety of colors available and on first use, really liked them. That is until I turned the page and discovered the bleed. And the bleed was severe, I’m talking artery cut severe, even on a page in my [Moleskine Art Plus Sketchbook][2] that has a 165 gsm/111 lb paper weight. I was a bit bummed that I had ruined a page in my sketchbook (see image below) and quickly decided to continue my search. 
+My first purchase was a 24 set of [Sharpie Permanent Markers, Ultra Fine Points][1]. I chose them for the variety of colors available and on first use, really liked them. That is until I turned the page and discovered the bleed. And the bleed was severe, I’m talking artery cut severe, even on a page in my [Moleskine Art Plus Sketchbook][2] that has a 165 gsm/111 lb paper weight. I was a bit bummed that I had ruined a page in my sketchbook (see image below) and quickly decided to continue my search.
 
 ![][image-1]
 Sharpie Permanent Marker bleed.
@@ -28,7 +35,7 @@ The next pens I chose were the [Sanford Sharpie Fine Point Pen Stylo, Assorted C
 ![][image-2]
 A red Sanford Sharpie Fine Point Pen Stylo
 
-I decided it was time to go to the experts. I’m a new listener to the [PenAddict podcast][4]. During a recent episode, the hosts, Brad Dowdy and Myke Hurley mentioned their Slack channel. I sent a tweet to join over to [Brad Dowdy][5]. Within a few hours, I was a Slack PenAddict team member. I posted my need to the online community and received several recommendations. 
+I decided it was time to go to the experts. I’m a new listener to the [PenAddict podcast][4]. During a recent episode, the hosts, Brad Dowdy and Myke Hurley mentioned their Slack channel. I sent a tweet to join over to [Brad Dowdy][5]. Within a few hours, I was a Slack PenAddict team member. I posted my need to the online community and received several recommendations.
 
 The pen set that caught my attention was the [Staedtler Triplus Fineliner][6] pack of 20. Admittedly, the first thing that caught my eye was the included flat case (you can see a complete set of unboxing images at the end of this post); however, upon reading several reviews, it was obvious I should make the $25 purchase and give them a try.
 

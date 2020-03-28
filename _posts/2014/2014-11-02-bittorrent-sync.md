@@ -1,17 +1,22 @@
 ---
 layout: post
-title: BitTorrent Sync - sync without the costly cloud
+title: 'HOWTO: Sync without the costly cloud'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2014-11-02 18:10
 category: apple
 comments: yes
+tags:
+ - howto
+ - bittorrent
+ - cloud
+ - sync
 ---
 
 I’ve been searching for an easy way to sync large multiple files from one Mac computer to another. I want this feature to keep a backup of my movies, music and photos on another computer and to have access to this data from multiple locations, including mobile devices. [Dropbox](http://db.tt/11cphuY) would be an obvious choice; however, for the amount of storage I need (about 200Gb), it is too costly. So I gave up on the idea and just hoped that I wouldn’t lose my photos, music and video files in between USB drive syncs. Not the way I want to roll with my data.
 
 # Enter BitTorrent Sync
-Recently while listening to an episode of the [Systematic podcast][7232-001], I heard [Brett Terpstra][7232-002] mention that he was trying out the beta version of [BitTorrent Sync][7232-003]. He didn’t go into many details, but it was enough to pique my interest. 
+Recently while listening to an episode of the [Systematic podcast][7232-001], I heard [Brett Terpstra][7232-002] mention that he was trying out the beta version of [BitTorrent Sync][7232-003]. He didn’t go into many details, but it was enough to pique my interest.
 
 I visited the site and without exhaustive research, began a download and install. It was a small download. I installed the software on both my [Mac mini Media Server][7232-004] and my iMac. Both are on the same home network and I thought this would be a good first test. Setup was done through the use of a dialog box as shown in the image below.
 
@@ -51,7 +56,7 @@ It really didn’t take long for me to figure out how to use BitTorrent Sync; ho
 # Final thoughts
 I’m having a blast finding things to sync between two computers. There’s a piece of mind that comes from knowing your data is stored in two or more locations and that at no time is that data stuck in the cloud somewhere to be hacked. Might be good for those celebrities who insist on sharing intimate images; but I’m not judging! Even more amazing is that this software is free; not even advertiser supported.
 
-My next steps are to create sync connections between a device not on my local network and to give the [BitTorrent Sync][7232-005] iOS app a try. I also want to use this technology the next time I have files to share with family/friends/colleagues that may be either large or sensitive in nature. 
+My next steps are to create sync connections between a device not on my local network and to give the [BitTorrent Sync][7232-005] iOS app a try. I also want to use this technology the next time I have files to share with family/friends/colleagues that may be either large or sensitive in nature.
 
 Even though the current version is in beta, it exceeds all my expectations and I highly recommend for everyone who needs a safe, fast and secure way to share files. It is simple to use and once set up, like the Ronco Cooker, “Set it and forget it!” Anyone else using BitTorrent Sync? Leave a comment and let me know. I am also interested in your use case scenarios.
 

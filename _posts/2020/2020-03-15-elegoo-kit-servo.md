@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 'BUILD & CODE VIDEO: Elegoo Arduino starter kit servo, LED, and encoder project'
+title: 'BUILD & CODE: Elegoo Arduino starter kit servo, LED, and encoder project'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: '2020-03-15'
 comments: 'yes'
 category: arduino
 tags:
+  - buildandcode
   - arduino
   - ide
   - elegoo
@@ -18,7 +19,7 @@ tags:
   - tutorial
 ---
 
-Expanding on my previous [opening the box](https://www.stevencombs.com/arduino/2020/01/11/elegoo-mega-starter-kit.html) and [LED and pushbutton Arduino](https://www.stevencombs.com/arduino/2020/01/20/arduino-hello-world.html) projects, this post provides instructions to control a servo motor with and encoder on an ELEGOO Arduino Mega 2560; with a twist (pun intended)!
+Expanding on my previous [OPEN THE BOX](https://www.stevencombs.com/arduino/2020/01/11/elegoo-mega-starter-kit.html) and [LED and pushbutton Arduino](https://www.stevencombs.com/arduino/2020/01/20/arduino-hello-world.html) projects, this post provides instructions to control a servo motor with and encoder on an ELEGOO Arduino Mega 2560; with a twist (pun intended)!
 
 This project will not only introduce the student, or new Arduino user, to micro servo control using a rotary encoder but also how to assemble a complete hardware and coding system using custom programming functions (subroutines).
 

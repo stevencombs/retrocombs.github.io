@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monster Digital OTG Cloud review
+title: 'REVIEW: Monster Digital OTG Cloud'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-05-02 18:58
@@ -17,11 +17,11 @@ This post should be titled, Monster Digital OTG Cloud: Jack of all trades, maste
 1. [Features](#features)
 2. [Inside the package](#inside-the-package)
 3. [OTG Cloud hardware](#otg-cloud-hardware)
-4. [Features](#features)  
-	a. [Cloud server](#cloud-server)  
-	b. [Ports](#ports)  
-	c. [Wi-Fi router](#wi-fi-router)  
-	d. [Wi-Fi extender](#wi-fi-extender)  
+4. [Features](#features)
+	a. [Cloud server](#cloud-server)
+	b. [Ports](#ports)
+	c. [Wi-Fi router](#wi-fi-router)
+	d. [Wi-Fi extender](#wi-fi-extender)
 	e. [Battery charger](#battery-charger)
 5. [Wish list](#wish-list)
 6. [Value](#value)

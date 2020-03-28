@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Evernote task management journey
+title: 'My Evernote task management journey'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-01-24 12:04

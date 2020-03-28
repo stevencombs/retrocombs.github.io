@@ -1,12 +1,18 @@
 ---
 layout: post
-title: 'Change the Terminal font size on Raspberry Pi'
+title: 'HOWTO: Change the Terminal font size on Raspberry Pi'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 'May 18, 2016'
 comments: 'yes'
 categories:
   - raspberrypi
+tags:
+  - howto
+  - raspberrypi
+  - terminal
+  - font
+  - raspian
 ---
 
 If you connect a Raspberry Pi to an HDMI monitor, you may find the terminal font size to be a bit small; especially if the monitor sits a foot or more away. This post demonstrates how to choose a different font size.

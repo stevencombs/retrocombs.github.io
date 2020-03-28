@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Visual Review - New Trent Trentium iPhone 5/5s rugged case'
+title: 'REVIEW: New Trent Trentium iPhone 5/5s rugged case'
 date: '2015-07-12 16:59'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

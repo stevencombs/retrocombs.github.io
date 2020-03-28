@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Amazon Echo arrived - unboxing time
+title: 'OPEN THE BOX: Amazon Echo'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-02-03 19:20
@@ -8,7 +8,7 @@ category: gadgets
 comments: yes
 ---
 
-Today a package arrived via UPS. When I opened the UPS box, the unmarked black box found in the image below was inside. I was expecting the Amazon Echo I ordered about a month ago, but found it interesting that there were no markings whatsoever on the outside slip cover. 
+Today a package arrived via UPS. When I opened the UPS box, the unmarked black box found in the image below was inside. I was expecting the Amazon Echo I ordered about a month ago, but found it interesting that there were no markings whatsoever on the outside slip cover.
 
 ![Unmarked package](https://lh5.googleusercontent.com/-E7mxY0s1Edo/VNFmn8z746I/AAAAAAABY0g/cEjXUW-TL6k/w1259-h944-no/IMG_6910.JPG)
 

@@ -1,12 +1,18 @@
 ---
 layout: post
-title: 'fish and C.H.I.P.s'
+title: 'HOWTO: Fish on C.H.I.P.s'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 'August 13, 2016'
 comments: 'yes'
 categories:
   - chip
+tags:
+  - howto
+  - chip
+  - fish
+  - linux
+  - terminal
 ---
 
 The PocketC.H.I.P. keyboard can be a bit of bear when trying to enter long commands in the *Terminal*. C.H.I.P. comes with `bash` as the default *Terminal* shell (as do most Debian Linux distributions). However, we are not confined to this shell. You can install others and the one I find particularly suited to the PocketC.H.I.P. is a shell called [fish][1]. That's right, **`fish` and C.H.I.P.s**! What could be more tasty? This combination will shorten lengthy commands and make that PocketC.H.I.P. keyboard more enjoyable to use.

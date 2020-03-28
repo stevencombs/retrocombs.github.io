@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Remove previous recipients from Apple Mail'
+title: 'HOWTO: Remove previous recipients from Apple Mail'
 date: 'July 31, 2017'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -13,7 +13,7 @@ tags:
   - recipients
   - tip
   - mac
-  - macos 
+  - macos
 ---
 
 Here's a quick tip for those who may be battling the "previous recipients issue" in Apple Mail. For those not familiar with the issue, let me give you a quick example.

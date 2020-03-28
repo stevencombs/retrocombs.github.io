@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The wallpaper that should come with the Project Fi Nexus 6
+title: 'The wallpaper that should come with the Project Fi Nexus 6'
 date: '2015-08-09 18:38'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pilot HI-TEC-C maica review
+title: 'REVIEW: Pilot HI-TEC-C maica'
 author: Steven B. Combs, Ph.D.
 email: steven.combs@gmail.com
 date: 2015-04-18 14:09

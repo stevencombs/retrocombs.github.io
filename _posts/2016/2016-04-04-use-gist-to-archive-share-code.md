@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Use Gist to archive and share code snippets'
+title: 'HOWTO: Use Gist to archive and share code snippets'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 date: 2016-04-04T00:00:00.000Z
