@@ -7,7 +7,7 @@ email: "steven.combs@gmail.com"
 comments: yes
 ---
 
-During Black Friday, I was able to snag a deal on the [Lepow 15.6 Inch Full HD 1080P USB Type-C Computer Display IPS Eye Care Screen with HDMI Type C](https://amzn.to/38JWMJt) for $110! I will admit, this may have been a bit of an impluse buy; however, I rationalized to myself that there are many times when either me or my wife needed a second monitor on our laptops (her's Macbook and mine a Pixelbook). Will this monitor suffice? Let's find out in this bullet review.
+During Black Friday 2019, I was able to snag a deal on the [Lepow 15.6 Inch Full HD 1080P USB Type-C Computer Display IPS Eye Care Screen with HDMI Type C](https://amzn.to/38JWMJt) for $110! I will admit, this may have been a bit of an impluse buy; however, I rationalized to myself that there are many times when either me or my wife needed a second monitor on our laptops (her's a Macbook and mine a Pixelbook). Will this monitor suffice? Let's find out in this bullet review.
 
 ![Lepow box with Pixelbook]()
 
@@ -67,5 +67,5 @@ Here are some of the negatives of this monitor (but not enough to stop me from r
 
 1. Monitor settings are not maintained between power-ups. You will have to work through them each and every time.
 2. Monitor is not very bright on default settings or after max brightness is applied. The monitor is fine for indoors but will be hard to see outside.
-3. Colors are washed out on the default settings and don't get a whole lot better after correcting; however, it is definitely better than expected for the price I paid.
+3. Colors are washed out on the default settings and don't get a whole lot better after correcting; however, it is definitely better than expected for the price I paid. If you select HDR mode in the monitor settings, prepare for an amazing experience with video that is horrible with normal web browsing.
 4. Folio case cannot serve as a stand for the monitor in portrait mode. I recommend [this stand]() in this use case.
