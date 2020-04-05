@@ -56,7 +56,7 @@ If you don't want to watch the video, below are simplified steps to update the f
 5. Insert the microSD card into the bottom of the Wyze Cam.
 6. Press and hold the _Setup_ button while you plug the camera into a powered USB port with the USB A to USB A cable. 
     
-  **NOTE:** You cannot use the USB cable that comes with the Wyze Cam.
+    **NOTE:** You cannot use the USB cable that comes with the Wyze Cam.
     
 7. Continue holding the _Setup_ button for 3-6 seconds until the LED turns a bright blue.
 8. Wait 3 to 4 minutes (it took less than a minute for me) for the firmware update and camera to reboot. When complete, the status light will flash yellow and blue at the same time.
