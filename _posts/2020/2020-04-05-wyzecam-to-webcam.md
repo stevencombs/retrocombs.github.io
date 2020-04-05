@@ -51,13 +51,13 @@ If you don't want to watch the video, below are simplified steps to update the f
 
 1. [Download the Wyze webcam firmware](https://wyze-firmware.s3-us-west-2.amazonaws.com/V2Webcam.zip).
 2. Extract the .zip file.
-3. Copy the two files inside the extracted folder on your computer to the root directory of the microSD card.
+3. Copy the **.bin** file inside the extracted folder on your computer to the root directory of the microSD card. In the video, I also copy the instructions PDF file. That's not necessary.
 4. Eject the microSD card from the computer.
 5. Insert the microSD card into the bottom of the Wyze Cam.
-6. Press and hold the _Setup_ button while you plug the camera into a powered USB port with the USB A to USB A cable. 
-    
+6. Press and hold the _Setup_ button while you plug the camera into a powered USB port with the USB A to USB A cable.
+
     **NOTE:** You cannot use the USB cable that comes with the Wyze Cam.
-    
+
 7. Continue holding the _Setup_ button for 3-6 seconds until the LED turns a bright blue.
 8. Wait 3 to 4 minutes (it took less than a minute for me) for the firmware update and camera to reboot. When complete, the status light will flash yellow and blue at the same time.
 
@@ -89,7 +89,7 @@ Below are my thoughts, in bullet form, on the conversion and use of the new Wyze
 
 ## Final thoughts
 
-Wyze claims this firmware is the first and last version they will release; that's a shame. While the firmware activates video, it is still in need of much work for microphone and speaker functionality (at least on Linux and Mac computers). I IMPLORE WYZE TO CONTINUE TO REFINE THIS FIRMWARE! 
+Wyze claims this firmware is the first and last version they will release; that's a shame. While the firmware activates video, it is still in need of much work for microphone and speaker functionality (at least on Linux and Mac computers). I IMPLORE WYZE TO CONTINUE TO REFINE THIS FIRMWARE!
 
 A completely operational firmware will open up the market for Wyze Cams, but more importantly during these weird times, allow those who cannot purchase an inexpensive webcam to tap into your inventory of Wyze Cams so they can telecommute. The microphone must work for these webcams to be useful. If folks don't have a webcam, they likely don't have a secondary USB or internal microphone on their computer. Please Wyze, continue development. I'll be the first to raise my hand to help beta test and we need to do this sooner, rather than later.
 
