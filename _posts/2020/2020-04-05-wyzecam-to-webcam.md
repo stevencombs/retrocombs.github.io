@@ -19,16 +19,16 @@ tags:
 
 On March 31, 2019 and during the height of COVID-19, the folks who make the popular [Wyze cam](https://amzn.to/2R2sgn6) released a firmware update that allows you to convert their popular security camera into a webcam. This is a nice philanthropic move by the company and while there are likely to be critics who believe this move is only to sell more cameras, I choose to believe that Wyze is doing this to fill a need during this crisis and honestly, $25 for a webcam that can also be used as a security camera is one heckuva deal! And who doesn't need a good deal right now?
 
-In this post, I will demonstrate how flash a Wyze Cam Black into a "Wyze WebCam Black" with the new firmware and test out the quality of the image, microphone, and sound. Along the way, I also have and OPEN THE BOX segment with a brand new Wyze Cam Black. The black variant is the same as a Wyze Cam V2, only in black and available in limited numbers. If you want to view this segment only, [click here](https://youtu.be/TOy8VQSQ_0Q?t=292).
+In this post, I will demonstrate how to flash a Wyze Cam Black into a "Wyze WebCam Black" with the new firmware and test out the quality of the image, microphone, and sound. Along the way, I also include an OPEN THE BOX segment with a brand new Wyze Cam Black. The black variant is the same as a Wyze Cam V2, only in black and available in limited numbers. If you want to view this segment only, [click here](https://youtu.be/TOy8VQSQ_0Q?t=292).
 
-> **NOTE:** Once you flash Wyze Cam with the new firmware, you cannot connect the Wyze Cam to the app. Wyze also states that they don't plan to update the firmware in the future; however, you can flash the camera back to the stock firmware when you are done using the Wyze cam as a webcam. Lastly, they claim it has only been tested on Windows and Mac OS. I'll be testing it on Mac OS and Linux.
+> **NOTE:** Once you flash Wyze Cam with the new firmware, you cannot connect the Wyze Cam to the app. Wyze also states that they don't plan to update the firmware in the future; however, you can flash the camera back to the stock firmware when you are done using the Wyze cam as a webcam. Lastly, they claim it has only been tested on Windows and Mac OS. I test it on Mac OS and Linux.
 
 ## Camera compatibility
 
 This new firmware works with the following Wyze cam models:
 
-1. [Wyze Cam v2](https://amzn.to/2XcL5Yy) - Readily available and I have several of these around our home.
-2. Wyze Cam Black (Not currently available) - This is the model I use to demonstrate in the video below because in black, the Wyze Cam just looks more like a webcam.
+1. [Wyze Cam v2](https://amzn.to/2XcL5Yy) - Readily available and I have several around our home.
+2. Wyze Cam Black (Not currently available) - This is the model I use to demonstrate in the video because in black, the Wyze Cam just looks more like a webcam.
 2. [Wyze Cam Pan](https://amzn.to/3dW0L8E) - I have two of these in the house and while you can use the firmware on these models, you will lose the pan and scan functionality.
 
 ## Equipment
@@ -36,7 +36,7 @@ This new firmware works with the following Wyze cam models:
 You will need the following accessories:
 
 1. [32Gb microSD card](https://amzn.to/340oU9q) - I'm not sure why Wyze stipulates a 32Gb microSD when the firmware download is only 10Mb! My guess is you can use a smaller device but I'm going to use what they recommend for this demonstration.
-2. [USB A to USB A cable](https://amzn.to/2Jtel5c) - I could not believe I did not have one of these cables in my stock pile of cables! I had to purchase this two pack. *sigh*
+2. [USB A to USB A cable](https://amzn.to/2Jtel5c) - I could not believe I did not have one of these cables in my stock pile of cables! I had to purchase this two pack. Cue heavy *sigh*.
 
 ## YouTube video
 
@@ -49,7 +49,7 @@ A YouTube video demonstrating/testing the firmware installation process that als
 
 If you don't want to watch the video, below are simplified steps to update the firmware (modified from [these Wyze instructions](https://support.wyzecam.com/hc/en-us/articles/360041605111-Webcam-Firmware-Instructions?goal=0_bb26009792-8defbf621a-46958059&mc_cid=8defbf621a&mc_eid=0e13bb0dcd)):
 
-1. [Download the Wyze webcam firmware](https://wyze-firmware.s3-us-west-2.amazonaws.com/V2Webcam.zip)
+1. [Download the Wyze webcam firmware](https://wyze-firmware.s3-us-west-2.amazonaws.com/V2Webcam.zip).
 2. Extract the .zip file.
 3. Copy the two files inside the extracted folder on your computer to the root directory of the microSD card.
 4. Eject the microSD card from the computer.
@@ -89,8 +89,8 @@ Below are my thoughts, in bullet form, on the conversion and use of the new Wyze
 
 ## Final thoughts
 
-Wyze claims this firmware is the first and last version they will release; that's a shame. While the firmware activates video, it is still in need of much work for microphone and speaker functionality (at least on Linux and Mac computers). I would implore Wyze to continue to refine this firmware. 
+Wyze claims this firmware is the first and last version they will release; that's a shame. While the firmware activates video, it is still in need of much work for microphone and speaker functionality (at least on Linux and Mac computers). I IMPLORE WYZE TO CONTINUE TO REFINE THIS FIRMWARE! 
 
 A completely operational firmware will open up the market for Wyze Cams, but more importantly during these weird times, allow those who cannot purchase an inexpensive webcam to tap into your inventory of Wyze Cams so they can telecommute. The microphone must work for these webcams to be useful. If folks don't have a webcam, they likely don't have a secondary USB or internal microphone on their computer. Please Wyze, continue development. I'll be the first to raise my hand to help beta test and we need to do this sooner, rather than later.
 
-What's been your experience with Wyze Cams? Do you have a spare lying around the house that you plan to convert to a Wyze WebCam? Drop me comments below or at the YouTube video page.
+What's been your experience with Wyze Cams? Do you have a spare lying around the house that you plan to convert to a Wyze WebCam? Drop me a comment below or at the [YouTube video page](https://www.youtube.com/watch?v=TOy8VQSQ_0Q). Happy webcaming and remember, "wash those hands!"
