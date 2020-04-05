@@ -51,7 +51,10 @@ If you don't want to watch the video, below are simplified steps to update the f
 
 1. [Download the Wyze webcam firmware](https://wyze-firmware.s3-us-west-2.amazonaws.com/V2Webcam.zip).
 2. Extract the .zip file.
-3. Copy the **.bin** file inside the extracted folder on your computer to the root directory of the microSD card. In the video, I also copy the instructions PDF file. That's not necessary.
+3. Copy the **.bin** file inside the extracted folder on your computer to the root directory of the microSD card.
+
+    **CORRECTION:** In the video, I also copy the instructions PDF file. That's not necessary.
+
 4. Eject the microSD card from the computer.
 5. Insert the microSD card into the bottom of the Wyze Cam.
 6. Press and hold the _Setup_ button while you plug the camera into a powered USB port with the USB A to USB A cable.
