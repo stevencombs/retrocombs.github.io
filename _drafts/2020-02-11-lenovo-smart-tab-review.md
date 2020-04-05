@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bullet Review: Lenovo YOGA TAB with Google Assistant'
+title: 'BULLET REVIEW: Lenovo YOGA TAB with Google Assistant'
 date: 2020-01-11
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -11,6 +11,8 @@ tags:
   - lenovo
   - android
   - tablet
+  - assistant
+  - google
 ---
 
 Device Thoughts
