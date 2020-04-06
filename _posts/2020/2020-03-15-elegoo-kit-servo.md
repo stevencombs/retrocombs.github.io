@@ -77,7 +77,7 @@ Below is an image of all the materials required for this build and code project.
 
 Below is a Fritzing image that serves as instructions for project assembly. Watch the video if you don't understand a step or two in the process.
 
-![Fritzing project components](/images/posts/2020-03-15-arduino-micro-servo/arduino-led-encoder-servo.svg)
+![Fritzing project components](/images/posts/2020-03-15-arduino-micro-servo/arduino-led-encoder-servo_bb.png)
 
 [Download Fritzing file](/images/posts/2020-03-15-arduino-micro-servo/arduino-led-encoder-servo.fzz).
 
