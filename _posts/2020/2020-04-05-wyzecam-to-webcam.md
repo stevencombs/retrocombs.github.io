@@ -19,6 +19,8 @@ tags:
 
 On March 31, 2019 and during the height of COVID-19, the folks who make the popular [Wyze cam](https://amzn.to/2R2sgn6) released a firmware update that allows you to convert their popular security camera into a webcam. This is a nice philanthropic move by the company and while there are likely to be critics who believe this move is only to sell more cameras, I choose to believe that Wyze is doing this to fill a need during this crisis and honestly, $25 for a webcam that can also be used as a security camera is one heckuva deal! And who doesn't need a good deal right now?
 
+> **2020-04-07 UPDATE:** Several asked me why I did not test the camera on Chrome OS since I host the [Pixel Power Podcast](https://www.pixelpowerpodcast.com). Great question. You will find that video linked in this post below the original if you are interested in the firmware performance on Chrome OS devices.
+
 In this post, I will demonstrate how to flash a Wyze Cam Black into a "Wyze WebCam Black" with the new firmware and test out the quality of the image, microphone, and sound. Along the way, I also include an OPEN THE BOX segment with a brand new Wyze Cam Black. The black variant is the same as a Wyze Cam V2, only in black and available in limited numbers. If you want to view this segment only, [click here](https://youtu.be/TOy8VQSQ_0Q?t=292).
 
 > **NOTE:** Once you flash Wyze Cam with the new firmware, you cannot connect the Wyze Cam to the app. Wyze also states that they don't plan to update the firmware in the future; however, you can flash the camera back to the stock firmware when you are done using the Wyze cam as a webcam. Lastly, they claim it has only been tested on Windows and Mac OS. I test it on Mac OS and Linux.
@@ -43,6 +45,11 @@ You will need the following accessories:
 A YouTube video demonstrating/testing the firmware installation process that also includes a Wyze Cam Black OPEN THE BOX segment is below:
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/TOy8VQSQ_0Q" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
+</div>
+
+**2020-04-07 UPDATE:** below is the video showing the performance of the camera with new firmware on Chrome OS:
+
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/ft5GLFBIPNw" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
 ## Installation of the webcam firmware
@@ -89,6 +96,7 @@ Below are my thoughts, in bullet form, on the conversion and use of the new Wyze
 * The Wyze WebCam microphone is unusable and you will need a separate microphone ([Unusable Audio](https://youtu.be/TOy8VQSQ_0Q?t=687))
 * The speaker can be used, but expect enough lag between video and audio for it to be an annoyance ([Speaker latency](https://youtu.be/TOy8VQSQ_0Q?t=780))
 * I could not test on a Windows PC so if you have, please leave comments below
+* **2020-04-07 UPDATE:** I did test the camera on Chrome OS and as [you can see](https://youtu.be/ft5GLFBIPNw), the results were the same as Mac and Linux
 
 ## Final thoughts
 
