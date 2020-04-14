@@ -16,6 +16,8 @@ tags:
   - ota
 ---
 
+
+
 After a seven year affair with TiVo, I cancelled the account for our [Bolt](https://amzn.to/39wMQ6j). Unfortunately, it wasn't TiVo's fault but rather Comcast's. How you might ask? Because Comcast blew up our rate of $60 per month for Internet service and local channels - mind you, local channels only - to over $100! That's outrageous. No bit of negotiation would get the offer dropped. For the first time in three years, Comcast held firm on the new rate.
 
 My option was of course to cancel my Comcast service; however, I must have Internet access, so I was able to get a rate of $70 for Internet only. Anyone see an issue here? That's right, $10 more for less! I did maintain the same online access speed, 200 Mbps. Which left me with a TiVo that no longer has access to any channels. So it was time to cancel that additional $13 per month. I thought this would be a hassel because in the past, TiVo required a phone call to cancel. Not any more. Visit your account, press a button, and "boom," account closed. Kudos to TiVo; which made my decision to cancel TiVo even harder.
