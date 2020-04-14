@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OPEN THE BOX and FIRST USE: Wyze Scale and Wyze Band'
-date: 2020-04-12
+date: 2020-04-13
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
