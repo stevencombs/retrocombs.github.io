@@ -54,7 +54,7 @@ This solution requires the use of a script (unlike my Mac OS solution). Follow t
 
 The script is now in your home directory. Below is a table that describes each of the script's commands:
 
-| Command                                 | Descriptions                                                                     |
+| Command                                 | Description                                                                     |
 |:----------------------------------------|:---------------------------------------------------------------------------------|
 | `#!/bin/bash`                           | Specifies that the script will run in `bash`, not another shell (such as `fish`) |
 | `setxkbmap -option caps:none`           | Turns on off the cap lock feature of the caps lock key                           |
@@ -94,9 +94,7 @@ The last step is to set the *Albert* hotkey using the following steps:
 1. Launch _Albert_.
 2. Click the *Albert* notification icon.
 3. Select _Settings_ and the settings window will appear as shown below:
-
     ![Albert Settings](/images/posts/2020-04-14-capslock-as-launcher/albert-settings.png)
-
 4. Click the button next to the Hotkey: text.
 5. Press the Caps Lock key and it you should now see ScrollLock appear (as shown in the image above) because we have remapped the Caps Lock key to be the Scroll Lock key.
 6. Close the *Setting* window.
@@ -113,13 +111,9 @@ Here are the steps to launch the script at startup on Elementary OS:
 2. Select the *Applications* pane.
 3. As shown in the image below, click the Add Startup App… button in the lower left-hand corner of screen.
 4. In the custom *Terminal* text edit box in the lower left-hand corner type `./xmodmap.sh` as shown in the image below:
-
     ![](/images/posts/2020-04-14-capslock-as-launcher/xmodmap-script-startup.png)
-
 5. Hit the Return key the script will be added to the default startup applications list as shown in the image below:
-
     ![](/images/posts/2020-04-14-capslock-as-launcher/settings-application-startup.png)
-
 6. Reboot the computer and if all goes well, the script will run and the Caps Lock key will act as the Albert hotkey.
 
 ## And there you have it
