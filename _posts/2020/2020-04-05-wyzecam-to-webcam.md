@@ -40,7 +40,7 @@ You will need the following accessories:
 1. [32Gb microSD card](https://amzn.to/340oU9q) - I'm not sure why Wyze stipulates a 32Gb microSD when the firmware download is only 10Mb! My guess is you can use a smaller device but I'm going to use what they recommend for this demonstration.
 2. [USB A to USB A cable](https://amzn.to/2Jtel5c) - I could not believe I did not have one of these cables in my stock pile of cables! I had to purchase this two pack. Cue heavy *sigh*.
 
-## YouTube video
+## YouTube Video
 
 A YouTube video demonstrating/testing the firmware installation process that also includes a Wyze Cam Black OPEN THE BOX segment is below:
 

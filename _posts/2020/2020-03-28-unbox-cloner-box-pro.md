@@ -16,7 +16,7 @@ tags:
 
 Time to open the box on a [ClonerAlliance HDML-Cloner Box Pro](https://amzn.to/2UMUOCd); a device that promises to be the one device to capture them all (video that is). This post is not a full review, just a few thoughts and a short eight-minute YouTube video to show what's inside the box and talk about how I plan to use the device.
 
-The YouTube video, _OPEN THE BOX: ClonerAlliance HDML-Cloner Box Pro_, is below:
+## YouTube video, _OPEN THE BOX: ClonerAlliance HDML-Cloner Box Pro_
 
 <div style="position:relative;padding-top:56.25%;">
   <p><iframe src="https://www.youtube.com/embed/hUhrYNQCODY" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
