@@ -40,6 +40,14 @@ In the video, I demonstrate my attempt to use the Cloner Box Pro in three scenar
 
 In the words of Meatloaf, "two outta three, ain't bad."
 
+## USB Drive and microSD card
+
+I mention in the video that my original USB drive didn't work. Here's the link to the brand of microSD card that worked for me without any hiccups.
+
+    [Samsung MicroSDXC EVO with Adapter](https://amzn.to/3eFdoVR)
+
+I also like the form factor when combined with a [small microSD to USB adapter](https://amzn.to/3artVcz).
+
 ## About that Commodore Plus/4
 
 Two Commodore computers were available for demonstration; a Commodore VIC 20 and a Plus/4. I opted not to use the VIC 20 since it has a low resolution 24 character display. I also had a desire to try out the Plus/4.
