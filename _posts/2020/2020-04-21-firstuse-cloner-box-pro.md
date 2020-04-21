@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIRST USE: Cloner Alliance Box Pro (and would this be a good tool for retro-computing fans?)'
+title: 'FIRST USE: Cloner Alliance Box Pro (a good tool for retro-computing fans?)'
 date: 2020-04-21
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
