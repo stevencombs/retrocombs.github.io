@@ -34,9 +34,9 @@ Below the video, I have additional thoughts on the device and plans for this vid
 
 In the video, I demonstrate my attempt to use the Cloner Box Pro in three scenarios. Below is a results rollup:
 
-    ✓ - Capture video device menus (Roku, Android TV, Fire TV, etc.)
-    ✓ - Capture retro computer screens (Plus/4, Commodore 64, VIC-20, etc)
-    X - Capture HDMI live to OBS Studio on Linux and Mac
+1. Capture video device menus (Roku, Android TV, Fire TV, etc.). ✓
+2. Capture retro computer screens (Plus/4, Commodore 64, VIC-20, etc).  ✓
+3. Capture HDMI live to OBS Studio on Linux and Mac. X
 
 In the words of Meatloaf, "two outta three, ain't bad."
 
@@ -44,7 +44,7 @@ In the words of Meatloaf, "two outta three, ain't bad."
 
 I mention in the video that my original USB drive didn't work. Here's the link to the brand of microSD card that worked for me without any hiccups.
 
-    [Samsung MicroSDXC EVO with Adapter](https://amzn.to/3eFdoVR)
+[Samsung MicroSDXC EVO with Adapter](https://amzn.to/3eFdoVR)
 
 I also like the form factor when combined with a [small microSD to USB adapter](https://amzn.to/3artVcz).
 
@@ -70,7 +70,7 @@ The real problem is with video. The Cloner Box Pro will always display _recordin
 
 I was disappointed that I could not use the device with OBS Studio on Mac or Linux. I also couldn't record directly to those operating systems. A quick email and an almost quicker response (huge kudos to the Cloner Alliance support team) confirms that only Windows is supported at this time. You can read snippets of their response email below:
 
-```txt
+***
 Thank you very much for contacting and recommending our product on your website. ClonerAlliance Box Pro has two recording modes:
 
    1. Record to USB storage device
@@ -80,18 +80,18 @@ But I'm sorry that our product can't record to Mac or Linux PC. Would you please
 
 Here are instructions for your reference:
 
-    1. To USB Mode:
+1. To USB Mode:
 
     https://www.cloner-alliance.com/help/knowledgebase/how-to-record-videos-to-the-usb-storage-device-with-hdml-cloner-box-pro
 
-    2. To PC Mode:
+2. To PC Mode:
 
     https://www.cloner-alliance.com/help/knowledgebase/how-to-record-videos-to-pc-with-hdml-cloner-box-pro
 
 In addition, we will also forward your suggestion on Mac and Linux to our developers for their consideration. We will keep improving our product's compatibility so that it can be used on various platforms. Thanks again for sharing your idea with us.
 
 Your absolute satisfaction is our first priority. If you have any further issues or questions with our product, please simply reply this email so we can do our best to resolve them. Thanks for your trust!
-```
+***
 
 Mac and Linux functionality wasn't advertised, so this response wasn't a surprise, but this would not be a difficult feature addition. Cloner Alliance just needs to add the USB Video Class (UVC) standard to the Cloner Box Pro (which they've already done with their other devices) so Mac and Linux computers can recognize the Cloner Box Pro as a video capture device without installation of any drivers (suggests this non-developer). This will also allow the device to work with Windows without the need for additional drivers. Win-Win!
 
