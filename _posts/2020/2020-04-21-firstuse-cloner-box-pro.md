@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIRST USE: Cloner Alliance Cloner Box Pro (and would this be a good tool for retro-computing fans?)'
+title: 'FIRST USE: Cloner Alliance Box Pro (and would this be a good tool for retro-computing fans?)'
 date: 2020-04-21
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -18,21 +18,21 @@ tags:
   - plus/4
 ---
 
-In a [previous blog post](https://www.stevencombs.com/gadgets/2020/03/28/unbox-cloner-box-pro.html), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Cloner Box Pro](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
+In a [previous blog post](https://www.stevencombs.com/gadgets/2020/03/28/unbox-cloner-box-pro.html), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
 
-I knew the production of this video would push my DaVinci Resolve limits and because of COVID-19, I had time work on the project over the course of a couple of weeks. While preparing the video, I had another idea. Why not try and connect the Cloner Box Pro to a Commodore Plus/4. You can read more about that below.
+I knew the production of this video would push my DaVinci Resolve limits and because of COVID-19, I had time work on the project over the course of a couple of weeks. While preparing the video, I had another idea. Why not try and connect the Cloner Alliance Box Pro to a Commodore Plus/4. You can read more about that below.
 
-> **NOTE:** This post and video should not be confused with a full review of the Cloner Box Pro. I only provide a first use and thoughts.
+> **NOTE:** This post and video should not be confused with a full review of the Cloner Alliance Box Pro. I only provide a first use and thoughts.
 
 Below the video, I have additional thoughts on the device and plans for this video capture device.
 
-## YouTube Video: _FIRST USE: Cloner Alliance Cloner Box Pro_
+## YouTube Video: _FIRST USE: Cloner Alliance Box Pro_
 
 <div style="position:relative;padding-top:56.25%;">
   <p><iframe src="https://www.youtube.com/embed/dyCbBL9jkvQ" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
-In the video, I demonstrate my attempt to use the Cloner Box Pro in three scenarios. Below is a results rollup:
+In the video, I demonstrate my attempt to use the Cloner Alliance Box Pro in three scenarios. Below is a results rollup:
 
 1. Capture video device menus (Roku, Android TV, Fire TV, etc.). [✓]
 2. Capture retro computer (Plus/4, Commodore 64, VIC-20, etc).  [✓]
@@ -54,19 +54,19 @@ Two Commodore computers were available for demonstration; a Commodore VIC 20 and
 
 About six months ago I purchased the Plus/4 on eBay. This is my first Plus/4. I skipped this model in favor of a Commodore 128 (which I sorely miss).  eBay listing claimed that the Plus/4 was in like new condition. I was glad to see the Plus/4 boot up on the first attempt (which you get to experience with me in the video).
 
-I had not thought of this prior to my purchase, but the way the Cloner Box Pro works, it also serves as a wonderful interface between older 8-bit computers and modern HDMI monitors. Now that I know the Cloner Box Pro works well with the Plus/4, I have several blog post and video ideas in mind.
+I had not thought of this prior to my purchase, but the way the Cloner Alliance Box Pro works, it also serves as a wonderful interface between older 8-bit computers and modern HDMI monitors. Now that I know the Cloner Alliance Box Pro works well with the Plus/4, I have several blog post and video ideas in mind.
 
-In the video, I captured a couple of Plus/4 screens using the Cloner Box Pro. You can view one of those below:
+In the video, I captured a couple of Plus/4 screens using the Cloner Alliance Box Pro. You can view one of those below:
 
-![Cloner Box Pro screen capture from Commodore Plus/4](/images/posts/2020-04-21-plus-4-capture.JPG)
+![Cloner Alliance Box Pro screen capture from Commodore Plus/4](/images/posts/2020-04-21-plus-4-capture.JPG)
 
 ## Capture Caveats
 
-In the Plus/4 image above, you will note that the Cloner Box Pro interface is also captured. This is a limitation (not a deal killer). You need to be careful and ensure that that UI for the Cloner Box Pro is not displayed when you capture a screen.
+In the Plus/4 image above, you will note that the Cloner Alliance Box Pro interface is also captured. This is a limitation (not a deal killer). You need to be careful and ensure that that UI for the Cloner Alliance Box Pro is not displayed when you capture a screen.
 
-The real problem is with video. The Cloner Box Pro will always display _recording_ and _stop_ at the two ends of the video. To remove the UI display, you will need to leave some time on both ends and then trim the video on your computer. Not sure if Cloner Alliance could fix this flaw in a future firmware update. It seems to be inherent in the way the box operates.
+The real problem is with video. The Cloner Alliance Box Pro will always display _recording_ and _stop_ at the two ends of the video. To remove the UI display, you will need to leave some time on both ends and then trim the video on your computer. Not sure if Cloner Alliance could fix this flaw in a future firmware update. It seems to be inherent in the way the box operates.
 
-## Final thoughts about the Cloner Box Pro
+## Final thoughts about the Cloner Alliance Box Pro
 
 I was disappointed that I could not use the device with OBS Studio on Mac or Linux. I also couldn't record directly to those operating systems. A quick email and an almost quicker response (huge kudos to the Cloner Alliance support team) confirms that only Windows is supported at this time. You can read snippets of their response email below:
 
@@ -95,11 +95,11 @@ Your absolute satisfaction is our first priority. If you have any further issues
 
 ***
 
-Mac and Linux functionality wasn't advertised, so this response wasn't a surprise, but this would not be a difficult feature addition. Cloner Alliance just needs to add the USB Video Class (UVC) standard to the Cloner Box Pro (which they've already done with their other devices) so Mac and Linux computers can recognize the Cloner Box Pro as a video capture device without installation of any drivers (suggests this non-developer). This will also allow the device to work with Windows without the need for additional drivers. Win-Win!
+Mac and Linux functionality wasn't advertised, so this response wasn't a surprise, but this would not be a difficult feature addition. Cloner Alliance just needs to add the USB Video Class (UVC) standard to the Cloner Alliance Box Pro (which they've already done with their other devices) so Mac and Linux computers can recognize the Cloner Alliance Box Pro as a video capture device without installation of any drivers (suggests this non-developer). This will also allow the device to work with Windows without the need for additional drivers. Win-Win!
 
-Cloner Alliance already has UVC built in to their newest devices, the Cloner Alliance [Flint 4KP](https://amzn.to/3cBUiOm) and the [Flint Plus](https://amzn.to/3bqcLgL). You may be asking why I didn't purchase one of those models since the cost is only $20 and $40 higher. Simple, neither model includes that wonderful MMI cable that makes the Cloner Box Pro work so well recording retro computing. And now that I know the Cloner Box Pro is also a great retro device interface for HDMI monitors, for my use case, I made the correct choice. Maybe later a Flint Plus will land at my door (hint-hint Cloner Alliance).
+Cloner Alliance already has UVC built in to their newest devices, the Cloner Alliance [Flint 4KP](https://amzn.to/3cBUiOm) and the [Flint Plus](https://amzn.to/3bqcLgL). You may be asking why I didn't purchase one of those models since the cost is only $20 and $40 higher. Simple, neither model includes that wonderful MMI cable that makes the Cloner Alliance Box Pro work so well recording retro computing. And now that I know the Cloner Alliance Box Pro is also a great retro device interface for HDMI monitors, for my use case, I made the correct choice. Maybe later a Flint Plus will land at my door (hint-hint Cloner Alliance).
 
-In the meantime, I will continue to push the capabilities of the Cloner Alliance Cloner Box Pro. As I produce more video, this will surely be a tool that I continue to use to capture video of all kinds to include:
+In the meantime, I will continue to push the capabilities of the Cloner Alliance Box Pro. As I produce more video, this will surely be a tool that I continue to use to capture video of all kinds to include:
 
 * mi Box S
 * nVidia Shield
@@ -112,4 +112,4 @@ In the meantime, I will continue to push the capabilities of the Cloner Alliance
 
 Am I 100% happy with my purchase? Not quite 100%, but because of the way I plan to use the device, my level of satisfaction is definitely in the mid to high 80%. That percentage could rise as I continue to use the device. Time will tell.
 
-I hope you enjoyed these extra thoughts about the [Cloner Alliance Cloner Box Pro](https://amzn.to/2UMUOCd). Drop me a comment below or on the YouTube page to let me know. I'd love to hear from folks who use it in creative ways and with OSB Studio on Windows computers (since I don't have one in the house).
+I hope you enjoyed these extra thoughts about the [Cloner Alliance Box Pro](https://amzn.to/2UMUOCd). Drop me a comment below or on the YouTube page to let me know. I'd love to hear from folks who use it in creative ways and with OSB Studio on Windows computers (since I don't have one in the house).
