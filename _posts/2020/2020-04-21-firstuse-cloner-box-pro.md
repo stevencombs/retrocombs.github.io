@@ -34,9 +34,9 @@ Below the video, I have additional thoughts on the device and plans for this vid
 
 In the video, I demonstrate my attempt to use the Cloner Box Pro in three scenarios. Below is a results rollup:
 
-1. Capture video device menus (Roku, Android TV, Fire TV, etc.). ✓
-2. Capture retro computer (Plus/4, Commodore 64, VIC-20, etc).  ✓
-3. Capture HDMI live to OBS Studio on Linux and Mac. X
+1. Capture video device menus (Roku, Android TV, Fire TV, etc.). [✓]
+2. Capture retro computer (Plus/4, Commodore 64, VIC-20, etc).  [✓]
+3. Capture HDMI live to OBS Studio on Linux and Mac. [X]
 
 In the words of Meatloaf, "two outta three, ain't bad."
 
