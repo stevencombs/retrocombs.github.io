@@ -6,12 +6,11 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <p class="view">by {{ page.author | default: site.author }}</p>
-
-{{content}}
-
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+{{content}}
 
 <p><div id="amzn-assoc-ad-c2142033-3b12-4b1c-abec-ea989c18acc8"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=c2142033-3b12-4b1c-abec-ea989c18acc8"></script></p>
 
