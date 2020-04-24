@@ -1,11 +1,11 @@
 
 ---
 layout: post
-title: ‘OPEN THE BOX: Xfinity Flex’
-date: 2020-04-24
-author: ‘Steven B. Combs, Ph.D.’
-email: ‘steven.combs@gmail.com’
-comments: ‘yes’
+title: 'OPEN THE BOX: Xfinity Flex'
+date: '2020-04-24'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
+comments: 'yes'
 category: gadgets
 tags:
 - streaming
