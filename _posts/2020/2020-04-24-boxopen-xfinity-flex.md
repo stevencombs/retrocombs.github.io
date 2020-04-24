@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'OPEN THE BOX: Xfinity Flex'
@@ -8,12 +7,12 @@ email: 'steven.combs@gmail.com'
 comments: 'yes'
 category: gadgets
 tags:
-- streaming
-- video
-- xfinity
-- flex
-- roku
-- androidtv
+  - streaming
+  - video
+  - xfinity
+  - flex
+  - roku
+  - androidtv
 ---
 
 Two weeks ago, an email arrived from Xfinity. This isn’t unusual. I'm an Internet only customer (cord-cutter) with electronic billing. The message contained an offer for an Xfinity Flex. A what? What in the world is a Flex and how much is this going to cost me per month?
