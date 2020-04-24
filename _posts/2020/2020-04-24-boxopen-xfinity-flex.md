@@ -58,4 +58,6 @@ The COVID-19 CARD explains why the Flex arrived in the shrink wrap package (whic
 
 Now that the box is open, I look forward to a FIRST USE video where I will connect the Flex to my [Cloner Alliance Box Pro](https://www.stevencombs.com/gadgets/2020/04/21/firstuse-cloner-box-pro.html), press record, and turn on the Flex's power. We’ll watch it boot up together, dive into the user interface, and then load a video or two. I'm curious to see how this device compares to my two favorite steaming device platforms, [Roku](https://amzn.to/2Kx2unj) and [Android TV](https://amzn.to/2x2QYwH).
 
+At first glance, the only real advantage of this device seems to be in the free access to the streaming Peacock (NBC) premimum channel. Not sure if this membership extends to other devices, but will try and find out for the next post.
+
 Are you a Xfinity Flex user? What do you think about the device? Drop a comment and let me know. I’d also love to read about any hacks and exploits users have found before I record the FIRST USE video.
