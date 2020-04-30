@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIRST USE: Xfinity Flex Video Streamer)'
+title: 'FIRST USE: Xfinity Flex Video Streamer'
 date: '2020-04-30'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
