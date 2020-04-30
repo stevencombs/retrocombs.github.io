@@ -110,7 +110,7 @@ I present my thoughts about the device in this post as a series of lists. You ca
 
 ## Search
 
-1. Search, via text entry, on this device is painful since the remote does not have a keyboard. It's a "click, click, click" process through an ordered list of alphanumeric characters. Ouch! Luckily, search will begin to display results after three characters.
+1. Search, via text entry, on this device is painful since the remote does not have a keyboard. It's a "click, click, click" process through an ordered list of alphanumeric characters. Ouch! Luckily, search will begin to display results after a couple of characters.
 2. Searches for content across all applications and does this probably better than any other device I use.
 2. Voice search is atrocious. If you just want an exercise in frustration, be my guest and use it. Think voice controls from the early 2000s. This is not Google Assistant or Alexa. While the Flex includes a weather screen, you can't ask the device to, "Show me the weather."
 
