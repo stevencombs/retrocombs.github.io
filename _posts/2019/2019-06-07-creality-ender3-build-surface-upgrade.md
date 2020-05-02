@@ -14,7 +14,7 @@ tags:
   - surface
 ---
 
-I mentioned in my [last post][printer-setup] that my new Creality Ender-3 3D printer build surface is warped. I blame myself because when I removed fresh prints, I would often bend the build surface slightly to remove the new print. I learned quickly, DON'T DO THAT, STUPID! Because my build surface seems irreparably damaged, I ordered the replacement below for around $20.
+I mentioned in my [last post][printer-setup] that my new [Creality Ender-3](https://amzn.to/3d6WHB2) 3D printer build surface is warped. I blame myself because when I removed fresh prints, I would often bend the build surface slightly to remove the new print. I learned quickly, DON'T DO THAT, STUPID! Because my build surface seems irreparably damaged, I ordered the replacement below for around $20.
 
 [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][build-surface-amazon]
 
