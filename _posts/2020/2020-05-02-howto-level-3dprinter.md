@@ -22,7 +22,9 @@ tags:
 
 Since I finally have my process working consistently, it is time to share how I level the bed on my [Creality Ender-3](https://amzn.to/3d6WHB2) 3D printer with [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][https://amzn.to/31gy9R4] upgrade. If you a curious about the glass build surface upgrade, check out [this blog post](https://www.stevencombs.com/3dprinting/2019/06/08/creality-ender3-build-surface-upgrade.html).
 
-This post shares both a YouTube video that demonstrates my process and written instructions. To test out the bed leveling, I print a keyboard plunger for a Commodore VIC-20. The printed plunger will replace a broken one. Check out the video to see if I was successful.
+This post shares both a YouTube video that demonstrates my process and written instructions. To test out the bed leveling, I print a keyboard plunger for a Commodore VIC-20. The printed plunger will replace a broken one. Check out the video to see if I was successful (or see the image below for the spoiler):
+
+![Commodore VIC-20 key plunger printed](/images/posts/2020-05-02-keycap-old-new copy.jpg)
 
 > **NOTE:** This post is part of a [series on 3D Printers](https://www.stevencombs.com/3dprinting). More posts to come.
 
