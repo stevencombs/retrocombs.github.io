@@ -29,7 +29,7 @@ This post shares both a YouTube video that demonstrates my process and written i
 ## YouTube Video: _HOWTO: Level a Creality Ender 3 Surface Bed and Print a Commodore VIC-20 Key Plunger_
 
 <div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="link" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
+  <p><iframe src="https://www.youtube.com/embed/i_-T8uYWwBs" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
 ## The Problem
