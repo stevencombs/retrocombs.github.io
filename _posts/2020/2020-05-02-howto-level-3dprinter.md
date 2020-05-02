@@ -24,8 +24,6 @@ Since I finally have my process working consistently, it is time to share how I 
 
 This post shares both a YouTube video that demonstrates my process and written instructions. To test out the bed leveling, I print a keyboard plunger for a Commodore VIC-20. The printed plunger will replace a broken one. Check out the video to see if I was successful (or see the image below for the spoiler):
 
-![Commodore VIC-20 key plunger printed](/images/posts/2020-05-02-keycap-old-new copy.jpg)
-
 > **NOTE:** This post is part of a [series on 3D Printers](https://www.stevencombs.com/3dprinting). More posts to come.
 
 ## YouTube Video: _HOWTO: Level a Creality Ender 3 Surface Bed and Print a Commodore VIC-20 Key Plunger_
@@ -39,6 +37,8 @@ This post shares both a YouTube video that demonstrates my process and written i
 Once I level the bed, I am going to test the surface by printing a key plunger for a [Commodore VIC-20 computer](https://www.stevencombs.com/commodore/2017/07/26/commodore-v20-ebay-purchase.html). If you don't know what this is, it really doesn't matter with regard to leveling the print surface. If you do know what this is, greetings from a fellow retro-computing enthusiast.
 
 This is a perfect part to test the leveling on the Ender 3 because it is small and only connects to the print surface at two points (disregard my four point comments in the video) and those two points are small areas. If the bed isn't level and the heat set just properly, the print will fail miserably, and usually dramatically, with a mess of PLA.
+
+![Commodore VIC-20 key plunger printed](/images/posts/2020-05-02-keycap-old-new copy.jpg)
 
 You can [grab the VIC-20 key plunger STL file](https://www.thingiverse.com/thing:2677332) on Thingiverse. Thanks to Manuel Straub,
 [mannesahne](https://www.thingiverse.com/mannesahne/about), for creating this part.
