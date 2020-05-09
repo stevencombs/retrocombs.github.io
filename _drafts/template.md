@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 'OPEN: Title'
+title: 'SUBJECT: Title'
 date: '2020-01-11'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: gadgets
+category: 
 tags:
   -
 ---
-
-Opening
