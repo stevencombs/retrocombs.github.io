@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Commodore Computers
+title: Retro Computing and Gaming
 permalink: /retro
 ---
 
