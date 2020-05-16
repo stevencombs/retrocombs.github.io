@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Commodore Computers
-permalink: /commodore
+permalink: /retro
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/retro.svg" width="20%" />
