@@ -28,11 +28,13 @@ I was confident I could get the latest version of the IDE installed, but then pu
 
 I was dubious about hardware connectivity; however, with the IDE installed I could at least do some development on my [Pixel Slate](https://amzn.to/37eKmIG). Much to my surprise, and after much trial and error, I was able to install the Arduino IDE and upload code to an [Elegoo MEGA 2560](https://www.stevencombs.com/arduino/2020/01/11/elegoo-mega-starter-kit.html)! I was so excited, I just had to share my process.
 
-> **NOTE 1:** These steps were tested on both a Pixelbook and Pixel Slate using Chrome OS version 80 on the beta channel. I am unsure if this will work on previous versions.
+> **NOTE 1:** This post was updated on 2020-05-16 with refinements and updates from my readers. Many thanks to those who are making this post even more valuable! Join us by leaving your comments below.
 
-> **NOTE 2:** I used the Linux guide available at <https://www.arduino.cc/en/guide/linux> as a basis for these instructions.
+> **NOTE 2:** These steps were tested on both a Pixelbook and Pixel Slate using Chrome OS version 80 on the beta channel.
 
-> **NOTE 3:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* / *Enable Linux beta*.
+> **NOTE 3:** I used the Linux guide available at <https://www.arduino.cc/en/guide/linux> as a basis for these instructions.
+
+> **NOTE 4:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* / *Enable Linux beta*.
 
 Before I share the process, here's a video showing the Arduino IDE uploading code from my Pixel Slate to an Arduino Uno.
 
@@ -43,7 +45,7 @@ Before I share the process, here's a video showing the Arduino IDE uploading cod
 
 ## Download Chrome OS
 
-1. Chrome OS's Crostini virtual machine (VM) uses Debian, a Linux distribution. Because of this, we can use the software found on the Arduino download page at:
+1. Chrome OS's Crostini virtual machine (VM) uses Debian (version 9 on Chrome OS v80 and now 10 on Chrome OS v82), a Linux distribution. Because of this, we can use the software found on the Arduino download page at:
 
     <https://www.arduino.cc/en/Main/Software>
 
@@ -66,7 +68,7 @@ The Arduino IDE comes inside a compressed `.tar.xz` file format. Use the _Termin
 
 3. By default, Debian does not provide the option you need to decompress a `.tar.xz` file. You can install the required package using the commands below:
 
-    ```
+    ```bash
     sudo apt update
     sudo apt install xz-utils
     ```
@@ -91,7 +93,7 @@ Inside the extracted folder is an install script. Use the script to complete the
 
 3. The _Terminal_ is going to throw a lot of scary messages at you, similar to the following, but don't worry about them:
 
-    ```
+    ```bash
     Adding desktop shortcut, menu item and file associations for Arduino IDE...xdg-desktop-menu: No writable system menu directory found.
 
     xdg-desktop-menu: No writable system menu directory found.
@@ -109,7 +111,7 @@ This is where it gets strange. You will execute the install file one more time b
 
 More errors will appear but again, ignore them. When complete, a `Desktop` folder is created in your home directory (`cd ~`) with an `arduino-arduinoide.desktop` file inside. This `.desktop` file makes the Arduino IDE accessible via the _Launcher_. Below are the contents of the file:
 
-```
+```bash
 [Desktop Entry]
 Type=Application
 Name=Arduino IDE
@@ -128,11 +130,11 @@ Do nothing with the contents of the file but ensure it is not deleted. A review 
 
 ## Start the Arduino IDE
 
-If all went as expected, activate the _Launcher_ to view the new icon named _Arduino IDE_ as shown in the image below.
+Activate the _Launcher_ to view the new icon named _Arduino IDE_ as shown in the image below.
 
 ![Arduino IDE icon in_Launcher_](/images/posts/2020-01-20-arduino-ide-chrome-os/arduino-ide-icon-launcher.png)lin
 
-> **TIP:** Right-click on the Arduino icon and select `Pin to Shelf` for quick access.
+> **TIP:** Right-click on the Arduino icon and select _Pin to Shelf_ for quick access.
 
 ## Clean up your Linux home directory
 
@@ -140,18 +142,20 @@ Delete the original compressed file. This is as easy as selecting the file in th
 
 ## Enable USB devices in the VM
 
-USB device support is not activated by default. As mentioned, I assume you are on the Chrome OS beta channel with at least version 80. We will enable a Chrome OS flag to give us access to unsupported USB devices in the VM:
+USB device support is not activated by default. As mentioned, I assume you are on the Chrome OS beta channel with at least version 80 (see note below). We will enable a Chrome OS flag to give us access to unsupported USB devices in the VM:
 
-1. In the _Chrome address bar_, type the following:
+1. In the _Chrome Address Bar_, type the following:
 
     `chrome://flags`
 
-2. In the _Search flags_ area, type the following:
+2. In the _Search Flags_ area, type the following:
 
     `Crostini USB`
 
 3. Select the _Enabled_ option in the drop-down menu next to the _# Crostini Usb Allow Unsupported_ flag.
 4. Reboot the Chrome OS device.
+
+> As of Chrome OS v83, you no longer need to activate this flag.
 
 ## Connect the Arduino to the Chrome OS device
 
@@ -160,6 +164,8 @@ If you have a Pixelbook or Pixel Slate, you will need a USB-C (3.1) to USB-B (2.
 If you have a Chrome OS device with an older USB 3.0 or USB 2.0, plug the Arduino to the port. The Arduino's power light will turn on.
 
 So far so good!
+
+> As noted by reader, [Nathan Morse](https://disqus.com/by/disqus_WcwrX4qGCo/), "Let the record show that you must connect the Arduino[-esque] device to the USB before trying to change the Linux USB setting in Chrome OS. Totally works, now! You are a hero, [@Steven Combs](https://disqus.com/by/stevencombsphd/)!" - Well thanks so much Nathan for the shout-out and the solution to a longstanding Arduino clone connection problem. This solutions is reported as working on Chrome OS v81.
 
 ## Give Linux access to the USB device
 

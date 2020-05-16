@@ -5,7 +5,7 @@ date: '2020-01-11'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: commodore
+category: retro
 tags:
   - atari
   - 2600
@@ -58,7 +58,7 @@ It is important to note that Atari 2600 ownership was a pricey proposition for o
 
 As the console aged, many of the games in the list above came into our home at discount prices. This list should be longer; however, I've since forgotten some cartridges because they were so bad, I rarely played them. The one saving grace though is that we never did purchase the E.T. game which was so bad, they [buried all the unsold copies in a landfill](https://www.ctvnews.ca/sci-tech/documentary-explores-atari-s-downfall-dumping-of-et-game-at-landfill-1.2310755).
 
-There were some real bright spots though. Two brands stood above the rest; Imagic and Activision. Their games were far superior to Atari and I saved money from my summer mowing job and waited with baited for their cartridges. In much the same vain as owning an album with liner notes, I would select games by box art … 
+There were some real bright spots though. Two brands stood above the rest; Imagic and Activision. Their games were far superior to Atari and I saved money from my summer mowing job and waited with baited for their cartridges. In much the same vain as owning an album with liner notes, I would select games by box art …
 
 I continued to play the Atari 2600 through the early 1980s. The console lost favor in 1981 when I purchased my first home computer, the Commodore VIC-20. The VIC-20 took me from being a player to programming my own games. And that's a whole other story for another blog post. Suffice it to say, without the Atari 2600, I would not have continued my love of home computers.
 
