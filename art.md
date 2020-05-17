@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Art
+title: Art and Supplies
 permalink: /art
 ---
 
