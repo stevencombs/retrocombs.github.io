@@ -47,7 +47,7 @@ Below is a table of contents so you can link directly to various areas of this b
 - [Download Super RetroPie](#download-super-retropie)
 - [Transfer Image to microSD](#transfer-image-to-microsd)
 - [Transfer Wi-Fi Settings to Boot Partition](#transfer-wi-fi-settings-to-boot-partition)
-- [Tranfer ROMs to microSD Card](#tranfer-roms-to-microsd-card)
+- [Transfer ROMs](#transfer-roms)
 - [Assemble the GPi Case](#assemble-the-gpi-case)
 - [Insert microSD into Case and Boot](#insert-microsd-into-case-and-boot)
 - [Operating Super RetroPie](#operating-super-retropie)
@@ -150,11 +150,11 @@ If you are using a Raspberry Pi Zero W, you can use this wait time to prepare yo
 2. Enter YourSSID and YourPassWord with the SSID and password to connect to your home Wi-Fi router:
 3. If the image transfer to the microSD card is complete, copy the file to the root partition of the microSD drive.
 
-## Transfer ROMs to microSD Card
+## Transfer ROMs
 
 While you have the microSD card connected to your computer, you can speed up the transfer of ROM files by copying them over via a USB connection. ROMs must go into specific folders. The [Emulation Station starter page](https://emulationstation.org/gettingstarted.html) includes a list of all folder names. Consult this list before you drag and drop ROM files into folders.
 
-> NOTE: Just because you have a folder and have dropped ROMS into them, does not mean an emulator is installed. In the case of Super RetroPie, you still need to install VICE to run Commodore games. More on this process later.
+> **NOTE:** Just because you have a folder and have dropped ROMS into them, does not mean an emulator is installed. In the case of Super RetroPie, you still need to install VICE to run Commodore games. More on this process later.
 
 ## Assemble the GPi Case
 
