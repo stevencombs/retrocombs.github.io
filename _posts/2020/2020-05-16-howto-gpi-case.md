@@ -113,7 +113,7 @@ To download the image, follow the steps below:
 
 2. Download the _SuperRetroBoyRevE(5-5-20).rar_ image file.
 3. Extract the .rar file per your computer's OS (on most OS's this is as simple as a right-click and then choose _Extract_.)
-3. If you use a Raspberry Pi Zero W (that includes Wi-Fi) also download the _wpa-suppliant.conf_ file.
+4. If you use a Raspberry Pi Zero W (that includes Wi-Fi) also download the _wpa-suppliant.conf_ file.
 
 Make sure you can easily locate these files. You will need them for the next section. Now that you have the files, let's prepare a microSD card for the GPi Case.
 
@@ -147,28 +147,29 @@ If you are using a Raspberry Pi Zero W, you can use this wait time to prepare yo
     # RETROPIE CONFIG END
     ```
 
-2. Enter YourSSID and YourPassWord with the SSID and password to connect to your home Wi-Fi router:
+2. Replace `YourSSID` and `YourPassWord` with the SSID and password to connect to your home Wi-Fi router:
 3. If the image transfer to the microSD card is complete, copy the file to the root partition of the microSD drive.
 
 ## Transfer ROMs
 
 While you have the microSD card connected to your computer, you can speed up the transfer of ROM files by copying them over via a USB connection. ROMs must go into specific folders. The [Emulation Station starter page](https://emulationstation.org/gettingstarted.html) includes a list of all folder names. Consult this list before you drag and drop ROM files into folders.
 
-> **NOTE:** Just because you have a folder and have dropped ROMS into them, does not mean an emulator is installed. In the case of Super RetroPie, you still need to install VICE to run Commodore games. More on this process later.
+> **NOTE:** Just because you have a folder with ROMS, this does not mean the proper emulator is installed. In the case of Super RetroPie, you still need to install VICE to run Commodore games. More on this process later.
 
 ## Assemble the GPi Case
 
-I cover the assembly of the case extensively in [both videos](#youtube-video-_workbench-live-retroflag-gpi-case-with-super-retropie-emulation-software_) and as they say, "a picture is worth a thousand words…that I now don't have to type!" (Okay, I added that last part!); however, a few notes and observations are below:
+I cover the assembly of the case extensively in [both videos](#youtube-video-_workbench-live-retroflag-gpi-case-with-super-retropie-emulation-software_) and as they say, "a picture is worth a thousand words…that I don't have to type!" (Okay, I added that last part!); however, a few notes and observations are below:
 
-1. The small brass square with the embossed Raspberry Pi logo is in fact a heat sink. Place it on the CPU of the Raspberry Pi Zero W to help dissipate heat.
-2. Keep watch on your power cable. It's not a standard micro USB port. Might I recommend you throw this cable in the included case?
-3. Speaking of micro USB ports, If you remove the battery compartment, there's access to a micro USB port. [Check out these instructions](https://www.reddit.com/r/retroflag_gpi/comments/c1n41f/battery_door_usb_port_can_connect_to_the_rpi/) to learn how you can use the port to connect external USB devices.
+1. Pull the cartridge cover pieces apart carefully. I don't think they would break, but forcing them apart might cause damage.
+2. The small brass square with the embossed Raspberry Pi logo is in fact a heat sink. Place it on the CPU of the Raspberry Pi Zero W to help dissipate heat.
+3. Keep watch on your power cable. It's not a standard micro USB port. Might I recommend you throw this cable in the included case?
+4. Speaking of micro USB ports, If you remove the battery compartment, there's access to a micro USB port. [Check out these instructions](https://www.reddit.com/r/retroflag_gpi/comments/c1n41f/battery_door_usb_port_can_connect_to_the_rpi/) to learn how you can use the port to connect external USB devices.
 
     ![Case USB Port](/images/posts/2020-05-16-howto-gpi-case/usb-port.jpg)
 
-4. As I note in the video, after my own mistake, be sure not to remove the microSD tab cover while you assemble the cartridge holder.
-5. The screws to the Raspberry Pi holder a tiny! Keep them in the bag until you need them.
-6. The included screw driver was a nice surprise and incredibly useful for those tiny screws.
+5. As I note in the video, after my own mistake, be sure not to remove the microSD tab cover while you assemble the cartridge holder.
+6. The screws to the Raspberry Pi holder a tiny! Keep them in the bag until you need them.
+7. The included screw driver was a nice surprise and incredibly useful for those tiny screws.
 
 ## Insert microSD into Case and Boot
 
