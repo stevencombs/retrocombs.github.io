@@ -210,7 +210,7 @@ There are many "N/A" items in the table, but usage depends on the emulator and t
 
 > **NOTE:** The case also includes shoulder buttons on the back for emulators that require them (as shown in the image below).
 
-    ![Shoulder Buttons](/images/posts/2020-05-16-howto-gpi-case/shoulder-buttons.jpg)
+![Shoulder Buttons](/images/posts/2020-05-16-howto-gpi-case/shoulder-buttons.jpg)
 
 ## Batteries
 
