@@ -112,7 +112,7 @@ I continued to play the Atari 2600 through the early 1980s. The console lost fav
     *   Modify standard interface by modifying the .png files on the SD card
 *   Playing some games again for the first time (with background graphics)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTgwMjAxNCwxMzU0NjgxOTAxLC0xNz
-U5OTc5NzczLC0xOTMzNjg2ODMwLC00ODA4NjcwNDMsLTQ4NDc0
-NjUyMCwxMzEzODEwNl19
+eyJoaXN0b3J5IjpbLTE0ODQ5ODI2ODEsMTExMTgwMjAxNCwxMz
+U0NjgxOTAxLC0xNzU5OTc5NzczLC0xOTMzNjg2ODMwLC00ODA4
+NjcwNDMsLTQ4NDc0NjUyMCwxMzEzODEwNl19
 -->
