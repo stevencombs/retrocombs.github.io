@@ -64,9 +64,21 @@ I continued to play the Atari 2600 through the early 1980s. The console lost fav
 
 ## Enter the Hyperkin RetroN 77
 
+I found out about the Hyperkin while doing a bit of retrocomputing research online.
+
 ## Open the Box
 
 
+
+## First Use
+
+Using the stock firmware to begin. I will by pass the updated to the stock and go right to the community build.
+
+During the first use, I break out an upgraded joystick with mechanical switches. Use 🕹️ You can get yours here; however, I found the joystick that came with the RetroN to be superior for playing games and was much more nostalgic.
+
+## Community Image (Stella 6)
+
+Buttons on the back of R77 and what they do
 
 
 
