@@ -1,4 +1,7 @@
 *.plist
 *.DS_Store
 *.marked
-*Noto*
+*.woff2
+*.ttf
+*.eot
+assets/fonts/*

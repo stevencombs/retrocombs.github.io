@@ -40,4 +40,4 @@ I want this to be a collaborative project. If you are an experienced Plus/4 afic
 
 If you are new to the device like I am, post your questions and ideas for what you would like to see. Also let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/_faxuAlFHII).
 
-- retroCombs OUT!
+→ retroCombs OUT!

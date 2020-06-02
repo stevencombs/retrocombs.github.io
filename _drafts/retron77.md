@@ -68,7 +68,16 @@ I found out about the Hyperkin while doing a bit of retrocomputing research onli
 
 ## Open the Box
 
+In the video, I share my initial thoughts as I open the box; however, here's a short summary:
 
+1. Very impressed with the quality of the RetroN 77.
+2. The power switch as a nice "kerchunck."
+3. The woodgrain label is a nice throwback to the original Atari 2600 design; althought, how could would it be if actual wood was used?
+4. The wood grain is also used on the included joystick. Woodgrain was not on the original, so not sure why they decided to add. I suspect over time, the label will wear and we will wish they omitted the label and left it black.
+5. They joystick includes a button on both sides for your ambidextrous types.
+6. There are four micro-switch buttons in the back. I understand their placement, but I kind of wish they were in the front as well. You'll see me constanty looking at the back of the unit to click the correct switch.
+7. Size is just right. Not too small, not too big.
+8. I love that this unit allows me to use actual 2600 cartridges as well as ROM files. 
 
 ## First Use
 
