@@ -10,6 +10,8 @@ comments: yes
 
 I like technology and gadgets. I can't help myself. Budget permitting, I try them all and one of the products I didn’t own was a Chromebook. I am unsure why the Google laptop fascinates me. Is it the simplicity? Is it the synchronization with the Chrome browser on my Mac? Is it the Linux underpinnings? I'm really not sure, but I wanted one!
 
+[![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
+
 I tried Chrome OS on an old Acer netbook roughly two years ago; however, the installation was a hack and so was the performance. I wanted to experience a "real" Chromebook - one with the logo on the case and one created exclusively for the current version of Chrome OS. I choose the inexpensive [Acer C720](http://www.amazon.com/gp/product/B00FNPD1VW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FNPD1VW&linkCode=as2&tag=stevenccom-20).
 
 ![My Chromebook](https://lh5.googleusercontent.com/-yu5L6oA9m3M/VKRrPvV-DXI/AAAAAAABXY4/e3KGCGNUVGo/w638-h479-no/my-chromebook.png)
