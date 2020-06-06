@@ -13,6 +13,8 @@ I've been on the hunt for wallpaper for my Nexus 6 Project Fi phone. There are v
 
 {UPDATE: Aug 23, 2015} Many commented that my original wallpaper was not configured for the stock Google Now launcher. I have corrected this and I will now only create versions for the stock launcher.
 
+[![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
+
 ***
 **SUPPORT THIS POST WITH A TIP!** If you found this post or its contents useful, consider leaving a tip. The suggested tip amount for this post is 50¢. Use the button below to leave a tip via PayPal.
 

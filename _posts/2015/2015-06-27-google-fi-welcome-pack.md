@@ -13,6 +13,8 @@ Recently I received an invitation to join Google's [Project Fi](http://fi.google
 
 <font color="red">{**SPOILER ALERT!!!** This post will spoil a surprise that comes with selection as a Project Fi program member. You have been warned!}</font>
 
+[![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
+
 ***
 ![](https://lh4.googleusercontent.com/-s1nQl2X-7-Q/VZCOOksfmII/AAAAAAABlQQ/YMQmUrgUZPo/w1015-h1240-no/screenshot-mail_google_com_2015-06-28_20-02-49.png)
 After receipt of my invite to Project Fi, I followed the directions and ordered the Nexus 6 phone. Quickly after the transaction, I received a receipt. Highlighted above is the line on the receipt that piqued my curiosity.

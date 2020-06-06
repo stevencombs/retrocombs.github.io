@@ -77,7 +77,7 @@ In the video, I share my initial thoughts as I open the box; however, here's a s
 5. They joystick includes a button on both sides for your ambidextrous types.
 6. There are four micro-switch buttons in the back. I understand their placement, but I kind of wish they were in the front as well. You'll see me constanty looking at the back of the unit to click the correct switch.
 7. Size is just right. Not too small, not too big.
-8. I love that this unit allows me to use actual 2600 cartridges as well as ROM files. 
+8. I love that this unit allows me to use actual 2600 cartridges as well as ROM files.
 
 ## First Use
 

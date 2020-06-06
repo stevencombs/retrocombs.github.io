@@ -19,6 +19,8 @@ tags:
 
 It's time. Time to leave the iOS tablet ecosystem. I've used an iPad for the entire 10 years of the device's life and have moved from an original iPad to a 9.7 inch iPad Pro. I've not used an iOS phone for over five years and want a tablet that uses either Android or Chrome OS to make the useage of phone and tablet consistent.
 
+[![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
+
 Finding a good, nay adequate, Google-based tablet is not an easy proposition. Google stopped making Android tablets a couple of years ago. Their last Chrome OS tablet, the Pixel Slate (which I own and love but is too large for bed and table-side use) was discontinued last year. The most popular tablets running the Android operating system are [Amazon Fire tablets](https://amzn.to/2OI9boZ). And while they are good tablets, Fire OS is not pure Android and does not use the Google Play Store for apps. This means, no native Google apps on those devices without some "hacky" nonsense.
 
 ![Lenovo Smart Tab with Google Assistant](/images/posts/2020-02-09-lenovo-smart-tab.jpg)
