@@ -3,6 +3,7 @@ layout: post
 title: 'retroCombs: Commodore Plus/4 - Chapter 1, Unpacking and Setting Up'
 date: '2020-06-04'
 author: 'Steven B. Combs, Ph.D.'
+permalink: plus4-2
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 category: retro

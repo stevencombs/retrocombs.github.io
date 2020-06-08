@@ -4,6 +4,7 @@ title: 'retroCombs: Commodore Plus/4 - Part 1, Open the Box'
 date: '2020-05-23'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
+permalink: plus4-1
 comments: 'yes'
 category: retro
 tags:
