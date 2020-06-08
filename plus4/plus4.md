@@ -23,19 +23,23 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
 
-## Links to Videos
+## Links to Episodes
 
 Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
 
-1. [retroCombs: Commodore Plus/4 - Part 1, Open the Box](/plus4-1)
+1. [Commodore Plus/4 - Part 1, Open the Box](/plus4-1)
 
-    * [Commodore Plus/4 computer](https://en.wikipedia.org/wiki/Commodore_Plus/4)
+I share my first experience with a Commodore computer (it is not the Plus/4) and then we open the box on my eBay purchase.
+
+    * [Commodore Plus/4 Computer Wikipedia Entry](https://en.wikipedia.org/wiki/Commodore_Plus/4)
     * [Commodore Plus/4 Wiki](https://www.c64-wiki.com/wiki/Commodore_Plus/4)
     * [My blog](https://www.stevencombs.com/rss) (This site)
     * [My Twitter feed](https://www.twitter.com/stevencombs)
     * [My YouTube channel](https://www.youtube.com/stevencombs)
 
-2. [retroCombs: Commodore Plus/4 - Chapter 1, Unpacking and Setting Up](/plus4-2)
+2. [Commodore Plus/4 - Chapter 1, Unpacking and Setting Up](/plus4-2)
+
+I open the Commodore Plus/4 manual for the first time to look at Chapter 1: Unpacking and Setting Up. Since the previous episode was an Open the Box, unpacking is already complete so this episode focuses on setting up the computer. Along the way I share a very cool tip.
 
     * [kenable 5 Pin Male Din Plug to 4 x RCA Phono Male Plugs Audio Cable 2m (~6 feet)](https://amzn.to/3cvSq9t)
     * [Portable USB 2.0 AV/RCA Composite and S-Video Audio Video Capture Card Adapter VHS DVD](https://amzn.to/2Y0yKW3)
@@ -43,4 +47,4 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine))
 
 
-3. [retroCombs: Commodore Plus/4 - Chapter 2, Using the Keyboard and The Screen]() - Coming Soon
+3. [Commodore Plus/4 - Chapter 2, Using the Keyboard and The Screen]() - Coming Soon
