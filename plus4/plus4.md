@@ -27,9 +27,9 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 
 Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
 
-1. [Commodore Plus/4 - Part 1, Open the Box](/plus4-1)
+1. [Commodore Plus/4 - Open the Box](/plus4-1)
 
-I share my first experience with a Commodore computer (it is not the Plus/4) and then we open the box on my eBay purchase.
+    I share my first experience with a Commodore computer (it is not the Plus/4) and then we open the box on my eBay purchase.
 
     * [Commodore Plus/4 Computer Wikipedia Entry](https://en.wikipedia.org/wiki/Commodore_Plus/4)
     * [Commodore Plus/4 Wiki](https://www.c64-wiki.com/wiki/Commodore_Plus/4)
@@ -39,7 +39,7 @@ I share my first experience with a Commodore computer (it is not the Plus/4) and
 
 2. [Commodore Plus/4 - Chapter 1, Unpacking and Setting Up](/plus4-2)
 
-I open the Commodore Plus/4 manual for the first time to look at Chapter 1: Unpacking and Setting Up. Since the previous episode was an Open the Box, unpacking is already complete so this episode focuses on setting up the computer. Along the way I share a very cool tip.
+    I open the Commodore Plus/4 manual for the first time and look at Chapter 1: Unpacking and Setting Up. Since the previous episode was an open the box, unpacking is already complete and this episode focuses on setting up the computer. Along the way I share a very cool tip.
 
     * [kenable 5 Pin Male Din Plug to 4 x RCA Phono Male Plugs Audio Cable 2m (~6 feet)](https://amzn.to/3cvSq9t)
     * [Portable USB 2.0 AV/RCA Composite and S-Video Audio Video Capture Card Adapter VHS DVD](https://amzn.to/2Y0yKW3)
@@ -47,4 +47,6 @@ I open the Commodore Plus/4 manual for the first time to look at Chapter 1: Unpa
     * [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine))
 
 
-3. [Commodore Plus/4 - Chapter 2, Using the Keyboard and The Screen]() - Coming Soon
+3. [Commodore Plus/4 - Chapter 2, Using the Keyboard and the Screen]() - Coming Soon
+
+    I talk about the keyboard layout, using the keyboard, and then how keyboard combinations affect screen elements. This is really a "hands on" episode!

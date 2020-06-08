@@ -22,7 +22,7 @@ In the next Commodore Plus/4 retroCombs episode, I open the Commodore Plus/4 man
 
 ![Video Thumbnail](/images/posts/2020-06-04-retroCombs-thumbnail.jpg)
 
-## YouTube Video: _retroCombs: Commodore Plus/4, Part 1, Open the Box_
+## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 1, Unpacking and Setting Up_
 
 In the video below, I connect the Commodore Plus/4, not to a television or monitor, but to a computer and OBS Studio and then walk through Chapter 1 of the user's manual. I also discuss how I will use the Plus/4 with modern components and systems; a maker and geeky approach to retro-computing.
 
