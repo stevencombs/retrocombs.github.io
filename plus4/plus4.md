@@ -23,6 +23,22 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
 
+## Key to Keys
+
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I had to devise and modernize key nomenclature to identify keystroke combinations as shown in the table below:
+
+Key  | Description   | Key  | Description
+:----|:--------------|:-----|:-----------
+`⇪`  | Caps Lock     | `F1` | Function 1
+`C=` | Commodore     | `F2` | Function 2
+`⌃`  | Control       | `F3` | Function 3
+`⎋`  | Escape        | `F4` | Function 4
+`⌂`  | Home          | `F5` | Function 5
+`⌫`  | Insert/Delete | `F6` | Function 6
+`⏎`  | Return        | `F7` | Function 7
+`RS` | Run/Stop      | `F8` | Help
+`⇧`  | Shift         |      |
+
 ## Links to Episodes
 
 Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
