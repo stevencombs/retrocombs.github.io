@@ -22,6 +22,20 @@ In the next Commodore Plus/4 retroCombs episode, I open the Commodore Plus/4 man
 
 ![Video Thumbnail](/images/posts/2020-06-04-retroCombs-thumbnail.jpg)
 
+## Series Information
+
+This episode is part of a series. You can check the entire series and additional resources at:
+
+<https://www.stevencombs.com/plus4>
+
+## User's Manual
+
+As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below for this episode's chapter:
+
+[Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
+
+1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
+
 ## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 1, Unpacking and Setting Up_
 
 In the video below, I connect the Commodore Plus/4, not to a television or monitor, but to a computer and OBS Studio and then walk through Chapter 1 of the user's manual. I also discuss how I will use the Plus/4 with modern components and systems; a maker and geeky approach to retro-computing.

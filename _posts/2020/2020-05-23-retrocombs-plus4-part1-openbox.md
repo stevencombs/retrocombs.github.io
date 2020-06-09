@@ -21,7 +21,17 @@ Today I unveil the first in a new theme of posts, **retroCombs**. This theme is 
 
 ![Video Thumbnail](/images/posts/2020-05-23-retroCombs-thumbnail.jpg)
 
-This first post also includes the companion YouTube video below.
+## Series Information
+
+This episode is part of a series. You can check the entire series and additional resources at:
+
+<https://www.stevencombs.com/plus4>
+
+## User's Manual
+
+As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below for this episode's chapter:
+
+[User's Manual Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 
 ## YouTube Video: _retroCombs: Commodore Plus/4, Part 1, Open the Box_
 
