@@ -19,8 +19,6 @@ tags:
 
 Today I unveil the first in a new theme of posts, **retroCombs**. This theme is devoted to my love of retro computing and gaming. I have a [couple of retro posts](https://www.stevencombs.com/retro) on the blog, but now I have a [brand theme](https://youtu.be/iVw_ZBVBk7g) to tie them together. The first post to receive the brand is part one of a new series on the [Commodore Plus/4 computer](https://en.wikipedia.org/wiki/Commodore_Plus/4).
 
-![Video Thumbnail](/images/posts/2020-05-23-retroCombs-thumbnail.jpg)
-
 ## Series Information
 
 This episode is part of a series. You can read the entire series and view additional resources at:
