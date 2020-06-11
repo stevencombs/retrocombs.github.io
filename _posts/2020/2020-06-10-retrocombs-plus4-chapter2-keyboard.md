@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'retroCombs: Commodore Plus/4 - Chapter 2, Using the Keyboard and the Screen'
-date: '2020-06-04'
+date: '2020-06-10'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-3
 email: 'steven.combs@gmail.com'
@@ -14,11 +14,15 @@ tags:
   - unboxing
   - vic20
   - video
-  - machinelanguage
+  - keyboard
+  - keys
+  - characters
   - 1980s
 ---
 
-In the next Commodore Plus/4 retroCombs episode,
+In this Commodore Plus/4 retroCombs episode, I cover chapter 2 in the user's manual entitled, _Using the Keyboard and the Screen_. This chapter is chock full of keyboard instructions to help the user move around the screen, change text highlighting, modify lines of code, and create special characters. 
+
+In this blog post and the companions video, I run through each concept and present ways to uses these features. I even discover some "weirdness" with Commodore Basic. It's a packed episode that may take a couple of viewings to get through, but be sure you watch the entire episode if you want to see all the tips and quirks discovered.
 
 ![Video Thumbnail](/images/posts/2020-06-04-retroCombs-thumbnail.jpg)
 
@@ -37,18 +41,18 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 
-
 ## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 2, Using the Keyboard and the Screen_
 
-In the video below, I
+In the video below, I work through Chapter 2 of the user's manual. Along the way, I discover some keyboard tricks and discover some editing quirks.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/i11KWZ0560I" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Links Mentioned in this Episode:
 
 Below are the links mentioned in the video.
 
-1.
+1. [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+2. [uxcell 6 pin connectors 4 pack](https://amzn.to/3fe4huQ)
 
 ## Key to Keys
 
@@ -70,16 +74,16 @@ Key  | Description   | Key  | Description
 
 In this episode I describe and demonstrate each of the items below:
 
-1. Upper-case -vs- lower-case mode: Default is upper-case graphics mode. Switch between them with `⇧` + `C=`.
+1. Upper-case versus lower-case mode: Default is upper-case graphics mode. Switch between them with `⇧` + `C=`.
 
     > **WARNING:** Don't use the ⇧ key when typing basic programs.
 
-2. Run Stop `RS`: Stops a running program. `⇧` + `RS` loads and runs the first program program on a disk drive
+2. Run Stop `RS`: Stops a running program. `⇧` + `RS` loads and runs the first program on a disk drive
 
     > **TIP:** If there is a program in memory, `⇧` + `RS` will also fail to load the first program on a disk drive, but will still execute the run command on the code in memory.
 
 3. Cursor Keys: Covered in last episode, but Plus/4 includes all four keys!
-4. Clear Home `⌂`: Home, clear, and clear window functions. Home moves the cursor to the top-left corner of the screen (home). `⇧` + `⌂` move to cursor to the home and clears the screen. 2 x `⌂` Clears the main and other windows (more on windowing in chapter 4)
+4. Clear Home `⌂`: Home, clear, and clear window functions. Home moves the cursor to the top-left corner of the screen (home). `⇧` + `⌂` move to cursor to the home and clears the screen. 2 x `⌂` Clears the main and other windows (more on windowing in chapter 4).
 5. Control `⌃`: Works with other keys that we will learn throughout this series. `⌃` + S will pausing printing (!) and listing of a program. Any key resumes the listing.
 6. Commodore Key `C=`: Work with other keys. `C=` shift key for the left graphic characters on the keys, the bottom row of colors on the top number keys, and will slow down program scrolling.
 7. Color Controls:
@@ -127,7 +131,9 @@ In this episode I describe and demonstrate each of the items below:
 
 ## Random Thoughts
 
-I can't believe I learned so much about this computer just by reviewing the use of the keyboard.
+I can't believe I learned so much about this computer just by reviewing the use of the keyboard. I was also surprised to find how unpolished Commodore Basic was in the Plus/4 I have on hand. As I demonstrate in the video, there are some odd things happening when I use reverse and flash characters in keystrokes. 
+
+I didn't share this issue in the video; however, when using reverse and flash characters in a line of code and then using the cursor keys to move left and right in those same lines of code, will display some odd reverse characters. I'm going to explore these more, but my guess is there's some Commodore fan who can help explain this. If so, please reach out to me or drop a comment below.
 
 ## Join the Fun
 

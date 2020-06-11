@@ -63,6 +63,9 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine))
 
 
-3. [Commodore Plus/4 - Chapter 2, Using the Keyboard and the Screen]() - Coming Soon
+3. [Commodore Plus/4 - Chapter 2, Using the Keyboard and the Screen](/plus4-3) - Coming Soon
+
+    * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+    * [uxcell 6 pin connectors 4 pack](https://amzn.to/3fe4huQ)
 
     I talk about the keyboard layout, using the keyboard, and then how keyboard combinations affect screen elements. This is really a "hands on" episode!
