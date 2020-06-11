@@ -20,7 +20,7 @@ tags:
   - 1980s
 ---
 
-In this Commodore Plus/4 retroCombs episode, I cover chapter 2 in the user's manual entitled, _Using the Keyboard and the Screen_. This chapter is chock full of keyboard instructions to help the user move around the screen, change text highlighting, modify lines of code, and create special characters. 
+In this Commodore Plus/4 retroCombs episode, I cover chapter 2 in the user's manual entitled, _Using the Keyboard and the Screen_. This chapter is chock full of keyboard instructions to help the user move around the screen, change text highlighting, modify lines of code, and create special characters.
 
 In this blog post and the companions video, I run through each concept and present ways to uses these features. I even discover some "weirdness" with Commodore Basic. It's a packed episode that may take a couple of viewings to get through, but be sure you watch the entire episode if you want to see all the tips and quirks discovered.
 
@@ -45,7 +45,7 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 
 In the video below, I work through Chapter 2 of the user's manual. Along the way, I discover some keyboard tricks and discover some editing quirks.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/i11KWZ0560I" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/O2Mqi2iFFQI" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Links Mentioned in this Episode:
 
@@ -131,7 +131,7 @@ In this episode I describe and demonstrate each of the items below:
 
 ## Random Thoughts
 
-I can't believe I learned so much about this computer just by reviewing the use of the keyboard. I was also surprised to find how unpolished Commodore Basic was in the Plus/4 I have on hand. As I demonstrate in the video, there are some odd things happening when I use reverse and flash characters in keystrokes. 
+I can't believe I learned so much about this computer just by reviewing the use of the keyboard. I was also surprised to find how unpolished Commodore Basic was in the Plus/4 I have on hand. As I demonstrate in the video, there are some odd things happening when I use reverse and flash characters in keystrokes.
 
 I didn't share this issue in the video; however, when using reverse and flash characters in a line of code and then using the cursor keys to move left and right in those same lines of code, will display some odd reverse characters. I'm going to explore these more, but my guess is there's some Commodore fan who can help explain this. If so, please reach out to me or drop a comment below.
 
