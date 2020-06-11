@@ -23,7 +23,7 @@ Today I unveil the first in a new theme of posts, **retroCombs**. This theme is 
 
 ## Series Information
 
-This episode is part of a series. You can check the entire series and additional resources at:
+This episode is part of a series. You can read the entire series and view additional resources at:
 
 <https://www.stevencombs.com/plus4>
 

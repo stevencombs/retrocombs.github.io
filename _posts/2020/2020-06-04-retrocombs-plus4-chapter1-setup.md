@@ -20,11 +20,9 @@ tags:
 
 In the next Commodore Plus/4 retroCombs episode, I open the Commodore Plus/4 manual for the first time to look at _Chapter 1: Unpacking and Setting Up_. Since [the previous episode](https://youtu.be/_faxuAlFHII) was an Open the Box, unpacking is already complete so this episode focuses on setting up the computer. Watch the video below and then come back to this post to read some additional thoughts, find links to everything mentioned, and learn a few more additional tips.
 
-![Video Thumbnail](/images/posts/2020-06-04-retroCombs-thumbnail.jpg)
-
 ## Series Information
 
-This episode is part of a series. You can check the entire series and additional resources at:
+This episode is part of a series. You can read the entire series and view additional resources at:
 
 <https://www.stevencombs.com/plus4>
 

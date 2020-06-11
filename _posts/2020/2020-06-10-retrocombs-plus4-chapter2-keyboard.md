@@ -24,11 +24,9 @@ In this Commodore Plus/4 retroCombs episode, I cover chapter 2 in the user's man
 
 In this blog post and the companions video, I run through each concept and present ways to uses these features. I even discover some "weirdness" with Commodore Basic. It's a packed episode that may take a couple of viewings to get through, but be sure you watch the entire episode if you want to see all the tips and quirks discovered.
 
-![Video Thumbnail](/images/posts/2020-06-04-retroCombs-thumbnail.jpg)
-
 ## Series Information
 
-This episode is part of a series. You can check the entire series and additional resources at:
+This episode is part of a series. You can read the entire series and view additional resources at:
 
 <https://www.stevencombs.com/plus4>
 
