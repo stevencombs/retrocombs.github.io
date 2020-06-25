@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Create a blank .c64 disk image for the Pi1541'
+title: 'retroCombs: Create a blank .c64 disk image for the Pi1541 or SD2IEC'
 date: '2020-06-25'
 author: 'Steven B. Combs, Ph.D.'
 permalink: pi1541-2
@@ -18,14 +18,16 @@ tags:
   - diskdrive
   - sd
   - pi1451
-  - sd2iec 
+  - sd2iec
 ---
 
-In this supplemental episode to my [Commodore Plus/4 series](https://www.stevencombs.com/plus4), I share my experiences assembling the [Pi1541 Hat](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541) for a [Raspberry Pi Zero](https://amzn.to/2V2Je6U). Be on the lookout for a cameo appearance from Nikki!
+In my last post and video, I shared my experience with the assembly and first use of Pi1541. Not familar with the device? Take look here for more information. It's turned out to be a great device; if you have a bunch of disk images laying around your computer. As I began to prepare for my next using the Commodore Plus/4 episode, it became evident that I needed a blank disk image so I could save and load my own program files. I wasn't sure you could do this with the Pi1541 by itself, so I began to look for hints online. In this post and the accompanying video, I share that process as well as some other tips.
 
-## YouTube Video: _retroCombs: Pi1541 Assembly and First Use_
+> **NOTE:** While this process focuses on the creation of a .d64 diskette image for the Pi1541, it turns out that this same process works for SD2IEC devices.
 
-In the video below, you will see my process for assembling a Pi1541 hat for a Raspberry Pi Zero and share my first use.
+## YouTube Video: _Create a blank .c64 disk image for the Pi1541 or SD2IEC_
+
+In the video below, I share the content found in the blog post below.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/iiuS-cI2c6s" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
@@ -36,31 +38,103 @@ Below are the links mentioned in the video:
 1. [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64, 128, and Vic-20 Emulator with OLED display](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
 2. [Commodore4Ever](https://www.commodore4ever.net)
 3. [Pi1541 Project](https://cbm-pi1541.firebaseapp.com/)
-3. [Raspberry PI Zero](https://amzn.to/2V2Je6U)
-4. [Raspberry Pi Header](https://amzn.to/3fP6DQT)
-5. [6 PIN DIN Connectors](https://amzn.to/3hIGPYJ)
-6. [Serial Cables](https://www.ebay.com/itm/Serial-Cable-for-Commodore-64-C64-Disk-Drive-or-printer-1541-1571-3-ft-DIN-6-PIN/372816665018?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
-7. [Electrical Wire](https://amzn.to/3fP6M6T)
-8. [microSD Card](https://amzn.to/2YjmZvp)
-9. [microUSB Cable](https://amzn.to/37LGSym)
-10. [USB Charger](https://amzn.to/2NgeMBE)
-11. [SD2IEC](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR3.TRC1.A0.H0.Xsd2iec.TRS0&_nkw=sd2iec&_sacat=0)
+4. [Raspberry PI Zero](https://amzn.to/2V2Je6U)
+5. [Serial Cables](https://www.ebay.com/itm/Serial-Cable-for-Commodore-64-C64-Disk-Drive-or-printer-1541-1571-3-ft-DIN-6-PIN/372816665018?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+6. [microSD Card](https://amzn.to/2YjmZvp)
+7. [microUSB Cable](https://amzn.to/37LGSym)
+8. [SD2IEC](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR3.TRC1.A0.H0.Xsd2iec.TRS0&_nkw=sd2iec&_sacat=0)
 
-## Random Thoughts
+## Creating a blank .c64 disk image
 
-Assembly of the Pi1541 was easy. The hardest part was soldering the header pins on the Raspberry Pi Zero and especially those 6 PIN DIN connectors. The cable I created worked; however, it wasn't as flexible as I wished. I found cables on eBay and they arrived just in time for me to film the demonstration of the Pi1541. I'll use the cable I created for another project.
+The process for creating a blank image utilizes the [VICE (Versatile Commodore Emulator)](https://vice-emu.sourceforge.io/) emulator software. Installation of VICE varies by computer; however, I will run through the installation on a Linux distribution (Elementary OS). Check out the [VICE download page](https://vice-emu.sourceforge.io/index.html#download) for the many other versions available.
 
-This was one of the few projects where everything worked on the first attempt. I was surprised and happy. Usually my projects end up with several hours of troubleshooting.
+### Install VICE
 
-The user experience for this device is spot on. While I know I have some things to learn about the device, upon first use, it seems to live up to it's reputation as a "cycle-accurate" device that provides exceptional compatibility with software titles, cracks, and disk loaders. The only issues I had were with PAL software and my video capture device. I'll need to look into that one.
+For Linux users, the most recent version of VICE should be ready to install from your distribution's repositories. On my Elementary OS install (based on Ubuntu), it's as simple as:
 
-I mention in the video that I have plans for a Pi1541 for the Raspberry Pi Zero case. That planning is well underway and I even have a couple of prototype prints from my 3D printer. This project was a wonderful way to spend a Father's Day weekend!
+1. Launch the _Terminal_.
+2. Type `sudo apt update` and wait for the respository lists to update.
+3. Type `sudo apt install vice` and a terminal message similar to the one below will appear:
 
-I still have some things to learn about this device. I need to determine how to create a blank image on the SD card as well as format the device using the Plus/4. That's next on the workbench; how to use this device with the Plus/4.
+    ```bash
+    Reading package lists... Done
+    Building dependency tree
+    Reading state information... Done
+    The following additional packages will be installed:
+    libgtkglext1 libpangox-1.0-0
+    The following NEW packages will be installed:
+    libgtkglext1 libpangox-1.0-0 vice
+    0 upgraded, 3 newly installed, 0 to remove and 0 not upgraded.
+    Need to get 5,257 kB of archives.
+    After this operation, 34.0 MB of additional disk space will be used.
+    Do you want to continue? [Y/n]
+    ```
 
-I'm also intrigued by a similar project, the [Tapuino](http://sweetlilmre.blogspot.com/2014/07/tapuino-20-c64-tape-emulator.html). I'm currently planning to build that project and share my experience as part of this series. It's ingenious and will make a good supplemental device to the Pi1541.
+4. Type `y` at the prompt and VICE will install.
 
-That's it for this post. It's a short one but jam packed with the links you need to duplicate my project. Let me know if you have any questions using the comments below.
+For the Linux version, VICE will install several launchers for VICE as shown in the image below:
+
+![Various VICE Launchers](/pi1541/images/vice-versions.png)
+
+While we can use this software to create our own .d64 diskette image, the software is also a whole lot of fun for on the go retro-computing on other devices; but that's for another post, let's not get distracted and get back to the task at hand.
+
+### Create the diskette image
+
+Now that VICE is installed, we can create our diskette image using the following steps:
+
+1. Start the _VICE (C46)_ emulator on your computer. A screen similar to the one below will appear:
+
+    ![VICE 64 Screen](/pi1541/images/vice64.png)
+
+2. From the VICE menu, select _File_ / _Create and attach an empty disk image_ / _Device #8_. The following dialog box (or something very similar), will appear:
+
+    ![VICE Create Disk Image Dialog Box](/pi1541/images/create-image-dialog.png)
+
+3. Naviage a location where you can easily find the .d64 file after you create it. I like to use the _Downloads_ folder.
+3. In the name text edit area, type the name of the file you want to create. Keep it all lower case and no spaces.
+4. You can select which device to automatically connect in the lower-left of the dialog box; however, that has nothing to do with the create of the image. It simply connects the new image to that device number for VICE. Just leave the default `#8`.
+5. In the _Name_ text edit box, type a name for the image in all lower case and no more than 16 characters. This text will display when you list the contents of the directory on your Pi1541, SD2IEC, or within VICE.
+
+> NOTE: I have you type in everything with lower case characters because they will be converted to upper-case when using on a Commodore computer. You can use other symbols, but I recommend you take a look online at what symbols are allowed.
+
+6. The formatting _ID:_ text edit box is purely cosmetic and like _Name_ can be any two alpha-numeric characters you want. You can add characters or simply leave this box blank.
+7. Using the _Type_ dropdown menu, select the `d64` option (it should be the default).
+8. Select the _Save_ button to create the diskette image. VICE will also attach this new diskette image to the current VICE instance. If you remember your diskette commands (such as `LOAD "$",8` and then 'LIST'), you can play around with the image on your computer before we transfer it to the Pi1541.
+
+Remove your SD card an insert into your SD2IEC device.
+
+Select any of the newly created blank disks and use them like a regular blank disk.
+
+### Transfer the disk image
+
+Now that the diskette image is created, let's move it to the Pi1541.
+
+1. Place the Pi1541 SD card into the computer.
+2. Open a the file manager of choice.
+3. Browse to the _1541_ directory on the SD card.
+4. Copy the newly created .d64 from the computer to the _1541_ directory as shown in the image below:
+
+    ![transfer .d64 image to sd card](/pi1541/images/transfer-c64-sdcard.png)
+Insert your SD card into a PC.
+
+5. Once the images is transfered (it will take less than a second), eject the SD card.
+
+### Use the disk image
+
+With the image transfered, we can now give it a try.
+
+1. Insert the SD card into the Pi1541 (or SD2IEC device).
+2. Connect the Pi1541 to the computer using a serial cable.
+3. Connect the power to the Pi1541 using a microUSB cable.
+4. Turn on the Commodore computer (in my case, a Plus/4).
+5. Use the buttons on the Pi1541 to navigate to the .d64 image created.
+6. On the Commodore computer list a directory with either the `LOAD "&",8` or `DIRECTORY` commands (depending on the Commodore computer you are using with the first option usable by all).
+
+You should see a directory of listing of the new .d64 image and can now use it just like a 1541 disk drive and that includes the slow speed when loading larger programs!
+
+## Final Thoughts
+
+You could also find a copy of a blank .d64 file online, download it and then place on the SD card, but where's the fun, and learning, in that? Besides, now that you have the secret sauce, you can easily add a header to the image and create other types of diskette/tape images. It's the same process with different options. Go ahead and explore them all!
 
 ## Join the Fun
 
