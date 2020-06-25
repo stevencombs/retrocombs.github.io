@@ -76,6 +76,8 @@ Key  | Description   | Key  | Description
 
 Watcher, ????, shared why I was having issues with characters and cursor movements in the previous video. It is something he called, ???. I looked ahead and we will actually learn about this in the next chapter!
 
+User ???? Also provided some amazing feedback. Highly recommend you view his channel.
+
 ## Episode Contents
 
 In this episode I describe and demonstrate each of the items below:
@@ -118,7 +120,7 @@ In this episode I describe and demonstrate each of the items below:
 
     > For both the `LOAD` and `SAVE` command, you press `RS` to stop the process. For `SAVE`, press `RS` first then press stop on the datasette.
 
-6. Diskette ([Commodore 1551](https://www.c64-wiki.com/wiki/Commodore_1551) that was parallel rather than serial like the 1541/81. Format was not backward capatible - Uses a 5¼ inch diskette 💾 to load and save programs. Let's give it a try:
+6. Diskette ([Commodore 1551](https://www.c64-wiki.com/wiki/Commodore_1551) that was parallel rather than serial like the 1541/81. Format was not backward compatible - Uses a 5¼ inch diskette 💾 to load and save programs. Let's give it a try:
 
     Load a program on diskette:
 
@@ -159,7 +161,7 @@ In this episode I describe and demonstrate each of the items below:
 
 ## Random Thoughts
 
-In preparation for this episode, I had to assemble the Pi1541. That in itself was a post and a video. You can check it out here. I really wanted to demonstrate the use of a disk drive and a datasette as part of this video.
+In preparation for this episode, I had to assemble the Pi1541. That in itself was [a post](https://www.stevencombs.com/pi1541-1) and [a video](https://youtu.be/iiuS-cI2c6s). I really wanted to demonstrate the use of a disk drive and a datasette as part of this video.
 
 ## Join the Fun
 

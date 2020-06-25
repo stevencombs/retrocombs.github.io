@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'retroCombs: Pi1541 Assembly and First Use'
-date: '2020-06-21'
+title: 'retroCombs: Create a blank .c64 disk image for the Pi1541'
+date: '2020-06-25'
 author: 'Steven B. Combs, Ph.D.'
-permalink: pi1541-1
+permalink: pi1541-2
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 category: retro
@@ -17,9 +17,11 @@ tags:
   - software
   - diskdrive
   - sd
+  - pi1451
+  - sd2iec 
 ---
 
-In this supplemental episode to my [Commodore Plus/4 series](https://www.stevencombs.com/plus4), I share my experiences assembling the [Pi1541 Hat](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541) for a [Raspberry Pi Zero](https://amzn.to/2V2Je6U). In the episode, I solder a pin connector onto the Raspberry Pi Zero, solder and assemble a serial cable with two 6 pin DIN connectors, assemble the whole package, and start up the Pi1541 for a first use. For some extra fun, be on the lookout for a cameo appearance from Nikki and a former vice president!
+In this supplemental episode to my [Commodore Plus/4 series](https://www.stevencombs.com/plus4), I share my experiences assembling the [Pi1541 Hat](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541) for a [Raspberry Pi Zero](https://amzn.to/2V2Je6U). Be on the lookout for a cameo appearance from Nikki!
 
 ## YouTube Video: _retroCombs: Pi1541 Assembly and First Use_
 
