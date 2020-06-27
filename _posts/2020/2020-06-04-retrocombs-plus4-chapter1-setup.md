@@ -60,4 +60,4 @@ I mention in the video that I plan to look at modern components to replace items
 
 Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/fstxGJwj7jg).
 
-🕹️ retroCombs OUT!
+🕹️ retroCombs, OUT!

@@ -333,3 +333,5 @@ Follow this process EVERY time! 'nuff said?
 ## Summing it all up
 
 I love this case! I know I've only touched the surface of what this system is capable of and I'm looking forward to hours of exploration. Since I've recorded my videos, I've enjoyed numerous hours exploring classic Atari 2600 games and the memories wonderful! I hope this guide was helpful and that you will also enjoy hours of reto-gaming goodness. What could make this guide better? Drop a comment below and let me know.
+
+🕹️ retroCombs, OUT!
