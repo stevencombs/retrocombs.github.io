@@ -157,6 +157,10 @@ You will need the [smallest microSD card you can find](https://amzn.to/3fK9Mln).
 
 Format the card as FAT32. You can place directories on the microSD but keep them 16 characters or less and the shorter the better. In my demonstration, I have a _games_ folder with three `.tap` files with long names.	The Tapuino will scroll longer file and folder names.
 
+{UPDATE: 2020-07-22} The animated .gif below is a short "copying .tap files to the microSD card" demonstration:
+
+![Copying .tap files to the microSD card](/tapuino/copy-tap-files-to-sdcard.gif)
+
 When you save a file from a Commodore computer using the `SAVE` command, the Tapuino will create its own _recordings_ folder. As far as I know, there is no way to delete these files from the Commodore computer. You will need to remove the microSD and perform that function on a computer.
 
 Looking for Plus/4 `.tap` files? I recommend [Plus4world's](http://www.plus4world.com/) tape index. I would imagine any program released on cassette is archived but be careful, you have to select the right video version (PAL or NTSC). PAL specific programs will not work on an NTSC computer and vice-versa. And that's a real problem. If you own an NTSC Plus/4, like I do, you will find that you can't enjoy the majority of Plus/4 games. Most titles were PAL only since the computer was more popular across the pond.
