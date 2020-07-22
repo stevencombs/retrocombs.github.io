@@ -5,7 +5,7 @@ date: '2020-07-19'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 permalink: tapuino-1
-comments: 'yes'
+comments: yes
 category: retro
 tags:
   - commodore
