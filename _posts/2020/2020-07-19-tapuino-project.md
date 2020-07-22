@@ -14,7 +14,6 @@ tags:
   - retro-computing
   - arduino
   - plus4
-  - c16
   - ted
   - tap
 ---
@@ -157,7 +156,7 @@ You will need the [smallest microSD card you can find](https://amzn.to/3fK9Mln).
 
 Format the card as FAT32. You can place directories on the microSD but keep them 16 characters or less and the shorter the better. In my demonstration, I have a _games_ folder with three `.tap` files with long names.	The Tapuino will scroll longer file and folder names.
 
-**[UPDATE: 2020-07-22]** The animated .gif below is a short "copying .tap files to the microSD card" demonstration:
+**UPDATE 2020-07-22:** The animated .gif below is a short "copying .tap files to the microSD card" demonstration:
 
 ![Copying .tap files to the microSD card](/tapuino/copy-tap-files-to-sdcard.gif)
 
@@ -199,12 +198,3 @@ Huge thanks to Sweetlilmre for the original instructions. This would not have be
 * [1337 beef: Building the Tapuino R2](http://sweetlilmre.blogspot.com/2015/03/building-tapuino-r2.html?m=1)
 * [GITHUB: sweetlilmre/tapuino: tapuino](https://github.com/sweetlilmre/tapuino)
 * [Build your own 1530 to C16,C116,Plus/4 adapter and make an C64 SD2IEC work on your 264 computer – awsm](http://blog.awsm.de/build-your-own-1530-to-c16c116plus-4-adapter-and-make-an-c64-sd2iec-work-on-your-264-computer/)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzI2MTU4NSwtNjEzNzI0NTc1LC05ND
-U2NzgyNDcsLTI2MDU4MTE5NSwtMTE0ODM0MTQwMyw0MTEzMjAx
-ODEsMTQ3Njg0ODM1MSwtNTgzMTgxNTU0LC05NzU2NDc5NDAsLT
-E4MzU2OTYxODgsLTE2MzE1NTI0MDIsLTgwODg2NjY3MCwzNzQ4
-ODAxNzYsMTIyNDE2MTIwLDEwMzg0MDUyNDYsMTAzODQwNTI0Ni
-w2MzM0NjY1MDYsMTI2Mzg4MTEzMywtMTkwNjE0OTI4Ml19
--->
