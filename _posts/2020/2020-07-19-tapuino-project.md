@@ -154,11 +154,11 @@ This is another process that deserves its own section. Once the Tapuino is built
 
 You will need the [smallest microSD card you can find](https://amzn.to/3fK9Mln). I only had a 32Gb card and this is overkill! If I could find a 1, 2, 4, 8, or 16 that would be fine, but you can't even purchase them in these configurations!
 
-Format the card as FAT32. You can place directories on the microSD but keep them 16 characters or less and the shorter the better. In my demonstration, I have a _games_ folder with three `.tap` files with long names.	The Tapuino will scroll longer file and folder names.
+Format the card as FAT32. You can place directories on the microSD but keep them 16 characters or less and the shorter the better. In my demonstration, I have a _games_ folder with three `.tap` files with long names. The Tapuino will scroll longer file and folder names.
 
 **UPDATE 2020-07-22:** The animated .gif below is a short "copying .tap files to the microSD card" demonstration:
 
-![Copying .tap files to the microSD card](/tapuino/copy-tap-files-to-sdcard.gif)
+![Copying files to the microSD card](/tapuino/copy-tap-files-to-sdcard.gif)
 
 When you save a file from a Commodore computer using the `SAVE` command, the Tapuino will create its own _recordings_ folder. As far as I know, there is no way to delete these files from the Commodore computer. You will need to remove the microSD and perform that function on a computer.
 
@@ -172,12 +172,12 @@ You can now turn on power to the computer and that will also power the Tapuino.
 
 The Tapuino includes four buttons to navigate the Tapuino interface as shown in the table below:
 
-| Button | Usage |
-|--|--|
-| 1 | Select |
-| 2 | Abort/Back |
-| 3 | Down |
-| 4 | Up |
+| Button | Usage      |
+|--------|------------|
+| 1      | Select     |
+| 2      | Abort/Back |
+| 3      | Down       |
+| 4      | Up         |
 
 To display the contents of a directory, navigate to the directory and push button 1 (Select). If you need to stop a program from saving or loading on the Tapuino, you can push button 2 (Abort). The navigation is intuitive after a few uses.
 
