@@ -157,7 +157,7 @@ You will need the [smallest microSD card you can find](https://amzn.to/3fK9Mln).
 
 Format the card as FAT32. You can place directories on the microSD but keep them 16 characters or less and the shorter the better. In my demonstration, I have a _games_ folder with three `.tap` files with long names.	The Tapuino will scroll longer file and folder names.
 
-{UPDATE: 2020-07-22} The animated .gif below is a short "copying .tap files to the microSD card" demonstration:
+**[UPDATE: 2020-07-22]** The animated .gif below is a short "copying .tap files to the microSD card" demonstration:
 
 ![Copying .tap files to the microSD card](/tapuino/copy-tap-files-to-sdcard.gif)
 
