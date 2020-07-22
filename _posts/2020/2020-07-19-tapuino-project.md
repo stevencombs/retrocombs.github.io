@@ -21,7 +21,7 @@ tags:
 
 As part of my [Commodore Plus/4 series](https://www.stevencombs.com/plus4), chapter three, of the user's manual, includes a sections on using a datasette and a disk drive. In a previous post, I created the [modern replacement for the disk drive](https://www.stevencombs.com/pi1541), now it's time to create a datasette replacement called, the Tapuino.
 
-"What's a Tapuino," you ask? It's a cool modern replacement for the [Commodore Datasette](https://en.wikipedia.org/wiki/Commodore_Datasette) made from an Arduino, in this case the [inexpensive nano version](https://amzn.to/2ZLXbaL) along with some easy to source electronic components. You can learn all about the Tapuino on the [Sweetlilmre's 1337 beef: Building the Tapuino R2](http://sweetlilmre.blogspot.com/2015/03/building-tapuino-r2.html?m=1) blog post.
+"What's a Tapuino," you ask? It's an Arduino-based modern replacement for the [Commodore Datasette](https://en.wikipedia.org/wiki/Commodore_Datasette). For this project, the [inexpensive Arduino Nano version](https://amzn.to/2ZLXbaL) along with some easy to source electronic components. You can learn all about the Tapuino on the [Sweetlilmre's 1337 beef: Building the Tapuino R2](http://sweetlilmre.blogspot.com/2015/03/building-tapuino-r2.html?m=1) blog post.
 
 > **NOTE:** While this post focuses on the Tapuino for a Commodore Plus/4, this build will also work with a C16 or other TED series Commodore computer. If you want to use the Tapuino with a VIC-20, C64, or C128, you only need to replace the 7 pin DIN connector with this [C2N Power Adapter](http://store.go4retro.com/c2n-power/) that will also allow you to tap power from those computers for other projects.
 
@@ -33,7 +33,7 @@ This post and the companion video will include updates to build materials, layou
 
 In the video below, I breadboard and operate a Tapuino:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/QmBL6v32O5I" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/1Dqbg1-s0m4" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 Let's get this project started by listing all the materials necessary.
 
