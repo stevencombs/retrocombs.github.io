@@ -17,7 +17,6 @@ tags:
   - keyboard
   - keys
   - characters
-  - 1980s
   - software
   - diskdrive
   - datasette
@@ -52,9 +51,10 @@ In the video below, I work through Chapter 3 of the user's manual and instead of
 
 Below are the links mentioned in the video.
 
-1. [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
-2. [uxcell 6 pin connectors 4 pack](https://amzn.to/3fe4huQ)
-3. [Assembling the Pi1541](link)
+1. [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
+2. [Pi1541 Setup](/pi1541-1)
+3. [Create a Blank .d64 disk image](pi1541-2)
+3. [Tapuino Project](/tapuino-1)
 
 ## Key to Keys
 
@@ -78,26 +78,34 @@ Watcher, ????, shared why I was having issues with characters and cursor movemen
 
 User ???? Also provided some amazing feedback. Highly recommend you view his channel.
 
-## Episode Contents
+THANKS TO EVERYONE FOR ALL THE FEEDBACK!!! Makes this project even more fun and I'm learning and relearning so much.
 
-In this episode I describe and demonstrate each of the items below:
+## Introduction
 
 1. "The family of software available...is growing quickly?"
 2. Plus/4 can use cartridge, cassette tape, or diskette. Use the cassette or diskette to create and store your own programs.
-3. Also includes four built-in software packages (more in future episodes). Simply press the F1 key ([see last episode](/plus4-3)).
-4. Cartridges - Includes a variety of personal, education, business and games software. The only cartridge I have is this diagnostic cart from TFW8B.com. Let's try it:
+
+## Built-In Software
+
+Includes four built-in software packages (more in future episodes). Simply press the F1 key ([see last episode](/plus4-3)).
+
+## Cartridges
+
+Includes a variety of personal, education, business and games software. The only cartridge I have is this diagnostic cart from [TFW8B.com](https://www.thefuturewas8bit.com/diag-264.html). Let's try it:
 
     * Turn off Plus/4
     * Insert cartridge (label facing up)
     * Turn on Plus/4
 
-5. Cassettes ([Commodore 1531](https://www.c64-wiki.com/wiki/Commodore_1531)) - "These tapes are similar to music cassettes." While other computers could use a cassette player, the Commodore uses their own "datasette." Use the datasette to create and store your own programs. We will use a C2N datasette for VIC-20 and a Tapduino (later). Let's use the datasette to load and save programs.
+## Cassettes
+
+([Commodore 1531](https://www.c64-wiki.com/wiki/Commodore_1531)) and "These tapes are similar to music cassettes." While other computers could use a cassette player, the Commodore uses their own "datasette." Use the datasette to create and store your own programs. We will use Tapuino (adding that modern spin to our retro-computing experience). Let's use the Tapuino to load and save programs.
 
     Load a program on cassette:
 
     * Insert a cassette into datasette
     * Rewind tape to beginning (or FFW or RW to a time code)
-    * Type `LOAD` and press `⏎`. The computer will display:
+    * Type `LOAD` (or use the shortcut: `L` then `⇧ + o`) and press `⏎`. The computer will display:
 
         `PRESS PLAY ON TAPE`
 
@@ -120,9 +128,11 @@ In this episode I describe and demonstrate each of the items below:
 
     > For both the `LOAD` and `SAVE` command, you press `RS` to stop the process. For `SAVE`, press `RS` first then press stop on the datasette.
 
-6. Diskette ([Commodore 1551](https://www.c64-wiki.com/wiki/Commodore_1551) that was parallel rather than serial like the 1541/81. Format was not backward compatible - Uses a 5¼ inch diskette 💾 to load and save programs. Let's give it a try:
+## Diskette
 
-    Load a program on diskette:
+([Commodore 1551](https://www.c64-wiki.com/wiki/Commodore_1551) that was parallel rather than serial like the 1541/81. Format was not backward compatible - Uses a 5¼ inch diskette 💾 to load and save programs. Let's give it a try:
+
+    ### Load a program on diskette:**
 
     * Insert a diskette into disk drive and close the protective door.
     * Type `DLOAD "PRGRAM NAME` or `F2` followed by the program name and press `⏎`.
@@ -143,14 +153,23 @@ In this episode I describe and demonstrate each of the items below:
 
     * When the program is loaded, `READY` will appear. type `RUN` to run the program. If the program is a basic program, you can use the `LIST` command to view and modify.
 
-    Display directory of a diskette:
+    ### Headering a diskette:**
 
-    * Insert a diskette into the disk drive
-    * Type `DIRECTORY` and press `⏎`. The computer will display:
+    * In modern parlance, _Format_. Prepare a diskette to store data.
+    * Format for `HEADER` command:
 
-        `???`
+    `HEADER` "disk name", `U`device`#`,`I`.d.`#`,`D`rive`#`
 
-    Save a program to disk drive:
+        * _Disk Name_ - Name of the entire disk up to 16 characters
+        * _Device #_ - Specifies the diskette drive (usually 8)
+        * _I.D. #_ - A user assigned I.D. number that should be unique for each disk
+        * _Drive #_ - Used for dual drive models where D0 should be used for single drive models
+
+    Example: `HEADER "LETTERS",U8,I07,D0`
+
+    More information on the `HEADER` command is on page 101 (The Plus/4 Encyclopedia)
+
+    ### Save a programs on diskette:**
 
     * Insert a diskette into the disk drive
     * Type `DSAVE "program name` (same name constraints as tape) and press `⏎`. The computer will display:
@@ -159,9 +178,27 @@ In this episode I describe and demonstrate each of the items below:
 
     * The screen will blank and when the program is saved, will display `READY`.
 
+  ## The DIRECTORY command
+
+    * Insert a diskette into the disk drive
+    * Type `DIRECTORY` and press `⏎`. The Plus/4 will display:
+
+        `???`
+
+    * Type `DIRECTORY "MY*"`. The Plus/4 will display all files that start with `MY`.
+
 ## Random Thoughts
 
-In preparation for this episode, I had to assemble the Pi1541. That in itself was [a post](https://www.stevencombs.com/pi1541-1) and [a video](https://youtu.be/iiuS-cI2c6s). I really wanted to demonstrate the use of a disk drive and a datasette as part of this video.
+In preparation for this episode, I had to assemble the Pi1541. That in itself was [a post](https://www.stevencombs.com/pi1541-1) and [a video](https://youtu.be/iiuS-cI2c6s).
+
+I also delayed this video to create a Tapuino (an Arduino based modern Datasette clone). You can [view that process here](/tapuino-1).
+
+Both of these modern auxilary storage device replacements allowed me to create this video since both of the Plus/4 specific devices are very difficult to find.
+
+## Modern additions to Chapter 3
+
+NOTE: Stephen White
+You can also use VICE to create D81 images. With Pi1541 there are some other ways to create blank disk images. Without any images mounted you can do one of the following;- Press ALT-N on the Pi's keyboard to create a new D64 image (it will use the AutobaseName config option for naming). You can also do it in COMMODORE DOS from the READY prompt;- OPEN 1,8,15,”N0:FILENAME.D64,01”:CLOSE 15 In BASIC 7: HEADER “FILENAME.D64”, XYZ, U8 Where XYZ is a 3-char disk ID
 
 ## Join the Fun
 
