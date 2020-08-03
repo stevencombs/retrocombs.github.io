@@ -1,0 +1,229 @@
+---
+layout: post
+title: 'retroCombs: Commodore Plus/4 - Chapter 3, Using Software'
+date: '2020-07-02'
+author: 'Steven B. Combs, Ph.D.'
+permalink: plus4-4
+email: 'steven.combs@gmail.com'
+comments: 'yes'
+category: retro
+tags:
+  - commodore
+  - retro
+  - plus4
+  - unboxing
+  - vic20
+  - video
+  - keyboard
+  - keys
+  - characters
+  - software
+  - diskdrive
+  - datasette
+  - cassette
+---
+
+In this Commodore Plus/4 retroCombs episode, I cover chapter 3 of the Commodore Plus/4 user's manual. This chapter is dedicated to _Using Software_ and there are several ways to load and save software using; cartridges, datasettes, and diskettes. In this post and the accompanying video, I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](https://www.stevencombs.com/tapuino-1), and a [Pi1541](https://www.stevencombs.com/pi1541-1).
+
+## Series Information
+
+This episode is a small part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
+
+<https://www.stevencombs.com/plus4>
+
+## User's Manual
+
+As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
+
+[Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
+
+Below are the links for previous chapters covered:
+
+1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
+2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
+3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
+
+## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 3, Using Software_
+
+In the video below, I work through Chapter 3 of the user's manual. I deviate slightly from the manual in topic presentation order to add clarity and I also add a bonus command. Along the way, I also share how to use a cartridge, the Tapuino, and the Pi1541
+
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+## Links Mentioned in this Episode:
+
+Below are the links I mention in the video.
+
+1. [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
+2. [Pi1541 Setup](/pi1541-1)
+3. [Create a Blank .d64 disk image](/pi1541-2)
+4. [Tapuino Project](/tapuino-1)
+5. [DIAG 264 Cartridge](https://www.thefuturewas8bit.com/diag-264.html)
+
+## Key to Keys
+
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I had to devise and modernize key nomenclature to identify keystroke combinations as shown in the table below:
+hat
+Key  | Description   | Key  | Description
+:----|:--------------|:-----|:-----------
+`⇪`  | Caps Lock     | `F1` | Function 1
+`C=` | Commodore     | `F2` | Function 2
+`⌃`  | Control       | `F3` | Function 3
+`⎋`  | Escape        | `F4` | Function 4
+`⌂`  | Home          | `F5` | Function 5
+`⌫`  | Insert/Delete | `F6` | Function 6
+`⏎`  | Return        | `F7` | Function 7
+`RS` | Run/Stop      | `F8` | Help
+`⇧`  | Shift         |      |
+
+## Previous Episode Errata
+
+THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project even more fun and I'm learning and relearning so much.
+
+## Introduction
+
+1. "The family of software available...is growing quickly?" It did? It may have in Europe; however, the U.S. units couldn't use most of it since they were in PAL format.
+2. Plus/4 can use cartridge, cassette tape, or diskette. Use the cassette or diskette to create and store your own programs.
+
+## Built-In Software
+
+The Plus/4 includes four built-in software packages that are covered in their own user's manual that's even thicker than computer's user manual. To load built-in software, press the `F1` key ([see last episode](/plus4-3)). To exit this software you have to reset or power on/off the Plus/4.
+
+## Cartridges
+
+Cartridges include a variety of personal, education, business and games software. The only cartridge I have is a diagnostic cart from [TFW8B.com](https://www.thefuturewas8bit.com/diag-264.html). Let's try it:
+
+* Turn off Plus/4
+* Insert cartridge (label facing up)
+* Turn on Plus/4
+
+## Dassettes
+
+The [Commodore 1531](https://www.c64-wiki.com/wiki/Commodore_1531) and tapes are similar to music cassettes. While other computers could use a standard music playing cassette player, the Commodore uses its own "Datasette." Use the datasette to `SAVE` and `LOAD` programs. I use a Tapuino instead of a Datasette. Let's use the Tapuino to load and save programs.
+
+    Load a program on cassette (or Tapuino):
+
+* Insert a cassette into datasette (cue up a .tap file on the Tapuino using the LCD screen an momentary switches)
+* Rewind tape to beginning or FFW or RW to a time code (no action required)
+* Type `LOAD` (or use the shortcut: `L` then `⇧ + o`) and press `⏎`. The computer will display:
+
+    `PRESS PLAY ON TAPE`
+
+* Press the play button on the datasette (or Tapuino) and the screen will will blank and then display:
+
+    `FOUND "program name`
+
+* Press `C=` to load the program or else wait 10 seconds for the program to be loaded automatically
+* When the program is loaded, `READY` will appear
+* Type `RUN` to run the program
+
+If the program is a basic program, you can use the `LIST` command to view and modify the program contents.
+
+### Save a program on cassette (or Tapuino)
+
+* Insert a cassette into datasette (Select the Save option on the Tapuino and choose manual or automatic naming of the .tap file)
+* Rewind tape to beginning or FFW or RW to a time code (no action required)
+* Type `SAVE "program name` (alpha-numeric up to 16 characters and you can get creative with upper-lower case modes) and press `⏎`. The computer will display:
+
+    `PRESS RECORD AND PLAY ON TAPE`
+
+* Press the Play button (Select Play on the Tapuino)
+* The screen will blank and when the program is saved, will display `READY`
+
+> For both the `LOAD` and `SAVE` command, press `RS` to stop the process. For `SAVE`, press `RS` first then press stop on the datasette.
+
+## Diskette
+
+([Commodore 1551](https://www.c64-wiki.com/wiki/Commodore_1551) that was a parallel, rather than serial, device that was faster than the 1541. The default format was not backward compatible. It uses a 5¼ inch diskette 💾 to load and save programs. Let's give it a try:
+
+### Load a program on diskette:
+
+* Insert a diskette into disk drive and close the protective door (load a .d64 image on the Pi1541)
+* Type `DLOAD "PROGRAM NAME` or `F2` followed by the program name and press `⏎`.
+
+> **NOTE:** I believe the DSAVE, DLOAD, and DIRECTORY commands were added with the Commodore 128. The old muscle memory remembers, `LOAD "FILENAME",8,1`
+
+* The screen will display the following:
+
+    ```
+    SEARCHING FOR PROGRAM NAME
+    
+    LOADING
+    
+    READY
+    
+    █
+    ```
+
+* When the program is loaded, `READY` will appear. type `RUN` to run the program. If the program is a basic program, you can use the `LIST` command to view and modify.
+
+### Headering a diskette
+
+* In modern parlance; _Format_ and prepares a diskette to store data    
+* Format for `HEADER` command:
+
+    `HEADER` "disk name", `U`device`#`,`I`.d.`#`,`D`rive`#`
+
+    * _Disk Name_ - Name of the entire disk up to 16 characters
+    * _Device #_ - Specifies the diskette drive (usually 8)
+    * _I.D. #_ - A user assigned I.D. number that should be unique for each disk
+    * _Drive #_ - Used for dual drive models where D0 should be used for single drive models
+
+    Example: `HEADER "LETTERS",U8,I07,D0`
+
+More information on the `HEADER` command is on page 101 (The Plus/4 Encyclopedia)
+
+### Save a programs on diskette
+
+* Insert a diskette into the disk drive (load a .d64 image on the Pi1541)
+* Type `DSAVE "program name` (same name constraints as cassette drive storage) and press `⏎`. The computer will display:
+
+    `PRESS PLAY AND RECORD`
+
+* The screen will blank and when the program is saved, the Plus/4 will display:
+
+    `READY`
+
+## The DIRECTORY command
+
+* Insert a diskette into the disk drive
+* Type `DIRECTORY` + `⏎`, or press `F3`, and the Plus/4 will display the contents of a diskette drive
+
+> **TIP:** Type `DIRECTORY "MY*"`. The Plus/4 will display all files that start with `MY`.
+
+## BONUS: SCRATCH command
+
+The `SCRATCH` command deletes a program on the diskette.
+
+* Type `SCRATCH` "PROGRAM NAME" + `⏎`
+* The program will be permanently deleted from the diskette
+
+## Modern additions to Chapter 3
+
+In preparation for this episode, I had to assemble the Pi1541. That in itself was [a post](https://www.stevencombs.com/pi1541-1) and [a video](https://youtu.be/iiuS-cI2c6s).
+
+I also delayed this video to create a Tapuino (an Arduino based modern Datasette clone). You can [view that process here](/tapuino-1).
+
+Both of these modern auxiliary storage device replacements allowed me to create this video since both of the Plus/4 specific devices are very difficult to find.
+
+## Random Thoughts
+
+1. The video is longer than I had planned. I thought since chapter 3 was so short in the user's manual, the video would be short as well; however, I couldn't help but opine on each command. Some may say "ramble" but I found myself reminiscing about using these devices and commands…
+2. …which leads me to how much I enjoyed putting this video together.
+3. I remain impressed with the Plus/4. Sure, I understand that it is not as capable as C128 or C64; however, the updated basic sure does make this computer easier to use which in turn makes it so much fun.
+4. The Pi1541 and the Tapuino are just "so cool." I mean, come on! Using a Raspberry Pi and an Arduino to emulate two retro storage devices continues to fascinate me and make this user's manual project even more geeky.
+5. I'm looking forward to chapter 4. It's going to help me understand the character tomfoolery I ran into in chapter 2.
+6. I decided, during a run after editing the video, that I'm going to create a disk image that will contain all the programs I create myself or type from the user's manual. This will require me to come up with a naming convention for each program file...hmmm...any ideas?
+
+## Join the Fun
+
+Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/B9_hKwjlqAA).
+
+Thanks for watching and if you are so inclined, please let other Commodore fans know about the series by sharing these videos using #retroCombs.
+
+🕹️ retroCombs OUT!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQwOTQ1ODMxNSwxOTIyNjMyNjM2LC01OT
+UwMDcxNTYsLTEyMjgzNTgyMTksNTgwNjk4NDM0LDU2ODQ3NTE1
+OCwtMTY1MDIwODc1OCwtMzUyOTMzNzM2LC0xNzQyODA3NTcxLD
+IxMzk0MjQ2MjddfQ==
+-->
