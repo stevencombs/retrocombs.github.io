@@ -3,7 +3,7 @@ layout: pages
 title: Commodore Plus/4 Resource Page
 permalink: plus4
 category: retro
-comments: true
+comments: false
 tags:
   - commodore
   - plus4
@@ -22,6 +22,7 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
+4. [Chapter 3 - Using Software](plus4/users-manual/p4um-chapter-3.pdf)
 
 ## Key to Keys
 
@@ -63,9 +64,19 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine))
 
 
-3. [Commodore Plus/4 - Chapter 2, Using the Keyboard and the Screen](/plus4-3) - Coming Soon
+3. [Commodore Plus/4 - Chapter 2, Using the Keyboard and the Screen](/plus4-3)
 
     * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
     * [uxcell 6 pin connectors 4 pack](https://amzn.to/3fe4huQ)
 
     I talk about the keyboard layout, using the keyboard, and then how keyboard combinations affect screen elements. This is really a "hands on" episode!
+
+4. [Commodore Plus/4 - Chapter 3, Using Software](/plus4-4)
+
+    * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
+    * [Pi1541 Setup](/pi1541-1)
+    * [Create a Blank .d64 disk image](/pi1541-2)
+    * [Tapuino Project](/tapuino-1)
+    * [DIAG 264 Cartridge](https://www.thefuturewas8bit.com/diag-264.html)
+
+    I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](https://www.stevencombs.com/tapuino-1), and a [Pi1541](https://www.stevencombs.com/pi1541-1).
