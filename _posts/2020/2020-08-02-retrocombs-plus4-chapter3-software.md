@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'retroCombs: Commodore Plus/4 - Chapter 3, Using Software'
-date: '2020-07-02'
+date: '2020-08-02'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-4
 email: 'steven.combs@gmail.com'
@@ -146,11 +146,11 @@ If the program is a basic program, you can use the `LIST` command to view and mo
 
     ```
     SEARCHING FOR PROGRAM NAME
-    
+
     LOADING
-    
+
     READY
-    
+
     █
     ```
 
@@ -158,7 +158,7 @@ If the program is a basic program, you can use the `LIST` command to view and mo
 
 ### Headering a diskette
 
-* In modern parlance; _Format_ and prepares a diskette to store data    
+* In modern parlance; _Format_ and prepares a diskette to store data
 * Format for `HEADER` command:
 
     `HEADER` "disk name", `U`device`#`,`I`.d.`#`,`D`rive`#`
