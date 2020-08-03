@@ -47,7 +47,7 @@ Below are the links for previous chapters covered:
 
 In the video below, I work through Chapter 3 of the user's manual. I deviate slightly from the manual in topic presentation order to add clarity and I also add a bonus command. Along the way, I also share how to use a cartridge, the Tapuino, and the Pi1541
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/B9_hKwjlqAA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Links Mentioned in this Episode:
 
@@ -62,7 +62,7 @@ Below are the links I mention in the video.
 ## Key to Keys
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I had to devise and modernize key nomenclature to identify keystroke combinations as shown in the table below:
-hat
+
 Key  | Description   | Key  | Description
 :----|:--------------|:-----|:-----------
 `⇪`  | Caps Lock     | `F1` | Function 1
@@ -90,27 +90,27 @@ The Plus/4 includes four built-in software packages that are covered in their ow
 
 ## Cartridges
 
-Cartridges include a variety of personal, education, business and games software. The only cartridge I have is a diagnostic cart from [TFW8B.com](https://www.thefuturewas8bit.com/diag-264.html). Let's try it:
+Cartridges include a variety of personal, education, business and games software. The only cartridge I own is a diagnostic cart from [TFW8B.com](https://www.thefuturewas8bit.com/diag-264.html). Let's try it:
 
 * Turn off Plus/4
 * Insert cartridge (label facing up)
 * Turn on Plus/4
 
-## Dassettes
+## Cassettes
 
-The [Commodore 1531](https://www.c64-wiki.com/wiki/Commodore_1531) and tapes are similar to music cassettes. While other computers could use a standard music playing cassette player, the Commodore uses its own "Datasette." Use the datasette to `SAVE` and `LOAD` programs. I use a Tapuino instead of a Datasette. Let's use the Tapuino to load and save programs.
+The [Commodore 1531](https://www.c64-wiki.com/wiki/Commodore_1531) and tapes are similar to music cassettes. While other computers could use a standard music playing cassette player, the Commodore uses its own "Datasette." Use the Datasette to `SAVE` and `LOAD` programs. I use a Tapuino instead of a Datasette. Let's use the Tapuino to load and save programs.
 
-    Load a program on cassette (or Tapuino):
+### Load a program on cassette (or Tapuino)
 
-* Insert a cassette into datasette (cue up a .tap file on the Tapuino using the LCD screen an momentary switches)
+* Insert a cassette into Datasette (cue up a .tap file on the Tapuino using the LCD screen an momentary switches)
 * Rewind tape to beginning or FFW or RW to a time code (no action required)
 * Type `LOAD` (or use the shortcut: `L` then `⇧ + o`) and press `⏎`. The computer will display:
 
     `PRESS PLAY ON TAPE`
 
-* Press the play button on the datasette (or Tapuino) and the screen will will blank and then display:
+* Press the play button on the Datasette (or Tapuino) and the screen will will blank and then display:
 
-    `FOUND "program name`
+    `FOUND "PROGRAM NAME"`
 
 * Press `C=` to load the program or else wait 10 seconds for the program to be loaded automatically
 * When the program is loaded, `READY` will appear
@@ -120,16 +120,16 @@ If the program is a basic program, you can use the `LIST` command to view and mo
 
 ### Save a program on cassette (or Tapuino)
 
-* Insert a cassette into datasette (Select the Save option on the Tapuino and choose manual or automatic naming of the .tap file)
+* Insert a cassette into Datasette (Select the Save option on the Tapuino and choose manual or automatic naming of the .tap file)
 * Rewind tape to beginning or FFW or RW to a time code (no action required)
-* Type `SAVE "program name` (alpha-numeric up to 16 characters and you can get creative with upper-lower case modes) and press `⏎`. The computer will display:
+* Type `SAVE "PROGRAM NAME"` (alpha-numeric up to 16 characters and you can get creative with upper-lower case modes) and press `⏎`. The computer will display:
 
     `PRESS RECORD AND PLAY ON TAPE`
 
 * Press the Play button (Select Play on the Tapuino)
 * The screen will blank and when the program is saved, will display `READY`
 
-> For both the `LOAD` and `SAVE` command, press `RS` to stop the process. For `SAVE`, press `RS` first then press stop on the datasette.
+> For both the `LOAD` and `SAVE` command, press `RS` to stop the process. For `SAVE`, press `RS` first then press stop on the Datasette.
 
 ## Diskette
 
@@ -138,7 +138,7 @@ If the program is a basic program, you can use the `LIST` command to view and mo
 ### Load a program on diskette:
 
 * Insert a diskette into disk drive and close the protective door (load a .d64 image on the Pi1541)
-* Type `DLOAD "PROGRAM NAME` or `F2` followed by the program name and press `⏎`.
+* Type `DLOAD "PROGRAM NAME"` or `F2` followed by the program name and press `⏎`.
 
 > **NOTE:** I believe the DSAVE, DLOAD, and DIRECTORY commands were added with the Commodore 128. The old muscle memory remembers, `LOAD "FILENAME",8,1`
 
@@ -154,18 +154,20 @@ If the program is a basic program, you can use the `LIST` command to view and mo
     █
     ```
 
-* When the program is loaded, `READY` will appear. type `RUN` to run the program. If the program is a basic program, you can use the `LIST` command to view and modify.
+* When the program is loaded, `READY` will appear. 
+* Type `RUN` to run the program.
+* If the program is a BASIC program, use the `LIST` command to view and modify
 
 ### Headering a diskette
 
-* In modern parlance; _Format_ and prepares a diskette to store data
+* In modern parlance; _format_ and prepares a diskette to store data
 * Format for `HEADER` command:
 
-    `HEADER` "disk name", `U`device`#`,`I`.d.`#`,`D`rive`#`
+    `HEADER` `"DISK NAME"`, `U`device`#`,`I`.d.`#`,`D`rive`#`
 
     * _Disk Name_ - Name of the entire disk up to 16 characters
     * _Device #_ - Specifies the diskette drive (usually 8)
-    * _I.D. #_ - A user assigned I.D. number that should be unique for each disk
+    * _I.D.#_ - A user assigned I.D. number that should be unique for each disk
     * _Drive #_ - Used for dual drive models where D0 should be used for single drive models
 
     Example: `HEADER "LETTERS",U8,I07,D0`
@@ -175,7 +177,7 @@ More information on the `HEADER` command is on page 101 (The Plus/4 Encyclopedia
 ### Save a programs on diskette
 
 * Insert a diskette into the disk drive (load a .d64 image on the Pi1541)
-* Type `DSAVE "program name` (same name constraints as cassette drive storage) and press `⏎`. The computer will display:
+* Type `DSAVE "PROGRAM NAME"` (same name constraints as cassette drive storage) and press `⏎`. The computer will display:
 
     `PRESS PLAY AND RECORD`
 
@@ -194,7 +196,7 @@ More information on the `HEADER` command is on page 101 (The Plus/4 Encyclopedia
 
 The `SCRATCH` command deletes a program on the diskette.
 
-* Type `SCRATCH` "PROGRAM NAME" + `⏎`
+* Type `SCRATCH` `"PROGRAM NAME"` + `⏎`
 * The program will be permanently deleted from the diskette
 
 ## Modern additions to Chapter 3
@@ -221,6 +223,7 @@ Help make this series better! Post feedback, questions, and ideas. Let me know i
 Thanks for watching and if you are so inclined, please let other Commodore fans know about the series by sharing these videos using #retroCombs.
 
 🕹️ retroCombs OUT!
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQwOTQ1ODMxNSwxOTIyNjMyNjM2LC01OT
 UwMDcxNTYsLTEyMjgzNTgyMTksNTgwNjk4NDM0LDU2ODQ3NTE1
