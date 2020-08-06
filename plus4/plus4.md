@@ -9,6 +9,11 @@ tags:
   - plus4
   - retocomputing
   - manual
+  - pi1541
+  - programming
+  - basic
+  - tapuino
+  - manual
 ---
 
 This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](https://www.stevencombs.com/retro).
@@ -47,7 +52,7 @@ Below is a link to each blog post in the series. Each blog post contains the com
 
 1. [Commodore Plus/4 - Open the Box](/plus4-1)
 
-    I share my first experience with a Commodore computer (it is not the Plus/4) and then we open the box on my eBay purchase.
+    I share my first experience with a Commodore computer (it is not the Plus/4) and then open the box on my Commodore Plus/4 eBay purchase.
 
     * [Commodore Plus/4 Computer Wikipedia Entry](https://en.wikipedia.org/wiki/Commodore_Plus/4)
     * [Commodore Plus/4 Wiki](https://www.c64-wiki.com/wiki/Commodore_Plus/4)
@@ -59,7 +64,7 @@ Below is a link to each blog post in the series. Each blog post contains the com
 
     I open the Commodore Plus/4 manual for the first time and look at Chapter 1: Unpacking and Setting Up. Since the previous episode was an open the box, unpacking is already complete and this episode focuses on setting up the computer. Along the way I share a very cool tip.
 
-    * [kenable 5 Pin Male Din Plug to 4 x RCA Phono Male Plugs Audio Cable 2m (~6 feet)](https://amzn.to/3cvSq9t)
+    * [Kenable 5 Pin Male Din Plug to 4 x RCA Phono Male Plugs Audio Cable 2m (~6 feet)](https://amzn.to/3cvSq9t)
     * [Portable USB 2.0 AV/RCA Composite and S-Video Audio Video Capture Card Adapter VHS DVD](https://amzn.to/2Y0yKW3)
     * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
     * [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine))
@@ -87,7 +92,7 @@ As I progress through the user's manual, I enter and execute the sample programs
 
 retroCombs User's Manual Disk Image - Coming Soon
 
-I use the following file name convention to make it easy for you to locate specific programs:
+I use the following file name convention to make it easy to locate specific programs:
 
 Sample Program Name: `C1P2-5RETROCOMBS.PRG`
 
@@ -97,7 +102,7 @@ Sample Program Name: `C1P2-5RETROCOMBS.PRG`
 
 ## Supplemental Posts
 
-The posts below are helpful for any Commodore 8-bit computer enthusiatsts but are also closely associated to this series and supplement the posts found above:
+The posts below are helpful for any Commodore 8-bit computer enthusiasts but are also closely associated to this series and supplement the posts found above:
 
 1. [retroCombs: Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
 
@@ -105,13 +110,13 @@ The posts below are helpful for any Commodore 8-bit computer enthusiatsts but ar
 
 2. [retroCombs: The Tapuino Project - Build an Arduino powered Commodore Datasette clone](https://www.stevencombs.com/tapuino-1)
 
-    As part of my Commodore Plus/4 series, chapter three, of the user’s manual, includes a sections on using a datasette and a disk drive. In a previous post, I built the modern replacement for the disk drive (a Pi1541), now it’s time to create a datasette replacement called, the Tapuino.
+    As part of my Commodore Plus/4 series, chapter three, of the user’s manual, includes a sections on using a Datasette and a disk drive. In a previous post, I built the modern replacement for the disk drive (a Pi1541), now it’s time to create a Datasette replacement called, the Tapuino.
 
 ## Plus/4 Resources
 
-Below are links I've found to be most benefical as I work through this series:
+Below are links I've found to be most beneficial as I work through this series:
 
 1. [Commodore4Ever](https://commodore4ever.net/) - Source for Pi1451. Great customer service and feedback.
 2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
-3. [RETRO Innoviation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
+3. [RETRO Innovation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
 3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.
