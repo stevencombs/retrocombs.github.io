@@ -92,9 +92,9 @@ I use the following file name convention to make it easy for you to locate speci
 
 Sample Program Name: `C1P2-5RETROCOMBS.PRG`
 
-`C#` - where # is the chapter number
-`P#` - where # is the page number where the program is first referenced in the user's manual
-`NAME` - my self assigned name for the program
+* `C#` - where # is the chapter number
+* `P#` - where # is the page number where the program is first referenced in the user's manual
+* `NAME` - my self assigned name for the program
 
 ## Supplemental Posts
 
