@@ -90,11 +90,11 @@ retroCombs User's Manual Disk Image - Coming Soon
 
 I use the following file name convention to make it easy for you to locate specific programs:
 
-    Sample Program Name: `CH1-PG25-RETROCOMBS.PRG`
+Sample Program Name: `CH1-PG25-RETROCOMBS.PRG`
 
-    `CH#` - where # is the chapter number
-    `PG#` - where # is the page number where the program is first referenced in the user's manual
-    `NAME` - my selfassigned name for the program
+`CH#` - where # is the chapter number
+`PG#` - where # is the page number where the program is first referenced in the user's manual
+`NAME` - my self assigned name for the program
 
 ## Supplemental Posts
 
@@ -110,7 +110,7 @@ The posts below are helpful for any Commodore 8-bit computer enthusiatsts but ar
 
 ## Plus/4 Resources
 
-Below is a link of links I've found to be most benefical as I work through this series:
+Below are links I've found to be most benefical as I work through this series:
 
 1. [Commodore4Ever](https://commodore4ever.net/) - Source for Pi1451. Great customer service and feedback.
 2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
