@@ -90,10 +90,10 @@ retroCombs User's Manual Disk Image - Coming Soon
 
 I use the following file name convention to make it easy for you to locate specific programs:
 
-Sample Program Name: `CH1-PG25-RETROCOMBS.PRG`
+Sample Program Name: `C1P2-5RETROCOMBS.PRG`
 
-`CH#` - where # is the chapter number
-`PG#` - where # is the page number where the program is first referenced in the user's manual
+`C#` - where # is the chapter number
+`P#` - where # is the page number where the program is first referenced in the user's manual
 `NAME` - my self assigned name for the program
 
 ## Supplemental Posts
