@@ -11,18 +11,19 @@ tags:
   - manual
 ---
 
-This page is a work in progress; however, it serves as a resource page for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or [blog posts](https://www.stevencombs.com/retro).
+This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](https://www.stevencombs.com/retro).
 
 ![retroCombs Plus/4](/plus4/images/retrocombs-plus4.png)
 
 ## User's Manual
 
-As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've also taken the time to scan and provides those below. I will release new chapters with each new video.
+In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 user's manual. I've scanned each chapter and provide those below. I will post new chapters with each new video.
 
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
-4. [Chapter 3 - Using Software](plus4/users-manual/p4um-chapter-3.pdf)
+4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
+5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
 
 ## Key to Keys
 
@@ -80,3 +81,38 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [DIAG 264 Cartridge](https://www.thefuturewas8bit.com/diag-264.html)
 
     I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](https://www.stevencombs.com/tapuino-1), and a [Pi1541](https://www.stevencombs.com/pi1541-1).
+
+## Supplemental Disk Image (Coming Soon)
+
+As I progress through the user's manual, I enter and execute the sample programs. The .d64 image below contains every program from each episode.
+
+retroCombs User's Manual Disk Image - Coming Soon
+
+I use the following file name convention to make it easy for you to locate specific programs:
+
+    Sample Program Name: `CH1-PG25-RETROCOMBS.PRG`
+
+    `CH#` - where # is the chapter number
+    `PG#` - where # is the page number where the program is first referenced in the user's manual
+    `NAME` - my selfassigned name for the program
+
+## Supplemental Posts
+
+The posts below are helpful for any Commodore 8-bit computer enthusiatsts but are also closely associated to this series and supplement the posts found above:
+
+1. [retroCombs: Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
+
+    In this supplemental episode to my Commodore Plus/4 series, I share my experiences assembling the Pi1541 Hat for a Raspberry Pi Zero. In the episode, I solder a pin connector onto the Raspberry Pi Zero, solder and assemble a serial cable with two 6 pin DIN connectors, assemble the whole package, and start up the Pi1541 for a first use.
+
+2. [retroCombs: The Tapuino Project - Build an Arduino powered Commodore Datasette clone](https://www.stevencombs.com/tapuino-1)
+
+    As part of my Commodore Plus/4 series, chapter three, of the user’s manual, includes a sections on using a datasette and a disk drive. In a previous post, I built the modern replacement for the disk drive (a Pi1541), now it’s time to create a datasette replacement called, the Tapuino.
+
+## Plus/4 Resources
+
+Below is a link of links I've found to be most benefical as I work through this series:
+
+1. [Commodore4Ever](https://commodore4ever.net/) - Source for Pi1451. Great customer service and feedback.
+2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
+3. [RETRO Innoviation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
+3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.

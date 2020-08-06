@@ -18,7 +18,7 @@ tags:
   - tap
 ---
 
-As part of my [Commodore Plus/4 series](https://www.stevencombs.com/plus4), chapter three, of the user's manual, includes a sections on using a datasette and a disk drive. In a previous post, I created the [modern replacement for the disk drive](https://www.stevencombs.com/pi1541), now it's time to create a datasette replacement called, the Tapuino.
+As part of my [Commodore Plus/4 series](https://www.stevencombs.com/plus4), chapter three, of the user's manual, includes a sections on using a datasette and a disk drive. In a previous post, I built the [modern replacement for the disk drive](https://www.stevencombs.com/pi1541), now it's time to create a datasette replacement called, the Tapuino.
 
 "What's a Tapuino," you ask? It's an Arduino-based modern replacement for the [Commodore Datasette](https://en.wikipedia.org/wiki/Commodore_Datasette). For this project, the [inexpensive Arduino Nano version](https://amzn.to/2ZLXbaL) along with some easy to source electronic components. You can learn all about the Tapuino on the [Sweetlilmre's 1337 beef: Building the Tapuino R2](http://sweetlilmre.blogspot.com/2015/03/building-tapuino-r2.html?m=1) blog post.
 
