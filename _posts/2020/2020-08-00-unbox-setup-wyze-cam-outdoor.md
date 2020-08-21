@@ -62,5 +62,5 @@ That's it for now. I do update and timestamp posts as I receive answers, so feel
 Well, I can see by the time on [WYZE Band](https://amzn.to/2PXhPQM) that I've already taken up too much of your time! Have questions about the WYZE Cam Outdoor? Post them in the comments below and I'll do my best to answer them. I don't have a lot of time on the device, but I will soon!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTY5MjAxM119
+eyJoaXN0b3J5IjpbLTE0NDUxNTE5OTcsMTc4OTY5MjAxM119
 -->
