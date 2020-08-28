@@ -33,7 +33,7 @@ What OS powers this uniquely styled tablet? Android 9, affectionately know as Pi
 
 ### CPU
 
-We talked about the OS, now let's talk tech and hardware. The Lenovo is powered by the now 3 year-old[Qualcomm Snapdragon 439](https://www.qualcomm.com/products/snapdragon-439-mobile-platform) 64 bit, 2 Ghz,  octo-core/thread processor. You would think with all that giga, octo, and thread count stuff, this would be a monster processor; however, online descriptions tout this chip as a "lower mainstream system on a chip (SOC)." In other words, don't expect amazing performance but just enough. And that's about right. The chip works fine for this device and most operations are smooth. App launching is tidy and multitasking is seamless. More on this as we talk about memory.
+We talked about the OS, now let's talk tech and hardware. The Lenovo is powered by the now 3 year-old [Qualcomm Snapdragon 439](https://www.qualcomm.com/products/snapdragon-439-mobile-platform) 64 bit, 2 Ghz,  octo-core/thread processor. You would think with all that giga, octo, and thread count stuff, this would be a monster processor; however, online descriptions tout this chip as a "lower mainstream system on a chip (SOC)." In other words, don't expect amazing performance but just enough. And that's about right. The chip works fine for this device and most operations are smooth. App launching is tidy and multitasking is seamless. More on this as we talk about memory.
 
 ![](https://www.stevencombs.com/images/posts/lenovo/cpu.jpg)
 
@@ -61,6 +61,8 @@ Fast charging is not supported on the included USB-C port. A full charge takes h
 
 ### Display
 
+Technically, the display is HD but it is a few pixels short at 1920 x 1200, versus 1920 x 1280; however, it's a beautiful 10" IPS LCD screen with a 60 Hz refresh rate. HDR is not supported but colors are bright and blacks are dark. There has not been an environmental situation that has caused me any issues with the screen. I do have to admit, I don't use the tablet outside often and when I am in the sun, I'm a vampire, so I use it in the shade or under and outdoor covering. Don't think I've ever used it in direct sunlight.
+
 ![](https://www.stevencombs.com/images/posts/lenovo/display.jpg)
 
 ### Camera
@@ -71,34 +73,44 @@ Here are two shots, one from the front camera and one from the back in the same 
 
 ### Sensors
 
+Holy tricorder, Batman. This thing has 28 sensors that cover both internal and external environmental variables. 
+
 ![](https://www.stevencombs.com/images/posts/lenovo/sensors.jpg)
 
 ### Ports
 
 Headphone and USB-C
 
-## Other Thoughts
+## What's to like
 
-  1. 16:9 HD screen only but is crisp and clear
-  2. Immediately connected to home Wi-Fi network and searched for updates
-  3. Offered option to copy apps and data from another Device
-  6. I was extremely pleased with the on-screen keyboard. The haptic feedback made typing on this device more intuitive than an iPad.
-  7. I had to teach the tablet my voice again. I thought that odd as all other devices pull down my Google Assistant voice profile from the web.
-  8. Here's a plus! The tablet includes Face Recognition to unlock. It uses a single image. It will be interesting to see how accurate it is in day-to-day use.
-  9. Wants me to connect with a Lenovo ID. I created this account when purchasing the tablet from Lenovo so that was easy. Wonder what benefits come from this account?
-  10. Now asking to install Outlook. Since I this app is on my Pixel 4 XL, why not!
-  11. Ah, the Lenovo User Experience Program option to improve the product. I'm in and plan to provide lots of feedback.
-  12. Get to select Gesture mode or Classic mode. Gesture it is to match the Pixel 4 XL user experience.
-  13. Next I get to update and turn on Google Assistant's Ambient Mode (one of the key feature that made me purchase this device).
-  14. A system update was available. Installation was FAST!
+## What's a not to like
+
+## Final Thoughts
+
+1. 16:9 HD screen only but is crisp and clear
+2. Immediately connected to home Wi-Fi network and searched for updates
+3. Offered option to copy apps and data from another Device
+4. I was extremely pleased with the on-screen keyboard. The haptic feedback made typing on this device more intuitive than an iPad.
+5. I had to teach the tablet my voice again. I thought that odd as all other devices pull down my Google Assistant voice profile from the web.
+6. Here's a plus! The tablet includes Face Recognition to unlock. It uses a single image. It will be interesting to see how accurate it is in day-to-day use.
+7. Wants me to connect with a Lenovo ID. I created this account when purchasing the tablet from Lenovo so that was easy. Wonder what benefits come from this account?
+8. Now asking to install Outlook. Since I this app is on my Pixel 4 XL, why not!
+9. Ah, the Lenovo User Experience Program option to improve the product. I'm in and plan to provide lots of feedback.
+10. Get to select Gesture mode or Classic mode. Gesture it is to match the Pixel 4 XL user experience.
+11. Next I get to update and turn on Google Assistant's Ambient Mode (one of the key feature that made me purchase this device).
+12. A system update was available. Installation was FAST!
 
 ## Surprises
 
-   1. Includes and FM radio but you need to use headphones as they act as the antenna.
-   2. You have to "hard-activate" ambient mode using the Google Assistant settings. [Click here for instructions](https://forums.lenovo.com/t5/Lenovo-Smart-Tablets-with-Google/Yoga-Smart-Tab-Ambient-Mode-Introduction/td-p/4549840).
-   3. Connect a keyboard and mouse to activate productivity mode.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjE0NDMzLC0yMjY5MTQ0ODIsMTM3OT
-k3NTcyMCw0NTI2ODA4MTksOTg3ODI0MjAwLDY4NTE0OTA5NCwx
-ODMzNDIyNTQ5LDExMzEwOTQ4MzMsNjg2NDU5MDQzXX0=
--->
+1. Includes and FM radio but you need to use headphones as they act as the antenna.
+
+2. You have to "hard-activate" ambient mode using the Google Assistant settings. [Click here for instructions](https://forums.lenovo.com/t5/Lenovo-Smart-Tablets-with-Google/Yoga-Smart-Tab-Ambient-Mode-Introduction/td-p/4549840).
+
+3. Connect a keyboard and mouse to activate productivity mode.
+   
+   <!--stackedit_data:
+   eyJoaXN0b3J5IjpbMzA1ODQ5MDU0LDEyOTIxNDQzMywtMjI2OT
+   E0NDgyLDEzNzk5NzU3MjAsNDUyNjgwODE5LDk4NzgyNDIwMCw2
+   ODUxNDkwOTQsMTgzMzQyMjU0OSwxMTMxMDk0ODMzLDY4NjQ1OT
+   A0M119
+   -->
