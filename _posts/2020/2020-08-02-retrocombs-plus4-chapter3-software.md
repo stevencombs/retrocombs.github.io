@@ -61,23 +61,26 @@ Below are the links I mention in the video.
 
 ## Key to Keys
 
-Because the Commodore Plus/4 keyboard is so different from modern keyboards, I had to devise and modernize key nomenclature to identify keystroke combinations as shown in the table below:
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
-Key  | Description   | Key  | Description
-:----|:--------------|:-----|:-----------
-`⇪`  | Caps Lock     | `F1` | Function 1
-`C=` | Commodore     | `F2` | Function 2
-`⌃`  | Control       | `F3` | Function 3
-`⎋`  | Escape        | `F4` | Function 4
-`⌂`  | Home          | `F5` | Function 5
-`⌫`  | Insert/Delete | `F6` | Function 6
-`⏎`  | Return        | `F7` | Function 7
-`RS` | Run/Stop      | `F8` | Help
-`⇧`  | Shift         |      |
+| Key  | Description   | Key  | Description |
+|:---- |:------------- |:---- |:----------- |
+| `⇪`  | Caps Lock     | `F1` | Function 1  |
+| `C=` | Commodore     | `F2` | Function 2  |
+| `⌃`  | Control       | `F3` | Function 3  |
+| `⎋`  | Escape        | `F4` | Function 4  |
+| `⌂`  | Home          | `F5` | Function 5  |
+| `⌫`  | Insert Delete | `F6` | Function 6  |
+| `⏎`  | Return        | `F7` | Function 7  |
+| `RS` | Run/Stop      | `F8` | Help        |
+| `⇧`  | Shift         | `␣`  | Space       |
 
-## Previous Episode Errata
+## Episode Errata
 
-THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project even more fun and I'm learning and relearning so much.
+THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
+
+1. In the video, I mention how the screen blanks when loading programs from from the Tapuino (or Datasette), but wondered how Icicle Works got around this functionality. Chuck Hutchins shared that, at least in the case of Icicle Works, the program loads in two parts. The screen blanks (because the C64 and the Plus/4 must blank the screen to access the I/O - a limitation of the custom video chips) while a fast loader is loaded into memory and then loads the main software in a second compressed audio source.
+2. Chuck also shared that the Plus/4 IO commands such as `DLOAD`, `SCRATCH`, and `HEADER` are also avaialble on PET Computers with Basic 4.0, the C128 (BASIC 7), and the C65 (BASIC 10).
 
 ## Introduction
 
@@ -154,7 +157,7 @@ If the program is a basic program, you can use the `LIST` command to view and mo
     █
     ```
 
-* When the program is loaded, `READY` will appear. 
+* When the program is loaded, `READY` will appear.
 * Type `RUN` to run the program.
 * If the program is a BASIC program, use the `LIST` command to view and modify
 

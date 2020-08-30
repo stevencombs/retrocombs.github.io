@@ -46,6 +46,26 @@ Below are the links mentioned in the video.
 2. [Portable USB 2.0 AV/RCA Composite and S-Video Audio Video Capture Card Adapter VHS DVD](https://amzn.to/2Y0yKW3)
 3. [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
 
+## Key to Keys
+
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
+
+| Key  | Description   | Key  | Description |
+|:---- |:------------- |:---- |:----------- |
+| `⇪`  | Caps Lock     | `F1` | Function 1  |
+| `C=` | Commodore     | `F2` | Function 2  |
+| `⌃`  | Control       | `F3` | Function 3  |
+| `⎋`  | Escape        | `F4` | Function 4  |
+| `⌂`  | Home          | `F5` | Function 5  |
+| `⌫`  | Insert Delete | `F6` | Function 6  |
+| `⏎`  | Return        | `F7` | Function 7  |
+| `RS` | Run/Stop      | `F8` | Help        |
+| `⇧`  | Shift         | `␣`  | Space       |
+
+## Episode Errata
+
+THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
+
 ## Random Thoughts
 
 You really can learn something when you read an instruction manual. I found that out while reading an out-of-place paragraph about the use of the _Reset_ button. When you hold the _RUN/STOP_ key and push the _Reset_ button (unique to the Plus/4), you enter the Machine Language Monitor (also unique to the Plus/4). The extra feature here is that doing so soft reboots the computer and keeps the current program in memory. Using the _Reset_ button by itself will completely reboot the computer. Keep this in mind if you run into an issue with a program and haven't saved it recently.

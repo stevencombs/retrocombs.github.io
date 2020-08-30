@@ -37,6 +37,28 @@ The video below describes my background with Commodore computers, my intent for 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/_faxuAlFHII" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+## Key to Keys
+
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
+
+| Key  | Description   | Key  | Description |
+|:---- |:------------- |:---- |:----------- |
+| `⇪`  | Caps Lock     | `F1` | Function 1  |
+| `C=` | Commodore     | `F2` | Function 2  |
+| `⌃`  | Control       | `F3` | Function 3  |
+| `⎋`  | Escape        | `F4` | Function 4  |
+| `⌂`  | Home          | `F5` | Function 5  |
+| `⌫`  | Insert Delete | `F6` | Function 6  |
+| `⏎`  | Return        | `F7` | Function 7  |
+| `RS` | Run/Stop      | `F8` | Help        |
+| `⇧`  | Shift         | `␣`  | Space       |
+
+## Episode Errata
+
+THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
+
+## Random Thoughts
+
 I look forward to diving into the Commodore Plus/4. This 8-bit computer has eluded me for years. I know it is going to be a very different experience from my earlier VIC-20, 64, and 128. The lack of focus on gaming with an increased emphasis on business should be an interesting study. I'm excited to explore what appears to be a more functional basic programming language complete with dedicated graphics commands, file functions, and machine language monitor (all missing from the VIC-20 and C64).
 
 > NOTE: While writing this post, I found the [Commodore Plus/4 Wiki](https://www.c64-wiki.com/wiki/Commodore_Plus/4). It will become an excellent resource during this series.

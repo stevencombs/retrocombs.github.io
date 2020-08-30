@@ -12,17 +12,16 @@ tags:
   - retro
   - plus4
   - vic20
+  - c64
   - keyboard
   - keys
   - characters
-  - software
-  - diskdrive
-  - datasette
-  - cassette
+  - color
   - basic
+  - editing
 ---
 
-In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore Plus/4 user's manual. In this chapter, _Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps twoard programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I show you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
+In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore Plus/4 user's manual. In this chapter, _Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I show you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
 
 ## Series Information
 
@@ -47,7 +46,7 @@ Below are the links for previous chapters covered:
 
 In the video below, I work through Chapter 4 of the user's manual.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/4x1GdvPlaYc" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Links Mentioned in this Episode:
 
@@ -57,50 +56,56 @@ Below are the links I mention in the video.
 2. [Pi1541 Setup](/pi1541-1)
 3. [Create a Blank .d64 disk image](/pi1541-2)
 4. [Tapuino Project](/tapuino-1)
-5. [DIAG 264 Cartridge](https://www.thefuturewas8bit.com/diag-264.html)
 
 ## Key to Keys
 
-Because the Commodore Plus/4 keyboard is so different from modern keyboards, I had to devise and modernize key nomenclature to identify keystroke combinations as shown in the table below:
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
-Key  | Description   | Key  | Description
-:----|:--------------|:-----|:-----------
-`⇪`  | Caps Lock     | `F1` | Function 1
-`C=` | Commodore     | `F2` | Function 2
-`⌃`  | Control       | `F3` | Function 3
-`⎋`  | Escape        | `F4` | Function 4
-`⌂`  | Home          | `F5` | Function 5
-`⌫`  | Insert Delete | `F6` | Function 6
-`⏎`  | Return        | `F7` | Function 7
-`RS` | Run/Stop      | `F8` | Help
-`⇧`  | Shift         | `CH` | Clear Home
-`␣`  | Space  |   |
+| Key  | Description   | Key  | Description |
+|:---- |:------------- |:---- |:----------- |
+| `⇪`  | Caps Lock     | `F1` | Function 1  |
+| `C=` | Commodore     | `F2` | Function 2  |
+| `⌃`  | Control       | `F3` | Function 3  |
+| `⎋`  | Escape        | `F4` | Function 4  |
+| `⌂`  | Home          | `F5` | Function 5  |
+| `⌫`  | Insert Delete | `F6` | Function 6  |
+| `⏎`  | Return        | `F7` | Function 7  |
+| `RS` | Run/Stop      | `F8` | Help        |
+| `⇧`  | Shift         | `␣`  | Space       |
 
-## Previous Episode Errata
+## Episode Errata
 
-THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project even more fun and I'm learning and relearning so much.
+THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
+
+1. In the video I suggested that I could use the `COLOR` command to change the background color, set a screen window and then change the background color again to only affect the screen window area. I was not able to get this to work. The `COLOR` changes the entire background, even the area outside of the screen window. Screen windows continue to bewilder me.
+
+## Introduction
+
+1. Thanks to viewers for feedback.
+2. .d81 disk image coming soon and will update as we go
+3. Proud of the companion website for this episode. Check it out!
+4. When viewing the YouTube video, don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 
 ## Keyboard Colors
 
-Changes to keyboard character colors is simple on the Plus/4 (and other Commodore coputers for that matter). Hold down either `⌃` or `C=` modifier key followed by one of the numbers below:
+Changes to keyboard character colors are simple on the Plus/4 (and other Commodore computers for that matter). Hold down either the `⌃` or `C=` modifier key followed by one of the numbers below:
 
-Number  | Modifier `⌃` | Modifier `C=`
-:-|:--|:-
-1  | <span style="color:black;">Black</span>  | <span style="color:orange;">Orange</span>
-2  | <span style="color:lightgray;">White</span>  | <span style="color:brown;">Brown</span>
-3  | <span style="color:red;">Red</span>  | <span style="color:yellowgreen;">Yellow-Green</span>
-4  | <span style="color:cyan;">Cyan</span>  | <span style="color:pink;">Pink</span>
-5  | <span style="color:purple;">Purple</span>  | <span style="color:#30BFBF;">Blue-Green</span>
-6  | <span style="color:green;">Green</span>  | <span style="color:lightblue;">Light Blue</span>
-7  | <span style="color:blue;">Blue</span>  | <span style="color:darkblue;">Dark Blue</span>
-8  | <span style="color:yellow;">Yellow</span>  | <span style="color:lightgreen;">Light Green</span>
+| Number | Modifier `⌃`                                | Modifier `C=`                                        |
+|:------ |:------------------------------------------- |:---------------------------------------------------- |
+| `1`    | <span style="color:black;">Black</span>     | <span style="color:orange;">Orange</span>            |
+| `2`    | <span style="color:lightgray;">White</span> | <span style="color:brown;">Brown</span>              |
+| `3`    | <span style="color:red;">Red</span>         | <span style="color:yellowgreen;">Yellow-Green</span> |
+| `4`    | <span style="color:cyan;">Cyan</span>       | <span style="color:pink;">Pink</span>                |
+| `5`    | <span style="color:purple;">Purple</span>   | <span style="color:#30BFBF;">Blue-Green</span>       |
+| `6`    | <span style="color:green;">Green</span>     | <span style="color:lightblue;">Light Blue</span>     |
+| `7`    | <span style="color:blue;">Blue</span>       | <span style="color:darkblue;">Dark Blue</span>       |
+| `8`    | <span style="color:yellow;">Yellow</span>   | <span style="color:lightgreen;">Light Green</span>   |
 
-Once a color is selected, type away.
+Once a color is selected, type away!
 
+## BONUS TOPIC: Clear the Screen
 
-## BONUS: Clear the Screen
-
-Before we start reversing and printing characters in color, let's clear the screen. There are two ways to do this on the Plus/4:
+Before reversing and printing characters in color, clear the screen. There are two ways to do this on the Plus/4:
 
 1. `SCNCLR` command - Clears screen and displays `READY` prompt.
 2. `F4` (`SCNCLR` command) - Same results as number 1.
@@ -108,51 +113,54 @@ Before we start reversing and printing characters in color, let's clear the scre
 
 ## Color and Reverse Printing
 
-Now, let's reverse the characters as they are typed:
+They keys below toggle reverse characters:
 
-1. `^` + 9 (Rvs On)
-2. `^` + 0 (Rvs Off)
+1. `^` + `9` (Rvs On)
+2. `^` + `0` (Rvs Off)
 
-Once reverse is on, start typing characters.
+Turn reverse on and type characters.
 
 TUTORIAL:
 
 1. `⇧` + `CH` to clear the screen.
-2. `^` + 9 (Rvs On).
-2. `␣` four times to draw a thick <span style="color:black;">black</span> line.
-3. `^` + 3 to change the character color to <span style="color:red;">red</span>.
-4. `␣` four times to draw a thick red line.
-5. `C=` + 4 to change the character color to pink.
-6. `␣` four times to draw a thick <span style="color:pink;">pink</span> line.
-7. `^` + 1 to change the character color to black.
-8. Type `RETRO`.
-9. `^` + 0 (Rvs Off).
-10. Type `COMBS`.
+2. `^` + `9` (Rvs On).
+3. `␣` four times to draw a thick <span style="color:black;">black</span> line.
+4. `^` + `3` to change the character color to <span style="color:red;">red</span>.
+5. `␣` four times to draw a thick red line.
+6. `C=` + `4` to change the character color to pink.
+7. `␣` four times to draw a thick <span style="color:pink;">pink</span> line.
+8. `^` + `1` to change the character color to black.
+9. Type `RETRO`.
+10. `^` + `0` (Rvs Off).
+11. Type `COMBS`.
 
 The keystrokes result in the following:
 
 <span style="font-family:monospace;"><span style="color:black;">▇▇▇▇</span><span style="color:red;">▇▇▇▇</span><span style="color:pink;">▇▇▇▇</span><span style="background-color:black;color:white;">RETRO</span><span style="color:black;">COMBS</span></span>
 
-You can now draw on the screen, but you cannot save the keystrokes or make this a part of your program. Let's integrate these codes into a BASIC program statement:
+You can draw on the screen, but you cannot save the characters or include them in a basic program. Let's integrate these codes into a BASIC program statement:
 
 1. `F4` - clear the screen with a `READY` prompt
+
 2. Type `PRINT "` - remember the second video where I said, "what's going on?" After the quotation mark, the Plus/4 enters QUOTE mode where some keys work differently. For instance, pressing a cursor key will input a symbol, not move the cursor key. When the program is executed, the cursor will then move. More on this later.
+
 3. Finish the line as shown below:
 
      `PRINT "{RVS ON}COMMODRE{RVS OFF} PLUS/4"`
 
-     > Note my use of the `{` and `}` characters above to specify the keys. You do not type these brackets and you substitute the command for the keystrokes. In this example `^` + `9` and `^` + `0` respectively. I will use this convention going forward since there are not modern keyboard equivilents.
+   > Note my use of the `{` and `}` characters above to specify the keys. You do not type these brackets and you substitute the command for the keystrokes. In this example `^` + `9` and `^` + `0` respectively. I will use this convention going forward since there are not modern keyboard equivalents.
 
 The keystrokes result in the following:
 
 <span style="font-family:monospace;"><span style="background-color:black;color:white;">COMMODORE</span> <span style="color:black;">PLUS/4</span></span>
 
-Even though you typed a line of BASIC code, that code is not saved because it is not prefaced with a line number. More on this later, but if you use the command `LIST` you will notice that the Plus/4 has not store the line.
+Even though we typed a line of BASIC code, that code is not saved because it is not prefaced with a line number. More on this later, but if you use the command `LIST` you will notice that the line is not stored in the Plus/4's memory.
 
 Now try the same thing using the flash feature:
 
 1. `F4` - clear the screen with a `READY` prompt
-3. Type the line below:
+
+2. Type the line below:
 
      `PRINT "{FLASH ON}COMMODRE{FLASH OFF} PLUS/4"`
 
@@ -173,7 +181,7 @@ All right! Time to program. Clear the screen and type in the following BASIC pro
 
 Notice the line numbers at the beginning of each line? Those lines of code are now saved. Type `LIST` and the Plus/4 will "list" the program lines.
 
-Type `RUN` and the Plus/4 will execute the BASIC program. "JAYNE! STOP THIS CRAZY THING!" is probably what you are thinking. The Plus/4 continues to print the "PLUS/4" characters continuously. It seems any key you typed won't stop it, except for the `RS` {Run Stop} key. Tap it to stop the program.
+Type `RUN` and the Plus/4 will execute the BASIC program. "JANE! STOP THIS CRAZY THING!" is probably what you are thinking. The Plus/4 continues to print the "PLUS/4" characters continuously. It seems any key you typed won't stop it, except for the `RS` {Run Stop} key. Tap it to stop the program.
 
 Let's try another program. We could type the command `NEW` but there is a one line of code, line 10, that we don't need to retype. Let's just replace line 20. At the READY prompt, type the line of code below:
 
@@ -242,7 +250,7 @@ COMMODORE
 PLUS/4
 ```
 
-Replace `PLUS/4` with `VIC-20 by using the cursor keys to move up to the `P` in `PLUS-4` and replacing the following characters with VIC-20. Don't worry about mvoing to the end of the line. Once the changes are made, hit `⏎`. You do not have to be at the end of the line to store the entire line.
+Replace `PLUS/4` with `VIC-20` by using the cursor keys to move up to the `P` in `PLUS-4` and replacing the following characters with VIC-20. Don't worry about moving to the end of the line. Once the changes are made, hit `⏎`. You do not have to be at the end of the line to store the entire line.
 
 If you want to remove the PLUS/4 line, just enter a blank line 20 by entering `20` followed by `⏎`.
 
@@ -252,7 +260,7 @@ Let's make more advanced edits on a line of code rather than just typing over ch
 10 ? "CORE"
 ```
 
-See what I did there? Instead of typing `PRINT`, I used `?`. `LIST` the program and you will see that the `?` is repalced by the command `PRINT`. Serious time saver.
+See what I did there? Instead of typing `PRINT`, I used `?`. `LIST` the program and you will see that the `?` is replaced by the command `PRINT`. Serious time saver.
 
 To change the word `CORE` to `COMMODORE`, you can simply type over the words or retype the line; however, let's use the power of the `⌫` {Inst Del} key. By itself, `⌫` will delete the character one space before the cursor. Use `⇧` + `⌫` to insert a blank character one space to the right of the cursor.
 
@@ -263,18 +271,18 @@ Use cursor key to move on top of the letter `O` in line 10. Hold `⇧` and press
 Time to enter a longer program and use our editing skills along the way. Type the program below after you use the `NEW` command:
 
 ```basic
-10 COLOR 1,8
+10 COLOR 1,6,0
 20 ? "A FUNNY THING HAPPEND ";
-30 COLOR 1,3
+30 COLOR 1,5,3
 40 ? "ON MY WAY TO THE KEYBOARD ";
-50 COLOR 1,7
+50 COLOR 1,3,0
 60 ? "♥♥♥♥♥♥";
-70 GOTO 60
+70 COLOR 1,1,0
 ```
 
 > **TIP:** `⇧` + `S` = `♥`
 
-Before you use the `RUN` command, anticipate the output. Now `RUN` the program. Character placement is differnt than before. Each new line of text begins next to the previous instead of on a new line thanks to the `;` character at the end of the each `PRINT` statement. We'll explore that more in just a bit.
+Before you use the `RUN` command, anticipate the output. Now `RUN` the program. Character placement is different than before. Each new line of text begins next to the previous instead of on a new line thanks to the `;` character at the end of the each `PRINT` statement. We'll explore that more in just a bit.
 
 ## Introduction to the Plus/4 Text Screen
 
@@ -380,13 +388,13 @@ One last thing about rows and text. Create the `NEW` program below:
 10 PRINT "I LIKE YOUR TOUCH ON MY KEYBOARD. DO YOU COME HER OFTEN?"
 ```
 
-First, that's a creepy command straight from the user's manual and second, it demonstrates a feature and limitations. The feature is that as you type a LONG line of code, the Plus/4 will automatically wrap the text to the next line. The limiations are that it will not cleanly break a word between lines and a line of BASIC connot have more than 80 characters (two full rows).
+First, that's a creepy statement straight from the actual user's manual and second, it demonstrates a feature and limitation. The feature; when you type a LONG line of code, the Plus/4 will automatically wrap the text to the next line. The limitation; the computer will not cleanly break a word between lines and a line of BASIC cannot have more than 80 characters (two full rows).
 
 ## More about PRINTing on the Screen
 
 Previously we've printed characters on the screen that either butt up next to each other or print on the next line. The Plus/4 offers some additional control over how characters are printed on the screen through the use of "zones."
 
-Specify zones in the `PRINT` command using the characters `,` and `;`. We already know that using `;` will force the next line of text to butt up next to the previous, but what does `,` do? The `,` is similar to a tab stop but in this case, the tab is starts at every ten characters (the start of a new zone). A demonstration will better explain. Clear the screen and type the command below.
+Specify zones in the `PRINT` command using the characters `,` and `;`. We already know that using `;` will force the next line of text to butt up next to the previous, but what about `,` ? The `,` is similar to a tab stop but in this case, the tab is starts at every ten characters (the start of a new zone). A demonstration will better explain. Clear the screen and type the command below.
 
 ```basic
 PRINT "Z1","Z2","Z3","Z4"
@@ -406,9 +414,9 @@ PRINT "!1234567890","Z3","Z4"
 
 ## Screen Windows
 
-The last concept in Chapter 4 is Screen Windows. The most interesting feature of Screen Windows is that they are mentioned once in the manual and never again. I struggle to understand their usefulness, but they are pretty cool.
+The last concept in Chapter 4 is screen windows. The most interesting feature of screen windows is that they are mentioned once in the manual and never again. I struggle to understand their usefulness, but they are pretty cool.
 
-An example is the best way to describe this feature that confines a specific area of the screen to use as a "worksapce." Use the steps below to create a Screen Window on the Commodore Plus/4:
+An example is the best way to describe this feature that confines a specific area of the screen to use as a "work space." Use the steps below to create a screen window on the Commodore Plus/4:
 
 1. Move cursor on the screen to top-left corner of the screen window to create.
 2. Press `⎋` + `T`.
@@ -420,30 +428,47 @@ Now when you type any commands or code, it will all be contained in the screen w
 Here's a fun example that combines much of what we've learned today:
 
 1. Use the `SCNCLR` command.
+
 2. Type the line of code below:
 
-    `10 FOR X = 1 to 40 : ? "{Pur}{RVS ON}▇{RVS OFF}"{Blk}; : NEXT`
+    `10 FOR X = 1 to 1000 : ? "{Pur}{RVS ON}▇; : NEXT`
 
-2. `RUN` the code
-3. Using the cursor keys, move to the top-left corner of the screen.
-4. Move the cursor down 10 characters and to the right 10 characters.
-5. Press `⎋` + `T`.
-6. Move the cursor down 15 characters and to the right 20 characters.
-7. Press `⎋` + `B`.
-8. Use the `SCNCLR` command.
+3. `RUN` the code
+
+4. Using the cursor keys, move to the top-left corner of the screen.
+
+5. Move the cursor down 10 characters and to the right 10 characters.
+
+6. Press `⎋` + `T`.
+
+7. Move the cursor down 15 characters and to the right 20 characters.
+
+8. Press `⎋` + `B`.
+
+9. `SCNCLR` to clear the screen.
+
+10. `^` + `2` to change to black characters.
 
 The screen will clear, a thick purple border will appears, and you now have a smaller 20 x 15 window to work within. Play around in that window. To clear the screen window:
 
 1. Press `⌂` twice
-2. Use the `SCNCLR` command.
+2. `SCNCLR` to clear the screen.
 
 ## Random Thoughts
 
-1. This was a fun episode and it was interesting to learn the many things I forgot about Commodore Basic.
-2. I found myself using the VICE Plus/4 emulator, along with my Plus/4, while writing this post. It was handy to bounce around Atom and VICE to experiment. And I can copy and paste code from my Linux software directly into VICE! I'm becoming much more familiar with VICE and see the advantage. Many of which I'm plannig to show in a new series of video and posts. Stay tuned for more but this also works well with my theme of learning how to use retro-computers using modern tools and equipment (see [Pi1541](/pi1541) and [Tapuino](/tapuino-1) posts/videos).
-3. I've no idea how to use screen windows in programming. I tweeted [Bil Herd](https://twitter.com/BilHerd), tweet below, to see if he might respond and offer an assist.
+1. This was a fun episode and it was interesting to learn the many things I forgot about Commodore Basic and character control.
 
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/BilHerd?ref_src=twsrc%5Etfw">@BilHerd</a>, I&#39;m working on Chapter 4 in the Plus/4 user&#39;s manual for my next post/video and wondered if you had insight on &quot;Screen Windows&quot; (pg. 53)? What was their intent and how could they be accessed in code? Other than a novelty, I&#39;m not understanding their intended use.</p>&mdash; Steven Combs (retroCombs)🕹️ (@StevenCombs) <a href="https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+2. The episode is a bit laborious and I'm sure those with basic Commodore computer experience will find some of the content tedious. Blame the old school teacher in me, but I believe repetition is the best way learn.
+
+3. I found myself using the VICE Plus/4 emulator, along with my Plus/4, while writing this post. It was handy to bounce around Atom and VICE to experiment. And I can copy and paste code from my Linux software directly into VICE! I'm becoming much more familiar with VICE and see the advantage. Many of which I'm planning to show in a new series of video and posts. Stay tuned for more but this also works well with my theme of learning how to use retro-computers using modern tools and equipment (see [Pi1541](/pi1541) and [Tapuino](/tapuino-1) posts/videos).
+
+4. I've no idea how to use screen windows in programming. I tweeted [Bil Herd](https://twitter.com/BilHerd), tweet below, to see if he might respond and offer an assist.
+
+   <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/BilHerd?ref_src=twsrc%5Etfw">@BilHerd</a>, I&#39;m working on Chapter 4 in the Plus/4 user&#39;s manual for my next post/video and wondered if you had insight on "Screen Windows" (pg. 53)? What was their intent and how could they be accessed in code? Other than a novelty, I&#39;m not understanding their intended use.</p>— Steven Combs (retroCombs)🕹️ (@StevenCombs) <a href="https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+5. This blog post really was fun to produce and in itself was an educational journey for me as I learned how to use CSS to style and color text.
+
+6. The next chapter, 5, is all about numbers and calculations. It's a short chapter, but I'm going to have to break out the math teacher in me to accurately describe and demonstrate features.
 
 ## Join the Fun
 
