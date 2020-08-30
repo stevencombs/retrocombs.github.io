@@ -82,9 +82,18 @@ Below is a link to each blog post in the series. Each blog post contains the com
 
     * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
     * [Pi1541 Setup](/pi1541-1)
-    * [Create a Blank .d64 disk image](/pi1541-2)
+    * [Create a Blank .d64 Disk Image](/pi1541-2)
     * [Tapuino Project](/tapuino-1)
     * [DIAG 264 Cartridge](https://www.thefuturewas8bit.com/diag-264.html)
+
+5. [Commodore Plus/4 - Chapter 4, Getting Started](/plus4-5)
+
+    It seems like we've been getting started over and over, but I guess now we really are since the manual told us so! In this chapter I look at keyboard colors, reverse printing, correcting mistakes, the screen, and even windows. Yes, that's right, I typed windows. See the blog post and video for more on that topic.
+
+    * [Pi1541 Setup](/pi1541-1)
+    * [Create a Blank .d64 Disk Image](/pi1541-2)
+    * [Tapuino Project](/tapuino-1)
+    * [Call out to Bil Herd for Information](https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw)
 
 ## Supplemental Disk Image (Coming Soon)
 

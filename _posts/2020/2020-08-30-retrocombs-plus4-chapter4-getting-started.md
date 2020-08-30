@@ -52,10 +52,9 @@ In the video below, I work through Chapter 4 of the user's manual.
 
 Below are the links I mention in the video.
 
-1. [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
-2. [Pi1541 Setup](/pi1541-1)
-3. [Create a Blank .d64 disk image](/pi1541-2)
-4. [Tapuino Project](/tapuino-1)
+1. [Pi1541 Setup](/pi1541-1)
+2. [Create a Blank .d64 Disk Image](/pi1541-2)
+3. [Tapuino Project](/tapuino-1)
 
 ## Key to Keys
 
