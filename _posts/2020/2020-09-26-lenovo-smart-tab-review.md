@@ -64,7 +64,7 @@ Graphics are the work of the built-in Adreno 505. Again, three years-old and not
 
 Many low end tablets stick you with 2 Gb of on board RAM. Thankfully, Lenovo stepped up and added an additional 2 Gb (for a total of 4 Gb) that helps the tablet perform admirably. I've never felt the tablet drag along.
 
-![microSD card location](https://photos.app.goo.gl/6ZewE1ukQTF7mzNb7=w550)
+![microSD card location](https://photos.google.com/share/AF1QipNjg-1wUB-MrWbTTUd4YF4iHTh6DQQWjug84nKgXWpqZsoHGm3Xu5TJu9LrodRH0g/photo/AF1QipNN-ewC5eld_uxWzJ1pKZgAP-H54XnzRgc0tfM4?key=YldmNzZ2dmVPTklRb0x4WXdSeHR5eVpIRXpYT2NR)
 
 Internal storage comes from a suitable, but not massive, 64 Gb eMMC Flash Drive. About 50 Gb is available to the user. Add more storage (but no offloading of apps) using the microSD card expansion under the built-in stand. 64 Gb is plenty for my use, but you might need more if you want to carry around a bunch of video with you or play a lot of games, but remember that games gotcha!
 
@@ -126,7 +126,7 @@ There's a lot to like, but the tablet also has a few drawbacks.
 
 ## Final Thoughts
 
-The Lenovo is a 2019 product and as such is beginning to show its age in 2020. I believe this will be my last Android tablet. I plan to use the device for the remainder of the year, but can see myself upgrading to another device, say a Chrome OS tablet like a second generation [Lenovo Duet](https://www.lenovo.com/us/en/laptops/lenovo/student-chromebooks/Lenovo-CT-X636/p/ZZICZCTCT1X) in 2021. 
+The Lenovo is a 2019 product and as such is beginning to show its age in 2020. I believe this will be my last Android tablet. I plan to use the device for the remainder of the year, but can see myself upgrading to another device, say a Chrome OS tablet like a second generation [Lenovo Duet](https://www.lenovo.com/us/en/laptops/lenovo/student-chromebooks/Lenovo-CT-X636/p/ZZICZCTCT1X) in 2021.
 
 While I like Android as a phone OS, I just can't get over the limitations Android on a tablet and as Google continues to build in Android and Google Play features into Chrome OS, a device like the Duet just seems to make a lot more sense as it will receive regular updates; unlike this device.
 
