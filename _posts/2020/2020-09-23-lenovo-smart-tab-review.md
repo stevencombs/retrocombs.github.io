@@ -18,7 +18,7 @@ tags:
   - unboxing
 ---
 
-I posted an "open the box" video for the Lenovo Smart Tab with Google Assistant. In the video, I mention of a follow-up video review. I was surprised how many folks called me out for not producing this follow up video so I decided to provide my review as a blog post. You can check out the video in question below and afterward, read my review.
+I posted an "open-the-box" video for the Lenovo Smart Tab with Google Assistant. In the video, I mention a follow-up video review. Many folks called me out for not producing this video so I decided to provide my review as a blog post. You can check out the video in question below and afterward, read my review.
 
 ## YouTube Video: _OPEN THE BOX: Lenovo YOGA TAB with Google Assistant_
 
@@ -28,23 +28,23 @@ In the video below, I open the box on a Lenovo Yoga Tab with Google Assistant:
 
 ## Specifications
 
-Before I share my thoughts about the Lenovo Yoga Smart Tab with Google Assistant (whew!), let's find out what makes this thing tick and along the way, I'll share why it either a good thing, or maybe not so good.
+Before I share my thoughts about the Lenovo Yoga Smart Tab with Google Assistant (whew!), let's find out what makes this thing tick and along the way, I'll share why it is either good, or not so good.
 
 ![](https://www.stevencombs.com/images/posts/lenovo/lenovo-smart-tab.jpg)
 
-By the way, if you need a case for this device, I found this $12 MoKo case really works well and it comes in several colors. I chose boring black.
+By the way, if you need a case for this device, I found this $12 MoKo case works well and it comes in several colors. I chose boring black.
 
 [# MoKo Case Fit Lenovo Yoga Smart Tab 10.1 (YT-X705F), Ultra Compact Protection Premium Slim Folding Stand Cover Case for Lenovo Yoga Smart Tab 10.1 (YT-X705F) Tablet](https://amzn.to/3mKEYoE)
 
 ### Device
 
-The design, while still reminiscent of a tablet is unique due to the two small, but powerful speakers built into the tablet. We'll talk more about the speakers later. But at first glance, this is a tablet with a book spine and a built in metal stand that you can use to hang the tablet on a hook!
+The design, while still reminiscent of a tablet, is unique due to the two small, but powerful speakers built into the tablet. We'll talk more about the speakers later. But at first glance, this is a tablet with a book spine and a built in metal stand that you can use to hang the tablet!
 
 ![](https://www.stevencombs.com/images/posts/lenovo/device.jpg)
 
 ### System
 
-Android 9, affectionately know as Pie, is the OS for this device. I've had enough Pie and there's no way to upgrade to Android 10 or 11. This limits device features such as swipe gestures, dark mode integration, and updated share sheets. It's not a deal breaker, but come-on, Lenovo. You kill the user's tablet longevity and the device has the basic specs to run these later editions of Android. Thankfully, Lenovo is still concerned about security and updates are still delivered on what appears to be a quarterly schedule; not monthly like we find with Pixel devices.
+Android 9, affectionately know as Pie, is the OS for this device. I've had enough Pie and there's no way to upgrade to Android 10 or 11. This limits device features such as swipe gestures, dark mode integration, and updated share sheets. It's not a deal breaker, but come-on, Lenovo. You kill the user's tablet longevity. The device has the specs necessary to run these later versions of Android. Thankfully, Lenovo is concerned about security and updates are delivered on what appears to be a quarterly schedule; not monthly like we find with Pixel devices.
 
 ![](https://www.stevencombs.com/images/posts/lenovo/system.jpg)
 
@@ -62,17 +62,17 @@ Graphics are the work of the built-in Adreno 505. Again, three years-old and not
 
 ### Memory
 
-Many low end tablets stick you with 2 Gb of on board RAM. Thankfully, Lenovo stepped up and added an additional 2 Gb (for a total of 4 Gb) that helps the tablet perform admirably. I've never felt the tablet drag along.
+Many low end tablets stick you with 2 Gb of onboard RAM. Thankfully, Lenovo stepped up and added an additional 2 Gb (for a total of 4 Gb) that helps the tablet perform admirably. I've never felt the tablet drag along.
 
 ![microSD card location](/images/posts/lenovo/microSD.gif)
 
-Internal storage comes from a suitable, but not massive, 64 Gb eMMC Flash Drive. About 50 Gb is available to the user. Add more storage (but no offloading of apps) using the microSD card expansion under the built-in stand. 64 Gb is plenty for my use, but you might need more if you want to carry around a bunch of video with you or play a lot of games, but remember that games gotcha!
+Internal storage comes from a suitable, but not massive, 64 Gb eMMC Flash Drive. About 50 Gb is available to the user. Add more storage (but no offloading of apps) using the microSD card expansion under the built-in stand (see video above). 64 Gb is plenty for my use, but you might need more if you want to carry around a bunch of video with you or play a lot of games, but remember that games gotcha!
 
 ![](https://www.stevencombs.com/images/posts/lenovo/memory.jpg)
 
 ### Battery
 
-Battery life is good to very good. My primary mode of operation for this tablet is reading and video. I can easily get 10+ hours out of the Li-Po battery.
+Battery life is good. My primary use for this tablet is reading and video. I can easily get 10+ hours out of the Li-Po battery.
 
 Fast charging is not supported on the included USB-C port. A full charge takes several hours. Some say this is because the trickle charge is easier on the tablet's battery when the device in ambient mode. That may be true, but it sure would be nice to have the option to fast-charge; however, it's not been a showstopper for me.
 
@@ -86,13 +86,13 @@ Technically, the display is HD but it is a few pixels short at 1920 x 1200, vers
 
 ### Camera
 
-Camera quality is good; not great or near the quality you would expect on modern phone. Taking your tablet out to take pictures, to me, is goofy and cumbersome. The front camera is "good enough" for a Zoom or Teams meeting.
+Camera quality is good but not near the quality you  expect on a modern phone. Taking a tablet out to take pictures, to me, is goofy and cumbersome. The front camera is "good enough" for a Zoom or Teams meeting.
 
 ![](https://www.stevencombs.com/images/posts/lenovo/camera.jpg)
 
 ### Sensors
 
-Holy tricorder, Mr. Spock (like the way I mashed up a couple of pop culture references?). This thing has 28 sensors that cover both internal and external environmental variables. Why it has a step sensor is beyond me. It's not as if you are going to strap this thing on your back and go for a hike. My guess; it's leftover remnants from the mobile processor which helps to explain why Android on tablets is such a mess. On the plus side, this thing includes any sensor necessary to make light gaming a pleasure.
+Holy tricorder, Mr. Spock (how about that mashed up of two 70's pop culture references?). This thing has 28 sensors that cover both internal and external environmental variables. Why it has a step sensor is beyond me. It's not as if you are going to strap this thing on your back and go for a hike. My guess; it's leftover remnants from the mobile processor which helps to explain why Android on tablets is such a mess. On the plus side, this thing includes any sensor necessary to make light gaming a pleasure.
 
 ![](https://www.stevencombs.com/images/posts/lenovo/sensors.jpg)
 
@@ -126,9 +126,9 @@ There's a lot to like, but the tablet also has a few drawbacks.
 
 ## Final Thoughts
 
-The Lenovo is a 2019 product and as such is beginning to show its age in 2020. I believe this will be my last Android tablet. I plan to use the device for the remainder of the year, but can see myself upgrading to another device, say a Chrome OS tablet like a second generation [Lenovo Duet](https://www.lenovo.com/us/en/laptops/lenovo/student-chromebooks/Lenovo-CT-X636/p/ZZICZCTCT1X) in 2021.
+The Lenovo is a 2019 product and is beginning to show its age in 2020. I believe this will be my last Android tablet. I plan to use the device for the remainder of the year, but can see myself upgrading to another device, say a Chrome OS tablet like a second generation [Lenovo Duet](https://www.lenovo.com/us/en/laptops/lenovo/student-chromebooks/Lenovo-CT-X636/p/ZZICZCTCT1X) in 2021.
 
-While I like Android as a phone OS, I just can't get over the limitations Android on a tablet and as Google continues to build in Android and Google Play features into Chrome OS, a device like the Duet just seems to make a lot more sense as it will receive regular updates; unlike this device.
+While I like Android as a phone OS, I just can't get over the limitations of Android on a tablet and as Google continues to build in Android and Google Play features into Chrome OS, a device like the Duet just seems to make a lot more sense. Chrome OS devices receive regular updates; run Android apps, run Linux apps, can have a tablet formfactor, and can be used as a full fledge computer.
 
 If you can find this tablet on sale for less than $200, grab it. If you understand the limitations I share, I think you will have a pleasurable experience.
 
