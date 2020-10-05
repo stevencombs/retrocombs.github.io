@@ -19,7 +19,7 @@ tags:
 
 My trusty 2010 Microsoft Bluetooth Notebook Mouse 5000 gave up the electronic ghost this past week. Over time, the device became less trustworthy. Is ten years the life span of an electronic rodent? Not sure, but the mouse served me well until recently when the cursor began to lag and the connection to my Mac mini would drop.
 
-Additionally, the Microsoft notebook mouse has always been small and my goal for a new mouse was to be better fit my hand. Selecting a Logitech or another Microsoft mouse would generally be my goto options; however, like web cams during COVID-19, there's a hefty markup on premium brands. After some research, I decided to try an off-brand called [VictSing](https://www.victsing.com/) and purchase their [VictSing Wireless Mouse](https://amzn.to/3mDnPNt).
+Additionally, the Microsoft notebook mouse has always been small and my goal for a new mouse was to be better fit my hand. Selecting a Logitech or another Microsoft mouse would generally be my goto options; however, like web cams during COVID-19, there's a hefty markup on premium brands. After some research, I decided to try an off-brand called [VictSing](https://www.victsing.com/) and purchase their [VictSing Wireless Mouse (#Ad)](https://amzn.to/3mDnPNt).
 
 I choose the mouse because of the features below:
 
@@ -44,8 +44,8 @@ Watch the video below and then read on for my additional thoughts on this device
 
 Below are the links I mention in the video:
 
-1. [VictSing Wireless Mouse](https://amzn.to/3mDnPNt)
-2. [Microsoft Bluetooth Notebook Mouse 5000](https://amzn.to/33DzQtO)
+1. [VictSing Wireless Mouse (#Ad)](https://amzn.to/3mDnPNt)
+2. [Microsoft Bluetooth Notebook Mouse 5000 (#Ad)](https://amzn.to/33DzQtO)
 
 ## Final Thoughts
 

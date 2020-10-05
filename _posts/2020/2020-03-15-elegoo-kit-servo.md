@@ -29,7 +29,7 @@ This post includes the components, files, images, video, resources, and steps ne
 
 ## Objective
 
-Using an [Elegoo branded Arduino MEGA 2560 (MEGA)](https://amzn.to/362vn2V), or common Arduino variants, and various electronic components, create a hardware and software solution that will use a rotary encoder to control a micro servo. Before the micro servo can be controlled, the user must press a momentary switch. When this switch is pressed, a red LED will illuminate indicating the encoder control is now active. When the momentary switch is pressed again, the encoder control is deactivated.
+Using an [Elegoo branded Arduino MEGA 2560 (MEGA) (#Ad)](https://amzn.to/362vn2V), or common Arduino variants, and various electronic components, create a hardware and software solution that will use a rotary encoder to control a micro servo. Before the micro servo can be controlled, the user must press a momentary switch. When this switch is pressed, a red LED will illuminate indicating the encoder control is now active. When the momentary switch is pressed again, the encoder control is deactivated.
 
 ## Video
 
@@ -42,9 +42,9 @@ Below is a step-by-step video I produced for this project.
 
 ## Bill of Materials (BOM)
 
-All equipment for this project, with Amazon links, is listed below:
+All equipment for this project, with Amazon links (#Ad), is listed below:
 
-> **NOTE:** If you don't want to source the electronic parts individually, purchase the [$59 Elegoo MEGA 2560 Most Complete Starter Kit](https://amzn.to/2Rqsio6). It contains everything you need for this exercise and much, much, more! It's a great value and is often on sale. You can even [view a video I produced](https://youtu.be/jY8Jj0Rim70) that shows and explains the contents of this kit.
+> **NOTE:** If you don't want to source the electronic parts individually, purchase the [$59 Elegoo MEGA 2560 Most Complete Starter Kit (#Ad)](https://amzn.to/2Rqsio6). It contains everything you need for this exercise and much, much, more! It's a great value and is often on sale. You can even [view a video I produced](https://youtu.be/jY8Jj0Rim70) that shows and explains the contents of this kit.
 
 1 - [Elegoo MEGA 2560](https://amzn.to/362vn2V): The MEGA is overkill, but is the device I recommend for students. The additional digital I/O ports provide the option to create more complex projects.
 

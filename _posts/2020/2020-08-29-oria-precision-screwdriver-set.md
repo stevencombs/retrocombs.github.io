@@ -20,7 +20,7 @@ tags:
   - review
 ---
 
-This is the companion blog post for a quick open the box (bag) video, streamed on YouTube live, for the $25 [ORIA Precision Screwdriver Set, 86 in 1 Magnetic Repair Tool Kit with Portable Bag](https://amzn.to/3loTyBw). In this video I show you all the parts and pieces and, yes, I eventually got all the tools sorted into their proper location (see the video thumbnail).
+This is the companion blog post for a quick open the box (bag) video, streamed on YouTube live, for the $25 [ORIA Precision Screwdriver Set, 86 in 1 Magnetic Repair Tool Kit with Portable Bag (#Ad)](https://amzn.to/3loTyBw). In this video I show you all the parts and pieces and, yes, I eventually got all the tools sorted into their proper location (see the video thumbnail).
 
 Before you read my final thoughts, watch the open the box video below and learn what's included with this 4.6 ⭐ Amazon rated kit.
 
@@ -35,7 +35,7 @@ Watch the video below and then read my additional thoughts on this toolkit.
 
 Below are the links I mention in the video:
 
-1. [ORIA Precision Screwdriver Set, 86 in 1 Magnetic Repair Tool Kit](https://amzn.to/3loTyBw)
+1. [ORIA Precision Screwdriver Set, 86 in 1 Magnetic Repair Tool Kit (#Ad)](https://amzn.to/3loTyBw)
 2. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
 
 ## Package Contents

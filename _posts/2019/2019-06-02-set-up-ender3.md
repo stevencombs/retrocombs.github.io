@@ -70,7 +70,7 @@ Now that the temperature is set to a new default, I'll wait for the temperature 
 
 ![Print head at display at 200°](/images/posts/2019-06-02-set-up-ender3/02.jpg)
 
-Time to load filament. I purchased a [MIKA3D three pack (black, white, and red)](https://amzn.to/2YZKwPs) from Amazon for around $30 when I used the online 5% off coupon. I'm going to start with red, because I want all my 3D printer upgrades (that I will print using the 3D printer) printed in red and give me a cool black and red theme.
+Time to load filament. I purchased a [MIKA3D three pack (black, white, and red) (#Ad)](https://amzn.to/2YZKwPs) from Amazon for around $30 when I used the online 5% off coupon. I'm going to start with red, because I want all my 3D printer upgrades (that I will print using the 3D printer) printed in red and give me a cool black and red theme.
 
 {UPDATE: I changed my mind. I'm printing all upgrades in black to make them appear more like default accessories.}
 
@@ -138,7 +138,7 @@ I showed the 3D print to Nikki and she wanted to help break off the support mate
 
 The next day and I've already found issues. I was trying to print some upgrades and found that the base layer of my prints would not stick. I believe my build surface has already cupped in the middle. I cannot level the bed to get a good layer of filament down. While leveling is perfect underneath the spring levelers, when I move to the middle of the bed, there is too much room between the bed and the print nozzle.
 
-After some research, this seems to be common. Especially if you bend the build surface to remove a print; which I have been doing. WARNING to new users, don't do that! The fix is to get a new build surface. I'm going to order a [Creality glass build surface](https://www.amazon.com/gp/product/B07DS2LZF1/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=stevenccom-20&linkId=9bf5df419865628287842890eb6dd9a3&language=en_US) to replace it. Glass will not warp and is recommended by many online. I'll let you know how it goes. Until it arrives, I have been able to print smaller objects. I modify the location of the model on the build surface, in Cura, to one of the quadrants of the build surface where there is less warping. That works so far. I am printing a 3D printer upgrade part while I type.
+After some research, this seems to be common. Especially if you bend the build surface to remove a print; which I have been doing. WARNING to new users, don't do that! The fix is to get a new build surface. I'm going to order a [Creality glass build surface (#Ad)](https://www.amazon.com/gp/product/B07DS2LZF1/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=stevenccom-20&linkId=9bf5df419865628287842890eb6dd9a3&language=en_US) to replace it. Glass will not warp and is recommended by many online. I'll let you know how it goes. Until it arrives, I have been able to print smaller objects. I modify the location of the model on the build surface, in Cura, to one of the quadrants of the build surface where there is less warping. That works so far. I am printing a 3D printer upgrade part while I type.
 
 I've learned a whole lot more about my printer since my previous post as well as what I should and shouldn't do in the future. The build surface issue would have happened eventually. It is just a shame that Creality doesn't just include a glass build surface by default. The fact that I have to purchase another build surface adds an extra $20 to the total cost. Disappointing. As long as that solution works, I feel I can still be happy with my purchase.
 

@@ -44,7 +44,7 @@ Key  | Description   | Key  | Description
 `⌫`  | Insert/Delete | `F6` | Function 6
 `⏎`  | Return        | `F7` | Function 7
 `RS` | Run/Stop      | `F8` | Help
-`⇧`  | Shift         |      |
+`⇧`  | Shift         | ␣  | Space
 
 ## Links to Episodes
 
@@ -129,3 +129,6 @@ Below are links I've found to be most beneficial as I work through this series:
 2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
 3. [RETRO Innovation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
 3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NjM4ODI0MTZdfQ==
+-->

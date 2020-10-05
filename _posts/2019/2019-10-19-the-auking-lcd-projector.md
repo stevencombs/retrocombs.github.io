@@ -15,11 +15,11 @@ tags:
   - auking
 ---
 
-A couple of years ago, we received the [Star Shower Window Wonderland](https://amzn.to/2J6VVHA) as a gift from family members who knew our love of holiday decorations. We used this little single-use projector for both Halloween and Christmas. It served us faithfully by projecting several built-in holiday themed animated scenes at very low lumens (a measure of brightness for the projector).
+A couple of years ago, we received the [Star Shower Window Wonderland (#Ad)](https://amzn.to/2J6VVHA) as a gift from family members who knew our love of holiday decorations. We used this little single-use projector for both Halloween and Christmas. It served us faithfully by projecting several built-in holiday themed animated scenes at very low lumens (a measure of brightness for the projector).
 
-This year, we wanted to break away from the standard scenes provided and brighten up the image. I've become familiar with [sub-$100 projectors](https://amzn.to/2MSWTZa) by browsing Amazon and have been intrigued. I almost pulled the trigger several times this past year but kept telling myself that there was no way these inexpensive projectors would be worth the purchase.
+This year, we wanted to break away from the standard scenes provided and brighten up the image. I've become familiar with [sub-$100 projectors (#Ad)](https://amzn.to/2MSWTZa) by browsing Amazon and have been intrigued. I almost pulled the trigger several times this past year but kept telling myself that there was no way these inexpensive projectors would be worth the purchase.
 
-Toward the holiday season, I once again began thinking about these devices. I browsed the numerous listings of these tiny inexpensive projectors until my head was about to explode. I looked at brands, models, and reviews. I placed several projectors in my cart, removed them, then added others. In the end, I finally decided to purchase the [AuKing Mini Projector (Upgraded for 2019)](https://amzn.to/32Hhqq8).
+Toward the holiday season, I once again began thinking about these devices. I browsed the numerous listings of these tiny inexpensive projectors until my head was about to explode. I looked at brands, models, and reviews. I placed several projectors in my cart, removed them, then added others. In the end, I finally decided to purchase the [AuKing Mini Projector (Upgraded for 2019) (#Ad)](https://amzn.to/32Hhqq8).
 
 ![The AuKing 2019 Mini Projector](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/1.jpg)
 
@@ -30,11 +30,11 @@ I choose the AuKing for three reasons:
 3. It has the ability to display almost ANYTHING (more on that in the bullets).
 
 ## My Holiday Use Case
-Before I share my review, I want to describe how I use this projector. The LCD projector is connected to an [AmazonBasics standard camera tripod](https://amzn.to/35QsBie). The LCD projector includes the threads necessary. I shoot the image onto a translucent window shade mounted to a large window on the front of our home.
+Before I share my review, I want to describe how I use this projector. The LCD projector is connected to an [AmazonBasics standard camera tripod (#Ad)](https://amzn.to/35QsBie). The LCD projector includes the threads necessary. I shoot the image onto a translucent window shade mounted to a large window on the front of our home.
 
 ![AuKing on AmazonBasics Tripod](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/2.jpg)
 
-Visitors are treated to movies I play from an inexpensive [32 Gb microSD card](https://amzn.to/2qotTRn) plugged into the LCD projector. You probably wouldn't guess it with a projector this inexpensive, but the it includes the ability to reverse the image so visitors don't see mirrored video. The projector also includes repeat and sleep timer features. I simply turn the projector on, select the movie to display from the built-in media display menus, select repeat, and finally select four hours of play. In the words of Ron Popeil, I "set it and forget it."
+Visitors are treated to movies I play from an inexpensive [32 Gb microSD card (#Ad)](https://amzn.to/2qotTRn) plugged into the LCD projector. You probably wouldn't guess it with a projector this inexpensive, but the it includes the ability to reverse the image so visitors don't see mirrored video. The projector also includes repeat and sleep timer features. I simply turn the projector on, select the movie to display from the built-in media display menus, select repeat, and finally select four hours of play. In the words of Ron Popeil, I "set it and forget it."
 
 You can find my use of the projector displaying a film in the video below:
 
@@ -44,7 +44,7 @@ For Halloween 2019, I downloaded public domain, and VERY creepy, silent films fr
 
 I hope it explains how this device replaces the limited scene displaying [Star Shower Window Wonderland](https://amzn.to/2J6VVHA). With only a double the cost investment, I now have limitless display options. Now, let's dive into my bullet review of the Amazon titled product:
 
-[AuKing Mini Projector 2019 Upgraded Portable Video-Projector,55000 Hours Multimedia Home Theater Movie Projector,Compatible with Full HD 1080P HDMI,VGA,USB,AV,Laptop,Smartphone](https://amzn.to/32Hhqq8)
+[AuKing Mini Projector 2019 Upgraded Portable Video-Projector,55000 Hours Multimedia Home Theater Movie Projector,Compatible with Full HD 1080P HDMI,VGA,USB,AV,Laptop,Smartphone (#Ad)](https://amzn.to/32Hhqq8)
 
 Whew, that's a mouthful!
 
@@ -92,7 +92,7 @@ So would I recommend this projector? Oh yeah! With Amazon's generous return poli
 
 If you have a bit more budget, you might want to check out this next level up:
 
-[VANKYO Leisure 510 HD Movie Projector with 4200 Lux, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag](https://amzn.to/2oN2IQ4)
+[VANKYO Leisure 510 HD Movie Projector with 4200 Lux, Video Projector with 230" Projection Size, Support 1080P HDMI VGA AV USB with HDMI Cable and Carrying Bag (#Ad)](https://amzn.to/2oN2IQ4)
 
 This make and model has a higher resolution and more lumens for about $160. I almost sprung for this one, but was lured to the low cost of the AuKing (i.e. I'm frugal!).
 

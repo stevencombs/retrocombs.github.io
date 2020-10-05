@@ -17,7 +17,7 @@ tags:
   - covid19
 ---
 
-On March 31, 2019 and during the height of COVID-19, the folks who make the popular [Wyze cam](https://amzn.to/2R2sgn6) released a firmware update that allows you to convert their popular security camera into a webcam. This is a nice philanthropic move by the company and while there are likely to be critics who believe this move is only to sell more cameras, I choose to believe that Wyze is doing this to fill a need during this crisis and honestly, $25 for a webcam that can also be used as a security camera is one heckuva deal! And who doesn't need a good deal right now?
+On March 31, 2019 and during the height of COVID-19, the folks who make the popular [Wyze cam (#Ad)](https://amzn.to/2R2sgn6) released a firmware update that allows you to convert their popular security camera into a webcam. This is a nice philanthropic move by the company and while there are likely to be critics who believe this move is only to sell more cameras, I choose to believe that Wyze is doing this to fill a need during this crisis and honestly, $25 for a webcam that can also be used as a security camera is one heckuva deal! And who doesn't need a good deal right now?
 
 > **2020-04-07 UPDATE:** Several asked me why I did not test the camera on Chrome OS since I host the [Pixel Power Podcast](https://www.pixelpowerpodcast.com). Great question. You will find that video linked in this post below the original if you are interested in the firmware performance on Chrome OS devices.
 
@@ -27,7 +27,7 @@ In this post, I will demonstrate how to flash a Wyze Cam Black into a "Wyze WebC
 
 ## Camera compatibility
 
-This new firmware works with the following Wyze cam models:
+This new firmware works with the following Wyze cam models (#Ad):
 
 1. [Wyze Cam v2](https://amzn.to/2XcL5Yy) - Readily available and I have several around our home.
 2. Wyze Cam Black (Not currently available) - This is the model I use to demonstrate in the video because in black, the Wyze Cam just looks more like a webcam.
@@ -35,7 +35,7 @@ This new firmware works with the following Wyze cam models:
 
 ## Equipment
 
-You will need the following accessories:
+You will need the following accessories (#Ad):
 
 1. [32Gb microSD card](https://amzn.to/340oU9q) - I'm not sure why Wyze stipulates a 32Gb microSD when the firmware download is only 10Mb! My guess is you can use a smaller device but I'm going to use what they recommend for this demonstration.
 2. [USB A to USB A cable](https://amzn.to/2Jtel5c) - I could not believe I did not have one of these cables in my stock pile of cables! I had to purchase this two pack. Cue heavy *sigh*.
@@ -90,7 +90,7 @@ Below are my thoughts, in bullet form, on the conversion and use of the new Wyze
 * No issues with video after the firmware installation; it was simply plug-and-play ([Plug-and-play](https://youtu.be/TOy8VQSQ_0Q?t=544)]
 * The Wyze Cam has a large field-of-view and one much larger than a normal webcam so it may seem odd at first as it captures more of the room that you might like ([Video Demonstration](https://youtu.be/TOy8VQSQ_0Q?t=651))
 * Video image has subtle colors with very little saturation
-* Video is not as sharp as say, a [Logitech C920](https://amzn.to/2x3IFAP), but it is 1080p and good enough; especially when you consider this is a $25 webcam that is available now (unlike the Logitech)
+* Video is not as sharp as say, a [Logitech C920 (#Ad)](https://amzn.to/2x3IFAP), but it is 1080p and good enough; especially when you consider this is a $25 webcam that is available now (unlike the Logitech)
 * The Wyze Cam is designed to work in low light situations and that feature is replicated in webcam mode
 * On both the Linux and Mac computers, the device was found on every application that uses a camera, even OBS Studio; which on Linux can be a bit finicky (I may even use this as a regular camera on my OBS Studio setup)
 * The Wyze WebCam microphone is unusable and you will need a separate microphone ([Unusable Audio](https://youtu.be/TOy8VQSQ_0Q?t=687))

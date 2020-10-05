@@ -161,7 +161,7 @@ USB device support is not activated by default. As mentioned, I assume you are o
 
 ## Connect the Arduino to the Chrome OS device
 
-If you have a Pixelbook or Pixel Slate, you will need a USB-C (3.1) to USB-B (2.0 or 3.0) hub. There are many good options. [I recommend this one](https://amzn.to/2R9RuR2). Plug the hub into the device and then plug the Arduino into the hub. The Arduino's power light will turn on.
+If you have a Pixelbook or Pixel Slate, you will need a USB-C (3.1) to USB-B (2.0 or 3.0) hub. There are many good options. [I recommend this one (#Ad)](https://amzn.to/2R9RuR2). Plug the hub into the device and then plug the Arduino into the hub. The Arduino's power light will turn on.
 
 If you have a Chrome OS device with an older USB 3.0 or USB 2.0, plug the Arduino to the port. The Arduino's power light will turn on.
 

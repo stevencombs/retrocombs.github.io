@@ -15,9 +15,9 @@ tags:
   - squirrel
 ---
 
-I'm a WYZE fan! Except for the [WYZE Lock](https://amzn.to/3iPxheg), I "reckon" I have at least one of every product and not because they are sent to me to review–I purchase every WYZE product I review. Although, if you are out there WYZE...I'd consider review units as long as you know they will get an honest and objective look.
+I'm a WYZE fan! Except for the [WYZE Lock (#Ad)](https://amzn.to/3iPxheg), I "reckon" I have at least one of every product and not because they are sent to me to review–I purchase every WYZE product I review. Although, if you are out there WYZE...I'd consider review units as long as you know they will get an honest and objective look.
 
-I've waited for an outdoor web cam from WYZE for some time. I've even used [some third-party products](https://amzn.to/3g5SQW6) to stick regular WYZE Cams outside with limited success. It has been fun experimenting but nothing can beat a camera designed from the ground up for the elements. Enter the WYZE Cam Outdoor. 
+I've waited for an outdoor web cam from WYZE for some time. I've even used [some third-party products (#Ad)](https://amzn.to/3g5SQW6) to stick regular WYZE Cams outside with limited success. It has been fun experimenting but nothing can beat a camera designed from the ground up for the elements. Enter the WYZE Cam Outdoor.
 
 Before I share additional thoughts, please take a few minutes to watch my YouTube video below. It includes an open the box, setup, and smile worthy squirrel moments. And who doesn't like funny squirrel videos?
 
@@ -29,7 +29,7 @@ Watch the video below and then read on for my additional thoughts on this outdoo
 
 ## Links Mentioned
 
-Below are the links mentioned in the video:
+Below are the links (#Ad) mentioned in the video:
 
 1. [WYZE Cam](https://amzn.to/2DZ4VPH)
 2. [WYZE Cam Outdoor](https://wyze.com/wyze-cam-outdoor.html)
@@ -59,8 +59,4 @@ That's it for now. I do update and timestamp posts as I receive answers, so feel
 
 ## Have Questions?
 
-Well, I can see by the time on [WYZE Band](https://amzn.to/2PXhPQM) that I've already taken up too much of your time! Have questions about the WYZE Cam Outdoor? Post them in the comments below and I'll do my best to answer them. I don't have a lot of time on the device, but I will soon!
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUxNTE5OTcsMTc4OTY5MjAxM119
--->
+Well, I can see by the time on [WYZE Band (#Ad)](https://amzn.to/2PXhPQM) that I've already taken up too much of your time! Have questions about the WYZE Cam Outdoor? Post them in the comments below and I'll do my best to answer them. I don't have a lot of time on the device, but I will soon!
