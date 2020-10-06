@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'retroCombs: The Tapuino Project - Build an Arduino powered Commodore Datasette clone for the Commodore Plus/4'
-date: '2020-07-191'
+date: '2020-07-19'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
-permalink: '`tapuino-1'`
+permalink: 'tapuino-1'
 comments: 'yes'
 category: retro
 tags:
@@ -82,9 +82,9 @@ I demonstrate how to build the Tapuino in the video; however, below are addition
 
 1.  While Fritzing allows me to document my build, the other advantage is that by laying out the Tapuino in Fritzing, I become more familiar with the build and how the components operate. This came in handy when troubleshooting (and there was a lot) really helped when it came to troubleshooting.
 2.  I’d not used an 4n25 optocoupler; or opto-isolator (which is why it took me a few times to say it correctly in the video). It’s an interesting device. Sweetlilmre’s site doesn’t explain what it does, so I did a bit of research. Wikipedia says an optocoupler:
-    
+
     > is an [electronic component](https://en.wikipedia.org/wiki/Electronic_component) that transfers electrical [signals](https://en.wikipedia.org/wiki/Signal) between two isolated circuits by using light. Opto-isolators prevent [high voltages](https://en.wikipedia.org/wiki/High_voltage) from affecting the system receiving the signal.” Here’s [the data sheet](http://www.farnell.com/datasheets/1930778.pdf) if you’d like to learn more.
-    
+
 3.  Add the components to the breadboard first and then cut your wires. I use a pair of wire-strippers from Harbor Freight. For $10, I think these are well worth the cost and possibly, the best purchase I’ve made in long time!
 4.  Speaking of breadboards, I’m still not sure why the original Arduino or the header pins kept popping out. It’s very odd. It’s as if the connectors are smaller than the connectors on my other breadboards. It must be a manufacturing error, but I’m not giving up on the board since resistors and other components fit.
 5.  You can install the software on the Arduino before connecting it to the breadboard. It will make things easier and also ensure you don’t accidentally destroy the Arduino. What’s that you ask? How does that happen…
@@ -117,30 +117,30 @@ This is another process that deserves its own section. Once the Tapuino is built
 3.  Rename the extracted folder; _Tapuino_ - This is required or the `tapuino.ino` file won’t be able to find and upload the support files.
 4.  Rename, or copy, the `config-user.h.example` configuration file to `config-user.h`.
 5.  Modify the configuration file to match the hardware and language. Below is my file:
-    
+
     ```
      //*****************************************/
      // User selectable configuration settings
      //
      /******************************************/
-    
+
      /******************************************/
      // LCD Definitions
      /******************************************/
-    
+
      // uncomment one of these sets for your specific LCD
      #define LCD_USE_1602_LCD_MODULE
      #define LCD_I2C_ADDR 0x27 // I2C address for the LCD
      // #define LCD_USE_SSD1306_OLED_MODULE
      // #define LCD_I2C_ADDR 0x3C // I2C address for the OLED
      // #define LCD_SSD1306_BIG_FONTS // define this for ... bigger fonts...
-    
+
      // choose one of these depending on your display
      // #define LCD_SSD1306_128x64
      // #define LCD_SSD1306_128x32
      // #define LCD_USE_SSD131X_OLED_MODULE
      // #define LCD_I2C_ADDR 0x3C // I2C address for the OLED
-    
+
      /********************************************/
      // Language Definitions
      /********************************************/
@@ -150,9 +150,9 @@ This is another process that deserves its own section. Once the Tapuino is built
      // #define TAPUINO_LANGUAGE_TR
      // #define TAPUINO_LANGUAGE_ES
      // #define TAPUINO_LANGUAGE_DE
-    
+
     ```
-    
+
 6.  Start the Arduino IDE - I use Linux but this process should be similar on other platforms.
 7.  Navigate into the _tapuino_ folder and load the `tapuino.ino` file - the Arduino IDE will load all associated project files.
 8.  In the _Tools_ menu, select Arduino Nano and the correct serial port - this is done in the _Board_ and _Ports_ menu items.
@@ -211,8 +211,3 @@ Here’s the list of references:
 ## Next Up
 
 One of the reason’s I choose to use a solderable breadboard was to provide a permanent platform for the electronic so I could design a 3D printed case. I’ve already started thinking about this and have some rough designs. More on that in a future post and video. For now, leave you comments and questions below or in the comments under the YouTube video. I’ll do my best to answer them.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM2MzIyMDksMTA3NTQwNDg3LDg3MT
-EzNTc2MCw5NzMwOTQ3NjUsLTEwNDQ3OTc1MzIsMTg5ODE4MTQx
-OF19
--->
