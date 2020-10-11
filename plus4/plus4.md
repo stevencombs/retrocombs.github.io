@@ -29,6 +29,7 @@ In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/
 3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
 4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
 5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
+6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
 
 ## Key to Keys
 
@@ -44,7 +45,7 @@ Key  | Description   | Key  | Description
 `⌫`  | Insert/Delete | `F6` | Function 6
 `⏎`  | Return        | `F7` | Function 7
 `RS` | Run/Stop      | `F8` | Help
-`⇧`  | Shift         | ␣  | Space
+`⇧`  | Shift         | `␣`  | Space
 
 ## Links to Episodes
 
@@ -121,6 +122,12 @@ The posts below are helpful for any Commodore 8-bit computer enthusiasts but are
 
     As part of my Commodore Plus/4 series, chapter three, of the user’s manual, includes a sections on using a Datasette and a disk drive. In a previous post, I built the modern replacement for the disk drive (a Pi1541), now it’s time to create a Datasette replacement called, the Tapuino.
 
+3. [retroCombs: TEDuino: A Modern TED (264) Series Commodore Datasette](/_posts/2020/2020-10-06-teduino-1.md)
+
+    In a previous post, I assembled the [modern replacement for the Datasette](https://www.stevencombs.com/tapuino-1), the Tapuino. For this project I use another Arduino, in this case the inexpensive Arduino Nano, some easy to source electronic components, and a 3D printer to create a Commodore 264 series inspired Datasette replacement I call, the TEDuino.
+
+    ![The TEDuino](/teduino/images/teduino-rendering.jpg)
+
 ## Plus/4 Resources
 
 Below are links I've found to be most beneficial as I work through this series:
@@ -129,6 +136,3 @@ Below are links I've found to be most beneficial as I work through this series:
 2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
 3. [RETRO Innovation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
 3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM4ODI0MTZdfQ==
--->
