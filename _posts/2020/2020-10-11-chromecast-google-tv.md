@@ -56,10 +56,4 @@ Drop your questions about the Chromecast below or in the comments section at You
 
 ## Pixel Power Podcast
 
-If you like this video and describe yourself as a Google Fanboy (person/girl/etc.), be sure to check out my podcast, the Pixel Power Podcast. Monthly (sometimes more often), I focus on a topic that allows you to get the most out of your Pixel and Google powered devices such as Android, Chrome OS, Google Assistant, and Google Workspace (formerly G-Suite) with an emphasis on Pixel devices such as the Pixel phone, Pixelbook, Pixel Slate, Pixel Buds, and other Google Assistant powered devices like this new Chromecast with Google TV. Check out the podcast at:
-
-[Welcome to the Pixel Power Podcast | Pixel Power Podcast](https://www.pixelpowerpodcast.com)
-
-Be sure to follow the podcast on Twitter at:
-
-https://www.twitter.com/pixelpowerpc
+If you like this video and describe yourself as a Google Fanboy (person/girl/etc.), be sure to check out my podcast, the Pixel Power Podcast. Monthly (sometimes more often), I focus on a topic that allows you to get the most out of your Pixel and Google powered devices such as Android, Chrome OS, Google Assistant, and Google Workspace (formerly G-Suite) with an emphasis on Pixel devices such as the Pixel phone, Pixelbook, Pixel Slate, Pixel Buds, and other Google Assistant powered devices like this new Chromecast with Google TV. Check out the [podcast](https://www.pixelpowerpodcast.com) and be sure to f[ollow the podcast on Twitter](https://www.twitter.com/pixelpowerpc).
