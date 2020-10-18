@@ -45,6 +45,7 @@ This solution requires the use of a script (unlike my Mac OS solution). Follow t
 
     ```bash
     #!/bin/bash
+    setxkbmap -option caps:none
     xmodmap -e "keycode 66 = Scroll_Lock"
     xmodmap -e "keycode 78 = Caps_Lock"
     ```
