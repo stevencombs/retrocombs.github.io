@@ -96,15 +96,15 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [Tapuino Project](/tapuino-1)
     * [Call out to Bil Herd for Information](https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw)
 
-## Supplemental Disk Image (Coming Soon)
+## Supplemental Disk Image (In Progress)
 
-As I progress through the user's manual, I enter and execute the sample programs. The .d81 image below contains every program from each episode.
+As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 
 [retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2020-10-20
 
 I use the following file name convention to make it easy to locate specific programs:
 
-<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02-RCOMBS SCROLL.PRG`
+<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
 
 * `02` - The chapter number
 * `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.
