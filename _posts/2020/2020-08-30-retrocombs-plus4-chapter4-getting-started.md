@@ -81,7 +81,7 @@ THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (r
 ## Introduction
 
 1. Thanks to viewers for feedback.
-2. .d81 disk image coming soon and will update as we go
+2. .d81 disk image coming soon and will update as we go.
 3. Proud of the companion website for this episode. Check it out!
 4. When viewing the YouTube video, don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 

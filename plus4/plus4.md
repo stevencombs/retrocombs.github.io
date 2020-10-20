@@ -98,17 +98,16 @@ Below is a link to each blog post in the series. Each blog post contains the com
 
 ## Supplemental Disk Image (Coming Soon)
 
-As I progress through the user's manual, I enter and execute the sample programs. The .d64 image below contains every program from each episode.
+As I progress through the user's manual, I enter and execute the sample programs. The .d81 image below contains every program from each episode.
 
-retroCombs User's Manual Disk Image - Coming Soon
+[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - UPDATED AS OF:  2020-10-20
 
 I use the following file name convention to make it easy to locate specific programs:
 
-Sample Program Name: `C1P2-5RETROCOMBS.PRG`
+Sample Program Name: `02-RCOMBS SCROLL.PRG`
 
-* `C#` - where # is the chapter number
-* `P#` - where # is the page number where the program is first referenced in the user's manual
-* `NAME` - my self assigned name for the program
+* `02` - The chapter number
+* `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.
 
 ## Supplemental Posts
 
