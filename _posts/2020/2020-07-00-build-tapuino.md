@@ -211,3 +211,6 @@ Here’s the list of references:
 ## Next Up
 
 One of the reason’s I choose to use a solderable breadboard was to provide a permanent platform for the electronic so I could design a 3D printed case. I’ve already started thinking about this and have some rough designs. More on that in a future post and video. For now, leave you comments and questions below or in the comments under the YouTube video. I’ll do my best to answer them.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA5MzI0NDQwXX0=
+-->

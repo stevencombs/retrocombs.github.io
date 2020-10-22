@@ -52,7 +52,7 @@ Android 9, affectionately know as Pie, is the OS for this device. I've had enoug
 
 Let's talk hardware. The Lenovo is powered by the now 3 year-old [Qualcomm Snapdragon 439](https://www.qualcomm.com/products/snapdragon-439-mobile-platform) 64 bit, 2 Ghz,  octo-core/thread processor. You would think with all that giga, octo, and thread count, this would be a monster processor; however, online descriptions tout this chip as a "lower mainstream system on a chip (SOC)." In other words, don't expect amazing performance but "just enough." The chip is fine for this device and most operations are smooth. App launching is tidy and multitasking is seamless. More on this as we talk about memory.
 
-![](https://www.stevencombs.com/images/posts/lenovo/cpu.jpg)
+![](https://www.stevencombs.com/images/posts/lenovo/cpu.jpg
 
 ### GPU
 
@@ -126,10 +126,13 @@ There's a lot to like, but the tablet also has a few drawbacks.
 
 ## Final Thoughts
 
-The Lenovo is a 2019 product and is beginning to show its age in 2020. I believe this will be my last Android tablet. I plan to use the device for the remainder of the year, but can see myself upgrading to another device, say a Chrome OS tablet like a second generation [Lenovo Duet](https://www.lenovo.com/us/en/laptops/lenovo/student-chromebooks/Lenovo-CT-X636/p/ZZICZCTCT1X) in 2021.
+The Lenovo is a 2019 product and age in 2020. I believe this will be my last Android tablet. I plan to use the device for the remainder of the year, but can see myself upgrading to another device, say a Chrome OS tablet like a second generation [Lenovo Duet](https://www.lenovo.com/us/en/laptops/lenovo/student-chromebooks/Lenovo-CT-X636/p/ZZICZCTCT1X) in 2021.
 
 While I like Android as a phone OS, I just can't get over the limitations of Android on a tablet and as Google continues to build in Android and Google Play features into Chrome OS, a device like the Duet just seems to make a lot more sense. Chrome OS devices receive regular updates; run Android apps, run Linux apps, can have a tablet formfactor, and can be used as a full fledge computer.
 
 If you can find this tablet on sale for less than $200, grab it. If you understand the limitations I share, I think you will have a pleasurable experience.
 
 There; I've lived up to my video promise by providing a full review. I hope readers and YouTube watchers find this review helpful.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM1MjUxMjg5MV19
+-->
