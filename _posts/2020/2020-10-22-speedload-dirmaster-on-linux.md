@@ -36,7 +36,7 @@ My instructions are for Arch based distributions (Manjaro for me) but the basics
 
 In the video below, demonstrate how to install the DirMaster Windows application on Manjaro Linux:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/fA9RpEtS2f0" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 Now that you've seen the video, if you want to try this yourself, step-by-step, read the companion blog instructions below.
 
@@ -148,6 +148,7 @@ With _DirMaster_ installed in a virtual drive and a shortcut on your desktop, la
     ![DirMaster Application Window](/images/posts/wine/dirmaster-application.png)
 
 2. Create or open a disk image to get started as shown in the image below:
+
     ![DirMaster with Loaded Disk Image](/images/posts/wine/dirmaster-application-image-loaded.png)
 
 > **TIP:** If you'd like a disk image to play with, download my [Plus/4 Users Manual disk image](https://www.stevencombs.com/plus4). It's about half way down the page. Look for the retroCombs floppy disk.
