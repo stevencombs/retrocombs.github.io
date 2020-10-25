@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Commodore Plus/4 - Part 1, Open the Box'
+title: 'retroCombs: Commodore Plus/4 User's Manual, Chapter 0 - Open the Box'
 date: '2020-05-23'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -31,7 +31,7 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 
 [User's Manual Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 
-## YouTube Video: _retroCombs: Commodore Plus/4, Part 1, Open the Box_
+## YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 0 - Open the Box_
 
 The video below describes my background with Commodore computers, my intent for this new series, and an open the box on a Commodore Plus/4. Watch the video and then come back and read the additional material posted below the video.
 

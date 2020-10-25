@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Commodore Plus/4 - Chapter 2, Using the Keyboard and the Screen'
+title: 'retroCombs: Commodore Plus/4 User's Manual, Chapter 2 - Using the Keyboard and the Screen'
 date: '2020-06-10'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-3
@@ -39,7 +39,7 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 
-## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 2, Using the Keyboard and the Screen_
+## YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 2 - Using the Keyboard and the Screen_
 
 In the video below, I work through Chapter 2 of the user's manual. Along the way, I discover some keyboard tricks and discover some editing quirks.
 

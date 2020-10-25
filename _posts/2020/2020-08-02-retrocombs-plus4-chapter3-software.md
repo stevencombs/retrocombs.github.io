@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Commodore Plus/4 - Chapter 3, Using Software'
+title: 'retroCombs: Commodore Plus/4 User's Manual, Chapter 3 - Using Software'
 date: '2020-08-02'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-4
@@ -43,7 +43,7 @@ Below are the links for previous chapters covered:
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
 
-## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 3, Using Software_
+## YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 3 - Using Software_
 
 In the video below, I work through Chapter 3 of the user's manual. I deviate slightly from the manual in topic presentation order to add clarity and I also add a bonus command. Along the way, I also share how to use a cartridge, the Tapuino, and the Pi1541
 

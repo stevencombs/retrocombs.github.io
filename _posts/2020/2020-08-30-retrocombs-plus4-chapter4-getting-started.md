@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Commodore Plus/4 - Chapter 4, Getting Started'
+title: 'retroCombs: Commodore Plus/4 User's Manual, Chapter 4 - Getting Started'
 date: '2020-08-30'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-5
@@ -42,7 +42,7 @@ Below are the links for previous chapters covered:
 3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
 4. [Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
 
-## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 4, Getting Started_
+## YouTube Video: _retroCombs: Commodore Plus/4 User's Guide, Chapter 4 - Getting Started_
 
 In the video below, I work through Chapter 4 of the user's manual.
 
