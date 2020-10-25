@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User's Manual, Chapter 2 - Using the Keyboard and the Screen'
+title: 'retroCombs: Plus/4 User’s Manual, Chapter 2 - Using the Keyboard and the Screen'
 date: '2020-06-10'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-3

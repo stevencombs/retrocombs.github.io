@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User's Manual Chapter 5 - Numbers and Calculations'
+title: 'retroCombs: Plus/4 User’s Manual Chapter 5 - Numbers and Calculations'
 date: '2020-10-25'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-6

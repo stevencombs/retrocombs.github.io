@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User's Manual, Chapter 0 - Open the Box'
+title: 'retroCombs: Plus/4 User’s Manual, Chapter 0 - Open the Box'
 date: '2020-05-23'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
