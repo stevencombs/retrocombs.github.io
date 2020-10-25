@@ -51,7 +51,7 @@ Key  | Description   | Key  | Description
 
 Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
 
-1. [Commodore Plus/4 - Open the Box](/plus4-1)
+1. [Commodore Plus/4 User's Manual, Chapter 0 - Open the Box](/plus4-1)
 
     I share my first experience with a Commodore computer (it is not the Plus/4) and then open the box on my Commodore Plus/4 eBay purchase.
 
@@ -61,7 +61,7 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [My Twitter feed](https://www.twitter.com/stevencombs)
     * [My YouTube channel](https://www.youtube.com/stevencombs)
 
-2. [Commodore Plus/4 - Chapter 1, Unpacking and Setting Up](/plus4-2)
+2. [Commodore Plus/4 User's Manual, Chapter 1 - Unpacking and Setting Up](/plus4-2)
 
     I open the Commodore Plus/4 manual for the first time and look at Chapter 1: Unpacking and Setting Up. Since the previous episode was an open the box, unpacking is already complete and this episode focuses on setting up the computer. Along the way I share a very cool tip.
 
@@ -70,14 +70,14 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
     * [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine))
 
-3. [Commodore Plus/4 - Chapter 2, Using the Keyboard and the Screen](/plus4-3)
+3. [Commodore Plus/4 User's Manual, Chapter 2 - Using the Keyboard and the Screen](/plus4-3)
 
     I talk about the keyboard layout, using the keyboard, and then how keyboard combinations affect screen elements. This is really a "hands on" episode!
 
     * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
     * [uxcell 6 pin connectors 4 pack](https://amzn.to/3fe4huQ)
 
-4. [Commodore Plus/4 - Chapter 3, Using Software](/plus4-4)
+4. [Commodore Plus/4 User's Manual, Chapter 3 - Using Software](/plus4-4)
 
     I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](https://www.stevencombs.com/tapuino-1), and a [Pi1541](https://www.stevencombs.com/pi1541-1).
 
@@ -87,7 +87,7 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [Tapuino Project](/tapuino-1)
     * [DIAG 264 Cartridge](https://www.thefuturewas8bit.com/diag-264.html)
 
-5. [Commodore Plus/4 - Chapter 4, Getting Started](/plus4-5)
+5. [Commodore Plus/4 User's Manual, Chapter 4 - Getting Started](/plus4-5)
 
     It seems like we've been getting started over and over, but I guess now we really are since the manual told us so! In this chapter I look at keyboard colors, reverse printing, correcting mistakes, the screen, and even windows. Yes, that's right, I typed windows. See the blog post and video for more on that topic.
 
@@ -95,6 +95,14 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [Create a Blank .d64 Disk Image](/pi1541-2)
     * [Tapuino Project](/tapuino-1)
     * [Call out to Bil Herd for Information](https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw)
+
+6. [Commodore Plus/4 User's Manual, Chapter 5 - Numbers and Calculations]
+
+    In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher; I hope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequate.
+
+    * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+    * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
+    * [The Tapuino Project](/tapuino-1)
 
 ## Supplemental Disk Image (In Progress)
 

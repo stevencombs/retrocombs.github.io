@@ -52,7 +52,7 @@ In the video below, I work through Chapter 5 of the user's manual.
 
 Below are the links I mention in the video.
 
-1. [Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+1. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
 3. [The Tapuino Project](/tapuino-1)
 
