@@ -199,7 +199,7 @@ Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.yo
 3. Below is a sample program that will print five random values.
 
     ```basic
-    10 FOR X=1TO5 : ? RAND(X): NEXT X
+    10 FOR X=1TO5 : ? RND(X): NEXT X
     ```
 
     > **TIP:** The line of code above could have been three different lines; however, we use a `:` to place three lines of code on a single line. This can reduce memory usage for longer programs.
@@ -226,7 +226,7 @@ Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.yo
 
 ## Final Thoughts
 
-This chapter provides very cursory basics of number and calculations. I recommend you check out more functions on page 151 in the user's manual. Of particular interest is that most of these same things can be done using the Python interpreter on a modern computer. On that note, the concepts used here will help anyone just learning to program.
+This chapter provides the cursory basics of number and calculations. I recommend you check out more functions on page 151 in the user's manual. Of particular interest is that most of the examples I provide can be accomplished using the [Python](https://www.python.org/) interpreter on a modern computer. On that note, the concepts used here will help anyone who wants to learn program BASICs (pun intended).
 
 ## Join the Fun
 

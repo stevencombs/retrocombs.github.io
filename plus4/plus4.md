@@ -96,7 +96,7 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [Tapuino Project](/tapuino-1)
     * [Call out to Bil Herd for Information](https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw)
 
-6. [Commodore Plus/4 User's Manual, Chapter 5 - Numbers and Calculations]
+6. [Commodore Plus/4 User's Manual, Chapter 5 - Numbers and Calculations](/plus4-6)
 
     In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher; I hope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequate.
 
