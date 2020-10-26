@@ -48,6 +48,14 @@ In the video below, I work through Chapter 5 of the user's manual.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/deYdjWEKT6g" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+## Video Errata
+
+Robin, from [8-Bit Show and Tell](https://www.youtube.com/channel/UC3gRBswFkuteshdwMZAQafQ) points out:
+
+    I'm enjoying this! At about 14:30 you mention how integer variables are truncated if assigned a float - this is correct, but then you say that 12.75 would be rounded to 13; it would actually be truncated to 12. Even 12.99999 would be truncated to 12 if assigned to an integer variable. If you want rounding, you'd need to do something like A% = 12.75 + 0.5. The INT() function isn't needed, but may improve readability.
+
+Thanks for the catch and correction, Robin!
+
 ## Links Mentioned in this Episode:
 
 Below are the links I mention in the video.
