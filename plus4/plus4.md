@@ -104,7 +104,7 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
     * [The Tapuino Project](/tapuino-1)
 
-## Supplemental Disk Image (In Progress)
+## Companion Disk Image (In Progress)
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 

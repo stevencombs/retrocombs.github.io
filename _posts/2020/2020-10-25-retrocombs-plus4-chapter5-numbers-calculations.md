@@ -28,6 +28,19 @@ This episode is a small part of my larger Commodore Plus/4 series. You can read 
 
 <https://www.stevencombs.com/plus4>
 
+## Companion Disk Image (In Progress)
+
+As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Like the series, the image is not complete.**
+
+[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2020-10-20
+
+I use the following file name convention to make it easy to locate specific programs:
+
+<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
+
+* `02` - The chapter number
+* `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.
+
 ## User's Manual
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
