@@ -22,7 +22,9 @@ This page is an ongoing resource for readers and watchers of my Commodore Plus/4
 
 ***
 
+## Page Contents
 <!-- TOC -->
+Use the handy table of contents below to jump to a section on this page.
 
 - [User's Manual](#users-manual)
 - [Key to Keys](#key-to-keys)
