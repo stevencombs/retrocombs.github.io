@@ -20,6 +20,21 @@ This page is an ongoing resource for readers and watchers of my Commodore Plus/4
 
 ![retroCombs Plus/4](/plus4/images/retrocombs-plus4.png)
 
+***
+
+<!-- TOC -->
+
+- [User's Manual](#users-manual)
+- [Key to Keys](#key-to-keys)
+- [Links to Episodes](#links-to-episodes)
+- [Companion Disk Image](#companion-disk-image)
+- [Supplemental Posts](#supplemental-posts)
+- [Plus/4 Resources](#plus4-resources)
+
+<!-- /TOC -->
+
+***
+
 ## User's Manual
 
 In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 user's manual. I've scanned each chapter and provide those below. I will post new chapters with each new video.
@@ -104,7 +119,7 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
     * [The Tapuino Project](/tapuino-1)
 
-## Companion Disk Image (In Progress)
+## Companion Disk Image
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 
