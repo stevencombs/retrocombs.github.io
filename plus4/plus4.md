@@ -47,6 +47,7 @@ In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/
 4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
 5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
 6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
+7. [Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
 
 ## Key to Keys
 
@@ -120,6 +121,10 @@ Below is a link to each blog post in the series. Each blog post contains the com
     * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
     * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
     * [The Tapuino Project](/tapuino-1)
+
+7. [Commodore Plus/4 User's Manual, Chapter 6 - Beginning BASIC Programming](/plus4-7)
+
+COMING SOON.
 
 ## Companion Disk Image
 
