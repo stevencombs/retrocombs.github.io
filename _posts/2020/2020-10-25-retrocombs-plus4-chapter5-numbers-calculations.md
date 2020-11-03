@@ -53,7 +53,7 @@ Below are the links for previous chapters covered:
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
 4. [Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
-5. [Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4	.pdf)
+5. [Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4.pdf)
 
 ## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 5 - Numbers and Calculations_
 
@@ -93,15 +93,10 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 | `RS` | Run/Stop      | `F8` | Help        |
 | `⇧`  | Shift         | `␣`  | Space       |
 
-## Episode Errata
-
-No feedback from previous episode. I must have gotten most things correct!
-
 ## Introduction
 
 1. Thanks to all my viewers for the feedback.
-2. .d81 disk image is now available [here](link).
-3. Proud of the companion website for this episode. Check it out!
+2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 
 I'm going to feel a bit like a math teacher in this episode! But an easy one. No homework.

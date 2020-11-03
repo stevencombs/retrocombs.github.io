@@ -93,8 +93,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 ## Introduction
 
 1. Thanks to all my viewers for the feedback.
-2. .d81 disk image is now available [here](link).
-3. Proud of the companion website for this episode. Check it out!
+2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 
 I'm going to feel a bit like a math teacher in this episode! But an easy one. No homework.
@@ -104,7 +103,6 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 1. We'll talk about mathematical operators, but relational operators should appear when get deeper into programming. Operators are shown in the image below:
 
     ![Basic Mathematical and Relational Operators](/plus4/images/operators-slide.png)
-
 
 ## Fractions and Decimals
 
