@@ -117,7 +117,7 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
 1. Numbers larger than nine digits are represented using scientific notation. Here are some examples:
 
-    ```
+    ```basic
     20 = 2E+1
     10500 = 1.05E+5
     .0666 = 6.66E-2
@@ -146,7 +146,7 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
     > **TIP:** ? = PRINT in Commodore BASIC)
 
-    ```
+    ```basic 
     PRINT 3-6 ⏎
     -3
     ? 24/(6+2) ⏎

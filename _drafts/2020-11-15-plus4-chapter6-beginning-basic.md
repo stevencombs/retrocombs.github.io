@@ -64,7 +64,7 @@ In the video below, I work through Chapter 5 of the user's manual.
 
 ## Video Errata
 
-
+None as of 2020-11-15.
 
 ## Links Mentioned in this Episode:
 
@@ -72,23 +72,24 @@ Below are the links I mention in the video.
 
 1. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
-3.
 
 ## Key to Keys
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
-| Key  | Description   | Key  | Description |
-|:---- |:------------- |:---- |:----------- |
-| `⇪`  | Caps Lock     | `F1` | Function 1  |
-| `C=` | Commodore     | `F2` | Function 2  |
-| `⌃`  | Control       | `F3` | Function 3  |
-| `⎋`  | Escape        | `F4` | Function 4  |
-| `⌂`  | Home          | `F5` | Function 5  |
-| `⌫`  | Insert Delete | `F6` | Function 6  |
-| `⏎`  | Return        | `F7` | Function 7  |
-| `RS` | Run/Stop      | `F8` | Help        |
-| `⇧`  | Shift         | `␣`  | Space       |
+| Key    | Description   | Key  | Description |
+|:-------|:--------------|:-----|:------------|
+| `⇪`    | Caps Lock     | `F1` | Function 1  |
+| `[C=]` | Commodore     | `F2` | Function 2  |
+| `⌃`    | Control       | `F3` | Function 3  |
+| `⎋`    | Escape        | `F4` | Function 4  |
+| `⌂`    | Clear/Home    | `F5` | Function 5  |
+| `⌫`    | Insert Delete | `F6` | Function 6  |
+| `⏎`    | Return        | `F7` | Function 7  |
+| `[RS]` | Run/Stop      | `F8` | Help        |
+| `⇧`    | Shift         | `␣`  | Space       |
+| `↑`    | Cursor Up     | `↓`  | Cursor Down |
+| `→`    | Cursor Right  | `←`  | Cursor Left |
 
 ## Introduction
 
@@ -96,145 +97,179 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 
-I'm going to feel a bit like a math teacher in this episode! But an easy one. No homework.
+Finally! An introduction to BASIC programming even though we have been programming in basic since almost day 1!
 
-## Numbers and Basic Operations
+## Programming Modes
 
-1. We'll talk about mathematical operators, but relational operators should appear when get deeper into programming. Operators are shown in the image below:
+The two programming modes are DIRECT (IMMEDIATE) and INDIRECT (PROGRAM).
 
-    ![Basic Mathematical and Relational Operators](/plus4/images/operators-slide.png)
+1. DIRECT mode executes statements immediately, as we saw in Chapter 6.
+2. INDIRECT mode organizes and `RUN`s a series of BASIC program statements in the order of their numbered list.
 
-## Fractions and Decimals
+### DIRECT (IMMEDIATE) Mode
 
-1. Fractions are not native to the Commodore Basic 3.5. A fraction such as 1/2 is converted to decimal form (.5). The Plus/4 will never display a result in fraction format.
-2. Pi, or `π`, is a key on the Plus/4 keyboard (which is unique since most keyboards today don't have this key). Press it to represent the value of π in a calculation.
+Type syntax correct commands on an empty line followed the `⏎`. Examples of DIRECT mode commands include:
 
-## Scientific Notation
+```basic
+LIST
+SAVE
+LOAD
+VERIFY
+RUN
+? 2+2
+```
 
-1. Numbers larger than nine digits are represented using scientific notation. Here are some examples:
+### INDIRECT (PROGRAM) Mode
 
-    ```
-    20 = 2E+1
-    10500 = 1.05E+5
-    .0666 = 6.66E-2
-    ```
+Use this mode to create BASIC programs. Preface each program statement with a line number, followed by a command or more seperated by a `:`, and then stored in memory by hitting the `⏎`. Execute a program with the `RUN` command.
 
-## Performing Calculations
+> **TIP:** Typically, BASIC lines begin with 10 and then work their way up in increments of 10. That is, the next line would be `20`. This allows the programmer to easily interest additional code between lines `10` and `20`.
 
-1. We can use a `PRINT` command in a BASIC program to perform calculations as shown in the example below:
+> **BONUS:** Commodore BASIC 3.5 includes the `RENUMBER` command. Syntax is `RENUMBER`[_new starting line_ #[,_increment_[,_old starting line #_]]]. An example; `RENUMBER 20,20,1` renumbers program line 1 to 20 with each subsequent line numbered increments of 20.
 
-    ```basic
-    10 PRINT 1+2,2-1
-    20 PRINT 2*2,4/2
-    ```
+## Input/Output Statements
 
-2. You can print both a calculation, the result of a calculation, or the calculation and the result in a line of BASIC code as shown below:
+Input/Output (I/O) statements allow programmers to communicate with an individual running a program or other devices connected to the Plus/4 such as a Datasette, Disk Drive, or Printer. We've used the most common I/O command, `PRINT` (or `?`) in previous chapters to display text on the screen.
 
-    ```basic
-    10 PRINT "2001/2010"
-    20 PRINT 2*3
-    30 PRINT "2*3+1=";2*3+1
-    ```
+### Output Statements
 
-## Immediate (Direct) Mode
+Let's take a look at some output statement examples. Two output statement examples are below that answer the questions, "does my checking account have money?" and "can I have a purple lizard in my control room?"
 
-1. Immediate mode allows us to use the Plus/4 like a calculator without creating a BASIC program and using the `RUN` command. Enter the calculation on a new line preceded by the `PRINT` command or the `?` character. Below are a few examples:
+```basic
+100 ? "YOU ARE BROKE!"
+150 ? "YOU CAN'T BRING YOUR FRIEND INTO THE CONTROL ROOM!"
+```
 
-    > **TIP:** ? = PRINT in Commodore BASIC)
+We already covered numbers and calculations with the PRINT command in Chapter 5; however, here are a few more examples:
 
-    ```
-    PRINT 3-6 ⏎
-    -3
-    ? 24/(6+2) ⏎
-     3
-    ```
+```basic
+100 ? 58*15,23,45+1000-45*(4-3)
+```
 
-2. Let's combine what we've learned to use immediate mode to display a calculation and a result. Type the line below on an empty line:
+This BASIC program will print:
 
-    ```basic
-    ? "2 TO THE 3RD POWER EQUALS";2↑3 ⏎
-    ```
+`870       23        1000`
 
-## Order of Calculation
+```basic
+0R=10* 2: N= R-5
+20 ? "R IS";R;"AND N IS";N
+30 ? "BUT R TIMES 2 IS";R*2
+40 ? "AND N MINUS 2 IS";N-2
+```
 
-1. Commodore Basic 3.5 uses the mathematical concept of [order of operations](order of operations). In the example below, 50/5 is performed first with 200 added after the result:
+Normally, each `PRINT` statement will automatically move the cursor to the next line. The `;` will overide and print the next line next to the previous line as shown in the example below:
 
-    ```basic
-    ? 200+50/5
-    ```
+```basic
+200 PRINT"THESE TWO SENTENCE PARTS WILL BE";
+210 PRINT "PRINTED ON THE SAME LINE"
+```
 
-2. Below is a short summary of precedence of operators:
+### Input Statements
 
-    * **FIRST:** Negative numbers identified
-    * **SECOND:** Solve exponents
-    * **THIRD:** Solve multiplication and division
-    * **FOURTH:** Solve addition and subtraction
+The next examples demonstrate how to collect user and user defined program data. The first example requests user input and then reprints that input as part of an output, or `PRINT`, statement.
 
-3. To modify the precedence of operators, surround the values between `(` and `)` as shown in the example below. The operation `A/3` will complete, followed by `12 +` the value of `A/3`, and then that result multiplied by 36.
+```basic
+10 PRINT "WHAT IS YOUR NAME";
+20 INPUT A$
+30 PRINT "I AM PLEASED TO MEET YOU";A$;"."
+40 INPUT "HOW OLD ARE YOU";AG
+50 PRINT AG;" IS A BIT OLDER THAN I AM."
+```
 
-    ```basic
-    ? 36*(12+(A/3))
-    ```
+> REMEMBER: Use the `RUN` command to execute the program.
 
-## Using Variables
+You may wonder why there isn't a `?` at the end of line 10. The `INPUT` command automatically adds this symbol at the end of each `INPUT` statement.
 
-1. Variable are an important concept to both algebra and programming.
-2. A variable is a placeholder for a value.
-3. There are three types of variables in Commodore BASIC as shown in the table below:
+Line 40 includes a variable after the line to collect the numeric data whereas lines 10 and line 20 seperated this collection. You can combine lines 10 and 20 as follows: `10 INPUT "WHAT IS YOUR NAME?";A$`
 
-TYPE           | SYMBOL | DESCRIPTION                     | EXAMPLES  | SAMPLE VALUES
-:--------------|:-------|:--------------------------------|:----------|:-------------------------
-Floating Point | n/a    | Real (Decimal) or Whole Numbers | X, AB, T4 | 23.5, 12, 1.3E+2
-Integer        | %      | Whole Numbers                   | X%, AI%   | 15, 102, 3
-Text String    | $      | Letters, Numbers, Characters    | X$, MS$   | "TOTAL:" , "DAY 1", "CBM"
+The `GETKEY` input statement only accepts a single key press and requires a string variable such as `A$`. The command does not require `⏎`. Below is an example:
 
-## Mid Video Retro Break
+```basic
+1000 ? "PLEASE CHOOSE A,B,C,D,E, OR F."
+1010 GETKEY A$
+1020 ? A$
+```
 
-Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.youtube.com/stevencombs)! The community is slowly growing.
+The final INPUT statement(s) is `READ`/`DATA`. The `READ` statement is similar to the INPUT command; however, a program receives information from Plus/4 code rather than a user. Information is stored in Plus/4 code using `DATA` statements. Below is an example the reads the names of the [Marx Brothers](https://en.wikipedia.org/wiki/Marx_Brothers):
 
-## Numeric Functions
+```basic
+10 READ A$, B$, C$, D$, E$
+20 ? A$ : ? B$ : ? C$: ? D$ : ? E$
+30 DATA GROUCHO, HARPO, CHICO, ZEPPO, GUMMO
+```
 
-1. Commodore BASIC 3.5 includes numeric functions such as the trigonometric SIN function. A listing can be found on page 151 along with all other Commodore BASIC commands.
-2. A function uses the format: `FUNCTION(X)` where function equals a specific function (such as SIN) and the `X` between the `(` and `)` is a specific value the function will act upon.
-3. Below is a sample program that uses the `SQR(X)` function, or Square Root of a number to print the square root of 1, 2, 3, 4, and 5:
+> **TIP:** This example has the READ command collect charachter data using string variables `X$`. If you want to collect numeric data, use a numeric data variable such as `X`.
 
-    ```basic
-    10 FOR X=1TO5
-    20 ?"THE SQUARE ROOT OF";X;"IS";SQR(X)
-    30 NEXT X
-    ```
+The output for this code is:
 
-## Random Numbers and Other Functions
+```
+GROUCHO
+HARPO
+CHICO
+ZEPPO
+GUMMO
+```
 
-1. Random numbers are important for simulation and game software.
-2. Commodore Basic includes a `RND(X)` function to produce random numbers within a range of values.
-3. Below is a sample program that will print five random values.
+Is there any better example of the use of the `READ` and `DATA` commands?
 
-    ```basic
-    10 FOR X=1TO5 : ? RND(X): NEXT X
-    ```
+> **NOTE:** The number of `READ` variables must equal the number `DATA` variables or an `?OUT OF DATA ERROR IN XX` error will occur.
 
-    > **TIP:** The line of code above could have been three different lines; however, we use a `:` to place three lines of code on a single line. This can reduce memory usage for longer programs.
 
-4. The program above creates five unique random numbers, but what if we want random numbers between 1 and 5? We will need to use the `INT(X)` function as well as setting a range (5) and lower limit (+1) as shown in the program below:
+## Control Statements and Loops
 
-    ```basic
-    10 FOR X=1TO5
-    20 ? INT(5*RND(1))+1 : REM 5 IS THE RANGE & +1 IS THE     LOWER LIMIT
-    30 NEXT X
-    ```
+We know how to execute a line of code, one after another, but we can also jump around within code lines using control statements. Using loops, we run code over and over until we hit the RUN/STOP key or we specify, in the code for a group of code lines, to stop after a specific number of times.
 
-5. It is also possible to create your own unique function to use throughout a program. If the function is used regularly in a program, this can save memory and speed of operation. Below is an example of a program below that will alternate a line of text on the screen various colors:
+In previous chapters, I would demonstrate a program that continually displays a line of text until the RUN/STOP key is hit. Remember that code? Here is is again:
 
-    ```basic
-    10 DEF FNR(X)=INT(X*RND(1))+1
-    20 DO
-    30 COLOR 1,FNR(16),5 : REM PICK A COLOR FROM 1 TO 16
-    40 ? "THE SEARCH GOES ON..."
-    50 LOOP
-    ```
+```basic
+10 ? "RETROCOMBS ";
+20 GOTO 10
+```
 
-    > HINT: The DO/LOOP commands create an infinite loop. Press `RS` to stop the program.
+We've been using the `GOTO` control statement since Chapter 1! It is one of the first basic program commands anyone learns as they create their own first "Hello World!" program.
+
+
+
+## Conditional or Decisions Making Statements
+
+
+
+```basic
+10 INPUT "WHAT'S THE TENTH LETTER OF THE ALPHABET";A$
+20 IF A$="J" THEN PRINT "RIGHT" : GOTO 100
+30 INPUT "IS THIS AN A";X$
+40 IF X$="YES" "LOOP" THEN 60
+50 ? "WRONG, TRY AGAN" : GOTO 30
+60 ? "TYPE A B"
+70 GETKEY A$ : IF A$= "B" THEN ? "RIGHT"
+100 ? "THAT'S ENOUGH OF THIS, ANYWAY"
+```
+
+## Subroutines
+
+
+
+```basic
+5 T=0 : FOR J=1TO99
+10 ? "GIVE ME A NUMBER FROM 1 TO 10
+20 INPUT N
+30 IF N<1 THEN GOSUB 100 : GOTO 20
+40 IF N>10 THEN GosUB 100 : GOTO 20
+50 T=T+N
+60 NEXT J
+70 ? "THE TOTAL IS";T
+80 END
+100 ? "THAT NUMBER IS OUT OF RANGE"
+105 ? "PLEASE TYPE A NUMBER BETWEEN 1 AND 10"
+110 RETURN
+```
+
+## REM Statements
+
+```basic
+1560 E=R/T*9 : REM THIS FIGURES OUT A PITCHER'S ERA
+100 INPUT A,B : REM A IS HEIGHT IN INCHES AND B IS WEIGHT
+```
 
 ## Final Thoughts
 

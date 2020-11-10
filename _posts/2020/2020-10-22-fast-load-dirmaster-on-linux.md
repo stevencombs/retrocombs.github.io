@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: SPEED LOAD - Install DirMaster on Linux'
+title: 'retroCombs: FAST LOAD - Install DirMaster on Linux'
 date: '2020-10-22'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -32,7 +32,7 @@ I'm not going to cover the capabilities of _DirMaster_, but I will demonstrate h
 
 My instructions are for Arch based distributions (Manjaro for me) but the basics work for any Linux distro where _Wine_ is available, including Macs running 10.14 or earlier (Wine does not work with 10.15 at the time of this writing). I present this process in two ways; a YouTube retroCombs Fast Load video and in the companion blog post below. First the video:
 
-## YouTube Video: _retroCombs: SPEED LOAD - Install DirMaster on Linux_
+## YouTube Video: _retroCombs: FAST LOAD - Install DirMaster on Linux_
 
 In the video below, demonstrate how to install the DirMaster Windows application on Manjaro Linux:
 
