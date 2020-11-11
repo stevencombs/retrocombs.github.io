@@ -51,7 +51,7 @@ The first step is to install the Wine software. "**W**ine **i**s **N**ot an **E*
 
 3. Install the latest version of _Wine_ and helpful extra packages:
 
-    `sudo pacman -S wine winetricks wine-mono wine_gecko playonlinux`
+    `sudo pacman -S wine wine-mono wine_gecko playonlinux`
 
     Choose option `1` if the message below appears:
 
