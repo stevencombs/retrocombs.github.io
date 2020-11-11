@@ -31,7 +31,7 @@ Luckily RetroBiz does include an easy firmware upgrade; and while it won't add a
 
 In the video below, I demonstrate how to upgrade the firmware on THEC64mini and demonstrate what I get for my efforts:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/fA9RpEtS2f0" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/05VWxCgaZBk" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Process Overview
 
