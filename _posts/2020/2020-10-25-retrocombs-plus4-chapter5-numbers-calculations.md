@@ -45,7 +45,7 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
 
-[Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4.pdf)
+[Chapter 5 - Numbers and Calculations](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-5.pdf)
 
 Below are the links for previous chapters covered:
 
@@ -128,16 +128,16 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 1. We can use a `PRINT` command in a BASIC program to perform calculations as shown in the example below:
 
     ```basic
-    10 PRINT 1+2,2-1
-    20 PRINT 2*2,4/2
+    10 ? 1+2,2-1
+    20 ? 2*2,4/2
     ```
 
 2. You can print both a calculation, the result of a calculation, or the calculation and the result in a line of BASIC code as shown below:
 
     ```basic
-    10 PRINT "2001/2010"
-    20 PRINT 2*3
-    30 PRINT "2*3+1=";2*3+1
+    10 ? "2001/2010"
+    20 ? 2*3
+    30 ? "2*3+1=";2*3+1
     ```
 
 ## Immediate (Direct) Mode
@@ -146,8 +146,8 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
     > **TIP:** ? = PRINT in Commodore BASIC)
 
-    ```basic 
-    PRINT 3-6 ⏎
+    ```basic
+    ? 3-6 ⏎
     -3
     ? 24/(6+2) ⏎
      3
@@ -207,6 +207,7 @@ Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.yo
     20 ?"THE SQUARE ROOT OF";X;"IS";SQR(X)
     30 NEXT X
     ```
+    **💾 On Disk:** `05 SQUARE ROOT`
 
 ## Random Numbers and Other Functions
 
