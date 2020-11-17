@@ -107,7 +107,6 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
     ![Basic Mathematical and Relational Operators](/plus4/images/operators-slide.png)
 
-
 ## Fractions and Decimals
 
 1. Fractions are not native to the Commodore Basic 3.5. A fraction such as 1/2 is converted to decimal form (.5). The Plus/4 will never display a result in fraction format.
@@ -228,6 +227,7 @@ Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.yo
     20 ? INT(5*RND(1))+1 : REM 5 IS THE RANGE & +1 IS THE     LOWER LIMIT
     30 NEXT X
     ```
+    **💾 On Disk:** `05 RANDOM 1-5`
 
 5. It is also possible to create your own unique function to use throughout a program. If the function is used regularly in a program, this can save memory and speed of operation. Below is an example of a program below that will alternate a line of text on the screen various colors:
 
@@ -238,6 +238,7 @@ Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.yo
     40 ? "THE SEARCH GOES ON..."
     50 LOOP
     ```
+    **💾 On Disk:** `05 FUNCTION`
 
     > HINT: The DO/LOOP commands create an infinite loop. Press `RS` to stop the program.
 

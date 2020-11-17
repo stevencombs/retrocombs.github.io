@@ -20,7 +20,11 @@ tags:
   - basic
 ---
 
-In this Commodore Plus/4 retroCombs episode, I cover chapter 5 of the Commodore Plus/4 user's manual. In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher; I hope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequate.
+In this Commodore Plus/4 retroCombs episode, I cover Chapter 6 of the Commodore Plus/4 user's manual. In this chapter, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey. 
+
+This is not an all-inclusive chapter and you will not become a master programmer after learning these concepts; however, you will have the knowledge you need to create simple programs. This is what made all Commodore computers special; the creation of your own programs. After you work through chapter 6, I recommend you review the Plus/4 Encyclopedia located on page 101 of the user's manual.
+
+> **NOTE:** Right before posting this video, my YouTube channel reached 1000 (or 1K) subscribers! Thanks to everyone who follows along and please, let others know about the channel so I can continue to bring you more tech and retro-computing video and blog posts.
 
 ## Series Information
 
@@ -64,7 +68,7 @@ In the video below, I work through Chapter 5 of the user's manual.
 
 ## Video Errata
 
-None as of 2020-11-15.
+None as of 2020-11-17.
 
 ## Links Mentioned in this Episode:
 
@@ -93,7 +97,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 ## Introduction
 
-1. Thanks to all my viewers for the feedback.
+1. Thank you to all my viewers for the feedback.
 2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 
@@ -103,8 +107,8 @@ Finally! An introduction to BASIC programming even though we have been programmi
 
 The two programming modes are DIRECT (IMMEDIATE) and INDIRECT (PROGRAM).
 
-1. DIRECT mode executes statements immediately, as we saw in Chapter 6.
-2. INDIRECT mode organizes and `RUN`s a series of BASIC program statements in the order of their numbered list.
+1. DIRECT mode executes statements immediately, as we saw in Chapter 5.
+2. INDIRECT mode organizes and `RUN`s a series of BASIC program statements one-by-one based on their line numbers.
 
 ### DIRECT (IMMEDIATE) Mode
 
@@ -112,8 +116,8 @@ Type syntax correct commands on an empty line followed the `⏎`. Examples of DI
 
 ```basic
 LIST
-SAVE
-LOAD
+DSAVE
+DLOAD
 VERIFY
 RUN
 ? 2+2
@@ -121,26 +125,26 @@ RUN
 
 ### INDIRECT (PROGRAM) Mode
 
-Use this mode to create BASIC programs. Preface each program statement with a line number, followed by a command or more seperated by a `:`, and then stored in memory by hitting the `⏎`. Execute a program with the `RUN` command.
+Use this mode to create BASIC programs. Preface each program statement with a line number, followed by a single command or multiple commands separated by a `:`. Store the program in memory by hitting the `⏎`. Execute a program with the `RUN` command.
 
-> **TIP:** Typically, BASIC lines begin with 10 and then work their way up in increments of 10. That is, the next line would be `20`. This allows the programmer to easily interest additional code between lines `10` and `20`.
+> **TIP:** Typically, programmers number BASIC lines beginning with 10 and then work their way up in increments of 10. That is, the next line would be `20`. This allows the programmer to easily insert additional code between lines `10` and `20`.
 
-> **BONUS:** Commodore BASIC 3.5 includes the `RENUMBER` command. Syntax is `RENUMBER`[_new starting line_ #[,_increment_[,_old starting line #_]]]. An example; `RENUMBER 20,20,1` renumbers program line 1 to 20 with each subsequent line numbered increments of 20.
+> **BONUS:** Commodore BASIC 3.5 includes a `RENUMBER` command. The syntax is `RENUMBER`[_new starting line_ #[,_increment_[,_old starting line #_]]]. An example; `RENUMBER 20,20,1` renumbers program line 1 to 20 with each subsequent line numbered increments of 20.
 
 ## Input/Output Statements
 
-Input/Output (I/O) statements allow programmers to communicate with an individual running a program or other devices connected to the Plus/4 such as a Datasette, Disk Drive, or Printer. We've used the most common I/O command, `PRINT` (or `?`) in previous chapters to display text on the screen.
+Input/Output (I/O) statements allow programmers to communicate with an individual running a program or other devices connected to the Plus/4 such as a Datasette, joystick, disk drive, or printer. We've used a common I/O command, `PRINT` (or `?`) in previous chapters to display text on the screen.
 
 ### Output Statements
 
-Let's take a look at some output statement examples. Two output statement examples are below that answer the questions, "does my checking account have money?" and "can I have a purple lizard in my control room?"
+Let's take a look at some output statement examples. Two output statement examples are below that answer the questions, "Does my checking account have money?" and "Can I have a purple lizard in my control room?"
 
 ```basic
 100 ? "YOU ARE BROKE!"
 150 ? "YOU CAN'T BRING YOUR FRIEND INTO THE CONTROL ROOM!"
 ```
 
-We already covered numbers and calculations with the PRINT command in Chapter 5; however, here are a few more examples:
+We already covered numbers and calculations with the `PRINT` command in Chapter 5; however, here are a few more examples:
 
 ```basic
 100 ? 58*15,23,45+1000-45*(4-3)
@@ -159,7 +163,7 @@ This BASIC program will print:
 ```
 **💾 On Disk:** `06 R&N`
 
-Normally, each `PRINT` statement will automatically move the cursor to the next line. The `;` will overide and print the next line next to the previous line as shown in the example below:
+Normally, each `PRINT` statement will automatically move the cursor to the next line. The `;` will override and print the line next to the previous line as shown in the example below:
 
 ```basic
 200 ? "THESE TWO SENTENCE PARTS WILL BE ";
@@ -172,11 +176,11 @@ Normally, each `PRINT` statement will automatically move the cursor to the next 
 The next examples demonstrate how to collect user and user defined program data. The first example requests user input and then reprints that input as part of an output, or `PRINT`, statement.
 
 ```basic
-10 PRINT "WHAT IS YOUR NAME";
+10 ? "WHAT IS YOUR NAME";
 20 INPUT A$
-30 PRINT "I AM PLEASED TO MEET YOU";A$;"."
+30 ? "I AM PLEASED TO MEET YOU";A$;"."
 40 INPUT "HOW OLD ARE YOU";AG
-50 PRINT AG;" IS A BIT OLDER THAN I AM."
+50 ? AG;" IS A BIT OLDER THAN I AM."
 ```
 **💾 On Disk:** `06 YOUR NAME`
 
@@ -184,9 +188,9 @@ The next examples demonstrate how to collect user and user defined program data.
 
 You may wonder why there isn't a `?` at the end of line 10. The `INPUT` command automatically adds this symbol at the end of each `INPUT` statement.
 
-Line 40 includes a variable after the line to collect the numeric data whereas lines 10 and line 20 seperated this collection. You can combine lines 10 and 20 as follows: `10 INPUT "WHAT IS YOUR NAME?";A$`
+Line 40 includes a variable after the line to collect the numeric data whereas lines 10 and line 20 separated these functions. You can combine lines 10 and 20 as follows: `10 INPUT "WHAT IS YOUR NAME?";A$`
 
-The `GETKEY` input statement only accepts a single key press and requires a string variable such as `A$`. The command does not require `⏎`. Below is an example:
+The `GETKEY` input statement accepts a single key press and requires a string variable such as `A$`. The command does not require `⏎`. Below is an example:
 
 ```basic
 1000 ? "PLEASE CHOOSE A,B,C,D,E, OR F."
@@ -195,9 +199,9 @@ The `GETKEY` input statement only accepts a single key press and requires a stri
 ```
 **💾 On Disk:** `06 A THRU F`
 
-> **NOTE:** This code does not include error capture. You can type in any letter and have the result printed. More on this later.
+> **NOTE:** This code does not include *exception handling*. You can type in any letter and and the code will print an incorrect result. This is not the intent of the program. We will look at *exception handling* later.
 
-The final INPUT statement(s) is `READ`/`DATA`. The `READ` statement is similar to the INPUT command; however, a program receives information from Plus/4 code rather than a user. Information is stored in Plus/4 code using `DATA` statements. Below is an example the reads the names of the [Marx Brothers](https://en.wikipedia.org/wiki/Marx_Brothers):
+The final INPUT statement(s) is `READ`/`DATA`. The `READ` statement is similar to the INPUT command; however, a program receives information from code rather than a user. Information is stored in code using `DATA` statements. Below is an example the reads the names of the [Marx Brothers](https://en.wikipedia.org/wiki/Marx_Brothers):
 
 ```basic
 10 READ A$, B$, C$, D$, E$
@@ -206,7 +210,7 @@ The final INPUT statement(s) is `READ`/`DATA`. The `READ` statement is similar t
 ```
 **💾 On Disk:** `06 MARX BROTHERS`
 
-> **TIP:** This example has the READ command collect charachter data using string variables `X$`. If you want to collect numeric data, use a numeric data variable such as `X`.
+> **TIP:** This example has the READ command collect character data using string variables in the format `X$`. If you want to collect numeric data, use a numeric data variable such as `X`.
 
 The output for this code is:
 
@@ -218,22 +222,22 @@ ZEPPO
 GUMMO
 ```
 
-Is there any better example of the use of the `READ` and `DATA` commands?
+Is there any better example of the use of the `READ` and `DATA` commands?!?
 
 > **NOTE:** The number of `READ` variables must equal the number `DATA` variables or an `?OUT OF DATA ERROR IN XX` error will occur.
 
 ## Control Statements and Loops
 
-We know how to execute a line of code, one after another, but we can also jump around within code lines using control statements. Using loops, we run code over and over until we hit the [R/S] key or we specify, in the code for a group of code lines, to stop after a specific number of times.
+We can execute a line of code, one after another, but we can also jump around within code lines using control statements. Using loops, we run code over and over until we hit the [R/S] key or we specify, in the code for a group of code lines, to stop after a specific number of times.
 
-In previous chapters, I would demonstrate a program that continually displays a line of text until the [R/S] key is hit. Remember that code? Here is is again:
+In previous chapters, I would demonstrate a program that continually displays a line of text until the [R/S] key is hit. Remember that code? Here it is again:
 
 ```basic
 10 ? "RETROCOMBS ";
 20 GOTO 10
 ```
 
-This type of program is know as an infinite loop because it "loops definitely" until you tap the [R/S] key.
+This type of program is know as an infinite loop because it "loops indefinitely" until you tap the [R/S] key.
 
 The `GOTO` control statement was introduce as early as Chapter 1. It is one of the first basic program commands most learn when they create their first "Hello World!" program as shown in the code above.
 
@@ -246,7 +250,7 @@ There is another way to create an infinite loop and that is with a `DO`/`LOOP` s
 ```
 **💾 On Disk:** `06 GOING UP`
 
-The statements betweeen the `DO` and `LOOP` continue to execute withou the need to reference a specific line number. Let's rewrite my retroCombs screen fill program using a `DO`/`LOOP` statement:
+The statements between the `DO` and `LOOP` continue to execute without the need to reference a specific line number. Let's rewrite my retroCombs screen fill program using a `DO`/`LOOP` statement:
 
 ```basic
 10 DO : ? "RETROCOMBS";
@@ -266,7 +270,7 @@ We use `FOR`/`NEXT` statements to create finite loops; or loops that repeat a ce
 ```
 **💾 On Disk:** `06 COUNT UP`
 
-The program above "steps" through the loop in increments of one; however, you can modify the `STEP` value. To increment by a value of 5, the `FOR` line would like like the one shown below:
+The program above "steps" through the loop in increments of one; however, you can modify the `STEP` value. To increment by a value of 5, the `FOR` line would like the one shown below:
 
 ```basic
 20 FOR J= 10 TO 30 STEP 5
@@ -276,7 +280,7 @@ If we `PRINT` J, the results would be the following:
 
 `10, 15, 20, 25, 30`
 
-A negative STEP value will allow the counter to count backward. To increment by a value of -5, the `FOR` line would like like the one shown below:
+A negative STEP value allows the counter to count backward. To increment by a value of -5, the `FOR` line will look like the one below:
 
 ```basic
 20 FOR J= 30 TO 10 STEP -5
@@ -298,7 +302,7 @@ Using the negative step value, we can program a NASA rocket program countdown ti
 ```
 **💾 On Disk:** `06 LIFT OFF`
 
-> **NOTE:** I modified the countdown program in the user's manual. The program presented does not countdown with correct timing. My modification, line 35, adds another `FOR`/`NEXT` loop to pause the program for about a second between each `PRINT` statement. This provides a more accurate (and fun) NASA countdown! It also demonstrates how you can sneak in code lines to add features.
+> **NOTE:** I modified the countdown program in the user's manual. The program presented did not countdown with correct timing. My modification, line 35, adds another `FOR`/`NEXT` loop to pause the program for about a second between each `PRINT` statement. This provides a more accurate (and fun) NASA countdown! It also demonstrates how you can sneak in code lines to add features.
 
 > **TIP:** Use the `RENUMBER` command (`RENUMBER,,10`) if that single out of balance 35 line number doesn't work for you and you like the lines numbered from 10 to 70 in increments of 10 as shown below:
 
@@ -313,31 +317,31 @@ Using the negative step value, we can program a NASA rocket program countdown ti
 
 ## Conditional or Decisions Making Statements
 
-Up to the point, our Plus/4 has served as a calculator; albeit a pretty smart one; however, it's time for the Plus/4 to grow up and make its own decisions using conditional, or decision making, statements such as `IF`/`THEN`. In other words, `IF` this happens, `THEN` do this.
+Up to this point, our Plus/4 has been a basic calculator; albeit a pretty smart one; however, it's time for the Plus/4 to grow up and make its own decisions using conditional, or decision making, statements such as `IF`/`THEN`. In other words, `IF` this happens, `THEN` do this.
 
 We often use `IF`/`THEN` statements to act on user keyboard, or joystick, input as shown in the example below. This program asks the user to enter the tenth letter of the alphabet using the keyboard, evaluates whether the user's input is correct, and then chides or rewards the user. If the user is wrong, the program will continue until the user enters the correct answer (which is `J`, by the way.)
 
 > **NOTE:** The program in the book was a disaster. It appears as if there were two program smashed into a single listing. I've cleaned up the program so it makes sense.
 
 ```basic
-10 input "what's the 10th letter of the alphabet?";a$
-20 if a$="j" then ? "correct!" : goto 50
-30 input "answer is incorrect. try again? (y or n)";x$
-40 if x$="y" then 10 : else 60
-50 ? "you answered correctly, so why continue?" : end
-60 ? "i stumped you, huh?"
+10 INPUT "WHAT'S THE 10TH LETTER OF THE ALPHABET?";A$
+20 IF A$="J" THEN ? "CORRECT!" : GOTO 50
+30 INPUT "ANSWER IS INCORRECT. TRY AGAIN? (Y OR N)";X$
+40 IF X$="Y" THEN 10 : ELSE 60
+50 ? "YOU ANSWERED CORRECTLY, SO WHY CONTINUE?" : END
+60 ? "I STUMPED YOU, HUH?"
 ```
 **💾 On Disk:** `06 10TH LETTER`
 
-In my corrected example, I also include a very imporant adjunct to the `IF`/`THEN` statement; `ELSE`. For instance, `IF` a variable, `B`, is greater than (`>`) `5` then `GOTO` line `10`. `ELSE` (meaning if it isn't) `END` the program. The basic code for this statement is:
+In my corrected example, I also include a very important adjunct to the `IF`/`THEN` statement; `ELSE`. For instance, `IF` a variable, `B`, is greater than (`>`) `5` then `GOTO` line `10`. `ELSE` (meaning if it isn't) `END` the program. The basic code for this statement is:
 
 `10 IF A>5 THEN 10 : ELSE END`
 
-Note that the THEN statement does not need to include the `GOTO` statement; nor does the `ELSE` statement. These combinations are used frequently in BASIC that the intrepreter was designed to figure it out. This also saves memory.
+Note that the THEN statement does not need to include the `GOTO` statement; nor does the `ELSE` statement. These combinations are used so frequently in BASIC, the interpreter was designed to understand this relationship. This understanding also saves memory.
 
 ## Subroutines
 
-Create a subroutine to execute the same code over and over in a larger program. Subroutines allow your program to "jump", or `GOSUB`, to that code and then `RETURN` to the original code, where the `GOSUB` ocurred, once the subroutine is complete. This may sound the like GOTO command; however, with GOTO, you have to know specifically which line number to return. The `GOSUB`/`RETURN` combination does this heavy lifting for you and will reduce errors if you renumber lines of code.
+We create a subroutine to execute the same code over and over in a larger program. Subroutines allow your program to "jump", or `GOSUB`, to a code's location and then `RETURN` to the original code, where the `GOSUB` occurred, once the subroutine is complete. This may sound the like GOTO command; however, with GOTO, you have to know specifically which line number to return. The `GOSUB`/`RETURN` combination does the heavy lifting for you and will reduce errors if you renumber lines of code.
 
 The code below prompts the user for a number between 1 and 10. If the number entered is within that range, the program will prompt for the same range again. If the number is not within that range (`N<1` or `N>10`), the GOSUB statement will send the code execution to line 100 that prints a statement saying the number is out of range and give it another shot. When two numbers within range are entered, the program will add their values and `END` the program.
 
@@ -357,11 +361,13 @@ The code below prompts the user for a number between 1 and 10. If the number ent
 ```
 **💾 On Disk:** `06 ONE TO TEN`
 
-> **NOTE:** The user's manuals original code required the user to type in 99 numbers! We have far too many important things to learn about our Commodore Plus/4 than how to type in 99 unique numbers between 1 and 10.
+> **NOTE:** Earlier, I mentioned the concept of *exception handling* Lines 40 and 50 includes this concept. The program will not stop functioning if the users inputs any number outside our specified range of 1 through 10.
+
+> **NOTE:** The user's manual original code required the user to type in 99 numbers! We have far too many important things to learn about our Commodore Plus/4 than how to type in 99 unique numbers between 1 and 10.
 
 ## REM Statements
 
-Use the `REM` statement to add comments to your code. These can be their own unique lines or added at the end of lines. REM statements are often used to show credit or to describe a line's operation. Below are a few examples:
+Use a `REM` statement to add comments to your code. These can be their own unique lines or added at the end of lines. `REM` statements are often used to show credit or describe a line's operation. Below are a few examples:
 
 ```basic
 10 REM TITLE: REM STATEMENTS
@@ -370,11 +376,11 @@ Use the `REM` statement to add comments to your code. These can be their own uni
 40 INPUT A,B : REM A IS HEIGHT AND B IS WEIGHT
 ```
 
-`REM` statements help code readability, portability, and transferability; however, `REM` statements take memory from running code, so use them sparingly in long programs that are pushing memory limits. After all, we only have 60671 bytes free on our Commodore Plus/4!
+`REM` statements help code readability, portability, and transferability; however, `REM` statements use memory, so use them sparingly in long programs that are pushing memory limits. After all, we only have 60671 bytes free on our Commodore Plus/4!
 
 ## Final Thoughts
 
-As the user's manual states in the summary, this is not an exhaustive study of BASIC nor a complete tutorial. We only covered a fraction of the commands available. Read the BASIC 3.5 Encyclopedia beginning on page 102 to begin your real journey. BASIC is a capable, and fun language, that can bring you hours of fun and even solve a few problems.
+As the user's manual states in the summary, this is not an exhaustive study of BASIC nor a complete tutorial. We only covered a fraction of the commands available. Read the BASIC 3.5 Encyclopedia beginning on page 101 to begin your real journey. BASIC is a capable, and fun language, that can bring you hours of fun and help you solve real world problems.
 
 In the next chapter, we will use the basic commands we have already learned, combine with them with unique Commodore Plus/4 graphics commands to create some pretty pictures on our screen. These are commands that were not available on the base Commodore VIC-20 or C64. You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 

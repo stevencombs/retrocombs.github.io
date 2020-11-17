@@ -128,12 +128,12 @@ In this episode I describe and demonstrate each of the items below:
 10. Function Keys: Type the `KEY` command to display the fuctions of the keys as shown below:
 
     ```
-    KEY 1,"GRAPHIC" or built-in software
-    KEY 2,"DLOAD"+ CHR$(34)
-    KEY 3,"DIRECTORY"+ CHR$(13)
-    KEY 4,"SCNCLR"+ CHR$(13)
+    KEY 1, "GRAPHIC" or built-in software
+    KEY 2, "DLOAD"+ CHR$(34)
+    KEY 3, "DIRECTORY"+ CHR$(13)
+    KEY 4, "SCNCLR"+ CHR$(13)
     KEY 5, "DSAVE"+ CHR$(34)
-    KEY 6,"RUN"+ CHR$(13)
+    KEY 6, "RUN"+ CHR$(13)
     KEY 7, "LIST"+ CHR$(13)
     KEY 8, "HELP"+ CHR$(13)
     ```

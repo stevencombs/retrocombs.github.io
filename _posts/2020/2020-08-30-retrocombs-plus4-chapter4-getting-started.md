@@ -158,7 +158,7 @@ You can draw on the screen, but you cannot save the characters or include them i
 
 3. Finish the line as shown below:
 
-     `PRINT "{RVS ON}COMMODRE{RVS OFF} PLUS/4"`
+     `? "{RVS ON}COMMODRE{RVS OFF} PLUS/4"`
 
    > Note my use of the `{` and `}` characters above to specify the keys. You do not type these brackets and you substitute the command for the keystrokes. In this example `^` + `9` and `^` + `0` respectively. I will use this convention going forward since there are not modern keyboard equivalents.
 
@@ -174,7 +174,7 @@ Now try the same thing using the flash feature:
 
 2. Type the line below:
 
-     `PRINT "{FLASH ON}COMMODRE{FLASH OFF} PLUS/4"`
+     `? "{FLASH ON}COMMODRE{FLASH OFF} PLUS/4"`
 
 The keystrokes result in the following:
 
@@ -187,9 +187,10 @@ If you the word COMMODORE is not blinking, your browser does not (and should not
 All right! Time to program. Clear the screen and type in the following BASIC program:
 
 ```basic
-10 PRINT "PLUS/4"
+10 ? "PLUS/4"
 20 GOTO 10
 ```
+**💾 On Disk:** `04 PLUS4`
 
 Notice the line numbers at the beginning of each line? Those lines of code are now saved. Type `LIST` and the Plus/4 will "list" the program lines.
 
@@ -204,9 +205,10 @@ Let's try another program. We could type the command `NEW` but there is a one li
 `LIST` the program again and you will have the program below in memory:
 
 ```basic
-10 PRINT "PLUS/4"
+10 ? "PLUS/4"
 20 COLOR 0,12
 ```
+**💾 On Disk:** `04 PINK BGRND`
 
 `RUN` to program.  The program prints "PLUS/4" once since there is no loop command (`GOTO 10`) and the background color changes to <span style="color:pink;">pink</span>. We'll cover the `COLOR` command in detail later in chapter 7 (page 77), but `0` specifies that the background color will  change and `12` specifies the color to use. Can you guess which number will turn the background color back to <span style="color:lightgray;">white</span>? **HINT:** see my keyboard number color list? What about <span style="color:lightblue;">light-blue</span>?
 
@@ -224,9 +226,10 @@ Here's how it works. First, use the `NEW` command to clear out the previous prog
 type the line of code below:
 
 ```basic
-10 COKOR 0.2
-20 PRINT "PLUS/4"
+10 COLOR 0.2
+20 ? "PLUS/4"
 ```
+**💾 On Disk:** `04 PINK BGRND`
 
 `LIST` the program. Line 10 has two errors. Can you spot them? `RUN` the program. The Plus/4 will display:
 
@@ -245,15 +248,16 @@ Remember to the hit the `⏎` {Return} after you correct the line and `RUN` the 
 You can replace line 10 by typing over the command or creating a new line with the same line number. Type the line below:
 
 ```basic
-10 PRINT "COMMODORE"
+10 ? "COMMODORE"
 ```
 
 `LIST` the program:
 
 ```basic
-10 PRINT "COMMODORE"
-20 PRINT "PLUS/4"
+10 ? "COMMODORE"
+20 ? "PLUS/4"
 ```
+**💾 On Disk:** `04 CMDR PLUS4`
 
 `RUN` the program and the output will be:
 
@@ -291,6 +295,7 @@ Time to enter a longer program and use our editing skills along the way. Type th
 60 ? "♥♥♥♥♥♥";
 70 COLOR 1,1,0
 ```
+**💾 On Disk:** `04 A FUNNY THING`
 
 > **TIP:** `⇧` + `S` = `♥`
 
@@ -306,6 +311,7 @@ Use the `NEW` command and enter the program below:
 10 ? "♥";
 20 GOTO 10
 ```
+**💾 On Disk:** `04 SCREEN OF ♥`
 
 `RUN` the program and the screen will continually print hearts and fill the screen as shown below:
 
@@ -352,6 +358,7 @@ Let's use this information to create a single row of hearts without typing `♥`
 ```basic
 ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
 ```
+**💾 On Disk:** `04 LINE OF ♥`
 
 Since there are no gaps or overlapping rows of hearts, we know that there are 40 character columns (vertical) on the screen. Let's now verify the number of rows (horizontal) with the code below:
 
@@ -360,6 +367,7 @@ Since there are no gaps or overlapping rows of hearts, we know that there are 40
 20 ? "♥"
 30 NEXT
 ```
+**💾 On Disk:** `04 COLUMN OF ♥`
 
 Removing the `;` at the end of line 20 ensures each new `♥` is printed on a new line. `RUN` the program and the lines below will appear:
 
@@ -397,8 +405,9 @@ If you count the hearts, you will find three missing. That's because the compute
 One last thing about rows and text. Create the `NEW` program below:
 
 ```basic
-10 PRINT "I LIKE YOUR TOUCH ON MY KEYBOARD. DO YOU COME HER OFTEN?"
+10 ? "I LIKE YOUR TOUCH ON MY KEYBOARD. DO YOU COME HER OFTEN?"
 ```
+**💾 On Disk:** `04 CREEPY CMDR`
 
 First, that's a creepy statement straight from the actual user's manual and second, it demonstrates a feature and limitation. The feature; when you type a LONG line of code, the Plus/4 will automatically wrap the text to the next line. The limitation; the computer will not cleanly break a word between lines and a line of BASIC cannot have more than 80 characters (two full rows).
 
@@ -421,7 +430,7 @@ Z1        Z2        Z3        Z4
 Each string will begin at column 1, 11, 21, and 31 which means each zone is 10 characters wide. If you have more than 10 characters in a zone, such as the line below, zone two (Z2) is skipped and the next characters begin in Z3 or character column position 31.
 
 ```basic
-PRINT "!1234567890","Z3","Z4"
+? "!1234567890","Z3","Z4"
 ```
 
 ## Screen Windows
