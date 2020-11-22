@@ -17,7 +17,7 @@ tags:
   - noise cancellation
 ---
 
-It's time for another WYZE product OPEN THE BOX and FIRST USE. This time, it's the WYZE Headphones.
+It's time for another WYZE product OPEN THE BOX and FIRST USE. This time, it's the WYZE Headphones. As an early backer, I received a pair faster than most; however, you can now purchase your own pair and according to WYZE, they should arrive before the holidays. In this video, I open the box (unbox) and show you my experience turning them on for the first time. I also pair them with the WYZE app and see what features the app brings to this pair of headphones. Check out the video below.
 
 ## YouTube Video: _OPEN THE BOX and FIRST USE: WYZE Headphones_
 
@@ -30,11 +30,11 @@ Watch the video below and then read on for my additional thoughts for these new 
 Below are the links (#Ad) mentioned in the video:
 
 1. [WYZE Headphones](https://wyze.com/wyze-headphones.html)
-4. [WYZE Band](https://amzn.to/3fo229k)
-5. [WYZE Smart Plug](https://amzn.to/2Y4W3ig)
-6. [WYZE Scale](https://amzn.to/31SsVMs)
-7. [Chromecast w/Google TV](https://www.stevencombs.com/gadgets/2020/10/11/chromecast-google-tv.html)
-7. [My Previous Wyze Product Look](https://www.stevencombs.com/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
+2. [WYZE Band](https://amzn.to/3fo229k)
+3. [WYZE Smart Plug](https://amzn.to/2Y4W3ig)
+4. [WYZE Scale](https://amzn.to/31SsVMs)
+5. [Chromecast w/Google TV](https://www.stevencombs.com/gadgets/2020/10/11/chromecast-google-tv.html)
+6. [My Previous Wyze Product Look](https://www.stevencombs.com/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
 
 ## Final Thoughts
 
@@ -42,12 +42,15 @@ My final thoughts are often a numbered list. Here's the list for the WYZE Headph
 
 1. I've used the headphones much more sense my FIRST USE video. Still not sure about all-day comfort. I've yet to find any headphones I want to wear all day, so that's probably just me.
 2. The firmware update was unusually long and I did have my phone sitting next to the headphones. I'm hopeful the firmware update took care of any protracted future firmware updates.
-3. I like the app to control the headphone audio profiles; however, I will not use to turn noise cancellation on and off.
+3. The app works well to control headphone audio profiles; however, I will not use to turn noise cancellation on and off. The physical button the headphones is more convenient.
 4. As I suspected, I did turn off the headphones by accident while trying to change the volume. Off should not be a tap of the power button, but a long tap. Again, maybe a future firmware update will correct this issues.
-5. The headphones sound really good. I like the sound and for $50, I'm not sure you will find a set of headphones that sound as good as these with all the features included such as app support and noise cancellation.
-6. I believe that I can get 20 hours of battery life out of these things. It's been great so far!
-7. Noise cancellation is amazing! The best of any pair of headphones I've used with this technology.
-8. I don't think you will find pair of headphones as this price point with this quality or number of features.
+5. Speaking of headphone and audio controls, they are tiny. The noise cancellation button is the perfect size; however, the audio control and power buttons are too small.
+6. The headphones sound great. I like the sound and for $50, I'm not sure you will find a set of headphones that sound as good as these with all the features included such as app support and noise cancellation.
+7. I believe that I can get 20 hours of battery life out of these things. It's been great so far!
+8. Place a hand over the right earphone to allow ambient noise for conversations, or just to wonder if you are missing anything, is brilliant. I approve!
+9. I mention in the video that I believe both headphones have touch sensitive controls. I sit corrected. Looks like the right headphone is the only one with gesture control.
+10. Noise cancellation is amazing! The best of any pair of headphones I've used with this technology.
+11. I don't think you will find pair of headphones as this price point with this quality or number of features.
 
 That's it for now. I do update and timestamp posts as I receive questions and post updates. Check back later and make sure you add this site to your RSS feeds.
 
