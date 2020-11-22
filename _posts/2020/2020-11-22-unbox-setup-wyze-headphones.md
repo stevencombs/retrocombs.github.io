@@ -40,17 +40,17 @@ Below are the links (#Ad) mentioned in the video:
 
 My final thoughts are often a numbered list. Here's the list for the WYZE Headphones:
 
-1. I've used the headphones much more sense my FIRST USE video. Still not sure about all-day comfort. I've yet to find any headphones I want to wear all day, so that's probably just me.
+1. I've used the headphones more sense my FIRST USE video. Still not sure about all-day comfort. I've yet to find any headphones I want to wear all day, so that's probably just me. [**UPDATE:** The headphones are more comfortable than I first thought. I noticed after about an hour that I didn't even notice them on my head. Just the sweet tunes of Earth, Wind, and Fire in my ear!]
 2. The firmware update was unusually long and I did have my phone sitting next to the headphones. I'm hopeful the firmware update took care of any protracted future firmware updates.
-3. The app works well to control headphone audio profiles; however, I will not use to turn noise cancellation on and off. The physical button the headphones is more convenient.
-4. As I suspected, I did turn off the headphones by accident while trying to change the volume. Off should not be a tap of the power button, but a long tap. Again, maybe a future firmware update will correct this issues.
+3. The WYZE app works well to control headphone audio profiles; however, I will not use the app to turn noise cancellation on and off. The physical button the headphones is more convenient as is the hand over the right headphone.
+4. Place a hand over the right earphone to allow ambient noise for conversations, or just to wonder if you are missing anything, is brilliant. I approve!
 5. Speaking of headphone and audio controls, they are tiny. The noise cancellation button is the perfect size; however, the audio control and power buttons are too small.
-6. The headphones sound great. I like the sound and for $50, I'm not sure you will find a set of headphones that sound as good as these with all the features included such as app support and noise cancellation.
-7. I believe that I can get 20 hours of battery life out of these things. It's been great so far!
-8. Place a hand over the right earphone to allow ambient noise for conversations, or just to wonder if you are missing anything, is brilliant. I approve!
+6. 4. As I suspected, I did turn off the headphones by accident while trying to change the volume. Off should not be a tap of the power button, but a long tap. Again, maybe a future firmware update will correct this issues.
+7. The headphones sound great. I like the sound and for $50, I'm not sure you will find a set of headphones that sound as good as these with all the features included such as app support and noise cancellation.
+8. I believe that I can get 20 hours of battery life out of these things. It's been great so far!
 9. I mention in the video that I believe both headphones have touch sensitive controls. I sit corrected. Looks like the right headphone is the only one with gesture control.
 10. Noise cancellation is amazing! The best of any pair of headphones I've used with this technology.
-11. I don't think you will find pair of headphones as this price point with this quality or number of features.
+11. I don't think you will find pair of headphones as this price point with this quality or number of features. I recommend.
 
 That's it for now. I do update and timestamp posts as I receive questions and post updates. Check back later and make sure you add this site to your RSS feeds.
 
