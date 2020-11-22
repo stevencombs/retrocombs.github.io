@@ -45,7 +45,7 @@ My final thoughts are often a numbered list. Here's the list for the WYZE Headph
 3. The WYZE app works well to control headphone audio profiles; however, I will not use the app to turn noise cancellation on and off. The physical button the headphones is more convenient as is the hand over the right headphone.
 4. Place a hand over the right earphone to allow ambient noise for conversations, or just to wonder if you are missing anything, is brilliant. I approve!
 5. Speaking of headphone and audio controls, they are tiny. The noise cancellation button is the perfect size; however, the audio control and power buttons are too small.
-6. 4. As I suspected, I did turn off the headphones by accident while trying to change the volume. Off should not be a tap of the power button, but a long tap. Again, maybe a future firmware update will correct this issues.
+6. As I suspected, I did turn off the headphones by accident while trying to change the volume. Off should not be a tap of the power button, but a long tap. Again, maybe a future firmware update will correct this issues.
 7. The headphones sound great. I like the sound and for $50, I'm not sure you will find a set of headphones that sound as good as these with all the features included such as app support and noise cancellation.
 8. I believe that I can get 20 hours of battery life out of these things. It's been great so far!
 9. I mention in the video that I believe both headphones have touch sensitive controls. I sit corrected. Looks like the right headphone is the only one with gesture control.
