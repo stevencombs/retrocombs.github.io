@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'retroCombs: Plus/4 User’s Manual Chapter 6 - Beginning BASIC Programming'
-date: '2020-11-15'
+date: '2020-11-25'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-7
 email: 'steven.combs@gmail.com'
@@ -20,7 +20,7 @@ tags:
   - basic
 ---
 
-In this Commodore Plus/4 retroCombs episode, I cover Chapter 6 of the Commodore Plus/4 user's manual. In this chapter, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey. 
+In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 6, *Beginning BASIC Programming*, of the Commodore Plus/4 user's manual. In this chapter, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.
 
 This is not an all-inclusive chapter and you will not become a master programmer after learning these concepts; however, you will have the knowledge you need to create simple programs. This is what made all Commodore computers special; the creation of your own programs. After you work through chapter 6, I recommend you review the Plus/4 Encyclopedia located on page 101 of the user's manual.
 
@@ -62,9 +62,9 @@ Below are the links for previous chapters covered:
 
 ## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 6 - Beginning BASIC Programming_
 
-In the video below, I work through Chapter 5 of the user's manual.
+In the video below, I work through Chapter 6 of the user's manual.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/NtSp4xOcz-M" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Video Errata
 
@@ -72,10 +72,15 @@ None as of 2020-11-17.
 
 ## Links Mentioned in this Episode:
 
-Below are the links I mention in the video.
+Below are the links I mention in the video. All Amazon links are affialiate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
+3. [Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
+4. [MEGA 65 Project](https://mega65.org/)
+4. [MEGA 65 Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
+5. [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
+6. [THEVIC20 - U.K. Listing](https://amzn.to/3l7hZlB)
 
 ## Key to Keys
 
@@ -97,9 +102,10 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 ## Introduction
 
-1. Thank you to all my viewers for the feedback.
+1. Thank you to all my viewers and especially for those who provide feedback.
 2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
+5. I have some great content coming up for retro-computing fans.
 
 Finally! An introduction to BASIC programming even though we have been programming in basic since almost day 1!
 
@@ -153,7 +159,6 @@ We already covered numbers and calculations with the `PRINT` command in Chapter 
 This BASIC program will print:
 
 `870       23        1000`
-
 
 ```basic
 10 R=10*2 : N=R-5
@@ -222,7 +227,7 @@ ZEPPO
 GUMMO
 ```
 
-Is there any better example of the use of the `READ` and `DATA` commands?!?
+Is there any better example of the use of the `READ` and `DATA` commands?
 
 > **NOTE:** The number of `READ` variables must equal the number `DATA` variables or an `?OUT OF DATA ERROR IN XX` error will occur.
 
@@ -382,7 +387,7 @@ Use a `REM` statement to add comments to your code. These can be their own uniqu
 
 As the user's manual states in the summary, this is not an exhaustive study of BASIC nor a complete tutorial. We only covered a fraction of the commands available. Read the BASIC 3.5 Encyclopedia beginning on page 101 to begin your real journey. BASIC is a capable, and fun language, that can bring you hours of fun and help you solve real world problems.
 
-In the next chapter, we will use the basic commands we have already learned, combine with them with unique Commodore Plus/4 graphics commands to create some pretty pictures on our screen. These are commands that were not available on the base Commodore VIC-20 or C64. You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
+In the next chapter, we will use the basic commands we have already learned and combine with them with unique Commodore Plus/4 BASIC 3.5 graphics commands to create pretty pictures on our screen. These are commands that were not available on the base Commodore VIC-20 or C64. You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
 ## Join the Fun
 

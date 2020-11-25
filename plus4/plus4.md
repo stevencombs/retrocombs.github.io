@@ -67,7 +67,9 @@ Key  | Description   | Key  | Description
 
 ## Links to Episodes
 
-Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
+Below is a link to each blog post in the series. All Amazon links are affialiate links. Thanks for supporting the blog and the YouTube channel!
+
+Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
 
 1. [Commodore Plus/4 User's Manual, Chapter 0 - Open the Box](/plus4-1)
 
@@ -124,7 +126,15 @@ Below is a link to each blog post in the series. Each blog post contains the com
 
 7. [Commodore Plus/4 User's Manual, Chapter 6 - Beginning BASIC Programming](/plus4-7)
 
-COMING SOON.
+    In Chapter 6, _Beginning BASIC Programming_, of the Commodore Plus/4 user's manual, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.
+
+    * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+    * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
+    * [Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
+    * [MEGA 65 Project](https://mega65.org/)
+    * [MEGA 65 Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
+    * [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
+    * [THEVIC20 - U.K. Listing](https://amzn.to/3l7hZlB)
 
 ## Companion Disk Image
 
