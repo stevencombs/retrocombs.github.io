@@ -36,7 +36,7 @@ This episode is a small part of my larger Commodore Plus/4 series. You can read 
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Like the series, the image is not complete.**
 
-[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2020-11-01
+[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2020-11-24
 
 I use the following file name convention to make it easy to locate specific programs:
 
@@ -68,7 +68,7 @@ In the video below, I work through Chapter 6 of the user's manual.
 
 ## Video Errata
 
-None as of 2020-11-17.
+None as of 2020-11-25.
 
 ## Links Mentioned in this Episode:
 
