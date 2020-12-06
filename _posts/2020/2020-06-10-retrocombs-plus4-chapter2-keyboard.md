@@ -63,7 +63,7 @@ In the video below, I work through Chapter 2 of the user's manual. Along the way
 Below are the links mentioned in the video.
 
 1. [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
-2. [uxcell 6 pin connectors 4 pack (#Ad)](https://amzn.to/3fe4huQ)
+2. [uxcell 6 pin connectors 4 pack (#ad)](https://amzn.to/3fe4huQ)
 
 ## Key to Keys
 

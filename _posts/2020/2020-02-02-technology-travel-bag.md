@@ -27,7 +27,7 @@ Because of my love of technology, and especially [Chrome OS devices](https://www
 
 In the image above you will notice a dual-monitor setup. This configuration is the key to mobile office productivity. I highly recommend anyone trying to get things done on the road, pack one of a new crop of inexpensive USB-C LCD external monitors (I recommend my favorite below).
 
-Let's see what devices I capture in the image above. After my Amazon list (#Ad) of those items, I also share the other accessories I throw in my bag before heading out the door. Let's get started:
+Let's see what devices I capture in the image above. After my Amazon list (#ad) of those items, I also share the other accessories I throw in my bag before heading out the door. Let's get started:
 
 1. [Pixel Slate](https://amzn.to/36nZRws) - The Pixel Slate is my favorite Chrome OS device to carry. The versatility of using it in laptop mode for serious work or tablet mode for content consumption make it the best single device to pack. The [Pixel Slate folio case keyboard](https://amzn.to/31jNOPP) has become a favorite as I become more accustomed to its layout and keyboard feel. I appreciate that the folio case/keyboard allows me to angle my screen anywhere from 0 to 90°. For a complete hassle free and reliable experience, Chrome OS is the ONLY way to go.
 2. [Logitech M557 Bluetooth Mouse](https://amzn.to/2RmD6Vx) - The slate blue color of the mouse matches the Pixel Slate nicely and Bluetooth means I don't have to schlepp around more cables or plug in a dongle receiver. I'm fond of the audible click when I press the mouse buttons.

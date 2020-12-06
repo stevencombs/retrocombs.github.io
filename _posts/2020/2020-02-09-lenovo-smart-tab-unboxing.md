@@ -21,7 +21,7 @@ It's time. Time to leave the iOS tablet ecosystem. I've used an iPad for the ent
 
 [![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
 
-Finding a good, nay adequate, Google-based tablet is not an easy proposition. Google stopped making Android tablets a couple of years ago. Their last Chrome OS tablet, the Pixel Slate (which I own and love but is too large for bed and table-side use) was discontinued last year. The most popular tablets running the Android operating system are [Amazon Fire tablets (#Ad)](https://amzn.to/2OI9boZ). And while they are good tablets, Fire OS is not pure Android and does not use the Google Play Store for apps. This means, no native Google apps on those devices without some "hacky" nonsense.
+Finding a good, nay adequate, Google-based tablet is not an easy proposition. Google stopped making Android tablets a couple of years ago. Their last Chrome OS tablet, the Pixel Slate (which I own and love but is too large for bed and table-side use) was discontinued last year. The most popular tablets running the Android operating system are [Amazon Fire tablets (#ad)](https://amzn.to/2OI9boZ). And while they are good tablets, Fire OS is not pure Android and does not use the Google Play Store for apps. This means, no native Google apps on those devices without some "hacky" nonsense.
 
 ![Lenovo Smart Tab with Google Assistant](/images/posts/2020-02-09-lenovo-smart-tab.jpg)
 

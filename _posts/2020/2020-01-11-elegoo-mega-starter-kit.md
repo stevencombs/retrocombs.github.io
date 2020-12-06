@@ -22,9 +22,9 @@ I am priviledged to have the opportunity teach a course at our local Purdue Poly
 
 During an email exchange with the director of the program (my boss) during fall 2019, we discussed the need to integrate physical computing concepts into the course. I was intrigued. Physical computing basics will significantly enhance student prototypes. After much research, I integrated the inexpensive kit below into the curriculum:
 
-[ELEGOO Mega 2560 Project The Most Complete Ultimate Starter Kit w/Tutorial Compatible with Arduino IDE (#Ad)](https://amzn.to/2NiZSey)
+[ELEGOO Mega 2560 Project The Most Complete Ultimate Starter Kit w/Tutorial Compatible with Arduino IDE (#ad)](https://amzn.to/2NiZSey)
 
-![The Elegoo Mega Kit (#Ad)](/images/posts/2020-01-11-elegoo-mega-kit.jpg)
+![The Elegoo Mega Kit (#ad)](/images/posts/2020-01-11-elegoo-mega-kit.jpg)
 
 During the course, we will unpack our kits together and go over every component. In preparation for that excercise, and to provide an opportunity for someone who missed the class session, I prepared an unpacking video and [placed it on YouTube](https://youtu.be/jY8Jj0Rim70). You can view the video below.
 

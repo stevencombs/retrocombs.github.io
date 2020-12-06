@@ -37,7 +37,7 @@ What I thought would be the perfect solution is for a glass plate to have the te
 
 ![The original plastic bed build surface][plastic-bed-surface]
 
-After more research, I discovered that Creality produces what I was looking for in an item they call the [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate (#Ad)][build-surface-amazon]. That's a mouthful, but seemed to be what I was looking for; however, reviews are mixed. Some reviewers said this was the best build surface since sliced bed (although I wouldn't recommend sliced bread), others stated they had issues with longevity, while others didn't seem to know what they were doing in the first place. Overall, it was a four-star review. My minimum rating for a purchase. Add to cart, proceed to checkout, and ordered!
+After more research, I discovered that Creality produces what I was looking for in an item they call the [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate (#ad)][build-surface-amazon]. That's a mouthful, but seemed to be what I was looking for; however, reviews are mixed. Some reviewers said this was the best build surface since sliced bed (although I wouldn't recommend sliced bread), others stated they had issues with longevity, while others didn't seem to know what they were doing in the first place. Overall, it was a four-star review. My minimum rating for a purchase. Add to cart, proceed to checkout, and ordered!
 
 # Arrival
 I used the Amazon postponed shipping feature and had the item delivered several days later since I was going to be out of town. It arrived in a nicely packaged box as shown below.
@@ -54,7 +54,7 @@ I peeled the protective coating off of the glass plate and it felt heavy and sub
 
 The next step was to replace the old build surface.
 
-I also just noticed something. My plate is not screened with the same logo found on the [Amazon page (#Ad)][build-surface-amazon]. Wonder what, if anything, that means for quality.
+I also just noticed something. My plate is not screened with the same logo found on the [Amazon page (#ad)][build-surface-amazon]. Wonder what, if anything, that means for quality.
 
 # Installation
 Installation should (and I just jinxed it) be super easy. Remove the binder clips. Remove the old build surface. Replace with new build surface. Replace binder clips.

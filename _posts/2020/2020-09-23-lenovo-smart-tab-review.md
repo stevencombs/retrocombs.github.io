@@ -34,7 +34,7 @@ Before I share my thoughts about the Lenovo Yoga Smart Tab with Google Assistant
 
 By the way, if you need a case for this device, I found this $12 MoKo case works well and it comes in several colors. I chose boring black.
 
-[# MoKo Case Fit Lenovo Yoga Smart Tab 10.1 (YT-X705F), Ultra Compact Protection Premium Slim Folding Stand Cover Case for Lenovo Yoga Smart Tab 10.1 (YT-X705F) Tablet (#Ad)](https://amzn.to/3mKEYoE)
+[# MoKo Case Fit Lenovo Yoga Smart Tab 10.1 (YT-X705F), Ultra Compact Protection Premium Slim Folding Stand Cover Case for Lenovo Yoga Smart Tab 10.1 (YT-X705F) Tablet (#ad)](https://amzn.to/3mKEYoE)
 
 ### Device
 

@@ -30,7 +30,7 @@ I purchased my first 3D Printer over the 2019 Memorial Day weekend. I've been re
 
 > **NOTE:** This post is part of a [series on 3D Printers](https://www.stevencombs.com/3dprinting). More posts to come.
 
-While browsing 3D printers at Amazon, I found the [Creality Ender-3 for $229 with a $40 coupon code (#Ad)](https://amzn.to/2Wt0i7O). It met my first criteria. This was not the Ender-3 Pro. However, that model was currently more than $200 and after reading comparisons of the two, there wasn't enough value in the Pro version to justify the extra cost. The Ender-3 also met all of my criteria. The remainder of this post will be my experience assembling the printer. It will be in journal format with times listed to give you an idea of how long each step took.
+While browsing 3D printers at Amazon, I found the [Creality Ender-3 for $229 with a $40 coupon code (#ad)](https://amzn.to/2Wt0i7O). It met my first criteria. This was not the Ender-3 Pro. However, that model was currently more than $200 and after reading comparisons of the two, there wasn't enough value in the Pro version to justify the extra cost. The Ender-3 also met all of my criteria. The remainder of this post will be my experience assembling the printer. It will be in journal format with times listed to give you an idea of how long each step took.
 
 Let's get to it:
 
@@ -106,7 +106,7 @@ I removed the first layer of packaging to reveal another layer underneath. Items
 Whew! And that completes removal of all parts and cataloging. Time: 12:18. Lunch time!
 
 # 15:32
-Took some time to download software and firmware using my Chromebook while watching an old Kung Fu movie on my [Roku Ultra (#Ad)](https://amzn.to/2W4yFxS). Downloaded new firmware for the Ender-3 along with Linux (appImage) and Mac (.dmg) versions of Cura, the free 3D slicing software recommended by everyone online. I have no idea how to use any of this, but looking forward to trying it out.
+Took some time to download software and firmware using my Chromebook while watching an old Kung Fu movie on my [Roku Ultra (#ad)](https://amzn.to/2W4yFxS). Downloaded new firmware for the Ender-3 along with Linux (appImage) and Mac (.dmg) versions of Cura, the free 3D slicing software recommended by everyone online. I have no idea how to use any of this, but looking forward to trying it out.
 
 While downloading files, I also received a box from Amazon. This includes items to create an [OctoPi](https://octoprint.org/download/) to connect to the Ender-3. More on that in a future post.
 
@@ -202,7 +202,7 @@ Just noticed as I was cleaning up that there are cable ties. I'm going to hold o
 
 I also placed the bed cover back on the heat bed using the provided binder clips; seems so low tech.
 
-Current time 20:02. Not bad. That's a pretty quick build time even when you consider that I was capturing notes on my computer and images with my [Pixel 3 (#Ad)](https://amzn.to/2KcPzrJ) during the process.
+Current time 20:02. Not bad. That's a pretty quick build time even when you consider that I was capturing notes on my computer and images with my [Pixel 3 (#ad)](https://amzn.to/2KcPzrJ) during the process.
 
 Okay, this is disturbing. I have a bag of M4x14P with M4T nuts. I've looked and I don't see them in the printed instructions included in the box or the PDF file. I also don't see any holes not filled. I'll assume they aren't needed and are used for optional parts. Lots of other spare screws and nuts, but they are all duplicates of other's used. I am not worried about those.
 

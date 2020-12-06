@@ -20,7 +20,7 @@ tags:
   - assistant
 ---
 
-I've created a new OPEN THE BOX and FIRST USE video and it's a twofer! Last week I received two packages from Wyze Labs (makers of the insanely cool an inexpensive [Wyze Cams (#Ad)](https://amzn.to/3em85KE) and [Plugs (#Ad)](https://amzn.to/2wCdbS5)): A Wyze Scale and a Wyze Band. I left them in their packages until Easter weekend 2020. On Easter Day I opened them both under the camera, powered them up, and connected them to the Wyze app on my Pixel 4. How'd it go? Check out the video below to find out.
+I've created a new OPEN THE BOX and FIRST USE video and it's a twofer! Last week I received two packages from Wyze Labs (makers of the insanely cool an inexpensive [Wyze Cams (#ad)](https://amzn.to/3em85KE) and [Plugs (#ad)](https://amzn.to/2wCdbS5)): A Wyze Scale and a Wyze Band. I left them in their packages until Easter weekend 2020. On Easter Day I opened them both under the camera, powered them up, and connected them to the Wyze app on my Pixel 4. How'd it go? Check out the video below to find out.
 
 ## YouTube Video
 

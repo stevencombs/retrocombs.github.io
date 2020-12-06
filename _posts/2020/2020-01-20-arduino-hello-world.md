@@ -27,7 +27,7 @@ This post includes the components, files, images, video, resources, and steps ne
 
 ## Objective
 
-Using an [Elegoo branded Arduino MEGA 2560 (MEGA) (#Ad)](https://amzn.to/362vn2V) and various electronic components, create a hardware and software solution that will turn on an LED when a momentary button is pressed and then turn off the LED when the button is pressed again (see video below).
+Using an [Elegoo branded Arduino MEGA 2560 (MEGA) (#ad)](https://amzn.to/362vn2V) and various electronic components, create a hardware and software solution that will turn on an LED when a momentary button is pressed and then turn off the LED when the button is pressed again (see video below).
 
 ![Animated GIF of objective](/images/posts/2020-01-20-adruino-switch-led/led-switch-demo.gif)
 
@@ -44,7 +44,7 @@ Below is a step-by-step video I produced for this project.
 
 ## Bill of Materials (BOM)
 
-All equipment for this project, with Amazon links (#Ad), is listed below:
+All equipment for this project, with Amazon links (#ad), is listed below:
 
 1 - [Elegoo MEGA 2560](https://amzn.to/362vn2V): The MEGA is overkill but is the device I recommend for students. The additional digital I/O ports provide the option to create more complex projects.
 

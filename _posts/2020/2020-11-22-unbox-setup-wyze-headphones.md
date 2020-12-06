@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OPEN THE BOX and FIRST USE: WYZE Headphones'
+title: 'OPEN THE BOX and FIRST USE: Wyze Headphones'
 date: '2020-11-22'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -17,9 +17,9 @@ tags:
   - noise cancellation
 ---
 
-It's time for another WYZE product OPEN THE BOX and FIRST USE. This time, it's the WYZE Headphones. As an early backer, I received a pair faster than most; however, you can now purchase your own pair and according to WYZE, they should arrive before the holidays. In this video, I open the box (unbox) and show you my experience turning them on for the first time. I also pair them with the WYZE app and see what features the app brings to this pair of headphones. Check out the video below.
+It's time for another Wyze product OPEN THE BOX and FIRST USE. This time, it's the Wyze Headphones. As an early backer, I received a pair faster than most; however, you can now purchase your own pair and according to Wyze, they should arrive before the holidays. In this video, I open the box (unbox) and show you my experience turning them on for the first time. I also pair them with the Wyze app and see what features the app brings to this pair of headphones. Check out the video below.
 
-## YouTube Video: _OPEN THE BOX and FIRST USE: WYZE Headphones_
+## YouTube Video: _OPEN THE BOX and FIRST USE: Wyze Headphones_
 
 Watch the video below and then read on for my additional thoughts for these new wireless headphones.
 
@@ -27,22 +27,22 @@ Watch the video below and then read on for my additional thoughts for these new 
 
 ## Links Mentioned
 
-Below are the links (#Ad) mentioned in the video:
+Below are the links (#ad) mentioned in the video:
 
-1. [WYZE Headphones](https://wyze.com/wyze-headphones.html)
-2. [WYZE Band](https://amzn.to/3fo229k)
-3. [WYZE Smart Plug](https://amzn.to/2Y4W3ig)
-4. [WYZE Scale](https://amzn.to/31SsVMs)
+1. [Wyze Headphones](https://wyze.com/wyze-headphones.html)
+2. [Wyze Band](https://amzn.to/3fo229k)
+3. [Wyze Smart Plug](https://amzn.to/2Y4W3ig)
+4. [Wyze Scale](https://amzn.to/31SsVMs)
 5. [Chromecast w/Google TV](https://www.stevencombs.com/gadgets/2020/10/11/chromecast-google-tv.html)
 6. [My Previous Wyze Product Look](https://www.stevencombs.com/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
 
 ## Final Thoughts
 
-My final thoughts are often a numbered list. Here's the list for the WYZE Headphones:
+My final thoughts are often a numbered list. Here's the list for the Wyze Headphones:
 
 1. I've used the headphones more sense my FIRST USE video. Still not sure about all-day comfort. I've yet to find any headphones I want to wear all day, so that's probably just me. [**UPDATE:** The headphones are more comfortable than I first thought. I noticed after about an hour that I didn't even notice them on my head. Just the sweet tunes of Earth, Wind, and Fire in my ear!]
 2. The firmware update was unusually long and I did have my phone sitting next to the headphones. I'm hopeful the firmware update took care of any protracted future firmware updates.
-3. The WYZE app works well to control headphone audio profiles; however, I will not use the app to turn noise cancellation on and off. The physical button the headphones is more convenient as is the hand over the right headphone.
+3. The Wyze app works well to control headphone audio profiles; however, I will not use the app to turn noise cancellation on and off. The physical button the headphones is more convenient as is the hand over the right headphone.
 4. Place a hand over the right earphone to allow ambient noise for conversations, or just to wonder if you are missing anything, is brilliant. I approve!
 5. Speaking of headphone and audio controls, they are tiny. The noise cancellation button is the perfect size; however, the audio control and power buttons are too small.
 6. As I suspected, I did turn off the headphones by accident while trying to change the volume. Off should not be a tap of the power button, but a long tap. Again, maybe a future firmware update will correct this issues.
@@ -56,4 +56,4 @@ That's it for now. I do update and timestamp posts as I receive questions and po
 
 ## Have Questions?
 
-Well, I can see by the time on [WYZE Band (#Ad)](https://amzn.to/2PXhPQM) that I've already taken up too much of your time! Have questions about the WYZE Headphones? Post them in the comments below and I'll do my best to answer them.
+Well, I can see by the time on [Wyze Band (#ad)](https://amzn.to/2PXhPQM) that I've already taken up too much of your time! Have questions about the Wyze Headphones? Post them in the comments below and I'll do my best to answer them.

@@ -18,7 +18,7 @@ tags:
   - plus/4
 ---
 
-In a [previous blog post](https://www.stevencombs.com/gadgets/2020/03/28/unbox-cloner-box-pro.html), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#Ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
+In a [previous blog post](https://www.stevencombs.com/gadgets/2020/03/28/unbox-cloner-box-pro.html), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
 
 I knew the production of this video would push my DaVinci Resolve limits and because of COVID-19, I had time work on the project over the course of a couple of weeks. While preparing the video, I had another idea. Why not try and connect the Cloner Alliance Box Pro to a Commodore Plus/4. You can read more about that below.
 
@@ -44,9 +44,9 @@ In the words of Meatloaf, "two outta three, ain't bad."
 
 I mention in the video that my original USB drive didn't work. Here's the link to the brand of microSD card that worked for me without any hiccups.
 
-[Samsung MicroSDXC EVO with Adapter (#Ad)](https://amzn.to/3eFdoVR)
+[Samsung MicroSDXC EVO with Adapter (#ad)](https://amzn.to/3eFdoVR)
 
-I also like the form factor when combined with a [small microSD to USB adapter (#Ad)](https://amzn.to/3artVcz).
+I also like the form factor when combined with a [small microSD to USB adapter (#ad)](https://amzn.to/3artVcz).
 
 ## About that Commodore Plus/4
 
@@ -112,4 +112,4 @@ In the meantime, I will continue to push the capabilities of the Cloner Alliance
 
 Am I 100% happy with my purchase? Not quite 100%, but because of the way I plan to use the device, my level of satisfaction is definitely in the mid to high 80%. That percentage could rise as I continue to use the device. Time will tell.
 
-I hope you enjoyed these extra thoughts about the [Cloner Alliance Box Pro (#Ad)](https://amzn.to/2UMUOCd). Drop me a comment below or on the YouTube page to let me know. I'd love to hear from folks who use it in creative ways and with OSB Studio on Windows computers (since I don't have one in the house).
+I hope you enjoyed these extra thoughts about the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). Drop me a comment below or on the YouTube page to let me know. I'd love to hear from folks who use it in creative ways and with OSB Studio on Windows computers (since I don't have one in the house).
