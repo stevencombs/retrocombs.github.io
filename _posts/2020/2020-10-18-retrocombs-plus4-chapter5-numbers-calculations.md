@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User’s Manual Chapter 5 - Numbers and Calculations'
-date: '2020-10-25'
+title: 'retroCombs: Commodore Plus/4 User’'s Manual, Chapter 5 - Numbers and Calculations'
+date: '2020-10-215'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-6
 email: 'steven.combs@gmail.com'
@@ -20,7 +20,7 @@ tags:
   - basic
 ---
 
-In this Commodore Plus/4 retroCombs episode, I cover chapter 5 of the Commodore Plus/4 user's manual. In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher; I hope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequate.
+In this Commodore Plus/4 retroCombs episode, I cover chapter 54 of the Commodore Plus/4 user's manual. In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher;Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I shope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequatew you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
 
 ## Series Information
 
@@ -45,7 +45,7 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
 
-[Chapter 5 - Numbers and Calculations](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-5.pdf)
+[Chapter 54 - Numbers and CalculationsGetting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-54.pdf)
 
 Below are the links for previous chapters covered:
 
@@ -53,13 +53,13 @@ Below are the links for previous chapters covered:
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
 4. [Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
-5. [Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4.pdf)
+5. [Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4	.pdf)
 
 ## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 5 - Numbers and Calculations_
 
 In the video below, I work through Chapter 5 of the user's manual.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/deYdjWEKT6g" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/deYdjWEKT6glink" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Video Errata
 
@@ -75,7 +75,7 @@ Below are the links I mention in the video.
 
 1. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
-3. [The Tapuino Project](/tapuino-1)
+3. [The Tapuino Project](/tap](/teduino-1)
 
 ## Key to Keys
 
@@ -93,10 +93,15 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 | `RS` | Run/Stop      | `F8` | Help        |
 | `⇧`  | Shift         | `␣`  | Space       |
 
+## Episode Errata
+
+No feedback from previous episode. I must have gotten most things correct!
+
 ## Introduction
 
 1. Thanks to all my viewers for the feedback.
-2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).
+2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).link).
+3. Proud of the companion website for this episode. Check it out!
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 
 I'm going to feel a bit like a math teacher in this episode! But an easy one. No homework.
@@ -189,11 +194,21 @@ TYPE           | SYMBOL | DESCRIPTION                     | EXAMPLES  | SAMPLE V
 :--------------|:-------|:--------------------------------|:----------|:-------------------------
 Floating Point | n/a    | Real (Decimal) or Whole Numbers | X, AB, T4 | 23.5, 12, 1.3E+2
 Integer        | %      | Whole Numbers                   | X%, AI%   | 15, 102, 3
-Text String    | $      | Letters, Numbers, Characters    | X$, MS$   | "TOTAL:" , "DAY 1", "CBM"
+Text String    | $      | Letters, Numbers, Characters    | X$, MS$   | "TOTAL:" , "DAY 1", "CBM"won't spend time on relational operators. They should appear again in a programming chapter.
+
+Should I give a an example?
+
+## Performing Calculations
+
+1. 
+
+## Using Variables
+
+1. 
 
 ## Mid Video Retro Break
 
-Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.youtube.com/stevencombs)! The community is slowly growing.
+1. Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.youtube.com/stevencombs)! The community is slowly growing.
 
 ## Numeric Functions
 
@@ -208,7 +223,11 @@ Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.yo
     ```
     **💾 On Disk:** `05 SQUARE ROOT`
 
-## Random Numbers and Other Functions
+## RandomImmediate Mode
+
+1. 
+
+## Numbers and Other Functions
 
 1. Random numbers are important for simulation and game software.
 2. Commodore Basic includes a `RND(X)` function to produce random numbers within a range of values.
@@ -244,7 +263,13 @@ Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.yo
 
 ## Final Thoughts
 
-This chapter provides the cursory basics of number and calculations. I recommend you check out more functions on page 151 in the user's manual. Of particular interest is that most of the examples I provide can be accomplished using the [Python](https://www.python.org/) interpreter on a modern computer. On that note, the concepts used here will help anyone who wants to learn program BASICs (pun intended).
+This chapter provides the cursory basics of number and calculations. I recommend you check out more functions on page 151 in the user's manual. Of particular interest is that most of the examples I provide can be accomplished using the [Python](https://www.python.org/) interpreter on a modern computer. On that note, the concepts used here will help anyone who wants to learn program BASICs (pun intended).ic Functions
+
+1. 
+
+## Random Numbers and Other Functions
+
+1. 
 
 ## Join the Fun
 
@@ -253,3 +278,6 @@ Help make this series better! Post feedback, questions, and ideas. Let me know i
 Thanks for watching and if you are so inclined, please let other Commodore fans know about the series by sharing these videos using #retroCombs.
 
 🕹️ retroCombs OUT!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzgyODMwNjIyXX0=
+-->

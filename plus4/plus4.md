@@ -63,7 +63,7 @@ Key  | Description   | Key  | Description
 `⌫`  | Insert/Delete | `F6` | Function 6
 `⏎`  | Return        | `F7` | Function 7
 `RS` | Run/Stop      | `F8` | Help
-`⇧`  | Shift         | `␣`  | Space
+`⇧`  | Shift         | `␣`␣  | Space
 
 ## Links to Episodes
 
@@ -81,7 +81,7 @@ Each blog post contains the companion YouTube video and most include links to it
     * [My Twitter feed](https://www.twitter.com/stevencombs)
     * [My YouTube channel](https://www.youtube.com/stevencombs)
 
-2. [Commodore Plus/4 User's Manual, Chapter 1 - Unpacking and Setting Up](/plus4-2)
+2. [Commodore Plus/4 User's Manual,- Chapter 1 -, Unpacking and Setting Up](/plus4-2)
 
     I open the Commodore Plus/4 manual for the first time and look at Chapter 1: Unpacking and Setting Up. Since the previous episode was an open the box, unpacking is already complete and this episode focuses on setting up the computer. Along the way I share a very cool tip.
 
@@ -90,14 +90,14 @@ Each blog post contains the companion YouTube video and most include links to it
     * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
     * [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine))
 
-3. [Commodore Plus/4 User's Manual, Chapter 2 - Using the Keyboard and the Screen](/plus4-3)
+3. [Commodore Plus/4 User's Manual,- Chapter 2 -, Using the Keyboard and the Screen](/plus4-3)
 
     I talk about the keyboard layout, using the keyboard, and then how keyboard combinations affect screen elements. This is really a "hands on" episode!
 
     * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
     * [uxcell 6 pin connectors 4 pack](https://amzn.to/3fe4huQ)
 
-4. [Commodore Plus/4 User's Manual, Chapter 3 - Using Software](/plus4-4)
+4. [Commodore Plus/4 User's Manual,- Chapter 3 -, Using Software](/plus4-4)
 
     I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](https://www.stevencombs.com/tapuino-1), and a [Pi1541](https://www.stevencombs.com/pi1541-1).
 
@@ -107,7 +107,7 @@ Each blog post contains the companion YouTube video and most include links to it
     * [Tapuino Project](/tapuino-1)
     * [DIAG 264 Cartridge](https://www.thefuturewas8bit.com/diag-264.html)
 
-5. [Commodore Plus/4 User's Manual, Chapter 4 - Getting Started](/plus4-5)
+5. [Commodore Plus/4 User's Manual,- Chapter 4 -, Getting Started](/plus4-5)
 
     It seems like we've been getting started over and over, but I guess now we really are since the manual told us so! In this chapter I look at keyboard colors, reverse printing, correcting mistakes, the screen, and even windows. Yes, that's right, I typed windows. See the blog post and video for more on that topic.
 
@@ -136,18 +136,19 @@ Each blog post contains the companion YouTube video and most include links to it
     * [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
     * [THEVIC20 - U.K. Listing](https://amzn.to/3l7hZlB)
 
-## Companion Disk Image
+## Companion Disk Image## Supplemental Disk Image (Coming Soon)
 
-As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
+As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image thatbelow contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 
-[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2020-11-01
+[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2020-11-01 - Coming Soon
 
 I use the following file name convention to make it easy to locate specific programs:
 
-<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
+<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLLC1P2-5RETROCOMBS.PRG`
 
-* `02` - The chapter number
-* `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.
+* `02C#` - Twhere # is the chapter number
+* `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.P#` - where # is the page number where the program is first referenced in the user's manual
+* `NAME` - my self assigned name for the program
 
 ## Supplemental Posts
 
@@ -175,3 +176,6 @@ Below are links I've found to be most beneficial as I work through this series:
 2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
 3. [RETRO Innovation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
 3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTE0OTc0OTIzXX0=
+-->
