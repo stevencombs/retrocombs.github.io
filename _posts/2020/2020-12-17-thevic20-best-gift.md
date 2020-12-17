@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '10 reasons why THEVIC20 and THEC64 are a great retro-computing gifts'
+title: 'retroCombs: 10 reasons THEVIC20 and THEC64 are a great retro-computing gifts'
 date: '2020-12-17'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -20,7 +20,7 @@ My list also applies to THEC64 and [THEC64 mini](https://amzn.to/2IX3Omj). I lik
 
 THEVIC20 is a modern recreation of my first computer, the Commodore VIC-20. I absolutely had purchase one but they are like a unicorn; hard to find. Imagine my surprise when THEVIC20 popped up on the Amazon store in the United States. I immediately purchased and then spent the next four weeks wondering if it would actually arrive at my door. It did! Watch the video below and then continue to read this post to learn even more about THEVIC20.
 
-## YouTube Video: _retroCombs: MEGA 65 Starter Guide_
+## YouTube Video: _10 reasons THEVIC20 and THEC64 are great retro-computing gifts_
 
 In the video below, I share 10 reasons why THEVIC20 is the prefect gift for the retro-computing fan on your holiday shopping list.
 
