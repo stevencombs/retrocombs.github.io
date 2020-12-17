@@ -1,5 +1,22 @@
 ---
 layout: post
+title: '10 reasons why THEVIC20 is a great retro-computing gift'
+date: '2020-12-17'
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven.combs@gmail.com'
+comments: 'yes'
+permalink: thevic20-1
+category: retro
+tags:
+  - commodore
+  - thec64
+  - thevic20
+  - thec64mini
+---
+
+<!--
+---
+layout: post
 title: "retroCombs: 10 reasons why THEVIC20 (& THEC64) is a great retro-computing gift"
 date: '2020-12-17'
 author: 'Steven B. Combs, Ph.D.'
@@ -15,6 +32,7 @@ tags:
   - thec64mini
   - emulation
 ---
+-->
 
 # Introduction
 
