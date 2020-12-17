@@ -14,26 +14,6 @@ tags:
   - thec64mini
 ---
 
-<!--
----
-layout: post
-title: "retroCombs: 10 reasons why THEVIC20 (& THEC64) is a great retro-computing gift"
-date: '2020-12-17'
-author: 'Steven B. Combs, Ph.D.'
-permalink: thevic20-1
-email: 'steven.combs@gmail.com'
-comments: 'yes'
-category: retro
-tags:
-  - commodore
-  - retro
-  - thec64
-  - thevic20
-  - thec64mini
-  - emulation
----
--->
-
 # Introduction
 
 Have a retro-computing fan in your life and don’t know what to get them? Or maybe you are looking for a little something for yourself, or maybe, just maybe, you need a last-minute suggestion for Santa well here’s 10 reasons [RetroGames](https://retrogames.biz/) [THEVIC20](https://amzn.to/3mqqfOg) (and [THEC64](https://amzn.to/37qtT6H)) is the perfect holiday gift for all retro-computing fans.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'retroCombs: Commodore Plus/4 User’'s Manual, Chapter 5 - Numbers and Calculations'
-date: '2020-10-215'
+date: '2020-10-18'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-6
 email: 'steven.combs@gmail.com'
@@ -20,7 +20,7 @@ tags:
   - basic
 ---
 
-In this Commodore Plus/4 retroCombs episode, I cover chapter 54 of the Commodore Plus/4 user's manual. In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher;Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I shope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequatew you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
+In this Commodore Plus/4 retroCombs episode, I cover chapter 5 of the Commodore Plus/4 user's manual. In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher;Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I shope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequatew you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
 
 ## Series Information
 
@@ -200,11 +200,11 @@ Should I give a an example?
 
 ## Performing Calculations
 
-1. 
+1.
 
 ## Using Variables
 
-1. 
+1.
 
 ## Mid Video Retro Break
 
@@ -225,7 +225,7 @@ Should I give a an example?
 
 ## RandomImmediate Mode
 
-1. 
+1.
 
 ## Numbers and Other Functions
 
@@ -265,11 +265,11 @@ Should I give a an example?
 
 This chapter provides the cursory basics of number and calculations. I recommend you check out more functions on page 151 in the user's manual. Of particular interest is that most of the examples I provide can be accomplished using the [Python](https://www.python.org/) interpreter on a modern computer. On that note, the concepts used here will help anyone who wants to learn program BASICs (pun intended).ic Functions
 
-1. 
+1.
 
 ## Random Numbers and Other Functions
 
-1. 
+1.
 
 ## Join the Fun
 
