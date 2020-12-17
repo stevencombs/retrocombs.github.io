@@ -14,8 +14,6 @@ tags:
   - thec64mini
 ---
 
-# Introduction
-
 Have a retro-computing fan in your life and don’t know what to get them? Or maybe you are looking for a little something for yourself, or maybe, just maybe, you need a last-minute suggestion for Santa well here’s 10 reasons [RetroGames](https://retrogames.biz/) [THEVIC20](https://amzn.to/3mqqfOg) (and [THEC64](https://amzn.to/37qtT6H)) is the perfect holiday gift for all retro-computing fans.
 
 My list also applies to THEC64 and [THEC64 mini](https://amzn.to/2IX3Omj). I like modern devices that bring back that retro feeling. Check out [my channel](https://www.youtube.com/stevencombs) for more.
@@ -33,7 +31,7 @@ In the video below, I share 10 reasons why THEVIC20 is the prefect gift for the 
 1. [10 Minute Amiga Retro Cast](http://www.youtube.com/channel/UCSWXB7cc8mAtCjK8iXAJc1A) wanted to remind everyone that you can use a USB keyboard with THEC64 mini. Great reminder and I recommend the [Logitech MK270](https://amzn.to/3p4LmaS). For $20 you get a wireless keyboard with mouse and long battery life. Perfect for a hobbyist keyboard.
 2. [Chris Hawkins](http://www.youtube.com/channel/UCqyCNJrfSsZ0G6B_jRz-UpA) mentioned he'd like to have original ports on the back of these devices. I would agree. A couple of 8 pin connectors and an IEC would make these amazing devices; however, hold that thought Chris. The [MEGA 65](https://www.stevencombs.com/mega65-1) will be here soon!
 
-# Links for this episode (#ad):
+## Links for this episode (#ad):
 
 [THEVIC20](https://amzn.to/37sww86)
 [THEC64](https://amzn.to/2LKMYrR)
@@ -43,7 +41,7 @@ In the video below, I share 10 reasons why THEVIC20 is the prefect gift for the 
 [HDMI Monitor](https://amzn.to/2KAiOqp)
 [A Hobbyist's Guide to THEC64 Mini](https://amzn.to/37rLZFj)
 
-# Top 10 Reasons (sleigh bells audio between each reason)
+## Top 10 Reasons (sleigh bells audio between each reason)
 
 1. It’s fun to unbox (especially on Christmas morning) - You know I love a good open the box and THEVIC20 doesn’t disappoint. It feels and smells like a new 1980s computer. I was surprised at how similar THEVIC20 is to the design of the original.
 2. It feels like the 1980s - Look at that design, those keys, that joystick, those colors, that box. Gnarly, dude. It really did bring back some great memories and I’ve had a blast using THEVIC20 to play games and explore some past programming skills.
@@ -66,7 +64,7 @@ In the video below, I share 10 reasons why THEVIC20 is the prefect gift for the 
 
 **BONUS:** HDMI for crisp 720p HD visuals, at 60 Hz (NTSC) or 50 Hz (PAL) and works with modern displays such as HDMI monitors and televisions.
 
-# Final Thoughts
+## Final Thoughts
 
 In addition to my 10 reason above, below are some final thoughts.
 
