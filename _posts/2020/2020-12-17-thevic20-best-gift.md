@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '10 reasons why THEVIC20, and THEC64, is a great retro-computing gift'
+title: '10 reasons why THEVIC20 and THEC64 are a great retro-computing gifts'
 date: '2020-12-17'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
