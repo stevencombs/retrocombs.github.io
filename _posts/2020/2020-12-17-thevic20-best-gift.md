@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: THEVIC20 (& THEC64) 10 reasons it's a great retro-computing gift'
+title: "retroCombs: THEVIC20 (& THEC64) 10 reasons it's a great retro-computing gift"
 date: '2020-12-17'
 author: 'Steven B. Combs, Ph.D.'
 permalink: thevic20-1
@@ -14,7 +14,6 @@ tags:
   - thevic20
   - thec64mini
   - emulation
-
 ---
 
 # Introduction
