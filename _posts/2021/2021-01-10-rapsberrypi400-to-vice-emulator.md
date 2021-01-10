@@ -31,7 +31,7 @@ __Table of Contents__
 
 <!-- TOC -->
 
-- [Watch the Video: _Raspberry Pi 400 + Combian 64 distro = Combian pi/400 | The Ultimate Commodore Computer Emulator?_](#watch-the-video-_raspberry-pi-400--combian-64-distro--combian-pi400--the-ultimate-commodore-computer-emulator_)
+- [Watch the Video](#watch-the-video-_raspberry-pi-400--combian-64-distro--combian-pi400--the-ultimate-commodore-computer-emulator_)
 - [Video Errata](#video-errata)
 - [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
 - [Download Combian 64 V3.0](#download-combian-64-v30)
@@ -129,22 +129,16 @@ Grab a [$100 4GB model](https://amzn.to/3rBtGp1) if you have some light computin
 Time to upgrade the Combian 64 distribution.
 
 1. Setup the Raspberry Pi 4 with a [keyboard/mouse combination](https://amzn.to/2JqR8UR).
-
 2. Connect an [HDMI monitor](https://amzn.to/3aS4g0y).
-
 3. Plug in the prepared micro Combian 64 SD card.
-
 4. Plug in the Raspberry Pi 4 to the [USB-C power cable](https://amzn.to/3nXz6Zk).
-
 5. Once the Raspberry Pi boots, load the *Terminal* and type the following commands:
-   
-   `sudo apt update` | A password prompt will appear. It is `raspberry`
-   `sudo apt dist-upgrade` | This will apply the updates and takes some time. Grab a coffee, or better yet, [buy me one too](https://www.buymeacoffee.com/retroCombs) so we can sip together!
+
+   `sudo apt update` / A password prompt will appear. It is `raspberry`
+   `sudo apt dist-upgrade` / This will apply the updates and takes some time. Grab a coffee, or better yet, [buy me one too](https://www.buymeacoffee.com/retroCombs) so we can sip together!
 
 6. With the update complete, use the Raspian OS menu and shutdown the Raspberry Pi.
-
 7. Once the Raspberry Pi 4 lights shuts off, unplug the Raspberry Pi 4.
-
 8. Remove the micro SD card from the Raspberry Pi.
 
 It's now time to grab the Raspberry Pi 400.
@@ -204,7 +198,7 @@ I'm sure I'm unique in this regard; however, I do 90% of my design work in Googl
 
 Another feature of Slides is the ability to share and collaborate; as is evidenced below where I share my original slides so you can see my design process and even copy the file to modify and use for your own project.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRReNWFehBnftz4xe7MNwEVEaLPZokjwogZaGt_HDt_FTZWheVQgVyrv14dMpA5XHIatx-QM7AZ6fWw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRReNWFehBnftz4xe7MNwEVEaLPZokjwogZaGt_HDt_FTZWheVQgVyrv14dMpA5XHIatx-QM7AZ6fWw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 All I ask is that you link back to this post, or [the YouTube video](https://youtu.be/P0EaHOGvtS0), and provide attribution. If you share your build online, please tag it with [#retrocombs](https://twitter.com/search?q=%23retrocombs&src=typed_query).
 
