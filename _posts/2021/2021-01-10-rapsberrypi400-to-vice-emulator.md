@@ -19,6 +19,8 @@ tags:
 
 There's a lot of excitement around the Raspberry Pi 400. I mean look at this thing (see image below). It's a self contained Raspberry Pi with a keyboard and a form factor reminiscent of the original 1980s 8-bit computers; albeit, much thinner and lighter. Since I first learned about the 400, I had one project in mind and I'm happy to finally reveal that project in this post and the companion YouTube video.
 
+> **UPDATES:** Last updated 2021-01-11 (date stamp next to changes)
+
 As readers and viewers know, I've taken a look at several devices this past year that promise to bring back the early days 8-bit computing. When the Raspberry Pi 400 was released, my first thought was, "I wonder if it will work with [Combian 64](https://cmaiolino.wordpress.com/)?" In this post and companion video, we'll find out as I show you how to open the box, configure, brand, and change the key caps on a Raspberry Pi 400 to make it the ultimate VICE emulator.
 
 > **NOTE:** Welcome to 2021 and I couldn't be happier about my very first post. This one has been a long time coming and I'm so glad I had time over the 2020 Christmas vacation to work on this project.
@@ -48,7 +50,7 @@ __Table of Contents__
 - [Design, print, and apply a logo and serial number plate](#design-print-and-apply-a-logo-and-serial-number-plate)
 - [Configure the joystick from THEC64 maxi or mini](#configure-the-joystick-from-thec64-maxi-or-mini)
 - [Game Demo](#game-demo)
-- [Final Thoughts:](#final-thoughts)
+- [Final Thoughts](#final-thoughts)
 - [Join the Fun](#join-the-fun)
 
 <!-- /TOC -->
@@ -104,7 +106,7 @@ While the default Commodore machine is the C64, VICE version 3.4 includes the fo
 
 Within each of those emulators are more settings and models of each machine including, displays, memory expansions, kernals, VICs, drives, etc. The number of options can overwhelm; however, these options lead to some pretty sophisticated emulated hardware configurations that were beyond the pocketbooks of most users in the 1980s. With VICE you have access on your personal computer (Mac, Linux, and Windows) to about any Commodore computer operating system ever made. Since VICE is available on Linux, it's perfectly matched for the Raspberry Pi and especially the Raspberry Pi 400 with it's built-in keyboard.
 
-Before you download Combian V3.0, you need to support the project. Versions prior to 3.0 are free to download but won't work with the Raspberry Pi 4 or 400. No specific amount is required; however, I recommend you tip Carmelo at least $10 to $20 to keep this amazing project alive.
+~~Before you download Combian V3.0, you need to support the project.~~ {UPDATE: 2021-01-11} Support for all versions no longer require "project support," but I still recommend you "[tip](https://www.paypal.com/paypalme/combian64)" Carmelo (see [Final Thoughts](#final-thoughts) number 2). Versions prior to 3.0 are free to download but won't work with the Raspberry Pi 4 or 400. No specific amount is required; however, I recommend you tip Carmelo at least $10 to $20 to keep this amazing project alive.
 
 ## Extract Combian 64
 
@@ -228,12 +230,13 @@ To demo the new Combian Pi/400, I choose to play the the homebrew shooter, [Valk
 
 I demonstrate playing this game in the video and am using THEC64 joystick. It really was fun and felt true to the original gaming experience on a C64.
 
-## Final Thoughts:
+## Final Thoughts
 
 1. While the Combian pi/400 is perfect for the home or office, it's also the perfect travel size! Imagine packing this in your bag and connecting it that HDMI monitor in a hotel? What about sharing your love of 8-bit Commodore computing with your family? This is that machine.
 2. This project, as [Brian Joyce on Facebook commented](https://www.facebook.com/groups/commodoresixtyfour/permalink/10157446446337172/?__cft__%5B0%5D=AZXho0W7m1RZV0hB2v4O1SBDggN6WQtcJ-XL2x77tHAENFbT8Px1DtYc1aVZKnNjhfJAy4yuOozgHlumn6iZdbeoAmjVSmY-Vfsdk3su5xaeL-1ZR_rmrxr0lmQWHtjOJ1tvuEzvPjlj-m3Laztx8cot76YZZ5HbWP3CBIwblCqHt8x7feQtHexWr0-GHOloJqQ&__tn__=,O,P-R), "Very nice man! As both a Commodore and a Raspberry Pi fan, this ticks every box for me!" Same here, Brian!
 3. There are several things I plan to do with the Combian pi/400. I hope to find time to document them here and in video. I mention GEOS, but I'm also interested in performance. What about you? Have something you think I should try with the Combian pi/400? Drop a comment and let me know. If I can scrape up the time, I'll see what I can do.
-4. This is one of my most viewed videos within a 24-hour video (350+). While that's not impressive for YouTubers, it's just fine for me! I love this hobby and that small group who continues to support my journey as I reconnect with my Commodore computing roots. I can say this without hesitation; Commodore computers changed my life-path and allowed me to become who I am today. If you think back, you will probably agree.
+4. {UPDATE: 2021-01-11} There's been some, and when I write some I mean a couple of individuals, controversy about whether Combian V3.0 should be behind a support/tip me firewall. Carmelo was quick to react and has now made V3.0 available as [a direct download](https://drive.google.com/file/d/16bMQoql3vJVtV03zzCbo-j61Aj4UIbj-/view?usp=sharing); however, I still contend that you should "tip" Carmelo for his work to package everything up and create the wonderful menu.
+5. {2021-01-11} This is one of my most viewed videos within a 24-hour video (~~350+~~ 420+). While that's not impressive for YouTubers, it's just fine for me! I love this hobby and that small group who continues to support my journey as I reconnect with my Commodore computing roots. I can say this without hesitation; Commodore computers changed my life-path and allowed me to become who I am today. If you think back, you will probably agree.
 
 ## Join the Fun
 
@@ -248,9 +251,10 @@ Thanks for watching and if you are so inclined, please let other Commodore fans 
 🕹️ retroCombs OUT!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcyNTI0NDAsLTE0NjY1NTE5NzMsLT
-E2Njg1NjI5ODAsMjA3MDAzNTY0LDE3MDk3NDM0NzMsMTgxNDgz
-NTg4MSw5NTM2NDcwMDEsLTg1NTE5MjczLC0yOTM2MTQ2ODUsMT
-g4ODkxNjkwNywtMTAwNTA2NTY5LC03NTAxMTE1NDUsMTc3OTQ3
-NDY3LC0xNTIzMzk4NDU1LDE3MTM4MjU2MDZdfQ==
+eyJoaXN0b3J5IjpbLTExMjY1ODg5NjUsLTExODU0NTMyNTcsLT
+E0NjY1NTE5NzMsLTE2Njg1NjI5ODAsMjA3MDAzNTY0LDE3MDk3
+NDM0NzMsMTgxNDgzNTg4MSw5NTM2NDcwMDEsLTg1NTE5MjczLC
+0yOTM2MTQ2ODUsMTg4ODkxNjkwNywtMTAwNTA2NTY5LC03NTAx
+MTE1NDUsMTc3OTQ3NDY3LC0xNTIzMzk4NDU1LDE3MTM4MjU2MD
+ZdfQ==
 -->
