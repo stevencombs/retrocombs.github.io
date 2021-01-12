@@ -19,7 +19,7 @@ tags:
 
 There's a lot of excitement around the Raspberry Pi 400. I mean look at this thing (see image below). It's a self contained Raspberry Pi with a keyboard and a form factor reminiscent of the original 1980s 8-bit computers; albeit, much thinner and lighter. Since I first learned about the 400, I had one project in mind and I'm happy to finally reveal that project in this post and the companion YouTube video.
 
-> **UPDATES:** Last updated 2021-01-11 (date stamp next to changes)
+> **UPDATES:** Last updated {2021-01-12} (date stamp next to changes)
 
 As readers and viewers know, I've taken a look at several devices this past year that promise to bring back the early days 8-bit computing. When the Raspberry Pi 400 was released, my first thought was, "I wonder if it will work with [Combian 64](https://cmaiolino.wordpress.com/)?" In this post and companion video, we'll find out as I show you how to open the box, configure, brand, and change the key caps on a Raspberry Pi 400 to make it the ultimate VICE emulator.
 
@@ -63,7 +63,7 @@ In the video below, I demonstrate the process to convert a Raspi 400 into a full
 
 ## Video Errata
 
-None as of 2021-01-10.
+1. {2021-01-12} - Facebook commenter Lonnie added that in order for him to get a full screen display (with black on the sides only) he had to use the `rasps-config` utility to turn overscan compensation OFF.
 
 ## Links Mentioned in this Episode:
 
