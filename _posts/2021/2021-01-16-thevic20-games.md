@@ -36,9 +36,7 @@ In the video below, I play games Harvester through Zor.
 
 ## SUPPORT THIS POST and help me caffinate!
 
-If you found this post or its contents useful, consider buying me a coffee (see below)!
-
-<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="retroCombs" data-description="Support me on Buy me a coffee!" data-message="You can now buy me a coffee so I have the energy and resources to create more great content!" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+If you found this post or its contents useful, consider buying me a coffee (click the coffee cup in the lower-right)!
 
 ## Video Errata
 
@@ -67,7 +65,7 @@ Below are the list of games I demonstrate in part 1 of the series. A time code f
 | 🕹️🕹️    | Fun for occasional play. You probably won't play after a day.        |
 | 🕹️🕹️🕹️ | Hours of fun and you'll return to play. It's a gem.                  |
 
-1. Abductor (🕹️🕹️)[01:30] - Think, Defender meets Galaga, but with less impressive graphics. Excellent recreation that shows off the 8-bit capabilities of the VIC-20. 
+1. Abductor (🕹️🕹️)[01:30] - Think, Defender meets Galaga, but with less impressive graphics. Excellent recreation that shows off the 8-bit capabilities of the VIC-20.
 2. Andes Attack (🕹️🕹️🕹️)[03:17] - Inspired by Defender but with llamas in peril! Fun, retro, excellent sound, and addictive.
 3. Arcadia (🕹️🕹️🕹️)[05:06] - Another game similar to Galaga but reminds me more of the Atari 2600 game from Imagic, Demon Attack, so that's automatically a winner!
 4. Bewitched (🕹️🕹️)[06:16] - Not related to the beloved 1960s-70s sitcom. More closely related to the Atari 2600 game, Adventure, but with more keys, walls and mazes.
