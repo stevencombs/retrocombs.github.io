@@ -60,7 +60,7 @@ Not all the Commodore VIC-20 (or C64 for that matter) games included with THEVIC
 Below are the list of games I demonstrate in part 1 of the series. A time code follows the title and these time codes are in the video so you can jump around to the games you want to see. I also include a joystick rating (see rating system below).
 
 | Rating    | Description                                                          |
-|---------: |:-------------------------------------------------------------------- |
+|-----:-----|:-------------------------------------------------------------------- |
 | 🕹️       | You will play for a minute or two and never play again. A curiosity. |
 | 🕹️🕹️    | Fun for occasional play. You probably won't play after a day.        |
 | 🕹️🕹️🕹️ | Hours of fun and you'll return to play. It's a gem.                  |
