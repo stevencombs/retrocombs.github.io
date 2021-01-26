@@ -14,20 +14,19 @@ tags:
   - models
   - military
   - tanks
-
 ---
 
 I'm an Adult Fan of LEGO (AFOL) and a LEGO fan since my 1970s childhood. As far as I remember, LEGO has always been in my home and a part of my play. In the 1980s, I purchased a MEGA block space set but quickly found they were not the same quality as LEGO.
 
 During the 1990s, I went through my dark-ages (that time when we set LEGO aside because of, well, adulting). When my daughter turned 5 in the 1990s, she began to show interest in more complicated LEGO models other than DUPLO and we built together. A father's dream come true! LEGO has been in our family ever since. Is there the possibility that I would ever purchase a competing brand of building brick? Watch the video and read the blog post below to find out.
 
-![](https://lh3.googleusercontent.com/DANhzkSwM81Tow2A8vVYLhGP1wK8GldWAV34aQ6qHwSwypqyAMEkdQ3XQdzMFqxOfGZjYxQ2eS1EkadqqMYdaDRjXXDWXcPkLH0fIzAguoibajXXf4S2YWtuIa9jWM_Lx78AhbMOvG4=w1920-h1080)
+![The COBI M60 Patton Box](https://lh3.googleusercontent.com/DANhzkSwM81Tow2A8vVYLhGP1wK8GldWAV34aQ6qHwSwypqyAMEkdQ3XQdzMFqxOfGZjYxQ2eS1EkadqqMYdaDRjXXDWXcPkLH0fIzAguoibajXXf4S2YWtuIa9jWM_Lx78AhbMOvG4=w1920-h1080)
 
 ## YouTube Video: _COBI M60 Patton Tank and a COBI versus LEGO comparison_
 
 In the video below, I share my COBI M60 Patton build and compare the COBI brand to the LEGO brand.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/eJ1EaGP4XUg" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ***
 
@@ -81,20 +80,20 @@ Before I begin, I have to get the dog off my instructions! (video)
 
 > "And now for something completely different."
 
-Below are the reason I choose to produce this video, which is a far cry from my regular [gadgets](https://www.youtube.com/playlist?list=PLRVBh2hjFTomPAjirqjNzqTKep-O-QZUW) and [retro-computing](https://www.youtube.com/playlist?list=PLRVBh2hjFTolfr0_s80Z_Z5bawxWkfRRW) content:
+Below are the reasons I choose to produce this video, which is a far cry from my regular [gadgets](https://www.youtube.com/playlist?list=PLRVBh2hjFTomPAjirqjNzqTKep-O-QZUW) and [retro-computing](https://www.youtube.com/playlist?list=PLRVBh2hjFTolfr0_s80Z_Z5bawxWkfRRW) content:
 
-2. A colleague at work mentioned COBI building blocks and then showed me his [U-BOOT U-48 Submarine model](https://amzn.to/366H6k6). (Image)
-3. He purchased because he often lamented that LEGO won't create military models; although they will create Star Wars and have in the past sold the WWI Sopwith Camel and Red Baron plane models. (Image)
-3. I'm a LEGO fan from way back, an AFOL, and admittedly a LEGO snob. [LEGO clone brands](https://en.wikipedia.org/wiki/Lego_clone) such as MEGA-Blocks, Kre-O, and Best-Lock were always seen as inferior brands fraught with legal troubles, inconsistent color, loose fits, shoddy building instructions, and poor click compatibility.
-5. I love LEGO so much that in the early 2000s, My wife and I hosted, a then popular, podcast call Bricks in my Pocket. (Image)
-6. During that time, I was selected to serve as a cycle 2 LEGO Ambassador. (Image)
-7. Despite all this, the COBI submarine model spoke to me. Could a clone brand ever appeal to me?
-8. I held the submarine model in my hands. It was heavy, the blocks had a tight fit, the price was right, and my colleague told me they had a [M60 Patton Main Battle Tank](https://amzn.to/3o1UkEB) available. He was knowingly appealing to my inner armor officer.
-9. That's right, I'm a retired Army officer who began his Army career as an Armor officer in the late 1980s. The first armored vehicle I began training on was an M60A3.
-10. Even beyond retirement, I'm a huge fan of military and especially armor history (image of books).
-11. Put all this together, and I immediately let go of my LEGO snobbery, pulled up Amazon and made the purchase. And, I wasn't content with only the M60; I added the [M113 Personnel Carrier](https://amzn.to/396QENL) to my shopping cart. (Image)
-12. Both models are a part of the COBI [historical Vietnam model collection](https://amzn.to/3pedh8z).
-13. Will these models meet my building block expectations? Let's find out. (Intro Video)
+1. A colleague at work mentioned COBI building blocks and then showed me his [U-BOOT U-48 Submarine model](https://amzn.to/366H6k6). (Image)
+2. He purchased because he and I often lamented that LEGO won't create military models (he's a modeler extraordinaire); although they will create Star Wars and have in the past offered the WWI Sopwith Camel and Red Baron plane models. (Image)
+3. I'm a LEGO fan from way back, an adult fan of LEGO (AFOL), and admittedly a LEGO snob. [LEGO clone brands](https://en.wikipedia.org/wiki/Lego_clone) such as MEGA-Blocks, Kre-O, and Best-Lock were always seen as inferior brands fraught with legal troubles, inconsistent color, loose fits, shoddy building instructions, and poor click compatibility.
+4. I love LEGO so much that in the early 2000s, My wife and I hosted, a then popular, podcast call Bricks in my Pocket. (Image)
+5. During that time, I was selected to serve as a cycle 2 LEGO Ambassador. (Image)
+6. Despite all this, the COBI submarine model spoke to me. Could a clone brand ever appeal to me?
+7. I held the submarine model in my hands. It was heavy, the blocks ha a tight fit, the price was right, and my colleague told me they had a [M60 Patton Main Battle Tank](https://amzn.to/3o1UkEB) available. He was knowingly appealing to my inner armor officer.
+8. That's right, I'm a retired Army officer who began his Army career as an Armor officer in the late 1980s. The first armored vehicle I began training n was an M60A3.
+9. Even beyond retirement, I'm a huge fan of military and especially armor history (image of books).
+10. Put all this together, and I immediately let go of my LEGO snobbery, pulled up Amazon and made the purchase. And, I wasn't content with only the M60; I added the [M113 Personnel Carrier](https://amzn.to/396QENL) to my shopping cart. (Image)
+11. Both models are a part of the [historical Vietnam model collection](https://amzn.to/3pedh8z).
+12. Will these models meet my building block expectations? Let's find out. (Intro Video)
 
 ### Who is COBI?
 
@@ -106,23 +105,26 @@ Who is COBI? Where's their country of origin? And what else do they do? Let's fi
 
    > COBI is a Polish manufacturer of high quality construction blocks manufactured in its own production facility  in the Special Economic Zone in Mielec (Sub-Carpathian region, Poland, European Union).
 
+3. So, not a Chinese company.
+
    > The construction blocks are manufactured from the highest quality European raw materials, have certificates and meet all the necessary standards and restrictive requirements of the European Union for products for children.
+
+4. Obviously trying to complete with LEGO and demonstrate their quality.
 
    > COBI is also an importer and distributor of a wide range of licensed toys, such as: interactive toys, creative sets, educational and strategy games, dolls, action figures, plastic models for gluing and folding and many others.
 
-3. Yes, they make toys other than building blocks. Will these other toys detract from the quality of their own building sets?
+5. Yes, they make toys other than building blocks. Will this other business pull COBI's attention from the quality of their building sets?
 
 ### Packaging
 
 Before we build the model, let's take a look at the packaging:
 
-2. The box itself and artwork is on par with LEGO quality.
-3. The model is highlighted with a simulated background.
-4. Provides the a piece count; for this model 605 elements and 2 figurines (not minifigs and more on this later); an "American Officer" and an "American Soldier".
-5. No stickers is a highlight and I am always disappointed with LEGO includes them with their models.
-6. We even get technical information for not only the M60, but the included M16.
-7. Count me impressed with the initial presentation of the model.
-8. Scan the QR code and it takes you directly to the model page, not their main page. That's a nice feature because on their model page you'll find a complete description and history of the M60, model specifications, a virtual instruction manual, owner comments, related and products. (video)
+1. The box itself (cardboard thickness) and colorful artwork is on par with LEGO quality. The graphics are polished and grab the eye.
+2. The front of the box places the M60 model in a simulated battle environment. That's a nice touch.
+3. The number of pieces for this model is 605 elements and 2 figurines; an "American Officer" and an "American Soldier".
+4. No stickers is a huge win for me. I've not purchased LEGO sets because they include stickers. It always seems like a "cheap out" instead of being "pad printed" as COBI highlights on their box.
+5. We even get technical information for not only the M60, but the included M16. This is the only place you find this information. Unfortunately, COBI doesn't include any additional details in the building instructions.
+6. Scan the QR code with your phones camera and it takes you directly to the COBI model page, not their main page. That's a nice feature because on their model page you'll find a complete description and history of the M60, model specifications, a virtual instruction manual, owner comments, and related products. (video)
 
 ### View COBI Build Images
 
@@ -231,12 +233,12 @@ This video uses many images that you may want to review individually. I've inclu
 
 As is customary in my videos, let's do a quick open the box and see what's inside:
 
-1. Building instructions were the first thing I saw.
-2. Once the instructions were pulled out, there were three large backs of building elements.
+1. After opening the end of the box, the building instructions were the first thing I saw.
+2. After the instructions were pulled out, I found three large bags of building elements. I'll highlighted them frequently as I build the M60 Patton.
 
 ### Building Instructions
 
-No model is any good if you can't put it together and LEGO has the best instructions. They continue to evolve and get better over time and as [someone who has created build instructions](https://www.stevencombs.com/get-the-dock), I can attest to how much time is involved. Let's see how COBI's instructions rate:
+No model is any good if you can't put it together; and LEGO has the best instructions. They continue to evolve and get better over time and as [someone who has created build instructions](https://www.stevencombs.com/get-the-dock), I can attest to how much time is involved. Let's see how COBI's instructions rate:
 
 1. Paper quality is on par with LEGO. Pages are thick and paper is high quality glossy stock. (video)
 2. Looking inside we find themed background pages, numbered steps, a parts list for each step, and a parts placement with previous layers grayed out to highlight part placement for the current step.
@@ -256,66 +258,71 @@ All elements are organized in larger and then smaller bags in similar fashion to
 
 Now it's time to build the M60 Patton and I was admittedly excited to dive in. Here's what I found out while building:
 
-1. Take a long look at upper-left hand corner of the first page. They have learned lessons from past models and included a handy, "NOTICE THE DIFFERENCE WARNING" that I failed to observe the difference between parts A, B, and C. Because of this, I had a gotcha that later required me to tear the model down several layers.
-2. Taking a quick look at a plate, you immediately notice the COBI name on each stud which is eerily reminiscent of the LEGO brand and font.
-3. The back of this larger plate was a marked difference from LEGO; however, things looked more normal with smaller bricks and plates.
-4. I will rate the instructions as equal in quality to LEGO.
-4. Enough of the branding and comparison discussion. Let's get to building. (videos)
+1. Take a long look at upper-left hand corner of the first page. COBI must have learned lessons from past models and included a handy, "NOTICE THE DIFFERENCE WARNING" that I failed to observe and therefore did in fact miss the difference parts A, B, and C. Because of this, I had a gotcha that later required me to tear the model down several layers. Read the instructions, Steven!
+2. Next I wanted to compare the COBI bricks to the LEGO bricks. Look at a plate, I immediately noticed the COBI name on each stud; which is eerily reminiscent of the LEGO brand and font.
+3. Looking at the back of this larger plate, I noticed was a marked difference from LEGO; however, things looked more normal with smaller bricks and plates as you can see here.
+4. Enough of the branding and comparison discussion. Let's get to building. (videos and music)
 
 ### Variety of Elements
 
-Let's take a look at element variety:
+As I was building, I noticed an interesting variety of building elements:
 
-1. As I built this model, I noticed many familiar element configurations, but there were new ones I'd not seen in LEGO kits (and I've built many a LEGO set).
-2. What I found interesting was the odd number lengths of plates and bricks. While LEGO normally includes even number elements, 2x2, 2x4, and 2x6, this model had many 2x5 and 2x7 elements. Have to admit, I was a fan of those.
-3. I was a fan of these 1x3 elements that provide a flat surface on the bottoms of plates and bricks. LEGO may have these, but I don't remember them. I know watchers will correct me and drop comments below. I look forward to those comments.
-4. COBI include what appear to be many custom parts for this, and possibly other track vehicles, in the form of roller axels. Not the two kinds. One with a longer axle to accommodate both a wheel and roller and this other element with a shorter axle that accommodates the wheel.
-5. Let's talk action figures or in LEGO parlance, minifigs. COBI minifigs are more anatomically correct, if you can be such as thing in a building block model. This box includes and American officer and solider, each with their character. I will say I love the armored cav hat and sunglasses on the officer and the helmet and vest on the soldier. The included M16 rifle is an element you will never find from LEGO (but Star Wars blasters are okay, I guess) and the set appropriately includes binoculars.
+1. There many familiar element shapes, but there were new ones I'd not seen in LEGO kits (and I've built many a LEGO set).
+2. What I found interesting was the odd number lengths of plates and bricks. While LEGO normally includes even number elements, 2 x 2, 2 x 4, and 2 x 6, this model had many 2 x 5 and 2 x 7 elements. Have to admit, I was a fan of those.
+3. I was a fan of these 1 x 3 elements that provide a flat surface on the bottoms of plates and bricks. LEGO may have these, but I don't remember them. I know watchers will correct me and drop comments below. I look forward to those comments.
+4. COBI includes what appears to be many custom parts for this, and possibly other track vehicles. For example, the two roller axles. Two kinds: one with a longer axle to accommodate a wheel and roller and another with a shorter axle to accommodate a wheel.
+5. Let's talk action figures, or in LEGO parlance, minifigs. COBI minifigs are "more" anatomically correct, if there can be such a thing in a building block action figure.
+6. This set includes and American officer and solider. I will say, I love the armored cavalry hat and sunglasses on the officer and the helmet and vest on the soldier. The included M16 rifle is an element you will never find in a LEGO set (but Star Wars blasters are okay, I guess) and the set appropriately includes binoculars.
 
 ### Quality
 
-Now let's see what COBI quality control looks like:
+What about COBI quality control?
 
-1. I measured the plate and a brick weight for brief quality test. (video). I was pleased to find that they were almost identical for like parts.
-2. Next I made a quick parts fit comparison between COBI and LEGO elements. The fit was tight and the click was satisfying. As far as fit and weight goes, you'd be hard pressed to tell the difference between the two other than the the name on the stud.
-3. However, there was an issue with the COBI elements that hindered the final product appearance; the runner, or sprue, cutoffs are visible on the model after assembly. You don't see these on the box; they've been digitally removed; however, they are noticeable all over my model. Take a look! (images)
-4. In hindsight, I should have compared fit clearance; however, that would have taken time away from building. I will state that fit and clearance "appears" to be similar to LEGO.
-2. I've never seen a LEGO brick pass through QC that had studs in this shape. What happened here?
-3. In this element there appears to be a thin top layer that lets the form of the inside of the brick bleed through if the light hits the element just right.
-4. Here's an element where an engineer made the unfortunate decision to locate the sprue right on top of a stud. This would never happen with a LEGO model. Now this part is embedded within the model and never seen after the build, but if you want to use for your own builds, this would be annoying.
-2. I love that COBI stamps all their elements and they do not include stickers. Other brands include stickers to drive down the cost of their models. Can't stand stickers!
-3. One of the areas I was concerned about was the tracks. Would they be realistic and I'm happy to report that the construction and operation of the tracks is excellent. The tracks have a center guide (a real thing as you can see by this center guide I keep in my office), good fit across the rollers, and even sound good when moving.
+1. I measured the weight of a brick and a plate in my non-scientific quality test. I was pleased to find that they were almost identical for like parts. (video)
+2. Next I made a quick parts fit comparison between COBI and LEGO elements. The fit was tight and the click was satisfying. As far as fit and weight goes, you'd be hard pressed to tell the difference between the two other than the name on the stud.
+4. In hindsight, I should have compared fit clearance; however, that would have taken time away from building. I will say that fit and clearance "appears" to be similar to LEGO.
+4. However, there was an issue with the COBI elements that hindered the final product appearance; the runner, or sprue, cutoffs are visible on the model after assembly. You don't see these on the box; they've probably been digitally removed; however, they are noticeable all over my model. Take a look! (images)
+5. There was another QC issue for a plate. I've never seen a LEGO brick pass through QC that had studs. What happened here? Luckily this was the only plate with issues; however, in all my years of building LEGO sets, I've never seen an element marred like this plate.
+6. While my weight exercise revealed similar results, this part could tell a different manufacturing story. On this element there appears to be a thin top layer that lets the form of the inside of the brick bleed through if the light hits the element just right. Again, not something I've seen with LEGO bricks.
+7. Here's an element where an engineer made the unfortunate decision to locate the sprue right on top of a stud. Thankfully, this part is embedded within the model and not seen after the build, but if you want to use for your own builds on a top layer or studs not on top (SNOT) build, this would be annoying.
+8. Earlier I mention my disdain for stickers. I love that COBI stamps all their elements. Other brands include stickers to drive down the cost of their models. Even LEGO does this for some sets. I can't stand stickers!
+9. One part of the build that concerned me was the tracks. Would they be realistic and work? I'm happy to report that the construction and operation of the tracks is excellent. The tracks have a center guide (a real thing as you can see by this center guide I keep in my office), good fit across the rollers, and even sound good when you push the model across a table.
 
 ### Cost
 
-Let's compare cost based on element numbers:
+I was interested in how the cost of COBI models compare with LEGO so I did some research:
 
-1. This model had 605 elements, two action figures, and I paid $49.43 (retail $52.14).
-2. I tried to find a similar model with the same or lower number of pieces, similar build difficulty, and minfigs. Something similar to a military theme. The closest in LEGO is the Star Wars line.
-- I searched [Amazon](https://amzn.to/3ocGoIf) since this is where I purchased my [COBI set](https://amzn.to/3pbZuQ1).
-2. I found this similar LEGO model, the Y-Wing Star Fighter, with 578 pieces, four action figures, at a cost of $55.99 (retail $69.99)
-3. Now we have to throw in that LEGO has to pay for the rights to the Star Wars brand; however, if look at Amazon costs, the prices is about $5 more for 27 fewer elements, but you get two additional minifgs.
-4. The story is different if we look at retail pricing. $52 for the COBI versus $70 for LEGO. That's about a 25% increase for the LEGO set for less elements. It's not an accurate example, but does give us an estimate of COBI value which I classify as good.
+1. The M60 Patton model had 605 elements, two action figures, and I paid $49.43 (retail $52.14).
+2. I tried to find a similar model with the same or lower number of pieces, similar build difficulty, and minfigs. Something with a military theme. The closest LEGO theme is the Star Wars line.
+3. I searched [Amazon](https://amzn.to/3ocGoIf) since this is where I purchased my [COBI set](https://amzn.to/3pbZuQ1).
+2. The closest LEGO model I could find to meet my criteria was, the Y-Wing Star Fighter, with 578 pieces, four action figures, and a cost of $55.99 (retail $69.99)
+3. Now I have to add that LEGO has to pay Star Wars branding fees; however, if look at Amazon, the price is about $5 more for 27 fewer elements, but you get two additional minifgs.
+4. The story is different if we look at retail pricing. $52 for COBI versus $70 for LEGO. That's about a 20% increase for the LEGO set for less elements. It's not an accurate cost proposition, but it does give us an estimate of COBI value which I classify as good.
 
 ### Recommendation
 
+The final words should be my recommendations and here's what I think about COBI building blocks and in particular, the M60 Patton set:
+
 1. The build was at times a fun challenge and I would not recommend this model for those younger than 9 or 10.
-2. This model is an accurate recreation of the M60 with enough small touches to make any military modeler, or armor soldier, happy.
+2. This model is an accurate recreation of the M60 with enough detail touches to make any military modeler, or armor soldier, happy.
 3. Proportions feel correct with a main gun that moves up and down.
 4. The turret and the copula both rotate and the driver's hatch even opens!
 5. The tracks look and feel great when rolling the model.
 6. The inclusion of an ammo box was appreciated as was the extra detail for the bustle rack.
-7. The only things missing is the ability to place the action figures inside the model. They will not fit and the tank model is not designed to accommodate them.
-8. My final recommendation? First, for now, LEGO will not build military models. If you want them though, based on my experience with this model, COBI is the brand to go with if you can forgive sprue visibility. Other than this one issue, COBI has a lot of positives such as; no stickers, element quality, fit, build instructions, attention to model accurate detail, and cost.
-9. Will I buy more COBI models? I already have and will soon put together and M113 Armored Personnel Carrier (another armored vehicle from my Army days). I'll probably follow this build up with at least the [M1A2 Abrams](https://amzn.to/3o7EZ5r) to fill out my Army career in building block. COBI doesn't offer a C130; however, if they do, I'll buy one to cover my Air Force enlisted days.
-10. In the end, I feel like my colleague at work has taken me down a military building block rabbit hole. There are many other COBI military models that interest me. We'll have to see how it goes.
-11. Want me to share my M113 building experience or other COBI builds? Let me know in the comments below.
+7. The only thing missing is the ability to place the action figures inside the model. They will not fit and the tank model is not designed to accommodate them.
+8. My final recommendation? As long as LEGO will not sell military models, based on my experience, COBI is the brand to go with if you can forgive the sprue removal visibility. Other than this one issue, COBI has a lot of positives such as; no stickers, element quality, fit, build instructions, attention to model accurate detail, and cost.
+9. Will I buy more COBI models? I already have and will soon put together an M113 Armored Personnel Carrier (another armored vehicle from my Army days). I'll probably follow this build up with at least the [M1A2 Abrams](https://amzn.to/3o7EZ5r) to fill out my Army career in building block.
+10. COBI doesn't offer a C130 cargo plane; however, if they do, I'll buy one to cover my Air Force enlisted days.
+11. In the end, I feel like my colleague at work has taken me down a military building block rabbit hole. There are many other COBI military models that interest me. We'll have to see how it goes and how deep it hits my pocket book.
+12. Want me to share my M113 building experience or other COBI builds? Let me know by leaving a comment below.
 
 ## Final Thoughts
 
 After I film videos, there are always additional thoughts that pop up. Here are the thoughts for this video:
 
-1.
+1. Producing this video was fun. I hope I captured my story, a comparison of the two brands, and the build.
+2. I had to kill a lot of my darlings to get this video in the 20 minute time frame. There's a lot of video on the "cutting room floor" as they say. During my edit, I felt some was self-serving and didn't add value or background. Let me know how I did.
+3. Can't wait to up the M113 together. Once that one's complete, I'll put both of them in my office at the college. They will make great conversation pieces and unfortunately for the visitor, will set me down a long path of telling "war stories!"
 
 ## Join the Fun
 
@@ -328,6 +335,9 @@ Thanks for reading and watching and if you are so inclined, please let others kn
 🕹️ retroCombs OUT!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTQwNTg0NSwtMTMyOTQ0Nzk3MiwtMT
-A2NjIxOTI2NV19
+eyJoaXN0b3J5IjpbLTY2MTkxOTY2OSwtNzY5Mzk1NTk5LC00NT
+U2NzM4NTQsLTE4OTA1MDc1MDUsLTE4MTIzNTg4MjEsLTIxMDkw
+NTEzMzEsLTE1MTE0MTQ2MjAsLTI1OTIyODk2MSwtNDkzMjk3Nj
+Q4LC0xNzYwMTc5MTI2LC04MjE5MTg1NDAsLTE0MjI4MDk4MzQs
+LTkyMTQwNTg0NSwtMTMyOTQ0Nzk3MiwtMTA2NjIxOTI2NV19
 -->
