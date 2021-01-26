@@ -129,7 +129,6 @@ Before we build the model, let's take a look at the packaging:
 ### View COBI Build Images
 
 This video uses many images that you may want to review individually. I've included my COBI M60 Google Photos album below to peruse:
-
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/2PYxSCqkQreZhRML9"
@@ -228,7 +227,6 @@ This video uses many images that you may want to review individually. I've inclu
   <object data="https://lh3.googleusercontent.com/2_-WZPyA4M7jXsLCCujQkUTWQA0XkndV_Gr49nU9L5yJL5KJCjTIrKDwN6e1_QAVBozsczsy2U7plqEYYYlEf_PXsrsidSdpjgZIHLcUcovHcdpnZouVijPdUdvccJmQMBvkb93dWd8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/ociR4F5RHmMx-nWVqSQNk2B5gfIEwlgorPRnkmYLmCnTyytOnRLmNJ9qnUMnqvpkZ4HeppUviv-S7nT5M_UMxSeQ0ybeV0o1AVhqXMZVtnAk92vI6mR5agQ2c5JVRCACQNDtcjuSqnY=w1920-h1080"></object>
 </div>
-
 ### Open the Box
 
 As is customary in my videos, let's do a quick open the box and see what's inside:
