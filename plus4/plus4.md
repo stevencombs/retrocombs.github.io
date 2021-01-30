@@ -48,6 +48,7 @@ In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/
 5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
 6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
 7. [Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
+8. [Chapter 7 - Using Graphics and Color](/plus4/users-manual/p4um-chapter-7.pdf)
 
 ## Key to Keys
 
@@ -67,7 +68,7 @@ Key  | Description   | Key  | Description
 
 ## Links to Episodes
 
-Below is a link to each blog post in the series. All Amazon links are affialiate links. Thanks for supporting the blog and the YouTube channel!
+Below is a link to each blog post in the series. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
 
@@ -136,17 +137,23 @@ Each blog post contains the companion YouTube video and most include links to it
     * [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
     * [THEVIC20 - U.K. Listing](https://amzn.to/3l7hZlB)
 
+8. [Chapter 7 - Using Graphics and Color](/plus4-8)
+
+    Our first significant foray into custom graphics, besides PETSCII, on the Plus/4 begins in this chapter; _Using Graphics and Color_. The Plus/4 and its sibling, the C16 did not include sprites or other custom chips to enhance graphics; however, it did include a custom BASIC commands not found on the VIC-20 or C64. The extra graphics commands and additional graphics modes make the Plus/4 whole lotta fun if you want to draw on your computer using a command language.
+
+    * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+
 ## Companion Disk Image## Supplemental Disk Image (Coming Soon)
 
-As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image thatbelow contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
+As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image that below contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 
-[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2020-11-01 - Coming Soon
+[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-01-28
 
 I use the following file name convention to make it easy to locate specific programs:
 
 <img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLLC1P2-5RETROCOMBS.PRG`
 
-* `02C#` - Twhere # is the chapter number
+* `02C#` - where # is the chapter number
 * `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.P#` - where # is the page number where the program is first referenced in the user's manual
 * `NAME` - my self assigned name for the program
 
