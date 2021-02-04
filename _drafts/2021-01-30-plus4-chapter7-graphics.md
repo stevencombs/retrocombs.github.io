@@ -131,34 +131,35 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 ## Graphics Characters
 
-1. You will notice on the Plus/4 keyboard that not only does the keyboard allow for lower and upper case characters, but there's a whole host of graphic characters available on each letter key, `@`, `-`, and `*`.
-2. In upper-case mode, press and hold the `⇧` (right character) or `C=` (left character) key, followed by one of the keys listed above to place graphics characters on the screen. The characters are know as PETSCII (similar to ASCII on later computers) and each one can be displayed using the `PRINT CHR$()` command if you know the right address.
+You will notice on the Plus/4 keyboard that not only does the keyboard allow for lower and upper case characters, but there's a whole host of graphic characters available on each letter key, `@`, `-`, and `*`.
 
-    > **PETSCII** (PET Standard Code of Information Interchange), known as CBM ASCII, is the character set used in Commodore Business Machines (CBM)'s 8-bit home computers, starting with the PET from 1977 and including the C16, C64, C116, C128[1], CBM-II, Plus/4, and VIC-20. - [Wikipedia](https://en.wikipedia.org/wiki/PETSCII).
+In upper-case mode, press and hold the `⇧` (right character) or `C=` (left character) key, followed by one of the keys listed above to place graphics characters on the screen. The characters are know as PETSCII (similar to ASCII on later computers) and each one can be displayed using the `PRINT CHR$()` command if you know the right address.
 
-2. The character set expands when both shifted and unshifted modes are used. You can view a chart with PETSCII codes at [https://sta.c64.org/cbm64pet.html](https://sta.c64.org/cbm64pet.html).
-3. The majority of PETSCII codes have been absorbed into ASCII; however, they can be difficult to find on modern keyboards. This makes a Commodore 8-bit computer much more adept at creating BASIC programs with animated characters.
-3. I wrote a BASIC program that will display PETSCII characters on the screen. `DLOAD` or type the program and then `RUN` the program. The screen will clear and the PETSCII characters will fill the top of the screen. and then tap the `⇧` + `C=` keys to cycle between upper and lower-case modes as shown in the images below the code. Right-side graphics characters are available in both upper and lower-case modes. Left-side characters include lines and angles used to draw tables and charts.
+**PETSCII** (PET Standard Code of Information Interchange), known as CBM ASCII, is the character set used in Commodore Business Machines (CBM)'s 8-bit home computers, starting with the PET from 1977 and including the C16, C64, C116, C128[1], CBM-II, Plus/4, and VIC-20. - [Wikipedia](https://en.wikipedia.org/wiki/PETSCII).
 
-    ```basic
-    5 SCNCLR
-    10 FOR T =33 TO 127 : PRINT CHR$(T); : NEXT T
-    20 FOR T = 160 TO 255: PRINT CHR$(T); : NEXT T
-    ```
-    **💾 On Disk:** `07 PETSCII`
+The character set expands when both shifted and unshifted modes are used. You can view a chart with PETSCII codes at [https://sta.c64.org/cbm64pet.html](https://sta.c64.org/cbm64pet.html).
 
-    ![Shifted](/plus4/images/petscii-shifted-lower-case.png)
-    ![Un-shifted](/plus4/images/petscii-unshifted-upper-case.png)
+The majority of PETSCII codes have been absorbed into ASCII; however, they can be difficult to find on modern keyboards. This makes a Commodore 8-bit computer much more adept at creating BASIC programs with animated characters.
 
-4. Use combinations of the PETSCII characters to create lines, shapes, environments, characters, and even animations as we will cover next.
+I wrote a BASIC program that will display PETSCII characters on the screen. `DLOAD` or type the program and then `RUN` the program. The screen will clear and the PETSCII characters will fill the top of the screen. and then tap the `⇧` + `C=` keys to cycle between upper and lower-case modes as shown in the images below the code. Right-side graphics characters are available in both upper and lower-case modes. Left-side characters include lines and angles used to draw tables and charts.
 
-    > When you "draw" images on the screen using PETSCII, holding down the `⇧` or `⇧-Lock` while drawing and then following each line with `⏎` will not yield a syntax error. This is a great tip for prototyping.
+```basic
+5 SCNCLR
+10 FOR T =33 TO 127 : PRINT CHR$(T); : NEXT T
+20 FOR T = 160 TO 255: PRINT CHR$(T); : NEXT T
+```
+**💾 On Disk:** `07 PETSCII`
+
+![Shifted](/plus4/images/petscii-shifted-lower-case.png)
+![Un-shifted](/plus4/images/petscii-unshifted-upper-case.png)
+
+Use combinations of the PETSCII characters to create lines, shapes, environments, characters, and even animations as we will cover next.
+
+> **NOTE:** When you "draw" images on the screen using PETSCII, holding down the `⇧` or `⇧-Lock` while drawing and then following each line with `⏎` will not yield a syntax error. This is a great tip for prototyping screen designs.
 
 ## Character Animation
 
-1. You can use BASIC and PETSCII to create both images and animations. The three programs below create animations like traditional animation cels one-by-one using the `PRINT` command.
-
-    > Since modern computers and blog systems don't support all Commodore control characters, some code examples in this chapter are screenshots from the Plus/4 VICE emulator.
+You can use BASIC and PETSCII to create both images and animations. The three programs below create animations like traditional animation cels one-by-one using the `PRINT` command.
 
 ### PULSE BALL PROGRAM
 Need a visual for an alarm, this program will perfectly and you can modify the speed of the pulse by changing the value of `L`.
@@ -197,13 +198,13 @@ The two examples above place animations on the screen that stay in the same loca
 ```
 5 FOR A= 0 TO 30 : REM CHANGE A BUT NOT > 34
 10 SCNCLR
-20 PRINT TAB(A)"╭╮╭╮"
-30 PRINT TAB(A)"╯╰╯╰"
-40 FOR L= 1 TO 100 : NEXT L
+20 ? TAB(A)"╭╮╭╮"
+30 ? TAB(A)"╯╰╯╰"
+40 FOR L = 1 TO 100 : NEXT L
 50 SCNCLR
-60 PRINT TAB(A)"╮╭╮╭"
-70 PRINT TAB(A)"╰╯╰╯"
-80 FOR L= 1 TO 100 : NEXT L
+60 ? TAB(A)"╮╭╮╭"
+70 ? TAB(A)"╰╯╰╯"
+80 FOR L = 1 TO 100 : NEXT L
 90 NEXT A
 ```
 **💾 On Disk:** `07 INCH WORM`
@@ -249,7 +250,7 @@ The table below displays all `COLOR` command variables:
 |                 | 15 Dark Blue    |             |
 |                 | 16 Light Green  |             |
 
-> Multi-color modes will be discussed in the high resolution graphics section.
+> **NOTE:** Multi-color modes will be discussed in the [Multi-Color Graphics](#multi-color-graphics) section.
 
 ### PLUS/4 COLORS
 The program below will display all Commodore Plus/4 colors as shown in the image below:
@@ -258,7 +259,7 @@ The program below will display all Commodore Plus/4 colors as shown in the image
 
 ```
 5 SCNCLR
-10 COLOR 0,7,7
+10 COLOR 0, 7, 7
 20 FOR M = 0 TO 7
 30 FOR N = 1 TO 2
 40 FOR L = 1 TO 15 : REM CHANGE FROM 16 IN MANUAL
@@ -277,11 +278,130 @@ The program below will display all Commodore Plus/4 colors as shown in the image
 
 ## High Resolution Graphics
 
+The Plus/4 screen contains 25 rows of 40 characters each for a total of 1000 character positions (25 x 40 = 100). Each character is described by a grid of 8 x 8 pixels, or 64 pixels. Therefore, the full-screen resolution of a Plus/4 screen is 320, 200 and 64,000 pixels. So far, we've controlled each 8 x 8 grid only. In this section we will break that grid into the large screen and control all pixels individual to access "high resolutions graphics mode."
 
+While you may be thinking "cool, now I can a single color for each pixel", here's the caveat. The Plus/4 will only all you to access two colors in each 8 x 8 character. Remember the multi-color option in the `COLOR` command? You can use this to activate high resolution graphics mode to provide four colors per character; however, this comes at the expense of screen resolution. More information in [Multi-Color Graphics](#multi-color-graphics) section.
+
+### GRAPHICS
+
+This BASIC program will create a series of intersecting lines using the `GRAPHIC` and `DRAW` commands to activate the high resolution areas of the screen as shown in the image below:
+
+![Graphics](/plus4/images/graphics.png)
+
+```
+10 COLOR 0, 1
+20 GRAPHIC 1, 1
+30 FOR L = 2 TO 16
+40 COLOR 1, L, 2
+50 DRAW 1, 0, L * 12 TO 318, L * 12
+60 DRAW 1, L * 18, 0 TO L * 18, 199
+70 NEXT L
+80 FOR L = 1 TO 5000 : NEXT
+90 COLOR 1, 2, 3
+100 GRAPHIC 0
+```
+**💾 On Disk:** `07 GRAPHICS`
+
+Notice that the color of lines change as they intersect other lines due to the fact that each character can only contain two colors and the black background takes one of those colors.
+
+If you want to experiment with graphic commands in immediate mode, type `GRAPHIC 2, 1` followed by `⏎`. The screen will go blank and the `READY.` prompt will appear at the fourth line from the bottom of the screen as shown in the image below.
+
+![Graphic Mode](/plus4/images/graphic-mode.png)
+
+In this mode, you have the bottom five lines for commands and the top of the screen for high-res display. `GRAPHIC 1, 1` will put the entire screen in high-res mode; however, you will type blindly.
+
+You can switch between modes using `GRAPHIC 0` (text) and `GRAPHIC 2` (high-res). Switching does not remove what was on the previous screen unless you include `,1` at the end of the command. Below is a table that lists the various `GRAPHIC` command options:
+
+| Effect               | Clear         |
+|:---------------------|:--------------|
+| 0 Text               | 0 Don't Clear |
+| 1 High-res           | 1 Clear       |
+| 2 High-res + text    |               |
+| 3 Multi-color        |               |
+| 4 Multi-color + text |               |
+
+> **TIP:** The `SCNCLR` command will clear the high-res mode.
 
 ## Points, Lines, and Labels
 
+Now the fun begins. Let's use BASIC commands to draw shapes in high-res mode. Type `GRAPHIC2,1:DRAW1,0,0` and hit `⏎`. Look very closely at the top left corner of the screen. You just drew your first pixel (dot) on the Plus/4. Every line begins at the beginning.
 
+Let's try another one. Type `DRAW1,1,1 TO 100,100` and hit `⏎`. A line is drawn that connects to our dot (at coordinates X=0 and Y=0) beginning at X=1 and Y=1 to the end of the line at X=100 and Y=100. In theory (math that is) this should be a 45° line; however, because of the 8x8 character matrix, it's distorted.
+
+> **REMEMBER** Unlike an axis in algebra or geometry, coordinates 0,0 is the upper left-hand corner, not the lower-left hand corner and positive values down and to the right.
+
+Want to draw a line that continues from the previous? No need to remember or type the ending coordinates. Type `DRAW 1 to 150,50` and hit `⏎`. A new line, using absolute coordinates, will be drawn headed toward the upper right-hand corner as shown in the image below:
+
+![Continue the previous line](/plus4/images/continue-line.png)
+
+Want to fill in the triangle? Type `DRAW 1 TO 0,0` and hit `⏎`. We will learn how we can fill in that area in the [Squares, Circles, Polygons, and Painting](#squares-circles-polygons-and-painting) section below.pa
+
+Let's break down the `DRAW` command syntax:
+
+`DRAW` *color*, *column*, *row* `TO` *column*, *row*
+
+Omitted everything from `TO` on , will draw a single dot.
+
+There are two options for *color*. `0` equals the background color. `1` equals the forground color established using the last know value or by the COLOR command.
+
+Time for a longer example.
+
+### SINE CURVE
+
+Let's use our new found graphics commands, combined with some math (or maths for my European visitors), to create a high-res representation of the sine function; the [sine curve (or wave)](https://en.wikipedia.org/wiki/Sine_wave) as shown in the image below:
+
+![Graphics](/plus4/images/sine-wave.png)
+
+```
+10 color 0, 1
+20 color 1, 2
+30 graphic 1, 1
+40 locate 0,100
+50 for x = 1 to 319
+60 y = int(100+99*sin(x/20))
+70 draw 1 to x, y
+80 next x
+90 for l = 1 to 5000 : REM PAUSES SCREEN
+100 next l
+110 graphic 0
+```
+**💾 On Disk:** `07 SINE WAVE`
+
+> **NOTE:** This is the first indication of how slow 8-bit computers were when running BASIC programs. Modern computers will spit out the results of programs like this one almost immediately after hitting the `⏎` key.
+
+Without clearing the screen and immediately after running the program, replace line 70 by typing:
+
+```basic
+70 DRAW 1, X, Y
+RUN
+```
+
+The program will create the curve using points instead of lines as shown below:
+
+![Graphics](/plus4/images/sine-wave-points.png)
+
+I like this version better, so keep the program in memory before continuing to the next section.
+
+## The CHAR Command
+
+A graph alone can speak volumes; however some graphs require characters to the full story or to orient users. Luckily, the Plus/4 allows us to overlay characters on top of our graphs.
+
+### CHARACTERS ON GRAPH
+
+Using the program from the previous section, add the following lines to add characters to our graph:
+
+```basic
+81 char 1, 0, 0, "graph of" : char 1, 0, 1, "formula"
+82 char 1, 0, 2, "y=sin(x)"
+83 draw 1, 0, 100 to 319, 100, 189, 0 to 189, 199
+84 char 1, 0, 12, "x-axis" : char 1, 22, 0, "y"
+85 char 1, 22, 2, "a" : char 1, 22 , 3, "x"
+86 char 1, 22, 4, "t" : char 1, 22, 5, "s"
+```
+
+The result is a graphic with character labels as shown in the image below:
+
+![Graphics](/plus4/images/sine-wave-labels.png)
 
 ## Squares, Circles, Polygons, and Painting
 
@@ -305,4 +425,4 @@ Help make this series better! Post feedback, questions, and ideas. Let me know i
 
 Thanks for watching and if you are inclined, please let other Commodore fans know about the series, my blog, and the YouTube channel, by sharing these videos using #retroCombs.
 
-🕹️ retroCombs OUT!
+🕹️ retroCombs, OUT!

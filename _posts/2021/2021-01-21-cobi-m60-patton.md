@@ -30,6 +30,8 @@ In the video below, I share my COBI M60 Patton build and compare the COBI brand 
 
 ***
 
+<font color="#006699">**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**</font>
+
 ## Table of Contents
 
 <!-- TOC -->
@@ -330,12 +332,13 @@ Help make this content better! Leave your comments and thoughts below or in the 
 
 Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
 
-🕹️ retroCombs OUT!
+🕹️ retroCombs, OUT!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTkxOTY2OSwtNzY5Mzk1NTk5LC00NT
-U2NzM4NTQsLTE4OTA1MDc1MDUsLTE4MTIzNTg4MjEsLTIxMDkw
-NTEzMzEsLTE1MTE0MTQ2MjAsLTI1OTIyODk2MSwtNDkzMjk3Nj
-Q4LC0xNzYwMTc5MTI2LC04MjE5MTg1NDAsLTE0MjI4MDk4MzQs
-LTkyMTQwNTg0NSwtMTMyOTQ0Nzk3MiwtMTA2NjIxOTI2NV19
+eyJoaXN0b3J5IjpbODk4NTQ1NTgyLC02NjE5MTk2NjksLTc2OT
+M5NTU5OSwtNDU1NjczODU0LC0xODkwNTA3NTA1LC0xODEyMzU4
+ODIxLC0yMTA5MDUxMzMxLC0xNTExNDE0NjIwLC0yNTkyMjg5Nj
+EsLTQ5MzI5NzY0OCwtMTc2MDE3OTEyNiwtODIxOTE4NTQwLC0x
+NDIyODA5ODM0LC05MjE0MDU4NDUsLTEzMjk0NDc5NzIsLTEwNj
+YyMTkyNjVdfQ==
 -->

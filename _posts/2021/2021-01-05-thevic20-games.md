@@ -22,6 +22,8 @@ THEVIC20(C64) it is a divisive Commodore emulator. There are those, like me, who
 
 Before I share additional thoughts about my time experiencing many of these games for the first time, please watch both parts 1 and 2 below.
 
+<font color="#006699">**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**</font>
+
 ## Watch the Video: _THEVIC20 and THEC64 VIC-20 Games (Part 1)_
 
 In the video below, I play games Adbductor through Gridrunner.
@@ -114,7 +116,7 @@ Help make this series better! Post feedback, questions, and ideas. Leave your co
 
 Thanks for watching and if you are inclined, please let other Commodore fans know about the series by sharing my blog posts and videos using the hashtag, [#retroCombs](https://twitter.com/search?q=%23retrocombs&src=typed_query).
 
-🕹️ retroCombs OUT!
+🕹️ retroCombs, OUT!
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTk0NzI3ODM4NSwtMjAwMjQzMjM4OCwtMj

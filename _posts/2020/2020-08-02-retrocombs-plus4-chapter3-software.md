@@ -238,7 +238,7 @@ Help make this series better! Post feedback, questions, and ideas. Let me know i
 
 Thanks for watching and if you are so inclined, please let other Commodore fans know about the series by sharing these videos using #retroCombs.
 
-🕹️ retroCombs OUT!
+🕹️ retroCombs, OUT!
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODUwNDc5OTcyLC0xNDc4Nzk5NDk4LDE0MD

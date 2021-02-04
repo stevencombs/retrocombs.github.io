@@ -80,7 +80,7 @@ That's it for now. Check back for additions (which will have time stamps) as I c
 
 🎅 Wishing everyone a wonderful Christmas and Happy Holidays.
 
-🕹️ retroCombs OUT!
+🕹️ retroCombs, OUT!
 
 # Music in this episode:
 

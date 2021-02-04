@@ -72,4 +72,4 @@ Help make this post better! Share your feedback, questions, and ideas. Leave you
 
 Thanks for reading and watching and if you are so inclined, please share this video with the hashtag #retroCombs.
 
-🕹️ retroCombs OUT!
+🕹️ retroCombs, OUT!
