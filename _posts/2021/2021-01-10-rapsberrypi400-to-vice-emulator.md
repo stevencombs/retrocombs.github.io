@@ -27,7 +27,7 @@ As readers and viewers know, I've taken a look at several devices this past year
 
 This companion blog post will roughly outline the steps needed to turn the Raspberry Pi 400 into a Commodore VICE emulator extraordinaire! Since I use a [Manjaro Linux](https://manjaro.org/), the step-by-step might not be helpful for Mac and Windows users; however, a broad outline of the process should suffice for most reasonably tech savvy readers.
 
-<font color="#006699">**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**</font>
+<font color="#006699">☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!</font>
 
 Below, I include a table of contents so you can jump around to various sections. If there's something missing that you need to complete your own project, drop comments below this post or in the [YouTube video](link).
 

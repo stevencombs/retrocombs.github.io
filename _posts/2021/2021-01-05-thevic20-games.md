@@ -22,7 +22,7 @@ THEVIC20(C64) it is a divisive Commodore emulator. There are those, like me, who
 
 Before I share additional thoughts about my time experiencing many of these games for the first time, please watch both parts 1 and 2 below.
 
-<font color="#006699">**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**</font>
+<font color="#006699">☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!</font>
 
 ## Watch the Video: _THEVIC20 and THEC64 VIC-20 Games (Part 1)_
 

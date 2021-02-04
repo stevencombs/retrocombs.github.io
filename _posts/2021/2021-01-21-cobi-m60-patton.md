@@ -30,7 +30,7 @@ In the video below, I share my COBI M60 Patton build and compare the COBI brand 
 
 ***
 
-<font color="#006699">**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**</font>
+<font color="#006699">☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!</font>
 
 ## Table of Contents
 
