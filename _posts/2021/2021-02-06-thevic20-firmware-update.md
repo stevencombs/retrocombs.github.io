@@ -43,11 +43,11 @@ I embed the video markers below in the video so you can jump around to specific 
 
 ## Video Errata (as of 2021-02-06)
 
-1. The correct reply to the the firmware update prompt [01:21] is not *yes*. It is *Apply*.
+1. The correct reply to the firmware update prompt [01:21] is not *yes*. It is *Apply*.
 
 ## Links Mentioned in this Episode:
 
-Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
+Below are the links to the entire Retro Games Commodore series. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [THEC64](https://amzn.to/2KO2lzJ)
 2. [THEC64 mini](https://amzn.to/38aV3P7)
