@@ -74,7 +74,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 ## Video Outline
 
-Before I begin, I have to get the dog off my instructions! (video)
+Before I begin, I have to get the dog off my instructions!
 
 ### Why this video?
 
@@ -82,18 +82,18 @@ Before I begin, I have to get the dog off my instructions! (video)
 
 Below are the reasons I choose to produce this video, which is a far cry from my regular [gadgets](https://www.youtube.com/playlist?list=PLRVBh2hjFTomPAjirqjNzqTKep-O-QZUW) and [retro-computing](https://www.youtube.com/playlist?list=PLRVBh2hjFTolfr0_s80Z_Z5bawxWkfRRW) content:
 
-1. A colleague at work mentioned COBI building blocks and then showed me his [U-BOOT U-48 Submarine model](https://amzn.to/366H6k6). (Image)
-2. He purchased because he and I often lamented that LEGO won't create military models (he's a modeler extraordinaire); although they will create Star Wars and have in the past offered the WWI Sopwith Camel and Red Baron plane models. (Image)
+1. A colleague at work mentioned COBI building blocks and then showed me his [U-BOOT U-48 Submarine model](https://amzn.to/366H6k6).
+2. He purchased because he and I often lamented that LEGO won't create military models (he's a modeler extraordinaire); although they will create Star Wars and have in the past offered the WWI Sopwith Camel and Red Baron plane models.
 3. I'm a LEGO fan from way back, an adult fan of LEGO (AFOL), and admittedly a LEGO snob. [LEGO clone brands](https://en.wikipedia.org/wiki/Lego_clone) such as MEGA-Blocks, Kre-O, and Best-Lock were always seen as inferior brands fraught with legal troubles, inconsistent color, loose fits, shoddy building instructions, and poor click compatibility.
-4. I love LEGO so much that in the early 2000s, My wife and I hosted, a then popular, podcast call Bricks in my Pocket. (Image)
-5. During that time, I was selected to serve as a cycle 2 LEGO Ambassador. (Image)
+4. I love LEGO so much that in the early 2000s, My wife and I hosted, a then popular, podcast call Bricks in my Pocket.
+5. During that time, I was selected to serve as a cycle 2 LEGO Ambassador.
 6. Despite all this, the COBI submarine model spoke to me. Could a clone brand ever appeal to me?
 7. I held the submarine model in my hands. It was heavy, the blocks ha a tight fit, the price was right, and my colleague told me they had a [M60 Patton Main Battle Tank](https://amzn.to/3o1UkEB) available. He was knowingly appealing to my inner armor officer.
 8. That's right, I'm a retired Army officer who began his Army career as an Armor officer in the late 1980s. The first armored vehicle I began training n was an M60A3.
 9. Even beyond retirement, I'm a huge fan of military and especially armor history (image of books).
 10. Put all this together, and I immediately let go of my LEGO snobbery, pulled up Amazon and made the purchase. And, I wasn't content with only the M60; I added the [M113 Personnel Carrier](https://amzn.to/396QENL) to my shopping cart. (Image)
 11. Both models are a part of the [historical Vietnam model collection](https://amzn.to/3pedh8z).
-12. Will these models meet my building block expectations? Let's find out. (Intro Video)
+12. Will these models meet my building block expectations? Let's find out.
 
 ### Who is COBI?
 
@@ -124,7 +124,7 @@ Before we build the model, let's take a look at the packaging:
 3. The number of pieces for this model is 605 elements and 2 figurines; an "American Officer" and an "American Soldier".
 4. No stickers is a huge win for me. I've not purchased LEGO sets because they include stickers. It always seems like a "cheap out" instead of being "pad printed" as COBI highlights on their box.
 5. We even get technical information for not only the M60, but the included M16. This is the only place you find this information. Unfortunately, COBI doesn't include any additional details in the building instructions.
-6. Scan the QR code with your phones camera and it takes you directly to the COBI model page, not their main page. That's a nice feature because on their model page you'll find a complete description and history of the M60, model specifications, a virtual instruction manual, owner comments, and related products. (video)
+6. Scan the QR code with your phones camera and it takes you directly to the COBI model page, not their main page. That's a nice feature because on their model page you'll find a complete description and history of the M60, model specifications, a virtual instruction manual, owner comments, and related products.
 
 ### View COBI Build Images
 
@@ -238,7 +238,7 @@ As is customary in my videos, let's do a quick open the box and see what's insid
 
 No model is any good if you can't put it together; and LEGO has the best instructions. They continue to evolve and get better over time and as [someone who has created build instructions](https://www.stevencombs.com/get-the-dock), I can attest to how much time is involved. Let's see how COBI's instructions rate:
 
-1. Paper quality is on par with LEGO. Pages are thick and paper is high quality glossy stock. (video)
+1. Paper quality is on par with LEGO. Pages are thick and paper is high quality glossy stock.
 2. Looking inside we find themed background pages, numbered steps, a parts list for each step, and a parts placement with previous layers grayed out to highlight part placement for the current step.
 3. In the back of the instructions is a complete bill of materials elements parts listing. The inclusion of what page you will find what pieces would be nice and is not something found in LEGO instructions either.
 4. I appreciate the listing of models I might like after building this one. It does make me want to visit their website and explore what they have to offer.
@@ -259,7 +259,7 @@ Now it's time to build the M60 Patton and I was admittedly excited to dive in. H
 1. Take a long look at upper-left hand corner of the first page. COBI must have learned lessons from past models and included a handy, "NOTICE THE DIFFERENCE WARNING" that I failed to observe and therefore did in fact miss the difference parts A, B, and C. Because of this, I had a gotcha that later required me to tear the model down several layers. Read the instructions, Steven!
 2. Next I wanted to compare the COBI bricks to the LEGO bricks. Look at a plate, I immediately noticed the COBI name on each stud; which is eerily reminiscent of the LEGO brand and font.
 3. Looking at the back of this larger plate, I noticed was a marked difference from LEGO; however, things looked more normal with smaller bricks and plates as you can see here.
-4. Enough of the branding and comparison discussion. Let's get to building. (videos and music)
+4. Enough of the branding and comparison discussion. Let's get to building.
 
 ### Variety of Elements
 
@@ -276,10 +276,10 @@ As I was building, I noticed an interesting variety of building elements:
 
 What about COBI quality control?
 
-1. I measured the weight of a brick and a plate in my non-scientific quality test. I was pleased to find that they were almost identical for like parts. (video)
+1. I measured the weight of a brick and a plate in my non-scientific quality test. I was pleased to find that they were almost identical for like parts.
 2. Next I made a quick parts fit comparison between COBI and LEGO elements. The fit was tight and the click was satisfying. As far as fit and weight goes, you'd be hard pressed to tell the difference between the two other than the name on the stud.
 4. In hindsight, I should have compared fit clearance; however, that would have taken time away from building. I will say that fit and clearance "appears" to be similar to LEGO.
-4. However, there was an issue with the COBI elements that hindered the final product appearance; the runner, or sprue, cutoffs are visible on the model after assembly. You don't see these on the box; they've probably been digitally removed; however, they are noticeable all over my model. Take a look! (images)
+4. However, there was an issue with the COBI elements that hindered the final product appearance; the runner, or sprue, cutoffs are visible on the model after assembly. You don't see these on the box; they've probably been digitally removed; however, they are noticeable all over my model. Take a look!
 5. There was another QC issue for a plate. I've never seen a LEGO brick pass through QC that had studs. What happened here? Luckily this was the only plate with issues; however, in all my years of building LEGO sets, I've never seen an element marred like this plate.
 6. While my weight exercise revealed similar results, this part could tell a different manufacturing story. On this element there appears to be a thin top layer that lets the form of the inside of the brick bleed through if the light hits the element just right. Again, not something I've seen with LEGO bricks.
 7. Here's an element where an engineer made the unfortunate decision to locate the sprue right on top of a stud. Thankfully, this part is embedded within the model and not seen after the build, but if you want to use for your own builds on a top layer or studs not on top (SNOT) build, this would be annoying.
@@ -333,10 +333,10 @@ Thanks for reading and watching and if you are so inclined, please let others kn
 🕹️ retroCombs, OUT!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NTQ1NTgyLC02NjE5MTk2NjksLTc2OT
-M5NTU5OSwtNDU1NjczODU0LC0xODkwNTA3NTA1LC0xODEyMzU4
-ODIxLC0yMTA5MDUxMzMxLC0xNTExNDE0NjIwLC0yNTkyMjg5Nj
-EsLTQ5MzI5NzY0OCwtMTc2MDE3OTEyNiwtODIxOTE4NTQwLC0x
-NDIyODA5ODM0LC05MjE0MDU4NDUsLTEzMjk0NDc5NzIsLTEwNj
-YyMTkyNjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NTI5NDk4MDIsODc2MDU3ODQwLDg5OD
+U0NTU4MiwtNjYxOTE5NjY5LC03NjkzOTU1OTksLTQ1NTY3Mzg1
+NCwtMTg5MDUwNzUwNSwtMTgxMjM1ODgyMSwtMjEwOTA1MTMzMS
+wtMTUxMTQxNDYyMCwtMjU5MjI4OTYxLC00OTMyOTc2NDgsLTE3
+NjAxNzkxMjYsLTgyMTkxODU0MCwtMTQyMjgwOTgzNCwtOTIxND
+A1ODQ1LC0xMzI5NDQ3OTcyLC0xMDY2MjE5MjY1XX0=
 -->
