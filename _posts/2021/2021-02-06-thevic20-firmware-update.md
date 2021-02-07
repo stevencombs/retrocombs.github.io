@@ -24,9 +24,26 @@ In the video below, I demonstrate the process to update the MEGA65 (Dev Kit), co
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/tmS0Lidko-U" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+## Video Markers
+
+I embed the video markers below in the video so you can jump around to specific content. Of course, I hope you watch the entire video!
+
+[00:00] Opening
+[00:12] FAST LOAD Bumper
+[00:22] Download Firmware
+[00:58] Update THEVIC20
+[01:40] What's new
+[02:58] City Crusher (VIC-20)
+[03:35] Mine Sweep (VIC-20)
+[04:11] Blue Star (VIC-20)
+[04:42] Hessian (C64)
+[05:48] PET Snake Redux (C64)
+[06:11] Uridium (C64)
+[06:45] End Screen
+
 ## Video Errata (as of 2021-02-06)
 
-1. The correct reply to the the firmware update prompt is not *yes*. It is *Apply*.
+1. The correct reply to the the firmware update prompt [01:21] is not *yes*. It is *Apply*.
 
 ## Links Mentioned in this Episode:
 
@@ -39,10 +56,9 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 ## Final Thoughts
 
 1. If you need more detailed information on how to update these devices, check out [this FAST LOAD video](https://youtu.be/05VWxCgaZBk).
-2. I'd still like to know how games are selected for the carousel. The addition of PET Snake is puzzling.
+2. I'd still like to know how games are selected for the carousel. The addition of PET Snake is puzzling. Is PET a nice homage to the Commodore PET? I hope so!
 3. I could not figure out how joystick port swapping works. Drop a comment if you know how to use this feature.
 4. REUs! Can you say GEOS? I'd love to see if I can get this working since REU and multi-disk software now works.
-
-![Video Thumbnail](https://i9.ytimg.com/vi_webp/tmS0Lidko-U/mqdefault.webp?time=1612655100000&sqp=CPzT_IAG&rs=AOn4CLDD-xq-UBLnIq3GvZSnPzTNteBE-g)
+5. Thank you Retro Games for continuing to add features to these devices. This will add longevity to our devices. I can't wait to see what you have in store for us in the next update.
 
 🕹️ retroCombs, OUT!
