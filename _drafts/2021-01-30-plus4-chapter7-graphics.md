@@ -93,16 +93,13 @@ In the video below, I work through Chapter 6 of the user's manual.
 
 ## Video Errata
 
-None as of 2020-11-25.
+None as of 2021-02-08.
 
 ## Links Mentioned in this Episode:
 
 Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
-2. [Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
-3. [MEGA 65 Project](https://mega65.org/)
-4. [MEGA 65 Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
 
 ## Key to Keys
 
@@ -150,8 +147,8 @@ I wrote a BASIC program that will display PETSCII characters on the screen. `DLO
 ```
 **💾 On Disk:** `07 PETSCII`
 
-![Shifted](/plus4/images/petscii-shifted-lower-case.png)
-![Un-shifted](/plus4/images/petscii-unshifted-upper-case.png)
+![Shifted](https://www.stevencombs.com/plus4/images/petscii-shifted-lower-case.png)
+![Un-shifted](https://www.stevencombs.com/plus4/images/petscii-unshifted-upper-case.png)
 
 Use combinations of the PETSCII characters to create lines, shapes, environments, characters, and even animations as we will cover next.
 
@@ -255,7 +252,9 @@ The table below displays all `COLOR` command variables:
 ### PLUS/4 COLORS
 The program below will display all Commodore Plus/4 colors as shown in the image below:
 
-![Plus/4 Color Palette](/plus4/images/plus4-colors.png)
+![Plus/4 Color Palette](https://www.stevencombs.com/plus4/images/plus4-colors.png)
+
+There was an error in the user's manual code that I corrected. See `REM` statements within code for details.
 
 ```
 5 SCNCLR
@@ -286,7 +285,7 @@ While you may be thinking "cool, now I can a single color for each pixel", here'
 
 This BASIC program will create a series of intersecting lines using the `GRAPHIC` and `DRAW` commands to activate the high resolution areas of the screen as shown in the image below:
 
-![Graphics](/plus4/images/graphics.png)
+![Graphics](https://www.stevencombs.com/plus4/images/graphics.png)
 
 ```
 10 COLOR 0, 1
@@ -306,7 +305,7 @@ Notice that the color of lines change as they intersect other lines due to the f
 
 If you want to experiment with graphic commands in immediate mode, type `GRAPHIC 2, 1` followed by `⏎`. The screen will go blank and the `READY.` prompt will appear at the fourth line from the bottom of the screen as shown in the image below.
 
-![Graphic Mode](/plus4/images/graphic-mode.png)
+![Graphic Mode](https://www.stevencombs.com/plus4/images/graphic-mode.png)
 
 In this mode, you have the bottom five lines for commands and the top of the screen for high-res display. `GRAPHIC 1, 1` will put the entire screen in high-res mode; however, you will type blindly.
 
@@ -332,7 +331,7 @@ Let's try another one. Type `DRAW1,1,1 TO 100,100` and hit `⏎`. A line is draw
 
 Want to draw a line that continues from the previous? No need to remember or type the ending coordinates. Type `DRAW 1 to 150,50` and hit `⏎`. A new line, using absolute coordinates, will be drawn headed toward the upper right-hand corner as shown in the image below:
 
-![Continue the previous line](/plus4/images/continue-line.png)
+![Continue the previous line](https://www.stevencombs.com/plus4/images/continue-line.png)
 
 Want to fill in the triangle? Type `DRAW 1 TO 0,0` and hit `⏎`. We will learn how we can fill in that area in the [Squares, Circles, Polygons, and Painting](#squares-circles-polygons-and-painting) section below.pa
 
@@ -350,7 +349,7 @@ Time for a longer example.
 
 Let's use our new found graphics commands, combined with some math (or maths for my European visitors), to create a high-res representation of the sine function; the [sine curve (or wave)](https://en.wikipedia.org/wiki/Sine_wave) as shown in the image below:
 
-![Graphics](/plus4/images/sine-wave.png)
+![Graphics](https://www.stevencombs.com/plus4/images/sine-wave.png)
 
 ```
 10 color 0, 1
@@ -373,12 +372,11 @@ Without clearing the screen and immediately after running the program, replace l
 
 ```basic
 70 DRAW 1, X, Y
-RUN
 ```
 
-The program will create the curve using points instead of lines as shown below:
+Enter `RUN` and the program will create the curve using points instead of lines as shown below:
 
-![Graphics](/plus4/images/sine-wave-points.png)
+![Graphics](https://www.stevencombs.com/plus4/images/sine-wave-points.png)
 
 I like this version better, so keep the program in memory before continuing to the next section.
 
@@ -391,25 +389,210 @@ A graph alone can speak volumes; however some graphs require characters to the f
 Using the program from the previous section, add the following lines to add characters to our graph:
 
 ```basic
-81 char 1, 0, 0, "graph of" : char 1, 0, 1, "formula"
-82 char 1, 0, 2, "y=sin(x)"
-83 draw 1, 0, 100 to 319, 100, 189, 0 to 189, 199
-84 char 1, 0, 12, "x-axis" : char 1, 22, 0, "y"
-85 char 1, 22, 2, "a" : char 1, 22 , 3, "x"
-86 char 1, 22, 4, "t" : char 1, 22, 5, "s"
+81 char 1,0,0,"graph of" : char 1,0 1,"formula"
+82 char 1,0,2,"y=sin(x)"
+83 draw 1,0,100 to 319,100,189,0 to 189,199
+84 char 1,0,12, "x-axis" : char 1,22,0,"y"
+85 char 1,22,2,"a" : char 1,22,3,"x"
+86 char 1,22,4,"t" : char 1,22,5,"s"
 ```
 
 The result is a graphic with character labels as shown in the image below:
 
-![Graphics](/plus4/images/sine-wave-labels.png)
+![Graphics](https://www.stevencombs.com/plus4/images/sine-wave-labels.png)
 
 ## Squares, Circles, Polygons, and Painting
+
+Not only does Commodore BASIC 3.5 provide commands to draw single pixels and lines, it also provides the `BOX`, `CIRCLE`, and `PAINT` commands. These commands expedite the creation of on-screen graphics.
+			
+### Drawing Rectangles
+
+Use the `BOX` command to create rectangles using two coordinates that describe the opposite corners of the box. Below is a sample  `BOX` command and an image of the results:
+
+<!-- Add Programs to .d81 file after this point -->
+
+```basic
+10 GRAPHIC 2,1
+20 BOX 1,0,0,100,100
+```
+**💾 On Disk:** `07 SQUARE`
+
+![Rectangle](https://www.stevencombs.com/plus4/images/square.png)
+
+Line 10 switches to high-res graphics mode with a command text below, `2`, and clears the screen, `1`.
+
+The first value in line 20, `1`, is the value to draw, rather than erase which is `0`. The next two coordinates, `0,0`, are the upper-left coordinates (can be anywhere on the screen) and the next two numbers,`100,100`, are the lower-left coordinates. Since both numbers are `100`, this command will draw a square. Values of `150,100` will draw a rectangle as shown below:
+
+![Rectangle](https://www.stevencombs.com/plus4/images/rectangle.png)
+
+Let's add a new line 20 and copy line 20 to line 30 while adding an additional attribute to the `BOX command; a rotation.
+
+```basic
+10 GRAPHIC 2,1
+20 DRAW 1,50,50 : REM ROTATION POINT
+30 BOX 1,0,0,100,100,45
+```
+**💾 On Disk:** `07 ROTATE SQUARE`
+
+Line 20 draws the center of our rotation point. The value `45` will rotate the box 45° clockwise at the center point of the polygon drawn as a single point on the screen. The results are shown below:
+
+![Rotate Square](https://www.stevencombs.com/plus4/images/rotate-square.png)
+
+Much code and "ciphering" is necessary if you want to fill polygons using the `DRAW` command. Luckily, another attribute for the `BOX` command provides the ability to fill polygons as shown in the code and image below:
+
+```basic
+10 GRAPHIC 2,1
+20 BOX 1,0,0,100,100,,1
+```
+**💾 On Disk:** `07 FILL RECTANG`
+
+> **NOTE:** Line 30 omits a rotation attribute and the `1` instructs the command to fill the polygon.
+
+![Fill Rectangle](https://www.stevencombs.com/plus4/images/fill-rectangle.png)
+
+Let's use the commands we've learned in more complete programs. Such as this first program that draws multiple boxes from the same center point at random rotations. The result is a computerized and old school [Spirograph](https://amzn.to/3tE5PWM).
+
+```basic
+10 color 0,1
+20 color 1,2
+30 graphic 2,1
+40 a = rnd(1) * 20 + 10
+50 for l = 0 to 359 step a
+60 box 1,100,30,220,130,l
+70 next l
+80 for l = 1 to 2000 : next l
+90 graphic 0,1
+```
+**💾 On Disk:** `07 SPIROGRAPH`
+
+![Spirograph](https://www.stevencombs.com/plus4/images/spirograph.png)
+
+Time to create modern art; a bunch of colorful rectangles drawn on the screen over and over. Yes, some people consider this art. Type in or load the program below:
+
+```basic
+5 trap 60
+10 graphic 2,1
+20 def fna(x) = int(rnd(1)*x)
+30 color 1, fna(15)+1
+40 box 1,fna(320),fna(160),fna(320),fna(160),,1
+50 goto 30
+60 color 1,2,3 : graphic 0
+```
+**💾 On Disk:** `07 MODERN ART`
+
+![Modern Art](https://www.stevencombs.com/plus4/images/modern-art.png)
+
+As this codes runs, notice as the rectangles begin to overlap each other, the color of the previous rectangle is affected and overwritten several pixels in front of the new area drawn. This is a limitation of the graphic mode used. It only supports two colors per 8 x 8 area. In the [Drawing Circles](#link) section, we'll use multi-color mode to overcome this limitation.
+
+### Drawing Circles
+
+The `CIRCLE` command can draw shapes in addition to circles. The code below demonstrates. Line 35 is not included in the user's manual code. This line erases the previous shape before a new one is drawn. I found this preferred over the manual's drawing shapes over the top of each other.
+
+```basic
+10 graphic 2,1
+20 input "how many sides";a
+30 if a < 2 or a > 100 then ? "don't be ridiculous" : goto 20
+35 scnclr : rem my addition
+40 circle 1,160,80,40,33,,,,360/a
+50 goto 20
+```
+**💾 On Disk:** `07 SHAPES`
+
+![Shapes](https://www.stevencombs.com/plus4/images/shapes.png)
+
+We previously played with a program that acted like a Spirograph. Let's do another one.
+
+```basic
+10 color 0,1
+20 color 1,2
+30 graphic 1,1
+40 a = rnd(1) * 20 + 10
+50 for l=0 to 359 step a
+60 circle 1, 160, 100, 80, 40,,,l
+70 next l
+80 for l = 1 to 2000 : next l
+90 graphic 0,1
+```
+**💾 On Disk:** `07 SPIROGRAPH 2`
+
+![Spirograph 2](https://www.stevencombs.com/plus4/images/spirograph-2.png)
+
+The program below will draw four circles. It's a simple program that uses math to space the circles out.
+
+```basic
+10 color 0,1
+20 color 1,2
+30 graphic 2,1
+40 for l = 1 to 4
+50 y = 50
+60 if l = 2 or l = 4 then y = 100
+70 x = l * 35 + 50
+80 circle 1,x,y,50,42
+90 next l
+100 ? "plus/4 circles"
+```
+**💾 On Disk:** `07 CIRCLES`
+
+![Circles](https://www.stevencombs.com/plus4/images/circles.png)
+
+
+
+### The `PAINT` Command
+
+Add the lines below to the previous program.
+
+```basic
+110 for l = 0 to 2
+120 paint 1,120 + 35 * l,75
+130 next l
+```
+**💾 On Disk:** `07 VENN`
+
+![VENN](https://www.stevencombs.com/plus4/images/venn.png)
 
 
 
 ## Multi-Color Graphics
 
+The two programs below demonstrate the Plus/4's mult-color graphics mode. 
 
+```basic
+10 color 0,1
+20 graphic 4,1
+30 for l = 1 to 4
+40 q = l : if q > 3 then q = q - 3
+50 color q,l+1,0 : rem added lum value
+60 y = 50
+70 if l = 2 or l = 4 then y = 100
+80 x = l * 18 + 25
+90 circle q,x,y,25,42
+100 next l
+110 color 1,2 : rem added for legibility
+```
+**💾 On Disk:** `07 MULTI-COLOR`
+
+![Multi-Color](https://www.stevencombs.com/plus4/images/multi-color.png)
+
+```basic
+10 color 0,1
+20 graphic 3,1
+30 color 3,1
+40 trap 200
+50 draw 3,10,10 to 10,100 : draw 3,10,55 to 30,55
+60 draw 3,30,10 to 30,100 : draw 3,50,10 to 80,10
+70 draw 3,65,10 to 65,100 : draw 3,50,100 to 80,100
+80 for l = 0 to 7
+90 color 3,2,l
+100 for m = 1 to 100 : next m
+110 next l
+120 color 3,1
+130 for m = 1 to 100 : next m
+140 goto 80
+200 graphic 0 : color 1,2,7
+```
+**💾 On Disk:** `07 NEON SIGN`
+
+I don't include an image for this one because I don't want to spoil the 8-bit neon light simulating suprise.
 
 ## Final Thoughts
 
@@ -417,7 +600,7 @@ This chapter was a blast; although it did take a long time to prepare this post 
 
 In the next chapter, we will use the Plus/4 to play sounds and music. Add these concepts to this chapter and we are on our way to creating games and audio/visual demos.
 
-You won't want to miss that fun.  Make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
+You won't want to miss that fun. Make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
 ## Join the Fun
 
@@ -426,3 +609,13 @@ Help make this series better! Post feedback, questions, and ideas. Let me know i
 Thanks for watching and if you are inclined, please let other Commodore fans know about the series, my blog, and the YouTube channel, by sharing these videos using #retroCombs.
 
 🕹️ retroCombs, OUT!
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE0NzEyMzEwOSwtMTYxNTE0OTc5MSwtNj
+U0Nzg5MTk4LC0xNzI2MjM2MjQ4LC0xMjU0Nzc3NTA4LC03MTE3
+OTc5NSwtNDY4NzA2NTE3LDM2MTcxMTA2MiwxOTIxNzIwMzQ3LC
+0xNjU3MzM1Mzc5LDEwNTY1MTI2NDQsLTY4MDE4MTcyLC05NjY1
+Mzg0ODYsMzA4MTMyNTE2LDU1MDk4MDQ0NCwtMTAyMTY4NzQ0OC
+w0ODEyNDI3NjQsLTQ2MzU0ODg4MCwyMDU1MDY2MTI0LC0xNzky
+NzQzNDYwXX0=
+-->

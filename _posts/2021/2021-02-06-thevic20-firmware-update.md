@@ -28,18 +28,18 @@ In the video below, I demonstrate the process to update the MEGA65 (Dev Kit), co
 
 I embed the video markers below in the video so you can jump around to specific content. Of course, I hope you watch the entire video!
 
-[00:00] Opening
-[00:12] FAST LOAD Bumper
-[00:22] Download Firmware
-[00:58] Update THEVIC20
-[01:40] What's new
-[02:58] City Crusher (VIC-20)
-[03:35] Mine Sweep (VIC-20)
-[04:11] Blue Star (VIC-20)
-[04:42] Hessian (C64)
-[05:48] PET Snake Redux (C64)
-[06:11] Uridium (C64)
-[06:45] End Screen
+* [00:00] Opening
+* [00:12] FAST LOAD Bumper
+* [00:22] Download Firmware
+* [00:58] Update THEVIC20
+* [01:40] What's new
+* [02:58] City Crusher (VIC-20)
+* [03:35] Mine Sweep (VIC-20)
+* [04:11] Blue Star (VIC-20)
+* [04:42] Hessian (C64)
+* [05:48] PET Snake Redux (C64)
+* [06:11] Uridium (C64)
+* [06:45] End Screen
 
 ## Video Errata (as of 2021-02-06)
 
