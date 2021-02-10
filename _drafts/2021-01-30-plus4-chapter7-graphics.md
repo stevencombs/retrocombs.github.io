@@ -42,8 +42,15 @@ In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Cha
 - [Controlling Colors](#controlling-colors)
   - [PLUS/4 COLORS](#plus4-colors)
 - [High Resolution Graphics](#high-resolution-graphics)
+  - [GRAPHICS](#graphics)
 - [Points, Lines, and Labels](#points-lines-and-labels)
+  - [SINE CURVE](#sine-curve)
+- [The CHAR Command](#the-char-command)
+  - [CHARACTERS ON GRAPH](#characters-on-graph)
 - [Squares, Circles, Polygons, and Painting](#squares-circles-polygons-and-painting)
+  - [Drawing Rectangles](#drawing-rectangles)
+  - [Drawing Circles](#drawing-circles)
+  - [The `PAINT` Command](#the-paint-command)
 - [Multi-Color Graphics](#multi-color-graphics)
 - [Final Thoughts](#final-thoughts)
 - [Join the Fun](#join-the-fun)
@@ -249,7 +256,7 @@ The table below displays all `COLOR` command variables:
 
 > **NOTE:** Multi-color modes will be discussed in the [Multi-Color Graphics](#multi-color-graphics) section.
 
-### PLUS/4 COLORS
+### COLOR PALETTE PROGRAM
 The program below will display all Commodore Plus/4 colors as shown in the image below:
 
 ![Plus/4 Color Palette](https://www.stevencombs.com/plus4/images/plus4-colors.png)
@@ -281,7 +288,7 @@ The Plus/4 screen contains 25 rows of 40 characters each for a total of 1000 cha
 
 While you may be thinking "cool, now I can a single color for each pixel", here's the caveat. The Plus/4 will only all you to access two colors in each 8 x 8 character. Remember the multi-color option in the `COLOR` command? You can use this to activate high resolution graphics mode to provide four colors per character; however, this comes at the expense of screen resolution. More information in [Multi-Color Graphics](#multi-color-graphics) section.
 
-### GRAPHICS
+### GRAPHICS PROGRAM
 
 This BASIC program will create a series of intersecting lines using the `GRAPHIC` and `DRAW` commands to activate the high resolution areas of the screen as shown in the image below:
 
@@ -345,7 +352,7 @@ There are two options for *color*. `0` equals the background color. `1` equals t
 
 Time for a longer example.
 
-### SINE CURVE
+### SINE CURVE PROGRAM
 
 Let's use our new found graphics commands, combined with some math (or maths for my European visitors), to create a high-res representation of the sine function; the [sine curve (or wave)](https://en.wikipedia.org/wiki/Sine_wave) as shown in the image below:
 
@@ -404,10 +411,14 @@ The result is a graphic with character labels as shown in the image below:
 ## Squares, Circles, Polygons, and Painting
 
 Not only does Commodore BASIC 3.5 provide commands to draw single pixels and lines, it also provides the `BOX`, `CIRCLE`, and `PAINT` commands. These commands expedite the creation of on-screen graphics.
-			
+
 ### Drawing Rectangles
 
-Use the `BOX` command to create rectangles using two coordinates that describe the opposite corners of the box. Below is a sample  `BOX` command and an image of the results:
+Use the `BOX` command to create rectangles using two coordinates that describe the opposite corners of the box.
+
+### SQUARE PROGRAM
+
+Below is a sample  `BOX` command and an image of the results:
 
 <!-- Add Programs to .d81 file after this point -->
 
@@ -425,6 +436,8 @@ The first value in line 20, `1`, is the value to draw, rather than erase which i
 
 ![Rectangle](https://www.stevencombs.com/plus4/images/rectangle.png)
 
+### ROTATE SQUARE PROGRAM
+
 Let's add a new line 20 and copy line 20 to line 30 while adding an additional attribute to the `BOX command; a rotation.
 
 ```basic
@@ -438,6 +451,8 @@ Line 20 draws the center of our rotation point. The value `45` will rotate the b
 
 ![Rotate Square](https://www.stevencombs.com/plus4/images/rotate-square.png)
 
+### FILL RECTANG PROGRAM
+
 Much code and "ciphering" is necessary if you want to fill polygons using the `DRAW` command. Luckily, another attribute for the `BOX` command provides the ability to fill polygons as shown in the code and image below:
 
 ```basic
@@ -450,33 +465,39 @@ Much code and "ciphering" is necessary if you want to fill polygons using the `D
 
 ![Fill Rectangle](https://www.stevencombs.com/plus4/images/fill-rectangle.png)
 
-Let's use the commands we've learned in more complete programs. Such as this first program that draws multiple boxes from the same center point at random rotations. The result is a computerized and old school [Spirograph](https://amzn.to/3tE5PWM).
+Let's use the commands we've learned in more complete programs.
+
+### SPIROGRAPH^® PROGRAM
+
+This first program that draws multiple boxes from the same center point at random rotations. The result is a computerized and old school [Spirograph](https://amzn.to/3tE5PWM).
 
 ```basic
-10 color 0,1
-20 color 1,2
-30 graphic 2,1
-40 a = rnd(1) * 20 + 10
-50 for l = 0 to 359 step a
-60 box 1,100,30,220,130,l
-70 next l
-80 for l = 1 to 2000 : next l
-90 graphic 0,1
+10 COLOR 0,1
+20 COLOR 1,2
+30 GRAPHIC 2,1
+40 A = RND(1) * 20 + 10
+50 FOR L = 0 TO 359 STEP A
+60 BOX 1,100,30,220,130,L
+70 NEXT L
+80 FOR L = 1 TO 2000 : NEXT L
+90 GRAPHIC 0,1
 ```
 **💾 On Disk:** `07 SPIROGRAPH`
 
 ![Spirograph](https://www.stevencombs.com/plus4/images/spirograph.png)
 
+### MODERN ART PROGRAM
+
 Time to create modern art; a bunch of colorful rectangles drawn on the screen over and over. Yes, some people consider this art. Type in or load the program below:
 
 ```basic
-5 trap 60
-10 graphic 2,1
-20 def fna(x) = int(rnd(1)*x)
-30 color 1, fna(15)+1
-40 box 1,fna(320),fna(160),fna(320),fna(160),,1
-50 goto 30
-60 color 1,2,3 : graphic 0
+5 TRAP 60
+10 GRAPHIC 2,1
+20 DEF FNA(X) = INT(RND(1)*X)
+30 COLOR 1, FNA(15)+1
+40 BOX 1,FNA(320),FNA(160),FNA(320),FNA(160),,1
+50 GOTO 30
+60 COLOR 1,2,3 : GRAPHIC 0
 ```
 **💾 On Disk:** `07 MODERN ART`
 
@@ -486,7 +507,22 @@ As this codes runs, notice as the rectangles begin to overlap each other, the co
 
 ### Drawing Circles
 
-The `CIRCLE` command can draw shapes in addition to circles. The code below demonstrates. Line 35 is not included in the user's manual code. This line erases the previous shape before a new one is drawn. I found this preferred over the manual's drawing shapes over the top of each other.
+The `CIRCLE` command can draw shapes in addition to circles. Let's draw two circles as shown in the image below.
+
+```basic
+10 GRAPHICS 2,1
+20 CIRCLE 1,50,50,25,25
+30 CIRCLE 1,150,50,25,20
+```
+
+![Shapes](https://www.stevencombs.com/plus4/images/ellipse.png)
+
+
+The program above includes two `CIRCLE` commands. Line `20` draws (`1`) a circle starting at a center point (`50,50`) out to a radius of defined by two coordinates (`25,25`); however, if you look at the output of that line, while the math describes a perfect circle, the Plus/4 displays an ellipse. That's because pixels on the Plus/4, or for that matter most 8-bit computers of their time, are not square but rectangular. The second line accounts for this to give a more visually accurate rendering of a circle.
+
+### SHAPES PROGRAM
+
+The code below demonstrates. Line 35 is not included in the user's manual code. This line erases the previous shape before a new one is drawn. I found this preferred over the manual's drawing shapes over the top of each other.
 
 ```basic
 10 graphic 2,1
@@ -554,7 +590,7 @@ Add the lines below to the previous program.
 
 ## Multi-Color Graphics
 
-The two programs below demonstrate the Plus/4's mult-color graphics mode. 
+The two programs below demonstrate the Plus/4's mult-color graphics mode.
 
 ```basic
 10 color 0,1
