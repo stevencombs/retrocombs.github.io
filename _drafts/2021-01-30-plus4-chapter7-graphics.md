@@ -517,19 +517,23 @@ Let's draw two circles as shown in the image below.
 
 ![Ellipse](https://www.stevencombs.com/plus4/images/ellipse.png)
 
-The program above includes two `CIRCLE` commands. Line `20` draws (`1`) a circle starting at a center point (`50,50`) out to a radius of defined by two coordinates (`25,25`); however, if you look at the output, while the math describes a perfect circle, the Plus/4 displays an ellipse. That's because pixels on the Plus/4, or for that matter most 8-bit computers of their time, are not square but rectangular. The second line accounts for this to give a more visually accurate rendering of a circle.
+The program above includes two `CIRCLE` commands. Line `20` draws (`1`) a circle starting at a center point (`50,50`) out to a radius of defined by two coordinates (`25,25`); however, if you look at the output on my NTSC screen, while the math describes a perfect circle, the Plus/4 displays an ellipse. That's because pixels on the Plus/4, or for that matter most 8-bit computers of their time, are not square but rectangular. The second line accounts for this to give a more visually accurate rendering of a circle.
+
+With a PAL screen, the output is not as distorted, as shown below:
+
+![Ellipse](https://www.stevencombs.com/plus4/images/ellipse2.png)
 
 ### SHAPES PROGRAM
 
 The `CIRCLE` command can draw shapes in addition to circles as the code below demonstrates. Line 35 is not included in the user's manual code. This line erases the previous shape before a new one is drawn. I found this preferred over the manual's drawing shapes over the top of each other.
 
 ```basic
-10 graphic 2,1
-20 input "how many sides";a
-30 if a < 2 or a > 100 then ? "don't be ridiculous" : goto 20
-35 scnclr : rem my addition
-40 circle 1,160,80,40,33,,,,360/a
-50 goto 20
+10 GRAPHIC 2,1
+20 INPUT "HOW MANY SIDES";A
+30 IF A < 2 OR A > 100 THEN ? "DON'T BE RIDICULOUS" : GOTO 20
+35 SCNCLR : REM MY ADDITION
+40 CIRCLE 1,160,80,40,33,,,,360/A
+50 GOTO 20
 ```
 **💾 On Disk:** `07 SHAPES`
 
