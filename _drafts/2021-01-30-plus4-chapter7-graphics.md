@@ -515,13 +515,13 @@ Let's draw two circles as shown in the image below.
 30 CIRCLE 1,150,50,25,20
 ```
 
-![Ellipse](https://www.stevencombs.com/plus4/images/ellipse.png)
+![Ellipse NTSC](https://www.stevencombs.com/plus4/images/ellipse-ntsc.png)
 
 The program above includes two `CIRCLE` commands. Line `20` draws (`1`) a circle starting at a center point (`50,50`) out to a radius of defined by two coordinates (`25,25`); however, if you look at the output on my NTSC screen, while the math describes a perfect circle, the Plus/4 displays an ellipse. That's because pixels on the Plus/4, or for that matter most 8-bit computers of their time, are not square but rectangular. The second line accounts for this to give a more visually accurate rendering of a circle.
 
-With a PAL screen, the output is not as distorted, as shown below:
+My fellow Commodore users over the pond, and using a PAL screen, will not find the output as distorted, as shown below:
 
-![Ellipse](https://www.stevencombs.com/plus4/images/ellipse2.png)
+![Ellipse PAL](https://www.stevencombs.com/plus4/images/ellipse-pal.png)
 
 ### SHAPES PROGRAM
 
