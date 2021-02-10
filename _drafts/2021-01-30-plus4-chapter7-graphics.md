@@ -507,7 +507,7 @@ As this codes runs, notice as the rectangles begin to overlap each other, the co
 
 ### Drawing Circles
 
-Let's draw two circles as shown in the image below.
+Let's use the `CIRCLE` command to draw two circles as shown in the image below.
 
 ```basic
 10 GRAPHICS 2,1
