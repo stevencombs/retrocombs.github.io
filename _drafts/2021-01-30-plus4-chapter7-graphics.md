@@ -507,7 +507,7 @@ As this codes runs, notice as the rectangles begin to overlap each other, the co
 
 ### Drawing Circles
 
-The `CIRCLE` command can draw shapes in addition to circles. Let's draw two circles as shown in the image below.
+Let's draw two circles as shown in the image below.
 
 ```basic
 10 GRAPHICS 2,1
@@ -515,14 +515,13 @@ The `CIRCLE` command can draw shapes in addition to circles. Let's draw two circ
 30 CIRCLE 1,150,50,25,20
 ```
 
-![Shapes](https://www.stevencombs.com/plus4/images/ellipse.png)
+![Ellipse](https://www.stevencombs.com/plus4/images/ellipse.png)
 
-
-The program above includes two `CIRCLE` commands. Line `20` draws (`1`) a circle starting at a center point (`50,50`) out to a radius of defined by two coordinates (`25,25`); however, if you look at the output of that line, while the math describes a perfect circle, the Plus/4 displays an ellipse. That's because pixels on the Plus/4, or for that matter most 8-bit computers of their time, are not square but rectangular. The second line accounts for this to give a more visually accurate rendering of a circle.
+The program above includes two `CIRCLE` commands. Line `20` draws (`1`) a circle starting at a center point (`50,50`) out to a radius of defined by two coordinates (`25,25`); however, if you look at the output, while the math describes a perfect circle, the Plus/4 displays an ellipse. That's because pixels on the Plus/4, or for that matter most 8-bit computers of their time, are not square but rectangular. The second line accounts for this to give a more visually accurate rendering of a circle.
 
 ### SHAPES PROGRAM
 
-The code below demonstrates. Line 35 is not included in the user's manual code. This line erases the previous shape before a new one is drawn. I found this preferred over the manual's drawing shapes over the top of each other.
+The `CIRCLE` command can draw shapes in addition to circles as the code below demonstrates. Line 35 is not included in the user's manual code. This line erases the previous shape before a new one is drawn. I found this preferred over the manual's drawing shapes over the top of each other.
 
 ```basic
 10 graphic 2,1
