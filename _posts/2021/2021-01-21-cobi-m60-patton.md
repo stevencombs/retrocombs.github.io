@@ -279,7 +279,7 @@ What about COBI quality control?
 1. I measured the weight of a brick and a plate in my non-scientific quality test. I was pleased to find that they were almost identical for like parts.
 2. Next I made a quick parts fit comparison between COBI and LEGO elements. The fit was tight and the click was satisfying. As far as fit and weight goes, you'd be hard pressed to tell the difference between the two other than the name on the stud.
 4. In hindsight, I should have compared fit clearance; however, that would have taken time away from building. I will say that fit and clearance "appears" to be similar to LEGO.
-4. However, there was an issue with the COBI elements that hindered the final product appearance; the runner, or sprue, cutoffs are visible on the model after assembly. You don't see these on the box; they've probably been digitally removed; however, they are noticeable all over my model. Take a look!
+4. However, there was an issue with the COBI elements that hindered the final product appearance; the runner, or sprue, cutoffs are visible on the model after assembly. You don't see these on the box; they've probably been digitally removed; however, they are noticeable all over my model. Take a look! (images)
 5. There was another QC issue for a plate. I've never seen a LEGO brick pass through QC that had studs. What happened here? Luckily this was the only plate with issues; however, in all my years of building LEGO sets, I've never seen an element marred like this plate.
 6. While my weight exercise revealed similar results, this part could tell a different manufacturing story. On this element there appears to be a thin top layer that lets the form of the inside of the brick bleed through if the light hits the element just right. Again, not something I've seen with LEGO bricks.
 7. Here's an element where an engineer made the unfortunate decision to locate the sprue right on top of a stud. Thankfully, this part is embedded within the model and not seen after the build, but if you want to use for your own builds on a top layer or studs not on top (SNOT) build, this would be annoying.
@@ -333,10 +333,11 @@ Thanks for reading and watching and if you are so inclined, please let others kn
 🕹️ retroCombs, OUT!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI5NDk4MDIsODc2MDU3ODQwLDg5OD
-U0NTU4MiwtNjYxOTE5NjY5LC03NjkzOTU1OTksLTQ1NTY3Mzg1
-NCwtMTg5MDUwNzUwNSwtMTgxMjM1ODgyMSwtMjEwOTA1MTMzMS
-wtMTUxMTQxNDYyMCwtMjU5MjI4OTYxLC00OTMyOTc2NDgsLTE3
-NjAxNzkxMjYsLTgyMTkxODU0MCwtMTQyMjgwOTgzNCwtOTIxND
-A1ODQ1LC0xMzI5NDQ3OTcyLC0xMDY2MjE5MjY1XX0=
+eyJoaXN0b3J5IjpbLTY2MjgxNTY1MSwtMTQ1Mjk0OTgwMiw4Nz
+YwNTc4NDAsODk4NTQ1NTgyLC02NjE5MTk2NjksLTc2OTM5NTU5
+OSwtNDU1NjczODU0LC0xODkwNTA3NTA1LC0xODEyMzU4ODIxLC
+0yMTA5MDUxMzMxLC0xNTExNDE0NjIwLC0yNTkyMjg5NjEsLTQ5
+MzI5NzY0OCwtMTc2MDE3OTEyNiwtODIxOTE4NTQwLC0xNDIyOD
+A5ODM0LC05MjE0MDU4NDUsLTEzMjk0NDc5NzIsLTEwNjYyMTky
+NjVdfQ==
 -->

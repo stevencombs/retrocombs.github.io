@@ -19,9 +19,10 @@ tags:
   - color
   - characters
   - petscii
+  - pixels
 ---
 
-In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 7, *Using Graphics and Color*, of the Commodore Plus/4 user's manual. In this chapter, XXX
+In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 7, *Using Graphics and Color*, of the Commodore Plus/4 user's manual. If you are eager to create images on your Commodore Plus/4, this is the chapter for you. Chapter 7 include information to PETSCII, colors, graphics modes, and other commands to create static images an animations. It's a fun chapter and one that took quite a bit of time to prepare.
 
 <!-- TOC -->
 
@@ -36,22 +37,30 @@ In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Cha
 - [Graphics Characters](#graphics-characters)
 - [Character Animation](#character-animation)
   - [PULSE BALL PROGRAM](#pulse-ball-program)
-  - [JUMPING JACKS PROGRAM](#jumping-jacks-program)
+  - [JUMPING JACK PROGRAM](#jumping-jack-program)
   - [INCH WORM PROGRAM](#inch-worm-program)
-  - [MOVING A BALL](#moving-a-ball)
+  - [MOVE BALL PROGRAM](#move-ball-program)
 - [Controlling Colors](#controlling-colors)
-  - [PLUS/4 COLORS](#plus4-colors)
+  - [COLOR PALETTE PROGRAM](#color-palette-program)
 - [High Resolution Graphics](#high-resolution-graphics)
-  - [GRAPHICS](#graphics)
+  - [GRAPHICS PROGRAM](#graphics-program)
 - [Points, Lines, and Labels](#points-lines-and-labels)
-  - [SINE CURVE](#sine-curve)
-- [The CHAR Command](#the-char-command)
-  - [CHARACTERS ON GRAPH](#characters-on-graph)
+  - [SINE CURVE PROGRAM](#sine-curve-program)
+- [The `CHAR` Command](#the-char-command)
+  - [CHARACTERS ON GRAPH PROGRAM](#characters-on-graph-program)
 - [Squares, Circles, Polygons, and Painting](#squares-circles-polygons-and-painting)
   - [Drawing Rectangles](#drawing-rectangles)
+  - [SQUARE PROGRAM](#square-program)
+  - [ROTATE SQUARE PROGRAM](#rotate-square-program)
+  - [FILL RECTANG PROGRAM](#fill-rectang-program)
+  - [SPIROGRAPH^® PROGRAM](#spirograph^®-program)
+  - [MODERN ART PROGRAM](#modern-art-program)
   - [Drawing Circles](#drawing-circles)
-  - [The `PAINT` Command](#the-paint-command)
+  - [SHAPES PROGRAM](#shapes-program)
+- [The `PAINT` Command](#the-paint-command)
 - [Multi-Color Graphics](#multi-color-graphics)
+  - [MULTI-COLOR PROGRAM](#multi-color-program)
+  - [NEON SIGN PROGRAM](#neon-sign-program)
 - [Final Thoughts](#final-thoughts)
 - [Join the Fun](#join-the-fun)
 
@@ -71,7 +80,7 @@ As I progress through the user's manual, I enter and execute sample programs. Th
 
 I use the following file name convention to make it easy to locate specific programs:
 
-<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
+<img src="https://www.stevencombs.com/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
 
 * `02` - The chapter number
 * `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.
@@ -179,8 +188,8 @@ Need a visual for an alarm, this program will perfectly and you can modify the s
 ```
 **💾 On Disk:** `07 PULSE BALL`
 
-### JUMPING JACKS PROGRAM
-It's exercise time. This program will help you get your daily number of jumping jacks logged and you can make them as fast as you want!
+### JUMPING JACK PROGRAM
+It's exercise time! This program will help you get your daily number of jumping jacks logged and you can make them as fast as you want!
 
 ```
 5 SCNCLR
@@ -200,7 +209,7 @@ It's exercise time. This program will help you get your daily number of jumping 
 The two examples above place animations on the screen that stay in the same location. In this program, our worm will inch its way along the top two lines of the screen and then stop.
 
 ```
-5 FOR A= 0 TO 30 : REM CHANGE A BUT NOT > 34
+5 FOR A= 0 TO 30 : REM CHANGE A BUT NOT > 36
 10 SCNCLR
 20 ? TAB(A)"╭╮╭╮"
 30 ? TAB(A)"╯╰╯╰"
@@ -213,7 +222,7 @@ The two examples above place animations on the screen that stay in the same loca
 ```
 **💾 On Disk:** `07 INCH WORM`
 
-### MOVING A BALL
+### MOVE BALL PROGRAM
 We can make a simple animation by drawing an object, then erasing it, and then redrawing in the next adjacent space as shown in the code below. BASIC will draw a `●`, then move back one space. The next line will overwrite the previous `●` with a `␣` and then draw another `●` to the right of the previous. It's a simple animation that moves the ball from the top-left of the screen, line-by-line, until it reaches the bottom lower-right. Can you predict what happens next?
 
 ```
@@ -228,11 +237,11 @@ We can make a simple animation by drawing an object, then erasing it, and then r
 
 In our previous examples, all the characters have been black. We touched on changing colors back in Chapter 4. In this section we will spend more time learning how to modify not only individual character colors, but screen and border colors. Give is try with the examples below:
 
-`COLOR 4,3` | This will change the border color to red, kinda. `4` is the item with the color change, in this case the border, and `3` is the color.
+`COLOR 4,3` will change the border color to red, kinda. More on this later. `4` is the item to color change, in this case the border, and `3` is the color.
 
-`COLOR 0,7` | This will change the background color to blue. `0` specifies a border color change with `7` once again representing the color.
+`COLOR 0,7` will change the background color to blue. `0` specifies a border color change with `7` once again representing the color.
 
-`COLOR 4,3,0` | There is a third color value. The third value represents luminance. Use this to modify those "kinda" red and blue colors. When you use this color command, the border is "really" red now.
+`COLOR 4,3,0` uses a third color value that sets color luminance. Use this value to modify the "kinda" red and blue colors. Now the border will be "really" red.
 
 The table below displays all `COLOR` command variables:
 
@@ -284,9 +293,11 @@ There was an error in the user's manual code that I corrected. See `REM` stateme
 
 ## High Resolution Graphics
 
-The Plus/4 screen contains 25 rows of 40 characters each for a total of 1000 character positions (25 x 40 = 100). Each character is described by a grid of 8 x 8 pixels, or 64 pixels. Therefore, the full-screen resolution of a Plus/4 screen is 320, 200 and 64,000 pixels. So far, we've controlled each 8 x 8 grid only. In this section we will break that grid into the large screen and control all pixels individual to access "high resolutions graphics mode."
+The Plus/4 screen contains 25 rows of 40 characters each for a total of 1000 character positions (25 x 40 = 1000). Each character is described by a grid of 8 x 8 pixels, or 64 pixels. Therefore, the full-screen resolution of a Plus/4 screen is 320, 200 and 64,000 pixels. So far, we've controlled each 8 x 8 grid only. In this section we will break that grid into the large screen and control all pixels individual to access "high resolutions graphics mode."
 
-While you may be thinking "cool, now I can a single color for each pixel", here's the caveat. The Plus/4 will only all you to access two colors in each 8 x 8 character. Remember the multi-color option in the `COLOR` command? You can use this to activate high resolution graphics mode to provide four colors per character; however, this comes at the expense of screen resolution. More information in [Multi-Color Graphics](#multi-color-graphics) section.
+While you may be thinking "cool, now I can use a single color for each pixel", here's the caveat. The Plus/4 will only allow access to two colors in each 8 x 8 character.
+
+Remember the multi-color option in the `COLOR` command? You can use this to activate high resolution graphics mode to provide four colors per character. More information in [Multi-Color Graphics](#multi-color-graphics) section.
 
 ### GRAPHICS PROGRAM
 
@@ -340,7 +351,7 @@ Want to draw a line that continues from the previous? No need to remember or typ
 
 ![Continue the previous line](https://www.stevencombs.com/plus4/images/continue-line.png)
 
-Want to fill in the triangle? Type `DRAW 1 TO 0,0` and hit `⏎`. We will learn how we can fill in that area in the [Squares, Circles, Polygons, and Painting](#squares-circles-polygons-and-painting) section below.pa
+Want to complete the triangle? Type `DRAW 1 TO 0,0` and hit `⏎`. We will learn how we can fill in that area in the [Squares, Circles, Polygons, and Painting](#squares-circles-polygons-and-painting) section below.pa
 
 Let's break down the `DRAW` command syntax:
 
@@ -359,17 +370,17 @@ Let's use our new found graphics commands, combined with some math (or maths for
 ![Graphics](https://www.stevencombs.com/plus4/images/sine-wave.png)
 
 ```
-10 color 0, 1
-20 color 1, 2
-30 graphic 1, 1
-40 locate 0,100
-50 for x = 1 to 319
-60 y = int(100+99*sin(x/20))
-70 draw 1 to x, y
-80 next x
-90 for l = 1 to 5000 : REM PAUSES SCREEN
-100 next l
-110 graphic 0
+10 COLOR 0, 1
+20 COLOR 1, 2
+30 GRAPHIC 1, 1
+40 LOCATE 0,100
+50 FOR X = 1 TO 319
+60 Y = INT(100+99*SIN(X/20))
+70 DRAW 1 TO X, Y
+80 NEXT X
+90 FOR L = 1 TO 5000 : REM PAUSES SCREEN
+100 NEXT L
+110 GRAPHIC 0
 ```
 **💾 On Disk:** `07 SINE WAVE`
 
@@ -387,16 +398,16 @@ Enter `RUN` and the program will create the curve using points instead of lines 
 
 I like this version better, so keep the program in memory before continuing to the next section.
 
-## The CHAR Command
+## The `CHAR` Command
 
 A graph alone can speak volumes; however some graphs require characters to the full story or to orient users. Luckily, the Plus/4 allows us to overlay characters on top of our graphs.
 
-### CHARACTERS ON GRAPH
+### CHARACTERS ON GRAPH PROGRAM
 
 Using the program from the previous section, add the following lines to add characters to our graph:
 
 ```basic
-81 char 1,0,0,"graph of" : char 1,0 1,"formula"
+81 char 1,0,0,"graph of" : char 1,0,1,"formula"
 82 char 1,0,2,"y=sin(x)"
 83 draw 1,0,100 to 319,100,189,0 to 189,199
 84 char 1,0,12, "x-axis" : char 1,22,0,"y"
@@ -491,7 +502,7 @@ This first program that draws multiple boxes from the same center point at rando
 Time to create modern art; a bunch of colorful rectangles drawn on the screen over and over. Yes, some people consider this art. Type in or load the program below:
 
 ```basic
-5 TRAP 60
+5 TRAP 60 : REM RESETS SCREEN ON ERROR
 10 GRAPHIC 2,1
 20 DEF FNA(X) = INT(RND(1)*X)
 30 COLOR 1, FNA(15)+1
@@ -505,6 +516,8 @@ Time to create modern art; a bunch of colorful rectangles drawn on the screen ov
 
 As this codes runs, notice as the rectangles begin to overlap each other, the color of the previous rectangle is affected and overwritten several pixels in front of the new area drawn. This is a limitation of the graphic mode used. It only supports two colors per 8 x 8 area. In the [Drawing Circles](#link) section, we'll use multi-color mode to overcome this limitation.
 
+> **NOTE:** We have a new BASIC command in line `10`. `TRAP` intercepts errors in programming conditions. It then writes the line number where the error occurred to variable `EL` (error line). A programmer can redirect their programming code to a specific line after the error. Think of it as a `GOTO` for errors. In this example, the `TRAP` command creatively exits graphics mode. When the user hits the R/S key, an error is produced. Without the `TRAP` command, the program would simply stop and freeze on the graphics screen. The user then types a `GRAPHIC` command blindly to get back to a text screen. Instead, the program exits the graphics screen gracefully to a text screen with a soft color palette to a R/S key press has occurred.
+
 ### Drawing Circles
 
 Let's use the `CIRCLE` command to draw two circles as shown in the image below.
@@ -517,13 +530,13 @@ Let's use the `CIRCLE` command to draw two circles as shown in the image below.
 
 ![Ellipse NTSC](https://www.stevencombs.com/plus4/images/ellipse-ntsc.png)
 
-The program above includes two `CIRCLE` commands in lines `20` and `30`. Line `20` draws (`1`) a circle starting at a center point (`50,50`) out to a radius of defined by two coordinates (`25,25`); however, if you look at the output on my NTSC screen, while the math describes a perfect circle, the Plus/4 displays an ellipse. That's because pixels on the Plus/4, or for that matter most 8-bit computers of their time, are not square but rectangular as shown in the image below:
+The program above includes two `CIRCLE` commands in lines `20` and `30`. Line `20` draws (`1`) a circle starting at a center point (`50,50`) out to a radius of defined by two coordinates (`25,25`); however, if you look at the output on my NTSC screen, while the math describes a perfect circle, the Plus/4 displays an ellipse. That's because pixels on an [NTSC](https://en.wikipedia.org/wiki/NTSC) Plus/4, are not square but rectangular as shown in the image below:
 
 ![8x8 Character](https://www.stevencombs.com/plus4/images/8x8-character.png)
 
 The second line accounts for this to give a more visually accurate rendering of a circle.
 
-My fellow Commodore Plus/4 users over the pond using PAL monitors will not see this distortion, as shown below:
+My fellow Commodore Plus/4 users over the pond using [PAL](https://en.wikipedia.org/wiki/PAL) monitors will not see this distortion, as shown below:
 
 ![Ellipse PAL](https://www.stevencombs.com/plus4/images/ellipse-pal.png)
 
@@ -543,99 +556,109 @@ The `CIRCLE` command can draw shapes in addition to circles as the code below de
 
 ![Shapes](https://www.stevencombs.com/plus4/images/shapes.png)
 
-We previously played with a program that acted like a Spirograph. Let's do another one.
+An earlier program simulated a Spirograph. Let's swap out the Spirograph ring insert and create another shape.
 
 ```basic
-10 color 0,1
-20 color 1,2
-30 graphic 1,1
-40 a = rnd(1) * 20 + 10
-50 for l=0 to 359 step a
-60 circle 1, 160, 100, 80, 40,,,l
-70 next l
-80 for l = 1 to 2000 : next l
-90 graphic 0,1
+10 COLOR 0,1
+20 COLOR 1,2
+30 GRAPHIC 1,1
+40 A = RND(1) * 20 + 10
+50 FOR L=0 TO 359 STEP A
+60 CIRCLE 1, 160, 100, 80, 40,,,L
+70 NEXT L
+80 FOR L = 1 TO 2000 : NEXT L
+90 GRAPHIC 0,1
 ```
 **💾 On Disk:** `07 SPIROGRAPH 2`
 
 ![Spirograph 2](https://www.stevencombs.com/plus4/images/spirograph-2.png)
 
-The program below will draw four circles. It's a simple program that uses math to space the circles out.
+The program below will draw four circles. It's a simple program that uses math and some variables to space the circles out.
 
 ```basic
-10 color 0,1
-20 color 1,2
-30 graphic 2,1
-40 for l = 1 to 4
-50 y = 50
-60 if l = 2 or l = 4 then y = 100
-70 x = l * 35 + 50
-80 circle 1,x,y,50,42
-90 next l
-100 ? "plus/4 circles"
+10 COLOR 0,1
+20 COLOR 1,2
+30 GRAPHIC 2,1
+40 FOR L = 1 TO 4 : REM CHANGE `4` to `5`
+50 Y = 50
+60 IF L = 2 OR L = 4 THEN Y = 100
+70 X = L * 35 + 50
+80 CIRCLE 1,X,Y,50,42
+90 NEXT L
+100 ? "PLUS/4 CIRCLES"
 ```
 **💾 On Disk:** `07 CIRCLES`
 
 ![Circles](https://www.stevencombs.com/plus4/images/circles.png)
 
+## The `PAINT` Command
 
-
-### The `PAINT` Command
-
-Add the lines below to the previous program.
+Let's fill in portions of the overlapping circles. Add the lines below to the previous program.
 
 ```basic
-110 for l = 0 to 2
-120 paint 1,120 + 35 * l,75
-130 next l
+110 FOR L = 0 TO 2
+120 PAINT 1,120 + 35 * L,75
+130 NEXT L
 ```
 **💾 On Disk:** `07 VENN`
 
 ![VENN](https://www.stevencombs.com/plus4/images/venn.png)
 
+While not a true Venn diagram, we could use the code to create the circles and area fills that become the makings of a BASIC Venn diagram program.
 
+> **NOTE:** In the video, I show what I believe was the original intent of the previous two programs, the creation of the Olympic symbol. My demonstration during the video adds the fifth circle and when complete, both examples make more sense as shown in the image below:
+
+![VENN](https://www.stevencombs.com/plus4/images/venn-5.png)
 
 ## Multi-Color Graphics
 
-The two programs below demonstrate the Plus/4's mult-color graphics mode.
+The two programs below demonstrate the Plus/4's multi-color graphics mode.
+
+### MULTI-COLOR PROGRAM
+
+<!-- Describe Multi-Color Mode and what this program does -->
 
 ```basic
-10 color 0,1
-20 graphic 4,1
-30 for l = 1 to 4
-40 q = l : if q > 3 then q = q - 3
-50 color q,l+1,0 : rem added lum value
-60 y = 50
-70 if l = 2 or l = 4 then y = 100
-80 x = l * 18 + 25
-90 circle q,x,y,25,42
-100 next l
-110 color 1,2 : rem added for legibility
+10 COLOR 0,1
+20 GRAPHIC 4,1
+30 FOR L = 1 TO 5
+40 Q = L : IF Q > 3 THEN Q = Q - 3
+50 COLOR Q,L+1,0 : REM ADDED LUM VALUE
+60 Y = 50
+70 IF L = 2 OR L = 4 THEN Y = 100
+80 X = L * 18 + 25
+90 CIRCLE Q,X,Y,25,42
+100 NEXT L
+110 COLOR 1,2 : REM ADDED FOR LEGIBILITY
 ```
 **💾 On Disk:** `07 MULTI-COLOR`
 
-![Multi-Color](https://www.stevencombs.com/plus4/images/multi-color.png)
+![Multi-Color](https://www.stevencombs.com/plus4/images/mult-color.png)
+
+### NEON SIGN PROGRAM
+
+The last program in this chapter create an 8-bit simulation of a flashing neon sign. What's the message you ask? You'll have to type in the code to find out, or better yet, review the code and try to anticipate the message.
 
 ```basic
-10 color 0,1
-20 graphic 3,1
-30 color 3,1
-40 trap 200
-50 draw 3,10,10 to 10,100 : draw 3,10,55 to 30,55
-60 draw 3,30,10 to 30,100 : draw 3,50,10 to 80,10
-70 draw 3,65,10 to 65,100 : draw 3,50,100 to 80,100
-80 for l = 0 to 7
-90 color 3,2,l
-100 for m = 1 to 100 : next m
-110 next l
-120 color 3,1
-130 for m = 1 to 100 : next m
-140 goto 80
-200 graphic 0 : color 1,2,7
+10 COLOR 0,1
+20 GRAPHIC 3,1
+30 COLOR 3,1
+40 TRAP 200
+50 DRAW 3,10,10 TO 10,100 : DRAW 3,10,55 TO 30,55
+60 DRAW 3,30,10 TO 30,100 : DRAW 3,50,10 TO 80,10
+70 DRAW 3,65,10 TO 65,100 : DRAW 3,50,100 TO 80,100
+80 FOR L = 0 TO 7
+90 COLOR 3,2,L : REM CHANGE 2 TO 9 (ORANGE) FOR MORE FUN
+100 FOR M = 1 TO 100 : NEXT M
+110 NEXT L
+120 COLOR 3,1
+130 FOR M = 1 TO 100 : NEXT M
+140 GOTO 80
+200 GRAPHIC 0 : COLOR 1,2,7
 ```
 **💾 On Disk:** `07 NEON SIGN`
 
-I don't include an image for this one because I don't want to spoil the 8-bit neon light simulating suprise.
+I don't include an image for this one because I don't want to spoil the 8-bit neon light simulating surprise.
 
 ## Final Thoughts
 
@@ -654,11 +677,11 @@ Thanks for watching and if you are inclined, please let other Commodore fans kno
 🕹️ retroCombs, OUT!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzEyMzEwOSwtMTYxNTE0OTc5MSwtNj
-U0Nzg5MTk4LC0xNzI2MjM2MjQ4LC0xMjU0Nzc3NTA4LC03MTE3
-OTc5NSwtNDY4NzA2NTE3LDM2MTcxMTA2MiwxOTIxNzIwMzQ3LC
-0xNjU3MzM1Mzc5LDEwNTY1MTI2NDQsLTY4MDE4MTcyLC05NjY1
-Mzg0ODYsMzA4MTMyNTE2LDU1MDk4MDQ0NCwtMTAyMTY4NzQ0OC
-w0ODEyNDI3NjQsLTQ2MzU0ODg4MCwyMDU1MDY2MTI0LC0xNzky
-NzQzNDYwXX0=
+eyJoaXN0b3J5IjpbLTIwOTk2NTAyNCwtNTA1NTYxMjQxLC0xMD
+cyNjE0NzQyLC0xNTEzNDEyOTgwLDEzMjU1MDA4OTEsMTE2NzIw
+ODUyNiwtMTI5NDUxNTEyOSwtMjk0ODQ1MzY5LDExNDcxMjMxMD
+ksLTY1NDc4OTE5OCwtMTcyNjIzNjI0OCwtMTI1NDc3NzUwOCwt
+NzExNzk3OTUsLTQ2ODcwNjUxNywzNjE3MTEwNjIsMTkyMTcyMD
+M0NywtMTY1NzMzNTM3OSwxMDU2NTEyNjQ0LC02ODAxODE3Miwt
+OTY2NTM4NDg2XX0=
 -->
