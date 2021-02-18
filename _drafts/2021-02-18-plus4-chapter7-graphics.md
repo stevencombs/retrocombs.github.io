@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'retroCombs: Plus/4 User’s Manual Chapter 7 - Using Graphics and Color'
-date: '2021-01-30'
+date: '2021-02-18'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-8
 email: 'steven.combs@gmail.com'
@@ -76,7 +76,7 @@ This episode is a small part of my larger Commodore Plus/4 series. You can read 
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Like the series, the image is not complete.**
 
-[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2020-11-24
+[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-02-13
 
 I use the following file name convention to make it easy to locate specific programs:
 
@@ -105,11 +105,11 @@ Below are the links for previous chapters covered:
 
 In the video below, I work through Chapter 6 of the user's manual.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/NtSp4xOcz-M" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/APEsf1tgf30" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Video Errata
 
-None as of 2021-02-08.
+None as of 2021-02-18.
 
 ## Links Mentioned in this Episode:
 
@@ -172,7 +172,7 @@ Use combinations of the PETSCII characters to create lines, shapes, environments
 
 ## Character Animation
 
-You can use BASIC and PETSCII to create both images and animations. The three programs below create animations like traditional animation cels one-by-one using the `PRINT` command.
+You can use BASIC and PETSCII to create both images and animations. The three programs below create animations using traditional animation cels; one-by-one using the `PRINT` command.
 
 ### PULSE BALL PROGRAM
 Need a visual for an alarm, this program will perfectly and you can modify the speed of the pulse by changing the value of `L`.
@@ -241,7 +241,7 @@ In our previous examples, all the characters have been black. We touched on chan
 
 `COLOR 0,7` will change the background color to blue. `0` specifies a border color change with `7` once again representing the color.
 
-`COLOR 4,3,0` uses a third color value that sets color luminance. Use this value to modify the "kinda" red and blue colors. Now the border will be "really" red.
+`COLOR 4,3,0` uses a third color value that sets color luminescence. Use this value to modify the "kinda" red and blue colors. Now the border will be "really" red.
 
 The table below displays all `COLOR` command variables:
 
@@ -290,6 +290,8 @@ There was an error in the user's manual code that I corrected. See `REM` stateme
 200 DATA 7, 14, 4, 13, 6, 16, 11, 8, 10, 9, 3, 12, 5, 15, 2, 1
 ```
 **💾 On Disk:** `07 COLOR PALETTE`
+
+> **NOTE:** I failed to talk about the `RESTORE` command in the video. The `RESTORE` command in line 110 is used along with the `DATA` command in line 200. As the program moves through the list of data, the `RESTORE` command will reset the point back to the very first data value, which is `7` in this example.
 
 ## High Resolution Graphics
 
@@ -343,7 +345,7 @@ You can switch between modes using `GRAPHIC 0` (text) and `GRAPHIC 2` (high-res)
 
 Now the fun begins. Let's use BASIC commands to draw shapes in high-res mode. Type `GRAPHIC2,1:DRAW1,0,0` and hit `⏎`. Look very closely at the top left corner of the screen. You just drew your first pixel (dot) on the Plus/4. Every line begins at the beginning.
 
-Let's try another one. Type `DRAW1,1,1 TO 100,100` and hit `⏎`. A line is drawn that connects to our dot (at coordinates X=0 and Y=0) beginning at X=1 and Y=1 to the end of the line at X=100 and Y=100. In theory (math that is) this should be a 45° line; however, because of the 8x8 character matrix, it's distorted.
+Let's try another one. Type `DRAW1,1,1 TO 100,100` and hit `⏎`. A line is drawn that connects to our dot (at coordinates X=0 and Y=0) beginning at X=1 and Y=1 to the end of the line at X=100 and Y=100. In theory (math that is) this should be a 45° line; however, because of the 8 x 8 character matrix, it's distorted.
 
 > **REMEMBER** Unlike an axis in algebra or geometry, coordinates 0,0 is the upper left-hand corner, not the lower-left hand corner and positive values down and to the right.
 
@@ -359,13 +361,13 @@ Let's break down the `DRAW` command syntax:
 
 Omitted everything from `TO` on , will draw a single dot.
 
-There are two options for *color*. `0` equals the background color. `1` equals the forground color established using the last know value or by the COLOR command.
+There are two options for *color*. `0` equals the background color. `1` equals the foreground color established using the last know value or by the COLOR command.
 
 Time for a longer example.
 
 ### SINE CURVE PROGRAM
 
-Let's use our new found graphics commands, combined with some math (or maths for my European visitors), to create a high-res representation of the sine function; the [sine curve (or wave)](https://en.wikipedia.org/wiki/Sine_wave) as shown in the image below:
+Let's use our new found graphics commands, combined with some math (or "maths" for my European friends), to create a high-res representation of the sine function; the [sine curve (or wave)](https://en.wikipedia.org/wiki/Sine_wave) as shown in the image below:
 
 ![Graphics](https://www.stevencombs.com/plus4/images/sine-wave.png)
 
@@ -400,7 +402,7 @@ I like this version better, so keep the program in memory before continuing to t
 
 ## The `CHAR` Command
 
-A graph alone can speak volumes; however some graphs require characters to the full story or to orient users. Luckily, the Plus/4 allows us to overlay characters on top of our graphs.
+A graph alone can speak volumes; however, some graphs require characters to tell the entire story. Luckily, the Plus/4 can overlay characters on top of our graphs in high-res or multi-color graphics modes.
 
 ### CHARACTERS ON GRAPH PROGRAM
 
@@ -606,7 +608,7 @@ Let's fill in portions of the overlapping circles. Add the lines below to the pr
 
 While not a true Venn diagram, we could use the code to create the circles and area fills that become the makings of a BASIC Venn diagram program.
 
-> **NOTE:** In the video, I show what I believe was the original intent of the previous two programs, the creation of the Olympic symbol. My demonstration during the video adds the fifth circle and when complete, both examples make more sense as shown in the image below:
+> **NOTE:** In the video, I demonstrate what I believe was the original intent of the previous two programs, the creation of the Olympic symbol. I add the fifth circle and when complete, both examples make more sense as shown in the image below:
 
 ![VENN](https://www.stevencombs.com/plus4/images/venn-5.png)
 
@@ -635,6 +637,8 @@ The two programs below demonstrate the Plus/4's multi-color graphics mode.
 
 ![Multi-Color](https://www.stevencombs.com/plus4/images/mult-color.png)
 
+> **NOTE:** Like the previous two programs, the modification of this program to draw five circles is a better example. Can you figure out how to modify the program to include the fifth circle?
+
 ### NEON SIGN PROGRAM
 
 The last program in this chapter create an 8-bit simulation of a flashing neon sign. What's the message you ask? You'll have to type in the code to find out, or better yet, review the code and try to anticipate the message.
@@ -658,13 +662,13 @@ The last program in this chapter create an 8-bit simulation of a flashing neon s
 ```
 **💾 On Disk:** `07 NEON SIGN`
 
-I don't include an image for this one because I don't want to spoil the 8-bit neon light simulating surprise.
+I don't include an image for this one because I don't want to spoil the 8-bit neon light simulating surprise. In the companion video I also share how to make the neon sign seem more, "neony!"
 
 ## Final Thoughts
 
-This chapter was a blast; although it did take a long time to prepare this post and the video as I learned and relearned Commodore BASIC concepts.
+This chapter was a blast; however, it did take a long time to prepare this post and the video.
 
-In the next chapter, we will use the Plus/4 to play sounds and music. Add these concepts to this chapter and we are on our way to creating games and audio/visual demos.
+In the next chapter, we will use the Plus/4 to play sounds and music. Add these concepts to this chapter and we are on our way to creating games and audio/visual demos in Commodore BASIC 3.5.
 
 You won't want to miss that fun. Make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
@@ -677,11 +681,11 @@ Thanks for watching and if you are inclined, please let other Commodore fans kno
 🕹️ retroCombs, OUT!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk2NTAyNCwtNTA1NTYxMjQxLC0xMD
-cyNjE0NzQyLC0xNTEzNDEyOTgwLDEzMjU1MDA4OTEsMTE2NzIw
-ODUyNiwtMTI5NDUxNTEyOSwtMjk0ODQ1MzY5LDExNDcxMjMxMD
-ksLTY1NDc4OTE5OCwtMTcyNjIzNjI0OCwtMTI1NDc3NzUwOCwt
-NzExNzk3OTUsLTQ2ODcwNjUxNywzNjE3MTEwNjIsMTkyMTcyMD
-M0NywtMTY1NzMzNTM3OSwxMDU2NTEyNjQ0LC02ODAxODE3Miwt
-OTY2NTM4NDg2XX0=
+eyJoaXN0b3J5IjpbMTY4OTEyOTgyMCwxMjI0OTgwODg3LC0xNj
+MzNjcxNzU2LC0yMDk5NjUwMjQsLTUwNTU2MTI0MSwtMTA3MjYx
+NDc0MiwtMTUxMzQxMjk4MCwxMzI1NTAwODkxLDExNjcyMDg1Mj
+YsLTEyOTQ1MTUxMjksLTI5NDg0NTM2OSwxMTQ3MTIzMTA5LC02
+NTQ3ODkxOTgsLTE3MjYyMzYyNDgsLTEyNTQ3Nzc1MDgsLTcxMT
+c5Nzk1LC00Njg3MDY1MTcsMzYxNzExMDYyLDE5MjE3MjAzNDcs
+LTE2NTczMzUzNzldfQ==
 -->
