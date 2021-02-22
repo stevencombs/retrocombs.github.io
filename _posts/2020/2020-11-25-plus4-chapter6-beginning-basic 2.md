@@ -120,7 +120,7 @@ The two programming modes are DIRECT (IMMEDIATE) and INDIRECT (PROGRAM).
 
 Type syntax correct commands on an empty line followed the `⏎`. Examples of DIRECT mode commands include:
 
-```basic
+```realbasic
 LIST
 DSAVE
 DLOAD
@@ -145,14 +145,14 @@ Input/Output (I/O) statements allow programmers to communicate with an individua
 
 Let's take a look at some output statement examples. Two output statement examples are below that answer the questions, "Does my checking account have money?" and "Can I have a purple lizard in my control room?"
 
-```basic
+```realbasic
 100 ? "YOU ARE BROKE!"
 150 ? "YOU CAN'T BRING YOUR FRIEND INTO THE CONTROL ROOM!"
 ```
 
 We already covered numbers and calculations with the `PRINT` command in Chapter 5; however, here are a few more examples:
 
-```basic
+```realbasic
 100 ? 58*15,23,45+1000-45*(4-3)
 ```
 
@@ -160,7 +160,7 @@ This BASIC program will print:
 
 `870       23        1000`
 
-```basic
+```realbasic
 10 R=10*2 : N=R-5
 20 ? "R IS";R;"AND N IS";N
 30 ? "BUT R TIMES 2 IS";R*2
@@ -170,7 +170,7 @@ This BASIC program will print:
 
 Normally, each `PRINT` statement will automatically move the cursor to the next line. The `;` will override and print the line next to the previous line as shown in the example below:
 
-```basic
+```realbasic
 200 ? "THESE TWO SENTENCE PARTS WILL BE ";
 210 ? "PRINTED ONE AFTER THE OTHER."
 ```
@@ -180,7 +180,7 @@ Normally, each `PRINT` statement will automatically move the cursor to the next 
 
 The next examples demonstrate how to collect user and user defined program data. The first example requests user input and then reprints that input as part of an output, or `PRINT`, statement.
 
-```basic
+```realbasic
 10 ? "WHAT IS YOUR NAME";
 20 INPUT A$
 30 ? "I AM PLEASED TO MEET YOU";A$;"."
@@ -197,7 +197,7 @@ Line 40 includes a variable after the line to collect the numeric data whereas l
 
 The `GETKEY` input statement accepts a single key press and requires a string variable such as `A$`. The command does not require `⏎`. Below is an example:
 
-```basic
+```realbasic
 1000 ? "PLEASE CHOOSE A,B,C,D,E, OR F."
 1010 GETKEY A$
 1020 ? A$
@@ -208,7 +208,7 @@ The `GETKEY` input statement accepts a single key press and requires a string va
 
 The final INPUT statement(s) is `READ`/`DATA`. The `READ` statement is similar to the INPUT command; however, a program receives information from code rather than a user. Information is stored in code using `DATA` statements. Below is an example the reads the names of the [Marx Brothers](https://en.wikipedia.org/wiki/Marx_Brothers):
 
-```basic
+```realbasic
 10 READ A$, B$, C$, D$, E$
 20 ? A$ : ? B$ : ? C$: ? D$ : ? E$
 30 DATA GROUCHO, HARPO, CHICO, ZEPPO, GUMMO
@@ -237,7 +237,7 @@ We can execute a line of code, one after another, but we can also jump around wi
 
 In previous chapters, I would demonstrate a program that continually displays a line of text until the [R/S] key is hit. Remember that code? Here it is again:
 
-```basic
+```realbasic
 10 ? "RETROCOMBS ";
 20 GOTO 10
 ```
@@ -248,7 +248,7 @@ The `GOTO` control statement was introduce as early as Chapter 1. It is one of t
 
 There is another way to create an infinite loop and that is with a `DO`/`LOOP` statement. This method of creating an infinite loop, that you can break out of within the program, is more elegant than our use of the `GOTO` command as shown in the example below:
 
-```basic
+```realbasic
 10 DO
 20 ? "GOING UP ";
 30 LOOP
@@ -257,7 +257,7 @@ There is another way to create an infinite loop and that is with a `DO`/`LOOP` s
 
 The statements between the `DO` and `LOOP` continue to execute without the need to reference a specific line number. Let's rewrite my retroCombs screen fill program using a `DO`/`LOOP` statement:
 
-```basic
+```realbasic
 10 DO : ? "RETROCOMBS";
 30 LOOP
 ```
@@ -266,7 +266,7 @@ The statements between the `DO` and `LOOP` continue to execute without the need 
 
 We use `FOR`/`NEXT` statements to create finite loops; or loops that repeat a certain number of times. A variable in a `FOR`/`NEXT` loop counts the number of loops. Below is an example:
 
-```basic
+```realbasic
 10 ? "COUNTUP..."
 20 FOR J= 1 TO 10
 30 ? "WE HAVE";J
@@ -277,8 +277,8 @@ We use `FOR`/`NEXT` statements to create finite loops; or loops that repeat a ce
 
 The program above "steps" through the loop in increments of one; however, you can modify the `STEP` value. To increment by a value of 5, the `FOR` line would like the one shown below:
 
-```basic
-20 FOR J= 10 TO 30 STEP 5
+```realbasic
+20 FOR J = 10 TO 30 STEP 5
 ```
 
 If we `PRINT` J, the results would be the following:
@@ -287,8 +287,8 @@ If we `PRINT` J, the results would be the following:
 
 A negative STEP value allows the counter to count backward. To increment by a value of -5, the `FOR` line will look like the one below:
 
-```basic
-20 FOR J= 30 TO 10 STEP -5
+```realbasic
+20 FOR J = 30 TO 10 STEP -5
 ```
 
 If we `PRINT` J, the results would be the following:
@@ -297,11 +297,11 @@ If we `PRINT` J, the results would be the following:
 
 Using the negative step value, we can program a NASA rocket program countdown timer as shown below.
 
-```basic
+```realbasic
 10 ? "COUNTDOWN..."
-20 FOR J= 10 TO 1 STEP -1
+20 FOR J = 10 TO 1 STEP -1
 30 ? "WE ARE AT";J
-35 FOR T= 1 TO 500 : NEXT T
+35 FOR T = 1 TO 500 : NEXT T
 40 NEXT J
 50 ? "WE HAVE LIFT-OFF!"
 ```
@@ -311,11 +311,11 @@ Using the negative step value, we can program a NASA rocket program countdown ti
 
 > **TIP:** Use the `RENUMBER` command (`RENUMBER,,10`) if that single out of balance 35 line number doesn't work for you and you like the lines numbered from 10 to 70 in increments of 10 as shown below:
 
-```basic
+```realbasic
 10 ? "COUNTDOWN..."
-20 FOR J= 10 TO 1 STEP -1
+20 FOR J = 10 TO 1 STEP -1
 30 ? "WE ARE AT";J
-40 FOR T= 1 TO 500 : NEXT T
+40 FOR T = 1 TO 500 : NEXT T
 50 NEXT J
 60 ? "WE HAVE LIFT-OFF!"
 ```
@@ -328,11 +328,11 @@ We often use `IF`/`THEN` statements to act on user keyboard, or joystick, input 
 
 > **NOTE:** The program in the book was a disaster. It appears as if there were two program smashed into a single listing. I've cleaned up the program so it makes sense.
 
-```basic
+```realbasic
 10 INPUT "WHAT'S THE 10TH LETTER OF THE ALPHABET?";A$
-20 IF A$="J" THEN ? "CORRECT!" : GOTO 50
+20 IF A$ = "J" THEN ? "CORRECT!" : GOTO 50
 30 INPUT "ANSWER IS INCORRECT. TRY AGAIN? (Y OR N)";X$
-40 IF X$="Y" THEN 10 : ELSE 60
+40 IF X$ = "Y" THEN 10 : ELSE 60
 50 ? "YOU ANSWERED CORRECTLY, SO WHY CONTINUE?" : END
 60 ? "I STUMPED YOU, HUH?"
 ```
@@ -350,8 +350,8 @@ We create a subroutine to execute the same code over and over in a larger progra
 
 The code below prompts the user for a number between 1 and 10. If the number entered is within that range, the program will prompt for the same range again. If the number is not within that range (`N<1` or `N>10`), the GOSUB statement will send the code execution to line 100 that prints a statement saying the number is out of range and give it another shot. When two numbers within range are entered, the program will add their values and `END` the program.
 
-```basic
-10 T=0 : FOR J=1TO2
+```realbasic
+10 T=0 : FOR J = 1 TO 2
 20 ? "TYPE A NUMBER FROM 1 TO 10
 30 INPUT N
 40 IF N<1 THEN GOSUB 100 : GOTO 20
@@ -374,7 +374,7 @@ The code below prompts the user for a number between 1 and 10. If the number ent
 
 Use a `REM` statement to add comments to your code. These can be their own unique lines or added at the end of lines. `REM` statements are often used to show credit or describe a line's operation. Below are a few examples:
 
-```basic
+```realbasic
 10 REM TITLE: REM STATEMENTS
 20 REM CODER: RETROCOMBS
 30 E=R/T*9 : REM THIS FIGURES OUT A PITCHER'S ERA

@@ -158,8 +158,8 @@ I wrote a BASIC program that will display PETSCII characters on the screen. `DLO
 
 ```realbasic
 5 SCNCLR
-10 FOR T =33 TO 127 : PRINT CHR$(T); : NEXT T
-20 FOR T = 160 TO 255: PRINT CHR$(T); : NEXT T
+10 FOR T = 33 TO 127 : PRINT CHR$(T); : NEXT T
+20 FOR T = 160 TO 255 : PRINT CHR$(T); : NEXT T
 ```
 
 **💾 On Disk:** `07 PETSCII`
@@ -178,7 +178,7 @@ You can use BASIC and PETSCII to create both images and animations. The three pr
 ### PULSE BALL PROGRAM
 Need a visual for an alarm, this program will perfectly and you can modify the speed of the pulse by changing the value of `L`.
 
-```basic
+```realbasic
 10 ? "⌂●"
 20 FOR L = 1 TO 100 " : REM CHANGE VALUE TO MODIFY SPEED
 30 NEXT L
@@ -192,7 +192,7 @@ Need a visual for an alarm, this program will perfectly and you can modify the s
 ### JUMPING JACK PROGRAM
 It's exercise time! This program will help you get your daily number of jumping jacks logged and you can make them as fast as you want!
 
-```
+```realbasic
 5 SCNCLR
 10 ? "⌂╲○╱"
 20 ? " ▒ "
@@ -209,8 +209,8 @@ It's exercise time! This program will help you get your daily number of jumping 
 ### INCH WORM PROGRAM
 The two examples above place animations on the screen that stay in the same location. In this program, our worm will inch its way along the top two lines of the screen and then stop.
 
-```
-5 FOR A= 0 TO 30 : REM CHANGE A BUT NOT > 36
+```realbasic
+5 FOR A = 0 TO 30 : REM CHANGE A BUT NOT > 36
 10 SCNCLR
 20 ? TAB(A)"╭╮╭╮"
 30 ? TAB(A)"╯╰╯╰"
@@ -226,7 +226,7 @@ The two examples above place animations on the screen that stay in the same loca
 ### MOVE BALL PROGRAM
 We can make a simple animation by drawing an object, then erasing it, and then redrawing in the next adjacent space as shown in the code below. BASIC will draw a `●`, then move back one space. The next line will overwrite the previous `●` with a `␣` and then draw another `●` to the right of the previous. It's a simple animation that moves the ball from the top-left of the screen, line-by-line, until it reaches the bottom lower-right. Can you predict what happens next?
 
-```
+```realbasic
 10 SCNCLR
 20 ? " ●←";
 30 FOR L = 1 TO 50 : NEXT L
@@ -273,7 +273,7 @@ The program below will display all Commodore Plus/4 colors as shown in the image
 
 There was an error in the user's manual code that I corrected. See `REM` statements within code for details.
 
-```
+```realbasic
 5 SCNCLR
 10 COLOR 0, 7, 7
 20 FOR M = 0 TO 7
@@ -308,7 +308,7 @@ This BASIC program will create a series of intersecting lines using the `GRAPHIC
 
 ![Graphics](https://www.stevencombs.com/plus4/images/graphics.png)
 
-```
+```realbasic
 10 COLOR 0, 1
 20 GRAPHIC 1, 1
 30 FOR L = 2 TO 16
@@ -372,7 +372,7 @@ Let's use our new found graphics commands, combined with some math (or "maths" f
 
 ![Graphics](https://www.stevencombs.com/plus4/images/sine-wave.png)
 
-```
+```realbasic
 10 COLOR 0, 1
 20 COLOR 1, 2
 30 GRAPHIC 1, 1
@@ -391,7 +391,7 @@ Let's use our new found graphics commands, combined with some math (or "maths" f
 
 Without clearing the screen and immediately after running the program, replace line 70 by typing:
 
-```basic
+```realbasic
 70 DRAW 1, X, Y
 ```
 
@@ -409,7 +409,7 @@ A graph alone can speak volumes; however, some graphs require characters to tell
 
 Using the program from the previous section, add the following lines to add characters to our graph:
 
-```basic
+```realbasic
 81 char 1,0,0,"graph of" : char 1,0,1,"formula"
 82 char 1,0,2,"y=sin(x)"
 83 draw 1,0,100 to 319,100,189,0 to 189,199
@@ -436,7 +436,7 @@ Below is a sample  `BOX` command and an image of the results:
 
 <!-- Add Programs to .d81 file after this point -->
 
-```basic
+```realbasic
 10 GRAPHIC 2,1
 20 BOX 1,0,0,100,100
 ```
@@ -454,7 +454,7 @@ The first value in line 20, `1`, is the value to draw, rather than erase which i
 
 Let's add a new line 20 and copy line 20 to line 30 while adding an additional attribute to the `BOX command; a rotation.
 
-```basic
+```realbasic
 10 GRAPHIC 2,1
 20 DRAW 1,50,50 : REM ROTATION POINT
 30 BOX 1,0,0,100,100,45
@@ -469,7 +469,7 @@ Line 20 draws the center of our rotation point. The value `45` will rotate the b
 
 Much code and "ciphering" is necessary if you want to fill polygons using the `DRAW` command. Luckily, another attribute for the `BOX` command provides the ability to fill polygons as shown in the code and image below:
 
-```basic
+```realbasic
 10 GRAPHIC 2,1
 20 BOX 1,0,0,100,100,,1
 ```
@@ -485,7 +485,7 @@ Let's use the commands we've learned in more complete programs.
 
 This first program that draws multiple boxes from the same center point at random rotations. The result is a computerized and old school [Spirograph](https://amzn.to/3tE5PWM).
 
-```basic
+```realbasic
 10 COLOR 0,1
 20 COLOR 1,2
 30 GRAPHIC 2,1
@@ -504,7 +504,7 @@ This first program that draws multiple boxes from the same center point at rando
 
 Time to create modern art; a bunch of colorful rectangles drawn on the screen over and over. Yes, some people consider this art. Type in or load the program below:
 
-```basic
+```realbasic
 5 TRAP 60 : REM RESETS SCREEN ON ERROR
 10 GRAPHIC 2,1
 20 DEF FNA(X) = INT(RND(1)*X)
@@ -525,7 +525,7 @@ As this codes runs, notice as the rectangles begin to overlap each other, the co
 
 Let's use the `CIRCLE` command to draw two circles as shown in the image below.
 
-```basic
+```realbasic
 10 GRAPHICS 2,1
 20 CIRCLE 1,50,50,25,25
 30 CIRCLE 1,150,50,25,20
@@ -547,7 +547,7 @@ My fellow Commodore Plus/4 users over the pond using [PAL](https://en.wikipedia.
 
 The `CIRCLE` command can draw shapes in addition to circles as the code below demonstrates. Line 35 is not included in the user's manual code. This line erases the previous shape before a new one is drawn. I found this preferred over the manual's drawing shapes over the top of each other.
 
-```basic
+```realbasic
 10 GRAPHIC 2,1
 20 INPUT "HOW MANY SIDES";A
 30 IF A < 2 OR A > 100 THEN ? "DON'T BE RIDICULOUS" : GOTO 20
@@ -561,12 +561,12 @@ The `CIRCLE` command can draw shapes in addition to circles as the code below de
 
 An earlier program simulated a Spirograph. Let's swap out the Spirograph ring insert and create another shape.
 
-```basic
+```realbasic
 10 COLOR 0,1
 20 COLOR 1,2
 30 GRAPHIC 1,1
 40 A = RND(1) * 20 + 10
-50 FOR L=0 TO 359 STEP A
+50 FOR L = 0 TO 359 STEP A
 60 CIRCLE 1, 160, 100, 80, 40,,,L
 70 NEXT L
 80 FOR L = 1 TO 2000 : NEXT L
@@ -578,7 +578,7 @@ An earlier program simulated a Spirograph. Let's swap out the Spirograph ring in
 
 The program below will draw four circles. It's a simple program that uses math and some variables to space the circles out.
 
-```basic
+```realbasic
 10 COLOR 0,1
 20 COLOR 1,2
 30 GRAPHIC 2,1
@@ -598,7 +598,7 @@ The program below will draw four circles. It's a simple program that uses math a
 
 Let's fill in portions of the overlapping circles. Add the lines below to the previous program.
 
-```basic
+```realbasic
 110 FOR L = 0 TO 2
 120 PAINT 1,120 + 35 * L,75
 130 NEXT L
@@ -621,7 +621,7 @@ The two programs below demonstrate the Plus/4's multi-color graphics mode.
 
 <!-- Describe Multi-Color Mode and what this program does -->
 
-```basic
+```realbasic
 10 COLOR 0,1
 20 GRAPHIC 4,1
 30 FOR L = 1 TO 5
@@ -644,7 +644,7 @@ The two programs below demonstrate the Plus/4's multi-color graphics mode.
 
 The last program in this chapter create an 8-bit simulation of a flashing neon sign. What's the message you ask? You'll have to type in the code to find out, or better yet, review the code and try to anticipate the message.
 
-```basic
+```realbasic
 10 COLOR 0,1
 20 GRAPHIC 3,1
 30 COLOR 3,1

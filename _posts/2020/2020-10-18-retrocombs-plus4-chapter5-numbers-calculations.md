@@ -121,7 +121,7 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
 1. Numbers larger than nine digits are represented using scientific notation. Here are some examples:
 
-    ```basic
+    ```realbasic
     20 = 2E+1
     10500 = 1.05E+5
     .0666 = 6.66E-2
@@ -131,14 +131,14 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
 1. We can use a `PRINT` command in a BASIC program to perform calculations as shown in the example below:
 
-    ```basic
+    ```realbasic
     10 ? 1+2,2-1
     20 ? 2*2,4/2
     ```
 
 2. You can print both a calculation, the result of a calculation, or the calculation and the result in a line of BASIC code as shown below:
 
-    ```basic
+    ```realbasic
     10 ? "2001/2010"
     20 ? 2*3
     30 ? "2*3+1=";2*3+1
@@ -150,7 +150,7 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
     > **TIP:** ? = PRINT in Commodore BASIC)
 
-    ```basic
+    ```realbasic
     ? 3-6 ⏎
     -3
     ? 24/(6+2) ⏎
@@ -159,7 +159,7 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
 2. Let's combine what we've learned to use immediate mode to display a calculation and a result. Type the line below on an empty line:
 
-    ```basic
+    ```realbasic
     ? "2 TO THE 3RD POWER EQUALS";2↑3 ⏎
     ```
 
@@ -167,7 +167,7 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
 1. Commodore Basic 3.5 uses the mathematical concept of [order of operations](order of operations). In the example below, 50/5 is performed first with 200 added after the result:
 
-    ```basic
+    ```realbasic
     ? 200+50/5
     ```
 
@@ -180,7 +180,7 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
 3. To modify the precedence of operators, surround the values between `(` and `)` as shown in the example below. The operation `A/3` will complete, followed by `12 +` the value of `A/3`, and then that result multiplied by 36.
 
-    ```basic
+    ```realbasic
     ? 36*(12+(A/3))
     ```
 
@@ -196,16 +196,6 @@ Floating Point | n/a    | Real (Decimal) or Whole Numbers | X, AB, T4 | 23.5, 12
 Integer        | %      | Whole Numbers                   | X%, AI%   | 15, 102, 3
 Text String    | $      | Letters, Numbers, Characters    | X$, MS$   | "TOTAL:" , "DAY 1", "CBM"won't spend time on relational operators. They should appear again in a programming chapter.
 
-Should I give a an example?
-
-## Performing Calculations
-
-1.
-
-## Using Variables
-
-1.
-
 ## Mid Video Retro Break
 
 1. Be sure to **LIKE** each video and **SUBSCRIBE** to the [channel](https://www.youtube.com/stevencombs)! The community is slowly growing.
@@ -216,16 +206,12 @@ Should I give a an example?
 2. A function uses the format: `FUNCTION(X)` where function equals a specific function (such as SIN) and the `X` between the `(` and `)` is a specific value the function will act upon.
 3. Below is a sample program that uses the `SQR(X)` function, or Square Root of a number to print the square root of 1, 2, 3, 4, and 5:
 
-    ```basic
+    ```realbasic
     10 FOR X=1TO5
     20 ?"THE SQUARE ROOT OF";X;"IS";SQR(X)
     30 NEXT X
     ```
     **💾 On Disk:** `05 SQUARE ROOT`
-
-## RandomImmediate Mode
-
-1.
 
 ## Numbers and Other Functions
 
@@ -233,16 +219,16 @@ Should I give a an example?
 2. Commodore Basic includes a `RND(X)` function to produce random numbers within a range of values.
 3. Below is a sample program that will print five random values.
 
-    ```basic
-    10 FOR X=1TO5 : ? RND(X): NEXT X
+    ```realbasic
+    10 FOR X = 1 TO 5 : ? RND(X): NEXT X
     ```
 
     > **TIP:** The line of code above could have been three different lines; however, we use a `:` to place three lines of code on a single line. This can reduce memory usage for longer programs.
 
 4. The program above creates five unique random numbers, but what if we want random numbers between 1 and 5? We will need to use the `INT(X)` function as well as setting a range (5) and lower limit (+1) as shown in the program below:
 
-    ```basic
-    10 FOR X=1TO5
+    ```realbasic
+    10 FOR X = 1 TO 5
     20 ? INT(5*RND(1))+1 : REM 5 IS THE RANGE & +1 IS THE     LOWER LIMIT
     30 NEXT X
     ```
@@ -250,7 +236,7 @@ Should I give a an example?
 
 5. It is also possible to create your own unique function to use throughout a program. If the function is used regularly in a program, this can save memory and speed of operation. Below is an example of a program below that will alternate a line of text on the screen various colors:
 
-    ```basic
+    ```realbasic
     10 DEF FNR(X)=INT(X*RND(1))+1
     20 DO
     30 COLOR 1,FNR(16),5 : REM PICK A COLOR FROM 1 TO 16
@@ -264,12 +250,6 @@ Should I give a an example?
 ## Final Thoughts
 
 This chapter provides the cursory basics of number and calculations. I recommend you check out more functions on page 151 in the user's manual. Of particular interest is that most of the examples I provide can be accomplished using the [Python](https://www.python.org/) interpreter on a modern computer. On that note, the concepts used here will help anyone who wants to learn program BASICs (pun intended).ic Functions
-
-1.
-
-## Random Numbers and Other Functions
-
-1.
 
 ## Join the Fun
 
