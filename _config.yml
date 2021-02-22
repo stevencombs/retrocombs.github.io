@@ -12,7 +12,6 @@ url: 'https://www.stevencombs.com'
 lsi: false
 comments: true
 highlighter: rouge
- linenos: true
 
 themed:
  highlight_color: '#3498db'
