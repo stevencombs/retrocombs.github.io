@@ -24,6 +24,7 @@ This page is an ongoing resource for readers and watchers of my Commodore Plus/4
 
 ## Page Contents
 <!-- TOC -->
+
 Use the handy table of contents below to jump to a section on this page.
 
 - [User's Manual](#users-manual)
@@ -143,11 +144,11 @@ Each blog post contains the companion YouTube video and most include links to it
 
     * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
 
-## Companion Disk Image## Supplemental Disk Image (Coming Soon)
+## Companion Disk Image
 
 As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image that below contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 
-[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-01-28
+[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-02-13
 
 I use the following file name convention to make it easy to locate specific programs:
 
