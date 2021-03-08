@@ -157,15 +157,44 @@ The majority of PETSCII codes have been absorbed into ASCII; however, they can b
 I wrote a BASIC program that will display PETSCII characters on the screen. `DLOAD` or type the program and then `RUN` the program. The screen will clear and the PETSCII characters will fill the top of the screen. and then tap the `⇧` + `C=` keys to cycle between upper and lower-case modes as shown in the images below the code. Right-side graphics characters are available in both upper and lower-case modes. Left-side characters include lines and angles used to draw tables and charts.
 
 ```realbasic
-5 SCNCLR
-10 FOR T = 33 TO 127 : PRINT CHR$(T); : NEXT T
-20 FOR T = 160 TO 255 : PRINT CHR$(T); : NEXT T
+5 scnclr
+10 for t = 33 to 127 : print chr$(t); : next t
+20 for t = 160 to 255 : print chr$(t); : next t
 ```
-
 **💾 On Disk:** `07 PETSCII`
 
 ![Shifted](https://www.stevencombs.com/plus4/images/petscii-shifted-lower-case.png)
 ![Un-shifted](https://www.stevencombs.com/plus4/images/petscii-unshifted-upper-case.png)
+
+***
+
+**Community Addition**
+
+As my reader/viewership grows, so do the suggestions. I'm adding a new feature to the companion blog posts, *community additions.*
+
+Frequent contributor to the comments and YouTube watcher, [Jeffrey Phipps](http://www.youtube.com/channel/UC1hJOW24ah9EiUfsVDuMCSg) created a program to produce a formatted screen that displays upper and lower-case a-z (when in lowercase mode) PETSCII characters next to the `CHR$` code. It's a great addition.
+
+```realbasic
+10 SCNCLR
+20 REM ** COUNT FOR THE FIRST 13 LETTERS
+30 FOR X = 65 TO 77
+40 C1 = X : REM COLUMN 1 - LOWER A-M
+50 C2 = X + 13 : REM COLUMN 2 - LOWER N-Z
+60 C3 = X + ASC(" ") : REM COLUMN 3 - UPPER A-M
+70 C4 = X + 13 + ASC(" "):REM COLUMN 4 - UPPER N-Z
+80 REM ** PRINT FOUR COLUMNS
+90 PRINT C1;"-> ";CHR$(C1);
+100 PRINT C2;"-> ";CHR$(C2);
+110 PRINT C3;"-> ";CHR$(C3);
+120 PRINT C4;"-> ";CHR$(C4)
+130 NEXT X
+```
+
+**💾 On Disk:** `07 A to Z`
+
+![A to Z](https://www.stevencombs.com/plus4/images/a-to-z.png)
+
+***
 
 Use combinations of the PETSCII characters to create lines, shapes, environments, characters, and even animations as we will cover next.
 
@@ -196,7 +225,7 @@ It's exercise time! This program will help you get your daily number of jumping 
 5 SCNCLR
 10 ? "⌂╲○╱"
 20 ? " ▒ "
-30 ? "╱ ╲
+30 ? "╱ ╲"
 40 FOR L = 1 TO 100 : NEXT L
 50 ? "⌂ ○ "
 60 ? "▔▒▔"
@@ -264,7 +293,9 @@ The table below displays all `COLOR` command variables:
 |                 | 15 Dark Blue    |             |
 |                 | 16 Light Green  |             |
 
-> **NOTE:** Multi-color modes will be discussed in the [Multi-Color Graphics](#multi-color-graphics) section.
+
+
+> **NOTE:** The Plus/4 can output 121 colors. Multi-color modes will be discussed in the [Multi-Color Graphics](#multi-color-graphics) section.
 
 ### COLOR PALETTE PROGRAM
 The program below will display all Commodore Plus/4 colors as shown in the image below:
