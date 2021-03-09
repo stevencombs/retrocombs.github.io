@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OPEN THE BOX and FIRST USE: Wyze Vacuum | Does it suck?'
+title: 'OPEN THE BOX and FIRST USE: Wyze Robot Vacuum | Does it suck?'
 date: '2021-03-08'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -18,9 +18,9 @@ tags:
   - smart
 ---
 
-It's time for a Wyze product OPEN THE BOX and FIRST USE. This time, it's the Wyze Vacuum, the newest smart and app enabled vacuum from one of my favorite brands, Wyze. In this blog post and companion video, I open the box and use the vacuum for the very first time.
+It's time for a Wyze product OPEN THE BOX and FIRST USE. This time, it's the Wyze Robot Vacuum, the newest smart and app enabled vacuum from one of my favorite brands, Wyze. In this blog post and companion video, I open the box and use the vacuum for the very first time.
 
-## YouTube Video: _OPEN THE BOX and FIRST USE: Wyze Vacuum, Does it suck?_
+## YouTube Video: _OPEN THE BOX and FIRST USE: Wyze Robot Vacuum, Does it suck?_
 
 Watch the video below and then read afterward for my additional thoughts on this new smart vacuum from Wyze.
 
