@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikki's thoughts on 8 St. Patrick's Day Gnome Ornament Faceless Doll Decorations for $12 (Amazon)'
+title: 'Nikki shares thoughts on 8 St. Patrick's Day Gnome Ornament Faceless Doll Decorations for $12 (Amazon)'
 date: '2021-03-14'
 author: 'Steven B. Combs, Ph.D.'
 email: steven.combs@gmail.com
