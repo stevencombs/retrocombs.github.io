@@ -28,7 +28,7 @@ In the video below, I demonstrate the process to update the MEGA65 (Dev Kit), co
 
 I embed the video markers below in the video so you can jump around to specific content. Of course, I hope you watch the entire video!
 
-* [00:00] Opening
+* [00:00] Openhttps://www.youtube.com/watch?v=9AW0MPkZR9oing
 * [00:12] FAST LOAD Bumper
 * [00:22] Download Firmware
 * [00:58] Update THEVIC20
@@ -60,5 +60,13 @@ Below are the links to the entire Retro Games Commodore series. All Amazon links
 3. I could not figure out how joystick port swapping works. Drop a comment if you know how to use this feature.
 4. REUs! Can you say GEOS? I'd love to see if I can get this working since REU and multi-disk software now works.
 5. Thank you Retro Games for continuing to add features to these devices. This will add longevity to our devices. I can't wait to see what you have in store for us in the next update.
+
+## Join the Fun
+
+You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
+
+Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/tmS0Lidko-U).
+
+Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!
