@@ -446,7 +446,7 @@ Previously we've printed characters on the screen that either butt up next to ea
 Specify zones in the `PRINT` command using the characters `,` and `;`. We already know that using `;` will force the next line of text to butt up next to the previous, but what about `,` ? The `,` is similar to a tab stop but in this case, the tab is starts at every ten characters (the start of a new zone). A demonstration will better explain. Clear the screen and type the command below.
 
 ```basic
-PRINT "Z1","Z2","Z3","Z4"
+? "Z1","Z2","Z3","Z4"
 ```
 
 `RUN` the program and the line below will appear:
@@ -480,7 +480,7 @@ Here's a fun example that combines much of what we've learned today:
 
 2. Type the line of code below:
 
-    `10 FOR X = 1 to 1000 : ? "{Pur}{RVS ON}▇; : NEXT`
+    `10 FOR X = 1 to 1000 : ? "{PUR}{RVS ON}▇; : NEXT`
 
 3. `RUN` the code
 
@@ -506,13 +506,13 @@ The screen will clear, a thick purple border will appears, and you now have a sm
 **\[2021-03-23\]** The BASIC program below demonstrates how to create a screen window using BASIC.
 
 ```basic
-5 color 0,1,7
-10 scnclr
-20 print "⌂→→→→↓↓↓↓";
-30 print chr$(27)+"t"
-40 print "→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓";
-50 print chr$(27)+"b"
-60 color 0,15,0 : color 1,2,7
+5 COLOR 0,1,7
+10 SCNCLR
+20 ? "⌂→→→→↓↓↓↓";
+30 ? CHR$(27)+"T"
+40 ? "→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓";
+50 ? CHR$(27)+"B"
+60 COLOR 0,15,0 : COLOR 1,2,7
 ```
 
 **💾 On Disk:** `04 SCREEN WINDOW`
