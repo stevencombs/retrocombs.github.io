@@ -24,6 +24,21 @@ In this Commodore Plus/4 retroCombs episode, I cover chapter 2 in the user's man
 
 In this blog post and the companions video, I run through each concept and present ways to uses these features. I even discover some "weirdness" with Commodore Basic. It's a packed episode that may take a couple of viewings to get through, but be sure you watch the entire episode if you want to see all the tips and quirks discovered.
 
+<!-- TOC -->
+
+- [Series Information](#series-information)
+- [Companion Disk Image (In Progress)](#companion-disk-image-in-progress)
+- [User's Manual](#users-manual)
+- [YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 2 - Using the Keyboard and the Screen_](#youtube-video-_retrocombs-commodore-plus4-users-manual-chapter-2---using-the-keyboard-and-the-screen_)
+- [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
+- [Key to Keys](#key-to-keys)
+- [Episode Errata](#episode-errata)
+- [Episode Contents](#episode-contents)
+- [Random Thoughts](#random-thoughts)
+- [Join the Fun](#join-the-fun)
+
+<!-- /TOC -->
+
 ## Series Information
 
 This episode is part of a series. You can read the entire series and view additional resources at:
@@ -69,17 +84,19 @@ Below are the links mentioned in the video.
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
-| Key  | Description   | Key  | Description |
-|:---- |:------------- |:---- |:----------- |
-| `⇪`  | Caps Lock     | `F1` | Function 1  |
-| `C=` | Commodore     | `F2` | Function 2  |
-| `⌃`  | Control       | `F3` | Function 3  |
-| `⎋`  | Escape        | `F4` | Function 4  |
-| `⌂`  | Home          | `F5` | Function 5  |
-| `⌫`  | Insert Delete | `F6` | Function 6  |
-| `⏎`  | Return        | `F7` | Function 7  |
-| `RS` | Run/Stop      | `F8` | Help        |
-| `⇧`  | Shift         | `␣`  | Space       |
+| Key     | Description   | Key  | Description |
+|:--------|:--------------|:-----|:------------|
+| `⇪`     | Caps Lock     | `F1` | Function 1  |
+| `[C=]`  | Commodore     | `F2` | Function 2  |
+| `⌃`     | Control       | `F3` | Function 3  |
+| `⎋`     | Escape        | `F4` | Function 4  |
+| `⌂`     | Clear/Home    | `F5` | Function 5  |
+| `⌫`     | Insert Delete | `F6` | Function 6  |
+| `⏎`     | Return        | `F7` | Function 7  |
+| `[R/S]` | Run/Stop      | `F8` | Help        |
+| `⇧`     | Shift         | `␣`  | Space       |
+| `↑`     | Cursor Up     | `↓`  | Cursor Down |
+| `→`     | Cursor Right  | `←`  | Cursor Left |
 
 ## Episode Errata
 
@@ -87,6 +104,7 @@ THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (r
 
 ## Episode Contents
 
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 In this episode I describe and demonstrate each of the items below:
 
 1. Upper-case versus lower-case mode: Default is upper-case graphics mode. Switch between them with `⇧` + `C=`.
@@ -123,7 +141,6 @@ In this episode I describe and demonstrate each of the items below:
     * `⎋`, `Q` = Erase from Position to Right
     * `⎋`, `X` = Cancel an Escape functions
 
-
 9. Special Keys: Per the manual, the keyboard contains special keys such as: `£`, `π`, `<`, `>`, `[`, `]`, `←`, and `↑`.
 10. Function Keys: Type the `KEY` command to display the fuctions of the keys as shown below:
 
@@ -151,6 +168,6 @@ I didn't share this issue in the video; however, when using reverse and flash ch
 
 ## Join the Fun
 
-Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](link).
+Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/O2Mqi2iFFQI).
 
 🕹️ retroCombs, OUT!

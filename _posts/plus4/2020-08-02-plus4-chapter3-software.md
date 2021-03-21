@@ -25,6 +25,33 @@ tags:
 
 In this Commodore Plus/4 retroCombs episode, I cover chapter 3 of the Commodore Plus/4 user's manual. This chapter is dedicated to _Using Software_ and there are several ways to load and save software using; cartridges, datasettes, and diskettes. In this post and the accompanying video, I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](https://www.stevencombs.com/tapuino-1), and a [Pi1541](https://www.stevencombs.com/pi1541-1).
 
+<!-- TOC -->
+
+- [Series Information](#series-information)
+- [Companion Disk Image (In Progress)](#companion-disk-image-in-progress)
+- [User's Manual](#users-manual)
+- [YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 3 - Using Software_](#youtube-video-_retrocombs-commodore-plus4-users-manual-chapter-3---using-software_)
+- [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
+- [Key to Keys](#key-to-keys)
+- [Episode Errata](#episode-errata)
+- [Introduction](#introduction)
+- [Built-In Software](#built-in-software)
+- [Cartridges](#cartridges)
+- [Cassettes](#cassettes)
+  - [Load a program on cassette (or Tapuino)](#load-a-program-on-cassette-or-tapuino)
+  - [Save a program on cassette (or Tapuino)](#save-a-program-on-cassette-or-tapuino)
+- [Diskette](#diskette)
+  - [Load a program on diskette:](#load-a-program-on-diskette)
+  - [Headering a diskette](#headering-a-diskette)
+  - [Save a programs on diskette](#save-a-programs-on-diskette)
+- [The DIRECTORY command](#the-directory-command)
+- [BONUS: SCRATCH command](#bonus-scratch-command)
+- [Modern additions to Chapter 3](#modern-additions-to-chapter-3)
+- [Random Thoughts](#random-thoughts)
+- [Join the Fun](#join-the-fun)
+
+<!-- /TOC -->
+
 ## Series Information
 
 This episode is a small part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
@@ -76,17 +103,19 @@ Below are the links I mention in the video.
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
-| Key  | Description   | Key  | Description |
-|:---- |:------------- |:---- |:----------- |
-| `⇪`  | Caps Lock     | `F1` | Function 1  |
-| `C=` | Commodore     | `F2` | Function 2  |
-| `⌃`  | Control       | `F3` | Function 3  |
-| `⎋`  | Escape        | `F4` | Function 4  |
-| `⌂`  | Home          | `F5` | Function 5  |
-| `⌫`  | Insert Delete | `F6` | Function 6  |
-| `⏎`  | Return        | `F7` | Function 7  |
-| `RS` | Run/Stop      | `F8` | Help        |
-| `⇧`  | Shift         | `␣`  | Space       |
+| Key     | Description   | Key  | Description |
+|:--------|:--------------|:-----|:------------|
+| `⇪`     | Caps Lock     | `F1` | Function 1  |
+| `[C=]`  | Commodore     | `F2` | Function 2  |
+| `⌃`     | Control       | `F3` | Function 3  |
+| `⎋`     | Escape        | `F4` | Function 4  |
+| `⌂`     | Clear/Home    | `F5` | Function 5  |
+| `⌫`     | Insert Delete | `F6` | Function 6  |
+| `⏎`     | Return        | `F7` | Function 7  |
+| `[R/S]` | Run/Stop      | `F8` | Help        |
+| `⇧`     | Shift         | `␣`  | Space       |
+| `↑`     | Cursor Up     | `↓`  | Cursor Down |
+| `→`     | Cursor Right  | `←`  | Cursor Left |
 
 ## Episode Errata
 

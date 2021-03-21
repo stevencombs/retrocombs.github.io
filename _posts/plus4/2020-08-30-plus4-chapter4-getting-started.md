@@ -23,6 +23,29 @@ tags:
 
 In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore Plus/4 user's manual. In this chapter, _Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I show you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
 
+<!-- TOC -->
+
+- [Series Information](#series-information)
+- [Companion Disk Image (In Progress)](#companion-disk-image-in-progress)
+- [User's Manual](#users-manual)
+- [YouTube Video: _retroCombs: Commodore Plus/4 User's Guide, Chapter 4 - Getting Started_](#youtube-video-_retrocombs-commodore-plus4-users-guide-chapter-4---getting-started_)
+- [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
+- [Key to Keys](#key-to-keys)
+- [Episode Errata](#episode-errata)
+- [Introduction](#introduction)
+- [Keyboard Colors](#keyboard-colors)
+- [BONUS TOPIC: Clear the Screen](#bonus-topic-clear-the-screen)
+- [Color and Reverse Printing](#color-and-reverse-printing)
+- [Some Simple Programs](#some-simple-programs)
+- [Correcting Typing Mistakes](#correcting-typing-mistakes)
+- [Introduction to the Plus/4 Text Screen](#introduction-to-the-plus4-text-screen)
+- [More about PRINTing on the Screen](#more-about-printing-on-the-screen)
+- [Screen Windows](#screen-windows)
+- [Random Thoughts](#random-thoughts)
+- [Join the Fun](#join-the-fun)
+
+<!-- /TOC -->
+
 ## Series Information
 
 This episode is a small part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
@@ -73,17 +96,19 @@ Below are the links I mention in the video.
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
-| Key  | Description   | Key  | Description |
-|:---- |:------------- |:---- |:----------- |
-| `⇪`  | Caps Lock     | `F1` | Function 1  |
-| `C=` | Commodore     | `F2` | Function 2  |
-| `⌃`  | Control       | `F3` | Function 3  |
-| `⎋`  | Escape        | `F4` | Function 4  |
-| `⌂`  | Home          | `F5` | Function 5  |
-| `⌫`  | Insert Delete | `F6` | Function 6  |
-| `⏎`  | Return        | `F7` | Function 7  |
-| `RS` | Run/Stop      | `F8` | Help        |
-| `⇧`  | Shift         | `␣`  | Space       |
+| Key     | Description   | Key  | Description |
+|:--------|:--------------|:-----|:------------|
+| `⇪`     | Caps Lock     | `F1` | Function 1  |
+| `[C=]`  | Commodore     | `F2` | Function 2  |
+| `⌃`     | Control       | `F3` | Function 3  |
+| `⎋`     | Escape        | `F4` | Function 4  |
+| `⌂`     | Clear/Home    | `F5` | Function 5  |
+| `⌫`     | Insert Delete | `F6` | Function 6  |
+| `⏎`     | Return        | `F7` | Function 7  |
+| `[R/S]` | Run/Stop      | `F8` | Help        |
+| `⇧`     | Shift         | `␣`  | Space       |
+| `↑`     | Cursor Up     | `↓`  | Cursor Down |
+| `→`     | Cursor Right  | `←`  | Cursor Left |
 
 ## Episode Errata
 

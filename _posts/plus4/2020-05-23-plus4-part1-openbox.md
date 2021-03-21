@@ -19,6 +19,18 @@ tags:
 
 Today I unveil the first in a new theme of posts, **retroCombs**. This theme is devoted to my love of retro computing and gaming. I have a [couple of retro posts](https://www.stevencombs.com/retro) on the blog, but now I have a [brand theme](https://youtu.be/iVw_ZBVBk7g) to tie them together. The first post to receive the brand is part one of a new series on the [Commodore Plus/4 computer](https://en.wikipedia.org/wiki/Commodore_Plus/4).
 
+<!-- TOC -->
+
+- [Series Information](#series-information)
+- [Companion Disk Image (In Progress)](#companion-disk-image-in-progress)
+- [User's Manual](#users-manual)
+- [YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 0 - Open the Box_](#youtube-video-_retrocombs-commodore-plus4-users-manual-chapter-0---open-the-box_)
+- [Key to Keys](#key-to-keys)
+- [Episode Errata](#episode-errata)
+- [Random Thoughts](#random-thoughts)
+
+<!-- /TOC -->
+
 ## Series Information
 
 This episode is part of a series. You can read the entire series and view additional resources at:
@@ -54,17 +66,19 @@ The video below describes my background with Commodore computers, my intent for 
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
-| Key  | Description   | Key  | Description |
-|:---- |:------------- |:---- |:----------- |
-| `⇪`  | Caps Lock     | `F1` | Function 1  |
-| `C=` | Commodore     | `F2` | Function 2  |
-| `⌃`  | Control       | `F3` | Function 3  |
-| `⎋`  | Escape        | `F4` | Function 4  |
-| `⌂`  | Home          | `F5` | Function 5  |
-| `⌫`  | Insert Delete | `F6` | Function 6  |
-| `⏎`  | Return        | `F7` | Function 7  |
-| `RS` | Run/Stop      | `F8` | Help        |
-| `⇧`  | Shift         | `␣`  | Space       |
+| Key     | Description   | Key  | Description |
+|:--------|:--------------|:-----|:------------|
+| `⇪`     | Caps Lock     | `F1` | Function 1  |
+| `[C=]`  | Commodore     | `F2` | Function 2  |
+| `⌃`     | Control       | `F3` | Function 3  |
+| `⎋`     | Escape        | `F4` | Function 4  |
+| `⌂`     | Clear/Home    | `F5` | Function 5  |
+| `⌫`     | Insert Delete | `F6` | Function 6  |
+| `⏎`     | Return        | `F7` | Function 7  |
+| `[R/S]` | Run/Stop      | `F8` | Help        |
+| `⇧`     | Shift         | `␣`  | Space       |
+| `↑`     | Cursor Up     | `↓`  | Cursor Down |
+| `→`     | Cursor Right  | `←`  | Cursor Left |
 
 ## Episode Errata
 

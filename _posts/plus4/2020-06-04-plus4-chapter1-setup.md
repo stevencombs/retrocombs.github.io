@@ -20,6 +20,20 @@ tags:
 
 In the next Commodore Plus/4 retroCombs episode, I open the Commodore Plus/4 manual for the first time to look at _Chapter 1: Unpacking and Setting Up_. Since [the previous episode](https://youtu.be/_faxuAlFHII) was an Open the Box, unpacking is already complete so this episode focuses on setting up the computer. Watch the video below and then come back to this post to read some additional thoughts, find links to everything mentioned, and learn a few more additional tips.
 
+<!-- TOC -->
+
+- [Series Information](#series-information)
+- [Companion Disk Image (In Progress)](#companion-disk-image-in-progress)
+- [User's Manual](#users-manual)
+- [YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 1 - Unpacking and Setting Up_](#youtube-video-_retrocombs-commodore-plus4-users-manual-chapter-1---unpacking-and-setting-up_)
+- [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
+- [Key to Keys](#key-to-keys)
+- [Episode Errata](#episode-errata)
+- [Random Thoughts](#random-thoughts)
+- [Join the Fun](#join-the-fun)
+
+<!-- /TOC -->
+
 ## Series Information
 
 This episode is part of a series. You can read the entire series and view additional resources at:
@@ -63,17 +77,19 @@ Below are the links mentioned in the video.
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
-| Key  | Description   | Key  | Description |
-|:---- |:------------- |:---- |:----------- |
-| `⇪`  | Caps Lock     | `F1` | Function 1  |
-| `C=` | Commodore     | `F2` | Function 2  |
-| `⌃`  | Control       | `F3` | Function 3  |
-| `⎋`  | Escape        | `F4` | Function 4  |
-| `⌂`  | Home          | `F5` | Function 5  |
-| `⌫`  | Insert Delete | `F6` | Function 6  |
-| `⏎`  | Return        | `F7` | Function 7  |
-| `RS` | Run/Stop      | `F8` | Help        |
-| `⇧`  | Shift         | `␣`  | Space       |
+| Key     | Description   | Key  | Description |
+|:--------|:--------------|:-----|:------------|
+| `⇪`     | Caps Lock     | `F1` | Function 1  |
+| `[C=]`  | Commodore     | `F2` | Function 2  |
+| `⌃`     | Control       | `F3` | Function 3  |
+| `⎋`     | Escape        | `F4` | Function 4  |
+| `⌂`     | Clear/Home    | `F5` | Function 5  |
+| `⌫`     | Insert Delete | `F6` | Function 6  |
+| `⏎`     | Return        | `F7` | Function 7  |
+| `[R/S]` | Run/Stop      | `F8` | Help        |
+| `⇧`     | Shift         | `␣`  | Space       |
+| `↑`     | Cursor Up     | `↓`  | Cursor Down |
+| `→`     | Cursor Right  | `←`  | Cursor Left |
 
 ## Episode Errata
 
