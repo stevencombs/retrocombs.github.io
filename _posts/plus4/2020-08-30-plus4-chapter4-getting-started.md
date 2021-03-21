@@ -115,7 +115,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
 
 1. In the video I suggested that I could use the `COLOR` command to change the background color, set a screen window and then change the background color again to only affect the screen window area. I was not able to get this to work. The `COLOR` changes the entire background, even the area outside of the screen window. Screen windows continue to bewilder me.
-2. **\[2021-03-21\]** Viewer, [Ducan Woodward](http://www.youtube.com/channel/UCJz2xVnpAm1VoLdZ-YHoYAQ), started a great discussion about how to use [Screen Windows](#screen-windows) using BASIC. This led to the a new example added in that section.
+2. **\[2021-03-21\]** Viewer, [Ducan Woodward](http://www.youtube.com/channel/UCJz2xVnpAm1VoLdZ-YHoYAQ), started a great discussion about how to use [Screen Windows](#screen-windows) using BASIC. This led me to include an example that should have been in the user's manual. Be sure to check out Duncan's discussion that sparked it all in the [comments section for the video](https://www.youtube.com/watch?v=4x1GdvPlaYc).
 
 ## Introduction
 
