@@ -94,9 +94,7 @@ Below are the links I mention in the video.
 
 ## Key to Keys
 
-Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclatu**💾 On Disk:** `07 A to Z`
-
-![A to Z](https://www.stevencombs.com/plus4/images/a-to-z.png)re to identify keystroke combinations as shown in the table below:
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
 | Key     | Description   | Key  | Description |
 |:--------|:--------------|:-----|:------------|
