@@ -42,7 +42,7 @@ In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore 
 - [More about PRINTing on the Screen](#more-about-printing-on-the-screen)
 - [Screen Windows](#screen-windows)
 - [Random Thoughts](#random-thoughts)
-- [Join the Fun](#join-the-fun)
+- [Join the Fun](#joi[Screen Windows](#screen-windows)n-the-fun)
 
 <!-- /TOC -->
 
@@ -52,7 +52,7 @@ This episode is a small part of my larger Commodore Plus/4 series. You can read 
 
 <https://www.stevencombs.com/plus4>
 
-## Companion Disk Image (In Progress)
+## Companion Disk Image
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 
@@ -94,7 +94,9 @@ Below are the links I mention in the video.
 
 ## Key to Keys
 
-Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclatu**💾 On Disk:** `07 A to Z`
+
+![A to Z](https://www.stevencombs.com/plus4/images/a-to-z.png)re to identify keystroke combinations as shown in the table below:
 
 | Key     | Description   | Key  | Description |
 |:--------|:--------------|:-----|:------------|
@@ -104,7 +106,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 | `⎋`     | Escape        | `F4` | Function 4  |
 | `⌂`     | Clear/Home    | `F5` | Function 5  |
 | `⌫`     | Insert Delete | `F6` | Function 6  |
-| `⏎`     | Return        | `F7` | Function 7  |
+| `⏎`     | Return    [Screen Windows](#screen-windows)    | `F7` | Function 7  |
 | `[R/S]` | Run/Stop      | `F8` | Help        |
 | `⇧`     | Shift         | `␣`  | Space       |
 | `↑`     | Cursor Up     | `↓`  | Cursor Down |
@@ -115,6 +117,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
 
 1. In the video I suggested that I could use the `COLOR` command to change the background color, set a screen window and then change the background color again to only affect the screen window area. I was not able to get this to work. The `COLOR` changes the entire background, even the area outside of the screen window. Screen windows continue to bewilder me.
+2. **2021-03-21:** Viewer, [Ducan Woodward](http://www.youtube.com/channel/UCJz2xVnpAm1VoLdZ-YHoYAQ), started a great discussion about how to use [Screen Windows](#screen-windows) using BASIC. This led to the a new example added in that section.
 
 ## Introduction
 
@@ -500,6 +503,22 @@ The screen will clear, a thick purple border will appears, and you now have a sm
 1. Press `⌂` twice
 2. `SCNCLR` to clear the screen.
 
+**\[2021-03-23\]** The BASIC program below demonstrates how to create a screen window using BASIC.
+
+```basic
+5 color 0,1,7
+10 scnclr
+20 print "⌂→→→→↓↓↓↓";
+30 print chr$(27)+"t"
+40 print "→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓";
+50 print chr$(27)+"b"
+60 color 0,15,0 : color 1,2,7
+```
+
+**💾 On Disk:** `04 SCREEN WINDOW`
+
+![A to Z](/plus4/images/screen-window.png)
+
 ## Random Thoughts
 
 1. This was a fun episode and it was interesting to learn the many things I forgot about Commodore Basic and character control.
@@ -508,7 +527,7 @@ The screen will clear, a thick purple border will appears, and you now have a sm
 
 3. I found myself using the VICE Plus/4 emulator, along with my Plus/4, while writing this post. It was handy to bounce around Atom and VICE to experiment. And I can copy and paste code from my Linux software directly into VICE! I'm becoming much more familiar with VICE and see the advantage. Many of which I'm planning to show in a new series of video and posts. Stay tuned for more but this also works well with my theme of learning how to use retro-computers using modern tools and equipment (see [Pi1541](/pi1541) and [Tapuino](/tapuino-1) posts/videos).
 
-4. I've no idea how to use screen windows in programming. I tweeted [Bil Herd](https://twitter.com/BilHerd), tweet below, to see if he might respond and offer an assist.
+4. ~~I've no idea how to use screen windows in programming.~~ **2021-03-21:** See [Episode Errata](#episode-errata) for new solution. I tweeted [Bil Herd](https://twitter.com/BilHerd), tweet below, to see if he might respond and offer an assist.
 
    <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/BilHerd?ref_src=twsrc%5Etfw">@BilHerd</a>, I&#39;m working on Chapter 4 in the Plus/4 user&#39;s manual for my next post/video and wondered if you had insight on "Screen Windows" (pg. 53)? What was their intent and how could they be accessed in code? Other than a novelty, I&#39;m not understanding their intended use.</p>— Steven Combs (retroCombs)🕹️ (@StevenCombs) <a href="https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

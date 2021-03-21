@@ -28,7 +28,7 @@ This episode is a small part of my larger Commodore Plus/4 series. You can read 
 
 <https://www.stevencombs.com/plus4>
 
-## Companion Disk Image (In Progress)
+## Companion Disk Image
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Like the series, the image is not complete.**
 

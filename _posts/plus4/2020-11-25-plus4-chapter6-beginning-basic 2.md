@@ -20,7 +20,7 @@ tags:
   - basic
 ---
 
-In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 6, *Beginning BASIC Programming*, of the Commodore Plus/4 user's manual. In this chapter, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.
+In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 6, *Beginning Bplus4/images/screen-window.pngASIC Programming*, of the Commodore Plus/4 user's manual. In this chapter, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.
 
 This is not an all-inclusive chapter and you will not become a master programmer after learning these concepts; however, you will have the knowledge you need to create simple programs. This is what made all Commodore computers special; the creation of your own programs. After you work through chapter 6, I recommend you review the Plus/4 Encyclopedia located on page 101 of the user's manual.
 
@@ -32,7 +32,7 @@ This episode is a small part of my larger Commodore Plus/4 series. You can read 
 
 <https://www.stevencombs.com/plus4>
 
-## Companion Disk Image (In Progress)
+## Companion Disk Image
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Like the series, the image is not complete.**
 

@@ -37,7 +37,7 @@ This episode is part of a series. You can read the entire series and view additi
 
 <https://www.stevencombs.com/plus4>
 
-## Companion Disk Image (In Progress)
+## Companion Disk Image
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.d81` image that contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 
