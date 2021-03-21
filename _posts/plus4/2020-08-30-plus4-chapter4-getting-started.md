@@ -106,7 +106,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 | `⎋`     | Escape        | `F4` | Function 4  |
 | `⌂`     | Clear/Home    | `F5` | Function 5  |
 | `⌫`     | Insert Delete | `F6` | Function 6  |
-| `⏎`     | Return    [Screen Windows](#screen-windows)    | `F7` | Function 7  |
+| `⏎`     | Return        | `F7` | Function 7  |
 | `[R/S]` | Run/Stop      | `F8` | Help        |
 | `⇧`     | Shift         | `␣`  | Space       |
 | `↑`     | Cursor Up     | `↓`  | Cursor Down |
@@ -117,12 +117,12 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
 
 1. In the video I suggested that I could use the `COLOR` command to change the background color, set a screen window and then change the background color again to only affect the screen window area. I was not able to get this to work. The `COLOR` changes the entire background, even the area outside of the screen window. Screen windows continue to bewilder me.
-2. **\[2021-03-21\]:** Viewer, [Ducan Woodward](http://www.youtube.com/channel/UCJz2xVnpAm1VoLdZ-YHoYAQ), started a great discussion about how to use [Screen Windows](#screen-windows) using BASIC. This led to the a new example added in that section.
+2. **\[2021-03-21\]** Viewer, [Ducan Woodward](http://www.youtube.com/channel/UCJz2xVnpAm1VoLdZ-YHoYAQ), started a great discussion about how to use [Screen Windows](#screen-windows) using BASIC. This led to the a new example added in that section.
 
 ## Introduction
 
 1. Thanks to viewers for feedback.
-2. .d81 disk image coming soon and will update as we go.
+2. .d81 disk will update as we go.
 3. Proud of the companion website for this episode. Check it out!
 4. When viewing the YouTube video, don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 
@@ -471,8 +471,8 @@ An example is the best way to describe this feature that confines a specific are
 2. Press `⎋` + `T`.
 3. Move cursor on the screen to bottom-right corner of the screen window to create.
 4. Press `⎋` + `B`.
-
 Now when you type any commands or code, it will all be contained in the screen window. To remove the screen window, press `⌂` twice. The cursor will then move to the top-left corner of the screen.
+
 
 Here's a fun example that combines much of what we've learned today:
 
@@ -527,7 +527,7 @@ The screen will clear, a thick purple border will appears, and you now have a sm
 
 3. I found myself using the VICE Plus/4 emulator, along with my Plus/4, while writing this post. It was handy to bounce around Atom and VICE to experiment. And I can copy and paste code from my Linux software directly into VICE! I'm becoming much more familiar with VICE and see the advantage. Many of which I'm planning to show in a new series of video and posts. Stay tuned for more but this also works well with my theme of learning how to use retro-computers using modern tools and equipment (see [Pi1541](/pi1541) and [Tapuino](/tapuino-1) posts/videos).
 
-4. ~~I've no idea how to use screen windows in programming.~~ **2021-03-21:** See [Episode Errata](#episode-errata) for new solution. I tweeted [Bil Herd](https://twitter.com/BilHerd), tweet below, to see if he might respond and offer an assist.
+4. ~~I've no idea how to use screen windows in programming.~~ **\[2021-03-21\]** See [Episode Errata](#episode-errata) for new solution. I tweeted [Bil Herd](https://twitter.com/BilHerd), tweet below, to see if he might respond and offer an assist.
 
    <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/BilHerd?ref_src=twsrc%5Etfw">@BilHerd</a>, I&#39;m working on Chapter 4 in the Plus/4 user&#39;s manual for my next post/video and wondered if you had insight on "Screen Windows" (pg. 53)? What was their intent and how could they be accessed in code? Other than a novelty, I&#39;m not understanding their intended use.</p>— Steven Combs (retroCombs)🕹️ (@StevenCombs) <a href="https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
