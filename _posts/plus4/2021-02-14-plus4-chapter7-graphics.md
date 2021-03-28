@@ -441,12 +441,12 @@ A graph alone can speak volumes; however, some graphs require characters to tell
 Using the program from the previous section, add the following lines to add characters to our graph:
 
 ```realbasic
-81 char 1,0,0,"graph of" : char 1,0,1,"formula"
-82 char 1,0,2,"y=sin(x)"
-83 draw 1,0,100 to 319,100,189,0 to 189,199
-84 char 1,0,12, "x-axis" : char 1,22,0,"y"
-85 char 1,22,2,"a" : char 1,22,3,"x"
-86 char 1,22,4,"t" : char 1,22,5,"s"
+81 CHAR 1,0,0,"GRAPH OF" : CHAR 1,0,1,"FORMULA"
+82 CHAR 1,0,2,"Y=SIN(X)"
+83 DRAW 1,0,100 TO 319,100,189,0 TO 189,199
+84 CHAR 1,0,12, "X-AXIS" : CHAR 1,22,0,"Y"
+85 CHAR 1,22,2,"A" : CHAR 1,22,3,"X"
+86 CHAR 1,22,4,"T" : CHAR 1,22,5,"S"
 ```
 
 The result is a graphic with character labels as shown in the image below:

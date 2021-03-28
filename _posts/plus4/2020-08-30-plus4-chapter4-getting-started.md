@@ -212,7 +212,7 @@ If you the word COMMODORE is not blinking, your browser does not (and should not
 
 All right! Time to program. Clear the screen and type in the following BASIC program:
 
-```basic
+```realbasic
 10 ? "PLUS/4"
 20 GOTO 10
 ```
@@ -224,13 +224,13 @@ Type `RUN` and the Plus/4 will execute the BASIC program. "JANE! STOP THIS CRAZY
 
 Let's try another program. We could type the command `NEW` but there is a one line of code, line 10, that we don't need to retype. Let's just replace line 20. At the READY prompt, type the line of code below:
 
-```basic
+```realbasic
 20 COLOR 0,12
 ```
 
 `LIST` the program again and you will have the program below in memory:
 
-```basic
+```realbasic
 10 ? "PLUS/4"
 20 COLOR 0,12
 ```
@@ -251,7 +251,7 @@ Here's how it works. First, use the `NEW` command to clear out the previous prog
 
 type the line of code below:
 
-```basic
+```realbasic
 10 COLOR 0.2
 20 ? "PLUS/4"
 ```
@@ -265,7 +265,7 @@ Well, of course! Hit the `HELP` function key and the Plus/4 will display and fla
 
 Use the cursor keys to scroll up the the flashing line and replace the line with the one below:
 
-```basic
+```realbasic
 10 COLOR 0,2
 ```
 
@@ -273,13 +273,13 @@ Remember to the hit the `⏎` {Return} after you correct the line and `RUN` the 
 
 You can replace line 10 by typing over the command or creating a new line with the same line number. Type the line below:
 
-```basic
+```realbasic
 10 ? "COMMODORE"
 ```
 
 `LIST` the program:
 
-```basic
+```realbasic
 10 ? "COMMODORE"
 20 ? "PLUS/4"
 ```
@@ -298,7 +298,7 @@ If you want to remove the PLUS/4 line, just enter a blank line 20 by entering `2
 
 Let's make more advanced edits on a line of code rather than just typing over characters. Use the `NEW` command and then type the line below:
 
-```basic
+```realbasic
 10 ? "CORE"
 ```
 
@@ -312,9 +312,9 @@ Use cursor key to move on top of the letter `O` in line 10. Hold `⇧` and press
 
 Time to enter a longer program and use our editing skills along the way. Type the program below after you use the `NEW` command:
 
-```basic
+```realbasic
 10 COLOR 1,6,0
-20 ? "A FUNNY THING HAPPEND ";
+20 ? "A FUNNY THING HAPPENED ";
 30 COLOR 1,5,3
 40 ? "ON MY WAY TO THE KEYBOARD ";
 50 COLOR 1,3,0
@@ -333,7 +333,7 @@ Now we will use some programming to learn more about the Plus/4 screen.
 
 Use the `NEW` command and enter the program below:
 
-```basic
+```realbasic
 10 ? "♥";
 20 GOTO 10
 ```
@@ -341,7 +341,7 @@ Use the `NEW` command and enter the program below:
 
 `RUN` the program and the screen will continually print hearts and fill the screen as shown below:
 
-```basic
+```realbasic
 ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
 ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
 ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
@@ -373,7 +373,7 @@ If you take the time to count the hearts, you will find a screen resolution of 4
 
 Let's use this information to create a single row of hearts without typing `♥` 40 times in a `PRINT` statement using the code below:
 
-```basic
+```realbasic
 10 FOR X = 1 to 40
 20 ? "♥";
 30 NEXT
@@ -381,14 +381,14 @@ Let's use this information to create a single row of hearts without typing `♥`
 
 `RUN` the program and the line below will appear:
 
-```basic
+```realbasic
 ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
 ```
 **💾 On Disk:** `04 LINE OF ♥`
 
 Since there are no gaps or overlapping rows of hearts, we know that there are 40 character columns (vertical) on the screen. Let's now verify the number of rows (horizontal) with the code below:
 
-```basic
+```realbasic
 10 FOR X = 1 to 25
 20 ? "♥"
 30 NEXT
@@ -397,7 +397,7 @@ Since there are no gaps or overlapping rows of hearts, we know that there are 40
 
 Removing the `;` at the end of line 20 ensures each new `♥` is printed on a new line. `RUN` the program and the lines below will appear:
 
-```basic
+```realbasic
 ♥
 ♥
 ♥
@@ -430,7 +430,7 @@ If you count the hearts, you will find three missing. That's because the compute
 
 One last thing about rows and text. Create the `NEW` program below:
 
-```basic
+```realbasic
 10 ? "I LIKE YOUR TOUCH ON MY KEYBOARD. DO YOU COME HER OFTEN?"
 ```
 **💾 On Disk:** `04 CREEPY CMDR`
@@ -443,19 +443,19 @@ Previously we've printed characters on the screen that either butt up next to ea
 
 Specify zones in the `PRINT` command using the characters `,` and `;`. We already know that using `;` will force the next line of text to butt up next to the previous, but what about `,` ? The `,` is similar to a tab stop but in this case, the tab is starts at every ten characters (the start of a new zone). A demonstration will better explain. Clear the screen and type the command below.
 
-```basic
+```realbasic
 ? "Z1","Z2","Z3","Z4"
 ```
 
 `RUN` the program and the line below will appear:
 
-```basic
+```realbasic
 Z1        Z2        Z3        Z4
 ```
 
 Each string will begin at column 1, 11, 21, and 31 which means each zone is 10 characters wide. If you have more than 10 characters in a zone, such as the line below, zone two (Z2) is skipped and the next characters begin in Z3 or character column position 31.
 
-```basic
+```realbasic
 ? "!1234567890","Z3","Z4"
 ```
 
@@ -469,31 +469,24 @@ An example is the best way to describe this feature that confines a specific are
 2. Press `⎋` + `T`.
 3. Move cursor on the screen to bottom-right corner of the screen window to create.
 4. Press `⎋` + `B`.
+
 Now when you type any commands or code, it will all be contained in the screen window. To remove the screen window, press `⌂` twice. The cursor will then move to the top-left corner of the screen.
 
 
 Here's a fun example that combines much of what we've learned today:
 
 1. Use the `SCNCLR` command.
-
 2. Type the line of code below:
 
     `10 FOR X = 1 to 1000 : ? "{PUR}{RVS ON}▇; : NEXT`
 
 3. `RUN` the code
-
 4. Using the cursor keys, move to the top-left corner of the screen.
-
 5. Move the cursor down 10 characters and to the right 10 characters.
-
 6. Press `⎋` + `T`.
-
 7. Move the cursor down 15 characters and to the right 20 characters.
-
 8. Press `⎋` + `B`.
-
 9. `SCNCLR` to clear the screen.
-
 10. `^` + `2` to change to black characters.
 
 The screen will clear, a thick purple border will appears, and you now have a smaller 20 x 15 window to work within. Play around in that window. To clear the screen window:
@@ -503,7 +496,7 @@ The screen will clear, a thick purple border will appears, and you now have a sm
 
 **\[2021-03-23\]** The BASIC program below demonstrates how to create a screen window using BASIC.
 
-```basic
+```realbasic
 5 COLOR 0,1,7
 10 SCNCLR
 20 ? "⌂→→→→↓↓↓↓";
@@ -520,17 +513,13 @@ The screen will clear, a thick purple border will appears, and you now have a sm
 ## Random Thoughts
 
 1. This was a fun episode and it was interesting to learn the many things I forgot about Commodore Basic and character control.
-
 2. The episode is a bit laborious and I'm sure those with basic Commodore computer experience will find some of the content tedious. Blame the old school teacher in me, but I believe repetition is the best way learn.
-
 3. I found myself using the VICE Plus/4 emulator, along with my Plus/4, while writing this post. It was handy to bounce around Atom and VICE to experiment. And I can copy and paste code from my Linux software directly into VICE! I'm becoming much more familiar with VICE and see the advantage. Many of which I'm planning to show in a new series of video and posts. Stay tuned for more but this also works well with my theme of learning how to use retro-computers using modern tools and equipment (see [Pi1541](/pi1541) and [Tapuino](/tapuino-1) posts/videos).
-
 4. ~~I've no idea how to use screen windows in programming.~~ **\[2021-03-21\]** See [Episode Errata](#episode-errata) for new solution. I tweeted [Bil Herd](https://twitter.com/BilHerd), tweet below, to see if he might respond and offer an assist.
 
    <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/BilHerd?ref_src=twsrc%5Etfw">@BilHerd</a>, I&#39;m working on Chapter 4 in the Plus/4 user&#39;s manual for my next post/video and wondered if you had insight on "Screen Windows" (pg. 53)? What was their intent and how could they be accessed in code? Other than a novelty, I&#39;m not understanding their intended use.</p>— Steven Combs (retroCombs)🕹️ (@StevenCombs) <a href="https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 5. This blog post really was fun to produce and in itself was an educational journey for me as I learned how to use CSS to style and color text.
-
 6. The next chapter, 5, is all about numbers and calculations. It's a short chapter, but I'm going to have to break out the math teacher in me to accurately describe and demonstrate features.
 
 ## Join the Fun

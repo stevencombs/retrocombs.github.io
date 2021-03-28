@@ -158,7 +158,6 @@ Below is the `.ini` included with the firmware. I provide so those without a mou
 ; ##################################-Configuration-###############################
 ;
 
-
 [mouster]
 ; general settings.
 ;
@@ -203,7 +202,6 @@ heartBeat=02
 ; [01|true|on] - direction states will not be validated
 potPullUp=01
 
-
 [mouse]
 ; mouse emulation settings.
 ;
@@ -221,7 +219,8 @@ type=02
 ; microstep=
 ; In another words, DPI divider. Allow you to slow down your mouse to adapt speed to capabilities of old devices.
 ; Define how many real mouse steps should be translated to one virtual step
-; Because division by 0 causes critical error, setting it to 0 causes critical error. Try if you don't belive me.
+; Because division by 0 causes critical error, setting it to 0 causes critical error. Try if you don't believe me.
+
 ; default: 10
 ; Possible values:
 ; [0-250] - numeric value
