@@ -20,7 +20,7 @@ This new Pebble watch will include:
 * new watch design
 * new user interface
 * color e-paper display
-* removal of the eight watchface/application limitation
+* removal of the eight watch-face/application limitation
 * new timeline feature
 * new battery port location
 
