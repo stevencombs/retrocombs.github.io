@@ -20,7 +20,7 @@ Hey, I get it. Folks who weren't even born in the 1970s and 80s want to review a
 
 And that brings me to this device; the Hyperkin RetroN 77. A modern device that is described by Hyperkin with the following "groovy" words:
 
-> Leave your platform shoes at the door and spend the night in with the RetroN 77, the grooviest retro console from Hyperkin. It plays your favorite 2600 cartridges in beautiful, crisp 720p HD. It's one happenin' pixel party for the senses. Marvel at the slick wood paneling, save states, on-board mode select, and a 6 ft. Micro cable to power it all. You take full command with the included two-button, ambidextrous, premium controller. Original joysticks and paddles are also compatible. Can. You. Dig. It?
+> Leave your platform shoes at the door and spend the night in with the RetroN 77, the grooviest retro console from Hyperkin. It plays your favorite 2600 cartridges in beautiful, crisp 720p HD. It's one happening pixel party for the senses. Marvel at the slick wood paneling, save states, on-board mode select, and a 6 ft. Micro cable to power it all. You take full command with the included two-button, ambidextrous, premium controller. Original joysticks and paddles are also compatible. Can. You. Dig. It?
 
 Gnarly! I've not played an Atari 2600 game since, well, probably the 1980s. So I'd like to see if this device can rekindle some magic and help me relive a formative time in my life. Along the way, I hope to provide readers with everything they need to know about this device. We'll look at the original experience to include the use of cartridges, all the way to modern updated firmware and homebrew games.
 
