@@ -1,22 +1,17 @@
 ---
 layout: post
-title: '10 Cool things you can do with the MEGA65'
-date: '2021-04-04'
+title: 'title'
+date: '2021-XX-XX'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-permalink: 'mega65-3'
+permalink: 'link'
 category: retro
 tags:
-  - commodore
-  - mega65
-  - tips
-  - tricks
-  - c65
-  - c64
+  - 
 ---
 
-As a MEGA65 DevKit owner, I've been privileged to experience the development of the MEGA65. It has been a fun and incredibly satisfying retro-computer experience that warrants a post of its own; however, today, I will share ten things you will be able to do with the MEGA65 that should excite Commodore computer fans.
+Introduction
 
 Before you read the rest of this post, take a look at my companion video below.
 
@@ -28,7 +23,7 @@ In the video below, I ...
 
 ## Video Errata
 
-None as of 2021-02-18.
+None as of 2021-XX-XX.
 
 ## Links Mentioned in this Episode:
 
@@ -46,6 +41,6 @@ Don't miss the fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](h
 
 Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](link).
 
-Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
+Thanks for reading and watching and if you are inclined, please let others know about the blog using the hashtag #retroCombs on your favorite social media platform.
 
 🕹️ retroCombs, OUT!

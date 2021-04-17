@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User’s Manual, Chapter 1 - Unpacking and Setting Up'
+title: 'Commodore Plus/4 User’s Manual, Chapter 1 - Unpacking and Setting Up'
 date: '2020-06-04'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-2

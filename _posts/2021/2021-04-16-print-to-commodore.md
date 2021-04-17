@@ -16,11 +16,11 @@ tags:
   - ocr
 ---
 
-While spending time in the MEGA65 Discord group, I found a link to *Weihnachten aüf dem Commodore (WADC)*, or [Christmas on the Commodore](https://www.c64-wiki.de/wiki/Weihnachten_auf_dem_Commodore). There have been editions printed since 2018 and I ordered all three available editions. Inside pages are filled with type in BASIC programs for all manner of Commodore 8-bit computers. Below is an excerpt form the [C64 Wiki page](https://www.c64-wiki.de/wiki/Weihnachten_auf_dem_Commodore) about these annual publications.
+While spending time in the MEGA65 Discord group, I found a link to *Weihnachten auf dem Commodore (WADC)*, or [Christmas on the Commodore](https://www.c64-wiki.de/wiki/Weihnachten_auf_dem_Commodore). There have been editions printed since 2018 and I ordered all three available editions. Inside pages are filled with type in BASIC programs for all manner of Commodore 8-bit computers. Below is an excerpt form the [C64 Wiki page](https://www.c64-wiki.de/wiki/Weihnachten_auf_dem_Commodore) about these annual publications.
 
 > The idea behind the creation of the booklet is based on the fact that for some users of the C64 there is a certain connection with Christmas, as many originally got it for Christmas at that time or the Christmas season symbolizes a contemplative, quiet time in that you can take out your home computer to do the typing of BASIC programs like in the old days…Although the listings are intended for the C64, the magazine is not limited to this computer. Listings for other Commodore home computers such as the C128 or Plus/4 can be found in it. To enable the most error-free typing possible, the booklet contains the checksum tool F64Summer, which was developed by Zirias in the course of the first edition.
 
-![Weihnachten aüf dem Commodore](https://www.stevencombs.com/images/posts/weihnachten-pages.jpg)
+![Weihnachten auf dem Commodore](https://www.stevencombs.com/images/posts/weihnachten-pages.jpg)
 
 You can order your copies of all three volumes [here](https://xmas.drwuro.com/order). For 3.00 EUR (or ≈ $3.50 USD) per issue, purchase all three. Shipping to the United States is 3.60 EUR and if you order all three, no additional shipping is applied. It's a steal. You do need to be aware that the magazines come in the German language. There is not an English version; however, for someone who had four years of German I in high school, I am able to decipher much of it and in those cases where I can't figure it out, I turn to Google Translate. It's a wonderfully technological world we live in.
 
@@ -60,7 +60,7 @@ Before you read my process below, look at the FAST LOAD video below that shows m
 Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [Commodore Plus/4 User's Manual Series](/plus4)
-2. [Weihnachten aüf dem Commodore](https://xmas.drwuro.com/order)
+2. [Weihnachten auf dem Commodore](https://xmas.drwuro.com/order)
 3. [Adobe Scan App](https://acrobat.adobe.com/us/en/mobile/scanner-app.html) \| For Android and iOS
 4. [iaWriter](https://ia.net/writer) \| For Mac, iOS, and Android
 4. [Atom](https://www.atom.io) \| For Mac, Linux, and Windows
@@ -176,7 +176,7 @@ You can now load and save programs to disk images on the USB drive.
 3. This technique, and the Adobe Scan software, can be used for all forms of scans where you need an OCR conversion to grab the text.
 4. Be sure to see what else the Adobe Scan software can do for you. I'm amazed that this app is free given Adobe's penchant for subscription fees.
 5. Don't want to use Adobe products? There are other open source, free, and paid options out there. Even Google Keep will grab text from an image. Free OCR services are more available now than ever before.
-6. *Weihnachten aüf dem Commodore (WADC)* is so much fun. Seriously, spend the money and grab all volumes now before they run out. Not only am I having a blast with the type-in programs, I'm also brushing up on my German at the same time. I'll be typing/scanning many of the other programs and saving them to my .d81 disk image. I'm in no rush and have three volumes.
+6. *Weihnachten auf dem Commodore (WADC)* is so much fun. Seriously, spend the money and grab all volumes now before they run out. Not only am I having a blast with the type-in programs, I'm also brushing up on my German at the same time. I'll be typing/scanning many of the other programs and saving them to my .d81 disk image. I'm in no rush and have three volumes.
 
 ## Join the Fun
 

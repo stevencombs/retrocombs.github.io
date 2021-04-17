@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User’s Manual, Chapter 3 - Using Software'
+title: 'Commodore Plus/4 User’s Manual, Chapter 3 - Using Software'
 date: '2020-08-02'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-4

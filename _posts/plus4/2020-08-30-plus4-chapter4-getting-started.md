@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User’s Manual, Chapter 4 - Getting Started'
+title: 'Commodore Plus/4 User’s Manual, Chapter 4 - Getting Started'
 date: '2020-08-30'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-5

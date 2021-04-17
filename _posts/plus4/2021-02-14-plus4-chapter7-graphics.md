@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User’s Manual Chapter 7 - Using Graphics and Color'
+title: 'Commodore Plus/4 User’s Manual Chapter 7 - Using Graphics and Color'
 date: '2021-02-18'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-8
@@ -87,7 +87,7 @@ I use the following file name convention to make it easy to locate specific prog
 
 ## User's Manual
 
-As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 6:
+As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 7:
 
 [Chapter 7 - Using Graphics and Color](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-7.pdf)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: Plus/4 User’s Manual Chapter 6 - Beginning BASIC Programming'
+title: 'Commodore Plus/4 User’s Manual Chapter 6 - Beginning BASIC Programming'
 date: '2020-11-25'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-7
