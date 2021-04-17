@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Transfer BASIC programs in print to physical Commodore computers'
-date: '2021-04-15'
+title: 'Transfer BASIC Programs in Print to Physical Commodore Computers'
+date: '2021-04-16'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
@@ -28,18 +28,22 @@ In my prime, back in the 1980s, I would have poured through these magazines and 
 
 What's a Commodore retro-computing fan to do? Use what he learned while producing the [Commodore Plus/4 User's Manual series](/plus4) and share how to convert these BASIC programs from print to physical Commodore computers.
 
-- [[#YouTube Video: _Transfer BASIC programs in print to physical Commodore computers_|YouTube Video: _Transfer BASIC programs in print to physical Commodore computers_]]
-- [[#Video Errata|Video Errata]]
-- [[#Links Mentioned in this Episode:|Links Mentioned in this Episode:]]
-- [[#Conversion Time|Conversion Time]]
-	- [[#Scan Page(s)|Scan Page(s)]]
-	- [[#Edit in Text Editor|Edit in Text Editor]]
-	- [[#Copy and Paste|Copy and Paste]]
-	- [[#Transfer and Execute the program on physical hardware|Transfer and Execute the program on physical hardware]]
-		- [[#Commodore Hardware and pi1541|Commodore Hardware and pi1541]]
-		- [[#THEC64/VIC20|THEC64/VIC20]]
-- [[#Final Thoughts|Final Thoughts]]
-- [[#Join the Fun|Join the Fun]]
+<!-- TOC -->
+
+- [YouTube Video: _Transfer BASIC programs in print to physical Commodore computers_](#youtube-video-_transfer-basic-programs-in-print-to-physical-commodore-computers_)
+- [Video Errata](#video-errata)
+- [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
+- [Conversion Time](#conversion-time)
+  - [Scan Page(s)](#scan-pages)
+  - [Edit in a Text Editor](#edit-in-a-text-editor)
+  - [Copy and Paste](#copy-and-paste)
+  - [Transfer and Execute the program on physical hardware](#transfer-and-execute-the-program-on-physical-hardware)
+    - [Commodore Hardware and Pi1541](#commodore-hardware-and-pi1541)
+    - [THEC64/VIC20](#thec64vic20)
+- [Final Thoughts](#final-thoughts)
+- [Join the Fun](#join-the-fun)
+
+<!-- /TOC -->
 
 ## YouTube Video: _Transfer BASIC programs in print to physical Commodore computers_
 
@@ -49,7 +53,7 @@ Before you read my process below, look at the FAST LOAD video below that shows m
 
 ## Video Errata
 
-None as of 2021-04-15.
+[2021-04-16] In the first section of my typing example, my original video had the Commodore screen superimposed in the upper-right hand corner; however, that screen capture became corrupt; leaving a huge gap in my video composition. It was disappointing; however, I decided to not recreate this portion of the video because this project had already been in the hopper for a week.
 
 ## Links Mentioned in this Episode:
 
@@ -58,9 +62,10 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 1. [Commodore Plus/4 User's Manual Series](/plus4)
 2. [Weihnachten aüf dem Commodore](https://xmas.drwuro.com/order)
 3. [Adobe Scan App](https://acrobat.adobe.com/us/en/mobile/scanner-app.html) \| For Android and iOS
+4. [iaWriter](https://ia.net/writer) \| For Mac, iOS, and Android
 4. [Atom](https://www.atom.io) \| For Mac, Linux, and Windows
-5. [VICE](https://vice-emu.sourceforge.io/)
-6. [Pi1541 project](https://www.stevencombs.com/pi1541-1)
+5. [VICE](https://vice-emu.sourceforge.io/) \| For Mac, Linux, and Windows
+6. [Pi1541 Zero Project](https://www.stevencombs.com/pi1541-1)
 7. [THEVIC20](https://amzn.to/2Q58kCz)
 8. [THEC64](https://amzn.to/32dQGiL)
 9. [microSD cards](https://amzn.to/3aeuedx)
@@ -68,11 +73,11 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 ## Conversion Time
 
-Don't misunderstand, there's a lot of educational opportunity to be had from typing in Commodore programs. You learn BASIC command syntax, keyboard layout, program structure, and an entire realm of programming concepts when you take the time to enter each line. But, man! It can eat at your free time, even with the thoughtful bookmark and space ruler that each issue of WADC includes.
+Don't misunderstand, there's educational opportunity to be had from typing in Commodore BASIC programs. You learn command syntax, keyboard layout, program structure, and an entire realm of programming concepts when you take the time to enter each line. But, man! It can eat at your free time, even with the thoughtful bookmark and space ruler that each issue of WADC includes.
 
 ![Image of Magazine and Bookmark](https://www.stevencombs.com/images/posts/weihnachten-ruler.jpg)
 
-And in the case of the Checksum program (a program designed to verify you've typed each line correctly), there's little value since the program is a series of pokes to create a machine language program. Normal humans can't process these programs.
+And in the case of the *Checksum* program (a program designed to verify you've typed each line correctly), there's little value since the program is a series of pokes to create a machine language program. Normal humans can't process these programs.
 
 ### Scan Page(s)
 
@@ -87,7 +92,7 @@ The first step of the process is to use a tool that includes optical character r
 
 You now have a PDF with the entire BASIC program on your desktop or laptop.
 
-### Edit in Text Editor
+### Edit in a Text Editor
 
 Our next step is to transfer the contents of the OCR file to a text editor in these easy steps:
 
@@ -110,14 +115,14 @@ We will use [The Versatile Commodore Emulator (VICE)](https://vice-emu.sourcefor
 
 1. Open VICE on your Mac, Linux, or Windows computer. A prompt will appear with a selection of computers to emulate. Select the correct emulator for the program you scanned.
 2. Copy the entire program from the text editor.
-3. In VICE, choose *Edit*  \| *Paste*.
+3. In VICE, choose *Edit* \| *Paste*.
 4. Type `run` and cross your fingers. If the program works, continue to step 6.
 5. If the program has errors, you can make the changes in VICE or you can return to the text editor. If you make changes in the text editor, use the `new` command in vice to clear memory and paste in the new code. Repeat this step until the program executes properly.
 6. Save the `.txt` file in the text editor. Having this backup will come in handy and these files are super small.
 7. If you have a disk image mounted to VICE, save the file to the disk image and  skip to step 10.
 8. VICE can create disk images. Choose the *File* \| *Create and attach an empty disk image…* option. The *Create and attach a new disk image* dialog box will appear as shown below:
-   
-    ![](https://www.stevencombs.com/images/posts/vice-create-disk-image)
+
+    ![Create a Disk Image](https://www.stevencombs.com/images/posts/vice-create-disk-image.png)
 
 9. Use the dialog box to create a `.d81` file as shown in sample above.
 
@@ -127,19 +132,19 @@ With a working program saved to a Commodore disk image, you are ready to transfe
 
 The imagee transfer process depends on the device you choose to mount your disk image. I won't share each in detail but here's a quick summary for transfer using a [Pi1541](https://www.stevencombs.com/pi1541-1) on original Commodore hardware and using a THEC64/VIC20.
 
-#### Commodore Hardware and pi1541
+#### Commodore Hardware and Pi1541
 
-1. Copy the `.d81` disk image to a properly formatted microSD card on a Mac, Linux, or Windows computer. Consider creating a folder on the microSD to make file management easier on the pi1541.
+1. Copy the `.d81` disk image to a properly formatted microSD card on a Mac, Linux, or Windows computer. Consider creating a folder on the microSD to make file management easier on the Pi1541.
 2. Eject the microSD card.
-3. Insert the microSD card into the pi1541.
-4. Connect the pi1541 to a Commodore computer using [an IEC cable](https://amzn.to/3uSkPAs).
-5. Connect the pi1541 to power using a micro USB cable and a proper USB power supply.
-6. Turn on the Commodore computer. The pi1541 will boot up.
-7. Use the pi1541 buttons to navigate to the disk image and select.
+3. Insert the microSD card into the Pi1541.
+4. Connect the Pi1541 to a Commodore computer using [an IEC cable](https://amzn.to/3uSkPAs).
+5. Connect the Pi1541 to power using a micro USB cable and a proper USB power supply.
+6. Turn on the Commodore computer. The Pi1541 will boot up.
+7. Use the Pi1541 buttons to navigate to the disk image and select.
 8. Use the `load"name",8,1` or `dload"name"` (depending on the version of Commodore BASIC) command load the file.
 9. Use the `run` command to execute the program.
 
-You can now load and save programs to disk images on the pi1541.
+You can now load and save programs to disk images on the Pi1541.
 
 > **TIP:** As highlighted in the video, I made a mistake and didn't use the proper syntax when writing over a file in Commodore 64 mode. To overwrite an existing file on the disk image use this syntax: `save "@0:name",8`
 
@@ -152,13 +157,13 @@ You can now load and save programs to disk images on the pi1541.
 5. Press the lower-right red button on the joystick. The menu below will appear:
 
     ![THEC64 screen menu](https://www.stevencombs.com/images/posts/thevic20/bottom-menu.jpg)
-    
+
 6. Use the joystick to highlight *Media access* and press the fire button. The Media Access page appear as shown below:
 
     ![Media Access Page](https://www.stevencombs.com/images/posts/thevic20/media-access.jpg)
 
 6. Use the joystick to locate the disk image file. Press the fire button to attach the disk image. The image name will appear in the **Disk Drive** option at the bottom of the page.
-7. Press the lower-right red button on the joystick to return the Commodore computer screen. The image is now available. 
+7. Press the lower-right red button on the joystick to return the Commodore computer screen. The image is now available.
 7. Use the `load"name",8,1` command load the file.
 8. Use the `run` command to execute the program.
 
@@ -167,7 +172,11 @@ You can now load and save programs to disk images on the USB drive.
 ## Final Thoughts
 
 1. I'm aware that this is one way to perform this task; however, these steps have worked for me and because I've done this many times, I can scan a program and convert it in short-order.
-2. 
+2. While this process may not seem to save time initially, as you get more familiar with the tools, you can fly through pages of code.
+3. This technique, and the Adobe Scan software, can be used for all forms of scans where you need an OCR conversion to grab the text.
+4. Be sure to see what else the Adobe Scan software can do for you. I'm amazed that this app is free given Adobe's penchant for subscription fees.
+5. Don't want to use Adobe products? There are other open source, free, and paid options out there. Even Google Keep will grab text from an image. Free OCR services are more available now than ever before.
+6. *Weihnachten aüf dem Commodore (WADC)* is so much fun. Seriously, spend the money and grab all volumes now before they run out. Not only am I having a blast with the type-in programs, I'm also brushing up on my German at the same time. I'll be typing/scanning many of the other programs and saving them to my .d81 disk image. I'm in no rush and have three volumes.
 
 ## Join the Fun
 
@@ -175,6 +184,6 @@ Don't miss the fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](h
 
 Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/nyg4Yh_QFuA).
 
-Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
+Thanks for reading and watching and if you are so inclined, please let others know about the blog on all your favorite social media platforms using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!
