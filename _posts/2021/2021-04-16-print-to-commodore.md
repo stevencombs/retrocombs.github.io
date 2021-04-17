@@ -30,7 +30,7 @@ What's a Commodore retro-computing fan to do? Use what he learned while producin
 
 <!-- TOC -->
 
-- [YouTube Video: _Transfer BASIC programs in print to physical Commodore computers_](#youtube-video-_transfer-basic-programs-in-print-to-physical-commodore-computers_)
+- [YouTube Video: _Transfer BASIC programs in print to a Commodore computer_](#youtube-video-_transfer-basic-programs-in-print-to-physical-commodore-computers_)
 - [Video Errata](#video-errata)
 - [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
 - [Conversion Time](#conversion-time)
