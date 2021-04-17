@@ -8,7 +8,7 @@ comments: 'yes'
 permalink: 'plus4-9'
 category: retro
 tags:
-  - 
+  -
 ---
 
 Introduction
@@ -94,18 +94,38 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 ## Introduction
 
+The Commodore Plus/4 includes the (**T**ext **ED**itor)TED 7360 (which is how the C16, C116, Plus/4 and the unreleased V364 (with voice synthesizer) line of computer came to be known as the TED Series). The TED is an integrated MOS Technology chip that handled; video, sound; DRAM refresh, interval timers, and keyboard input handling.
+
+> LEARN MORE: Check out the wonderful [Commodore Plus/4, 16, 264, 364 “TED” Series – The Beginning of the End – Commodore Computers: C64 VIC20 PET C128 Plus4 – 8 Bit PC's](https://www.commodore.ca/commodore-products/commodore-264-plus4-ted-series-the-beginning-of-the-end/) page.
+
+![Commdore TED Series](https://www.stevencombs.com/plus4/images/ted-models.png)
+
+We've seen the five video modes the TED supports in Chapter 7. Let's see what sounds and music can be created from the built-in tone generator that contains two channels; one square wave and a second capable of either a square wave or white noise.
+
+The TED is not as capable as the SID found in the Commodore CBM-II, C64, MAX, or C128. The TED was designed for business applications and the sound capabilities of the chip were downgraded from the SID to better match these applications. Remember, the Plus/4 (and TED series) was originally designed for the productivity users, not the gamer.
+
+The TED featured a simple tone generator that produced two channels of audio. The first channel produced a square wave, and the second could produce either a square wave or white noise. Between the two channels you could hear either two tones or one tone plus noise. This tone generator was designed for business applications, and did not provide the extensive sound features found in the SID chip.
+
+
+
 ## The Volume Command
 
+
+
 ## The Sound Command
+
 
 
 ## A Musical Sound Effect
 
 
+
 ## Creating a Noise Sound Effect
 
 
+
 ## Making Some Music
+
 
 
 ## The Great Plus/4 Music Machine
