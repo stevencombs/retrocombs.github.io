@@ -164,7 +164,7 @@ You can now load and save programs to disk images on the Pi1541.
 
 6. Use the joystick to locate the disk image file. Press the fire button to attach the disk image. The image name will appear in the **Disk Drive** option at the bottom of the page.
 7. Press the lower-right red button on the joystick to return the Commodore computer screen. The image is now available.
-7. Use the `load"name",8,1` command load the file.
+7. Use the `load"name",8` command load the file.
 8. Use the `run` command to execute the program.
 
 You can now load and save programs to disk images on the USB drive.
