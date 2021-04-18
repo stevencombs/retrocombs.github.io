@@ -157,9 +157,9 @@ The majority of PETSCII codes have been absorbed into ASCII; however, they can b
 I wrote a BASIC program that will display PETSCII characters on the screen. `DLOAD` or type the program and then `RUN` the program. The screen will clear and the PETSCII characters will fill the top of the screen. and then tap the `⇧` + `C=` keys to cycle between upper and lower-case modes as shown in the images below the code. Right-side graphics characters are available in both upper and lower-case modes. Left-side characters include lines and angles used to draw tables and charts.
 
 ```realbasic
-5 scnclr
-10 for t = 33 to 127 : print chr$(t); : next t
-20 for t = 160 to 255 : print chr$(t); : next t
+5 SCNCLR
+10 FOR T = 33 TO 127 : PRINT CHR$(T); : NEXT T
+20 FOR T = 160 TO 255 : PRINT CHR$(T); : NEXT T
 ```
 **💾 On Disk:** `07 PETSCII`
 

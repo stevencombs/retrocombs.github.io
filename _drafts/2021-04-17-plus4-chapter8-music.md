@@ -102,19 +102,60 @@ The Commodore Plus/4 includes the (**T**ext **ED**itor)TED 7360 (which is how th
 
 We've seen the five video modes the TED supports in Chapter 7. Let's see what sounds and music can be created from the built-in tone generator that contains two channels; one square wave and a second capable of either a square wave or white noise.
 
-The TED is not as capable as the SID found in the Commodore CBM-II, C64, MAX, or C128. The TED was designed for business applications and the sound capabilities of the chip were downgraded from the SID to better match these applications. Remember, the Plus/4 (and TED series) was originally designed for the productivity users, not the gamer.
+The TED is not as capable as the SID found in the Commodore CBM-II, C64, MAX, or C128. The TED was designed for business applications and the sound capabilities of the chip were downgraded from the SID to better match these applications. Remember, the Plus/4 (and TED series) was originally designed for productivity users, not the gamer.
 
-The TED featured a simple tone generator that produced two channels of audio. The first channel produced a square wave, and the second could produce either a square wave or white noise. Between the two channels you could hear either two tones or one tone plus noise. This tone generator was designed for business applications, and did not provide the extensive sound features found in the SID chip.
+While limited, compared to the SID, the TED includes a tone generator with two audio channels that creates music and sound. Combined the tone generator can produce either two tones or one tone plus white-noise. Let's dig in and see we tones and tunes we can produce.
 
+```realbasic
+10 VOL 8
+20 DO
+30 INPUT X
+35 IF X > 1023 OR X < 0 THEN ? "0 TO 1023, PLEASE" : GOTO 30
+40 SOUND 1,X,10
+50 LOOP UNTIL X = 0
+```
+**💾 On Disk:** `08 MAKE TONE`
 
+When you `run` the program, a `?`, or input, prompt will appear. Type a number from 0 to 1023 and press `↩` to hear a short tone. Modifications in tone are hard to distinguish between steps of 50.
+
+The program above uses the only two BASIC commands necessary to produce sounds, music, or tones. Those commands are `VOL` and `SOUND`. To create a sound in immediate mode (without programming line numbers) try these two lines:
+
+```realbasic
+VOL 8
+SOUND 1,266,60 
+```
+
+We will break these commands down in the next two sections; however, modify the first variable in the `SOUND` command from `1` to `2`. Notice a difference? You shouldn't. The `2` changes to the second sound channel which has duplicate capabilities to channel `1` unless you change the first variable to `3`. This does not turn on a third channel, but activates the white-noise feature of the second channel. This example gives us a look at how we can use the TED to generate not only business tones, but sound and music for games. Sadly, for the TED series, even the older Commodore VIC-20 had better sound capabilities with three channels and a white-noise generator.
+
+Lets trudge on and learn how to generate interesting tones on the Plus/4 using these two BASIC commands combined with everything we've learned from the previous chapters.
 
 ## The Volume Command
 
+The `VOL` command is self-explanatory. The `VOL` command accepts values from 0 (off) to 8 (loudest). 
 
+Try the previous immediate mode commands again but change the volume as shown in the example below:
+
+```realbasic
+VOL 3
+SOUND 1,266,60 
+```
+
+`VOL` is useful; however, the `SOUND` command is the star of the show.
 
 ## The Sound Command
 
+Before we use the `SOUND` command, below is the syntax:
 
+`SOUND` *voice*, *note*, *duration*
+
+As you can see, there are three required options for the `SOUND` command:
+
+1. voice - a number between 1 and 3 which represents the channel.
+2. note - a number between 0 and 1023. A lower number produces a lower frequency and a higher number creates a higher frequency. There are four [octaves](https://en.wikipedia.org/wiki/Octave) of notes available. The image below displays shows a single scale of notes. Section 11 of the Plus/4 Encyclopedia (found in the back of the User's Manual) includes a complete chart of notes.
+
+    ![Musical Notes Quick Reference](https://www.stevencombs.com/plus4/images/musical-notes.png)
+
+	3. duration - a number between 0 and 65535. Each number represents a sixtieth of a second. A values of 60 will produce a tone for one second. A value of 65535 will produce a tone for ≈ 1092 second, or ≈ 18 minutes and 20 seconds!
 
 ## A Musical Sound Effect
 
