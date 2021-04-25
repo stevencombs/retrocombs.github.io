@@ -12,6 +12,7 @@ tags:
   - heartrate
   - o2 sensor
   - health
+  - wyze watch review
 ---
 
 I think I have a smartwatch and fitness tracker problem. I've worn a WearOS watch for the past three years. It's been and up and down relationship. Battery life on WearOS devices are horrible and a daily charge is required. I've owned a pocket FitBit so supplement the times when I forgot to charge my WearOS, but it's days were numbered years ago.
@@ -36,6 +37,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 1. [Wyze Band](https://amzn.to/3w814pF)
 2. [Wyze Watch](https://wyze.com/wyze-watch.html)
+3. [Solob 22mm Stainless Steel Magnetic Mesh Band](https://amzn.to/3nikWmf) - See Final Thoughts #13 below.
 3. [TicWatch C2+](https://amzn.to/2QKJKai)
 3. [My Wyze Videos](https://www.youtube.com/playlist?list=PLRVBh2hjFTokf2amubNe1PZpzac3TUHwi)
 4. [Wyze Cam V3](https://amzn.to/3lYdRX6)
@@ -56,6 +58,10 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 8. The watch feels well-made and like premium materials. I'm flabbergasted. How do they sell this thing for $20 with this build quality?
 9. I look forward to future firmware updates. If there's leftover memory in the watch, I'd like to see them add a few more applications. A fun and simple game would be interesting.
 10. I don't see Wyze creating an SDK for third-party apps. I think we will get what Wyze wants us to get. That's so Apple of them!
+11. **[UPDATE: 2021-04-25]** Notifications from apps other than text and phone on my Pixel 4XL are not appearing on the watch. I'm hopeful a firmware (current version is 0.12.37) update will correct this issues.
+12. **[UPDATE: 2021-04-25]** Sports tracking does not work for outdoor running. It appears this tracking is for indoor treadmill use. When I use outside, tracking is a good ½ to ¾ of a mile off. Again, a firmware version could correct this if they provided the ability to input the measurement of your run stride.
+13. **[UPDATE: 2021-04-25]** I purchased a new band for my Watch and love it. It's a [Solob 22mm Stainless Steel Magnetic Mesh Band](https://amzn.to/3nikWmf) that is much easier to remove than the stock band. At around $10 it make the watch look more expensive, is more comfortable, and is easier to remove. Band replacement is simple since the Wyze Watch comes with a quick release. I'm going to grab one for my [TicWatch C2+](https://amzn.to/3ex5PBq) which is my goto WearOS watch.
+14. **[UPDATE: 2021-04-25]** Speaking of the TicWatch C2+, I should provide my wear schedule for both devices. On a normal workday (meaning I go into the office), I wear the TicWatch for it's more robust notification and app support. These additional features enhance my productivity. On days where I work from my virtual office, on the weekends, or in the evenings, I wear the Wyze Watch. During those times, the Wyze Watch is a pure fitness tracker and I love the sleep tracking. The TicWatch will not make it through an entire evening on a battery charge. It sits on the charger at night ready for the next day at work.
 
 That's it for now. I'll update this page as I have more time with the watch and as firmware updates roll in.
 
