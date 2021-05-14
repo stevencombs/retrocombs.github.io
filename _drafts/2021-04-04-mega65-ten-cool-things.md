@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Title'
+title: 'Ten cool things you can do with the MEGA65'
 date: '2021-01-11'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
@@ -28,6 +28,20 @@ None as of 2021-02-18.
 Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [Item](link)
+
+## Ten Things
+
+### 1. Connect to PC with M65 Connect
+### 2. Use C64 Cartridges (are C65 carts on their way?)  - Some neighbors borrow tools
+### 3. Use IEC devices (1581s, pi1541, etc)
+### 4. Run C65 specific version of GEOS
+### 5. Learn to program in BASIC
+### 6. Use retro joysticks
+### 7. Use a wireless USB mouse (see my previous video) - or any other modern USB mouse.
+### 8. Become a developer
+### 9. Install additional cores (Mister)
+### 10.Connect to a BBS
+### Bonus, Don't wait, run it now using XEMU
 
 ## Final Thoughts
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Commodore Plus/4 User’s Manual Chapter 7 - Using Graphics and Color'
-date: '2021-02-18'
+date: '2021-04-30'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-8
 email: 'steven.combs@gmail.com'
@@ -27,7 +27,7 @@ In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Cha
 <!-- TOC -->
 
 - [Series Information](#series-information)
-- [Companion Disk Image (In Progress)](#companion-disk-image-in-progress)
+- [Companion Disk Image](#companion-disk-image)
 - [User's Manual](#users-manual)
 - [YouTube Video: _retroCombs: Commodore Plus/4, Chapter 7 - Using Graphics and Color_](#youtube-video-_retrocombs-commodore-plus4-chapter-7---using-graphics-and-color_)
 - [Video Errata](#video-errata)
@@ -48,7 +48,7 @@ In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Cha
   - [SINE CURVE PROGRAM](#sine-curve-program)
 - [The `CHAR` Command](#the-char-command)
   - [CHARACTERS ON GRAPH PROGRAM](#characters-on-graph-program)
-- [Squares, Circles, Polygons, and Painting](#squares-circles-polygons-and-painting)plus4/images/screen-window.png
+- [Squares, Circles, Polygons, and Painting](#squares-circles-polygons-and-painting)
   - [Drawing Rectangles](#drawing-rectangles)
   - [SQUARE PROGRAM](#square-program)
   - [ROTATE SQUARE PROGRAM](#rotate-square-program)
@@ -94,7 +94,7 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 Below are the links for previous chapters covered:
 
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
-2. [Chapter 1 - Unpaplus4/images/screen-window.pngcking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
+2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
 3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
 4. [Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
 5. [Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4.pdf)

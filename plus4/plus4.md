@@ -38,19 +38,6 @@ Use the handy table of contents below to jump to a section on this page.
 
 ***
 
-## User's Manual
-
-In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 user's manual. I've scanned each chapter and provide those below. I will post new chapters with each new video.
-
-1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
-2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
-3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
-4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
-5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
-6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
-7. [Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
-8. [Chapter 7 - Using Graphics and Color](/plus4/users-manual/p4um-chapter-7.pdf)
-
 ## Key to Keys
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
@@ -146,6 +133,13 @@ Each blog post contains the companion YouTube video and most include links to it
 
     * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
 
+9. [Commodore Plus/4 User's Manual, Chapter 8 - Making Sound and Music on the Plus/4](/plus4-9)
+
+    This last chapter in the user's manual takes us on a musical and noise infused journey through Commodore Basic and the Plus/4 `SOUND` and `VOL` commands. The Plus/4 was not capable of the amazing sounds that come from it's older brother and sister, the Commodore 64 or the 128. Heck, it wasn't even as capable as the earlier VIC-20; however, with a little effort and creativity, you can put the two channels to use in business applications; the primary market for the Commodore TED series.
+
+    * [Pi1541 Setup](/pi1541-1)
+    * [Create a Blank .d64 Disk Image](/pi1541-2)
+
 ## Companion Disk Image
 
 As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image that below contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
@@ -159,6 +153,20 @@ I use the following file name convention to make it easy to locate specific prog
 * `02C#` - where # is the chapter number
 * `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.P#` - where # is the page number where the program is first referenced in the user's manual
 * `NAME` - my self assigned name for the program
+
+## User's Manual
+
+In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 user's manual. I've scanned each chapter and provide those below. I will post new chapters with each new video.
+
+1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
+2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
+3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
+4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
+5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
+6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
+7. [Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
+8. [Chapter 7 - Using Graphics and Color](/plus4/users-manual/p4um-chapter-7.pdf)
+9. [Chapter 8 - Making Sound and Music on the Plus/4](/plus4/users-manual/p4um-chapter-8.pdf)
 
 ## Supplemental Posts
 
