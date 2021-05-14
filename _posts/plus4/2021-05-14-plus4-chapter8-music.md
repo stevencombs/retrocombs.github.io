@@ -22,7 +22,7 @@ Despite these limits, you can still have some fun as it appropriately demonstrat
 - [Series Information](#series-information)
 - [Companion Disk Image](#companion-disk-image)
 - [User's Manual](#users-manual)
-- [YouTube Video: _‌Commodore Plus/4 User's Manual | Chapter 8 - Making Sound and Music | Beeps, boops and bops!_](#youtube-video-_‌commodore-plus4-users-manual--chapter-8---making-sound-and-music--beeps-boops-and-bops_)
+- [YouTube Video: _‌Commodore Plus/4 User's Manual \| Chapter 8 - Making Sound and Music \| Beeps, boops and bops!_](#youtube-video-_‌commodore-plus4-users-manual--chapter-8---making-sound-and-music--beeps-boops-and-bops_)
 - [Video Errata](#video-errata)
 - [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
 - [Key to Keys](#key-to-keys)
@@ -81,7 +81,7 @@ Below are the links for previous chapters covered:
 7. [Chapter 6 - Beginning BASIC Programming](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-6.pdf)
 8. [Chapter 7 - Using Graphics and Color](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-7.pdf)
 
-## YouTube Video: _‌Commodore Plus/4 User's Manual | Chapter 8 - Making Sound and Music | Beeps, boops and bops!_
+## YouTube Video: _‌Commodore Plus/4 User's Manual \| Chapter 8 - Making Sound and Music \| Beeps, boops and bops!_
 
 In the video below, I ...
 
