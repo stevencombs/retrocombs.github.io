@@ -2,7 +2,7 @@
 layout: post
 title: 'RETRO: Ready Ranger Mobile Field Headquarters'
 date: '2015-06-26 15:45'
-author: 'Steven B. Combs, Ph.D.'
+author: 'Steven B. Combs'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 categories:
@@ -10,26 +10,27 @@ categories:
 tags:
   - 1970s
   - toys
-  - readyranger
+  - ready ranger
   - exploring
   - retro
+  - backpack
 ---
 
-{This is a major update to an original post I wrote around 8 years ago} About a week before Christmas of 2007, my son came home with homework for his Dad. My initial thought at the time, “Parents get homework?!?” Then I read the assignment; write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several of my favorites: [G.I. Joe with Jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Million Dollar Man action figure](http://www.plaidstallions.com/smdm/), [Evel Knievel action figure with motorcycle](http://www.plaidstallions.com/evel/), [MEGO DC Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, [LEGO](http://www.lego.com). However, none of these past christmas gifts compare to my all time favorite, the Ready Ranger Mobile Field Headquarters (RRMFH) from Aurora {a later version was renamed the Ready Ranger Mobile Field Pack}.
+{This is an update to an original post I wrote around 8 years ago} About a week before Christmas of 2007, my son came home with homework for his Dad. My initial thought at the time, “Parents get homework?!?” Then I read the assignment; write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several favorites: [G.I. Joe with Jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Million Dollar Man action figure](http://www.plaidstallions.com/smdm/), [Evel Knievel action figure with motorcycle](http://www.plaidstallions.com/evel/), [MEGO DC Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, [LEGO](http://www.lego.com). However, none of these past Christmas gifts compare to my all time favorite, the Ready Ranger Mobile Field Headquarters (RRMFH) from Aurora {a later version was renamed the Ready Ranger Mobile Field Pack}.
 
 ![][1]
 
 # Best Christmas Ever!
 While preparing my RRMFH essay for my son's teacher, I performed a quick online search for information about the backpack to spark my memories. I discovered a Spiegel catalog page (remember them?), courtesy of [plaidstallions.com](http://www.plaidstallions.com) (see image above). Images of the toy brought back many Christmas memories from the mid-70s. In particular, the Christmas I received the RRMFH.
 
-I remember requesting this toy from my parents. I actually did not anticipate that I would receive it; however, in early December, I found the unopened box in the trunk of my parents car. I wish I could say it was by accident; however, I was a bit of a stinker in my day and I was actually searching for Christmas gifts. Unbeknownst to my parents, even to this day (but not after posting this), they never knew I found (and I use the term loosely) my dad’s keys to the car and went out to the trunk for a peek. I did not expect to find anything. When I did, “Oh boy!” It would be a long several weeks wait until Christmas morning.
+I remember requesting this toy from my parents. I actually did not believe I would receive it; however, in early December, I found the unopened box in the trunk of my parents car. I wish I could say it was by accident; however, I was a bit of a stinker in my day and I was actually searching for Christmas gifts. Unbeknownst to my parents, even to this day (but not after posting this), they never knew I found (and I use the term loosely) my dad’s keys to the car and went out to the trunk for a peek. I did not expect to find anything. When I did, “Oh boy!” It would be a long several weeks until Christmas morning.
 
-After reminiscing, I made a print of the image and submitted it along with the written exercise to my son's teacher. I'm definitely an overachiever and Dad would surely receive an "A" for his submission since you can't "shoot your eye out" with this Christmas gift (a reference to the film [A Christmas Story][2]). This $11 toy was the perfect gift for a young budding gadget geek and military man like me!
+Let's get back to the assignment. After reminiscing, I made a print of the image and submitted it along with the written exercise to my son's teacher. I'm definitely an overachiever and Dad would surely receive an "A" for his submission since you can't "shoot your eye out" with this Christmas gift (a reference to the film [A Christmas Story][2]). This $11 toy was the perfect gift for a young budding gadget geek and military brat like me!
 
 # RRMFH description
-For those who did not have the pleasure of experiencing the RRMFH, it was an amazing use of mid-1970s plastic and was my Red Ryder BB Gun (yep, another reference to the film [A Christmas Story][2]). This toy composed of an amalgam of cardboard, paper and transistor electronics sent me on numerous adventures during my 1970s childhood. Most of these adventures occurred in my room or at home but one, which I will share a bit later, will forever hold a special memory.
+For those who did not have the pleasure of experiencing the RRMFH, it was an amazing use of mid-1970s plastic and was my Red Ryder BB Gun (yep, another reference to the film [A Christmas Story][2]). This toy, composed of an amalgam of cardboard, paper, and transistor electronics sent me on numerous adventures during my 1970s childhood. Most of these adventures occurred in my room or at home but one, which I will share later, will forever hold a special memory.
 
-The Aurora built backpack had features that would make 007 proud. On top of that, all these features were housed in a single backpack and revealed only when backpack's three covers were open as shown in the image below.
+The Aurora built backpack had features that would make 007 proud. All these features were housed in a single backpack and revealed only when the backpack's three covers were open; as shown in the image below.
 
 ![](https://lh3.googleusercontent.com/-fBUME3uCBD4/TsqyzD-lnUI/AAAAAAABk5o/aYi8Iyqc0oE/w851-h786-no/vintagere-1321236874-11474.jpg)
 

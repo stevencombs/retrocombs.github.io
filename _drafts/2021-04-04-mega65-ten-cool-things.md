@@ -8,13 +8,35 @@ comments: 'yes'
 permalink: 'mega65-3'
 category: 'retro'
 tags:
-  - commodore 
-  - retrocomputing 
+  - commodore
+  - retrocomputing
   - mega65
   - top10
 ---
 
 Introduction
+
+<!-- TOC -->
+
+- [YouTube Video: _‌Ten cool things you will be able to do with the MEGA65 Computer_](#youtube-video-_‌ten-cool-things-you-will-be-able-to-do-with-the-mega65-computer_)
+- [Video Errata](#video-errata)
+- [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
+- [Ten Things](#ten-things)
+  - [1. Use C64 Cartridges (are C65 carts on their way?)  - Some neighbors borrow tools](#1-use-c64-cartridges-are-c65-carts-on-their-way----some-neighbors-borrow-tools)
+  - [2. Use IEC devices  (1581s, pi1541, etc) and real Floppy Disks](#2-use-iec-devices--1581s-pi1541-etc-and-real-floppy-disks)
+  - [3. Run a C65 specific version of GEOS](#3-run-a-c65-specific-version-of-geos)
+  - [4. Play C65 enhanced games](#4-play-c65-enhanced-games)
+  - [5. Learn to program in BASIC 10 and become a developer](#5-learn-to-program-in-basic-10-and-become-a-developer)
+  - [6. Use retro joysticks](#6-use-retro-joysticks)
+  - [7. Use a wireless USB mouse (see my previous video) - or any other modern USB mouse.](#7-use-a-wireless-usb-mouse-see-my-previous-video---or-any-other-modern-usb-mouse)
+  - [8. Connect to PC with M65 Connect](#8-connect-to-pc-with-m65-connect)
+  - [9. Install additional cores (Mister)](#9-install-additional-cores-mister)
+  - [10.Connect to a BBS](#10connect-to-a-bbs)
+  - [Bonus, Use a REAL commodore style keyboard (with PETSCII and layout)](#bonus-use-a-real-commodore-style-keyboard-with-petscii-and-layout)
+- [Final Thoughts](#final-thoughts)
+- [Join the Fun](#join-the-fun)
+
+<!-- /TOC -->
 
 ## YouTube Video: _‌Ten cool things you will be able to do with the MEGA65 Computer_
 
@@ -34,19 +56,31 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 ## Ten Things
 
-THEC64 and THEVIC20 devices are wonderful Commodore computer revivals but what if you want a more original Commodore computing experience with a touch of modern? The MEGA65 will be your goto device and I'm going to share with you 10 reasons why.
+THEC64 and THEVIC20 devices are wonderful Commodore computer revivals but what if you want a more original Commodore computing experience; with a touch of modern? For that, turn your attention to the upcoming MEGA65. As followers know, I'm one of 100 DevKit owners and while I'm not a developer, I chose to use my DevKit to help spread the word about what will be the retro-creation all Commodore fans will want to own. And if things go as planned, first units of the MEGA65 may arrive later this year. To get you excited about this release, below is my list of the 10 cool things you will be able to do on the MEGA65 that distinguish this device from other Commodore recreations such as THEC64.
+
+Let's get started on the list…
 
 ### 1. Use C64 Cartridges (are C65 carts on their way?)  - Some neighbors borrow tools
 
-Unlike THEC64 series, you can't use original Commodore 64 Cartridges or any of the cool homebrew or new games. In order to use cartridges you need to break out an original C64 and these are getting harder and harder to find and keep operational.
+Unlike THEC64 series, you can't use original Commodore 64 Cartridges or any of the new home brew cartridge games. In order to use cartridges you need to break out an original C64 and these are getting harder and harder to find.
+
+Huge thanks to Jamie for allowing me to test his cartridges and to the TFW8B for the opportunity to purchase new cartridge games.
+
+The MEGA65 will recognize a Commodore 64 cartridge and boot straight to C64 mode. Not everything works right now; such as this disk enhancement cartridge; however, the developers have this on their list of things to do and when a C64 core is released, compatibility will likely be better. The most compatible carts are games. Not a bad place to start!
 
 ### 2. Use IEC devices  (1581s, pi1541, etc) and real Floppy Disks
 
-TheAnd, yes. You can still order 3 1/2 inch floppy disks in both DS/DD and DS/HD. Which do you need? ...
+And, yes. You can order 3 1/2 inch floppy disks in both DS/DD and DS/HD. Which do you need? ...
 
 ### 3. Run a C65 specific version of GEOS
 
-
+falk — 2021-06-08 at 6:35 PM
+MEGA has the right to distribute GEOS with the MEGA65 machine, especially all parts available on cbm files, TopDesk 1.x officially is open-sourced by permission of the original owner GEOS-USER-CLUB Germany. Kernal is based on the reverse engineered source available https://github.com/mist64, CONFIGURE is based on reverse engineering project here:\
+\
+https://mumu21.se/
+\
+All other Apps/Tools/Binaries are bundled without source for the MEGA65 release, but the stuff builds and start without it.
+Still a pile of work to do, but getting there :slight_smile:
 
 ### 4. Play C65 enhanced games
 
@@ -85,11 +119,13 @@ This is recent development for the MEGA65 DevKit.
 
 ### Bonus, Use a REAL commodore style keyboard (with PETSCII and layout)
 
-Throughout this video, you've seen me use the MEGA65 DevKit, which includes a wonderful mechanical keyboard. Mechanical keyboards are all popular and inexpensive today; however, in the 1980s, full mechanical switch keyboards came on expensive business computers. The original Commodore keyboards weren't bad though and one of the things that I appreciated was their inclusion of the PETSCII characters, colors, and functions printed right on the top, and FRONT, of the keys. This made using the keys a joy. The MEGA65 includes a spectacular mechanical keyboard complete with those original Commodore key character stamps. And not a single stamped, but double-stamped for clarity and durability. This thing is built for the long haul.
+Throughout this video, you've seen me use the MEGA65 DevKit, which includes a wonderful mechanical keyboard. Mechanical keyboards are all the rage and inexpensive; however, in the 1980s, full mechanical switch keyboards came on expensive, *cough* IBM, business computers. The original Commodore keyboards weren't bad; however, they weren't great either. 
+
+One of the things that I appreciated was their inclusion of the PETSCII characters, colors, and functions printed right on the top and front of the keys. This made using the keys a joy when programming basic programs. The MEGA65 includes a spectacular mechanical keyboard complete with those original Commodore key character stamps. And not a single stamped, but double-stamped for clarity and durability. This keyboard is built for the long haul.
 
 ## Final Thoughts
 
-1. 
+1.
 
 ## Join the Fun
 
@@ -100,3 +136,21 @@ Help make this content better! Leave your comments and thoughts below or in the 
 Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!
+
+
+<!--
+
+  1. Use C64 Cartridges (are C65 carts on their way?)
+  2. Use IEC devices(1581s, pi1541, etc) and Floppy Disks
+  3. Run a C65 specific version of GEOS
+  4. Play C65 enhanced games
+  5. Learn to program in BASIC 10 and become a developer (Eleven)
+  6. Use retro joysticks
+  7. Use a wireless USB mouse
+  8. Connect to PC with M65 Connect
+  9. Install additional cores
+  10.Connect to a BBS
+
+  Bonus: Use a Commodore-layout keyboard
+
+-->
