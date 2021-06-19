@@ -122,8 +122,8 @@ Each blog post contains the companion YouTube video and most include links to it
     * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
     * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
     * [Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
-    * [MEGA 65 Project](https://mega65.org/)
-    * [MEGA 65 Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
+    * [ Project](https://mega65.org/)
+    * [ Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
     * [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
     * [THEVIC20 - U.K. Listing](https://amzn.to/3l7hZlB)
 

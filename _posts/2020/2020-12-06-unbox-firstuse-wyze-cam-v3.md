@@ -33,7 +33,7 @@ Below are the links (#ad) mentioned in the video:
 3. [Wyze Smart Plug](https://amzn.to/2Y4W3ig)
 4. [Wyze Scale](https://amzn.to/31SsVMs)
 5. [Wyze Cam Outdoor](https://www.stevencombs.com/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
-6. [MEGA 65 Open the Box](https://www.stevencombs.com/mega65-1)
+6. [ Open the Box](https://www.stevencombs.com/mega65-1)
 
 ## Final Thoughts
 

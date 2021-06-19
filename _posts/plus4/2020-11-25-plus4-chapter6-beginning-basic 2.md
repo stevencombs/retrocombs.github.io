@@ -77,8 +77,8 @@ Below are the links I mention in the video. All Amazon links are affialiate link
 1. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
 3. [Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
-4. [MEGA 65 Project](https://mega65.org/)
-4. [MEGA 65 Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
+4. [ Project](https://mega65.org/)
+4. [ Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
 5. [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
 6. [THEVIC20 - U.K. Listing](https://amzn.to/3l7hZlB)
 

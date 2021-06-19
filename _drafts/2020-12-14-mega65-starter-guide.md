@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: MEGA 65 Starter Guide'
+title: 'retroCombs:  Starter Guide'
 date: '2020-12-14'
 author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-2
@@ -10,17 +10,17 @@ category: retro
 tags:
   - commodore
   - retro
-  - mega 65
+  - 
   - manual
 
 ---
 
-As followers of this blog and my YouTube channel know, I love to work my way through user's manuals and and share my discoveries in video. In this post, I continue my [MEGA 65 series](https://www.stevencombs.com/mega65-1) as I work through the MEGA 65 Starter Guide.
+As followers of this blog and my YouTube channel know, I love to work my way through user's manuals and and share my discoveries in video. In this post, I continue my [ series](https://www.stevencombs.com/mega65-1) as I work through the  Starter Guide.
 
 ## Starter Guide
 
 
-## YouTube Video: _retroCombs: MEGA 65 Starter Guide_
+## YouTube Video: _retroCombs:  Starter Guide_
 
 In the video below, I work through Chapter 6 of the user's manual.
 
@@ -34,12 +34,12 @@ None as of 2020-11-25.
 
 Below are the links I mention in the video. All Amazon links are affialiate links. Thanks for supporting the blog and the YouTube channel!
 
-1. [MEGA 65 Project](https://mega65.org/)
-4. [MEGA 65 Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
-5. [MEGA 65 OPEN THE BOX and FIRST USE](https://www.stevencombs.com/mega65-1)
+1. [ Project](https://mega65.org/)
+4. [ Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
+5. [ OPEN THE BOX and FIRST USE](https://www.stevencombs.com/mega65-1)
 ## Key to Keys
 
-Because the MEGA 65 keyboard layout is different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
+Because the  keyboard layout is different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
 | Key    | Description   | Key  | Description |
 |:-------|:--------------|:-----|:------------|
@@ -75,7 +75,7 @@ Because the MEGA 65 keyboard layout is different from modern keyboards, I devise
 
 1. t
 
-## Get Familiar With Your MEGA 65
+## Get Familiar With Your 
 
 ### Config Utility
 
@@ -85,7 +85,7 @@ Because the MEGA 65 keyboard layout is different from modern keyboards, I devise
 
 ### C64 Mode
 
-## Developing for and with the MEGA 65
+## Developing for and with the 
 
 ## Resources
 

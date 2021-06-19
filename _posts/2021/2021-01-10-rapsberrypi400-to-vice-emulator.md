@@ -10,7 +10,7 @@ category: retro
 tags:
   - commodore
   - retro
-  - mega 65
+  - 
   - manual
   - raspberry pi
   - vice

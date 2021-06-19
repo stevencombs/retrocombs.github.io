@@ -140,7 +140,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 1. Thank you to all my viewers and the feedback.
 2. .d81 disk image is available [here](https://www.stevencombs.com/plus4#companion-disk-image).
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
-5. Hope you've been keeping up with my retro-computing content like my latest project, the [Combian pi/400](https://www.stevencombs.com/combianpi400-1). I love this [Combian 64](https://cmaiolino.wordpress.com/) and [Raspberry Pi 400](https://amzn.to/3iV8Ay9) mash-up. Other than my [MEGA 65 Dev Kit](https://www.stevencombs.com/mega65-1), It's my new favorite modern emulation system. I plan to do more with it in the near future.
+5. Hope you've been keeping up with my retro-computing content like my latest project, the [Combian pi/400](https://www.stevencombs.com/combianpi400-1). I love this [Combian 64](https://cmaiolino.wordpress.com/) and [Raspberry Pi 400](https://amzn.to/3iV8Ay9) mash-up. Other than my [ Dev Kit](https://www.stevencombs.com/mega65-1), It's my new favorite modern emulation system. I plan to do more with it in the near future.
 
 ## Graphics Characters
 
