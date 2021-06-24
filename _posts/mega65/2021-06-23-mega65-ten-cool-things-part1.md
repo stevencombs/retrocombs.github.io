@@ -43,7 +43,9 @@ In the video below, I share items one through five of the ten cool things that w
 
 ## Video Errata
 
-None as of 2021-06-23.
+**\[2021-06-24 Update\]** Well, that didn't take long. I've had several comments that my game captures are the wrong video format. I recorded in NTSC and all games should have been set for PAL. I'll make a correction in part 2. The developers let me know that all games are designed for PAL mode.
+
+Based on this, I recommend gamers modify default values to PAL.
 
 ## Links Mentioned in this Episode:
 
@@ -146,7 +148,7 @@ Although MEGA65 titles are in early development, they are promising and as devel
 
 While we wait for MEGA65 game titles, we can use the collection of Commodore 64 game cartridges since the MEGA65 includes a C64 mode. Unlike TheC64 mini or maxi, the MEGA65 includes a cartridge port. When you insert a C64 cartridge into the MEGA65, it will boot straight to C64 mode.
 
-![Easy Flash Cartridge](https://www.c64-wiki.com/images/b/bc/ModulEasyFlash.jpg)
+![Easy Flash Cartridge](https://www.c64-wiki.com/images/b/bc/ModulEasyFlash.jpg)  
 [Source: C64 Wiki](https://www.c64-wiki.com/wiki/Cartridge)
 
 With my DevKit, most games work; however, some utilities cartridges, such as the [Epyx FastLoad](https://www.thefuturewas8bit.com/eflr.html) and [TFW8B Kung Fu Flash](https://www.thefuturewas8bit.com/kung-fu-flash.html) don’t work. The developers know that C64 emulation is incomplete; however, they remain committed to compatibility and also support the creation of a dedicated C64 core (more on this later); both of which will increase C64 compatibility.

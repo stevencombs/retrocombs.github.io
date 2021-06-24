@@ -65,6 +65,9 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 …
 
+<!-- Well, that didn't take long. I've had several comments that my game captures are the wrong video format. I recorded in NTSC and all games should have been set for PAL. I'll make a correction in part 2. The developers let me know that all games are designed for PAL mode. -->
+
+
 ### 6. Run a C65 specific version of GEOS
 
 If you have a working mouse and a Commodore computer, you must use GEOS.
@@ -78,9 +81,9 @@ All other Apps/Tools/Binaries are bundled without source for the MEGA65 release,
 Still a pile of work to do, but getting there :slight_smile:
 
 
-### 7. Use retro joysticks
+### 7. Play Amiga MOD files
 
-When you play a retro-game, you should use a retro-joystick complete with 9-pin connector, a single joystick, and a lone fire button; not a joypad or pad with fifty buttons.
+@M3wP's Manche mod-player being able to play Amiga MOD music on a MEGA65 is a cool highlight worth promoting
 
 ### 8. Load software from multiple storage devices (SD, IEC, internal Floppy Disk)
 
