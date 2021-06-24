@@ -86,6 +86,15 @@ When you play a retro-game, you should use a retro-joystick complete with 9-pin 
 
 And, yes. You can order 3 1/2 inch floppy disks in both DS/DD and DS/HD. Which do you need? ...
 
+> gardners — Today at 7:38 PM
+> @retroCombs writing to real disks doesn't yet work.
+> I'm actively working on this at the moment.
+> <https://c65gs.blogspot.com/2021/06/working-on-floppy-writing.html>
+> Working on floppy writing
+> Tonight I am trying to make some progress again on writing to floppies in the MEGA65.  Reading has been more or less working for a long time...
+
+> Hopefully it won't be too far off now. This is the penalty (and bonus) of doing everything ourselves from the ground up, including the floppy controller. Because of this we can even read or write Amiga and other funny disks later, and also support HD disks quite easily.
+
 ### 9. Manage the MEGA65 using a modern PC
 
 M65 Connect is available for Mac, Linux, and Windows with feature parity. M65 Connect provides tool to connect directly to the FPGA board to access the SD card, …
@@ -94,9 +103,9 @@ M65 Connect is available for Mac, Linux, and Windows with feature parity. M65 Co
 
 The MEGA65 is built on top of a ????? [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array). The beauty of an FPGA is ability to configure the circuitry to act like other digital devices, such as our favorite retro-computers. While the MEGA65's primary design is to be a modern remake of the in development Commodore 65, it includes enough space, or slots, where you can install other "cores" to configure the FPGA to act at other devices. Current cores include the Gameboy and ZX Spectrum; however, we can look forward to Atari, Amiga, and other retro-computing cores for the MEGA65.
 
-### Bonus 1: Connect to a BBS and the Internet via Ethernet
+Some readers are probably say, "but retroCombs, I can do this on a Mister!" Yes, for me the real issue behind all of these cores on various devices is the keyboard. I'm probably never going to use the ZX Spectum core on my MEGA. Why? Great question! It's the keyboard, retro-computing enthusiast friend of mine. When you add a ZX Spectrum core to the MEGA65, you have to determine the keyboard mapping. This is why I backed the ZX Spectrum Next 2. I want an original hardware experience that includes an accurate keyboard.
 
-This is recent development for the MEGA65 DevKit.
+I might throw and Amiga core on the MEGA65 when it's available, along with other Commodore cores; however, the Gameboy and ZX Spectrum cores don't appeal to me on this machine. There are far too many obtainable recreations that provide an original experience.
 
 ### Bonus 2: Make a phone call
 
