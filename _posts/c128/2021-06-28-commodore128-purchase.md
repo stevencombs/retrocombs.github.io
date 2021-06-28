@@ -23,7 +23,7 @@ As readers and watchers know, I'm slowly adding to my collection of retro and mo
 
 <!-- TOC -->
 
-- [YouTube Video: _FAST LOAD: Commodore 128 and Keelog Power Supply | New additions to my retro-computing collection_](#youtube-video-_fast-load-commodore-128-and-keelog-power-supply--new-additions-to-my-retro-computing-collection_)
+- [YouTube Video: _FAST LOAD: Commodore 128 and Keelog Power Supply \| New additions to my retro-computing collection_](#youtube-video-_fast-load-commodore-128-and-keelog-power-supply--new-additions-to-my-retro-computing-collection_)
 - [Video Errata](#video-errata)
 - [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
 - [My Commodore 128 history](#my-commodore-128-history)
@@ -43,7 +43,7 @@ As readers and watchers know, I'm slowly adding to my collection of retro and mo
 
 Before you read the rest of this post, view the companion video below.
 
-## YouTube Video: _FAST LOAD: Commodore 128 and Keelog Power Supply | New additions to my retro-computing collection_
+## YouTube Video: _FAST LOAD: Commodore 128 and Keelog Power Supply \| New additions to my retro-computing collection_
 
 In the _Fast Load_ video below, I share my Commodore 128 eBay purchase.
 
