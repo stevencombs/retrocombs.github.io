@@ -363,7 +363,7 @@ Fourth, it will use a Raspberry Pi compute module to allow the installation of A
 
 There's much more to learn about this device. Work on the MEGAPhone and the MEGA65 in tandem supports the development of each platform. This will be another  project to follow. You can read all the details at the [MEGAphone PCB Changes](https://c65gs.blogspot.com/2020/11/megaphone-pcb-changes.html) blog post.
 
-Paul Gardner-Stephens was kind enough to share exclusive video the MEGAPhone. In the video, I share a brief snippet. Be sure to check out the entire video at <https://youtu.be/diaDNGISA_k> to learn more about the hardware on this much anticipated mobile version of the MEGA65. **Thank you, Paul, for being a part of this blog post and companion video!**
+Paul Gardner-Stephen was kind enough to share exclusive video the MEGAPhone. In the video, I share a brief snippet. Be sure to check out the entire video at <https://youtu.be/diaDNGISA_k> to learn more about the hardware on this much anticipated mobile version of the MEGA65. **Thank you, Paul, for being a part of this blog post and companion video!**
 
 ## Conclusion
 
