@@ -23,11 +23,7 @@ In this continually updated blog post, I will share each system and include a [F
 
 ---
 
-{{TOC}}
-
-<!-- or does this work?
 {:toc}
--->
 
 ---
 
@@ -115,6 +111,29 @@ The first unit out of the box is the Great Boy. It was opened on 2021-07-04 as p
 ### Companion FAST LOAD VIDEO
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/1eKzJ7DXjjk" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+Time Codes:
+
+00:00 GPi Case Battery Install Introduction
+00:25 FAST LOAD Bumper
+00:35 RetroFlag GPi Case Overview
+02:15 Amazon Prime Day 2021 Purchase Unboxing
+05:13 Unboxing
+08:29 Power On and Demo
+11:03 Tear Down
+14:57 Conclusion
+16:00 Games Menus
+16:33 Donkey Kong Demo
+17:08 Galaga Demo
+17:47 Contra Demo
+18:28 1942 Demo
+19:06 Galaxian Demo
+19:37 Dig Dug Demo
+20:17 Joust Demo
+21:00 Goonies Demo
+21:36 Vindicators Demo
+22:14 Defender II Demo
+22:45 End Screen
 
 ### Features
 
