@@ -73,27 +73,22 @@ I chose models with game counts from 380 to 4000+; similar to the options the GP
 
 > **NOTE:** This page uses Amazon Affiliate Links. Thanks for your continued support of this blog and [companion videos](https://www.youtube.com/stevencombs).
 
-Each unit has unique features and I found it difficult to compare them without a table. I created this table in Google Sheets.
-
 ## Retro Gaming Handhelds Comparison Table
 
-Check out the table below or view directly by clicking [here](https://docs.google.com/spreadsheets/d/18F2VdasK79-lrjHz8jJKqSnqtliHu4gak_LHxMsmsMA/edit?usp=sharing).
-
-With view access you can sort and search. This will help make comparisons. The view below lets you view with out any tools.
+Each unit has unique features and I found it difficult to compare them without a table. My table is in the embedded Google Sheet below or view directly by clicking [here](https://docs.google.com/spreadsheets/d/18F2VdasK79-lrjHz8jJKqSnqtliHu4gak_LHxMsmsMA/edit?usp=sharing).
 
 <iframe width="100%" height=375px src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWTY_jl6B3ZKV_AWtv_bxFXq4vcV-znnsOuUeCL5h0zZY9eUFrIiYS9d9JIQu5H7gMS9qAONhOag5D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-I will not duplicate the table data for each handheld unit in their sections below. Those areas are my individual thoughts, experiences, and recommendations.
-
-I will add to this table and when I do, I will update this blog post. This post is a landing page for my retro gaming handheld experiences. Before I open the first unit, below is the unit I will use to benchmark all other retro-gaming hand held units.
+I will add to this table and when I do, I will update this blog post. This post is the landing page for my retro gaming handheld experiences. Before I open the first handheld game console, below is the unit I use to benchmark all other units.
 
 ## RetroFlag GPi Case with RPi Zero W
 
-I purchased this unit in January of 2020 at the height of COVID. It was a project to take my mind off the world. I fired up YouTube Live and shared the process with a couple of viewers (my subscriber count was ≈ 500). Later I made an edit of the live video. You can view it below.
+I purchased the RetroFlag GPi in January of 2020 at the height of COVID. It was a project to take my mind off the world. I fired up YouTube Live and shared the process with a couple of viewers (my subscriber count was ≈ 400). Later I made an edit of the live video. You can view it below.
 
 ![RetroFlag GPi Case](https://images-na.ssl-images-amazon.com/images/I/61%2Bff81A3dL._AC_SL1500_.jpg)
 
 🕹️ [Purchase the RetroFlag GPi Case](https://amzn.to/36io8X3)
+
 🕹️ [Purchase the required Raspberry Pi Zero W](https://amzn.to/3AnCjYR)
 
 ### RetroFlag GPi Case Companion VIDEO
@@ -121,9 +116,9 @@ The first unique feature is the Gameboy form factor. This is common with many ha
 
 As of this writing, this is the pinnacle of retro-gaming handheld gaming goodness. Not for the form factor, as I mention earlier in the article, but for the sheer number of possible emulator configurations and game system compatibility.
 
-This is the only unit I consider a true retro gaming experience because it is the only system in my list that can emulate Atari, Commodore, ZX Spectrum, and other retro-computing computers from the 1980s. Other units on my 8-bit list end on our gaming timeline with the NES, and while technically those are 8-bit and worthy of their retro title, that excludes a whole inventory of amazing games. Not one of the options below emulates an Atari 2600. That's unacceptable! Notwithstanding, there is fun to be had from these devices.
+This is the only unit I consider a true retro gaming experience because it is the only system here that can emulate Atari, Commodore, ZX Spectrum, and other retro-computing computers from the 1980s. Other units on my 8-bit list end on our gaming timeline with the NES, and while technically those are 8-bit and worthy of their retro title, that excludes a whole inventory of amazing games. Not one of the options below emulates an Atari 2600. That's unacceptable! Notwithstanding, there is fun to be had from these devices.
 
-Using a Raspberry Pi Zero for hardware in the GPi Case is genius. As long as there are no major changes to the RPi Zero's form factor, updates to the hardware in our GPi case cost ≈$25. No other unit on this page has that capability.
+Using a Raspberry Pi Zero for hardware in the GPi case is genius. As long as there are no changes to the RPi Zero's form factor, updates to the hardware in our GPi case cost ≈$25. No other unit on this page has that capability.
 
 The RPi Zero emulation software receives updates to security, features, and emulators. This device is the benchmark for other handheld retro-gaming platforms even though I would prefer a [Playstation PSP](https://amzn.to/3hvF1Tu) or [Nintendo Switch](https://amzn.to/3xfkk52) form factor.
 
