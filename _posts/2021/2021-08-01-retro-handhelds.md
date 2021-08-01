@@ -23,7 +23,7 @@ In this continually updated blog post, I will share each system and include a [F
 
 ---
 
-{:toc}
+* TOC {:toc}
 
 ---
 
