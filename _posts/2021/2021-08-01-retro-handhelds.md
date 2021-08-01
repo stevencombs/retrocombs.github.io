@@ -34,7 +34,7 @@ In this continually updated blog post, I will share each system and include a [F
   - [Unique Features](#unique-features)
   - [RetroFlag GPi Case Thoughts](#retroflag-gpi-case-thoughts)
 - [Great Boy Portable Handheld](#great-boy-portable-handheld)
-  - [Companion Video – FASTLOAD: Retro Gaming Handhelds #1 of 4 | Great Boy w/380 Games](#companion-video--fastload-retro-gaming-handhelds-1-of-4--great-boy-w380-games)
+  - [Companion Video – FASTLOAD: Retro Gaming Handhelds #1 of 4 \| Great Boy w/380 Games](#companion-video--fastload-retro-gaming-handhelds-1-of-4-\-great-boy-w380-games)
   - [Features](#features)
   - [Retro Games Highlights](#retro-games-highlights)
   - [Great Boy Thoughts](#great-boy-thoughts)
