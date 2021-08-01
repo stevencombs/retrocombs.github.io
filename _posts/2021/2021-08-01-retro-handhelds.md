@@ -81,7 +81,7 @@ Check out the table below or view directly by clicking [here](https://docs.googl
 
 With view access you can sort and search. This will help make comparisons. The view below lets you view with out any tools.
 
-<iframe width=100% height=375px src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWTY_jl6B3ZKV_AWtv_bxFXq4vcV-znnsOuUeCL5h0zZY9eUFrIiYS9d9JIQu5H7gMS9qAONhOag5D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height=375px src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWTY_jl6B3ZKV_AWtv_bxFXq4vcV-znnsOuUeCL5h0zZY9eUFrIiYS9d9JIQu5H7gMS9qAONhOag5D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 I will not duplicate the table data for each handheld unit in their sections below. Those areas are my individual thoughts, experiences, and recommendations.
 
