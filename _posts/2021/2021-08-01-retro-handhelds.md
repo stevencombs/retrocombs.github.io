@@ -69,7 +69,7 @@ I chose models with game counts from 380 to 4000+; similar to the options the GP
 
 🕹️ Want to extend your gameplay for items 1 through 4? Purchase additional [BL-5C 3.7V 1020mAh Rechargeable Batteries](https://amzn.to/3zXcgqr).
 
-🕹️ Items 1 to 3 include RCA out. If you TV doesn't support RCA out, use this [RCA to HDMI Convertor](https://amzn.to/3fjnRZ3).
+🕹️ Items 1 to 3 include RCA out. If your TV doesn't support RCA out, use this [RCA to HDMI Convertor](https://amzn.to/3fjnRZ3).
 
 > **NOTE:** This page uses Amazon Affiliate Links. Thanks for your continued support of this blog and [companion videos](https://www.youtube.com/stevencombs).
 
