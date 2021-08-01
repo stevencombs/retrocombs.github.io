@@ -12,6 +12,7 @@ url: 'https://www.stevencombs.com'
 lsi: false
 comments: true
 highlighter: rouge
+markdown: kramdown
 
 themed:
  highlight_color: '#3498db'
