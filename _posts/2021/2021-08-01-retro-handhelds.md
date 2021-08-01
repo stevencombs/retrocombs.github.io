@@ -23,7 +23,36 @@ In this continually updated blog post, I will share each system and include a [F
 
 ---
 
-* TOC {:toc}
+**Table of Contents**
+
+<!-- TOC -->
+
+- [Introduction](#introduction)
+- [Retro Gaming Handhelds Comparison Table](#retro-gaming-handhelds-comparison-table)
+- [RetroFlag GPi Case with RPi Zero W](#retroflag-gpi-case-with-rpi-zero-w)
+  - [RetroFlag GPi Case Companion VIDEO](#retroflag-gpi-case-companion-video)
+  - [Unique Features](#unique-features)
+  - [RetroFlag GPi Case Thoughts](#retroflag-gpi-case-thoughts)
+- [Great Boy Portable Handheld](#great-boy-portable-handheld)
+  - [Companion Video – FASTLOAD: Retro Gaming Handhelds #1 of 4 | Great Boy w/380 Games](#companion-video--fastload-retro-gaming-handhelds-1-of-4--great-boy-w380-games)
+  - [Features](#features)
+  - [Retro Games Highlights](#retro-games-highlights)
+  - [Great Boy Thoughts](#great-boy-thoughts)
+- [LiNKFOR Retro Mini Game Player](#linkfor-retro-mini-game-player)
+  - [Companion Video – Title](#companion-video--title)
+  - [Features](#features-1)
+  - [LiNKFOR Thoughts](#linkfor-thoughts)
+- [FateFan Retro Game Console](#fatefan-retro-game-console)
+  - [Companion Video – Title](#companion-video--title-1)
+  - [Features](#features-2)
+  - [FateFan Thoughts](#fatefan-thoughts)
+- [TRIMUI/PowKiddy Handheld Game Console](#trimuipowkiddy-handheld-game-console)
+  - [Companion Video – Title](#companion-video--title-2)
+  - [Features](#features-3)
+  - [TRIMUI/PowKiddy Thoughts](#trimuipowkiddy-thoughts)
+- [Conclusion, Comparison, and Recommendation](#conclusion-comparison-and-recommendation)
+
+<!-- /TOC -->
 
 ---
 
@@ -108,7 +137,7 @@ The first unit out of the box is the Great Boy. It was opened on 2021-07-04 as p
 
 🕹️ [Purchase the Great Boy Portable](https://amzn.to/3hh4ZeK)
 
-### Companion FAST LOAD VIDEO
+### Companion Video – FASTLOAD: Retro Gaming Handhelds #1 of 4 | Great Boy w/380 Games
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/1eKzJ7DXjjk" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
@@ -226,7 +255,7 @@ Coming Soon!
 
 🕹️ [Purchase the LiNKFOR Retro Mini Game Player](https://amzn.to/3ym6Mog)
 
-### Companion FAST LOAD VIDEO
+### Companion Video – Title
 
 Coming Soon!
 
@@ -252,7 +281,7 @@ Coming Soon!
 
 🕹️ [Purchase the FateFan Retro Game Console](https://amzn.to/2UjRzp5)
 
-### Companion FAST LOAD VIDEO
+### Companion Video – Title
 
 Coming Soon!
 
@@ -274,7 +303,7 @@ Coming Soon!
 
 🕹️ [Purchase the TRIMUI/PowKiddy Handheld Game Console](https://amzn.to/2ToVAsp)
 
-### Companion FAST LOAD VIDEO
+### Companion Video – Title
 
 Coming Soon!
 
