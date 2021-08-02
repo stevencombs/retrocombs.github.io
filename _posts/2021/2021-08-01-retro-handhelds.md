@@ -138,26 +138,28 @@ The first unit out of the box is the Great Boy. It was opened on 2021-07-04 as p
 
 Time Codes:
 
-00:00 GPi Case Battery Install Introduction
-00:25 FAST LOAD Bumper
-00:35 RetroFlag GPi Case Overview
-02:15 Amazon Prime Day 2021 Purchase Unboxing
-05:13 Unboxing
-08:29 Power On and Demo
-11:03 Tear Down
-14:57 Conclusion
-16:00 Games Menus
-16:33 Donkey Kong Demo
-17:08 Galaga Demo
-17:47 Contra Demo
-18:28 1942 Demo
-19:06 Galaxian Demo
-19:37 Dig Dug Demo
-20:17 Joust Demo
-21:00 Goonies Demo
-21:36 Vindicators Demo
-22:14 Defender II Demo
-22:45 End Screen
+| Time  | Content                                 |
+|:------|:----------------------------------------|
+| 00:00 | GPi Case Battery Install Introduction   |
+| 00:25 | FAST LOAD Bumper                        |
+| 00:35 | RetroFlag GPi Case Overview             |
+| 02:15 | Amazon Prime Day 2021 Purchase Unboxing |
+| 05:13 | Unboxing                                |
+| 08:29 | Power On and Demo                       |
+| 11:03 | Tear Down                               |
+| 14:57 | Conclusion                              |
+| 16:00 | Games Menus                             |
+| 16:33 | Donkey Kong Demo                        |
+| 17:08 | Galaga Demo                             |
+| 17:47 | Contra Demo                             |
+| 18:28 | 1942 Demo                               |
+| 19:06 | Galaxian Demo                           |
+| 19:37 | Dig Dug Demo                            |
+| 20:17 | Joust Demo                              |
+| 21:00 | Goonies Demo                            |
+| 21:36 | Vindicators Demo                        |
+| 22:14 | Defender II Demo                        |
+| 22:45 | End Screen                              |
 
 ### Features
 
@@ -244,21 +246,21 @@ That concludes the look at the Great Boy. Up next is the LiNKFOR Retro Mini Game
 
 ## LiNKFOR Retro Mini Game Player
 
-The next unit out of the box has 10 more games than the Great Boy. The Amazon Prime Day price as $8.79 compared to the normal price of $10.90.
-
-Coming Soon!
+The next unit out of the box is the [LiNKFOR](https://amzn.to/3CajJnS) which advertised ten more games than the Great Boy; however, it came with 500! The Amazon Prime Day price as $8.79 compared to the normal price of $10.90.
 
 ![LiNKFOR Retro Mini Game Player](https://images-na.ssl-images-amazon.com/images/I/81R8G7tGq9L._AC_SL1500_.jpg)
 
 🕹️ [Purchase the LiNKFOR Retro Mini Game Player](https://amzn.to/3ym6Mog)
 
-### Companion Video – Title
+### Companion Video – FASTLOAD: Retro Gaming Handhelds #2 of 4 \| LiNKFOR w/<strike>380</strike> 500 Games
 
-Coming Soon!
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ### Features
 
-This is the first unit to share the original Gameboy's form factor.
+This is the first unit I look at that use the Gameboy's vertical form factor, in other words, the hand cramper form factor! Yuck.
+
+
 
 Coming Soon!
 
