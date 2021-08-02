@@ -175,34 +175,34 @@ As shown in the video, the Great Boy uses a [STMicroelectronics](http://www.st.c
 
 Below is a table of my favorite retro game titles on the Great Boy. This list includes the game number to locate each game since they are not in alphabetical order.
 
-#  | Game title
-:--|:--
-01 | Contra 1 and 2
-07 | Super Mario Brothers
-20 | Arkanoid
-36 | 1942
-55 | F1 Race
-58 | Donkey Kong 1,2,3
-69 | Galaga
-70 | Galaxian
-78 | Burger Time
-81 | Dig Dug
-92 | Lode Runner
-98 | Popeye
-120 | Pac-Man
-123 | Pinball
-136 | Joust
-148 | Millepede
-190 | Star Force
-191 | Star Gate
-195 | Tennis
-219 | Goonies
-228 | Xevious
-229 | Super Xevious
-254 | Pac-Mania
-263 | The Legend of Kage
-322 | Space Invaders
-334 | Defender 2
+| #   | Game title           |
+|:----|:---------------------|
+| 01  | Contra 1 and 2       |
+| 07  | Super Mario Brothers |
+| 20  | Arkanoid             |
+| 36  | 1942                 |
+| 55  | F1 Race              |
+| 58  | Donkey Kong 1,2,3    |
+| 69  | Galaga               |
+| 70  | Galaxian             |
+| 78  | Burger Time          |
+| 81  | Dig Dug              |
+| 92  | Lode Runner          |
+| 98  | Popeye               |
+| 120 | Pac-Man              |
+| 123 | Pinball              |
+| 136 | Joust                |
+| 148 | Millepede            |
+| 190 | Star Force           |
+| 191 | Star Gate            |
+| 195 | Tennis               |
+| 219 | Goonies              |
+| 228 | Xevious              |
+| 229 | Super Xevious        |
+| 254 | Pac-Mania            |
+| 263 | The Legend of Kage   |
+| 322 | Space Invaders       |
+| 334 | Defender 2           |
 
 ### Great Boy Thoughts
 
