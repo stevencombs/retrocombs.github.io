@@ -163,6 +163,8 @@ Time Codes:
 
 ### Features
 
+The first unit's features set the standard for what's to come. Here's a list of the main features that highlight this handheld console.
+
 - Horizontal form factor
 - Directional joystick and controller pad
 - Large 3.5" screen
