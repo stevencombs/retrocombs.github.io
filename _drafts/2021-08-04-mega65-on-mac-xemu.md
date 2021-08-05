@@ -1,21 +1,20 @@
 ---
 layout: post
-title: 'retroCombs:  Starter Guide'
-date: '2020-12-14'
+title: 'Run a MEGA65 on your Mac using Xemu'
+date: '2021-08-04'
 author: 'Steven B. Combs, Ph.D.'
-permalink: mega65-2
+permalink: xemu
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 category: retro
 tags:
   - commodore
   - retro
-  - 
-  - manual
-
+  - mega65
+  - emulator
 ---
 
-As followers of this blog and my YouTube channel know, I love to work my way through user's manuals and and share my discoveries in video. In this post, I continue my [ series](https://www.stevencombs.com/mega65-1) as I work through the  Starter Guide.
+I've written and created many hours of video about the MEGA65. I'm not going to go into depth about what the MEGA65 is or what it will do when released. Read my other posts for that information.
 
 ## Starter Guide
 

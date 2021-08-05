@@ -22,15 +22,13 @@ This page is an ongoing resource for readers and watchers of my Commodore Plus/4
 
 ***
 
-## Page Contents
+**Page Contents**
 <!-- TOC -->
 
-Use the handy table of contents below to jump to a section on this page.
-
-- [User's Manual](#users-manual)
 - [Key to Keys](#key-to-keys)
-- [Links to Episodes](#links-to-episodes)
+- [Links to Content](#links-to-content)
 - [Companion Disk Image](#companion-disk-image)
+- [User's Manual](#users-manual)
 - [Supplemental Posts](#supplemental-posts)
 - [Plus/4 Resources](#plus4-resources)
 
@@ -56,7 +54,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 | `↑`     | Cursor Up     | `↓`  | Cursor Down |
 | `→`     | Cursor Right  | `←`  | Cursor Left |
 
-## Links to Episodes
+## Links to Content
 
 Below is a link to each blog post in the series. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
