@@ -1,15 +1,16 @@
 ---
 layout: pages
-title: MEGA65 Resource Page
-permalink: mega65
+title: 'MEGA65 Resource Page'
+permalink: 'mega65'
 category: retro
 comments: false
 tags:
   - commodore
   - mega65
+
 ---
 
-Followers of my blog and YouTube channel know I own a MEGA65 DevKit and have been closely following the development of the MEGA65 as shown in animation below.
+Followers of my blog and YouTube channel know I own a MEGA65 DevKit and have been closely following the development of the MEGA65.
 
 <div class="video-container">
   <video width=500px id="video-bg" autoplay muted loop>
@@ -20,6 +21,8 @@ Followers of my blog and YouTube channel know I own a MEGA65 DevKit and have bee
 Animation Courtesy [MEGA65](https://mega65.org)
 
 I use my DevKit not in the true developer sense, but rather to help spread the word of why every Commodore retro-computing fan needs to start saving their pennies and of course selfishly, to have a great time learning about this computer that "could have been."
+
+I've created [much content](https://www.stevencombs.com/mega65) about the MEGA65. I'm not going to go into depth about what the MEGA65 is or what it will do when released. Read my posts for that information. This page collects all my MEGA65 content onto a single quick reference page.
 
 ***
 
@@ -54,4 +57,4 @@ Because the MEGA65 keyboard is so different from modern keyboards, I use a modif
 
 Below is a link to each of my MEGA65 related blog posts. Each blog post contains a companion YouTube video and all the links you need.
 
-1. 
+1.
