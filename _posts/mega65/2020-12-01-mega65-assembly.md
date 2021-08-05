@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs:  Open the box, assembly, and first use'
+title: 'MEGA65 DevKit Open the box, assembly, and first use'
 date: '2020-12-01'
 author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-1
