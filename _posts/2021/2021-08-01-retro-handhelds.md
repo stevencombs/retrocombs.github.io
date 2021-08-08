@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Four Retro Gaming Handheld Consoles'
-date: '2021-08-01'
+date: '2021-08-08'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
@@ -34,21 +34,24 @@ In this continually updated blog post, I will share each system and include a [F
   - [Unique Features](#unique-features)
   - [RetroFlag GPi Case Thoughts](#retroflag-gpi-case-thoughts)
 - [Great Boy Portable Handheld](#great-boy-portable-handheld)
-  - [Companion Video – FASTLOAD: Retro Gaming Handhelds #1 of 4 \| Great Boy w/380 Games](#companion-video--fastload-retro-gaming-handhelds-1-of-4-\-great-boy-w380-games)
+  - [Great Boy Companion Video – Retro game console handhelds under $60 \| Great Boy w/380 games \| #1 of 4](#great-boy-companion-video--retro-game-console-handhelds-under-60-\-great-boy-w380-games-\-1-of-4)
   - [Features](#features)
-  - [Retro Games Highlights](#retro-games-highlights)
+  - [Great Boy Retro Games Highlights](#great-boy-retro-games-highlights)
   - [Great Boy Thoughts](#great-boy-thoughts)
 - [LiNKFOR Retro Mini Game Player](#linkfor-retro-mini-game-player)
-  - [Companion Video – Title](#companion-video--title)
+  - [LiNKFOR Companion Video – Retro game console handhelds under $60 \| LiNKFOR w/500 games \| #2 of 4](#linkfor-companion-video--retro-game-console-handhelds-under-60-\-linkfor-w500-games-\-2-of-4)
   - [Features](#features-1)
+  - [LiNKFOR Retro Games Highlights](#linkfor-retro-games-highlights)
   - [LiNKFOR Thoughts](#linkfor-thoughts)
 - [FateFan Retro Game Console](#fatefan-retro-game-console)
-  - [Companion Video – Title](#companion-video--title-1)
+  - [FateFan Companion Video – Title](#fatefan-companion-video--title)
   - [Features](#features-2)
+  - [FateFan Retro Games Highlights](#fatefan-retro-games-highlights)
   - [FateFan Thoughts](#fatefan-thoughts)
 - [TRIMUI/PowKiddy Handheld Game Console](#trimuipowkiddy-handheld-game-console)
-  - [Companion Video – Title](#companion-video--title-2)
+  - [TRIMUI(Powkiddy) Companion Video – Title](#trimuipowkiddy-companion-video--title)
   - [Features](#features-3)
+  - [TRIMUI(PowKiddy) Retro Games Highlights](#trimuipowkiddy-retro-games-highlights)
   - [TRIMUI/PowKiddy Thoughts](#trimuipowkiddy-thoughts)
 - [Conclusion, Comparison, and Recommendation](#conclusion-comparison-and-recommendation)
 
@@ -103,7 +106,7 @@ The GPi Case includes these unique features:
 
 - Gameboy form factor and controls – see my rant below
 - Raspberry Pi Zero powered (PiZero installs in cartridge and plugs into unit) – I'm geeky enough, I had a spare laying around
-- Uses 3 AA batteries – I use recharables
+- Uses 3 AA batteries – I use rechargables
 - Includes shoulder buttons – for this newer retro games
 - Supports the Super RetroBoy distribution, but you can use others – but why would you want to and Seriously, if you know, drop a comment below
 - Emulates any 1980s game system, including 8-bit computers – including Commodore and ZX Spectrum with configuration
@@ -132,36 +135,36 @@ The first unit out of the box is the Great Boy. It was opened on 2021-07-04 as p
 
 🕹️ [Purchase the Great Boy Portable](https://amzn.to/3hh4ZeK)
 
-### Companion Video – FASTLOAD: Retro Gaming Handhelds #1 of 4 \| Great Boy w/380 Games
+### Great Boy Companion Video – Retro game console handhelds under $60 \| Great Boy w/380 games \| #1 of 4
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/1eKzJ7DXjjk" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-Time Codes:
+**Time Codes:**
 
 | Time  | Content                                 |
 |:------|:----------------------------------------|
-| 00:00 | GPi Case Battery Install Introduction   |
-| 00:25 | FAST LOAD Bumper                        |
-| 00:35 | RetroFlag GPi Case Overview             |
-| 02:15 | Amazon Prime Day 2021 Purchase Unboxing |
+| 00:00 | GPi Case battery install introduction   |
+| 00:25 | FAST LOAD bumper                        |
+| 00:35 | RetroFlag GPi case overview             |
+| 02:15 | Amazon Prime Day 2021 purchase unboxing |
 | 05:13 | Unboxing                                |
-| 08:29 | Power On and Demo                       |
-| 11:03 | Tear Down                               |
+| 08:29 | Power on and demo                       |
+| 11:03 | Tear down                               |
 | 14:57 | Conclusion                              |
-| 16:00 | Games Menus                             |
-| 16:33 | Donkey Kong Demo                        |
-| 17:08 | Galaga Demo                             |
-| 17:47 | Contra Demo                             |
-| 18:28 | 1942 Demo                               |
-| 19:06 | Galaxian Demo                           |
-| 19:37 | Dig Dug Demo                            |
-| 20:17 | Joust Demo                              |
-| 21:00 | Goonies Demo                            |
-| 21:36 | Vindicators Demo                        |
-| 22:14 | Defender II Demo                        |
-| 22:45 | End Screen                              |
+| 16:00 | Games menus                             |
+| 16:33 | Donkey Kong demo                        |
+| 17:08 | Galaga demo                             |
+| 17:47 | Contra demo                             |
+| 18:28 | 1942 demo                               |
+| 19:06 | Galaxian demo                           |
+| 19:37 | Dig Dug demo                            |
+| 20:17 | Joust demo                              |
+| 21:00 | Goonies demo                            |
+| 21:36 | Vindicators demo                        |
+| 22:14 | Defender II demo                        |
+| 22:45 | End screen                              |
 
-### Features
+### Great Boy Features
 
 The first unit's features set the standard for what's to come. Here's a list of the main features that highlight this handheld console.
 
@@ -175,38 +178,40 @@ The first unit's features set the standard for what's to come. Here's a list of 
 
 As shown in the video, the Great Boy uses a [STMicroelectronics](http://www.st.com)–[M36L0T7050BZAQ Processor](https://pdf1.alldatasheet.com/datasheet-pdf/view/104551/STMICROELECTRONICS/M36L0T7050B0.html) that includes a: 128Mbit (Multiple Bank, Multi-Level, Burst) Flash Memory 32Mbit (2M x16) PSRAM, Multi-Chip Package. The link above is to the specification sheet. I'd love someone with more processor smarts than me to provide info about this processor. Can we look inside? Can we reprogram? Can we overclock? Leave a comment below and share your knowledge.
 
-### Retro Games Highlights
+### Great Boy Retro Games Highlights
 
-Below is a table of my favorite retro game titles on the Great Boy. This list includes the game number to locate each game since they are not in alphabetical order.
+Below is a table of my favorite retro game titles on the Great Boy. This list includes the game number to locate each game since they are not in alphabetical order. An `*` next to a menu number (#) indicates a game I game I demonstrate in the companion video.
 
-| #   | Game title           |
-|:----|:---------------------|
-| 01  | Contra 1 and 2       |
-| 07  | Super Mario Brothers |
-| 20  | Arkanoid             |
-| 36  | 1942                 |
-| 55  | F1 Race              |
-| 58  | Donkey Kong 1,2,3    |
-| 69  | Galaga               |
-| 70  | Galaxian             |
-| 78  | Burger Time          |
-| 81  | Dig Dug              |
-| 92  | Lode Runner          |
-| 98  | Popeye               |
-| 120 | Pac-Man              |
-| 123 | Pinball              |
-| 136 | Joust                |
-| 148 | Millepede            |
-| 190 | Star Force           |
-| 191 | Star Gate            |
-| 195 | Tennis               |
-| 219 | Goonies              |
-| 228 | Xevious              |
-| 229 | Super Xevious        |
-| 254 | Pac-Mania            |
-| 263 | The Legend of Kage   |
-| 322 | Space Invaders       |
-| 334 | Defender 2           |
+| #    | Game title           |
+|:-----|:---------------------|
+| 01*  | Contra 1 and 2       |
+| 07   | Super Mario Brothers |
+| 20   | Arkanoid             |
+| 36*  | 1942                 |
+| 55   | F1 Race              |
+| 58*  | Donkey Kong 1,2,3    |
+| 69*  | Galaga               |
+| 70*  | Galaxian             |
+| 78   | Burger Time          |
+| 81*  | Dig Dug              |
+| 92   | Lode Runner          |
+| 98   | Popeye               |
+| 120  | Pac-Man              |
+| 123  | Pinball              |
+| 136* | Joust                |
+| 148  | Millepede            |
+| 190  | Star Force           |
+| 191  | Star Gate            |
+| 195  | Tennis               |
+| 219* | Goonies              |
+| 228  | Xevious              |
+| 229  | Super Xevious        |
+| 254  | Pac-Mania            |
+| 263  | The Legend of Kage   |
+| 322  | Space Invaders       |
+| 334* | Defender II          |
+
+* Demo included in companion video.
 
 ### Great Boy Thoughts
 
@@ -250,33 +255,130 @@ That concludes the look at the Great Boy. Up next is the LiNKFOR Retro Mini Game
 
 The next unit out of the box is the [LiNKFOR](https://amzn.to/3CajJnS) which advertised ten more games than the Great Boy; however, it came with 500! The Amazon Prime Day price as $8.79 compared to the normal price of $10.90.
 
+A search for LiNKFOR on Amazon reveals the brand is used for audio/video products such as …
+
 ![LiNKFOR Retro Mini Game Player](https://images-na.ssl-images-amazon.com/images/I/81R8G7tGq9L._AC_SL1500_.jpg)
 
 🕹️ [Purchase the LiNKFOR Retro Mini Game Player](https://amzn.to/3ym6Mog)
 
-### Companion Video – FASTLOAD: Retro Gaming Handhelds #2 of 4 \| LiNKFOR w/<strike>380</strike> 500 Games
+### LiNKFOR Companion Video – Retro game console handhelds under $60 \| LiNKFOR w/500 games \| #2 of 4
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/AyZdOD__qBU" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-### Features
+**Time Codes:**
 
-This is the first unit I look at that use the Gameboy's vertical form factor, in other words, the hand cramper form factor! Yuck.
+| Time  | Content                                 |
+|:------|:----------------------------------------|
+| 00:00 | Video introduction                      |
+| 00:32 | FAST LOAD bumper                        |
+| 00:41 | Unboxing                                |
+| 01:29 | The battery                             |
+| 01:46 | Second controller                       |
+| 02:05 | Manual                                  |
+| 02:18 | LiNKFOR compared to Fate Fan (Part 3)   |
+| 02:45 | Power on and first use                  |
+| 03:11 | Star Force demo                         |
+| 03:37 | Tear down                               |
+| 04:14 | Circuit board                           |
+| 04:34 | Processor                               |
+| 04:59 | Reassemble                              |
+| 05:43 | Star Gate demo                          |
+| 06:00 | Second controller demo                  |
+| 06:57 | Conclusion and companion blog post      |
+| 08:14 | Contra Force demo                       |
+| 08:41 | Batman demo                             |
+| 09:08 | Burger Time demo                        |
+| 09:33 | Seawolf demo                            |
+| 10:02 | Spy vs Spy demo                         |
+| 11:16 | Xevious                                 |
+| 11:48 | Galaga Plus demo                        |
+| 12:38 | Tetris                                  |
+| 13:08 | End screen                              |
 
+### LiNKFOR Features
 
+This is the first unit I look at that has the Gameboy's vertical form factor, in other words, the hand cramper! Yuck.
 
-Coming Soon!
+- Vertical form factor
+- Directional joystick and controller pad
+- 3" screen
+- Internal rechargeable battery
+- Two player mode with additional game pad
+- Headphone jack
+- Connect to TV with AV cable
 
-### Retro Games Highlights
+Those features are similar to the first unit, save for the vertical form factor and smaller screen. As shown in the video, the LiNKFOR uses a [Spansion](https://www.cypress.com)–[71PL256NCOHFW5U Processor](https://pdf1.alldatasheet.com/datasheet-pdf/view/164744/SPANSION/S71PL256NC0.html). I anticipated this processor would be the same as the Great Boy. Surprisingly, it was different. The link above is to the specification sheet if you want to read more.
 
-Below is a table of my favorite retro game titles on the Great Boy. This list includes the game number to locate each game since they are not in alphabetical order.
+### LiNKFOR Retro Games Highlights
 
-Coming Soon!
+Below is a table of my favorite retro game titles on the LiNKFOR. This list includes the game number to locate each game since they are not in alphabetical order. Many of these titles are found on the Great Boy. An `*` next to a menu number (#) indicates a game I game I demonstrate in the companion video.
+
+| #       | Game title      |
+|:--------|:----------------|
+| 01      | Contra          |
+| 02      | Contra 2        |
+| 03*     | Contra Force    |
+| 04      | Super Contra 7  |
+| 54*     | Batman          |
+| 83      | Gradius         |
+| 85      | Pac Man III     |
+| 89*     | Tetris          |
+| 96      | Bomber Man      |
+| 98      | Galaga          |
+| 99      | Galaxian        |
+| 103     | Lode Runner     |
+| 105     | Pacmania        |
+| 107     | Vindicators     |
+| 108     | RBI Baseball    |
+| 109     | 1942            |
+| 182     | Donkey Kong     |
+| 209     | Galg            |
+| 237     | Joust           |
+| 274     | Pac Man         |
+| 312     | Pacmania        |
+| 313     | Donkey Kong 3   |
+| 314     | Donkey Kong Jr. |
+| 318 *   | Sea Wolf        |
+| 332*    | Space Invaders  |
+| 339*    | Spy vs. Spy     |
+| 376*    | Xevious         |
+| 392     | Burger Time     |
+| 405     | F1 Race         |
+| 410*    | Galaga Plus     |
+| 416     | Defender (II)   |
+
+* Demo included in companion video.
+
+**Game Notes:** What's with Galaga Plus? Small ship and large blasts? Item 285 is not Paperboy, so don't purchase if you consider this game a must. There are several
 
 ### LiNKFOR Thoughts
 
-Coming Soon!
+Things to like about the LiNKFOR include:
 
-That concludes the look at the LiNKFOR. Up next is the FateFan Retro Game Console.
+1. Low cost! This things is only $10.
+2. Pocket size and light (almost too light).
+3. Includes extra controller for two-player action.
+4. Good battery life.
+5. A/V out cable to play on larger screens.
+
+If there are a few games you like of the 500, you are sure to get value. This would make a great stocking stuffer or holiday party gift exchange item; especially if you knew there was a retro game fan in the mix.
+
+Things to improve the LiNKFOR include:
+
+> **NOTE:** I understand this is a $10 device and improvements may not be possible at that price point.
+
+1. Change the annoying menu music or eliminate.
+2. Omit requirement to select language on each reset or power–on.
+3. Fix control action – especially on maze games such as Pac Man III.
+4. Allow option to hold buttons to move quickly through menus.
+4. Include a better system to locate games.
+5. Scroll 20 character menu title names.
+6. Correct title names. 238→240, are not as listed – in this case Mario Bothers is listed as Kamikaze!
+7. Place titles in alphabetical order and groupings.
+8. Remove duplicate games reduce total number from 500 to ??? – and I'm not going to figure it out!
+9. Design better "non-mushy" controls that don't caused as many "game over" moments.
+
+That concludes the look at the LiNKFOR. Up next is the FateFan Retro Game Console; also with 500 games. Let's see if the same 500 games included with the LiNKFOR are the same in the similar form factor FateFan handheld.
 
 ## FateFan Retro Game Console
 
@@ -288,17 +390,17 @@ Coming Soon!
 
 🕹️ [Purchase the FateFan Retro Game Console](https://amzn.to/2UjRzp5)
 
-### Companion Video – Title
+### FateFan Companion Video – Title
 
 Coming Soon!
 
-### Features
+### FateFan Features
 
 Coming soon!
 
-### Retro Games Highlights
+### FateFan Retro Games Highlights
 
-Below is a table of my favorite retro game titles on the Great Boy. This list includes the game number to locate each game since they are not in alphabetical order.
+Below is a table of my favorite retro game titles on the Fate Fan. This list includes the game number to locate each game since they are not in alphabetical order. An `*` next to a menu number (#) indicates a game I game I demonstrate in the companion video.
 
 Coming Soon!
 
@@ -316,17 +418,17 @@ Coming Soon!
 
 🕹️ [Purchase the TRIMUI/PowKiddy Handheld Game Console](https://amzn.to/2ToVAsp)
 
-### Companion Video – Title
+### TRIMUI(Powkiddy) Companion Video – Title
 
 Coming Soon!
 
-### Features
+### TRIMUI(Powkiddy) Features
 
 Coming soon!
 
-### Retro Games Highlights
+### TRIMUI(PowKiddy) Retro Games Highlights
 
-Highlights are not necessary for this device. You can load as many game ROM files as you like; as long as the emulator supports them.
+Below is a table of my favorite retro game titles on the TRIMUI. This list includes the game number to locate each game since they are not in alphabetical order. An `*` next to a menu number (#) indicates a game I game I demonstrate in the companion video.
 
 ### TRIMUI/PowKiddy Thoughts
 
