@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-8
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: retro
+category: plus4
 tags:
   - commodore
   - retro

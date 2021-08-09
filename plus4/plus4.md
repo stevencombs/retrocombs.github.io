@@ -26,10 +26,9 @@ This page is an ongoing resource for readers and watchers of my Commodore Plus/4
 <!-- TOC -->
 
 - [Key to Keys](#key-to-keys)
-- [Links to Content](#links-to-content)
+- [Links to Posts](#links-to-posts)
 - [Companion Disk Image](#companion-disk-image)
 - [User's Manual](#users-manual)
-- [Supplemental Posts](#supplemental-posts)
 - [Plus/4 Resources](#plus4-resources)
 
 <!-- /TOC -->
@@ -54,12 +53,56 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 | `↑`     | Cursor Up     | `↓`  | Cursor Down |
 | `→`     | Cursor Right  | `←`  | Cursor Left |
 
-## Links to Content
+## Links to Posts
 
 Below is a link to each blog post in the series. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
 
+<ul id="blog-posts" class="posts">
+{% for post in site.categories.plus4 %}
+    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }} {{post.synopsis}}</a></li>
+{% endfor %}
+</ul>
+
+## Companion Disk Image
+
+As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image that below contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
+
+[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-02-13
+
+I use the following file name convention to make it easy to locate specific programs:
+
+<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLLC1P2-5RETROCOMBS.PRG`
+
+* `02C#` - where # is the chapter number
+* `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.P#` - where # is the page number where the program is first referenced in the user's manual
+* `NAME` - my self assigned name for the program
+
+## User's Manual
+
+In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 user's manual. I've scanned each chapter and provide those below. I will post new chapters with each new video.
+
+1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
+2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
+3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
+4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
+5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
+6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
+7. [Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
+8. [Chapter 7 - Using Graphics and Color](/plus4/users-manual/p4um-chapter-7.pdf)
+9. [Chapter 8 - Making Sound and Music on the Plus/4](/plus4/users-manual/p4um-chapter-8.pdf)
+
+## Plus/4 Resources
+
+Below are links I've found to be most beneficial as I work through this series:
+
+1. [Commodore4Ever](https://commodore4ever.net/) - Source for Pi1451. Great customer service and feedback.
+2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
+3. [RETRO Innovation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
+3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.
+
+<!--
 1. [Commodore Plus/4 User's Manual, Chapter 0 - Open the Box](/plus4-1)
 
     I share my first experience with a Commodore computer (it is not the Plus/4) and then open the box on my Commodore Plus/4 eBay purchase.
@@ -138,60 +181,4 @@ Each blog post contains the companion YouTube video and most include links to it
     * [Pi1541 Setup](/pi1541-1)
     * [Create a Blank .d64 Disk Image](/pi1541-2)
 
-## Companion Disk Image
-
-As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image that below contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
-
-[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-02-13
-
-I use the following file name convention to make it easy to locate specific programs:
-
-<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLLC1P2-5RETROCOMBS.PRG`
-
-* `02C#` - where # is the chapter number
-* `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.P#` - where # is the page number where the program is first referenced in the user's manual
-* `NAME` - my self assigned name for the program
-
-## User's Manual
-
-In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 user's manual. I've scanned each chapter and provide those below. I will post new chapters with each new video.
-
-1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
-2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
-3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
-4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
-5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
-6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
-7. [Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
-8. [Chapter 7 - Using Graphics and Color](/plus4/users-manual/p4um-chapter-7.pdf)
-9. [Chapter 8 - Making Sound and Music on the Plus/4](/plus4/users-manual/p4um-chapter-8.pdf)
-
-## Supplemental Posts
-
-The posts below are helpful for any Commodore 8-bit computer enthusiasts but are also closely associated to this series and supplement the posts found above:
-
-1. [retroCombs: Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
-
-    In this supplemental episode to my Commodore Plus/4 series, I share my experiences assembling the Pi1541 Hat for a Raspberry Pi Zero. In the episode, I solder a pin connector onto the Raspberry Pi Zero, solder and assemble a serial cable with two 6 pin DIN connectors, assemble the whole package, and start up the Pi1541 for a first use.
-
-2. [retroCombs: The Tapuino Project - Build an Arduino powered Commodore Datasette clone](https://www.stevencombs.com/tapuino-1)
-
-    As part of my Commodore Plus/4 series, chapter three, of the user’s manual, includes a sections on using a Datasette and a disk drive. In a previous post, I built the modern replacement for the disk drive (a Pi1541), now it’s time to create a Datasette replacement called, the Tapuino.
-
-3. [retroCombs: TEDuino: A Modern TED (264) Series Commodore Datasette](/_posts/2020/2020-10-06-teduino-1.md)
-
-    In a previous post, I assembled the [modern replacement for the Datasette](https://www.stevencombs.com/tapuino-1), the Tapuino. For this project I use another Arduino, in this case the inexpensive Arduino Nano, some easy to source electronic components, and a 3D printer to create a Commodore 264 series inspired Datasette replacement I call, the TEDuino.
-
-    ![The TEDuino](/teduino/images/teduino-rendering.jpg)
-
-## Plus/4 Resources
-
-Below are links I've found to be most beneficial as I work through this series:
-
-1. [Commodore4Ever](https://commodore4ever.net/) - Source for Pi1451. Great customer service and feedback.
-2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
-3. [RETRO Innovation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
-3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0OTc0OTIzXX0=
 -->
