@@ -61,7 +61,7 @@ Each blog post contains the companion YouTube video and most include links to it
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.plus4 %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }} {{post.synopsis}}</a></li>
+    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }} {{ post.excerpt }}</a></li>
 {% endfor %}
 </ul>
 
