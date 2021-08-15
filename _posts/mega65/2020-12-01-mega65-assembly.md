@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-1
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: retro
+category: mega65
 tags:
   - commodore
   - retro

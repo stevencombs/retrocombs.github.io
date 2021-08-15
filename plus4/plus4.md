@@ -55,9 +55,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 ## Links to Posts
 
-Below is a link to each blog post in the series. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
-
-Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
+Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites.
 
 <ul id="blog-posts" class="posts">
 {% for post in site.categories.plus4 %}

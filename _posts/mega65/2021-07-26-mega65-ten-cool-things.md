@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 permalink: 'mega65-3'
-category: 'retro'
+category: 'mega65'
 tags:
   - commodore
   - retrocomputing
