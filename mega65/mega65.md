@@ -22,7 +22,7 @@ Followers know I own one of 100 MEGA65 DevKits (#261) to closely follow and enjo
 
 I use my DevKit not in the true developer sense, but rather to help spread the word of why every Commodore retro-computing fan needs to start saving their pennies and of course selfishly, to have a great time learning about this computer that "could have been." Want information on the MEGA65? Check out [the official page](https://www.mega65.org).
 
-I've created [much content](https://www.stevencombs.com/mega65) about the MEGA65. This page collects all my MEGA65 content onto a single quick reference page and will become the starting point for "all my things MEGA65." Book mark the page now. Go ahead. I'll wait. Done? Great, let's continue on to the content.
+I've created [much content](https://www.stevencombs.com/mega65) about the MEGA65. This page collects all my MEGA65 content onto a single quick reference page and will become the starting point for "all my things MEGA65." Bookmark/Favorite the page now. Go ahead. I'll wait. Done? Great, let's continue on to the content.
 
 ## Links to Posts
 
