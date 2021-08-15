@@ -18,7 +18,7 @@ Followers know I own one of 100 MEGA65 DevKits (#261) to closely follow and enjo
   </video>
 </div>
 
-Animation Courtesy [MEGA65](https://mega65.org)
+<sup>Animation Courtesy [MEGA65](https://mega65.org)</sup>
 
 I use my DevKit not in the true developer sense, but rather to help spread the word of why every Commodore retro-computing fan needs to start saving their pennies and of course selfishly, to have a great time learning about this computer that "could have been." Want information on the MEGA65? Check out [the official page](https://www.mega65.org).
 
