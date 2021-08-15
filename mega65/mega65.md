@@ -29,7 +29,7 @@ I've created [much content](https://www.stevencombs.com/mega65) about the MEGA65
 Below is a link to each blog post in the series. Most blog posts contain a companion YouTube video and links that support the post content.
 
 <ul id="blog-posts" class="posts">
-{% for post in site.categories.plus4 %}
+{% for post in site.categories.mega65 %}
     <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li><div> {{ post.excerpt }} </div>
 {% endfor %}
 </ul>
