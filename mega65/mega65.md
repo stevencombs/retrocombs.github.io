@@ -44,7 +44,7 @@ Below is a link to each blog post in the series. Most blog posts contain a compa
 * [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to quite possibly the friendliest community of developers. Think 8-bit BBS level support without the communication lag.
 * More to come...
 
-Recommend a link. Send your link via email to [retrocombs@icloud.com](mailto:retrocombs@icloud.com).
+Recommend a link. Send your link via email to [retrocombs@icloud.com](mailto:retrocombs@icloud.com?subject=Recommend%20Link).
 
 ## Key to Keys
 
