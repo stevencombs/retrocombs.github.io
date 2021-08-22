@@ -56,7 +56,7 @@ Missing on both watches but available on the TicWatch are:
 * Application support 
 * Large database of custom watch faces
 
-However, it is all in the execution. Time to take the watch out of the box.
+However, it's all in the execution. Time to take the watch out of the box.
 
 ## Open the box (unboxing)
 
@@ -66,13 +66,31 @@ As mentioned above, the exterior of the box highlights the watch's features. I m
 
 ## Watch design and hardware
 
+The watch design is similar to the Apple and Wyze Watch rectangle design. I prefer a circle design like my TicWatch and am biased; but I am not a fan of this form factor. Add to this design that there is no button or crown, and the iTouch is confusing out of the box and in normal use as I describe below.
 
+Another oddity is that the screen is much smaller than the face of the watch and in regular lighting, you can see where this screen starts and ends. This is not the case with an Apple or Wyze Watch. With those models, you cannot see the edges of the screen until it lights up.
+
+I did like the default band on the iTouch. Made of silicon, it is comfortable and features an opening that allows the excess material to slip under the band creating a smooth appearance on the wrist and one that reduces the possibility of catching the band on something.
+
+## Power up
+
+Getting this watch to turn on was a frustration. Out of the box, it would not turn on. To ensure a good user experience, many electronic devices have enough charge to turn on with a recommendation to place the device on a charger. The iTouch was dead on arrival.
+
+I saw another watch on the checkout counter during a subsequent visit. I suspect it was a return because the purchaser couldn't get to turn on immediately, or who went through this same experience…
+
+As someone who values a good battery, I placed the watch on the charger before I tried to turn it on. I shook the watch and look for any way to activate before reading the instructions. After my feeble attempts, I read the instructions; "tap and hold the screen for 3 seconds." Nothing. I tried this at least five more times with the same result, black screen. A Google search told me that I should hold it three to five-seconds. Two more seconds would prove to not be the solution. Another suggestion was to charge the watch for five minutes. I left the watch for fifteen minutes, returned, tapped the watch for five second and low and behold––crickets (chirp, chirp).
+
+I theorized that fifteen minutes might not be enough time. I waited an hour; no prize in my cracker jacks. Out of nowhere, I decide to unplug the device from the charger. The screen changed from the battery indicator to the main watch screen. Success! I am not confident that the iTouch I saw on the ALDI counter was a return. How many consumers would put up with this experience?
+
+Despite this laborious process to turn on the device, it was time to see if it was worth the wait. **Spoiler Alert:** Maybe???
+
+## Watch operation
+
+This is a $50 watch. I did not expect a premium Apple Watch or Wear OS experience. My expectation was in line with the Wyze Watch, Wyze Band, or a low-end FitBit. Without getting ahead of myself, the experience is similar to the Wyze Watch.
+
+The low-resolution screen is bright. Movement between screens is a simple swipe in a specific direction, again, much like the Wyze Watch. Screen changes reveal, they don't slide, except for a swipe from the top which reveals a features shade. A swipe in other directions reveals more menus with 1990s'esque icons. On this pages, there is more menu swiping. It is not intuitive until you spend an hour or two with it and even then, not so much.
 
 ## Watch application
-
-
-
-## Watch first use
 
 
 
@@ -82,7 +100,10 @@ As mentioned above, the exterior of the box highlights the watch's features. I m
 
 ## Final thoughts and recommendation
 
-
+* User experience is not institutive or pleasurable
+* No firmware update out of the box - this worries me about future updates
+* UI is dated
+* Notifications ("Other" can't be modified and constantly shows notifications when using Google Maps; draining the battery)
 
 ## Join the Fun
 Make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and subscribe to the [RSS](https://www.stevencombs.com/rss) feed.
