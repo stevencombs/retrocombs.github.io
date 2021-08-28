@@ -27,7 +27,7 @@ While there may be slaps on the forehead when they read my questions, their resp
 
 Now, on to the `mega65-tools` build instructions…
 
-** Table of Contents **
+**Table of Contents**
 
 <!-- TOC -->
 
