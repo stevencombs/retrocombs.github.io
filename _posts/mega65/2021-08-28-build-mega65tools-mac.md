@@ -15,7 +15,7 @@ tags:
   - terminal
 ---
 
-Before I begin, I want to send out a huge thank you to [Gurce Isikyildiz](https://github.com/gurcei) for his assistance with these instructions. My first attempts to build these tools were unsuccessful. [I posted a comment](https://discord.com/channels/719326990221574164/805492126128930846/879839127154085959) on the MEGA65 Discord channel about my struggles. [Gurce responded];(https://discord.com/channels/719326990221574164/805492126128930846/879853630746935327); however, after several Discord interactions, it became apparent, I needed help (on many levels but in this case; help with *Terminal* commands). The `mega65-tools` are meant to build on an Intel Mac, but not on a newer M1 Mac.
+Before I begin, I want to send out a huge thank you to [Gurce Isikyildiz](https://github.com/gurcei) for his assistance with these instructions. My first attempts to build these tools were unsuccessful. [I posted a comment](https://discord.com/channels/719326990221574164/805492126128930846/879839127154085959) on the MEGA65 Discord channel about my struggles. [Gurce responded](https://discord.com/channels/719326990221574164/805492126128930846/879853630746935327); however, after several Discord interactions, it became apparent, I needed help (on many levels but in this case; help with *Terminal* commands). The `mega65-tools` are meant to build on an Intel Mac, but not on a newer M1 Mac.
 
 Gurce sent me a Discord direct message with a Zoom link. I joined the Zoom meeting and was met by Gurce and his young daughter who was enjoying a tasty chocolate morsel! After a quick introduction, we began to troubleshoot. 10 minutes later, Gurce determined the `Makefile` changes necessary to build on the M1 Mac. I was off to the races. I'll share those M1 modifications in this post.
 
@@ -169,7 +169,7 @@ Your GitHub account is now associated with your local Mac and the `gh` command. 
 
 5. Install the libusb library using the `brew install libusb-compat` command. This library provides the Mac command line with the libraries necessary to connect to the MEGA65 via a USB connection. More on this later. DO NOT SKIP THIS STEP or the tools will not build.
 
-> **NOTE:** If you have a Mac with a M1 Processor, stop here, drop down to the Mac M1 Instructions Modification section, complete the steps, and then return here.
+    > **NOTE:** If you have a Mac with a M1 Processor, stop here, drop down to the [Mac M1 Instructions Modification section](https://www.stevencombs.com/mega65-tools#mac-m1-instructions-modification-skip-is-you-have-an-intel-mac), complete the steps, and then return here.
 
 6. To build `m65.osx`, type `make bin/m65.osx`. You may receive warnings; however, ignore them.
 7. To build `mega65_ftp.osx`, type `make bin/mega65_ftp.osx`. This build will take more time than `m65.osx` and will generate warnings. Ignore them.
@@ -222,11 +222,11 @@ There are two ways to determine the USB serial port that connects the MEGA65 to 
 5. Turn on the MEGA65 and wait for a complete boot.
 5. In the *Terminal* app, type `ls -l *usb*` and compare the new listing to the listing from step #2. Capture the name of the new device in this list that was not found in the previous list. In my use case, the device was listed as `/dev/cu.usbserial-251633005A3B1`.
 
-> **TIP:** The `/dev` folder, know as the device folder, provides \*nix OSs, and users, a list of connected devices identified by devices files. This is a unique and valuable feature of \*nix OSs. Without a wildcard, `*usb*`, this list is long. [Read more](http://www.linux-databook.info/?page_id=5108).
+    > **TIP:** The `/dev` folder, know as the device folder, provides \*nix OSs, and users, a list of connected devices identified by devices files. This is a unique and valuable feature of \*nix OSs. Without a wildcard, `*usb*`, this list is long. [Read more](http://www.linux-databook.info/?page_id=5108).
 
 6. Copy this device name and store it somewhere for later use. We will use it later to connect the Mac to the MEGA65 via the command line.
 
-> **TIP:** Mac users will want to use [TextExpander](https://shareasale.com/r.cfm?b=1244105&u=1058092&m=81274&urllink=&afftrack=) to create a snippet for this long USB device file. Use this link for 20% off your first year!
+    > **TIP:** Mac users will want to use [TextExpander](https://shareasale.com/r.cfm?b=1244105&u=1058092&m=81274&urllink=&afftrack=) to create a snippet for this long USB device file. Use this link for 20% off your first year!
 
 ### M65 Connect
 
@@ -291,7 +291,7 @@ With a connection from the Mac to the MEGA65, explore the commands in the next s
 
 ### MEGA65 File Transfer Program Command Reference:
 
-1. `dir` [directory|wildcardpattern] - show contents of current or specified sdcard directory. Can use a wildcard pattern on current directory.
+1. `dir` [directory\wildcardpattern] - show contents of current or specified sdcard directory. Can use a wildcard pattern on current directory.
 2. `ldir` [wildcardpattern] - shows the contents of current local directory.
 3. `cd` [directory] - change current sdcard working directory.
 4. `lcd` [directory] - change current local working directory.
@@ -304,9 +304,9 @@ With a connection from the Mac to the MEGA65, explore the commands in the next s
 11. `rename` <oldname> <newname> - rename a file on the SD card.
 12. `clusters` <file> - show cluster chain of specified file.
 13. `mount` <d81file> - Mount the specified .d81 file (which resides on the SD card).
-14. `sector` <number|$hex number> - display the contents of the specified sector.
+14. `sector` <number\$hex number> - display the contents of the specified sector.
 15. `getslot` <slot> <destination name> - download a freeze slot.
-16. dirent_raw 0|1 - flag to hide/show 32-byte dump of directory entries.
+16. dirent_raw 0/1 - flag to hide/show 32-byte dump of directory entries.
 17. `clustermap` <startidx> [<count>] - show cluster-map entries for specified range.
 18. `cluster` <num> - dump the entire contents of this cluster.
 19. `secdump` <filename> <startsec> <count> - dump the specified sector range to a file.
@@ -326,7 +326,7 @@ I put a call out the Discord Channel for some cool things you can do with these 
 
 ### For `mega65_ftp.osx`:
 
-1. `fh` - retrieve a list of files from https://files.mega65.org/.
+1. `fh` - retrieve a list of files from <https://files.mega65.org/>.
 
 2. `fhget <num>` - Download the file and place on SD card.
 
