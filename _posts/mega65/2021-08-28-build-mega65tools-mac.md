@@ -29,6 +29,8 @@ Now, on to the `mega65-tools` build instructions…
 
 **Table of Contents**
 
+> {**UPDATES 2021-08-29**}: How to update the build files when changes are made and the addition of a `m65.osx` use example. Search for the date to quickly find the changes.
+
 <!-- TOC -->
 
 - [Build Instructions](#build-instructions)
@@ -37,10 +39,13 @@ Now, on to the `mega65-tools` build instructions…
   - [Install `git` and `gh` on the Mac](#install-git-and-gh-on-the-mac)
   - [Clone the mega65-tools repository](#clone-the-mega65-tools-repository)
   - [Mac M1 Instructions Modification (Skip is you have an Intel Mac)](#mac-m1-instructions-modification-skip-is-you-have-an-intel-mac)
+- [Update and build repository](#update-and-build-repository)
 - [Determine which USB serial device connection](#determine-which-usb-serial-device-connection)
   - [Command line](#command-line)
   - [M65 Connect](#m65-connect)
-- [Use `m65.osx` and `mega65_ftp.osx`](#use-m65osx-and-mega65_ftposx)
+- [Use `mega65_ftp.osx` and `m65.osx`](#use-mega65_ftposx-and-m65osx)
+  - [`mega65_ftp.osx` example](#mega65_ftposx-example)
+  - [`m65.osx` example](#m65osx-example)
   - [MEGA65 File Transfer Program Command Reference:](#mega65-file-transfer-program-command-reference)
 - [Gurce recommends…](#gurce-recommends)
   - [For `mega65_ftp.osx`:](#for-mega65_ftposx)
@@ -201,6 +206,19 @@ The GitHub repository includes a `Makefile` designed for Intel Macs. To build on
 4. Save the file.
 5. Return to step #19 in the previous section.
 
+## Update and build repository
+
+{**UPDATE: 2021-08-29**} It is not necessary delete the entire folder and execute these steps when an update is available. Thanks again to Gurce, below are the instructions for both an Intel and M1 Mac.
+
+1) Return to the `mega65-tools` directory using the command: `cd ~/mega65-tools`.
+2) For M1 Macs, use the command, `git stash`. Git will preserve (stash) the M1 `Makefile` tweaks and revert to original `Makefile`.
+3) Use the command, `git pull` to pull the latest source files.
+4) Use the command `git checkout fixes` to switch to the 'fixes' branch.
+5) For M1 Macs, use the command `git stash pop` to re-apply the  `Makefile` modifications.
+6) Build the commands using: `make bin/mega65_ftp.osx` and `make bin/m65.osx`.
+
+Once complete, the most recent versions of the mega65-tools are ready to use.
+
 ## Determine which USB serial device connection
 
 There are two ways to determine the USB serial port that connects the MEGA65 to the Mac. The first way is to use the command line and the second way is to open the user friendly *M65 Connect* application.
@@ -240,15 +258,17 @@ If the command line version looks daunting, you can use *M65 Connect* (available
 6. Follow the prompts closely as the wizard guides you through the steps necessary for *M65 Connect* to identify a new serial device, not dissimilar from the command line process in the previous section.
 7. Once *M65 Connect* identifies the new device, copy the address.
 
-## Use `m65.osx` and `mega65_ftp.osx`
+## Use `mega65_ftp.osx` and `m65.osx`
 
 With the serial device file identified, you are ready to use the new command line tools. In this post, I don't go into details beyond a quick connection and view of the SD card contents. At the end is a list command recommendations by developer Gurce.
+
+### `mega65_ftp.osx` example
 
 In the example below, you will use `mega65_ftp.osx` to view the contents of the MEGA65 SD card:
 
 1. Ensure the MEGA65 USB cable is connected to the Mac.
 2. Turn on the MEGA65.
-3. In the Mac *Terminal* app, type the following to connect the Mac to the MEGA65:
+3. Use the the terminal command below to connect the Mac to the MEGA65:
 
     `./mega65_ftp.osx -l /dev/cu.usbserial-251633005A3B1`
 
@@ -286,6 +306,18 @@ In the example below, you will use `mega65_ftp.osx` to view the contents of the 
     ```
 
 5. Use the `dir` command to list the contents of the SD Card.
+
+### `m65.osx` example
+
+{**UPDATE: 2021-08-29**} Use the steps below for an example of the use of `m65.osx` that's pretty cool:
+
+1. Ensure the MEGA65 USB cable is connected to the Mac.
+2. Turn on the MEGA65.
+3. Use the terminal command below:
+
+    `./m65.osx -l /dev/cu.usbserial-251633005A3B1 -T "10 print"`
+
+4. Press `⏎`. The text `10 PRINT` will transfer from the Mac to the MEGA65 on character at a time as if a ghost was using the MEGA65 keyboard.
 
 With a connection from the Mac to the MEGA65, explore the commands in the next section to find out what is possible with the `mega65_ftp.osx` command.
 
