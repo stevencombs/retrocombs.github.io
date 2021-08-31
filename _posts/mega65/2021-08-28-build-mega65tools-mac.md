@@ -154,8 +154,8 @@ With a GitHub account and access to brew packages, prepare the Mac to clone the 
 
 Your GitHub account is now associated with your local Mac and the `gh` command. You will use this new setup to clone the mega65-tools repository.
 
-1. In the *Terminal* app, navigate to a directory to contain the clone of the repository. I recommend your home folder. You can quickly navigate to this location using the command: `cd ~`
-2. Type `gh repo clone MEGA65/mega65-tools`. The prompts below appear and a clone of the repository is copied to the Mac.
+1.  In the *Terminal* app, navigate to a directory to contain the clone of the repository. I recommend your home folder. You can quickly navigate to this location using the command: `cd ~`
+2.  Type `gh repo clone MEGA65/mega65-tools`. The prompts below appear and a clone of the repository is copied to the Mac.
 
     ```
     Cloning into 'mega65-tools'...
@@ -167,12 +167,14 @@ Your GitHub account is now associated with your local Mac and the `gh` command. 
     Resolving deltas: 100% (2797/2797), done.
     ```
 
-3. Type `ls`. You will find a new directory name `mega65-tools`.
-4. Type `cd mega65-tools` to enter the directory. You can explore the contents with the `ls` command; however, you must always return to the root of the mega65-tools directory afterward.
+3.  Type `ls`. You will find a new directory name `mega65-tools`.
+4.  Type `cd mega65-tools` to enter the directory. You can explore the contents with the `ls` command; however, you must always return to the root of the mega65-tools directory afterward.
 
 > **TIP:** If you want to explore the files in the repository, I recommend you use the *Finder*. Be careful not to move, delete, or copy files. Keep the repository intact.
 
-5. Install the libusb library using the `brew install libusb-compat` command. This library provides the Mac command line with the libraries necessary to connect to the MEGA65 via a USB connection. More on this later. DO NOT SKIP THIS STEP or the tools will not build.
+5.  To use the tools, the `libusb` library is necessary. This library provides the Mac command line with the libraries necessary to connect to the MEGA65 via a USB connection. More on this later. DO NOT SKIP THIS STEP or the tools will not build. Install the `libusb` library with command below:
+
+    `brew install libusb-compat` command.
 
     > **NOTE:** If you have a Mac with a M1 Processor, stop here, drop down to the [Mac M1 Instructions Modification section](https://www.stevencombs.com/mega65-tools#mac-m1-instructions-modification-skip-is-you-have-an-intel-mac), complete the steps, and then return here.
 
@@ -197,10 +199,10 @@ The GitHub repository includes a `Makefile` designed for Intel Macs. To build on
 
 1. Verify the Terminal is in the `mega65-tools` directory.
 2. In the directory, use your favorite command line editor (`vi`, `vim`, `nano`, etc.) to edit the file named, `Makefile`.
-3. Replace line #5 that begins with `COPT=`, not line #3 that begins with remark statement `#COPT=`, with the line below:
+3. {**UPDATE 2021-08-31**} Replace line #5 that begins with `COPT=`, not line #3 that begins with remark statement `#COPT=`, with the line below:
 
     ```
-    COPT=	-Wall -g -std=gnu99 -I/opt/local/include -L/opt/homebrew/Cellar/libusb/1.0.24/lib -L/opt/local/lib -I/usr/local/include/libusb-1.0 -L/usr/local/lib -mno-sse3 -mcpu=native
+    `COPT= -Wall -g -std=gnu99 -I/opt/local/include -I/opt/homebrew/Cellar/libpng/1.6.37/include/libpng16 -L/opt/homebrew/Cellar/libpng/1.6.37/lib -lpng16 -lz -I/opt/homebrew/Cellar/libusb/1.0.24/include/libusb-1.0 -L/opt/homebrew/Cellar/libusb/1.0.24/lib -I/usr/local/include/libusb-1.0 -L/usr/local/lib -mno-sse3 -mcpu=native`
     ```
 
 4. Save the file.
