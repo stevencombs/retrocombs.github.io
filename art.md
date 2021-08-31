@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Art and Supplies
-permalink: /art
+permalink: 'art'
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/art.svg" width="20%" />
