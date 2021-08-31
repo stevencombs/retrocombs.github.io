@@ -10,6 +10,8 @@ tags:
 
 ---
 
+<img class="category" src="http://www.stevencombs.com/images/design/mega65.svg" width="20%" />
+
 Followers know I own one of 100 MEGA65 DevKits (#261) to closely follow and enjoy the development of the MEGA65. That ownership allows me to experience, once again, my love of Commodore computers and the joy of BASIC and 8-bit computers. Was it a pricey purchase? For Sure. Was it worth it? Every penny and then some!
 
 <div class="video-container">
