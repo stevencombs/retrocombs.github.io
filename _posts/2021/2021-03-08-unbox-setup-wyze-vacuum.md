@@ -5,7 +5,7 @@ date: '2021-03-08'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: gadgets
+category: wyze
 permalink: wyze-vacuum-1
 tags:
   - wyze

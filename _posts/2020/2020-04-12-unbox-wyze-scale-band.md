@@ -5,7 +5,8 @@ date: 2020-04-13
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: gadgets
+category: wyze
+permalink: wyze-scale
 tags:
   - openthebox
   - firstuse

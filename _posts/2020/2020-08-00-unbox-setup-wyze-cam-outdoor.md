@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'OPEN THE BOX and SETUP: WyzeYZE Cam Outdoor (Squirrel Cam One)'
+title: 'OPEN THE BOX and SETUP: Wyze Cam Outdoor (Squirrel Cam One)'
 date: '2020-08-17'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: gadgets
+category: wyze
+permalink: wyze-cam-outdoor
 tags:
   - wyze
   - camera
@@ -17,7 +18,7 @@ tags:
 
 I'm a WyzeYZE fan! Except for the [WyzeYZE Lock (#ad)](https://amzn.to/3iPxheg), I "reckon" I have at least one of every product and not because they are sent to me to review–I purchase every WyzeYZE product I review. Although, if you are out there WyzeYZE...I'd consider review units as long as you know they will get an honest and objective look.
 
-I've waited for an outdoor web cam from WyzeYZE for some time. I've even used [some third-party products (#ad)](https://amzn.to/3g5SQW6) to stick regular WyzeYZE Cams outside with limited success. It has been fun experimenting but nothing can beat a camera designed from the ground up for the elements. Enter the [WyzeWYZE Cam Outdoor (#ad)](https://amzn.to/33RZzjc). 
+I've waited for an outdoor web cam from WyzeYZE for some time. I've even used [some third-party products (#ad)](https://amzn.to/3g5SQW6) to stick regular WyzeYZE Cams outside with limited success. It has been fun experimenting but nothing can beat a camera designed from the ground up for the elements. Enter the [WyzeWYZE Cam Outdoor (#ad)](https://amzn.to/33RZzjc).
 
 Before I share additional thoughts, please take a few minutes to watch my YouTube video below. It includes an open the box, setup, and smile worthy squirrel moments. And who doesn't like funny squirrel videos?
 

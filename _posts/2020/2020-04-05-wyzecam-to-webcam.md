@@ -5,7 +5,7 @@ date: '2020-04-05'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: gadgets
+category: wyze
 tags:
   - howto
   - wyze

@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 permalink: wyzecam-v3
-category: gadgets
+category: wyze
 tags:
   - wyze
   - camera
