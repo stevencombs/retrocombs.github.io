@@ -86,13 +86,13 @@ In the video below, I show how to install and use Xemu/xmega65 to emulate a MEGA
 
 ## Video Errata
 
-{**UPDATE: 2021-09-01**}Maurice, the Xemu developer, watched the video and provided feedback and corrections to my content:
+{**UPDATE: 2021-09-01**} LGB, the Xemu developer, watched the video and provided feedback and corrections to my content:
 
 1. The .ROM file does not need to be renamed. This is corrected in the instructions below.
 2. **Caution:** Using the "Update files on SD-cards" updates not only the ROM but all system files, including the default `.D81` file!
 3. The first lines of the `.cfg` files provide instructions on how to properly create a user copy of the files to use, not the original as I demonstrate in the video.
 
-Huge thanks, Maurice and keep the comments coming.
+Huge thanks, LGB and keep the comments coming.
 
 ## Links Mentioned in this Episode:
 
