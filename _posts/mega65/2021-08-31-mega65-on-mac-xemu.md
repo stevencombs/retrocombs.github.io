@@ -86,7 +86,13 @@ In the video below, I show how to install and use Xemu/xmega65 to emulate a MEGA
 
 ## Video Errata
 
-None, as of 2021-08-31. But I'm sure there will be for this video.
+{**UPDATE: 2021-09-01**}Maurice, the Xemu developer, watched the video and provided feedback and corrections to my content:
+
+1. The .ROM file does not need to be renamed. This is corrected in the instructions below.
+2. **Caution:** Using the "Update files on SD-cards" updates not only the ROM but all system files, including the default `.D81` file!
+3. The first lines of the `.cfg` files provide instructions on how to properly create a user copy of the files to use, not the original as I demonstrate in the video.
+
+Huge thanks, Maurice and keep the comments coming.
 
 ## Links Mentioned in this Episode:
 
@@ -162,7 +168,7 @@ With *xmega65* running, configure the emulator with all the items we need to hav
 1. Right-click in the *xmega65* window and a menu will appear.
 2. From the menu, use the mouse/trackpad to select *SD-card* \| *Update files on SD image*. The *select your ROM image file* window will appear; however, we've not downloaded a `.ROM` file yet. Let's do this next.
 
-    > **NOTE:** There are two `.ROM` versions available for the MEGA65. The first is an official `.ROM` that is available with a MEGA65 Dev Kit, or later a MEGA65, purchase. The second is an in development community open `.ROM`. I will demonstrate how to install the Dev Kit ROM; however, the process for the open ROM is the same. Visit [Open ROMs for MEGA65](https://files.mega65.org?id=8aec2fba-3b0a-4677-80ae-7a7f5f4f0cb8) page on the [MEGA65 Files Host](https://files.mega65.org/html/main.php) to download the open ROM if you don't have access to an official ROM.
+    > **NOTE:** There are two `.ROM` versions available for the MEGA65. The first is an official `.ROM` that is available with a MEGA65 Dev Kit, or later a MEGA65, purchase. The second is an in development community open `.ROM`. I will demonstrate how to install the Dev Kit `.ROM`; however, the process for the open ROM is the same. Visit [Open ROMs for MEGA65](https://files.mega65.org?id=8aec2fba-3b0a-4677-80ae-7a7f5f4f0cb8) page on the [MEGA65 Files Host](https://files.mega65.org/html/main.php) to download the open ROM if you don't have access to an official ROM. {**UPDATE: 2021-09-01**} There is no need to change the name of the .ROM file as I state in the video. `xmega65` can detect the contents of the file.
 
 3. Close the *xmega65* app.
 8. Start the *xmega65* application.
