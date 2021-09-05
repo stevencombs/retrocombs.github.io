@@ -64,8 +64,8 @@ In the video below, I show how to install and use Xemu/xmega65 to emulate a MEGA
 01:30 Links
 01:57 Xemu project page
 03:20 Download and install
-07:25 Download official .ROM
-11:25 Official .ROM boot
+07:25 Download closed .ROM
+11:25 Closed .ROM boot
 12:24 Download open .ROM
 13:35 Open .ROM boot
 15:11 Menu options
@@ -168,7 +168,7 @@ With *xmega65* running, configure the emulator with all the items we need to hav
 1. Right-click in the *xmega65* window and a menu will appear.
 2. From the menu, use the mouse/trackpad to select *SD-card* \| *Update files on SD image*. The *select your ROM image file* window will appear; however, we've not downloaded a `.ROM` file yet. Let's do this next.
 
-    > **NOTE:** There are two `.ROM` versions available for the MEGA65. The first is an official `.ROM` that is available with a MEGA65 Dev Kit, or later a MEGA65, purchase. The second is an in development community open `.ROM`. I will demonstrate how to install the Dev Kit `.ROM`; however, the process for the open ROM is the same. Visit [Open ROMs for MEGA65](https://files.mega65.org?id=8aec2fba-3b0a-4677-80ae-7a7f5f4f0cb8) page on the [MEGA65 Files Host](https://files.mega65.org/html/main.php) to download the open ROM if you don't have access to an official ROM. {**UPDATE: 2021-09-01**} There is no need to change the name of the .ROM file as I state in the video. `xmega65` can detect the contents of the file.
+    > **NOTE:** There are two `.ROM` versions available for the MEGA65. The first is an closed `.ROM` that is available with a MEGA65 Dev Kit, or later a MEGA65, purchase. The second is an in development community open `.ROM`. I will demonstrate how to install the Dev Kit `.ROM`; however, the process for the open ROM is the same. Visit [Open ROMs for MEGA65](https://files.mega65.org?id=8aec2fba-3b0a-4677-80ae-7a7f5f4f0cb8) page on the [MEGA65 Files Host](https://files.mega65.org/html/main.php) to download the open ROM if you don't have access to the closed ROM. {**UPDATE: 2021-09-01**} There is no need to change the name of the .ROM file as I state in the video. `xmega65` can detect the contents of the file.
 
 3. Close the *xmega65* app.
 8. Start the *xmega65* application.
@@ -434,7 +434,7 @@ This is a great way to take the MEGA65 environment with you on the road. The key
 
 Now that I know how to use **xmega65**, I have this nagging feeling that I should try to install this on a Linux device or Raspberry Pi. Something similar to [my Combian pi/400](https://www.stevencombs.com/combianpi400-1) would be of interest as a portable device. My ultimate dream would be a bare-metal version for the Raspberry Pi 400!
 
-The emulator is a work in progress and while you can use either an official ROM or an Open ROM, the Open ROM needs much more work and the official ROM is not yet available unless you own a DevKit. Please don't ask me to share it. I enjoy being a part of the [MEGA65 development community](https://discord.com/channels/719326990221574164/) and would hate to be thrown out!
+The emulator is a work in progress and while you can use either an closed ROM or an open ROM, the open ROM needs much more work and the closed ROM is not yet available unless you own a Dev Kit. Please don't ask me to share it. I enjoy being a part of the [MEGA65 development community](https://discord.com/channels/719326990221574164/) and would hate to be thrown out!
 
 ## Join the Fun
 You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
