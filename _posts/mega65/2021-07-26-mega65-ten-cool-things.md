@@ -77,7 +77,7 @@ In the videos below, I share the ten cool things that will excite Commodore retr
 >	- SIM card reader (The MEGAphone is using those i.e.)
 >	- USB port
 
->	... whatever the community is fancy developing on it. The final MEGA65 case will have breakout ports in the unused space of the case, to make it easier to attach those hardware expansions. Here is a link, what you can use PMODs for: <https://shop.trenz-electronic.de/en/Products/Digilent/Peripheral-Modules/>
+> … whatever the community is fancy developing on it. The final MEGA65 case will have breakout ports in the unused space of the case, to make it easier to attach those hardware expansions. Here is a link, what you can use PMODs for: <https://shop.trenz-electronic.de/en/Products/Digilent/Peripheral-Modules/>
 
 ## Links Mentioned in this Episode:
 
