@@ -16,6 +16,10 @@ tags:
 
 Commodore computing fans will soon have a new device to add to their collection of retro-computers, the MEGA65. In this blog post and companion video, I look at what makes the MEGA65 special and then share items one through five of the ten cool things you will do with the MEGA65 that you can't do with any other Commodore-inspired recreations such as The C64. **Spoiler alert:** I include a bonus item to tide you over until number 6 through 10 drop!
 
+----
+
+**Table of Contents**
+
 <!-- TOC -->
 
 - [YouTube Videos Part 1 and 2: _‌Ten cool things you will do with a MEGA65_](#youtube-videos-part-1-and-2-_‌ten-cool-things-you-will-do-with-a-mega65_)
@@ -43,6 +47,8 @@ Commodore computing fans will soon have a new device to add to their collection 
 
 <!-- /TOC -->
 
+----
+
 ## YouTube Videos Part 1 and 2: _‌Ten cool things you will do with a MEGA65_
 
 In the videos below, I share the ten cool things that will excite Commodore retro-computing fans about the release of the MEGA65.
@@ -57,7 +63,22 @@ In the videos below, I share the ten cool things that will excite Commodore retr
 
 ## Video Errata
 
-**\[2021-06-24 Update\]** Well, that didn't take long. I've had several comments that my game captures are the wrong video format. I recorded in NTSC and all games should have been set for PAL. The developers let me know that all games are designed for PAL mode. If you plan to use the MEGA65 for gaming, make PAL the default setting in the configuration utility.
+{**2021-06-24 Update**} That didn't take long. I've had several comments that my game captures are the wrong video format. I recorded in NTSC and all games should have been set for PAL. The developers let me know that all games are designed for PAL mode. If you plan to use the MEGA65 for gaming, make PAL the default setting in the configuration utility.
+
+{**UPDATE: 2021-09-08**} After the second video dropped, I received the wonderful and informational YouTube comment below from [Anton Schneider-Michallek](https://www.youtube.com/channel/UCjwMsWPxMeDDvy7-GjwghJQ):
+
+	Great video! I've been looking forward to it. Thanks a lot!
+	One thing to mention, the currently available cores are MiSTer ports. We work together with MiSTer team members and they are developing a conversion tool, that should make it easier in the future to port MiSTer cores over to the MEGA65. Also they are working on porting the C64 MiSTer core to the MEGA65, which will turn the MEGA65 into an almost 100% compatible C64.
+
+	And here is one extra cool thing you can do with the MEGA65: during the design of the MEGA65 PCB we decided, that we put some unused FPGA lines and 2 so called "PMOD"-connectors on the PCB, which will allow the MEGA65 to receive hardware expansions in the future like:
+
+	- Userport
+	- Tapeport
+	- CRT video connector
+	- SIM card reader (The MEGAphone is using those i.e.)
+	- USB port
+
+	... whatever the community is fancy developing on it. The final MEGA65 case will have breakout ports in the unused space of the case, to make it easier to attach those hardware expansions. Here is a link, what you can use PMODs for: <https://shop.trenz-electronic.de/en/Products/Digilent/Peripheral-Modules/>
 
 ## Links Mentioned in this Episode:
 
