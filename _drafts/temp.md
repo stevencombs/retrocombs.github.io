@@ -37,10 +37,8 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 ## Join the Fun
 
-Don't miss the fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
+Don't miss the MEGA fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other MEGA65 related posts](https://www.stevencombs.com/mega65).
 
-Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](link).
-
-Thanks for reading and watching and if you are inclined, please let others know about the blog using the hashtag #retroCombs on your favorite social media platform.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can also email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!

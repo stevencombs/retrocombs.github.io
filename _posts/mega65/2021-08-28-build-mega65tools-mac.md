@@ -212,12 +212,12 @@ The GitHub repository includes a `Makefile` designed for Intel Macs. To build on
 
 {**UPDATE: 2021-08-29**} It is not necessary delete the entire folder and execute these steps when an update is available. Thanks again to Gurce, below are the instructions for both an Intel and M1 Mac.
 
-1) Return to the `mega65-tools` directory using the command: `cd ~/mega65-tools`.
-2) For M1 Macs, use the command, `git stash`. Git will preserve (stash) the M1 `Makefile` tweaks and revert to original `Makefile`.
-3) Use the command, `git pull` to pull the latest source files.
-4) Use the command `git checkout fixes` to switch to the 'fixes' branch.
-5) For M1 Macs, use the command `git stash pop` to re-apply the  `Makefile` modifications.
-6) Build the commands using: `make bin/mega65_ftp.osx` and `make bin/m65.osx`.
+1. Return to the `mega65-tools` directory using the command: `cd ~/mega65-tools`.
+2. For M1 Macs, use the command, `git stash`. Git will preserve (stash) the M1 `Makefile` tweaks and revert to original `Makefile`.
+3. Use the command, `git pull` to pull the latest source files.
+4. Use the command `git checkout fixes` to switch to the 'fixes' branch.
+5. For M1 Macs, use the command `git stash pop` to re-apply the  `Makefile` modifications.
+6. Build the commands using: `make bin/mega65_ftp.osx` and `make bin/m65.osx`.
 
 Once complete, the most recent versions of the mega65-tools are ready to use.
 
