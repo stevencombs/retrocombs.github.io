@@ -174,7 +174,7 @@ Your GitHub account is now associated with your local Mac and the `gh` command. 
 
 5.  To use the tools, the `libusb` library is necessary. This library provides the Mac command line with the libraries necessary to connect to the MEGA65 via a USB connection. More on this later. DO NOT SKIP THIS STEP or the tools will not build. Install the `libusb` library with command below:
 
-    `brew install libusb-compat` command.
+    `brew install libusb-compat`
 
     > **NOTE:** If you have a Mac with a M1 Processor, stop here, drop down to the [Mac M1 Instructions Modification section](https://www.stevencombs.com/mega65-tools#mac-m1-instructions-modification-skip-is-you-have-an-intel-mac), complete the steps, and then return here.
 

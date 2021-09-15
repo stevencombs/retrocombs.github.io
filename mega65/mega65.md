@@ -65,3 +65,9 @@ Because the MEGA65 keyboard is so different from modern keyboards, I use the mod
 | `⇧`     | Shift         | `␣`  | Space       |
 | `↑`     | Cursor Up     | `↓`  | Cursor Down |
 | `→`     | Cursor Right  | `←`  | Cursor Left |
+
+## MEGA65 Style Guide
+
+Wondering how to style blog content to meet MEGA65 standards? Check out the GIST below by [Impakt](https://gist.github.com/Impakt):
+
+<script src="https://gist.github.com/Impakt/41b7f2144104dfcd252b051236a3ef4e.js"></script>
