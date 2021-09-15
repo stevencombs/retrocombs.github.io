@@ -202,7 +202,7 @@ The GitHub repository includes a `Makefile` designed for Intel Macs. To build on
 3. {**UPDATE 2021-08-31**} Replace line #5 that begins with `COPT=`, not line #3 that begins with remark statement `#COPT=`, with the line below:
 
     ```
-    `COPT= -Wall -g -std=gnu99 -I/opt/local/include -I/opt/homebrew/Cellar/libpng/1.6.37/include/libpng16 -L/opt/homebrew/Cellar/libpng/1.6.37/lib -lpng16 -lz -I/opt/homebrew/Cellar/libusb/1.0.24/include/libusb-1.0 -L/opt/homebrew/Cellar/libusb/1.0.24/lib -I/usr/local/include/libusb-1.0 -L/usr/local/lib -mno-sse3 -mcpu=native`
+    COPT= -Wall -g -std=gnu99 -I/opt/local/include -I/opt/homebrew/Cellar/libpng/1.6.37/include/libpng16 -L/opt/homebrew/Cellar/libpng/1.6.37/lib -lpng16 -lz -I/opt/homebrew/Cellar/libusb/1.0.24/include/libusb-1.0 -L/opt/homebrew/Cellar/libusb/1.0.24/lib -I/usr/local/include/libusb-1.0 -L/usr/local/lib -mno-sse3 -mcpu=native
     ```
 
 4. Save the file.
