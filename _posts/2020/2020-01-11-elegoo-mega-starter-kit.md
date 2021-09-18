@@ -6,6 +6,7 @@ email: 'steven.combs@gmail.com'
 date: '2020-01-11'
 comments: 'yes'
 category: arduino
+permalink: elegoo-mega-starter
 tags:
   - openthebox
   - arduino

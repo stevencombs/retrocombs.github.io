@@ -5,8 +5,8 @@ date: 2020-01-20
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-categories:
-  - arduino
+category: arduino
+permalink: arduino-on-chromeos
 tags:
   - howto
   - arduino

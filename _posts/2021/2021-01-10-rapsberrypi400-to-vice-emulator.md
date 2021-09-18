@@ -6,11 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 permalink: combianpi400-1
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: retro
+category: commodore
 tags:
   - commodore
   - retro
-  - 
+  -
   - manual
   - raspberry pi
   - vice

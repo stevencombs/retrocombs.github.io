@@ -2,7 +2,7 @@
 layout: pages
 title: 'TEDuino: The TED (264) Series Commodore Datasette Reimagined'
 permalink: teduino
-category: retro
+category: commodore
 comments: false
 tags:
   - commodore

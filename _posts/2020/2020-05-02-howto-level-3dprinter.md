@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 category: 3dprinting
+permalink: level-creality-ender-3
 tags:
   - 3dprinting
   - creality

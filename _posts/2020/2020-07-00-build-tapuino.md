@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 permalink: tapuino-1
 comments: 'yes'
-category: retro
+category: commodore
 tags:
   - commodore
   - datasette
@@ -83,7 +83,7 @@ Afterward, I played around with the layout to streamline, and or, update part lo
 
     > is an [electronic component](https://en.wikipedia.org) that transfers electrical [signals](https://en.wikipedia.org) between two isolated circuits by using light. Opto-isolators prevent [high voltages](https://en.wikipedia.org) from affecting the system receiving the signal. Heres [the data sheet](http://www.farnell.com/datasheets/1930778.pdf) if youd like to learn more.
 
-3.  
+3.
 *   [Build your own 1530 to C16,C116,Plus/4 adapter and make an C64 SD2IEC work on your 264 computer – awsm](http://blog.awsm.de/build-your-own-1530-to-c16c116plus-4-adapter-and-make-an-c64-sd2iec-work-on-your-264-computer/)
 
 ## Next Up

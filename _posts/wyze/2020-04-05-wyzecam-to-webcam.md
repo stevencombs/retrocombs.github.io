@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 category: wyze
+permalink: wyzecam-to-webcam
 tags:
   - howto
   - wyze

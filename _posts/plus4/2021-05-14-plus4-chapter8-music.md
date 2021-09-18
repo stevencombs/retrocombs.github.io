@@ -4,8 +4,8 @@ title: 'Commodore Plus/4 User’s Manual Chapter 8 - Making Sound and Music on t
 date: '2021-05-14'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
-comments: 'yes'
-permalink: 'plus4-9'
+comments: yes
+permalink: plus4-9
 category: plus4
 tags:
   - commodore

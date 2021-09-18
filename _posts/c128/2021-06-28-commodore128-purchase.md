@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 permalink: 'c128-1'
-category: retro
+category: c128
 tags:
   - power supply
   - commodore 128

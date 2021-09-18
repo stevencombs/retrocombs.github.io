@@ -5,8 +5,8 @@ date: 2020-02-29
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-categories:
-  - apple
+category: apple
+permalink: keychron-k2-unboxing
 tags:
   - openthebox
   - keychron

@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 permalink: 'thevic20-3'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: retro
+category: vic20
 tags:
   - commodore
   - thevic20

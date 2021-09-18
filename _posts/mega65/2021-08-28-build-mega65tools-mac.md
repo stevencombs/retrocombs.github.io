@@ -5,7 +5,7 @@ date: '2021-08-28'
 author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-tools
 email: 'steven.combs@gmail.com'
-comments: 'yes'
+comments: yes
 category: mega65
 tags:
   - commodore

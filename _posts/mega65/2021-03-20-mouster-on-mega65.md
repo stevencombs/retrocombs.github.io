@@ -3,7 +3,7 @@ layout: post
 title: 'Use the Retrohax.net mouSTer on the MEGA65'
 date: '2021-03-20'
 author: 'Steven B. Combs, Ph.D.'
-permalink: 'mouster-1'
+permalink: 'mouster'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 category: mega65

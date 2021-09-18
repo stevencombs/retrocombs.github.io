@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 permalink: 'print-to-commodore'
-category: retro
+category: commodore
 tags:
   - basic
   - commodore

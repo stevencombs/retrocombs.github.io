@@ -5,7 +5,7 @@ date: '2020-10-18'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-6
 email: 'steven.combs@gmail.com'
-comments: 'yes'
+comments: yes
 category: plus4
 tags:
   - commodore

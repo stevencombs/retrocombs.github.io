@@ -5,8 +5,8 @@ date: 'July 26, 2017'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-categories:
-  - retro
+category: vic20
+permalink: vic20-ebay-purchase
 tags:
   - commodore
   - 8bit

@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 permalink: 'dirmaster-1'
 comments: 'yes'
-category: retro
+category: commodore
 tags:
   - commodore
   - floppy disk

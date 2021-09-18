@@ -6,6 +6,7 @@ email: 'steven.combs@gmail.com'
 date: 2019-12-31
 category: arduino
 comments: 'yes'
+permalink: arduino-ide-ubuntu
 tags:
   - howto
   - arduino

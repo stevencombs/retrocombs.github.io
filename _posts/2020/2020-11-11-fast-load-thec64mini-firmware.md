@@ -5,7 +5,7 @@ date: '2020-11-11'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: retro
+category: commodore
 tags:
   - commodore
   - thec64

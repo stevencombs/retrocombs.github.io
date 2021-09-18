@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 permalink: thevic20-1
-category: retro
+category: commodore
 tags:
   - commodore
   - thec64

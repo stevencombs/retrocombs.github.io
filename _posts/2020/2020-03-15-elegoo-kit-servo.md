@@ -6,6 +6,7 @@ email: 'steven.combs@gmail.com'
 date: '2020-03-15'
 comments: 'yes'
 category: arduino
+permalink: arduino-servo-encoder
 tags:
   - buildandcode
   - arduino

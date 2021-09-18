@@ -5,6 +5,7 @@ date: '2019-10-19'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
+permalink: auking-projector
 categories:
   - gadgets
 tags:

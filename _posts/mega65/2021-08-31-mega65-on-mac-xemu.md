@@ -3,7 +3,7 @@ layout: post
 title: 'Run a MEGA65 on your Mac using Xemu'
 date: '2021-08-31'
 author: 'Steven B. Combs, Ph.D.'
-permalink: 'xemu-on-mac'
+permalink: xemu-on-mac
 email: 'steven.combs@gmail.com'
 comments: 'yes'
 category: mega65
