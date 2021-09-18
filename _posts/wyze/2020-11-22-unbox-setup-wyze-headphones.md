@@ -5,7 +5,7 @@ date: '2020-11-22'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven.combs@gmail.com'
 comments: 'yes'
-category: gadgets
+category: wyze
 permalink: wyze-headphones
 tags:
   - wyze
