@@ -1,13 +1,7 @@
 ---
 layout: pages
-title: 'MEGA65 Resource Page (v.5)'
-permalink: 'mega65'
-category: retro
-comments: false
-tags:
-  - commodore
-  - mega65
-
+title: 'MEGA65 Resource Page (v.6)'
+permalink: /mega65
 ---
 
 <img class="category" src="http://www.stevencombs.com/images/design/mega65.svg" width="20%" />

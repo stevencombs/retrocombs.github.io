@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Retro Computing and Gaming
+title: Commodore Business Machines (CBM)
 permalink: /commodore
 ---
 
