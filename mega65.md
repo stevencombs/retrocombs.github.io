@@ -50,7 +50,7 @@ Because the MEGA65 keyboard is so different from modern keyboards, I use the mod
 | Key     | Description   | Key  | Description |
 |:--------|:--------------|:-----|:------------|
 | `⇪`     | Caps Lock     | `F1` | Function 1  |
-| `[C=]`  | Commodore     | `F2` | Function 2  |
+| `[M]`  | Mega     | `F2` | Function 2  |
 | `⌃`     | Control       | `F3` | Function 3  |
 | `⎋`     | Escape        | `F4` | Function 4  |
 | `⌂`     | Clear/Home    | `F5` | Function 5  |
