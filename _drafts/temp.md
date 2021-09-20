@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'title'
-date: '2021-XX-XX'
+date: 2021-XX-XX
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
-comments: 'yes'
-permalink: 'link'
+email: 'retrocombs@icloud.com'
+comments: yes
+permalink: link
 category: retro
 tags:
   - 
