@@ -29,7 +29,7 @@ Now, on to the `mega65-tools` build instructions…
 
 **Table of Contents**
 
-> {**UPDATES 2021-08-29**}: How to update the build files when changes are made and the addition of a `m65.osx` use example. Search for the date to quickly find the changes.
+> {**UPDATES 2021-08-29**}: How to update the build files when changes are made and the addition of a `m65.osx` use example. Search for a date to find the changes.
 
 <!-- TOC -->
 
@@ -193,7 +193,7 @@ Your GitHub account is now associated with your local Mac and the `gh` command. 
 
 Two new commands, `m65.osx` and `mega65_ftp.osx` are now ready to use. We will use them from this directory for this tutorial; however, you can move and execute them from any folder. Seasoned *\*nix* and [Mac users will have a preference](https://apple.stackexchange.com/questions/98619/where-should-i-store-command-line-applications/98626). If you'd like to share your preference, place it in the comments below. Let's give one of these new commands a try but before we do, we need to determine which USB device the Mac uses to connect to the MEGA65.
 
-### Mac M1 Instructions Modification (Skip is you have an Intel Mac)
+### Mac M1 Instructions Modification (Skip if you have an Intel Mac)
 
 The GitHub repository includes a `Makefile` designed for Intel Macs. To build on an M1 Mac, perform these steps and then return to step 19 above.
 
