@@ -369,16 +369,13 @@ What? You can make a phone call on the MEGA65. Well, no (at least not now, but c
 
 What's a MEGAphone? First, it's a handheld MEGA65. That's right, all the processing power and retro-computing goodness of the MEGA65 in the palm of your hand. The MEGAphone includes a touch screen, on-screen keyboard, and game controls for on-the-go gaming. I do like a handheld device (and I'll prove it in an upcoming blog post and companion videos).
 
-![MEGAphone1](https://mega65.org/assets/images/portfolio/grid-portfolio8.jpg)
+![MEGAphone1](/mega65/images/megaphone.jpg)
 Source: [MEGA65](https://mega65.org)
 
 Second, it's a phone with a "careful security design of the hardware, that isolates all the 'untrustable' parts, like the cellular modem." The design will provide a secure phone, with exceptional longevity, that you can trust due to the open nature of the hardware/software solution that is no longer serviceable by the service provider, but by the consumer. Watch Paul Gardner-Stephen's [FPGA based mobile phone: *Creating a truly open and trustable mobile communications device*
 ](https://youtu.be/KuNB4ocZDXA) presentation on YouTube to learn more (and be entertained at the same time).
 
 Third, it's a mesh networking device that uses UHF packet radio. In the event of an emergency or pandemic, the mesh networking can spring into action to allow communication and data transfer to essential workers or public service officials. Adding a solar powered rechargeable battery will ensure the device has unlimited power for these emergencies. Oh, and you can use that same network to play games over UHF!
-
-![MEGAphone2](https://mega65.org/assets/images/portfolio/grid-portfolio9.jpg)
-Source: [MEGA65](https://mega65.org)
 
 Fourth, it will use a Raspberry Pi compute module to allow the installation of Android with a focus on accessibility features. As the father of a special needs child, I appreciate this added focus on making the MEGAphone not only a fun device, but one that can help provide access for those with disabilities. Utilizing a compute module will allow the MEGAphone to continue to receive hardware and Android updates for many years to come; unlike current phone designs.
 
