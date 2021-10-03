@@ -12,12 +12,14 @@ I have wonderful supporters for this blog and the companion [YouTube channel](ht
 
 ## Supporters (chronological order)
 
-**Name**           | **One-Time** |  **Multiple**  | **Member**
+**Name**           | **One-Time** |  **Multiple**  | *Member*<sup>*</sup>
 ---------------|:--------:|:----------:|:-----:
 **Rapoza Glen**    |    🕹️    |          |
 **Jamie Copeland** |    🕹️    |    🕹️   |
 **Anonymous** | 🕹️    |    🕹️   |
 **Mislav Krleža**  |    🕹️    | 🕹️ |
+
+<sup>*</sup>Option not yet available.
 
 ## Become a Supporter
 
