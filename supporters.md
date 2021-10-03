@@ -14,8 +14,8 @@ I have wonderful supporters for this blog and the companion [YouTube channel](ht
 
 **Name**           | **One-Time** |  **Multiple**  | *Member*<sup>*</sup>
 ---------------|:--------:|:----------:|:-----:
-**Rapoza Glen**    |    🕹️    |          |
 **Jamie Copeland** |    🕹️    |    🕹️   |
+**Rapoza Glen**    |    🕹️    |          |
 **Anonymous** | 🕹️    |    🕹️   |
 **Mislav Krleža**  |    🕹️    | 🕹️ |
 
