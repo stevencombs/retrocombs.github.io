@@ -14,10 +14,10 @@ I have wonderful supporters for this blog and the companion [YouTube channel](ht
 
 **Name**           | **One-Time** |  **Multiple**  | *Member*<sup>*</sup>
 ---------------|:--------:|:----------:|:-----:
-**Jamie Copeland** |    🕹️    |    🕹️   |
+**Jamie Copeland** |    🕹️    |    🕹️🕹️🕹️   |
 **Rapoza Glen**    |    🕹️    |          |
 **Anonymous** | 🕹️    |    🕹️   |
-**Mislav Krleža**  |    🕹️    | 🕹️ |
+**Mislav Krleža**  |    🕹️    | 🕹️🕹️🕹️ |
 
 <sup>*</sup>Option not yet available.
 
@@ -37,7 +37,7 @@ Your support, along with my use of Google Adsense and Amazon Affiliate links, al
 ## Current Benefits
 
 - **One-time:** My sincere gratitude and thank you via email; buy me a coffee, or tweet.
-- **Multiple:** $15 or more and you get a free retroCombs magnet shipped to you anywhere in the world!
+- **Multiple:** $20 or more and you get a free retroCombs magnet shipped to you anywhere in the world! Each 🕹️ in table represents ≈ $20.
 
     ![retroCombs Magnet](https://www.stevencombs.com/images/design/magnet.png)
 
