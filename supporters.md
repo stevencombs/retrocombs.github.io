@@ -43,4 +43,4 @@ Your support, along with my use of Google Adsense and Amazon Affiliate links, al
 
 - **Member:** Not available yet but membership may include first access to videos, member messages, invite to members Discord, name as executive producer on videos, and/or link to channel or social media presence on this page.
 
-Have an idea? Send me a recommendation via email to <retrocombs@iclould.com> as I continue to plan on the roll-out for this feature.
+Have an idea? Send me a recommendation via email to <retrocombs@icloud.com> as I continue to plan on the roll-out for this feature.
