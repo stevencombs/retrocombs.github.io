@@ -31,7 +31,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 1. [Item](link)
 
-## Final Thoughts
+## Additional Thoughts
 
 1. 
 
