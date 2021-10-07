@@ -21,6 +21,8 @@ I have wonderful supporters for this blog and the companion [YouTube channel](ht
 
 <sup>*</sup>Option not yet available. Each 🕹️ in multiple column = $50 increments. Updated 2021-10-06.
 
+If you would like your name to be linked to your site, business, or social media presence, let me know!
+
 ## Become a Supporter
 
 If you'd like to become a supporter and have your name (or anonymous) on this page (or in future videos), read below to learn how and what current and future benefits are on the way.
