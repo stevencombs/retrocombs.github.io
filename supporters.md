@@ -29,6 +29,7 @@ If you'd like to become a supporter and have your name (or anonymous) on this pa
 2. Click the **♡ THANKS** button underneath one of my videos.
 3. Click the **SUPER CHAT** option during a livestream.
 4. Become a **MEMBER** option *coming soon!*.
+5. Send me a piece of retro or retro-related tech. Send me an email to discuss where to send.
 
 No matter which option you choose, your name will appear on this page in one or multiple categories; one-time, multiple, and/or member (coming soon).
 
@@ -36,7 +37,7 @@ Your support, along with my use of Google Adsense and Amazon Affiliate links, al
 
 ## Current Benefits
 
-- **One-time:** My sincere gratitude for any amount with a thank you via email; buy me a coffee, or tweet.
+- **One-time:** My sincere gratitude for any amount with a thank you via email; buy me a coffee reply, tweet, or combination.
 - **Multiple:** $50 or more cumulative or one-time and you get a free retroCombs magnet shipped to you anywhere in the world! **Each 🕹️ in table = $50**.
 
     ![retroCombs Magnet](https://www.stevencombs.com/images/design/magnet.png)
