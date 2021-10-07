@@ -39,9 +39,6 @@ Your support, along with my use of Google Adsense and Amazon Affiliate links, al
 
 - **One-time:** My sincere gratitude for any amount with a thank you via email; buy me a coffee reply, tweet, or combination.
 - **Multiple:** $50 or more cumulative or one-time and you get a free retroCombs magnet shipped to you anywhere in the world! **Each 🕹️ in table = $50**.
-
-    ![retroCombs Magnet](https://www.stevencombs.com/images/design/magnet.png)
-
 - **Member:** *Coming Soon!*. Membership may include first access to videos, member messages, invite to members Discord, name as executive producer on videos, and/or link to channel or social media presence on this page.
 
 Have an idea? Send me a recommendation via email to <retrocombs@icloud.com> as I continue to plan on the roll-out for this feature.
