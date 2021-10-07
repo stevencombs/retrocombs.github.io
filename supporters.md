@@ -14,12 +14,12 @@ I have wonderful supporters for this blog and the companion [YouTube channel](ht
 
 **Name**           | **One-Time** |  **Multiple**  | *Member*<sup>*</sup>
 ---------------|:--------:|:----------:|:-----:
-**Jamie Copeland** |  🕹️    | 🕹️🕹️ |
+**Jamie Copeland** |  🕹️    | 🕹️ |
 **Rapoza Glen**    |  🕹️    |      |
-**Anonymous**      |  🕹️    |  🕹️  |
-**Mislav Krleža**  |  🕹️    | 🕹️🕹️🕹️ |
+**Someone**      |  🕹️    |  🕹️  |
+**Mislav Krleža**  |  🕹️    | 🕹️ |
 
-<sup>*</sup>Option not yet available.
+<sup>*</sup>Option not yet available. Each 🕹️ in multiple column = $50 increments. Updated 2021-10-06.
 
 ## Become a Supporter
 
@@ -28,7 +28,7 @@ If you'd like to become a supporter and have your name (or anonymous) on this pa
 1. [Buy me a coffee](https://www.buymeacoffee.com/retrocombs).
 2. Click the **♡ THANKS** button underneath one of my videos.
 3. Click the **SUPER CHAT** option during a livestream.
-4. Become a **MEMBER** (Coming Soon).
+4. Become a **MEMBER** option *coming soon!*.
 
 No matter which option you choose, your name will appear on this page in one or multiple categories; one-time, multiple, and/or member (coming soon).
 
@@ -37,10 +37,10 @@ Your support, along with my use of Google Adsense and Amazon Affiliate links, al
 ## Current Benefits
 
 - **One-time:** My sincere gratitude for any amount with a thank you via email; buy me a coffee, or tweet.
-- **Multiple:** $20 or more (including one-time) and you get a free retroCombs magnet shipped to you anywhere in the world! Each 🕹️ in table represents ≈ $50.
+- **Multiple:** $50 or more cumulative or one-time and you get a free retroCombs magnet shipped to you anywhere in the world! **Each 🕹️ in table = $50**.
 
     ![retroCombs Magnet](https://www.stevencombs.com/images/design/magnet.png)
 
-- **Member:** Not available yet but membership may include first access to videos, member messages, invite to members Discord, name as executive producer on videos, and/or link to channel or social media presence on this page.
+- **Member:** *Coming Soon!*. Membership may include first access to videos, member messages, invite to members Discord, name as executive producer on videos, and/or link to channel or social media presence on this page.
 
 Have an idea? Send me a recommendation via email to <retrocombs@icloud.com> as I continue to plan on the roll-out for this feature.
