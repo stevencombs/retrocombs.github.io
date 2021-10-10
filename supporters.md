@@ -8,16 +8,17 @@ permalink: /supporters
 img class="category" src="http://www.stevencombs.com/images/design/about.svg" width="20%" />
 -->
 
-I have wonderful supporters for this blog and the companion [YouTube channel](https://www.youtube.com/stevencombs). It may be a small group, but it is a mighty and communicative one that is growing.
+I have "the best supporters in the world" supporting this blog and companion [YouTube channel](https://www.youtube.com/stevencombs). It may be a small group, but it is a mighty and communicative one that is growing.
 
 ## Supporters (chronological order)
 
-**Name**           | **One-Time** |  **Multiple**  | *Member*<sup>*</sup>
----------------|:--------:|:----------:|:-----:
-**Jamie Copeland** |  🕹️    | 🕹️ |
-**Rapoza Glen**    |  🕹️    |      |
-**Someone**      |  🕹️    |  🕹️  |
-**Mislav Krleža**  |  🕹️    | 🕹️ |
+| **Name**           | **One-Time** | **Multiple** | *Member*<sup>*</sup> |
+|--------------------|:------------:|:------------:|:--------------------:|
+| **Jamie Copeland** |      🕹️      |      🕹️      |                      |
+| **Rapoza Glen**    |      🕹️      |              |                      |
+| **Someone**        |      🕹️      |      🕹️      |                      |
+| **Mislav Krleža**  |      🕹️      |   🕹️ 🕹️  ️   |                      |
+| **Mark Dell        |      🕹️      |              |                      |
 
 <sup>*</sup>Option not yet available. Each 🕹️ in multiple column = $50 increments. Updated 2021-10-06.
 
