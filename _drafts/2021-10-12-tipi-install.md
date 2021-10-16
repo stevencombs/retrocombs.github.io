@@ -8,7 +8,10 @@ comments: yes
 permalink: link
 category: retro
 tags:
-  - 
+  - ti994a
+  - tipi
+  - memory expansion
+  - flashrom99
 ---
 
 First things first, TIPI is pronounced (per TI fans everywhere); "T.I. Pi" and and "Tippy." With that clarification out of the way, what is the TIPI for the Texas Instruments (TI) 99/4A? In this blog post and companion video, I discus, install, and use the TIPI for the first time on [the latest addition](https://www.stevencombs.com/first-ti994a) to my retro computer collection.
@@ -38,28 +41,64 @@ Follow the steps below to install the 32 Kb Sidecar Memory Expansion:
 
 1. Plug into sidecar expansion slot on the TI 99/4A.
 2. Plug in the provided power supply (list which one).
-3. 
 
-## 32 Kb Memory Expansion Test
+With the sidecar installed, we will use two ways to test the memory. One using BASIC and the other running a 32 Kb home-brew title using a FinalROM 99.
+
+### Free Memory Available
 
 To test the memory using TI Extended BASIC:
 
-1. Plug-in a TI Extended BASIC cartridge.
-2. Type the following command:
+1. Plug-in a TI Extended BASIC cartridge (or a FLASHROM 99 with TI Extended BASIC `.ROM` image).
+2. Type `SIZE` in BASIC and press `⏎`. The BASIC interpreter will display the following:
 
-    `150 CALL KEY (0,K,S) :: IF S=0 THEN 150` 
+    ```
+    11840 BYTES OF STACK FREE
+    24490 BYTES OF PROGRAM
+       SPACE FREE
+    ``` 
 
-
-### Free memory
 ### Games from FlashROM 99
+
+
 
 ## TIPI Installation
 
-## TIPI Quick Use
+### Setup TIPI
+
+`CALL TIPI`
+
+## TIPI Preview
+
+This blog post and companion video focus on the installation of the hardware. In a future video, I will cover the features of the TIPI; however, here are a few quick demos to get you started and showcase basic TIPI features:
+
+### Telnet
+
+`CALL TIPI ("TIPI.NET.TELNET")
+
+`telnet://telehack.com`
+
+### Access TIPI in Browser
+
+Download the a browser and upload using the web interface
+
+`http://tipi:9900`
+`http://tipi:9900/files`
+
+### Browse the Web
+
+'CALL TIPI ("TIPI.BROWSER.INTERNET") < THIS MAY NOT BE CORRECT
+
+`wagnerstechtalk.com/ti99/z.htm` < CREATE MY OWN PAGE
+
+Use a mouse in the browser
 
 ## Additional Thoughts
 
-1. This blog post and companion video focus on the installation of the hardware. In a future video, I will cover the features of the TIPI.
+
+## Upcoming Livestreams
+
+1. Browsing the web using the TI 99/4A
+2. Playing TI 99/4A Games
 
 ## Join the Fun
 
