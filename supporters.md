@@ -16,11 +16,11 @@ I have "the best supporters in the world" supporting this blog and companion [Yo
 |--------------------|:------------:|:------------:|:--------------------:|
 | **Jamie Copeland** |      🕹️      |      🕹️      |                      |
 | **Rapoza Glen**    |      🕹️      |              |                      |
-| **Someone**        |      🕹️      |      🕹️      |                      |
-| **Mislav Krleža**  |      🕹️      |   🕹️ 🕹️  ️   |                      |
+| **Jeffrey Phipps** |      🕹️      |   🕹️🕹️🕹️     |                      |
+| **Mislav Krleža**  |      🕹️      |   🕹️🕹️  ️   |                      |
 | **Mark Dell        |      🕹️      |              |                      |
 
-<sup>*</sup>Option not yet available. Each 🕹️ in multiple column = $50 increments. Updated 2021-10-06.
+<sup>*</sup>Option not yet available. Each 🕹️ in multiple column = $50 increments. Updated 2021-10-17.
 
 If you would like your name to be linked to your site, business, or social media presence, let me know!
 
