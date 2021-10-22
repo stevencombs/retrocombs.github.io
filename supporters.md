@@ -8,13 +8,13 @@ permalink: /supporters
 img class="category" src="http://www.stevencombs.com/images/design/about.svg" width="20%" />
 -->
 
-I have "the best supporters in the world" supporting this blog and companion [YouTube channel](https://www.youtube.com/stevencombs). It may be a small group, but it is a mighty and communicative one that is growing.
+I have "the best supporters in the world" contributing to this blog and companion [YouTube channel](https://www.youtube.com/stevencombs). It may be a small group, but it is a mighty and communicative one that is the heart of a growing community of retro computing fans. Below is a list of those supporters and their current levels.
 
 ## Supporters (chronological order)
 
 | **Name**           | **One-Time** | **Multiple** | *Member*<sup>*</sup> |
 |--------------------|:------------:|:------------:|:--------------------:|
-| **Jamie Copeland** |      🕹️      |      🕹️      |                      |
+| **[Jamie Copeland](https://twitter.com/slofunk)** |      🕹️      |      🕹️      |                      |
 | **Rapoza Glen**    |      🕹️      |              |                      |
 | **Jeffrey Phipps** |      🕹️      |   🕹️🕹️🕹️     |                      |
 | **Mislav Krleža**  |      🕹️      |   🕹️🕹️  ️   |                      |
@@ -22,11 +22,11 @@ I have "the best supporters in the world" supporting this blog and companion [Yo
 
 <sup>*</sup>Option not yet available. Each 🕹️ in multiple column = $50 increments. Updated 2021-10-17.
 
-If you would like your name to be linked to your site, business, or social media presence, let me know!
+If you would like your name linked to your site, business, or social media presence, let me know!
 
 ## Become a Supporter
 
-If you'd like to become a supporter and have your name (or anonymous) on this page (or in future videos), read below to learn how and what current and future benefits are on the way.
+To become a supporter and have your name (or anonymous) on this page (or in future videos), read below to learn how and what current and future benefits are on the way.
 
 1. [Buy me a coffee](https://www.buymeacoffee.com/retrocombs).
 2. Click the **♡ THANKS** button underneath one of my videos.
