@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Install MEGA65 on Nexys A7 FPGA'
+title: 'Install MEGA65 on Nexys A7 FPGA Livestream'
 date: 2021-10-25
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
@@ -41,16 +41,17 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 Below are additional thoughts about the livestream content:
 
-1. I did not intend to livestream. It was a rainy 2021-10-24 and my plan was to go to my workbench and try the install while preparing a comprehensive blog post and begin filming a retroCombs episode. When I got to my workbench, I livestreamed the process. I'm glad I did!
-2. I will finish the official retroCombs episode and companion blog post that document the process, but live-streaming first gave me the opportunity to learn more about the Nexys4 than I could have learned by myself. Why? Continue reading.
+1. I did not intend to livestream. It was a rainy 2021-10-24 and my plan was to go to my workbench and try the install while preparing a comprehensive blog post and begin filming a retroCombs episode. When I got to my workbench, I live-streamed the process. I'm glad I did!
+2. I will finish the official retroCombs episode and companion blog post that documents the process, but live-streaming first gave me the opportunity to learn more about the Nexys4 than I could have learned by myself. Why? Continue reading.
 3. I posted my intent to livestream on both Twitter and the MEGA65 Discord Channel. 10 minutes later I was live-streaming and viewer joined the channel. Stalwart viewers, Jamie and Mislav, arrived, and then a host of unfamiliar names appeared in the chat room. The MEGA65 topic caught their attention.
-4. As I worked through the install, everything was smooth except; I could not get a keyboard working. I tried five of them. MEGA65 developers joined the livestream to assist and no matter what we tried to correct the keyboard issue, none of them worked. Developer, Gurce, plans to compose a wiki page that includes compatible keyboards.
-5. The long-term solution is to continue to try the "cheapest" and "nastiest" keyboard I can find with many hinting I need the most inexpensive Dell keyboard I can find. I'm on that search.
-6. This livestream had the largest number of concurrent viewers for my channel at 16, with 12 remaining for most of the stream. After 24 hours it is the third most-watched stream and I expect it will be second in the next 24 hours. MEGA65 content is hot right!
-7. Thanks to the developers for popping in. A viewer shared in the MEGA65 Discord Channel I was having "live" issues with my project and three of them jumped in to help. And that's how great this community is! I've typed this before, but one benefit of owning my MEGA65 Dev Kit was becoming a part of this wonderful community. No question has ever gone unanswered and even though I am not a developer myself, I've never felt like a second-class citizen and I've watched the development of a Commodore computer; something 17-year-old me dreamed about!
-8. I had a couple of folks as why, as the owner of a Dev Kit and now one of the first 400 MEGA65s, I need a Nexys4? There are two reasons. One, it is part of the journey [from Dev Kit](https://www.stevencombs.com/mega65-1), to [emulation on my Mac](https://www.stevencombs.com/xemu-on-mac), to Nexys4, to MEGA65. I want to experience all the ways I can run a MEG65. Two, I have plans to create a portable MEGA65 that will travel. That's the eventual plan for the Nexys4 board.
+4. Through out the install, everything was smooth except I could not get a keyboard working. I tried five of them. MEGA65 developers joined the livestream to assist and no matter what we tried to correct the keyboard issue, none of them worked. Developer, Gurce, plans to compose a wiki page that includes compatible keyboards.
+5. The long-term solution is to try the "cheapest" and "nastiest" keyboards I can find with many developers hinting I need the most inexpensive Dell keyboard I can find. I'm on that search.
+6. This livestream had the largest number of concurrent viewers for my channel at 16. After 24 hours, this livestream is the third most-watched and I expect it will be second in the next 24 hours. MEGA65 content is hot right now thanks to the impending release of hardware! Have you [pre-ordered yours](https://www.mega65.org)?
+7. Thanks to the developers for popping into the livestream and chat. A viewer posted in the MEGA65 Discord Channel I was having "live" issues with my project and three of them jumped on to help. And that's how great this community is! I've typed this before, but one benefit of owning my MEGA65 Dev Kit was becoming a part of this wonderful international community. No question has ever gone unanswered and even though I am not a developer myself, I've never felt like a second-class citizen and I've watched the development of a Commodore computer; something 17-year-old me dreamed about!
+8. I had a couple of folks ask why, as the owner of a Dev Kit and now one of the first 400 MEGA65s, I need a Nexys4? There are two reasons. One, it is part of the journey [from Dev Kit](https://www.stevencombs.com/mega65-1), to [emulation on my Mac](https://www.stevencombs.com/xemu-on-mac), to Nexys4, to MEGA65. I want to experience all the ways I can run a MEGA65. Two, I want to create a portable MEGA65 that will travel. That's the eventual plan for this Nexys4 board.
+9. A huge thanks goes out to Mislav who supported the channel with a Super Chat!!! Can't thank you enough and thanks for your continued support.
 
-That's it for this companion blog post. As I mention, once I get a working keyboard, there will be a full episode and companion blog post that will document the process and allow you to repeat the process.
+That's all for this companion blog post. As I mention, once I get a working keyboard, there will be a full episode and companion blog post that will document the process and allow you to install the MEGA65 Bitstream on your own Nexys4.
 
 ## Join the Fun
 
