@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Install MEGA65 on Nexys A7 FPGA Livestream'
+title: 'Install a MEGA65 Bitstream on Nexys A7 FPGA: the Livestream'
 date: 2021-10-25
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
