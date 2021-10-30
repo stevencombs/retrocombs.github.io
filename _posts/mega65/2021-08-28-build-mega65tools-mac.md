@@ -67,7 +67,7 @@ My instructions assume you have a free GitHub account. If not, follow the steps 
 
 1. Visit <https://github.com/>. The GitHub homepage will appear as shown below:
 
-    ![GitHub main page](https://www.stevencombs.com/mega65/images/github-main-page.png)
+    ![GitHub main page](https://www.stevencombs.com/images/mega65/github-main-page.png)
 
 2. Enter an email address in the *Email address* text edit box as shown in the image above.
 3. Click the green *Sign Up for GitHub* button. GitHub will present an animated and enjoyable account creation page.
@@ -79,7 +79,7 @@ Mac OS X includes the *Terminal* application and a **nix* (short for Linix/Unix 
 
 1. Load the *Terminal* app or preferably [iTerm](https://iterm2.com/index.html) which I've customized with my own cool C64 inspired theme as shown in the image below.
 
-    ![My iTerm retro theme](https://www.stevencombs.com/mega65/images/iterm-retro-theme.png)
+    ![My iTerm retro theme](https://www.stevencombs.com/images/mega65/iterm-retro-theme.png)
 
 2. In a browser, visit <https://brew.sh/>. On the center of the page is the terminal command necessary to install Homebrew.
 3. Copy the command. The command below is current as of this writing:
@@ -134,11 +134,11 @@ With a GitHub account and access to brew packages, prepare the Mac to clone the 
 
 10. Copy the eight digit code or write it down. Press `⏎` to open the browser and display the *Device Activation Page* as shown in the image below:
 
-    ![GitHub device activation page](https://www.stevencombs.com/mega65/images/github-device-activation.png)
+    ![GitHub device activation page](https://www.stevencombs.com/images/mega65/github-device-activation.png)
 
 11. Paste or type your activation code and click the green *Continue* button. The *‌Authorize GitHub CLI* page will appear as shown in the image below:
 
-    ![The *‌Authorize GitHub CLI* page](https://www.stevencombs.com/mega65/images/github-authorize-cli.png)
+    ![The *‌Authorize GitHub CLI* page](https://www.stevencombs.com/images/mega65/github-authorize-cli.png)
 
 12. Click the green *Authorize github* button. The *Congratulations, you're all set! Your device is now connected* prompt will appear and the Terminal will display, `✓ Authentication complete. Press Enter to continue...`
 13. Press `⏎` to return to the terminal prompt. `gh` will display the prompt below and release the prompt:

@@ -122,7 +122,7 @@ Let's begin by downloading Xemu using the steps below:
 5. Double-click the `Xemu-Installer.dmg` file to mount the disk image and display the *GNU GENERAL PUBLIC LICENSE* window.
 6. Click the *Agree* button. The Mac will display the 'Xemu-Installer' window, as shown below:
 
-    ![Xemu Installer Window](https://www.stevencombs.com/mega65/images/xemu-installer-window.png)
+    ![Xemu Installer Window](https://www.stevencombs.com/images/mega65/xemu-installer-window.png)
 
 7. Locate the `xmega65.app` file and drag it to the *Applications* folder.
 
@@ -185,11 +185,11 @@ With *xmega65* running, configure the emulator with all the items we need to hav
 
 13. Click the *OK* button and *xmega65* will boot as shown in the image below:
 
-    ![*xmega65* with MEGA65 licensed ROM](https://www.stevencombs.com/mega65/images/xemu-licensed-rom.png)
+    ![*xmega65* with MEGA65 licensed ROM](https://www.stevencombs.com/images/mega65/xemu-licensed-rom.png)
 
     > *NOTE:* If you use the Open ROM, the screen will look like the image below:
 
-    ![Xemu with MEGA65 Open ROM](https://www.stevencombs.com/mega65/images/xemu-open-rom.png)
+    ![Xemu with MEGA65 Open ROM](https://www.stevencombs.com/images/mega65/xemu-open-rom.png)
 
     Congratulations! You now have a working version of *xmega65* running a MEGA `.ROM` file. You are ready to explore the wonders of the MEGA65—if only you knew what to do next! Let's cover that in the next section.
 
@@ -348,7 +348,7 @@ If you want a more familiar Commodore 8-Bit experience, press `F1`  to switch be
 
 On the Mac, *xmega65* does not place options on the Apple menu bar. Instead, you access menus with a right-click of a mouse or two-finger tap on a trackpad as shown in the image below:
 
-![xmega65 menus](https://www.stevencombs.com/mega65/images/xemu-menus.png)
+![xmega65 menus](https://www.stevencombs.com/images/mega65/xemu-menus.png)
 
 [MEGA65 Quick Start for Xemu](https://github.com/lgblgblgb/xemu/wiki/MEGA65-quickstart)
 
@@ -400,7 +400,7 @@ You may wonder where this `.d81` disk image is stored? This is helpful informati
 
 Remember the symbolic link we created earlier? Double-click it and you will see the directory listing again. In that listing is a file with the name `mega65.img`. Because the Mac can mount `.img` files, double-click it. It will mount and locate the image on the desktop. Double-click and you will see the files shown in the image below:
 
-![Contents of `mega65.img`](https://www.stevencombs.com/mega65/images/mega65-disk-image.png)
+![Contents of `mega65.img`](https://www.stevencombs.com/images/mega65/mega65-disk-image.png)
 
 The content of this disk image mirrors what you find on the SD card for a physical MEGA65. With the image mounted, you can change the contents. I do not recommend this until you know what you are doing. It is easier to manage `.d81` images external to the image file. So which `.d81` files is the default for *xmega65*?
 
@@ -414,7 +414,7 @@ You can use other disk images and easily mounting. You can use the menus or you 
 
 When you drag a disk image on the *xmega65* window, you will see the dialog box below. For a disk image, select the *MOUNT as D81* option.
 
-![Disk image confirmation](https://www.stevencombs.com/mega65/images/xemu-mount-disk-image-confirmation.png)
+![Disk image confirmation](https://www.stevencombs.com/images/mega65/xemu-mount-disk-image-confirmation.png)
 
 After you make a selection, use the `DIR` command to view the contents of the image. If you want two disk images mounted in devices 8 and 9, use the menus to select both disk images using the *Finder*.
 
@@ -424,7 +424,7 @@ After you make a selection, use the `DIR` command to view the contents of the im
 
 Sometimes you locate a program file not on a disk image but in a `.PRG` file. You do not need to [create a disk image](https://www.stevencombs.com/pi1541-2), move this file to the image, and then mount the image. Running a `.PRG` file is as simple as drag-and-drop the file onto the *xmega65* window. The *xmega65* dialog box below will appear:
 
-![Disk image confirmation](https://www.stevencombs.com/mega65/images/xemu-mount-disk-image-confirmation.png)
+![Disk image confirmation](https://www.stevencombs.com/images/mega65/xemu-mount-disk-image-confirmation.png)
 
 For a `.PRG` file, select the *RUN/inject as PRG* option. The program will load and run.
 

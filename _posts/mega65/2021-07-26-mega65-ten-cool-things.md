@@ -369,7 +369,7 @@ What? You can make a phone call on the MEGA65. Well, no (at least not now, but c
 
 What's a MEGAphone? First, it's a handheld MEGA65. That's right, all the processing power and retro-computing goodness of the MEGA65 in the palm of your hand. The MEGAphone includes a touch screen, on-screen keyboard, and game controls for on-the-go gaming. I do like a handheld device (and I'll prove it in an upcoming blog post and companion videos).
 
-![MEGAphone1](/mega65/images/megaphone.jpg)
+![MEGAphone1](/images/mega65/megaphone.jpg)
 Source: [MEGA65](https://mega65.org)
 
 Second, it's a phone with a "careful security design of the hardware, that isolates all the 'untrustable' parts, like the cellular modem." The design will provide a secure phone, with exceptional longevity, that you can trust due to the open nature of the hardware/software solution that is no longer serviceable by the service provider, but by the consumer. Watch Paul Gardner-Stephen's [FPGA based mobile phone: *Creating a truly open and trustable mobile communications device*
