@@ -8,14 +8,16 @@ comments: yes
 permalink: link
 category: retro
 tags:
-  - 
+  -
 ---
 
 Introduction
 
 Before you read the rest of this post, take a look at my companion video below.
 
-## YouTube Video: _Title_
+## Companion YouTube Video
+
+Title: _Title_
 
 In the video below, I ...
 
@@ -33,7 +35,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 ## Additional Thoughts
 
-1. 
+1.
 
 ## Join the Fun
 
