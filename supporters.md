@@ -16,7 +16,7 @@ I have "the best supporters in the world" contributing to this blog and companio
 |--------------------|:------------:|:------------:|:--------------------:|
 | **[Jamie Copeland](https://twitter.com/slofunk)** |      🕹️      |      🕹️      |                    |
 | **Rapoza Glen**    |      🕹️      |              |                      |
-| **Jeffrey Phipps** |      🕹️      |   🕹️🕹️🕹️     |                      |
+| **Jeffrey Phipps** |      🕹️      |   🕹️🕹️🕹️🕹️🕹️     |                      |
 | **Mislav Krleža**  |      🕹️      |   🕹️🕹️  ️    |                      |
 | **Mark Dell**      |      🕹️      |              |                      |
 
