@@ -14,11 +14,11 @@ I have "the best supporters in the world" contributing to this blog and companio
 
 | **Name**           | **One-Time** | **Multiple** | *Member*<sup>*</sup> |
 |--------------------|:------------:|:------------:|:--------------------:|
-| **[Jamie Copeland](https://twitter.com/slofunk)** |      🕹️      |      🕹️      |                      |
+| **[Jamie Copeland](https://twitter.com/slofunk)** |      🕹️      |      🕹️      |                    |
 | **Rapoza Glen**    |      🕹️      |              |                      |
 | **Jeffrey Phipps** |      🕹️      |   🕹️🕹️🕹️     |                      |
-| **Mislav Krleža**  |      🕹️      |   🕹️🕹️  ️   |                      |
-| **Mark Dell        |      🕹️      |              |                      |
+| **Mislav Krleža**  |      🕹️      |   🕹️🕹️  ️    |                      |
+| **Mark Dell**      |      🕹️      |              |                      |
 
 <sup>*</sup>Option not yet available. Each 🕹️ in multiple column = $50 increments. Updated 2021-10-17.
 

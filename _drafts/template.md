@@ -27,7 +27,7 @@ None as of 2021-XX-XX.
 
 ## Links Mentioned in this Episode:
 
-Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
+Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel by starting your purchases here!
 
 1. [Item](link)
 
