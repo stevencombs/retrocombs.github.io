@@ -27,9 +27,9 @@ In the video below, I ...
 
 None as of 2021-XX-XX.
 
-## Links Mentioned in this Episode:
+## Links Mentioned in this Episode
 
-Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel by starting your purchases here!
+Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. A huge thank you for your support of the blog and the YouTube channel by starting your purchases here!
 
 1. [Item](link)
 
