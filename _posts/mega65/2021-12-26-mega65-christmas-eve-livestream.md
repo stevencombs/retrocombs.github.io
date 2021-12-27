@@ -33,7 +33,7 @@ This post includes both the original live stream and the "director's cut" edit. 
 
 ## Companion YouTube Video
 
-Title: _‌MEGA65 Christmas Eve Livestream Edit \| Includes New Content_
+Title: _‌MEGA65 Christmas Eve Demonstration \| Onboarding SD Card and Box Art!_
 
 The video below is an edit of the full livestream (see second video) that includes corrections, updates, and new content:
 
