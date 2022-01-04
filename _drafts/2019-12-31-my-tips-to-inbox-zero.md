@@ -8,7 +8,7 @@ category: productivity
 comments: 'yes'
 ---
 
-I often "brag" to family, friends, and colleagues when I reach inbox zero. I do this to inspire others to share in my joy of having a tamed inbox. Unfortunately, my boasting is not helpful. I just tell people my inbox is empty, but have never shared the process; until now. Let's get started. I include a table of contents in case you want to jump around this post to specific steps.
+I "brag" to family, friends, and colleagues when I reach inbox zero. I do this to inspire others to share in my joy of having a tamed inbox. Unfortunately, my boasting is not helpful. I just tell people my inbox is empty, but have never shared the process; until now. Let's get started. I include a table of contents in case you want to jump around this post to specific steps.
 
 <!-- TOC -->
 
