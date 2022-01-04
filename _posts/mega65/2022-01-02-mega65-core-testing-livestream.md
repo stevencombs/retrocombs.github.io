@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MEGA65 core and SD card testing livestream'
+title: 'MEGA65 core and SD card testing live stream'
 date: 2022-01-03
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
@@ -56,8 +56,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
     - `F9` or `CTRL` + `V` - Scrolls along BASIC program listing down
     - `F7` - moves forward a word
     - `F6` - moves backwards a word
-    - `/` - follow with "PROGRAM NAME" to load program from disk (physical or virtual)
-
+    - `/` - follow with "PROGRAM NAME" to load program from disk (physical or virtual) and as a plus, if you use this command in directory listing, you no longer need to remove the trailing characters after the "PROGRAM NAME".
 
 5. In this video, I shared how to change back from Commodore 64 mode to MEGA65 mode using `SYS 58552`
 6. I showed the games section of the onboarding SD card in a previous live stream; however, I would like to dive into GEOS and then try to use the Pi1541 that I teased at the beginning of the live stream but ran out of time.
