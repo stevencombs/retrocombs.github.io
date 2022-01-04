@@ -60,7 +60,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 5. In this video, I shared how to change back from Commodore 64 mode to MEGA65 mode using `SYS 58552`
 6. I showed the games section of the onboarding SD card in a previous live stream; however, I would like to dive into GEOS and then try to use the Pi1541 that I teased at the beginning of the live stream but ran out of time.
-6. Thank to Producer, C128 level member, Mislav for his generous Super Chat during the live stream!
+6. A huge thank you to Producer, [C128 level member](https://www.stevencombs.com/supporters), Mislav for his generous Super Chat during the live stream!
 
 ## Join the Fun
 
