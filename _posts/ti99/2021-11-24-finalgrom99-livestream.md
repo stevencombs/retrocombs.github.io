@@ -15,6 +15,8 @@ tags:
 
 Out of nowhere, on a lazy Sunday afternoon, and while preparing for my [The FinalGROM 99 for the Texas Instruments TI-99/4A](https://www.stevencombs.com/finalgrom99) video, I took my FinalGROM 99 experimentation online with a livestream to troubleshoot 32 Kb memory expansion module sidecar issues and play several Texas Instruments TI-99/4A games. This is the companion blog post for the edit which removes over 45 minutes.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 Before you read the rest of this post, watch the livestream below.
 
 ----

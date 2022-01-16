@@ -24,6 +24,8 @@ tags:
 
 In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 7, *Using Graphics and Color*, of the Commodore Plus/4 user's manual. If you are eager to create images on your Commodore Plus/4, this is the chapter for you. Chapter 7 include information to PETSCII, colors, graphics modes, and other commands to create static images an animations. It's a fun chapter and one that took quite a bit of time to prepare.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 <!-- TOC -->
 
 - [Series Information](#series-information)

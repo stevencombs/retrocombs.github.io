@@ -1,19 +1,25 @@
 ---
 layout: post
-title: 'title'
-date: 2021-XX-XX
+title: 'Hibernated 1 - Director’s Cut for the MEGA65'
+date: 2022-01-05
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
-permalink: link
-category: retro
-tags:
-  -
+permalink: hibernated1-mega65
+category: mega65
 ---
 
-Introduction
+I'm excited to announce the release of the first boxed MEGA65 software title; [Hibernated 1 - Director's Cut - MEGA65](https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1) from developer Stefan Vogt/Puddle and publisher [poly.play](https://www.polyplay.xyz). In this blog post and companion video, I open the box and take a look at this new title for my favorite retro computer, the [MEGA65](https://www.mega65.org).
 
 Before you read the rest of this post, take a look at my companion video below.
+
+----
+
+**Table of Contents**
+
+<!-- Create TOC: https://ecotrust-canada.github.io/markdown-toc/ -->
+
+----
 
 ## Companion YouTube Video
 
@@ -25,13 +31,14 @@ In the video below, I ...
 
 ## Video Errata
 
-None as of 2021-XX-XX.
+None as of 2022-01-05.
 
 ## Links Mentioned in this Episode
 
-Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. A huge thank you for your support of the blog and the YouTube channel by starting your purchases here!
+Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel by starting your purchases here!
 
-1. [Item](link)
+1. [Hibernated 1 - Director's Cut - MEGA65](https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1)
+2. [Download](https://8bitgames.itch.io/hibernated1)
 
 ## Additional Thoughts
 

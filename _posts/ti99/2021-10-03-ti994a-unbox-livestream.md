@@ -15,6 +15,8 @@ tags:
 
 Followers know a new-to-me Texas Instruments (TI) TI-99/4A now adorns the shelves of my retro computing collection. It's [a long story](https://www.stevencombs.com/first-ti994a); however, during the diatribe, I talk about the accessories I purchased. In this blog post and companion video, I share those items. There's even a special surprise from Jamie, over at [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg). Watch the livestream video below and continue reading to learn more.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 ## YouTube Video: _‌TI-99/4A Accessories, Unboxing, Gameplay, and FUN!_
 
 In the livestream video below, I unbox several packages as I pontificate about random items that pop up in the chat room.
@@ -68,7 +70,7 @@ Below are additional thoughts from and after the livestream.
     * **Blasto** - Think tanks meet minesweeper, which could be fun with instructions
     * **Jamie's Gift** - I'm not going to spoil it here, but a game he said is maddening and "meh!"
 
-6. During the livestream, I introduced my newest page; [retroCombs Supporters](https://www.stevencombs.com/supporters). There are currently three ways to support the channel; [Buy me a coffee](https://www.buymeacoffee.com/retrocombs), click the **♡ THANKS** button under a videos, and/or click **SUPER CHAT** during a livestream. A supporter made a request for a monthly support option and recommended Patreon; however, YouTube has released their own members program and since I use Google Adsense on the site, it makes sense to combine all revenue into a single program. I hope to have membership live toward the end of this year or early next year. 
+6. During the livestream, I introduced my newest page; [retroCombs Supporters](https://www.stevencombs.com/supporters). There are currently three ways to support the channel; [Buy me a coffee](https://www.buymeacoffee.com/retrocombs), click the **♡ THANKS** button under a videos, and/or click **SUPER CHAT** during a livestream. A supporter made a request for a monthly support option and recommended Patreon; however, YouTube has released their own members program and since I use Google Adsense on the site, it makes sense to combine all revenue into a single program. I hope to have membership live toward the end of this year or early next year.
 
 That's all there is for now. If there's something I missed, send me an email (see below) and I hope you will join me for my next livestream.
 

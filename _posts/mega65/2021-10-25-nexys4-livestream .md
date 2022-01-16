@@ -15,6 +15,8 @@ tags:
 
 Another Sunday, another livestream and instead of a [TI-99/4A](https://www.stevencombs.com/ti994a) topic, I returned to a project that's been on the back burner for a long time; installing the MEGA65 Bitstream on a Diligent Nexys4 field programmable gate array (FPGA). A MEGA65 livestream would do double duty and make [supporter](https://www.stevencombs.com/supporters) Mislav happy. He's asked for new MEGA65 content for a while. Here ya go Mislav; this one's for you.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 You can check out the livestream below and afterward, read the rest of this companion blog post to learn more.
 
 ## YouTube Video: _Install a MEGA65 Bitstream on a Digilent NEXYS4 | Everything works but the keyboard!_

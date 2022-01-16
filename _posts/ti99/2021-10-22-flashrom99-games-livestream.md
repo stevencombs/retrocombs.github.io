@@ -15,6 +15,8 @@ tags:
 
 After receiving and then creating a [video/blog post](https://www.stevencombs.com/flashrom99) about the FlashROM99 from [The Brewing Academy](https://thebrewingacademy.com), I went online to show how to play games from the device and experience, for the first time, these Texas Instruments TI-99/4A versions of popular 1980s video games.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 Before you read the rest of this post, look at my companion video below and then continue reading to learn more about the FlashROM99 and watch me reminisce with video games from the 1980s.
 
 ## YouTube Video: _‌Playing TI-99/4A 1980s video games from a FlashROM99 | Livestream edit with captions_

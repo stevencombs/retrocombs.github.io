@@ -16,6 +16,8 @@ tags:
 
 As a MEGA65 Dev Kit owner, I've created several posts to share what's coming when my favorite Commodore "what could have been" retro computer releases. I'm not going in depth about the MEGA65 in this post and companion video; instead, check out my new [MEGA65 page](https://www.stevencombs.com/mega65). In this post, I will show you how to get started with the MEGA65, on your Apple Mac computer, while you wait for the hardware to arrive.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 To do this, I share how to install the *Xemu* emulator, *xmega65*. What's *Xemu*? Let's go right to the source:
 
 > [Xemu](https://github.com/lgblgblgb/xemu) (full name: X-Emulators) is a collection of emulators running on Linux/Unix/Windows/Mac OS of various (mainly 8-Bit) machines, including - but not limited to - the Commodore LCD, Commodore 65 and MEGA65. And yes, that's an "X" in the name, not "Z" :)

@@ -20,6 +20,9 @@ tags:
 
 In the next Commodore Plus/4 retroCombs episode, I open the Commodore Plus/4 manual for the first time to look at _Chapter 1: Unpacking and Setting Up_. Since [the previous episode](https://youtu.be/_faxuAlFHII) was an Open the Box, unpacking is already complete so this episode focuses on setting up the computer. Watch the video below and then come back to this post to read some additional thoughts, find links to everything mentioned, and learn a few more additional tips.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
+**Table of Contents**
 <!-- TOC -->
 
 - [Series Information](#series-information)

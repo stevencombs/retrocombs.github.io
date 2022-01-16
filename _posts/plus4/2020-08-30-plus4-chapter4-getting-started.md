@@ -23,6 +23,9 @@ tags:
 
 In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore Plus/4 user's manual. In this chapter, _Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I show you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
+**Table of Contents**
 <!-- TOC -->
 
 - [Series Information](#series-information)

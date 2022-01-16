@@ -24,7 +24,11 @@ In this Commodore Plus/4 retroCombs episode, I cover chapter 2 in the user's man
 
 In this blog post and the companions video, I run through each concept and present ways to uses these features. I even discover some "weirdness" with Commodore Basic. It's a packed episode that may take a couple of viewings to get through, but be sure you watch the entire episode if you want to see all the tips and quirks discovered.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 <!-- TOC -->
+
+**Table of Contents**
 
 - [Series Information](#series-information)
 - [Companion Disk Image (In Progress)](#companion-disk-image-in-progress)

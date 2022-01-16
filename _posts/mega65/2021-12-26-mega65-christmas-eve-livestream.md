@@ -11,6 +11,8 @@ category: mega65
 
 In this companion blog post to the edit of my Christmas Eve 2021 live stream, I celebrate the holiday and briefly lament about the MEGA65 delay; however, it becomes a great time as viewers share stories and I share previews of the recently released box art (suitable for cutting, which I do at the beginning of the video) and the onboarding SD card that will come with new MEGA65s. This edit includes new information and corrections.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 This post includes both the original live stream and the "director's cut" edit. Before you read the rest of this post, look at the companion videos below.
 
 ----
@@ -72,7 +74,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 3. The unedited live stream has more "after watches" than any other live stream in my inventory. Not sure I need this edit, but hope viewers will dive in and look at the new content, corrections, updates, and faster flow. May not be worth the day of editing. Consider this an experiment to help me decide if live stream edits are a valuable use of time.
 4. During the live stream, there was a question about adding BBS software to the onboarding SD card. I told them I would make the request and recommended they include [Haustierbegriff3](https://github.com/MEGA65/mega65-weeip). I did and [here's their response](https://discord.com/channels/719326990221574164/897206779702824980/924826612669755412). Glad to see they plan to include this C64 software that takes advantage of the extra features of the MEGA65 including the Ethernet port.
 5. Thanks to Gurce (Goor-Che) for setting me straight on the pronunciation of his name and sharing additional information about his MEGA65 BASIC game, [Poopie](https://files.mega65.org?id=1ab7bc47-37ba-428a-8a6b-de1759a6e68c). I include this information as pop-ups in the video but you can read the full thread [here](https://discord.com/channels/719326990221574164/886188425143799818/924369504648167525).
-6. I’m becoming more comfortable with the YoloBox Pro but I still forget things from time to time–such as turning off chats. I would like an option to turn off chat displays automatically after a certain amount of time. 
+6. I’m becoming more comfortable with the YoloBox Pro but I still forget things from time to time–such as turning off chats. I would like an option to turn off chat displays automatically after a certain amount of time.
 7. Be on the lookout for a blog post and video specific to using the YoloBox Pro for retro computing live streaming.
 8. Speaking of chats, I need to work on the configuration of the window. Currently, they are too large. Hoping there's an option to scale them.
 9. I had a blast with the live stream. Enjoying Christmas Eve with fellow retro computing fans was a blast and was like spending time with your best friends talking Commodore computers back in the 1980s; unless, like me, you didn't have any fellow Commodore fans in high school!

@@ -22,6 +22,36 @@ tags:
 
 In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 6, *Beginning Bplus4/images/screen-window.pngASIC Programming*, of the Commodore Plus/4 user's manual. In this chapter, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
+**Table of Contents**
+
+1. <!-- TOC -->
+
+- [Series Information](#series-information)
+- [Companion Disk Image](#companion-disk-image)
+- [User's Manual](#users-manual)
+- [YouTube Video: _retroCombs: Commodore Plus/4, Chapter 6 - Beginning BASIC Programming_](#youtube-video-_retrocombs-commodore-plus4-chapter-6---beginning-basic-programming_)
+- [Video Errata](#video-errata)
+- [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
+- [Key to Keys](#key-to-keys)
+- [Introduction](#introduction)
+- [Programming Modes](#programming-modes)
+  - [DIRECT (IMMEDIATE) Mode](#direct-immediate-mode)
+  - [INDIRECT (PROGRAM) Mode](#indirect-program-mode)
+- [Input/Output Statements](#inputoutput-statements)
+  - [Output Statements](#output-statements)
+  - [Input Statements](#input-statements)
+- [Control Statements and Loops](#control-statements-and-loops)
+- [Conditional or Decisions Making Statements](#conditional-or-decisions-making-statements)
+- [Subroutines](#subroutines)
+- [REM Statements](#rem-statements)
+- [Final Thoughts](#final-thoughts)
+- [Join the Fun](#join-the-fun)
+
+<!-- /TOC -->
+
+
 This is not an all-inclusive chapter and you will not become a master programmer after learning these concepts; however, you will have the knowledge you need to create simple programs. This is what made all Commodore computers special; the creation of your own programs. After you work through chapter 6, I recommend you review the Plus/4 Encyclopedia located on page 101 of the user's manual.
 
 > **NOTE:** Right before posting this video, my YouTube channel reached 1000 (or 1K) subscribers! Thanks to everyone who follows along and please, let others know about the channel so I can continue to bring you more tech and retro-computing video and blog posts.

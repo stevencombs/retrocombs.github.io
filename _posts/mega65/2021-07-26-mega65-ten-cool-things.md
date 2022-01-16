@@ -16,6 +16,8 @@ tags:
 
 Commodore computing fans will soon have a new device to add to their collection of retro-computers, the MEGA65. In this blog post and companion video, I look at what makes the MEGA65 special and then share items one through five of the ten cool things you will do with the MEGA65 that you can't do with any other Commodore-inspired recreations such as The C64. **Spoiler alert:** I include a bonus item to tide you over until number 6 through 10 drop!
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 ----
 
 **Table of Contents**

@@ -22,6 +22,8 @@ tags:
 
 I'm really excited! I mean, 15 year-old boy excited. That's how I felt while opening the box, unpacking, assembling, and turning on the new  developer's kit (DevKit) for the first time. Seriously, I've not been that excited about a package in some time; and this from the guy who has two brand new Mac minis (with M1 processors) set to arrive a few days before Christmas.
 
+> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
 With all their performance, memory, state-of-the-art ARM processor, and design, they just don't have that nostalgic feel of the  that takes me back to a time when computers were exciting and more than just a tool to be used every day. Don't believe I was excited? Check out my video below and then read on for some additional thoughts on the  DevKit.
 
 ## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 6 - Beginning BASIC Programming_
