@@ -26,7 +26,7 @@ In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Cha
 
 **Table of Contents**
 
-1. <!-- TOC -->
+<!-- TOC -->
 
 - [Series Information](#series-information)
 - [Companion Disk Image](#companion-disk-image)

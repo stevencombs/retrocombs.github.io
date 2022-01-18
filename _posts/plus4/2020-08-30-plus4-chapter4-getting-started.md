@@ -258,7 +258,6 @@ type the line of code below:
 10 COLOR 0.2
 20 ? "PLUS/4"
 ```
-**💾 On Disk:** `04 PINK BGRND`
 
 `LIST` the program. Line 10 has two errors. Can you spot them? `RUN` the program. The Plus/4 will display:
 
@@ -340,7 +339,6 @@ Use the `NEW` command and enter the program below:
 10 ? "♥";
 20 GOTO 10
 ```
-**💾 On Disk:** `04 SCREEN OF ♥`
 
 `RUN` the program and the screen will continually print hearts and fill the screen as shown below:
 
