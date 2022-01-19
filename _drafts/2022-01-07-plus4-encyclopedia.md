@@ -143,6 +143,8 @@ Throughout this series, I demonstrate many of the commands listed in this sectio
 
 `TRAP 50`: Intercepts an error condition and jumps to line 50. Used in conjunction with TRON, begin trace mode, and TROFF, turn off trace mode. An example best demonstrates the use of these commands.
 
+> **NOTE:** Not Disney's TRON or his quirky brother, TROFF!
+
 ```realbasic
 10 TRON
 20 TRAP 50
@@ -235,17 +237,44 @@ The values are held within variables. Variable types describe the type of variab
 2. **Integer Variables** - `A%`, `A5%`, `BZ%`
 3. **String Variables** - `A$`, `A5$`, `BZ$`
 
-Commodore BASIC uses seven reserved variables, or variable that you cannot create, but can use, in BASIC programming.
+Commodore BASIC uses seven reserved variables, or variable that you cannot create, but can use, in BASIC programming. They include: `DS`, `DS$`, `ER`, `EL`, `ST`, `TI`, and `TI$`. Remember there are commands you cannot use as variables either including: `TO` and `IF`.
 
-<START HERE>
+Of these, `TI` and `TI$` are of interest. You can use these variables to read and set the internal clock that is reset each time the Plus/4 is powered on or reset.
+
+The `? TI` command will print a value that is based on the time, every 1/60th of a second.
+
+Use `TI$="120000` to set the 24 hour internal clock and `? TI$` to view the current value. The first two number are the time, the next two numbers the minutes, and the final two the seconds.
 
 ### BASIC OPERATORS
 
+Basic operators were covered extensively in [Chapter 5](https://www.stevencombs.com/plus4-6). This section serves as a quick reference; however, there is value in a brief discussion of three logical operators: `AND`, `OR`, & `NOT`. These are used to join multiple formulas in `IF`…`THEN` statements or with arithmetic operations where they are evaluated last (after +, -, *, and /).
 
+`AND`: Requires both this or that. Example: `IF A=B AND C=D THEN 100`
+
+`OR`: Allows either this or that. Example: `IF A=B OR C=D THEN 100`
+
+`NOT`: Allows not this. Example: `IF NOT A=B THEN 100` and below is a programming example:
+
+```realbasic
+10 A = 0
+20 B = 1
+30 IF NOT A = B THEN 50
+40 PRINT "A IS EQUAL TO B" : END
+50 PRINT "A IS NOT EQUAL TO B"
+```
+**💾 On Disk:** `EN NOT`
+
+Modify the variables in lines 10 and 20 to the same number and `RUN` the program again.
 
 ## Section 2: BASIC 3.5 Abbreviations
 
+Abbreviations shorten the time and keystrokes necessary to enter BASIC programs.  The general convention is:
 
+1. Commands with two characters have no shortcuts. Example: `DO`
+2. Commands with four characters or less are a combination of the first letter followed by shift and the second character. Example: `D_` for `DRAW`
+2. Commands with five or more characters are the first two letter followed by a shift and the third character. Example: `DI_` for `DIRECTORY`
+
+Commands such as `DLOAD` (`D└`) and `DSAVE` (`D♥`) do not follow these rules. If the rule doesn't work, try the rule prior or consult the table on pages 151→153.
 
 ## Section 3: Conversion Programs
 
@@ -285,10 +314,15 @@ Commodore BASIC uses seven reserved variables, or variable that you cannot creat
 
 ## Section 12: Programs to Try
 
+### Wolf Whistle
+
 ```realbasic
-10
+10 vol 7
+20 for l = 1 to 100
+30 sound 1,int(rnd(0)*500)+400,4
+40 next
 ```
-**💾 On Disk:** `08 MAKE TONE`
+**💾 On Disk:** `EN COMP MANIAC`
 
 ## Section 13: RS-232 Interface
 
