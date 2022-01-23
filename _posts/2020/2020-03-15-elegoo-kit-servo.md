@@ -2,7 +2,7 @@
 layout: post
 title: 'BUILD & CODE: Elegoo Arduino starter kit servo, LED, and encoder project'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: '2020-03-15'
 comments: 'yes'
 category: arduino

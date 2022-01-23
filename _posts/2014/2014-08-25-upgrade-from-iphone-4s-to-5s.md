@@ -2,7 +2,7 @@
 layout: post
 title: 'Upgrade from iPhone 4s to 5s'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2014-08-25 09:24
 copyright: © Steven B. Combs, Ph.D. 2014
 category: apple

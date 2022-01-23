@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX: Lenovo YOGA TAB with Google Assistant'
 date: 2020-02-09
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - android

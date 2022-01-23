@@ -3,7 +3,7 @@ layout: post
 title: 'BOOK REVIEW: The LEGO Architect'
 date: '2015-09-19'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - lego

@@ -3,7 +3,7 @@ layout: post
 title: "HOWTO: Use the OS X on screen keyboard to create symbols"
 date: "2009-09-03"
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 category: apple
 comments: true
 ---

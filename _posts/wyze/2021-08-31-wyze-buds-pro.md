@@ -3,7 +3,7 @@ layout: post
 title: 'Wyze Buds Pro unboxing, setup, pairing, first use, and thoughts'
 date: '2021-08-31'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: wyze
 permalink: wyze-buds-pro

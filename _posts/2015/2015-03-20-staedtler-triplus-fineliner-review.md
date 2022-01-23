@@ -2,7 +2,7 @@
 layout: post
 title: 'REVIEW: Staedtler Triplus Fineliner'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2015-03-20 15:23
 category: art
 tags:

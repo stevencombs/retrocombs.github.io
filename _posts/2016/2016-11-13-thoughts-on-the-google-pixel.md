@@ -2,7 +2,7 @@
 layout: post
 title: 'Three week thoughts on the Google Pixel'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: 'November 13, 2016'
 comments: 'yes'
 categories:

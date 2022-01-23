@@ -2,7 +2,7 @@
 layout: post
 title: 'REVIEW: Monster Digital OTG Cloud'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2015-05-02 18:58
 category: gadgets
 comments: yes

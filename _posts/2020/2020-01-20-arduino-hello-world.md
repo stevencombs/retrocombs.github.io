@@ -3,7 +3,7 @@ layout: post
 title: 'BUILD & CODE: Arduino Hello World! (build-code-operate)'
 date: 2020-01-20
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: arduino
 permalink: arduino-hello-world

@@ -2,7 +2,7 @@
 layout: post
 title: Mac Mini Media Center Unboxing
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2011-08-05
 category: apple
 comments: yes

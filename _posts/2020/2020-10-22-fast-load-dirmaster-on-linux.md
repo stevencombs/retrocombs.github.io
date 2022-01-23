@@ -3,7 +3,7 @@ layout: post
 title: 'retroCombs: FAST LOAD - Install DirMaster on Linux'
 date: '2020-10-22'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 permalink: 'dirmaster-1'
 comments: 'yes'
 category: commodore

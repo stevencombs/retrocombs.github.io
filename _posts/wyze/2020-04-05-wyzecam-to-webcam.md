@@ -3,7 +3,7 @@ layout: post
 title: "HOWTO & OPEN THE BOX: Convert a Wyze Cam Black into a webcam with Wyze's new firmware"
 date: '2020-04-05'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: wyze
 permalink: wyzecam-to-webcam

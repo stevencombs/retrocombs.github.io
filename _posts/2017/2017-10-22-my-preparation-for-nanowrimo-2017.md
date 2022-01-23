@@ -4,7 +4,7 @@ title: 'HOWTO: Prepare for NaNoWriMo 2017'
 date: 'October 22, 2017'
 comments: 'yes'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 categories:
   - writing
 tags:

@@ -4,7 +4,7 @@ title: 'SKETCHNOTE: Civic Lab Training'
 date: '2018-06-18'
 comments: 'yes'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 categories:
   - art
 tags:

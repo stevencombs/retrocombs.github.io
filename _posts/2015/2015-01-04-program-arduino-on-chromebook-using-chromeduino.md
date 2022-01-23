@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Program Arduino on Chromebook using ChromeDuino'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2015-01-04 12:38
 categories: chromeos
 comments: yes

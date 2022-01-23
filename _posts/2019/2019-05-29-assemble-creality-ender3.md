@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Assemble the Creality Ender-Pro 3D Printer'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: 2019-05-29
 category: 3dprinting
 comments: 'yes'

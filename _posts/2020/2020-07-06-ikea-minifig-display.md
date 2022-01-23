@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Easy to Build LEGO Minifig Display with IKEA Lustigt'
 date: '2020-07-06'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: lego
 permalink: minifig-ikea-lustigt-display

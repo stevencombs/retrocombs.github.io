@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX and SETUP: Wyze Cam Outdoor (Squirrel Cam One)'
 date: '2020-08-17'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: wyze
 permalink: wyze-cam-outdoor

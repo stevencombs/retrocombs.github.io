@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX (BAG): ORIA Precision Screwdriver Set, 86in1 Magnetic Repair Tool Kit with Portable Bag'
 date: '2020-08-29'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: oria-precision-set
 category: gadgets

@@ -2,7 +2,7 @@
 layout: post
 title: 'REVIEW: Pilot HI-TEC-C maica'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2015-04-18 14:09
 category: art
 comments: yes

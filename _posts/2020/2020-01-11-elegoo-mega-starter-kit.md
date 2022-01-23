@@ -2,7 +2,7 @@
 layout: post
 title: 'OPEN THE BOX: Elegoo Arduino Mega Starter Kit'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: '2020-01-11'
 comments: 'yes'
 category: arduino

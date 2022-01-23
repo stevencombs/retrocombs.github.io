@@ -2,7 +2,7 @@
 layout: post
 title: 'Best gadgets under $200, 2014 Edition'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2014-11-29 17:25
 copyright: © Steven B. Combs, Ph.D. 2014
 categories: gadgets holiday

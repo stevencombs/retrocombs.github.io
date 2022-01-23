@@ -3,7 +3,7 @@ layout: post
 title: 'FAST LOAD: Upgrade THEC64 mini firmware (v.1.4.2)'
 date: '2020-11-11'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: commodore
 tags:

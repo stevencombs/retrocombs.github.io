@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Edit in full screen in Evernote for iPad'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2014-11-26 14:50
 categories:
   - productivity

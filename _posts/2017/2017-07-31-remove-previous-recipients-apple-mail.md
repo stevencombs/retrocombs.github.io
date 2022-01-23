@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Remove previous recipients from Apple Mail'
 date: 'July 31, 2017'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - apple

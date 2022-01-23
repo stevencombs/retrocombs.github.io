@@ -3,7 +3,7 @@ layout: post
 title: "BULLET REVIEW: NewTrent Airbender 3.0"
 date: '2015-07-04'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 category: apple
 comments: 'yes'
 ---

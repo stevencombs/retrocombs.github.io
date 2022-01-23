@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Create an ssh connection to a headless Raspberry Pi'
 date: 2013-04-27 11:10:09
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 categories: raspberrypi
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Connect Chromecast to hotel (captive portal) Wi-Fi'
 date: '2015-11-29'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets

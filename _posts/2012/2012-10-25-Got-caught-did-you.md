@@ -3,7 +3,7 @@ layout: post
 title: 'Got caught, did you?'
 date: '2012-10-25'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'I am writing a book, and sharing a Ulysses tip'
 date: 'July 4, 2017'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - writing

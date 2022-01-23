@@ -3,7 +3,7 @@ layout: post
 title: 'retroCombs: The Tapuino Project - Build an Arduino powered Commodore Datasette clone for the Commodore Plus/4'
 date: '2020-07-19'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 permalink: tapuino-1
 comments: 'yes'
 category: commodore

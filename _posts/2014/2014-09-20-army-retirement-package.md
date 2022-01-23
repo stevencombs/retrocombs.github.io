@@ -2,7 +2,7 @@
 layout: post
 title: 'Army retirement package'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2014-09-20 19:28
 category: personal
 comments: yes

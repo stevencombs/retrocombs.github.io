@@ -2,7 +2,7 @@
 layout: post
 title: 'Creality Ender-3 build surface upgrade'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: 2019-06-08
 category: 3dprinting
 comments: yes

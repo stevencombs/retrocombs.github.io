@@ -4,7 +4,7 @@ title: 'retroCombs: The Combian pi/400 Project. Use Combian 64 and a Raspberry P
 date: '2021-01-10'
 author: 'Steven B. Combs, Ph.D.'
 permalink: combianpi400-1
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: commodore
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: 'Make mistakes, learn from them, and own them'
 date: 2013-08-27 18:51:22 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
 ---

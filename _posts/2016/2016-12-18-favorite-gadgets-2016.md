@@ -3,7 +3,7 @@ layout: post
 title: 'My favorite gadgets of 2016'
 date: 'December 18, 2016'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets

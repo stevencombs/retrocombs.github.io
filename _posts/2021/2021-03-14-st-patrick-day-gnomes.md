@@ -3,7 +3,7 @@ layout: post
 title: "Nikki shares thoughts on 8, $12 Amazon St. Patrick's Day Gnome Ornament Faceless Doll Decorations"
 date: '2021-03-14'
 author: 'Steven B. Combs, Ph.D.'
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 comments: yes
 category: holiday
 permalink: irish-gnomes

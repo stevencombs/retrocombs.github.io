@@ -2,7 +2,7 @@
 layout: post
 title: 'REVIEW: Amazon Echo is Siri in a Pringle® can'
 author: 'Steven B. Combs, Ph.D.'
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: '2015-02-21 16:36'
 category: gadgets
 comments: true

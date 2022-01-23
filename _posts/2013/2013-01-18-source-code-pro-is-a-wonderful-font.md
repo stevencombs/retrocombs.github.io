@@ -3,7 +3,7 @@ layout: post
 title: "Source Code Pro is a wonderful Markdown font"
 date: "2013-01-18"
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 category: web
 comments: true
 ---

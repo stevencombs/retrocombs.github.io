@@ -3,7 +3,7 @@ layout: post
 title: 'Remembering my days with the Atari 2600'
 date: '2020-06-08'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: retro
 tags:

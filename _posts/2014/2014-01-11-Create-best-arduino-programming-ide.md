@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Sublime Text Arduino programming IDE on Peppermint OS'
 date: 2014-01-11 17:00:39
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 categories:
   - arduino

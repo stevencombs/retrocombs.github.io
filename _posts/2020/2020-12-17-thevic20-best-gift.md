@@ -3,7 +3,7 @@ layout: post
 title: 'retroCombs: 10 reasons THEVIC20 and THEC64 are a great retro-computing gifts'
 date: '2020-12-17'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: thevic20-1
 category: commodore

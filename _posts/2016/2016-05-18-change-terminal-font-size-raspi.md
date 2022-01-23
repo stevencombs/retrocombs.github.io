@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Change the Terminal font size on Raspberry Pi'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: 'May 18, 2016'
 comments: 'yes'
 categories:

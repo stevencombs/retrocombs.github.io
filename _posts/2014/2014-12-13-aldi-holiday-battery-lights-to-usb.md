@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: ALDI Holiday battery lights to USB'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2014-12-13 21:00
 category: electronics
 comments: yes

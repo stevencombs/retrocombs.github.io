@@ -3,7 +3,7 @@ layout: post
 title: 'Ten cool things you will do with a MEGA65 | Includes 2 bonus items!'
 date: '2021-07-26'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: 'mega65-3'
 category: mega65

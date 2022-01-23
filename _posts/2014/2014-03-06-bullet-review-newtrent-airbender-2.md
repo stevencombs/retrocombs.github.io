@@ -3,7 +3,7 @@ layout: post
 title: 'BULLET REVIEW: New Trent Airbender 2.0 for iPad Air'
 date: 2014-03-06 17:00:00
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 category: apple
 ---

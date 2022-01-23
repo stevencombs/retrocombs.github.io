@@ -3,7 +3,7 @@ layout: post
 title: 'REVIEW: OG Atari 2600 user shares the Hyperkin RetroN 77'
 date: '2020-01-11'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: retro
 tags:

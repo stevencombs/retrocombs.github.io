@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX and FIRST USE: VictSing Wireless (USB and Bluetooth) Mouse'
 date: '2020-09-19'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: victsing-wireless-mouse
 category: gadgets

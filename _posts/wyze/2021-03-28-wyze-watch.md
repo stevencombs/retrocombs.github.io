@@ -3,7 +3,7 @@ layout: post
 title: 'Wyze Watch Open the Box, First Use, and Wyze Band Comparison'
 date: '2021-03-28'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: yes
 permalink: wyze-watch
 category: wyze

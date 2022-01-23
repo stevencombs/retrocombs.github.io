@@ -3,7 +3,7 @@ layout: post
 title: 'I am podcasting again'
 date: '2018-12-17'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - personal

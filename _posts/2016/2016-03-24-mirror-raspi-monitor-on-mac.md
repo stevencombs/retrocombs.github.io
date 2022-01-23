@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Mirror a monitor connected to a Raspberry Pi on a Mac'
 date: 2016-03-24
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: yes
 categories:
   - raspberrypi

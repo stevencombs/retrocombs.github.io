@@ -3,7 +3,7 @@ layout: post
 title: 'Creating my YouTube retroCombs video bumper'
 date: '2020-06-02'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: art
 permalink: retrocombs-bumper

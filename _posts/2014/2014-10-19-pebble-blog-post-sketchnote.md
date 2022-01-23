@@ -2,7 +2,7 @@
 layout: post
 title: 'SKETCHNOTE: Pebble Blog Post'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2014-10-19 17:20
 category: art
 comments: yes

@@ -2,7 +2,7 @@
 layout: post
 title: 'My first fountain pen - the JinHao 250'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2015-05-03 19:40
 category: art
 comments: true

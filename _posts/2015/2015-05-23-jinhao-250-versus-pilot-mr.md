@@ -3,7 +3,7 @@ layout: post
 title: 'Jinhao 250 versus Pilot MR Metropolitan'
 date: '2015-05-23 15:27'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - art

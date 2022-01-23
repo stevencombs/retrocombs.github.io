@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX and FIRST USE: Chromecast with Google TV (and the Google TV Android app)'
 date: '2020-10-11'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: 'gadgets'
 permalink: chromecast-googletv-unbox

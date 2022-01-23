@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX: Xfinity Flex'
 date: '2020-04-24'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: gadgets
 permalink: xfinity-flex-unboxing

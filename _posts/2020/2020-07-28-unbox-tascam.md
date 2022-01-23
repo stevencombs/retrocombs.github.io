@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX: TASCAM DR-40X four track linear PCM digital audio recorder'
 date: '2020-07-28'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: gadgets
 permalink: tascam-dr40x-unbox

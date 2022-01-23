@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX: Syma X12S unboxing'
 date: '2015-06-21 17:26'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 categories:
   - gadgets
 comments: yes

@@ -3,7 +3,7 @@ layout: post
 title: 'Three interesting electronics components'
 date: '2013-11-27 14:56'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - arduino

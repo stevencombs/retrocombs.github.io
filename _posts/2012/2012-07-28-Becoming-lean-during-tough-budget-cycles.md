@@ -3,7 +3,7 @@ layout: post
 title: 'Becoming lean during tough budget cycles'
 date: 2012-07-28 00:20:02 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Replacing my Original Commodore 128 and using a Keelog Power Supply'
 date: '2021-06-28'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: 'c128-1'
 category: c128

@@ -3,7 +3,7 @@ layout: post
 title: The electronic devices we use
 date: '2015-09-15'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets

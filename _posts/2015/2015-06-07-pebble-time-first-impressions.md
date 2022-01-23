@@ -3,7 +3,7 @@ layout: post
 title: 'FIRST IMPRESSIONS: Pebble Time'
 date: '2015-06-07 15:17'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets

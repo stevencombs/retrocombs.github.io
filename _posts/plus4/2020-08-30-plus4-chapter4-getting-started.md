@@ -4,7 +4,7 @@ title: 'Commodore Plus/4 User’s Manual, Chapter 4 - Getting Started'
 date: '2020-08-30'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-5
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: yes
 category: plus4
 tags:

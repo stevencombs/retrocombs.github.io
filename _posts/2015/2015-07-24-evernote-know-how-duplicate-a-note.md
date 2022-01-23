@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Duplicate an Evernote note'
 date: '2015-07-24 19:22'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - productivity

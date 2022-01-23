@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Say goodbye to TextExpander and hello to Dash'
 date: '2015-09-16'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - apple

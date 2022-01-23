@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX and FIRST USE: Wyze Cam Version 3 (V3)'
 date: '2020-12-06'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: wyzecam-v3
 category: wyze

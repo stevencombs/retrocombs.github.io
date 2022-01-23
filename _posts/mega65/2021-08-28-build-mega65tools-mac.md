@@ -4,7 +4,7 @@ title: 'Build MEGA65 Tools on Mac OS X (Intel and M1) | And an intro to the MEGA
 date: '2021-08-28'
 author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-tools
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: yes
 category: mega65
 tags:

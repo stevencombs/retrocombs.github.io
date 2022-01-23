@@ -3,7 +3,7 @@ layout: post
 title: 'REVIEW: Lenovo YOGA TAB with Google Assistant'
 date: 2020-09-2
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: lenovo-yoga-tab-review
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: 'Community college quality versus cost'
 date: 2013-01-14 21:38:03 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
 ---

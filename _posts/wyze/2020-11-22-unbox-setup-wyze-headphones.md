@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX and FIRST USE: Wyze Headphones'
 date: '2020-11-22'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: wyze
 permalink: wyze-headphones

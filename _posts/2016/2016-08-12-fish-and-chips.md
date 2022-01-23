@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Fish on C.H.I.P.s'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: 'August 13, 2016'
 comments: 'yes'
 categories:

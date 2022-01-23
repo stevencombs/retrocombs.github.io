@@ -2,7 +2,7 @@
 layout: post
 title: 'Things to know about your new Pocket C.H.I.P.'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: 'June 28, 2016'
 comments: 'yes'
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: 'My Android TV remote chart'
 date: '2019-02-22'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - android

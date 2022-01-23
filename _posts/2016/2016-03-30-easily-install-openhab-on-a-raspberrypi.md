@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Easily install openHAB on a Raspberry Pi'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: 'March 20, 2016'
 comments: 'yes'
 categories:

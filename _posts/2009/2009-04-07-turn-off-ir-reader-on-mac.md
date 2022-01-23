@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Turn off IR reader on a Mac'
 date: 2009-04-07 03:45:23
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 category: apple
 ---

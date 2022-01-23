@@ -3,7 +3,7 @@ layout: post
 title: 'Commodore Plus/4 User’s Manual, Chapter 0 - Open the Box'
 date: '2020-05-23'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 permalink: plus4-1
 comments: yes
 category: plus4
@@ -22,6 +22,7 @@ Today I unveil the first in a new theme of posts, **retroCombs**. This theme is 
 > **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
 
 **Table of Contents**
+
 <!-- TOC -->
 
 - [Series Information](#series-information)

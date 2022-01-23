@@ -3,7 +3,7 @@ layout: post
 title: 'FIRST USE: Xfinity Flex Video Streamer'
 date: '2020-04-30'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: gadgets
 permalink: xfinity-flex-first-use

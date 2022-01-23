@@ -2,7 +2,7 @@
 layout: post
 title: 'BULLET REVIEW: New Trent Gladius Air for iPad Air'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2014-03-16 12:53
 copyright: © Steven B. Combs, Ph.D. 2014
 category: apple

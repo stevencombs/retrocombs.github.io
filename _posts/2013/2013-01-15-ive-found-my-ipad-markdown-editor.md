@@ -3,7 +3,7 @@ layout: post
 title: 'I’ve found my iPad Markdown Editor!'
 date: '2013-01-15'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 category: apple
 ---
 

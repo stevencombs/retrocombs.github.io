@@ -2,7 +2,7 @@
 layout: post
 title: 'UPGRADE: Raspberry Pi 2 case and heatsink'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2015-04-05 17:51
 category: raspberrypi
 comments: yes

@@ -4,7 +4,7 @@ title: 'REVIEW: Relive the 1980s with a Unicomp Keyboard'
 date: 'July 9, 2017'
 comments: 'yes'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 categories:
   - gadgets
 tags:

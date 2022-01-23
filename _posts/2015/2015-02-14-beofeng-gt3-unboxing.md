@@ -2,7 +2,7 @@
 layout: post
 title: 'OPEN THE BOX: Baofeng GT-3'
 author: Steven B. Combs, Ph.D.
-email: steven.combs@gmail.com
+email: 'retrocombs@icloud.com'
 date: 2015-02-14 15:44
 category: ham
 comments: yes

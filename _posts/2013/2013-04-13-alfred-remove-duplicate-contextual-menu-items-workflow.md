@@ -3,7 +3,7 @@ layout: post
 title: "HOWTO: Remove Duplicate Contextual Alfred Menu Items"
 date: "2013-04-13"
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 category: alfred
 ---

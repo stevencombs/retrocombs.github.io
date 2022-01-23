@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Enhance Course Materials with iTunes U'
 date: 2013-01-10 01:09:10 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 categories: presentations higher-education apple
 ---

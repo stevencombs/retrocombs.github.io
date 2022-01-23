@@ -4,7 +4,7 @@ title: "Commodore Plus/4 User’s Manual, Chapter 5 - Numbers and Calculations"
 date: '2020-10-18'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-6
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: yes
 category: plus4
 tags:
@@ -23,6 +23,34 @@ tags:
 In this Commodore Plus/4 retroCombs episode, I cover chapter 5 of the Commodore Plus/4 user's manual. In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher;Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I shope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequatew you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
 
 > **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
+**Table of Contents**
+
+<!-- TOC -->
+
+- [Series Information](#series-information)
+- [Companion Disk Image](#companion-disk-image)
+- [User's Manual](#users-manual)
+- [YouTube Video: _retroCombs: Commodore Plus/4, Chapter 5 - Numbers and Calculations_](#youtube-video-_retrocombs-commodore-plus4-chapter-5---numbers-and-calculations_)
+- [Video Errata](#video-errata)
+- [Links Mentioned in this Episode:](#links-mentioned-in-this-episode)
+- [Key to Keys](#key-to-keys)
+- [Episode Errata](#episode-errata)
+- [Introduction](#introduction)
+- [Numbers and Basic Operations](#numbers-and-basic-operations)
+- [Fractions and Decimals](#fractions-and-decimals)
+- [Scientific Notation](#scientific-notation)
+- [Performing Calculations](#performing-calculations)
+- [Immediate (Direct) Mode](#immediate-direct-mode)
+- [Order of Calculation](#order-of-calculation)
+- [Using Variables](#using-variables)
+- [Mid Video Retro Break](#mid-video-retro-break)
+- [Numeric Functions](#numeric-functions)
+- [Numbers and Other Functions](#numbers-and-other-functions)
+- [Final Thoughts](#final-thoughts)
+- [Join the Fun](#join-the-fun)
+
+<!-- /TOC -->
 
 ## Series Information
 

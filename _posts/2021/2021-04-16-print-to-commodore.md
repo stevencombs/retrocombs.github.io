@@ -3,7 +3,7 @@ layout: post
 title: 'Transfer BASIC Programs in Print to Physical Commodore Computers'
 date: '2021-04-16'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: 'print-to-commodore'
 category: commodore

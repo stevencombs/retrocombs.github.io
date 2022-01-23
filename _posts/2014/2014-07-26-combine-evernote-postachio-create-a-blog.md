@@ -3,7 +3,7 @@ layout: post
 title: "HOWTO: Combine Evernote and Postach.io to create a blog"
 date: "2014-07-26"
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 category: evernote
 comments: true
 ---

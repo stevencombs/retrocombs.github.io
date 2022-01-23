@@ -2,7 +2,7 @@
 layout: post
 title: 'My Seven Steps to Inbox Zero'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 date: 2019-12-01
 category: productivity
 comments: 'yes'

@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX: Cloner Alliance Box Pro'
 date: 2020-03-28
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: gadgets
 permalink: cloner-alliance-box-pro

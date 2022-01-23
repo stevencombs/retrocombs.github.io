@@ -3,7 +3,7 @@ layout: post
 title: 'BULLET REVIEW: The AuKing $52 LCD Projector'
 date: '2019-10-19'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 permalink: auking-projector
 categories:

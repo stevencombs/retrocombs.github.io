@@ -3,7 +3,7 @@ layout: post
 title: 'Thank a Veteran Today!'
 date: 2013-11-11 11:39:25 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 category: Holiday
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'LINUX TIP: Turn the Caps Lock key into a launcher key'
 date: '2020-04-14'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: linux
 permalink: caps-to-launcher

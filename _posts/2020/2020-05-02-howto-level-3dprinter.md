@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Level a Creality Ender 3 Surface Bed and Print a Commodore VIC-20 Key Plunger'
 date: '2020-05-02'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: 3dprinting
 permalink: level-creality-ender-3

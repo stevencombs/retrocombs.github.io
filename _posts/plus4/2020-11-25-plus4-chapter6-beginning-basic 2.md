@@ -4,7 +4,7 @@ title: 'Commodore Plus/4 User’s Manual Chapter 6 - Beginning BASIC Programming
 date: '2020-11-25'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-7
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: yes
 category: plus4
 tags:

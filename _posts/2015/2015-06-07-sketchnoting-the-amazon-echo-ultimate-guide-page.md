@@ -3,7 +3,7 @@ layout: post
 title: 'SKETCHNOTE: Amazon Echo ultimate guide page'
 date: '2015-06-07 18:38'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - art

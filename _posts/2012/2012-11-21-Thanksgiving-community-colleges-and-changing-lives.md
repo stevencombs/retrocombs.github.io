@@ -3,7 +3,7 @@ layout: post
 title: 'Thanksgiving, community colleges, and changing lives'
 date: 2012-11-21 23:17:49 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: true
 categories: holiday higher-education
 ---

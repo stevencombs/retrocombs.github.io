@@ -3,7 +3,7 @@ layout: post
 title: 'OPENING THE BOX: Maker Shed Raspberry Pi Starter Kit'
 date: '2013-03-20 10:58'
 author: 'Steven B. Combs, Ph.D.'
-email: 'steven.combs@gmail.com'
+email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - openingthebox
