@@ -13,7 +13,7 @@ tags:
   - assembler
 ---
 
-With the last regular Commodore Plus/4 User's Guide chapters complete, we now focus on the last half of the manual. You read that correctly, Chapters 1 through 8 take the first 100 pages, and the Plus/4 Encyclopedia occupies another 183 pages of the user's manual.
+With the last regular Commodore Plus/4 User's Guide chapters complete, we now focus on the last half of the manual. You read that correctly. Chapters 1 through 8 take the first 100 pages, and the Plus/4 Encyclopedia occupies another 183 pages of the user's manual.
 
 > **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
 
@@ -28,7 +28,6 @@ With the last regular Commodore Plus/4 User's Guide chapters complete, we now fo
 - [User's Manual](#users-manual)
 - [Companion Video:](#companion-video)
 - [Video Errata](#video-errata)
-- [Links Mentioned:](#links-mentioned)
 - [Key to Keys](#key-to-keys)
 - [Introduction](#introduction)
 - [Encyclopedia Introduction](#encyclopedia-introduction)
@@ -42,7 +41,7 @@ With the last regular Commodore Plus/4 User's Guide chapters complete, we now fo
 - [Section 2: BASIC 3.5 Abbreviations](#section-2-basic-35-abbreviations)
 - [Section 3: Conversion Programs](#section-3-conversion-programs)
 - [Section 4: Error Messages](#section-4-error-messages)
-- [Section 5: Tedmon Commands](#section-5-tedmon-commands)
+- [Section 5: TEDMON Commands](#section-5-tedmon-commands)
 - [Section 6: Screen Display Codes](#section-6-screen-display-codes)
 - [Section 7: ASCII and CHR$ Codes](#section-7-ascii-and-chr-codes)
 - [Section 8: Screen and Color Memory Maps](#section-8-screen-and-color-memory-maps)
@@ -99,7 +98,7 @@ For previous chapters, view the [Commodore Plus/4 Resource Page](https://www.ste
 
 ## Companion Video:
 
-Video Title: _‌Commodore Plus/4 User's Manual \| Chapter 8 - Making Sound and Music \| Beeps, boops and bops!_
+Video Title: _‌Commodore Plus/4 User's Manual \| Encyclopedia_
 
 In the video below, I share highlights of the Plus/4 Encyclopedia.
 
@@ -109,15 +108,9 @@ In the video below, I share highlights of the Plus/4 Encyclopedia.
 
 None as of 2022-01-22.
 
-## Links Mentioned:
-
-Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
-
-1.
-
 ## Key to Keys
 
-Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
+Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations, as shown in the table below:
 
 | Key     | Description   | Key  | Description |
 | :------ | :------------ | :--- | :---------- |
@@ -137,7 +130,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 1. Channel memberships are now available! Check out [my Buy Me A Coffee page](https://www.buymeacoffee.com/retroCombs) and support the channel if you found value in the Plus/4 series.
 2. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
-3. .d81 disk image is available [here](https://www.stevencombs.com/plus4#companion-disk-image).
+3. A .d81 disk image is available [here](https://www.stevencombs.com/plus4#companion-disk-image).
 
 ## Encyclopedia Introduction
 
@@ -162,13 +155,13 @@ Example Command: **`DLOAD`**"*program name*",[**`D`**rive**`#`**],[**`U`**nit**`
 Breaking the command down:
 
 - **`DLOAD`**: command and includes an option for a program name, in italics, bookmarked by required `""`
-- **`D0`**: a sample argument, or parameter, preceded by a `,` and bookmarked by `[]` which indicates an option argument
+- **`D0`**: a sample argument, or parameter, preceded by a `,` and bookmarked by `[]` which shows an option argument
 - **`U8`**: an additional optional argument preceded by a `,`
 
 Additional command conventions include:
 
 - **|**: select from the list of limited arguments
-- `…`: argument can be used more than once
+- `…`: use of multiple arguments
 - `()`: the argument must include the parenthesis
 
 Additional important conventions:
@@ -180,7 +173,7 @@ Understanding these conventions provides clear insight to each command found in 
 
 ### BASIC COMMANDS AND STATEMENTS
 
-Throughout this series, I demonstrate many of the commands listed in this section; however, below are a commands in both section BASIC Commands and BASIC Statements not covered:
+Throughout this series, I show many of the commands listed in this section; however, below are commands in the sections *BASIC Commands* and *BASIC Statements* that I did not cover:
 
 `AUTO [#]`: Toggles automatic line numbering. Using a numeric argument, such as `AUTO 10`, will number each line of code in increments of 10. This works while typing code. It does not renumber existing lines of code.
 
@@ -188,9 +181,9 @@ Throughout this series, I demonstrate many of the commands listed in this sectio
 
 `SCRATCH` `"`*program_name*`"`: Deletes a file from a directory.
 
-`MONITOR:` Enters the Plus/4's built-in machine-language monitor. To exit the monitor back to BASIC, type `X`. The TEDMON has its own section later in the Encyclopedia.
+`MONITOR:` Enters the Plus/4's built-in machine-language monitor. To exit the monitor, type `X`. The TEDMON has its own section later in the Encyclopedia.
 
-`TRAP 50`: Intercepts an error condition and jumps to line 50. Used in conjunction with TRON, begin trace mode, and TROFF, turn off trace mode. An example best demonstrates the use of these commands.
+`TRAP 50`: Intercepts an error condition and jumps to line 50. Used with TRON (begin trap mode) and TROFF (turn off trap mode). An example best shows the use of these commands.
 
 > **NOTE:** Not Disney's TRON or his quirky brother, TROFF!
 
@@ -213,15 +206,15 @@ Like a cursor in text mode that provides a current location, a pixel cursor (PC)
 
 `LOCATE +10,-20`: Move the current PC right 10 pixels and up 20 pixels.
 
-Relative coordinates can be used with other commands as shown below:
+We can use relative coordinates with other commands, as shown below:
 
 `DRAW 1,+10,-20 TO 100,100`: Draws a line 10 pixels right and 20 pixels below the current PC to an absolute point at 100,100.
 
-Distance and angles are possible as shown below:
+Distance and angles are possible, as shown below:
 
-`LOCATE 50;45`: Move the PC 50 pixels at an angle of 45°. This is helpful to create complex geometry.
+`LOCATE 50;45`: Move the PC 50 pixels at an angle of 45°. This is helpful in creating complex geometry.
 
-An example best demonstrates the use of these commands.
+An example best shows the use of these commands.
 
 ```realbasic
 10 COLOR 0,1
@@ -240,11 +233,11 @@ The advantage to this technique is the ability to move the entire shape by modif
 
 The encyclopedia uses three function classifications: numeric, string, and other. I covered many of these in the earlier chapters and will not cover them all here; however, there are a few that are of interest and helpful.
 
-> **NOTE:** Functions are used in conjunction with variables or `PRINT` commands.
+> **NOTE:** Use functions with the `PRINT` command.
 
-`DEC("FFFF")`: Returns the decimal value of a hexadecimal string. In this case, the value is `65535`.
+`DEC("FFFF")`: Returns the decimal value of a hexadecimal string. Here, the value is `65535`.
 
-`INSTR("RETROCOMBS","OCO")`: Returns the position in the first string of the text in the second sting. In this case, the value is `5`.
+`INSTR("RETROCOMBS","OCO")`: Returns the position in the first string of the text in the second sting. Here, the value is `5`.
 
 `JOY(N)`: Returns the position of either joystick 1 or 2 where `N` is the joystick number. Below is a sample program and additional information.
 
@@ -276,17 +269,17 @@ Functions are essential to programming as are variable and operators.
 
 Commodore BASIC uses three types of variables found in other operating systems:
 
-1. **Numeric**: These *floating point* variables can be any supported decimal value. When values are larger than nine digits, scientific notation is used. For example, the number 1234567801 is displayed as 1.23456789E+10.
-2. **Integers**: Any whole number from -32767 to +32768. The lack of decimals allow integer variable to take less memory.
-3. **Strings**: Any character values. We've used these earlier examples such as, `"retroCombs"`.
+1. **Numeric**: *Floating point* variables are decimal values. When values are larger than nine digits, scientific notation is used. For example, the number 1234567801 will display as 1.23456789E+10.
+2. **Integers**: Whole number from -32767 to +32768. The lack of decimals allows integer variable to take less memory.
+3. **Strings**: Any character value. We've used these earlier examples such as, `"retroCombs"`.
 
-The values are held within variables. Variable types describe the type of variable as shown below:
+The computer holds values within variables. Variable types describe the type of variable as shown below:
 
 1. **Numeric Variables** - `A`, `A5`, `BZ`
 2. **Integer Variables** - `A%`, `A5%`, `BZ%`
 3. **String Variables** - `A$`, `A5$`, `BZ$`
 
-Commodore BASIC uses seven reserved variables, or variable that you cannot create, but can use, in BASIC programming. They include: `DS`, `DS$`, `ER`, `EL`, `ST`, `TI`, and `TI$`. Remember there are commands you cannot use as variables either including: `TO` and `IF`.
+Commodore BASIC uses seven reserved variables, or variable that you cannot create, but can use, in BASIC programming. They include: `DS`, `DS$`, `ER`, `EL`, `ST`, `TI`, and `TI$`. Remember, there are commands you cannot use as variables either, including: `TO` and `IF`.
 
 Of these, `TI` and `TI$` are of interest. You can use these variables to read and set the internal clock that is reset each time the Plus/4 is powered on or reset.
 
@@ -296,7 +289,7 @@ Use `TI$="120000` to set the 24 hour internal clock and `? TI$` to view the curr
 
 ### BASIC OPERATORS
 
-Basic operators were covered extensively in [Chapter 5](https://www.stevencombs.com/plus4-6). This section serves as a quick reference; however, there is value in a brief discussion of three logical operators: `AND`, `OR`, & `NOT`. These are used to join multiple formulas in `IF`…`THEN` statements or with arithmetic operations where they are evaluated last (after +, -, *, and /).
+I extensively covered basic operators in [Chapter 5](https://www.stevencombs.com/plus4-6). This section serves as a quick reference; however, there is value in a brief discussion of three logical operators: `AND`, `OR`, & `NOT`. These are used to join multiple formulas in `IF`…`THEN` statements or with arithmetic operations where they are evaluated last (after +, -, *, and /).
 
 `AND`: Requires both this or that. Example: `IF A=B AND C=D THEN 100`
 
@@ -313,7 +306,7 @@ Basic operators were covered extensively in [Chapter 5](https://www.stevencombs.
 ```
 **💾 On Disk:** `EN NOT`
 
-Modify the variables in lines 10 and 20 to the same number and `RUN` the program again.
+Change the variables in lines 10 and 20 to the same number and `RUN` the program again.
 
 Below are two more examples:
 
@@ -321,7 +314,7 @@ Below are two more examples:
 
 `PRINT 123 AND 15` returns `11`
 
-If like me, you find our yourself asking, HUH?!?. The solution is in a conversion from decimal to binary for each value, execute the operation on each  digit, and then convert back to decimal as shown below:
+If, like me, you find yourself asking, HUH?!?. The solution is in a conversion from decimal to binary for each value, execute the operation on each digit, and then convert back to decimal as shown below:
 
 ```
 PRINT 5 OR 7
@@ -339,7 +332,7 @@ PRINT 15 AND 123
 
 ## Section 2: BASIC 3.5 Abbreviations
 
-Abbreviations shorten the time and keystrokes necessary to enter BASIC programs.  The general convention is:
+Abbreviations shorten the time and keystrokes necessary to enter BASIC programs. The general convention is:
 
 1. Commands with two characters have no shortcuts. Example: `DO`
 2. Commands with four characters or less are a combination of the first letter followed by shift and the second character. Example: `D_` for `DRAW`
@@ -359,27 +352,37 @@ Function keys 1 through 8 now return non-printing characters 133 through 140 (se
 
 ## Section 4: Error Messages
 
-Along the BASIC programming journey, there are always mistakes and the Commodore Plus/4 tries to assist by presenting error messages that are sometimes helpful or bewildering. This section can help clarify those bewildering messages. Review this section if you are unsure what an error message is trying to convey.
+Along the BASIC programming journey, there are always mistakes, and the Commodore Plus/4 tries to assist by presenting error messages that are sometimes helpful or bewildering. This section can help clarify those bewildering messages. Review this section if you are unsure what an error message is trying to convey.
 
-There is an interesting function available that could be a whole lot of fun in BASIC if you want to prank someone or create a hacking game:
+There is an interesting function available that could be a lot of fun in BASIC if you want to prank someone or create a hacking game:
 
 `PRINT ERR$(#)`
 
 Substitute # for one of the error numbers in column one and the Plus/4 will print that error. For example, `PRINT ERR$(26)` prints `CAN'T CONTINUE'.
 
-If you need help with a disk operating system (DOS) error message, those are listed on page 159→163 and contain their own reserved variables `DS` and `DS$`. Unlike `ERR$`, these two variables cannot be assigned but you can use them to display the current status.
+If you need help with a disk operating system (DOS) error message, they listed those on page 159→163 and contain their own reserved variables `DS` and `DS$`. Unlike `ERR$`, these two variables cannot be assigned, but you can use them to display the current status.
 
-## Section 5: Tedmon Commands
+## Section 5: TEDMON Commands
 
+As a fun name amalgam of the TED chip and an assembly language monitor, they built TEDMON into the Plus/4 and includes an assembler and disassembler.
 
+Machine language can create complete programs or as adjunct code to speed up BASIC code. I am not versed in Commodore computer machine code, or any machine code, but I know someone who is!
+
+I reached out to Robin, over at [8-Bit Show and Tell](https://www.youtube.com/c/8BitShowAndTell) and asked him if he had time to put together a video on the use of the TEDMON. He graciously said, "yes". Not familiar with 8-Bit Show and Tell? You must live under a YouTube retro-computing rock.
+
+I once called Robin my 8-Bit guru. I've learned more about retro-computers, primarily Commodore, watching Robin, than any other channel. His videos share interesting information, tips, tricks, and programming strategies. Get your degree in 8-bit computing by watching Robin's channel and get started by watching his TEDMON video below:
+
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+If you want to get started in TEDMON, type `MONITOR`. The Plus/4 will immediately enter TEDMON. At first, the screen is intimidating, but even if you don't program in assembly code, there are fun things you can do that I'll share in [Section 9: Plus/4 Memory Register Map](#section-9-plus4-memory-register-map). When finished, type `X` to return to the BASIC prompt.
 
 ## Section 6: Screen Display Codes
 
-The section highlights the Plus/4's built-in character set, PETSCII. Additionally an included table lists the value to POKE to screen memory (3072 to 4095). For example:
+The section highlights the Plus/4's built-in character set, PETSCII. Additionally, an included table lists the value to POKE to screen memory (3072 to 4095). For example:
 
 `POKE 3072,1` displays an `A` in the upper-left corner of the screen. To display the same character one space to the right type `POKE 3073,1`. To display the same character at the beginning of the next line type `POKE 3112,1`. Adding 128 to the last value displays the reverse of the character. To print lower case characters, use `PRINT CHR$(14)` prior to the POKE command and `PRINT CHR$(142)` to return to upper case.
 
-The program below prints all the available characters:
+The program below prints all the characters:
 
 ```realbasic
 10 SCNCLR
@@ -399,11 +402,11 @@ Use the PEEK command to view characters in positions. For example, run the progr
 
 `PRINT PEEK(3072)`
 
-`1` will display indicating `A` is in the first character position at the upper-left corner of the screen.
+`1` will display, showing `A` is in the first character position at the upper-left corner of the screen.
 
 ## Section 7: ASCII and CHR$ Codes
 
-This section has similarities the previous section but provide a way to print characters using the `CHR$(X)` function, which we used in the previous section. Additionally, the ASC("X") function can print the value for the character.
+This section has similarities to the previous section but provides a way to print characters using the `CHR$(X)` function, which we used in the previous section. The ASC("X") function can print the value for the character.
 
 `ASC("X")` can assist to evaluate user input as part of a `GET` command while `CHR$(X)` can be used by program to "press" specific keys, change colors, flash, switch cases, etc. For example, the line below will turn on flash mode:
 
@@ -417,9 +420,9 @@ At the bottom of the table is a list of additional numbers that are duplicate ch
 
 ## Section 8: Screen and Color Memory Maps
 
-In section 6 we learned how to place characters at specific locations on the screen. The image on page 177 is a map of those locations.
+In section six, we learned how to place characters at specific locations on the screen. The image on page 177 is a map of those locations.
 
-We can use the second map to give each character at each location a color as shown in the example below:
+We can use the second map to give each character at each location a color, as shown in the example below:
 
 `POKE 2048,2 : POKE 3072,1` will print <font color="red">`A`</font> in the upper-left corner of the screen.
 
@@ -427,7 +430,7 @@ To flash the <font color="red">`A`</font>, add 128 to the color as shown below:
 
 `POKE 2048,130 : POKE 3072,1`
 
-Finally, you can modify the "luminance" of the color by multiplying the luminance value by 16 and adding it back to the luminance value as shown below to change `A` from red to pink:
+Finally, you can change the "luminance" of the color by multiplying the luminance value by 16 and adding it back to the luminance value as shown below to change `A` from red to pink:
 
 `poke 2048,2+(6*16) : poke 3072,1`
 
@@ -450,11 +453,11 @@ You can replicate these functions with the `PRINT` command; however, using this 
 ```
 **💾 On Disk:** `EN CHAR RAINBOW`
 
-This program prints all 255 uppercase characters at varying luminance values.
+This program prints all 255 uppercase characters at varying luminance values on the screen.
 
 ## Section 9: Plus/4 Memory Register Map
 
-Using the memory register map with the Tedmon is a great way to take a peek inside the contents of your Commodore Plus/4. First enter Tedmon by type "MONITOR". `M` will list the first 12 lines. Pressing `M` again will display the next 12 lines; however, using the memory register map, we can jump to specific ares of Commodore Plus/4 memory by adding the hexadecimal address found in the map (sans `$`).
+Using the memory register map with the TEDMON is a great way to take a peek inside the contents of your Commodore Plus/4. First enter TEDMON by type "MONITOR". `M` will list the first 12 lines. Pressing `M` again will display the next 12 lines; however, using the memory register map, we can jump to specific areas of Commodore Plus/4 memory by adding the hexadecimal address found in the map (minus the `$` symbol).
 
 `M 80C8`: Displays the beginning of Commodore BASIC 3.5.
 
@@ -466,19 +469,19 @@ To convert the machine code to assembly at a specific location, use the Disassem
 
 `D 818E`: Disassembles the first 12 lines of BASIC. Type `D` by itself to disassemble the next 12 lines.
 
-`M 1008`: Beginning of user BASIC program. Give it a try. Type in a few lines of BASIC code, activate the Tedmon, and "memory display", `M` address `1008`.
+`M 1008`: Beginning of user BASIC program. Give it a try. Type in a few lines of BASIC code, activate the TEDMON, and "memory display", `M` address `1008`.
 
 ## Section 10: Deriving Mathematical Functions
 
-This section explains how to create trigonometry and other mathematical functions when those functions are not included in BASIC. An example is the use of the `COS` function to create a secant function as shown below:
+This section explains how to create trigonometry and other mathematical functions when those functions are not available in BASIC. An example is the use of the `COS` function to create a secant function, as shown below:
 
 `SEC(X)=1/COS(X)`
 
-Once coded in BASIC, you can use these new functions. Functions are discussed in [Chapter 5](https://www.stevencombs.com/plus4-6).
+Once coded in BASIC, you can use these new functions. I discuss functions in [Chapter 5](https://www.stevencombs.com/plus4-6).
 
 ## Section 11: Musical Note Table
 
-Sound was covered extensively in [chapter 8](https://www.stevencombs.com/plus4-9) and the table in this section provides a quick reference to sound register value and that values frequency (NTSC). For example:
+I covered sound extensively in [Chapter 8](https://www.stevencombs.com/plus4-9) and the table in this section provides a quick reference to sound register value and that values frequency (NTSC). For example:
 
 `VOL 4: SOUND 1,7,30` Plays an A note, on channel 1, at 50% volume, at a frequency of 110 Hz, for half a second. Substitute `7` with `515` to move up the scale on octave.
 
@@ -624,7 +627,7 @@ This section includes eight additional Commodore Plus/4 programs to try. They ar
 
 ## Section 13: RS-232 Interface
 
-The RS-232 is used to communicate with devices such as printers and modems. Software that use these devices will include BASIC or assembly code to transfer data between the Plus/4 and the device; however, this section includes detailed information to use BASIC programming to access the RS-232 port. For more information on how to use a Commodore Plus/4 with a modern Wi-Fi modern, read my  [Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem](https://www.stevencombs.com/plus4-bbs) post.
+The RS-232 is used to communicate with devices, such as printers and modems. Software that uses these devices will include BASIC or assembly code to transfer data between the Plus/4 and the device; however, this section includes detailed information to use BASIC programming to access the RS-232 port. For more information on how to use a Commodore Plus/4 with a modern Wi-Fi modern, read my [Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem](https://www.stevencombs.com/plus4-bbs) blog post.
 
 ```realbasic
 100 OPEN 5,2,2,CHR$(22)+CHR$(5)
@@ -655,7 +658,7 @@ The RS-232 is used to communicate with devices such as printers and modems. Soft
 
 ## Section 14: Books for Commodore Products
 
-Several books are listed but few of them are Commodore Plus/4 specific. Some are available online by way of a Google search either as a  PDF or in print:
+Several books are listed, but few of them are Commodore Plus/4 specific. Some are available online with a Google search either as a PDF or in print:
 
 
 ### Commodore Books
@@ -697,7 +700,7 @@ Several books are listed but few of them are Commodore Plus/4 specific. Some are
 1. The Encyclopedia is an excellent compliment to the rest of the user's manual.
 2. That concludes my Commodore Plus/4 User's Manual series.
 3. Should I cover the Plus/4 applications? Sound off in the comments below.
-4. I will continue to explore the Commodore Plus/4. Be on the look out for more content about this fascinating and misunderstood Commodore computer.
+4. I will continue to explore the Commodore Plus/4. Be on the lookout for more content about this fascinating and misunderstood Commodore computer.
 
 ## Join the Fun
 
@@ -708,3 +711,64 @@ Help make this content better! Leave your comments and thoughts below or in the 
 Thanks for reading and watching and if you are inclined, please let others know about the blog using the hashtag #retroCombs on your favorite social media platform.
 
 🕹️ retroCombs, OUT!
+
+<!-- 
+
+👍 Please take the time to like, subscribe, and support the channel using the links ↑. Find something useful that provided information or saved you time? Send a {❤THANKS}! You can now become a member, or support me, at ☕ BMAC (https://www.buymeacoffee.com/retroCombs).
+
+Finally! The last part of my Commodore Plus/4 User's Guide series. In this episode, the Encyclopedia and Robin, from 8-Bit Show and Tell makes a cameo to help me out with the TEDMON.
+
+📝Companion blog post with more information and all the links you need at: 
+https://www.stevencombs.com/plus4-encylopedia
+
+Find me online at:
+
+📝 Blog: https://www.stevencombs.com/
+🐦 Twitter: https://www.twitter.com/stevencombs
+📹 YouTube: https://www.youtube.com/stevencombs
+📘 Facebook: https://fb.com/retrocombsfb
+
+Producers:
+- Mislav Krleža
+- Jamie's Hack Shack
+
+Sign up for a C128 (Producer) or MEGA65 (Executive Producer) membership to have your name listed in future videos.
+
+Time Codes:
+
+00:00 Commodore Plus/4 Setup
+00:23 Introduction
+01:40 Video Bumper
+01:50 Loading my Disk Image on the Pi1541
+02:17 Support the Channel
+03:00 Section 1: BASIC Commands Encyclopedia
+05:06 AUTO  (Automatic Line Numbering)
+05:55 DIRECTORY Wildcards
+07:16 MONITOR (Assembly Language)
+08:06 TRAP (TRON, TROFF)
+10:00 Pixel Cursor (PC)
+12:59 Commodore Abbreviations
+15:15 Conversion Programs
+17:01 Error Messages
+18:52 TEDMON Commands
+21:54 Screen Display Codes
+27:02 ASCII and CHR$ Codes
+30:36 Screen and Color Maps
+35:42 Plus/4 Memory Register Map
+38:36 Deriving Mathematical Functions
+39:55 Musical Note Table
+42:08 Programs to Try
+42:35 Line Draw
+43:06 Wolf Whistle
+43:12 Telephone
+43:17 Computer Maniac
+43:51 Busy Signal
+44:01 Bubbles
+44:27 Music Lines
+44:59 RS-232 Interface
+46:51 Books for Commodore Products
+47:36 Conclusion
+48:59 Buy Me A Coffee
+49:26 Watch More retroCombs
+
+-->

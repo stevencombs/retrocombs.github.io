@@ -10,7 +10,7 @@ Followers know I own one of 100 MEGA65 DevKits (#261) to closely follow and enjo
 
 <div class="video-container">
   <video width=500px id="video-bg" autoplay muted loop>
-  <source src="https://mega65.org/assets/video/m65back.mp4" type="video/mp4">
+  <source src="images/mega65/mega65-rotating.mp4" type="video/mp4">
   </video>
 </div>
 
