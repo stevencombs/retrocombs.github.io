@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Commodore Plus/4 User’s Manual - Plus/4 Encyclopedia'
-date: '2022-01-22'
+date: '2022-01-28'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
@@ -16,6 +16,8 @@ tags:
 With the last regular Commodore Plus/4 User's Guide chapters complete, we now focus on the last half of the manual. You read that correctly. Chapters 1 through 8 take the first 100 pages, and the Plus/4 Encyclopedia occupies another 183 pages of the user's manual.
 
 > **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+
+Before the blog post, I must add a HUGE thanks to [Robin](https://twitter.com/8BitShowAndTell) over at [8-Bit Show and Tell](https://www.youtube.com/8BitShowAndTell). He was extremely gracious to collaborate with me. He's a rock star in the retro computing YouTube community and for someone like him to share screen time with me reinforces what a great guy he is. If you are coming over from his channel. WELCOME! I know my content won't live up to Robin's but I hope you will introduce yourself on the YouTube channel or in the comments below and let me know if you find something you like.
 
 **Table of Contents**
 
@@ -98,15 +100,15 @@ For previous chapters, view the [Commodore Plus/4 Resource Page](https://www.ste
 
 ## Companion Video:
 
-Video Title: _‌Commodore Plus/4 User's Manual \| Encyclopedia_
+Video Title: _‌Commodore Plus/4 User's Manual \| The Encyclopedia_
 
 In the video below, I share highlights of the Plus/4 Encyclopedia.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/zWa1s4q4I0s" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Video Errata
 
-None as of 2022-01-22.
+None as of 2022-01-28.
 
 ## Key to Keys
 
@@ -372,7 +374,7 @@ I reached out to Robin, over at [8-Bit Show and Tell](https://www.youtube.com/c/
 
 I once called Robin my 8-Bit guru. I've learned more about retro-computers, primarily Commodore, watching Robin, than any other channel. His videos share interesting information, tips, tricks, and programming strategies. Get your degree in 8-bit computing by watching Robin's channel and get started by watching his TEDMON video below:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/7mtpxmQbs9E" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 If you want to get started in TEDMON, type `MONITOR`. The Plus/4 will immediately enter TEDMON. At first, the screen is intimidating, but even if you don't program in assembly code, there are fun things you can do that I'll share in [Section 9: Plus/4 Memory Register Map](#section-9-plus4-memory-register-map). When finished, type `X` to return to the BASIC prompt.
 
