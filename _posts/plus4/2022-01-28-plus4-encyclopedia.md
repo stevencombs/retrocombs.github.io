@@ -108,7 +108,7 @@ In the video below, I share highlights of the Plus/4 Encyclopedia.
 
 ## Video Errata
 
-None as of 2022-01-28.
+[2022-01-29] In the error message section, I discuss the variables `DS` and `DS$`. While not explicitly stated in the manual, DS stands for disk status.
 
 ## Key to Keys
 
