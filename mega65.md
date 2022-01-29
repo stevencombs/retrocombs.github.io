@@ -40,7 +40,7 @@ Below is a link to each blog post in the series. Most blog posts contain a compa
 *   [MEGA65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA65 project. User highlights include the user's guide, tools, and Xemu (see above).
 *   [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to quite possibly the friendliest community of developers. Think 8-bit BBS level support without the communication lag.
 *   [What are “alternative” MEGA65 cores?](https://sy2002.github.io/m65cores/) - the cores available and indevelopment.
-*   [MEGA 65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals. Embed at the bottom of this page.
+*   [MEGA65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals. Embed at the bottom of this page.
 *   More to come...
 
 Recommend a link. Send your link via email to [retrocombs@icloud.com](mailto:retrocombs@icloud.com?subject=Recommend%20Link).
