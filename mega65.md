@@ -32,15 +32,16 @@ Below is a link to each blog post in the series. Most blog posts contain a compa
 
 ## My Favorite MEGA65 Links
 
-* [MEGA65 Homepage](https://www.mega65.org) - Learn all about the MEGA65 and what makes this retro recreation so special for Commodore computer fans.
-* [MEGA65 YouTube Channel](https://www.youtube.com/channel/UCEz3CQ343r4ssvIdmhDauMQ) - The latest update videos and development streams from the MEGA65 team. MUST WATCH!
-* [MEGA65 filehost](https://files.mega65.org/) - Growing collection of titles and utilities for the MEGA65.
-* [MEGA65 book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d) - The entire reference collection all in a single PDF ready for reading and searching.
-* [Xemu](https://github.lgb.hu/xemu/) - Use this emulator on your Mac, Linux, or Windows PC to run a virtual MEGA65 environment.
-* [MEGA65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA65 project. User highlights include the user's guide, tools, and Xemu (see above).
-* [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to quite possibly the friendliest community of developers. Think 8-bit BBS level support without the communication lag.
-* [MEGA65 Style Guide](https://gist.github.com/Impakt/41b7f2144104dfcd252b051236a3ef4e) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals. Embed at the bottom of this page.
-* More to come...
+*   [MEGA65 Homepage](https://www.mega65.org) - Learn all about the MEGA65 and what makes this retro recreation so special for Commodore computer fans.
+*   [MEGA65 YouTube Channel](https://www.youtube.com/channel/UCEz3CQ343r4ssvIdmhDauMQ) - The latest update videos and development streams from the MEGA65 team. MUST WATCH!
+*   [MEGA65 filehost](https://files.mega65.org/) - Growing collection of titles and utilities for the MEGA65.
+*   [MEGA65 book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d) - The entire reference collection all in a single PDF ready for reading and searching.
+*   [Xemu](https://github.lgb.hu/xemu/) - Use this emulator on your Mac, Linux, or Windows PC to run a virtual MEGA65 environment.
+*   [MEGA65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA65 project. User highlights include the user's guide, tools, and Xemu (see above).
+*   [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to quite possibly the friendliest community of developers. Think 8-bit BBS level support without the communication lag.
+*   [What are “alternative” MEGA65 cores?](https://sy2002.github.io/m65cores/) - the cores available and indevelopment.
+*   [MEGA 65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals. Embed at the bottom of this page.
+*   More to come...
 
 Recommend a link. Send your link via email to [retrocombs@icloud.com](mailto:retrocombs@icloud.com?subject=Recommend%20Link).
 
