@@ -95,7 +95,7 @@ In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/
 
 Below are links I've found to be most beneficial as I work through this series:
 
-1. [Commodore4Ever](https://commodore4ever.net/) - Source for Pi1451. Great customer service and feedback.
+1. ~~Commodore4Ever~~ - Sadly, the doors are closed on this business.
 2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
 3. [RETRO Innovation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
 3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.
