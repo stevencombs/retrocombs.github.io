@@ -114,6 +114,10 @@ In the video below, I share highlights of the Plus/4 Encyclopedia.
 
 > BASIC abbreviations have no rules at least not in a way which many expects :). They are originally not even a designed/intended feature, it's just exploiting a quirk how the tokenizer work and actually was realized later (even by the authors of the ROM!) that they can be used and can be useful. In fact you can use any abbreviation which makes sense and means what you want (the problem when similar names have similar first characters). For example DI+shiftR can be written as DIR+shitE, etc etc.  It cannot be D+shiftI, but only because 'DIM' would match before DIRECTORY :) You can try, if you're not sure about an abbreviation, like writing a tiny BASIC program: 10 DI+shiftM then list it, so you can see what it will mean. This is also a problem, since these abbreviations are not consistent through different Commodore BASICs, as new keywords would match you don't expect from older BASICs. Like P+shiftO means POKE on C64 (V2 basic but also in V3.5) but it's POT on C128 (V7 BASIC), just because the tokenizer found match first with that. Surely you can try to use then PO+shiftK.
 
+[2022-01-30] [3vi1J](https://www.youtube.com/channel/UCuBoBVHYG1F5d2kuQTWsNdw) wanted to take a deeper dive in the `FRE(X)` function. Upon use of the `MONITOR` he found the following:
+
+> I took a peek at the memory map, and BASIC RAM is from $1000-$FD00, which would be 60672 bytes. 60669 is shown as free (Editor's note: at the start screen) because of the three zero bytes basic would contain by default for an empty program (one zero to show the first line is empty, and two zeros that point to the next line and are always zero for the last line).  You got a lower value because the graphics RAM isn't reserved until you executed the commands.  So, it's as I suspected - but it only lowers the available memory after you enter the GRAPHIC mode: <https://i.imgur.com/2fjdYtN.png>
+
 ## Key to Keys
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations, as shown in the table below:
