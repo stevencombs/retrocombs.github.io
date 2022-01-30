@@ -110,6 +110,10 @@ In the video below, I share highlights of the Plus/4 Encyclopedia.
 
 [2022-01-29] In the error message section, I discuss the variables `DS` and `DS$`. While not explicitly stated in the manual, DS stands for disk status.
 
+[2022-01-30] LGB Gábor Lénárt shares in [the video](https://youtu.be/zWa1s4q4I0s) comments useful information regarding Commodore BASIC abbreviations. Check out his comment below:
+
+> BASIC abbreviations have no rules at least not in a way which many expects :). They are originally not even a designed/intended feature, it's just exploiting a quirk how the tokenizer work and actually was realized later (even by the authors of the ROM!) that they can be used and can be useful. In fact you can use any abbreviation which makes sense and means what you want (the problem when similar names have similar first characters). For example DI+shiftR can be written as DIR+shitE, etc etc.  It cannot be D+shiftI, but only because 'DIM' would match before DIRECTORY :) You can try, if you're not sure about an abbreviation, like writing a tiny BASIC program: 10 DI+shiftM then list it, so you can see what it will mean. This is also a problem, since these abbreviations are not consistent through different Commodore BASICs, as new keywords would match you don't expect from older BASICs. Like P+shiftO means POKE on C64 (V2 basic but also in V3.5) but it's POT on C128 (V7 BASIC), just because the tokenizer found match first with that. Surely you can try to use then PO+shiftK.
+
 ## Key to Keys
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations, as shown in the table below:
@@ -478,6 +482,12 @@ To convert the machine code to assembly at a specific location, use the Disassem
 This section explains how to create trigonometry and other mathematical functions when those functions are not available in BASIC. An example is the use of the `COS` function to create a secant function, as shown below:
 
 `SEC(X)=1/COS(X)`
+
+[UPDATE 2022-01-30] in the video, I have an incorrect line of BASIC code to define a function. The code should be:
+
+`10 def fn sec(x)=1/cos(x)`
+
+Thanks to [Corey Minter](https://www.youtube.com/channel/UCuBoBVHYG1F5d2kuQTWsNdw) for the correction!
 
 Once coded in BASIC, you can use these new functions. I discuss functions in [Chapter 5](https://www.stevencombs.com/plus4-6).
 
