@@ -30,6 +30,10 @@ Below is a link to each blog post in the series. Most blog posts contain a compa
 {% endfor %}
 </ul>
 
+## My MEGA65 Video Content
+
+I've created several MEGA65 related videos. Check out my [MEGA65 YouTube channel playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTomsrJnQdqFmoZUdT6qHocpo) to view them all.
+
 ## My Favorite MEGA65 Links
 
 *   [MEGA65 Homepage](https://www.mega65.org) - Learn all about the MEGA65 and what makes this retro recreation so special for Commodore computer fans.
@@ -41,30 +45,6 @@ Below is a link to each blog post in the series. Most blog posts contain a compa
 *   [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to quite possibly the friendliest community of developers. Think 8-bit BBS level support without the communication lag.
 *   [What are “alternative” MEGA65 cores?](https://sy2002.github.io/m65cores/) - the cores available and indevelopment.
 *   [MEGA65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals. Embed at the bottom of this page.
-*   More to come...
+*   [MEGA65 Style Guide](https://gist.github.com/Impakt/41b7f2144104dfcd252b051236a3ef4e.js) - Wondering how to style blog content to meet MEGA65 standards? Check out this page.
 
 Recommend a link. Send your link via email to [retrocombs@icloud.com](mailto:retrocombs@icloud.com?subject=Recommend%20Link).
-
-## Key to Keys
-
-Because the MEGA65 keyboard is so different from modern keyboards, I use the modified "key to keys" nomenclature I developed for my [Commodore Plus/4 series](https://www.stevencombs.com/plus4). Keystroke combinations found in blog posts are shown in the table below:
-
-| Key     | Description   | Key  | Description |
-|:--------|:--------------|:-----|:------------|
-| `⇪`     | Caps Lock     | `F1` | Function 1  |
-| `[M]`  | Mega     | `F2` | Function 2  |
-| `⌃`     | Control       | `F3` | Function 3  |
-| `⎋`     | Escape        | `F4` | Function 4  |
-| `⌂`     | Clear/Home    | `F5` | Function 5  |
-| `⌫`     | Insert Delete | `F6` | Function 6  |
-| `⏎`     | Return        | `F7` | Function 7  |
-| `[R/S]` | Run/Stop      | `F8` | Help        |
-| `⇧`     | Shift         | `␣`  | Space       |
-| `↑`     | Cursor Up     | `↓`  | Cursor Down |
-| `→`     | Cursor Right  | `←`  | Cursor Left |
-
-## MEGA65 Style Guide
-
-Wondering how to style blog content to meet MEGA65 standards? Check out the GIST below by [Impakt](https://gist.github.com/Impakt):
-
-<script src="https://gist.github.com/Impakt/41b7f2144104dfcd252b051236a3ef4e.js"></script>
