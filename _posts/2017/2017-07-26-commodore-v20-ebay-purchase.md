@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RETRO: Commodore VIC-20 eBay purchase'
+title: 'My Commodore VIC-20 eBay purchase'
 date: 'July 26, 2017'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
