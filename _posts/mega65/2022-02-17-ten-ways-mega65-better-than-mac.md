@@ -11,8 +11,6 @@ category: mega65
 
 Full disclosure, I use my [M1 MacBook Pro][1] daily, e.g. this blog post, and wouldn't think about replacing it with any other computer (including the new MacBook Pro). It is the best computer I've ever owned. It's fast, has great battery life, and plows through any task I throw at it. With that confession, this blog post is a fun exercise to keep the nostalgic 1980s rivalry between Commodore and Apple alive.
 
-<!— ☒ -- Vali with Macbook -->
-
 I am not going to ditch my MacBook Pro and start using my [MEGA65 Dev Kit][2] full time; however, there are features of the MEGA65 that are better than a modern MacBook Pro. Many of these features are inherent in the system the MEGA65 is based on, the never released Commodore 65, and other features come from the MEGA65 development team's hardware and software updates. And yes, before I continue, I can create another list where the MacBook Pro excels over the MEGA65, but what's the fun in that comparison?
 
 Before I begin, a quick MEGA65 release update. Several have made comments on past videos asking what happened to the Christmas release of the MEGA65 and questioning availability. First, the MEGA65 is now on track for a Spring, or Easter, release. In the [MEGA65 teams own words][3] from 2021-12-09:
@@ -65,10 +63,10 @@ Thank you to these members for supporting me at [the C128 level](https://www.buy
 
 ## Companion YouTube Video
 
-Title: _‌The MEGA65 vs MacBook Pro | Ten Reasons the MEGA65 is the Winner!
+Title: _‌The MEGA65 vs MacBook Pro \| Ten Reasons the MEGA65 is the Winner!
 _
 
-In the video below, I ...
+In the video below, I share the 10 reasons the MEGA65 is better than my M1 MacBook Pro.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/l6mW_3iQ4mE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
@@ -243,7 +241,7 @@ The MEGA65 includes 7 slots for cores. Cores are now available for the MEGA65, G
 <!-- ☒ ZX Spectrum Core -->
 <!-- ☒ miSTer images -->
 
-> For a list of cores available or in progress, see [What are “alternative” MEGA65 cores? | m65cores](https://sy2002.github.io/m65cores/)
+> For a list of cores available or in progress, see [What are “alternative” MEGA65 cores? \| m65cores](https://sy2002.github.io/m65cores/)
 
 <!-- ☒ Website Image -->
 
