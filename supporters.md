@@ -14,7 +14,7 @@ I have "the best supporters in the world" contributing to this blog and companio
 
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
 - [Mislav Krleža](https://twitter.com/KrlezaMislav)
-- Bobba Fett
+- Boba Fett
 - The Lovely Accountant
 
 ## Members (PET, VIC-20, C64, and Plus/4 Level Members)
