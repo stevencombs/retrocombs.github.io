@@ -1,0 +1,23 @@
+10 rem submarine tracking system
+20 color 0,1 : color 4,1 : color 1,2
+30 graphic 1,1
+40 box 1,0,0,319,199
+50 char 1,7,24,"submarine tracking system"
+60 color 1,3
+70 xr=0 : yr=0
+80 do
+90 circle 1,160,100,xr,yr,0,360,0,2
+100 xr=xr+10 : yr=yr+10
+110 loop until xr=90
+120 do
+130 xr= 0 : yr= 0
+140 do
+150 circle 0,160,100,xr,yr,0,360,0,2
+160 color 1,2
+170 draw 1,160,100+xr : draw 0,160,100+xr
+180 color 1,3
+190 sound 1,16000,15
+200 circle 1,160,100,xr,yr,0,360,0,2
+210 xr=xr+10 : yr=yr+10
+220 loop until xr=90
+230 loop
