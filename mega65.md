@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: 'MEGA65 Resource Page (v.9)'
+title: 'MEGA65 Resource Page (v1.0)'
 permalink: /mega65
 ---
 
@@ -44,6 +44,10 @@ I've created several MEGA65 related videos and the library continues to grow. Ch
 *   [MEGA65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA65 project. User highlights include the user's guide, tools, and Xemu (see above).
 *   [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to the friendliest community of MEGA65 developers and users on Discord. Think 8-bit BBS level support without the communication delay.
 *   [What are “alternative” MEGA65 cores?](https://sy2002.github.io/m65cores/) - the cores available and in development.
+*   [MEGA65.ROM](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c) - The latest `MEGA65.ROM` file.
+*   [Freezer V2](https://github.com/M3wP/MEGA65-Freezer) - Still in development next generation of the Freezer utility for the MEGA65.
+*   [SD Card Essentials](https://files.mega65.org?id=a809e0ae-30ac-42f5-ab9c-766d72fd6331) - All the files an SD Card needs to operate a MEGA65.
 *   [MEGA65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals.
+
 
 Recommend a link. Send your link via email to [retrocombs@icloud.com](mailto:retrocombs@icloud.com?subject=Recommend%20Link).
