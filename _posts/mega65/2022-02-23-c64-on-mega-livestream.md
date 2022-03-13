@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playing the C64 demos from the MEGA65 on boarding SD Card'
+title: 'Part I: Playing the C64 demos from the MEGA65 on boarding SD Card'
 date: 2022-02-23
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
@@ -9,7 +9,7 @@ permalink: c64-on-mega65-livestream
 category: mega65
 ---
 
-This is the companion blog post for my 2022-02-23 live stream edit; _Playing the C64 demos from the MEGA65 on boarding SD Card_. The 25 minute video is an edit of a longer one hour and fifteen minute live stream where I look at the "b-side" of the MEGA65 onboarding SD card that includes a C64 disk image full of games and demos to run on the MEGA65 in Commodore 64 mode. Before the demos, I discuss new books that adorn my retro-library, including one "the Lovely Accountant" gave me as a birthday gift.
+This is the companion blog post for my 2022-02-23 live stream edit; _Part I: Playing the C64 demos from the MEGA65 on boarding SD Card_. The 25 minute video is an edit of a longer one hour and fifteen minute live stream where I look at the "b-side" of the MEGA65 onboarding SD card that includes a C64 disk image full of games and demos to run on the MEGA65 in Commodore 64 mode. Before the demos, I discuss new books that adorn my retro-library, including one "the Lovely Accountant" gave me as a birthday gift.
 
 ----
 
@@ -82,7 +82,7 @@ Not shown in the edit of the live stream, during the full version I unbox a [USB
 
 ## B-Side Commodore C64 Demos and Games
 
-In the full version of the livestream, while loading the demos and games, I share tips and tricks to make the MEGA65 experience better. You can [view that video here](https://www.buymeacoffee.com/retroCombs/e/57346). Below is a list of the demos and games I share and a few thoughts and links.
+In the full version of the livestream, while loading the demos and games, I share tips and tricks to make the MEGA65 experience better. You can [view that video here](https://www.buymeacoffee.com/retroCombs/e/57346). Below is a list of the demos and games I share along with thoughts and links.
 
 **Trap Demo** - As we learned during the live stream, the [Trap demo](https://csdb.dk/release/?id=18000) recreates music from the 1970s [Jeff Wayne's Musical Version of: The War of the Worlds](https://amzn.to/36qCtnH). Scroll to 3:30 on the soundtrack to hear the original music. Sci Fi fans who have not heard this music should take a listen. I found it interesting and oh so cool. It’s a true rock opera for the Sci Fi fan!
 
