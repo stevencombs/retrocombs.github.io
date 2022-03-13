@@ -1,21 +1,20 @@
 10 rem submarine tracking system (mega65 high res)
-20 speed 1:graphic clr:screen 640,400,4
+20 speed 3 : graphic clr : screen 640,400,4
 30 box 0,0,639,388
-40 char 13,382,2,2,2,"{ctrl+b} submarine tracking system ",$29000
-50 pen 2
-60 xr=10
-70 do
-80 circle 160,95,xr
-90 xr=xr+10
-100 loop until xr=90
-110 do
-120 xr=10
-130 do
-140 pen 1:circle 160,95+xr,2,1
-150 pen 0:circle 160,95+xr,2,1
-160 sound 1,16000,15
-170 pen 0:circle 160,95,xr
-180 pen 2:circle 160,95,xr
-190 xr=xr+10
-200 loop until xr=90
-210 loop
+40 char 14,380,2,2,2,"{CTRL+B} submarine tracking system ",$29000
+50 xr=10 : pen 2
+60 do
+70 circle 320,190,xr
+80 xr=xr+20
+90 loop until xr=190 : speed 40 : sleep 2
+100 do
+110 xr=10
+120 do
+130 pen 1:circle 320,190+xr,4,1 : sleep 1
+140 pen 0:circle 320,190+xr,4,1 : sleep 2
+150 sound 1,16000,15
+160 pen 0:circle 320,190,xr
+170 pen 2:circle 320,190,xr
+180 xr=xr+20
+190 loop until xr=190
+200 loop
