@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Part II: Playing the C64 demos from the MEGA65 on boarding SD Card'
-date: 2022-02-23
+date: 2022-03-16
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
@@ -54,11 +54,11 @@ Title: _Part II: Playing the C64 demos from the MEGA65 on boarding SD Card_
 
 In the video below, I work through another half of the C64 disk image included with the MEGA65 onboarding SD card.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/eaYErOyKfww" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Watch the Entire Live Stream
 
-If this edit isn't enough and you want to [watch the entire livestream](link), including additional content and another unboxing, you get it [here](link). For less than a buck, you can support the channel and watch eat entire one hour version. It's fun to see what I have chopped out!
+If this edit isn't enough and you want to [watch the entire livestream](link), including additional content and another unboxing, you get it [here](link). For a buck, you can support the channel and watch the entire one-hour and twenty minute version. It's fun to see what I have chopped out while at the same time laughing along at my errors!
 
 [Become a member](https://www.buymeacoffee.com/retroCombs) using one of my fun Commodore inspired membership levels and you can watch this live stream for free, and without ads, along with other future live streams (either live or on demand afterward). [Check out my membership page](https://www.buymeacoffee.com/retroCombs) to learn how you can get this benefit along with many others, including access to the retroCombs Discord channel.
 
@@ -109,7 +109,7 @@ LOAD Command: `LOAD "SURFING    /2124"`
 
 **Time for Dole** - [Time for Dole by Mechanix (1988)](https://csdb.dk/release/?id=21125) is a flasher with impressive mood music. When I mention flasher, please beware. The screen constantly flashed and could trigger seizure; seriously! While colorful, I found it difficult watch for extended periods of time.
 
-LOAD Command: `TIME 4 DOLE /MEC"`
+LOAD Command: `"TIME 4 DOLE /MEC"`
 
 **Triad** - Beginning with a fun PETSCII "terminal-type" loader, [PC-Pert by Triad (1988)](https://csdb.dk/release/?id=27134) includes three parts (get it, Triad?) you activate by tapping the spacebar. Colorful and full of impressive multi-channel SID music, the demo features large bouncing and scrolling text.
 
@@ -121,7 +121,7 @@ LOAD Command: `LOAD "ANTIC./.TRANSCOM"`
 
 **D.Y.C.P.** - Somebody likes text on curves. [D.Y.C.P. by Jewels (1988)](https://csdb.dk/release/?id=13847) asks you to watch the text float around the screen in a wavy pattern while pondering the question, "what does D.Y.C.P. stand for, anyway?"
 
-LOAD Command: `LOAD "D.Y.C.P/JEWELS"`
+LOAD Command: `LOAD "D.Y.C.P./JEWELS"`
 
 **Greenwars** - As a U.S. Army retiree, this one speak to me. [Greenwars by Science Fiction Crackings and The Last Science (1988)](https://csdb.dk/release/?id=29315) begins with a brief national anthem intro followed by text indicated this demo includes music from the Green Berets. My favorite part is the flashing image of soldiers on patrol.
 
@@ -136,6 +136,8 @@ LOAD Command: `LOAD "STAR RIDERS /I&M"`
 LOAD Command: `LOAD "ELECTRIC CAFE   "`
 
 **That's the Way it is** - As with many demos, [[CSDb] - That's the Way It Is by Scoop (1988)](https://csdb.dk/release/?id=172968) begins with hellos and credits. In this case, massive vertical scrolling text! While the intro itself is impressive, press the spacebar to begin the demo and be treated to a 1980s "space-babe" in a swimsuit, ON THE MOON?!? How is she breathing?
+
+LOAD Command: `LOAD "LINK   "`
 
 **XESS2-Rewind** - A countdown, followed by six low-resolution classic video game screens atop an 8-bit control panel, and patriotic music is what highlights [XESS 2 - Rewind by XESS (1987)](https://csdb.dk/release/?id=11266).
 
