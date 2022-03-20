@@ -60,7 +60,40 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 ## C128 Submarine Tracking System BASIC Program
 
+As a reminder, here's the original C128 Submarine Tracking System from the [C128 Programmer's Reference Manual](https://www.stevencombs.com/images/c128/c128-programmers-reference-guide.pdf). 
+```realbasic
+10 rem submarine tracking system (c128)
+20 color 0,1:color 4,1:color 1,2:graphic 1,1
+30 box 1,0,0,319,199
+40 char 1,7,24,"submarine tracking system"
+50 color 1,3
+60 xr=0:yr=0
+70 do
+80 circle 1,160,100,xr,yr,0,360,0,2
+90 xr=xr+10:yr=yr+10
+100 loop until xr=90
+110 do
+120 xr=0:yr=0
+130 do
+140 circle 0,160,100,xr,yr,0,360,0,2
+150 color 1,2
+160 draw 1,160,100+xr:draw 0,160,100+xr
+170 color 1,3
+180 sound 1,16000,15
+190 circle 1,160,100,xr,yr,0,360,0,2
+200 xr=xr+10:yr=yr+10
+210 loop until xr=90
+220 loop
+```
+**💾 Download:** [`C128 SUB TRACK`](https://www.stevencombs.com/images/c128/c-128-sub-track-sys.txt)
 
+Below is the output:
+
+<div class="video-container">
+  <video width=500px id="video-bg" autoplay loop>
+  <source src="https://www.stevencombs.com/images/c128/c128-sub-track-sys.mp4" type="video/mp4">
+  </video>
+</div>
 
 ## MEGA65 BASIC (not Version 10)
 
