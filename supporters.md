@@ -10,11 +10,15 @@ I have "the best supporters in the world" contributing to this blog and companio
 
 > ![PET Level Membership](https://cdn.buymeacoffee.com/uploads/membership_level/2021/12/AVxnyaAqngdbAZ4HqgSFfHmEtbC3tpeiPDB5cfj5.png@800w_0e.webp)
 
-## Producers (C128 or MEGA65 Level Members)
+
+## Executive Producers (MEGA65-Level Members)
+
+- Boba Fett
+- [Mislav Krleža](https://twitter.com/KrlezaMislav)
+
+## Producers (C128-Level Members)
 
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
-- [Mislav Krleža](https://twitter.com/KrlezaMislav)
-- Boba Fett
 - The Lovely Accountant
 
 ## Members (PET, VIC-20, C64, and Plus/4 Level Members)
@@ -22,6 +26,7 @@ I have "the best supporters in the world" contributing to this blog and companio
 - Michael Whipp (VIC-20)
 - Hauiproductions (VIC-20)
 - [8-Bit Show and Tell (VIC-20)](https://www.youtube.com/c/8BitShowAndTell)
+- Michael Dell (Plus/4)
 
 If you would like your name linked to your site, business, or social media presence, let me know!
 
