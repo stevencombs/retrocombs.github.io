@@ -66,7 +66,7 @@ In the video below, I provide an update to my C128 to MEGA65 Submarine Tracking 
 
 ## Video Errata
 
-None as of 2022-03-28.
+[UPDATE 2022-04-02] Added information about the `DOT` command in the ['LINE' Command](#line-command) section.
 
 ## Links Mentioned in this Episode
 
@@ -188,6 +188,15 @@ Even with the "Combs Flag", the BASIC 65 version is shorter and easier to use th
 ### 'LINE' Command
 
 To draw the submarine blip, the C128 uses the `DRAW` command in line `160`. I have replaced `DRAW` with the BASIC 65 `LINE` command. If you specify a single start coordinate and omit an end coordinate, you get a single point (pixel); like the `DRAW` command. Converting line `160` now produces the same haphazard blip found in the C128 version that sometimes you see and sometimes you don't. I prefer the larger blip and added time to view the blip, but to keep as consistent as possible with the C128 version, "it is what it is!"
+
+[UPDATE: 2022-04-02] The MEGA65 includes the `DOT` command. This command has three flags, x coordinate, y coordinate, and an optional color. Below is a BASIC program that places a single red dot on a black background at coordinates 50, 50:
+
+```
+10 SCREEN 320,200,4
+20 DOT 50,50,2
+30 GETKEY A$
+40 SCREEN CLOSE
+```
 
 ## Final Conversion
 

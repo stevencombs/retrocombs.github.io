@@ -46,7 +46,8 @@ None as of 2022-03-31.
 
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel by starting your purchases here!
 
-1. [Item](link)
+1. [MEGA65 Computer](https://www.mega65.org)
+2. 
 
 ## `TURBO` and `INFO` Commands
 
@@ -63,7 +64,7 @@ BANK4 --------   STRINGS:    0 / 54980
 BANK5 --------   ARRAYS :    0 / 54980
 ```
 
-`TURBO` | And we thought 40 MHz was fast. Now you can use the `TURBO` command to bump up the MEGA65 from 40 to 80 MHz! See this thread on [Discord](https://discord.com/channels/719326990221574164/945249748489740298/959210564909948959) and happy belated April Fool’s Day.
+And we thought 40 MHz was fast. Now you can use the `TURBO` command to bump up the MEGA65 from 40 to 80 MHz! Give it a try and then see this thread on [Discord](https://discord.com/channels/719326990221574164/945249748489740298/959210564909948959). Happy belated April Fool’s Day.
 
 ## Keyboard Layout
 
@@ -75,14 +76,14 @@ The first thing you will notice, if you are new to Commodore computers, is the l
 
 ## Command Keys
 
-There are many command keys you must master to operate your MEGA65. Many of these will be familiar to modern users. Others will be new. Users with Commodore computer experience will feel right at home and enjoy the new keys and features the MEGA65 brings to the reto-computing experience. We will start with the most basic of command keys, RETURN.
+There are many command keys you must master to operate your MEGA65. Many of these will be familiar to modern users. Others will be new. Users with Commodore computer experience will feel right at home and enjoy the new keys and features the MEGA65 brings to the retro-computing experience. We will start with the most basic of command keys, RETURN.
 
 ### Return
 
-In the words of Jim Butterfiled from his Commodore 64 user’s video, the RETURN tells the computer to do this thing. That can mean many things on the MEGA65 such as:
+In the words of Jim Butterfield from his Commodore 64 user’s video, the RETURN tells the computer to do this thing. That can mean many things on the MEGA65 such as:
 
 1. Save a BASIC program line into the MEGA65’s memory.
-2. Activate an immiedate mode command.
+2. Activate an immediate mode command.
 3. Display errors for incorrect syntax.
 4. Input program data.
 5. Accept default data at the request of a program.
@@ -104,33 +105,23 @@ The MEGA65 includes a SHIFT LOCK key that includes an LED and a detent switch. P
 
 ### CAPS LOCK
 
-This key is similar to the SHIFT LOCK but does not includea an LED and works with alpha keys to produce capital letters.
+This key is similar to the SHIFT LOCK but does not include an LED and works with alpha keys to produce capital letters.
 
 CAPS LOCK on the MEGA65 has a super power. Press and hold the CAPS LOCK to force the processor to run at 40.5 MHz. This is handy when you need to speed up the operation of a BASIC program temporarily or speed load a program from a disk image.
 
-### MEGA
-
-The MEGA key is a modifier key. These keystrokes are called *MEGA Codes*. Holding the MEGA key and tapping a key with two front graphics or a single graphic symbol will produce the left graphic or single symbol.
-
-Holding the MEGA key and tapping a number switches the color to the second color range listed on the key.
-
-Holding the MEGA key and tapping TAB activates the Matric Mode Debugger.
-
-Holding the MEGA key while turning on or resetting the MEGA65 will boot to Commodore 64 mode.
-
 ### Alt
 
-The ALT key is a modifier key that software develpers use to add functionality to their software. 
+The ALT key is a modifier key that software developers use to add functionality to their software. 
 
 Press and hold ALT while booting the MEGA65 to enter the *MEGA65 Configuration Utility* as shown in the image below:
 
-![MEGA65 Configuration Utility](https://www.stevencombs.com/images/mega65/config-screen-input.jpg)
+![MEGA65 Configuration Utility](https://www.stevencombs.com/images/mega65/utility-menu.jpg)
 
 This key is not available in Commodore 64 mode.  
 
 ### RUN/STOP
 
-Tap the RUN/STOP key to exit the excution of a BASIC program. This key rarely works with assembly language code and this key can be disabled by software.
+Tap the RUN/STOP key to exit a running BASIC program. This key rarely works with assembly language code and this key can be disabled by software.
 
 SHIFT + RUN/STOP will load the first program found on a floppy disk or attached disk image.
 
@@ -140,58 +131,104 @@ Press and hold RUN/STOP while resetting the MEGA65 will enter the *Machine Code 
 
 You can press and hold RUN/STOP (listed previously) and then tap RESTORE to restore the computer to a “clean state” without clearing the contents of memory. Programs can disable this feature and it rarely works with assembly language programs.
 
-RESTORE is used regulary to access the Freezer. Press and hold RESTORE button for about a second and release when the screen border flickers. The Freezer will display as shown in the image below.
+RESTORE is used regularly to access the Freezer. Press and hold RESTORE button for about a second and release when the screen border flickers. The Freezer will display as shown in the image below.
 
 ![The Freezer](https://www.stevencombs.com/images/mega65/freezer-menu.jpg)
 
 ### Cursor Keys
 
-
+Located on the bottom right-hand side of the keyboard, unlike the Commodore VIC-20 and C64, but like the Plus/4 and C128, there are four cursor keys. The cursor keys move the cursor in the direction they point; either ↑, ↓, ←, or →. If your muscle memory is stuck on a two cursor configuration, you can use SHIFT + ↓ to move the cursor up and SHIFT + → to move the cursor left. Holding down these keys (including the SHIFT combinations) will move the cursor until you stop pressing them.
 
 ### Arrow Keys
 
+The MEGA65 keyboard includes two arrow keys; ↑ (next to RESTORE) and ← (next to 1. To distinguish them, I will use [↑] and [←].
 
+Use [↑] to raise a number to a power. For instance, the immediate command: `PRINT 2[↑]3` will display the number `8`.
 
-### INS/DEL
+Use [←] as a shortcut to `SAVE` a program to disk or disk image. Below is an example:
 
+`[←] "SUB TRACK SYS` NOTE: A closing quotation is not a requirement.
 
+Later I will show how to use these keys as part of *Escape Codes*.
 
-### CLR/Home
+### INST/DEL
 
+Press INST/DEL to delete a character to the left of the cursor and move all remaining characters on the line to the left one position.
 
+Press SHIFT + INST/DEL to move all characters to the right one position leaving a blank space, as needed, or to insert another character.
+
+Holding either key combination will continue to insert and delete until you stop pressing them.
+
+### CLR/HOME
+
+Press CLR/HOME to place the cursor at the top left-hand position on the MEGA65 screen.
+
+Press SHIFT + CLR/HOME to clear the entire screen and place the cursor at the top left-hand position on the MEGA65 screen.
 
 ### NO SCROLL
 
 When you `LIST` a program, press NO SCROLL, to pause the listing. Press NO SCROLL again to resume the listing.
 
-## Function/Help (F15/16) Keys
+## Function/HELP (F15/16) Keys
+
+Software developers can program function keys; however, many have native functions as shown in the table below. Hold SHIFT and press a function key to activate the secondary, or even number, function key.
 
 | Key | Function |
 |:--|:--|
-| F1 | |
-| F2 | |
-| F3 | |
-| F4 | |
-| F5 | |
-| F6 | |
-| F7 | |
-| F8 | |
-| F9 | |
-| F10 | |
-| F11 | |
-| F12 | |
-| F13 | |
-| F14 | |
-| HELP/F15 | |
-| HELP/F16 | |
+| F1 | Toggle between 40 and 80 column mode. |
+| F2 | No Function. |
+| F3 | List the Directory of a disk or disk image. |
+| F4 | List the .PRG files on a disk or disk image. |
+| F5 | Moves the cursor back one word. |
+| F6 | Displays `KEY 6` on the screen. |
+| F7 | Moves the cursor forward one word. |
+| F8 | Enters the machine language monitor. Press `X` to exit. |
+| F9 |  |
+| F10 |  |
+| F11 |  |
+| F12 |  |
+| F13 |  |
+| F14 |  |
+| HELP/F15 |  |
+| HELP/F16 |  |
 
 ### CTRL
 
-These keystrokes are called *Control Codes*.
+The CTRL key is a modifier key. These keystrokes are called *Control Codes*. Holding the CTRL key and tapping a key in the table below will produce the result in the list:
 
 | CTRL | Function |
 |:--|:--|
-| A | |
+| 1 | Color Black |
+| 2 | Color White |
+| 3 | Color Red |
+| 4 | Color Cyan |
+| 5 | Color Purple |
+| 6 | Color Green |
+| 7 | Color Blue |
+| 8 | Color Yellow |
+| A |  |
+| G | Ring the bell. |
+
+### MEGA
+
+The MEGA key is a modifier key. These keystrokes are called *MEGA Codes*. Holding the MEGA key and tapping a key with two front graphics or a single graphic symbol will produce the left graphic or single symbol.
+
+Holding the MEGA key and tapping a number switches the color to the second color range listed on the key.
+
+Holding the MEGA key and tapping TAB activates the Matrix Mode Debugger.
+
+Holding the MEGA key while turning on or resetting the MEGA65 will boot to Commodore 64 mode.
+
+| MEGA | Function |
+|:--|:--|
+| 1 | Color Orange |
+| 2 | Color Brown |
+| 3 | Color Light Red |
+| 4 | Color Dark Gray |
+| 5 | Color Medium Gray |
+| 6 | Color Light Green |
+| 7 | Color Light Blue |
+| 8 | Color Light Gray |
 
 ## ESC Codes
 
@@ -200,19 +237,21 @@ Tap ESC and then tap the character. Do not hold down ESC. These keystrokes are c
 | ESC | Function |
 |:--|:--|
 | **@** | Erase to end of screen |
+| **4** | Clears screen and switches to 40 column mode |
+| **8** | Clears screen and switches to 80 column mode |
 | **A** | Auto insert |
 | **B** | Set bottom-right screen margin |
 | **C** | Cancel auto insert |
 | **D** | Delete line |
 | **E** | Select non-flashing cursor |
 | **F** | Flashing cursor |
-| **G** | Enable bell |
-| **H** | Disable bell |
+| **G** | Enable bell with CTRL + G |
+| **H** | Disable bell with CTRL + G |
 | **I** | Insert line |
 | **J** | Move to start of line |
 | **K** | Move to end of line |
 | **L** | Enable scrolling |
-| **M** | Disable scrolling |
+| **M** | Disable scrolling and loops cursor to top of screen |
 | **N** | Normal (un-reversed) screen |
 | **O** | Cancel insert, quote, rvs, ul & flash modes |
 | **P** | Erase to beginning of line |
@@ -229,9 +268,10 @@ Tap ESC and then tap the character. Do not hold down ESC. These keystrokes are c
 | **\[** | Set monochrome display (disable attributes) |
 | **\\** | Cancel insert, quote, rvs, ul & flash modes |
 | **\]** | Set color display (enable attributes) |
+| **‌[↑]** | Save current cursor position |
+| **‌[←]** | Restore saved cursor position |
 | **^** | Save current cursor position |
 | **_** | Restore saved cursor position |
-
 
 ## Join the Fun
 

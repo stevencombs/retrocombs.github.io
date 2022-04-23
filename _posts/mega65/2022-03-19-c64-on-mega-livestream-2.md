@@ -9,7 +9,7 @@ permalink: c64-on-mega65-livestream2
 category: mega65
 ---
 
-This is the companion blog post for my 2022-03-13 live stream edit; _Part II: Playing the C64 demos from the MEGA65 on boarding SD Card_. This ___ minute video is an edit of a longer one hour and thirty-five minute live stream where I continue my look at the "b-side" of the MEGA65 onboarding SD card that includes a C64 disk image full of games and demos to run on the MEGA65 in Commodore 64 mode. Before the demos, I share a couple of recent retro-related purchases, or RRRPs, or triple R P!
+This is the companion blog post for my 2022-03-13 live stream edit; _Part II: Playing the C64 demos from the MEGA65 on boarding SD Card_. This 29 minute video is an edit of a longer one hour and thirty-five minute live stream where I continue my look at the "b-side" of the MEGA65 onboarding SD card that includes a C64 disk image full of games and demos to run on the MEGA65 in Commodore 64 mode. Before the demos, I share a couple of recent retro-related purchases, or RRRPs, or triple R P!
 
 If you need to get caught up, be sure and check out part one. Here are the details:
 
@@ -170,7 +170,7 @@ LOAD Command: `LOAD "AIRWOLF MUSIC"`
 
 We have another round of demos to go and I'll cover those during another live stream; or Part III. Subscribe to both the blog and the [YouTube channel](https://www.youtube.com/stevencombs) (and hit that alert button) to receive updates.
 
-The C64 disk image is a nice addition to the MEGA65. It is my understanding that they prepared the SD Cards for the spring release of the MEGA65. It is unlikely any of the titles will change, but what's included is a nice way to highlight C64 mode. There are many more demos that I didn't have time to view and I am considering a part II. If you have interest, leave your comments below or under the video.
+The C64 disk image is a nice addition to the MEGA65. It is my understanding that they prepared the SD Cards for the spring release of the MEGA65. It is unlikely any of the titles will change, but what's included is a nice way to highlight C64 mode. There are many more demos that I didn't have time to view and there will be a part III. If you have interest, leave your comments below or under the video.
 
 ## Join the Fun
 
