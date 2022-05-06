@@ -273,6 +273,11 @@ Tap ESC and then tap the character. Do not hold down ESC. These keystrokes are c
 | **^** | Save current cursor position |
 | **_** | Restore saved cursor position |
 
+## Booting Cores
+
+Directly booting into a a slot of your choice:
+Hold down NO SCROLL and the number key of the Slot you want to boot and then power on your MEGA65.
+
 ## Join the Fun
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
