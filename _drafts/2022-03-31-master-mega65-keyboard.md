@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Mastering the MEGA65 Keyboard'
+title: 'Master the MEGA65 Keyboard'
 date: 2022-03-31
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
-permalink: mega65-keyboard
+permalink: master-mega65-keyboard
 category: mega65
 ---
 
@@ -30,6 +30,7 @@ Thank you to these members for supporting me at [the C128 level](https://www.buy
 ### Executive Producers
 - Boba Fett
 - [Mislav Krleža](https://twitter.com/KrlezaMislav)
+- [mindrail](https://twitter.com/mindrail) <font color="blue">**!!NEW!!**</font>
 
 ### Producers
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
@@ -89,11 +90,11 @@ There are several command keys on the MEGA65. Many of these will be familiar and
 
 ### Return
 
-In the words of Jim Butterfield from his Commodore 64 user’s video, the RETURN tells the computer to do this thing. That can mean many things on the MEGA65 such as:
+In the words of Jim Butterfield from his [Commodore 64 Training Video](https://youtu.be/J9WnHuGjZ38?t=859), the RETURN tells the computer to "DO IT." That can mean many things on the MEGA65 such as:
 
 1. Save a BASIC program line into memory.
 2. Activate an immediate mode command.
-3. Display errors for incorrect syntax.
+3. Display incorrect syntax error messages.
 4. Accept program data input.
 5. Accept program default data.
 5. Produce a carriage return.
@@ -165,11 +166,11 @@ The CTRL key is a modifier key. These keystrokes are called *Control Codes*. Hol
 | Z | Cursor left one tab stop |
 | ] | Same function as → |
 | [ | Same as ESC |
-| * | Load the Matrix Mode Cebugger |
+| * | Load the Matrix Mode Debugger |
 
 ### About MEGA65 Colors
 
-While it doesn't seem related to becoming a keyboard ninja on the MEGA65, I'm going to take a quick sidebar and share the colors, and their index code, available on the MEGA65 in BASIC mode in the table below. The color names of numbers 16 through 31 were generated from the MEGA65 community. I was happy my choice for 31, Hot Tamales and after the candy, was selected.
+While it not related to becoming a keyboard ninja on the MEGA65, I'm going to take a quick sidebar and share the colors, and their index code, available on the MEGA65 in BASIC mode in the table below. The color names of numbers 16 through 31 were generated from the MEGA65 community. I was happy my choice for 31, Hot Tamales and after the candy, was selected.
 
 | **INDEX** | **COLOR** |
 |:--|:--|
@@ -206,7 +207,9 @@ While it doesn't seem related to becoming a keyboard ninja on the MEGA65, I'm go
 | 30 | Bubblegum |
 | 31 | Hot Tamales |
 
-This was just another the way the developers could engage the community and allow them to be a part of the development.
+This was another the way the developers could engage the community and allow them to be a part of the development.
+
+I've created a program to display all the colors on your MEGA65. The link to that program is below.
 
 ### MEGA
 
@@ -231,13 +234,17 @@ Holding the MEGA key and tapping a number switches the color to the second color
 | 7 | Color Light Blue |
 | 8 | Color Light Gray |
 
-Holding the MEGA key and tapping TAB activates the Matrix Mode Debugger.
+Holding the MEGA key and tapping TAB activates the Matrix Mode Debugger. 
+
+> **TIP:** While I don't cover the functions available in the Matrix Mode Debugger, one handy tip is that this is a quick way to know which core is in use.
 
 Holding the MEGA key while turning on or resetting the MEGA65 will boot to Commodore 64 mode.
 
 ### Lowercase Mode Characters
 
-If you look the right of your keyboard, there are keys…
+If you look the right of your keycaps, there are keys…
+
+<!-- FINISH THIS SECTION -->
 
 ### RUN/STOP
 
