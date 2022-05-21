@@ -67,7 +67,7 @@ Below is a link to each blog post in the series. Each blog post contains the com
 
 As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image that below contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
 
-[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-02-13
+[retroCombs User's Manual Disk Image](commodore-disk-images/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-02-13
 
 I use the following file name convention to make it easy to locate specific programs:
 

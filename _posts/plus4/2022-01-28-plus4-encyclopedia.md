@@ -81,7 +81,7 @@ This blog post and companion video is part of my larger Commodore Plus/4 series.
 
 As I progress through the user's manual, I enter and execute sample programs. The link below is to a `.D81` image that contains every program from each episode.
 
-[retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81)
+[retroCombs User's Manual Disk Image](commodore-disk-images/plus4-users-manual.d81)
 
 I use the following file name convention to make it easy to locate specific programs:
 
@@ -148,7 +148,7 @@ The first half of the Commodore Plus/4 User's Manual contains chapters one throu
 
 The Encyclopedia includes a mix of beginner and advanced topics. The most useful section for the beginner, and the longest section in the user's manual, is *Section 1: BASIC 3.5 Encyclopedia*. If you are new to Commodore BASIC or want to understand the upgraded commands that come with BASIC 3.5, review this section.
 
-*Section 12: Programs to Try* includes BASIC code that explores concepts found in past chapters. I include them all on the [retroCombs User's Manual Disk Image](/plus4/plus4-users-manual.d81).
+*Section 12: Programs to Try* includes BASIC code that explores concepts found in past chapters. I include them all on the [retroCombs User's Manual Disk Image](commodore-disk-images/plus4-users-manual.d81).
 
 ## Section 1: BASIC 3.5 Encyclopedia
 

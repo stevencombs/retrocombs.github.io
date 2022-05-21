@@ -207,19 +207,31 @@ While it not related to becoming a keyboard ninja on the MEGA65, I'm going to ta
 | 30 | Bubblegum |
 | 31 | Hot Tamales |
 
-This was another the way the developers could engage the community and allow them to be a part of the development.
+This was another the way the developers could engage the community and allow them to be a part of the development. 
 
-I've created a program to display all the colors on your MEGA65. The link to that program is below.
+I've created a program to display all the colors on your MEGA65. The output of that program is below:
+
+![MEGA65 Colors](https://www.stevencombs.com/images/mega65/mega65-colors.png)
+
+If you'd like the program that includes a fun sound effect as the MEGA65 displays the colors, download the disk image below:
+
+[Download MEGA65 Colors Disk Image](https://www.stevencombs.com/commodore-disk-images/plus4-users-manual.d81).
+
+**💾 On Disk:** `M65 COLORS`
+
+Next we will use the MEGA key to access the several of the extended color keys.
 
 ### MEGA
 
-If the MEGA key shape is familiar, I'll explain that familiarity.
+If the MEGA key shape is familiar, see the image below and it will all make sense.
 
-<!-- Add MEGA logo info here. -->
+![Commodore to MEGA65 Logoe](https://www.stevencombs.com/images/mega65/commodore-to-mega65-logo.png)
 
-Holding SHIFT and tapping the MEGA key switches between lower and uppercase character modes.
+Now that we know where the symbol comes from, let's find out how to use it.
 
 The MEGA key is a modifier key. These keystrokes are called *MEGA Codes*. Holding the MEGA key and tapping a key with two front graphics or a single graphic symbol will produce the left graphic or single symbol.
+
+Holding SHIFT and tapping the MEGA key switches between lower and uppercase character modes.
 
 Holding the MEGA key and tapping a number switches the color to the second color range listed on the key as shown in the table below:
 
