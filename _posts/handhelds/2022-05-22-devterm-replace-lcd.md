@@ -13,7 +13,7 @@ In a previous Clockwork Pi DevTerm assembly video, I my LCD panel was broken and
 
 The video below is a 27 minute edit of the longer one hour and thirteen minutes livestream. 
 
-[**WATCH THE FULL LIVESTREAM!**](https://www.buymeacoffee.com/retroCombs/e/72266)
+[WATCH THE FULL LIVESTREAM!](https://www.buymeacoffee.com/retroCombs/e/72266)
 
 ![Clockwork Pi DevTerm](https://static.wixstatic.com/media/3833f7_78ede19cf07549989bd0b0835dd1b94d~mv2.png/v1/fill/w_1657,h_1000,al_c,enc_auto/DevTerm_fig01.png)
 <center><font size=2>Image courtesy of Clockwork Pi, <https://www.clockworkpi.com></font></center>
@@ -52,7 +52,7 @@ None as of 2022-05-22.
 
 After I install the replacement LCD panel, I compare the DevTerm to a TRS-80 Model 100. I don't show how to install the software (a later video), but I demonstrate the [VirtualT TRS-80 Model 100 emulator optimized for the DevTerm](https://forum.clockworkpi.com/t/virtualt-tandy-trs-80-model-100-emulator-for-devterm-a06-a04/8296).
 
-![TRS-80 Model 100](https://upload.wikimedia.org/wikipedia/commons/e/e9/Radio_Shack_TRS-80_Model_100.jpg)\
+![TRS-80 Model 100](https://upload.wikimedia.org/wikipedia/commons/e/e9/Radio_Shack_TRS-80_Model_100.jpg)
 <center><font size=2> By NapoliRoma - Own work, Public Domain, <https://commons.wikimedia.org/w/index.php?curid=3378530> </font></center>
 
 The emulator has a few quirks, but it's good! More on this emulator in the future.
