@@ -46,7 +46,7 @@ In the video below, I ...
 
 ## Video Errata
 
-None as of 2022-03-31.
+None as of 2022-05-21.
 
 ## Links Mentioned in this Episode
 
@@ -55,9 +55,9 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 1. [MEGA65 Computer](https://www.mega65.org)
 2. [MEGA65 Book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d)
 
-## `TURBO` and `INFO` Commands
+## `INFO` Command
 
-Before we master the keyboard, here's a tip. There are two commands users will find interesting.
+Before we master the keyboard, here's a tip. There's a command users will find useful:
 
 `INFO` | This command presents the following results:
 
@@ -65,18 +65,16 @@ Before we master the keyboard, here's a tip. There are two commands users will f
 INFO:         DATA BYTES  USED /  FREE
 --------------------------------------
 ROM-V   920333   PROGRAM:    0 / 55037
-SPEED   80 MHZ   SCALARS:    8 /  1464
+SPEED   40 MHZ   SCALARS:    8 /  1464
 BANK4 --------   STRINGS:    0 / 54980
 BANK5 --------   ARRAYS :    0 / 54980
 ```
 
-And we thought 40 MHz was fast. Now you can use the `TURBO` command to bump up the MEGA65 from 40 to 80 MHz! Give it a try and then see this thread on [Discord](https://discord.com/channels/719326990221574164/945249748489740298/959210564909948959). 
-
-Oh, that last one was the MEGA65's 2022 April Fool’s Day Easter egg.
+This is handy when you need quick info on these settings.
 
 ## Keyboard Layout
 
-The layout of the key on the MEGA65 keyboard is true to the layout found on the proposed Commodore 65 and therefore is a natural evolution of the keyboards around on the PET, VIC-20, C64, Plus/4, and C128. It includes popular keys in familiar locations found on these previous computers along with additional keys that functionality to both the MEGA65 hardware and software. Below is an image of the keyboard layout.
+The layout of the keys on the MEGA65 keyboard is true to the layout found on the proposed Commodore 65 and therefore is a natural evolution of the keyboards around on the PET, VIC-20, C64, Plus/4, and C128. It includes popular keys in familiar locations found on these previous computers along with additional keys that functionality to both the MEGA65 hardware and software. Below is an image of the keyboard layout.
 
 ![MEGA65 Keyboard Layout](link)
 
@@ -115,9 +113,9 @@ The MEGA65 includes a SHIFT LOCK key with an embedded LED and locking switch. Pr
 
 ### CAPS LOCK
 
-This key is similar to the SHIFT LOCK but does not include an LED and works with alpha keys to produce capital letters.
+This key is similar to the SHIFT LOCK works with alpha keys to produce capital letters.
 
-CAPS LOCK on the MEGA65 has a super power. Press and hold the CAPS LOCK to force the processor to run at 40.5 MHz. This is handy when you need to speed up the operation of a BASIC program temporarily or speed load a program from a disk image.
+CAPS LOCK on the MEGA65 has a super power. Press and hold the CAPS LOCK to force the processor to run at 40 MHz. This is handy when you need to speed up the operation of a BASIC program temporarily or speed load a program from a disk image.
 
 ### ALT
 
@@ -215,7 +213,7 @@ I've created a program to display all the colors on your MEGA65. The output of t
 
 If you'd like the program that includes a fun sound effect as the MEGA65 displays the colors, download the disk image below:
 
-[Download MEGA65 Colors Disk Image](https://www.stevencombs.com/commodore-disk-images/plus4-users-manual.d81).
+[Download the MEGA65 Colors BASIC program from the MEGA65 FileHost](https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b).
 
 **💾 On Disk:** `M65 COLORS`
 
@@ -225,7 +223,7 @@ Next we will use the MEGA key to access the several of the extended color keys.
 
 If the MEGA key shape is familiar, see the image below and it will all make sense.
 
-![Commodore to MEGA65 Logoe](https://www.stevencombs.com/images/mega65/commodore-to-mega65-logo.png)
+![Commodore to MEGA65 Logo](https://www.stevencombs.com/images/mega65/commodore-to-mega65-logo.png)
 
 Now that we know where the symbol comes from, let's find out how to use it.
 
