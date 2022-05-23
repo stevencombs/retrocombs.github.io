@@ -272,6 +272,8 @@ RESTORE is used regularly to access the Freezer. Press and hold RESTORE button f
 
 ![The Freezer](https://www.stevencombs.com/images/mega65/freezer-menu.jpg)
 
+<!-- ADD LINK TO FREEZER USE VIDEO -->
+
 ### Cursor Keys
 
 Located on the bottom right-hand side of the keyboard, unlike the Commodore VIC-20 and C64, but like the Plus/4 and C128, there are four cursor keys. The cursor keys move the cursor in the direction they point; either ↑, ↓, ←, or →. 
@@ -353,11 +355,9 @@ Tap ESC and then tap the character. Do not hold down ESC. These keystrokes are c
 | K | Move to end of line |
 | L | Enable scrolling |
 | M | Disable scrolling and loops cursor to top of screen |
-| N | Normal (un-reversed) screen |
 | O | Cancel insert, quote, rvs, ul & flash modes |
 | P | Erase to beginning of line |
 | Q | Erase to end of line |
-| R | Reverse screen |
 | S | Switches the VIC-IV to color range 16-31 |
 | T | Set top-left screen margin |
 | U | Switches the VIC-IV to default color range 0-15 |
