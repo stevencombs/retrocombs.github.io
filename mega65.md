@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: 'MEGA65 Resource Page (v1.0)'
+title: 'MEGA65 Resource Page (v1.1)'
 permalink: /mega65
 ---
 
@@ -29,6 +29,13 @@ Below is a link to each blog post in the series. Blog posts may contain a compan
     <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li><div> {{ post.excerpt }} </div>
 {% endfor %}
 </ul>
+
+## My MEGA65 BASIC Programs
+
+The memories of programming my VIC-20 and C128 are alive as I explore BASIC 65 on the MEGA65 and the creation of my own BASIC programs. Below is a link to my BASIC program creations:
+
+1. [MEGA65 Color Palette](https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b) - Short program, with sound effect, that displays the standard and extended color palette of the MEGA65.
+2. [Submarine Tracking Program](https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270) - This program is a recreation of the [submarine tracking program](https://www.stevencombs.com/basic65-sub-track-update) found in the Commodore 128 Programmer's Reference Guide. More information is [here](https://www.stevencombs.com/sub-track-sys) and [here](https://www.stevencombs.com/basic65-sub-track-update).
 
 ## My MEGA65 Video Content
 

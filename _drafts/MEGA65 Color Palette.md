@@ -1,0 +1,37 @@
+MEGA65 Color Palette
+
+// Original C64 palette
+00 00 00        #000000        BLACK (0)
+15 15 15        #FFFFFF        WHITE (1)
+15 00 00        #880000        RED (2)
+00 15 15        #AAFFEE        CYAN (3
+15 00 15        #CC44CC        PURPLE (4)
+00 15 00        #00CC55        GREEN (5)
+00 00 15        #0000AA        BLUE (6)
+15 15 00        #EEEE77        YELLOW (7)
+15 06 00        #DD8855        ORANGE (8)
+10 04 00        #664400        BROWN (9)
+15 07 07        #FF7777        PINK (10)
+05 05 05        #333333        DARK GREY (11)
+08 08 08        #777777        GREY (12)
+09 15 09        #AAFF66        LIGHT GREEN (13)
+09 09 15        #0088FF        LIGHT BLUE (14)
+11 11 11        #BBBBBB        LIGHT GREY (15)
+
+// Enhanced MEGA65 palette
+#EE0000        GURU MEDITATION (16)
+#FF5500        RAMBUTAN (17)
+#FFBB00        CARROR (18) 
+#EEEE00        LEMON TART (19) 
+#77FF00        PANDAN (20) 
+#66EE66        SEASICK (21)
+#00EE33        SOYLENT GREENT (22)
+#00FF99        SLIMER GREEN (23) 
+#00DDDD        THE OTHER CYAN (24)
+#0099FF        SEA SKY (25) 
+#0033FF        SMURF BLUE (26) 
+#0000EE        SCREEN OF DEATH (27) 
+#7700FF        LUM SAUCE (28)
+#CC00FF        SOUR GRAPE (29)
+#FF00BB        BUBBLEGUM (30)
+#FF3366        HOT TAMALES (31)
