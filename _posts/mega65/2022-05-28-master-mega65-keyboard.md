@@ -36,7 +36,6 @@ While you might think advanced keyboard combinations started with the MEGA65, ma
   - [CTRL](#ctrl)
   - [About MEGA65 Colors](#about-mega65-colors)
   - [MEGA](#mega)
-  - [Lowercase Mode Characters](#lowercase-mode-characters)
   - [RUN/STOP](#runstop)
   - [RESTORE](#restore)
   - [Cursor Keys](#cursor-keys)
@@ -79,7 +78,7 @@ In the video below, I cover all aspects of the MEGA65 keyboard.
 
 ## Video Errata
 
-[UPDATE: 2022-05-28] I mention that the HELP function key doesn't do anything and that's not accurate. If you run into a syntax error when you run a BASIC program, press the HELP key and the BASIC 65 will display the first line of code with the error.
+[UPDATE: 2022-05-28] I mention that the HELP function key doesn't do anything and that's not accurate. If you run into a syntax error when you run a BASIC program, press the HELP key and the BASIC 65 will display the first line of code with the error. The `HELP` command serves the same function.
 
 [UPDATE: 2022-05-28] Carsten Lervad shares the following about the "bell ringing" routine:
 
@@ -291,12 +290,6 @@ Holding the MEGA key and tapping the TAB key activates the Matrix Mode Debugger.
 
 Holding the MEGA key while turning on or resetting the MEGA65 will boot to Commodore 64 mode.
 
-### Lowercase Mode Characters
-
-If you look to the right of your key caps, there are keys…
-
-<!-- FINISH THIS SECTION -->
-
 ### RUN/STOP
 
 Tap the RUN/STOP key to exit a running BASIC program. This key rarely works with assembly language code and software can disable the key.
@@ -369,8 +362,10 @@ Software developers can program function keys; however, many have native functio
 | F12 | Displays `KEY12` on the screen |
 | F13 | Delete character in front of cursor |
 | F14 | Insert character in front of cursor |
-| HELP/F15 | Enters `HELP` command that is not yet available |
-| HELP/F16 | Enters `HELP` command that is not yet available |
+| HELP/F15 | Enters `HELP` command |
+| HELP/F16 | Enters `HELP` command |
+
+About the HELP key; if you run into a syntax error when you run a BASIC program, press the HELP key and the BASIC 65 will display the first line of code with the error.
 
 ## ESC Codes
 
