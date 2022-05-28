@@ -11,7 +11,7 @@ category: handhelds
 
 In a previous Clockwork Pi DevTerm assembly video, I my LCD panel was broken and I had to hack the panel in order to get it working; however, Clockwork was quick to send out a replacement and during a 2022-05-01 livestream, I replaced my hacked up LCD screen with the new one.
 
-The video below is a 27 minute edit of the longer one hour and thirteen minutes livestream. 
+The video below is a 27 minute edit of the longer one hour and thirteen minutes livestream.
 
 [WATCH THE FULL LIVESTREAM!](https://www.buymeacoffee.com/retroCombs/e/72266)
 
