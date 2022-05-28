@@ -79,7 +79,15 @@ In the video below, I cover all aspects of the MEGA65 keyboard.
 
 ## Video Errata
 
-None as of 2022-05-28.
+[UPDATE: 2022-05-28] I mention that the HELP function key doesn't do anything and that's not accurate. If you run into a syntax error when you run a BASIC program, press the HELP key and the BASIC 65 will display the first line of code with the error.
+
+[UPDATE: 2022-05-28] Carsten Lervad shares the following about the "bell ringing" routine:
+
+> Try typing "PRINT CHR$(7)" on an C128 or the MEGA65. I doubt it works on a C64. It is not the keyboard triggering the bell sound, but the Console Interpreter (or Editor in Commodore terminology) receiving and translating the CHR$(7) into the bell sound. In the same way, the Console/Editor doesn't know whether the CHR$(13) comes from pressing Return or CTRL+M... or even from some other source, like say "force"-feeding keystrokes into the keyboard buffer.
+
+[UPDATE: 2022-05-28] John Guillory shares:
+
+> The back arrow was sometimes used as an escape key to backup to the previous menu, being that the c64 didn't have an escape key.
 
 ## Links Mentioned in this Episode
 
