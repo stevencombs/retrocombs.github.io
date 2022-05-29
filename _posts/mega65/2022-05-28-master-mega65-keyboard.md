@@ -414,6 +414,8 @@ That is more convenient!
 
 ## Conclusion
 
+This content was a blast to prepare and I hope readers and watchers learn as much from the content as I did putting it together. I'm prepared for the community to tell me that I've missed something or to make corrections. Use the comments below to share and if I get enough feedback, I'll consider an addendum.
+
 ## Join the Fun
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
