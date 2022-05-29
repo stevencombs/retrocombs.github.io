@@ -11,6 +11,8 @@ category: mega65
 
 My Master the MEGA65 Keyboard created a lot of informative conversation. I knew during the creation of that content that I was going to miss, or mis-explain, concepts and prepared for the comments and suggestions to roll in. The MEGA65 community didn't let me down and in this blog post and companion video, I've captured the best additions to further our knowledge of the MEGA65 and continue to build a mastery of the keyboard.
 
+I want to thank everyone who contributed to this addendum and I've done my best to give proper attribution and with a first name. If you'd like your entire name listed or if I missed a recommendation, please drop me an [email](mailto:retrocombs@icloud.com) and I'll correct on this blog post.
+
 ----
 
 **Table of Contents**
@@ -55,9 +57,35 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 1. [MEGA65 Computer](https://www.mega65.org)
 2. [MEGA65 FileHost](https://files.mega65.org)
 
-## Additional Thoughts
+## Additional Keyboard Mastery Skills
 
-1. 
+### Boot to a Specific ROM
+
+Anton: One thing i like to add that i haven't seen mentioned in your video are the number keys, since they can "act" on the MEGA65 as Control keys. If you got on your SDcard several ROM versions, i.e. 911001 (C65 ROM) renamed to MEGA651.ROM and 911210 (C65 ROM) renamed to MEGA652.ROM. when powering on your MEGA65 while having pressed down the "2" key i.e., the MEGA65 will use the ROM that is located in the MEGA652.ROM (in our case 911210). So you can use the number keys "1" - "0" ,to boot up the MEGA65 with your most favorite ROM version.
+
+### SHIFT + ENTER
+
+Deft: shift+enter : next line without executing. handy if you type greetings etc
+
+### HELP
+
+Paul: The HELP key does serve a purpose and that is, to identify a line of code with a syntax error.
+
+<!-- load the menu program, break a line about mid way and then use HELP -->
+
+### CAPS LOCK
+
+Deft: CAPS LOCK will also do C64 in 40mhz 🙂
+
+### MEGA65 Color Palette BASIC Program
+
+Since this video, I did release my MEGA65 Color Palette program [version 1.5 on the FileHost](https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b). This new version includes the updates below:
+
+1. Title decorations
+2. Column headings
+3. Color HEX codes (thanks Tayger!)
+
+![MEGA65 Color Palette BASIC program version 1.5](images/mega65/mega65-color-palette-version 1-5.png)
 
 ## Join the Fun
 
