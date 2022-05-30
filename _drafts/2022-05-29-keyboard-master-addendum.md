@@ -61,7 +61,21 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 ### Boot to a Specific ROM
 
-Anton: One thing i like to add that i haven't seen mentioned in your video are the number keys, since they can "act" on the MEGA65 as Control keys. If you got on your SDcard several ROM versions, i.e. 911001 (C65 ROM) renamed to MEGA651.ROM and 911210 (C65 ROM) renamed to MEGA652.ROM. when powering on your MEGA65 while having pressed down the "2" key i.e., the MEGA65 will use the ROM that is located in the MEGA652.ROM (in our case 911210). So you can use the number keys "1" - "0" ,to boot up the MEGA65 with your most favorite ROM version.
+I showed how to boot to a specific core, but Anton shared that you can boot to a specific ROM and you have 10 available, "slots." The key to this trick is to name the ROMs with the format `MEGA65#.ROM` with `#` a value from 1 to 0.
+
+<!-- Test with a ROM without a # -->
+
+Here's an example:
+
+1. Load the most current ROM and name it `MEGA65.ROM`
+2. Load the first C65 ROM (911001) and name it `MEGA651.ROM`
+3. Load the second C65 ROM (911210) and name it `MEGA652.ROM`
+4. Load the OpenROM and name it `MEGA653.ROM`
+4. Hold the 1, 2, or 3 key while you power up the MEGA65 to boot the different ROM.
+
+> **NOTE:** Remember that the original C65 ROMs are owned by Cloanto. If you own a DevKit or a MEGA65 you do have rights to the ROM; however, if you don't, you can purchase them inexpensively ($10 USD) as part of [Cloanto's C64 Forever](https://www.c64forever.com/). 
+
+This is handy if you want to run the original C65 ROM versions or test various MEGA65 ROMs like the Open ROM.
 
 ### SHIFT + ENTER
 
@@ -69,13 +83,13 @@ Deft: shift+enter : next line without executing. handy if you type greetings etc
 
 ### HELP
 
-Paul: The HELP key does serve a purpose and that is, to identify a line of code with a syntax error.
+Paul: The HELP key does serve a purpose and that is, to identify a line of code with a syntax error. When a BASIC program syntax error occurs, press the HELP key and the MEGA65 will list the line that caused the error.
 
-<!-- load the menu program, break a line about mid way and then use HELP -->
+<!-- load the submarine tracking program, break a line about mid way and then use HELP -->
 
 ### CAPS LOCK
 
-Deft: CAPS LOCK will also do C64 in 40mhz 🙂
+Deft: The super power of the CAPS LOCK work in C64 mode. Holding the CAPS LOCK key will set C64 mode to 40 Mhz. This is useful when listing long BASIC programs or loading software from legacy devices.
 
 ### MEGA65 Color Palette BASIC Program
 
@@ -85,7 +99,7 @@ Since this video, I did release my MEGA65 Color Palette program [version 1.5 on 
 2. Column headings
 3. Color HEX codes (thanks Tayger!)
 
-![MEGA65 Color Palette BASIC program version 1.5](images/mega65/mega65-color-palette-version 1-5.png)
+![MEGA65 Color Palette BASIC program version 1.5](https://www.stevencombs.com/images/mega65/mega65-color-palette-version)
 
 ## Join the Fun
 
@@ -94,3 +108,4 @@ Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [Yo
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!
+f
