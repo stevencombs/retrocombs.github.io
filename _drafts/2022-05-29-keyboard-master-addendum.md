@@ -101,6 +101,13 @@ Since this video, I did release my MEGA65 Color Palette program [version 1.5 on 
 
 ![MEGA65 Color Palette BASIC program version 1.5](https://www.stevencombs.com/images/mega65/mega65-color-palette-version)
 
+### Window Mode
+
+There are two ways to exit out of window mode (ESC + T).
+
+1. RUN/STOP + RESTORE
+2. Press HOME twice
+
 ## Join the Fun
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
