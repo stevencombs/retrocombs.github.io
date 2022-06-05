@@ -7,6 +7,10 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: ten-mega65-vs-mac
 category: mega65
+tags:
+  - mega65
+  - mac
+  - versus
 ---
 
 Full disclosure, I use my [M1 MacBook Pro][1] daily, e.g. this blog post, and wouldn't think about replacing it with any other computer (including the new MacBook Pro). It is the best computer I've ever owned. It's fast, has great battery life, and plows through any task I throw at it. With that confession, this blog post is a fun exercise to keep the nostalgic 1980s rivalry between Commodore and Apple alive.

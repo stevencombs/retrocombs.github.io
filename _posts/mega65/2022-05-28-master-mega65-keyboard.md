@@ -7,6 +7,10 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: master-mega65-keyboard
 category: mega65
+tags:
+  - mega65
+  - keyboard
+  - productivity
 ---
 
 I love a good keyboard shortcut and consider myself a Mac shortcut connoisseur. One of the fun features of the MEGA65 is the keyboard; both the hardware and the functionality. In this blog post and companion video, I cover the keyboard layout, functions, and shortcuts you need to master the MEGA65 keyboard. Time to learn how to be a keyboard NINJA on the MEGA65.

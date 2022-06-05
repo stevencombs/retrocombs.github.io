@@ -8,8 +8,6 @@ email: 'retrocombs@icloud.com'
 comments: yes
 category: mega65
 tags:
-  - commodore
-  - retro
   - mega65
   - command-line
   - terminal

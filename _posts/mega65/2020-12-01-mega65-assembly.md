@@ -8,16 +8,9 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 category: mega65
 tags:
-  - commodore
-  - retro
-  - plus4
-  - vic20
-  - c64
-  - keyboard
-  - keys
-  - calculations
-  - numbers
-  - basic
+  - mega65
+  - devout
+  - unboxing
 ---
 
 I'm really excited! I mean, 15 year-old boy excited. That's how I felt while opening the box, unpacking, assembling, and turning on the new  developer's kit (DevKit) for the first time. Seriously, I've not been that excited about a package in some time; and this from the guy who has two brand new Mac minis (with M1 processors) set to arrive a few days before Christmas.
