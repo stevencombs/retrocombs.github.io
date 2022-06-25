@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
 permalink: unbox-thea500mini
-category: theSeries
+category: commodore
 ---
 
 On 2022-06-12, I fired up the ATEM mini Extreme Iso for an unboxing livestream of Retro Games' TheA500 Mini. I was hesitant because my device arrived long after those on the other side of the pond, and more popular YouTubers in the United States received their regular and complimentary shipments. What could I add to the conversation? I asked my viewers, and they were vocal, stream it and we will join. I did, and we had a blast. We even had a few new folks join the chat and one even became a new member. **Welcome, Neil!**
