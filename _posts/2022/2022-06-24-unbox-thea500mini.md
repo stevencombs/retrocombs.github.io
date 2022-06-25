@@ -11,7 +11,7 @@ category: commodore
 
 On 2022-06-12, I fired up the ATEM mini Extreme Iso for an unboxing livestream of Retro Games' TheA500 Mini. I was hesitant because my device arrived long after those on the other side of the pond, and more popular YouTubers in the United States received their regular and complimentary shipments. What could I add to the conversation? I asked my viewers, and they were vocal, stream it and we will join. I did, and we had a blast. We even had a few new folks join the chat and one even became a new member. **Welcome, Neil!**
 
-![TheA500 Mini](https://lh3.googleusercontent.com/yuj5NsnR-ITCoxC-U5Z-IU5uEapF0ZxF3N-oBvBjJFSl38TTjGKvofZ_3P0WrHbEmyJCXPHkge_oNB-YBZ4=w782-h440-rw)
+![TheA500 Mini](https://www.stevencombs.com/images/c64mini-maxi-vic20/thea500mini.jpg)
 
 In this companion blog post, I'll share updates and two videos. The first video is a new edit that cuts about 50% of the livestream and adds extra content. The second link is to the entire livestream that's available, without ads, to my channel members at all levels and for a minimal fee for non-supporters.
 
@@ -66,11 +66,11 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 4. A viewer shared with me (Thanks, Mark!) instructions to install the entire Amiga Workbench and OS on TheA500 Mini. It is on my list of things to do and while I'll likely not share that process (since the Kickstart ROMs and OS are currently under license), you might see it pop up in future videos or as demos running during livestreams.
 5. I like TheMouse the more I use it. I recommend even if you don't purchase [TheA500 Mini](https://amzn.to/3yieN0e), you pick up a [TheMouse](https://amzn.to/3A4Gg7e). This recreation with a USB connector will make a great addition to an emulator like UAE. I'm considering picking up an extra myself for my MEGA65 using [a mouSTer](https://www.stevencombs.com/mouster).
 
-    ![TheMouse](https://lh3.googleusercontent.com/K1d6WypGQE4X3MZw-yymvc2kL3n0Aqj8mrwsKVPEmggMrFH5B4UUaNVOkAkAxsS-HJlkjkJrEM5x1dyABIo=w782-h440-rw)
+    ![TheMouse](https://www.stevencombs.com/images/c64mini-maxi-vic20/themouse.jpg)
 
 6. When I first learned about TheA500 mini, I understood it came with a controller that resembled a CD32 controller. I did not own a CD32 and did research to see the what one looked like. I was shocked to see that TheA500 controller isn't anything like the CD32 controller. Oh, sure, it has a design familiarity, but that's all. The CD32 includes a disk controller on the left and is longer. I'm not disappointed, but I'm amazed that folks online keep referring to it as a similar controller. They aren't!
 
-    ![The Controller](https://lh3.googleusercontent.com/LPGj-PWr13iD3ewvU7GRN3PXOB2BcxxeEc27ISFL9U39pkr1aY25PvIvUmVRfZ0wKdSnGG-gULJihUmJYF4=w782-h440-rw)
+    ![The Controller](https://www.stevencombs.com/images/c64mini-maxi-vic20/thecontroller.jpg)
 
 5. I'm eager to spend more time with this device. There's a lot to like, but one thing not to like is the lack of a working keyboard. On the C64 Mini, this wasn't an issue. Most games did not extensively use the keyboard; however, when the Amiga arrived, using the keyboard for games became more commonplace. My demo of F-16 Combat Pilot is an excellent example of a game that will be more enjoyable with a working keyboard. I could connect a USB keyboard, but then the gets to my entire argument that unless you have a true keyboard with the computer's original layout, you have an exercise in frustration. Having typed that, I do plan to connect a USB keyboard.
 6. I'm not at all familiar with WHDLoad. I need to understand how to pack software using this format.
