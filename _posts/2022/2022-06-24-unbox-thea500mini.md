@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unboxing and First Use of Retro Games' TheA500 Mini'
+title: 'Unboxing and First Use of the Retro Game TheA500 Mini'
 date: 2022-06-24
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
