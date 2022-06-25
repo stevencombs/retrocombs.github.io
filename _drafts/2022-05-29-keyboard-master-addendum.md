@@ -87,6 +87,12 @@ Paul: The HELP key does serve a purpose and that is, to identify a line of code 
 
 <!-- load the submarine tracking program, break a line about mid way and then use HELP -->
 
+### ↑ Key
+
+Bit Shifter saw my last video and my question about what the ↑ key does beside input an up arrow. He went to work and made it more useful. In the latest MEGA65.ROM, you can now use the key to RUN a file on a disk.
+
+`↑ "FILENAME"` is equivalent to `RUN "FILENAME"`. This makes it a great addition to the `/ "FILENAME"` command which is equivalent to `LOAD "FILENAME"` and remember, for both examples, the closed quotation mark is optional; saving even more keystrokes. Thanks Bit Shifter!
+
 ### CAPS LOCK
 
 Deft: The super power of the CAPS LOCK work in C64 mode. Holding the CAPS LOCK key will set C64 mode to 40 Mhz. This is useful when listing long BASIC programs or loading software from legacy devices.
@@ -107,6 +113,25 @@ There are two ways to exit out of window mode (ESC + T).
 
 1. RUN/STOP + RESTORE
 2. Press HOME twice
+
+### Function Keys
+
+Dan shared
+
+Belated additional info on the function keys: All 16 function keys (F1-F14, HELP, and Shift + RUN) are programmable with the KEY command. Entering the KEY command without arguments lists all of their definitions—though not necessarily in a helpful form. You'll see strings with inverted characters that are PETSCII control codes, as well as CHR$(...) codes that can't appear inside a quoted string. 27=Escape, 13=Return, 34=double quote, 141=line feed (like Return but doesn't register the command).
+
+The default definition for F2 is ESC @, which as you noted means "erase to end of screen." F6, F10, and F12 print "KEY6" "KEY10" or "KEY12", respectively, and a line feed, as a way of setting up a KEY command that you can cursor up to and type after to define them to something else. Try: KEY6,"RETROCOMBS"
+
+You can save and load key definitions to and from disk if you have a custom set that you want to keep. See the User's Guide entry on the KEY command.
+
+### Save Program
+
+If you pressed the RESET button and then realize, that you forgot to save your BASIC program ...
+NEW RESTORE
+
+will recover your BASIC program and give you a second chance wink
+(Will not work, if an autoboot program is loaded, because that will overwrite any BASIC program in memory)
+
 
 ## Join the Fun
 
