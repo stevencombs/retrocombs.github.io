@@ -15,6 +15,7 @@ I have "the best supporters in the world" contributing to this blog and companio
 
 - Boba Fett
 - [Mislav Krleža](https://twitter.com/KrlezaMislav)
+- [Mindrail](https://twitter.com/mindrail)
 
 ## Producers (C128-Level Members)
 
@@ -25,8 +26,11 @@ I have "the best supporters in the world" contributing to this blog and companio
 
 - Michael Whipp (VIC-20)
 - Hauiproductions (VIC-20)
-- [8-Bit Show and Tell (VIC-20)](https://www.youtube.com/c/8BitShowAndTell)
-- Michael Dell (Plus/4)
+- 8-Bit Show and Tell (VIC-20)
+- Neil Curtis (VIC-20)
+- Gurce Isikyildiz (VIC-20)
+- Mark Dell (Plus/4)
+- Cam Urquhart (Plus/4)
 
 If you would like your name linked to your site, business, or social media presence, let me know!
 
