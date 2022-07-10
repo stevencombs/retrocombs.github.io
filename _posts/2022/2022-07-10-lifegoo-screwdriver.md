@@ -22,7 +22,7 @@ Check out the [supporters page](https://www.stevencombs.com/supporters) to learn
 
 ## Companion YouTube Video
 
-Title: _Lifegoo -vs- iFu Precision Power Screwdriver to open a Linkfor Handheld Gaming Device_
+Title: _LIFEGOO -vs- iFu Precision Power Screwdriver to open a LINKFOR Handheld Gaming Device_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/fA-JAdUqY5M" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
