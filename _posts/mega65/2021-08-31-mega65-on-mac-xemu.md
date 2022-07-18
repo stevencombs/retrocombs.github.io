@@ -57,35 +57,6 @@ In the video below, I show how to install and use Xemu/xmega65 to emulate a MEGA
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/8PbSxkYVD8I" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-**Time Codes:**
-
-```
-00:00 Introduction
-00:26 Bumper
-00:36 Getting started
-01:30 Links
-01:57 Xemu project page
-03:20 Download and install
-07:25 Download closed .ROM
-11:25 Closed .ROM boot
-12:24 Download open .ROM
-13:35 Open .ROM boot
-15:11 Menu options
-22:12 System folder
-24:00 Keyboard use
-28:54 Mount a .D81 disk image
-29:24 11 development environment demo
-30:39 Load a .PRG file
-30:52 Maze Eater demo with joystick
-31:57 C64 Mode
-32:30 Bad Moon Rising demo
-33:00 Configuration files
-37:06 Drive LED emulation
-38:26 Companion blog post and conclusion
-39:36 Subscribe
-40:13 retroCombs, OUT!
-```
-
 ## Video Errata
 
 {**UPDATE: 2021-09-01**} LGB, the Xemu developer, watched the video and provided feedback and corrections to my content:
@@ -114,8 +85,8 @@ Below are the links I mention in the video or helpful content. All Amazon links 
 
 Let's begin by downloading Xemu using the steps below:
 
-1. Visit the [Xemu page](https://github.lgb.hu/xemu/). On this blueish page, you will find two headings; *The 'future next stable' still unstable ("next" branch) builds* and *MEGA65/VIC-IV emulation enhancements ("merger" branch) builds*.
-2. Scroll down to the *MEGA65/VIC-IV emulation enhancements ("merger" branch) builds* header.
+1. Visit the [Xemu page](https://github.lgb.hu/xemu/). On this blueish page, you will find two headings; *Stable ("master" branch) releases* and *The 'future next stable' still unstable ("next" branch) builds*.
+2. Scroll down to the *The 'future next stable' still unstable ("next" branch) builds* header.
 3. Click the *‌Mac OS DMG file* option to download the `Xemu-Installer.dmg` file.
 
     > M1 Mac users will note that the Mac Xemu build, as of this writing, is for Intel processors; however, Rosetta on the M1 will run Xemu and likely run it faster!
