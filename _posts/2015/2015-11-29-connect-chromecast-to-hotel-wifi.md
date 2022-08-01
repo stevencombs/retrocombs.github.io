@@ -11,9 +11,7 @@ categories:
 
 The Chromecast, while a great device, has one huge flaw. Unlike the [Amazon Fire TV (or Stick)][amazon], it does not have a way to authenticate into a hotel that has a captive portal web page. This is an omission I would like to see Google include. Without a remote, this could be difficult to include. No worries though. There is a way to use your Chromecast in **some** hotels and this post will show you how to do so using your Mac.
 
-NOTE: This process will also work for Linux users. Windows users with [Cygwin][cygwin] can probably follow along. I have not verified.
-
-![Chromecast 2][googleusercontent]
+> **NOTE:** This process will work for Linux users. Windows users with [Cygwin][cygwin] can likely follow along. I have not verified. This post is dated and while it works with older Chromecast devices, it may not work with a newer Google TV with Chromecast. I have a whole new process I use in 2022. I should post it!
 
 # Determine your Mac's MAC address
 The first step is to determine the MAC address of your Mac. A MAC address is a unique device ID assigned to all network devices. Hotel captive portal Wi-Fi systems use this address to identify which devices connect and what rights they have on the network. Here's how to display the MAC address of your Mac's Wi-Fi adapter.
@@ -99,7 +97,3 @@ The Chromecast should automatically connect to the hotel Wi-Fi network without n
 * Use a compatible device that is on the same hotel Wi-Fi network and try to cast video or audio to the Chromecast
 
 I believe the process above is accurate. Give it a shot and let me know. Please remember, this may not work on all hotel Wi-Fi networks. I've found it works in many independent hotels and within Marriott properties. I cannot verify for other hotel chains. If it works or does not work for you, please leave a comment below and include the hotel chain so we all benefit.
-
-[amazon]: http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=Amazon%20Fire%20TV&linkCode=ur2&linkId=4870dda7481e0f0c1651cc3dcebe9b7e&tag=stevenccom-20&url=search-alias%3Daps&linkId=A5PFMT4MWJIGZKP6
-[cygwin]: https://www.cygwin.com/
-[googleusercontent]: https://lh3.googleusercontent.com/3PWZZugeqDNa20HfCz5qdeycB4MOURMhpYTXHmExZiJGqN2hsgW4b3Uoa2y1SbRD6f1ESNXefFVnQSK3TN1X6hd1FczyVDBhWAGGmbxk3V7-OmOFD839RMTGsA5BzR197RBD91DCvFzR-rj62gPr9lz1b2dC2LtgEMFIIyukyvVGaFLME9tDoOg5Yt9125D-J49FxqZTVGsa1UJotMCqKQGVBfNA46EIRp-YwK8b4k_MFlsCv5Lq9rrwkccVVlueQgHC2A1uv2c54XYoRsWskI8ujEp2-QaU0VJOn7l4eBi8FySo9C-6U5D9v-CWE07ixw08vHuWH8WnP01g7XFVr7y1mJchWpUlzI2wn_fv_sHKxJeipBg7Jp3T_UcPFKQAwkrHCpIZTdaIC_l0crQdSf1e4xQ8NuwhRDnLDLPW1jqpmAWMAo2SyzeSaFyOFeVrpcBcx-c_o_DG9prlGCmnsOyyPGyHQtu5tICtNRv_Z0Q8jk7G8DCBUD5_yzF8tK_jtLs3nEl2ytUQXdpnV2t16RVV3dEhmUuLyq0aT3h63y97=w2668-h1503-no

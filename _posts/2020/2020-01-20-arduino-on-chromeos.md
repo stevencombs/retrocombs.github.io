@@ -1,11 +1,13 @@
 ---
 layout: post
-title: 'HOWTO: Install Arduino IDE on Chrome OS - now with device support!'
+title: 'Install Arduino IDE on Chrome OS - now with device support!'
 date: 2020-01-20
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: 'yes'
-category: arduino
+categories: 
+  - arduino
+  - chromeos
 permalink: arduino-on-chromeos
 tags:
   - howto
@@ -14,12 +16,6 @@ tags:
   - debian
   - vm
   - chromeos
-  - ide
-  - programming
-  - electronics
-  - physicalcomputing
-  - pixelbook
-  - pixelslate
 ---
 
 After my [previous Arduino IDE post](https://www.stevencombs.com/arduino/2019/12/31/install-arduino-ubuntu.html), I wondered if I could now install the latest version of the Arduino IDE on Chrome OS using the Crostini Linux VM. In the past, you could use the `apt` package manager to install the Arduino IDE but the version was woefully outdated.
