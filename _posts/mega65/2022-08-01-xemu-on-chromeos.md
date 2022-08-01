@@ -24,7 +24,7 @@ The process to install Xemu on ChromeOS is, unsurprisingly, similar to the Linux
 
 ----
 
-# Table of Contents
+## Table of Contents
 
 - [Table of Contents](#table-of-contents)
 - [Support the Blog and Channel](#support-the-blog-and-channel)
@@ -51,21 +51,21 @@ The process to install Xemu on ChromeOS is, unsurprisingly, similar to the Linux
 
 ----
 
-# Support the Blog and Channel
+## Support the Blog and Channel
 
 Check out the [supporters page](https://www.stevencombs.com/supporters) to learn about my amazing supporters and how you can join our community.
 
-# Companion YouTube Video
+## Companion YouTube Video
 
 Title: _Run a MEGA65 on your Chromebook in a Linux Container_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/z65O6bxIkaY" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-# Video Errata
+## Video Errata
 
 None as of 2022-08-01.
 
-# Links Mentioned in this Episode
+## Links Mentioned in this Episode
 
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel when you start your purchases here!
 
@@ -78,11 +78,11 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 - [TheC64 Joystick](https://amzn.to/3d0UITW)
 - [Hyperkin Tropper II Joystick](https://amzn.to/3zqN90p)
 
-# Identify ChomeOS Device Processor
+## Identify ChomeOS Device Processor
 
 If you are not sure if you have an Intel or ARM processor in your Chromebook, download [Cog - System Info Viewer](https://chrome.google.com/webstore/detail/cog-system-info-viewer/difcjdggkffcfgcfconafogflmmaadco) from the ChromeOS app store. Run to view the specifications of your device. Look under the second option, _Platform_ to identify the processor.
 
-# Create a Linux Container
+## Create a Linux Container
 
 The process to create a Linux Container is the same for both Intel and ARM based ChromeOS devices and is necessary to install Linux apps on ChromeOS. The default ChromeOS container is a [Debian distribution](https://www.debian.org/) and since the Xemu package for Linux is based on Ubuntu, and Ubuntu is based on Debian, this allows Xemu to run on ChromeOS. Below are the steps to set up a Linux container on ChromeOS.
 
@@ -102,7 +102,7 @@ The process to create a Linux Container is the same for both Intel and ARM based
 
 The Linux container includes other options; however, they are beyond this post and we don't need to change the default.
 
-# Share the Downloads Folder with Linux Container
+## Share the Downloads Folder with Linux Container
 
 By default and for security, ChromeOS folders, including the _Downloads_ folder, are not available to the Linux containers. You must share them. This is an easy process.
 
@@ -114,11 +114,11 @@ By default and for security, ChromeOS folders, including the _Downloads_ folder,
 
 The Linux container can now access the contents of Downloads folder, but not in an easy to find location. We'll locate the directory when we load the ROM file.
 
-# Install Xemu on ChromeOS Intel
+## Install Xemu on ChromeOS Intel
 
 With a Linux container created and a folder shared on ChromeOS Intel, Xemu installation is a breeze when you use a `.deb` installation file.
 
-## Download and Install Xemu on Chrome OS Intel
+### Download and Install Xemu on Chrome OS Intel
 
 To install Xemu, use the steps below:
 
@@ -131,11 +131,12 @@ To install Xemu, use the steps below:
 4. Open the _Downloads_ folder using the ChromeOS File application and locate the `.deb` file.
 
 5. Double-click the `.deb` file. A dialog box will prompt to install the application.
+
 6. Click the _INSTALL_ button.
 
 With Xemu installed, we can now run it for the first time; however, don't get excited yet! We have some work ahead.
 
-## Start xmega65 on ChromeOS Intel
+### Start xmega65 on ChromeOS Intel
 
 Xemu installs several new entries in the Launcher. Other options include additional Commodore emulators. One interesting emulator is the Commodore LCD computer that was never released.
 
@@ -143,7 +144,7 @@ Double-click the _xmega65_ option. The application will start. The application w
 
 We are now ready to install a ROM. Skip down to the [Download the MEGA65 ROM](#download-the-mega65-rom) section.
 
-# Install Xemu on ChromeOS ARM
+## Install Xemu on ChromeOS ARM
 
 There are two options to install Xemu on ChromeOS devices that use an ARM processor. We can build a machine specific `.deb` file and install as shown previously or we can build just the _xmega65_ emulator. The last option also requires us to tweak our system and create our own _Launcher_ option. 
 
@@ -171,7 +172,7 @@ git clone https://github.com/lgblgblgb/xemu.git
 
 We will use these dependencies and the repository for both ChromeOS ARM options. Let's start by building our own custom `.deb` install file.
 
-## Build and Install an XEMU `.deb` File for Chrome OS ARM
+### Build and Install an XEMU `.deb` File for Chrome OS ARM
 
 Use the _Terminal_ commands below to create a `.deb` file:
 
@@ -202,7 +203,7 @@ The installation file is now accessible using the ChromeOS _Files_ application. 
 
 You are now ready to install a ROM. Skip down to the [Download the MEGA65 ROM](#download-the-mega65-rom) section.
 
-## Build the xmega65 Emulator Only for ChromeOS ARM
+### Build the xmega65 Emulator Only for ChromeOS ARM
 
 If you want the xmega65 emulator, and not all Xemu emulators, use the _Terminal_ commands below:
 
@@ -215,7 +216,7 @@ The _xmega65_ is compiled and ready to run on the ARM ChromeOS device.
 
 > **NOTE:** You can make a `.deb` from this directory. Use the command `make targets/mega65 deb`.
 
-### Start xmega65 on ChromeOS ARM
+#### Start xmega65 on ChromeOS ARM
 
 In the _Terminal_ use the command below to start xmega65:
 
@@ -225,7 +226,7 @@ The emulator will start. If the window is too small, resize it. Prompts will ask
 
 Close the emulator. We make things easier for future launching and create a _Launcher_ item.
 
-### Create a Launcher Entry
+#### Create a Launcher Entry
 
 To launch xmega65 from anywhere within the _Terminal_, move the `xmega65.native` file to the _bin_ folder using the command below:
 
@@ -255,7 +256,7 @@ Running _xmega65_ from the _Terminal_ may not be everyone's cup of tea. Installa
 
 With the MEGA65 emulator installed and a _Launcher_ entry created, it is time to install a ROM and start using the MEGA65 emulator.
 
-# Download the MEGA65 ROM
+## Download the MEGA65 ROM
 
 With _xmega65_ installed on both Intel and ARM processor ChromeOS devices, I can now merge the instructions.
 
@@ -265,7 +266,7 @@ I've covered this in other posts and videos, but there is a closed ROM and an op
 
 If you have access, you can [download the closed ROM here](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c). On ChromeOS, the file will download directly to your _Downloads_ folder.
 
-# Update Files on SD card Image
+## Update Files on SD card Image
 
 To load the ROM, follow the steps below:
 
@@ -283,7 +284,7 @@ To load the ROM, follow the steps below:
 
 When the MEGA65 team releases new ROMs, use this same technique to update the emulator.
 
-# Using xmega65
+## Using xmega65
 
 I won't go into all the features of the emulator; however, below are a three things to get you started.
 
@@ -302,7 +303,7 @@ I won't go into all the features of the emulator; however, below are a three thi
 
 Want more? Time to begin your MEGA65 journey and you can start with my [MEGA65 resource page](https://www.stevencombs.com/mega65).
 
-# Limitations
+## Limitations
 
 Since the developer does not support Xemu on ChromeOS, you need to know about these limitations:
 
@@ -316,7 +317,7 @@ Since the developer does not support Xemu on ChromeOS, you need to know about th
 
 I'll continue to research all these important quirks to make using the Xemu emulator, _xmega65, on Chrome OS easier, more productive, and fun. Make sure you [follow the blog](https://www.stevencombs.com) and and [subscribe to the channel](https://www.youtube.com/stevencombs).
 
-# What's Next?
+## What's Next?
 
 Chromebook devices are more popular than ever and now you can wow your friends and family by running the MEGA65 emulator, a modern retro computer recreation, on the device you use every day. Along this journey, you learned much more about using Linux containers to expand the capabilities of your ChromeOS device.
 
@@ -326,7 +327,7 @@ Earlier, I list three ways you can get started with the emulator; however, below
 
 2. [Master the MEGA65 Keyboard](https://www.stevencombs.com/master-mega65-keyboard)
 
-# Join the Fun
+## Join the Fun
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
 
