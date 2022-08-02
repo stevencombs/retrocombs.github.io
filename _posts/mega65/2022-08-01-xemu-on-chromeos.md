@@ -281,7 +281,7 @@ With _xmega65_ installed on both Intel and ARM processor ChromeOS devices, I can
 
 Don't let the glowing and text-filled _xmega65_ screen scare you. We don't need to do anything other than install a ROM file from the [MEGA65 FilesHost](https://files.mega65.org). 
 
-I've covered this in other posts and videos, but there is a closed ROM and an open ROM. The closed ROM is for those who own a MEGA65 Dev Kit or MEGA65. I'll show that one in my example since I own both. If you don't own either, you can legally download an original C65 ROM from the free version of the [C64Forever Cloanto](https://www.c64forever.com/) package. You can then patch it using the tools on the FileHost. I document this process in my [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](https://www.stevencombs.com/mega65/2021-12-17-patch-c65-rom.md) post and video.
+I've covered this in other posts and videos, but there is a closed ROM and an open ROM. The closed ROM is for those who own a MEGA65 Dev Kit or MEGA65. I'll show that one in my example since I own both. If you don't own either, you can legally download an original C65 ROM from the free version of the [C64Forever Cloanto](https://www.c64forever.com/) package. You can then patch it using the tools on the FileHost. I document this process in my [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](https://www.stevencombs.com/patch-c65-rom) post and video.
 
 If you have access, you can [download the closed ROM here](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c). On ChromeOS, the file will download directly to your _Downloads_ folder.
 
