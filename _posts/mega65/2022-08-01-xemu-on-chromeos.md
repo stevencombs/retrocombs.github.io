@@ -326,7 +326,7 @@ Want more? Time to begin your MEGA65 journey and you can start with my [MEGA65 r
 
 Since the developer does not support Xemu on ChromeOS, you need to know about these limitations:
 
-1. I've not yet been able to get sound to work reliably. All settings in the emulator for sound are on and correct. A cursory online search leads me to believe this is not unique to XEMU.
+1. ~~I've not yet been able to get sound to work reliably. All settings in the emulator for sound are on and correct. A cursory online search leads me to believe this is not unique to XEMU.~~ As of 2022-08-03, sound works. I cannot seem to duplicate my earlier issue with sounds.
 
 2. In the Mac version of XEMU, I can drag and drop `.d81` or `.prg` files from the Finder to XEMU to load them. This is not working from the ChromeOS files app to the XEMU running in the Linux container. This is not surprising. I suspect that if I load a file manager in the Linux container, this will work. If someone gives this a try, or if I do, I'll update this blog post.
 
