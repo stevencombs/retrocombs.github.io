@@ -8,6 +8,7 @@ name: 'retroCombs'
 email: 'retrocombs@icloud.com'
 tagline: 'Combsing through the retro-minutia…'
 url: 'https://www.stevencombs.com'
+theme: hacker
 
 lsi: false
 comments: true
