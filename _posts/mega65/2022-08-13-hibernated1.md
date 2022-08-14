@@ -59,7 +59,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 Retro-computing fans know how to play a text adventure. Text adventure titles were popular back in the days of 8-bit computing. The 1977 [Infocom](https://en.wikipedia.org/wiki/Infocom) text adventure [Zork](https://en.wikipedia.org/wiki/Zork), inspired by [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), put text adventures on the map, inspired two sequels, and created a market for other publishers to get in the game (pun intended).
 
-![Zork Box](https://upload.wikimedia.org/wikipedia/en/a/ac/Zork_I_box_art.jpg)
+<center>![Zork Box](https://upload.wikimedia.org/wikipedia/en/a/ac/Zork_I_box_art.jpg)</center>
 
 Text adventures are games of the mind and the worlds develop as you read the text presented on the screen. To play, you read about specific locations and objects. You move through the world and interact with objects, not with a joystick, but using keyboard commands. To move, use the command `go south`. Commands like `use key` or `open door` allow you to interact with the game objects. The `inventory` command display the items held. The more commands you learn, the more fun you have. Discovery is half of the fun—that is, understanding what commands and sequences the text adventure interpreter can parse.
 
@@ -69,7 +69,7 @@ Hibernated1 is a modern text adventure for retro systems from developer Stefan V
 
 > Have you ever dreamed about a journey far beyond the known regions of the universe? Close to Alpha Centauri, Olivia Lund is on the trail of one of mankind's greatest secrets and a thousand-year-old mystery. After nearly 20 years in hyper-sleep, she wakes up alone on her stranded ship, the Polaris-7. The artificial intelligence Io seems to be her only remaining friend now.
 
-![Hibernated MEGA 65 Start Screen](https://img.itch.zone/aW1nLzYwMTY3MTIucG5n/315x250%23c/0ArqUH.png)
+<center>![Hibernated MEGA 65 Start Screen](https://img.itch.zone/aW1nLzYwMTY3MTIucG5n/315x250%23c/0ArqUH.png)</center>
 
 > Hibernated 1 - This Place is Death (Director's Cut) is an Infocom style interactive fiction game. It's a complete rewrite of the classic, award-winning Hibernated game using Infocom's Z-machine standard, with tons of additional narrative content and riddles. If Infocom had been asked to recreate the classic Hibernated, the Director's Cut would have been the outcome.
 
