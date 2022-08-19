@@ -13,8 +13,6 @@ This short blog post is a supplement to a MEGA65 video I posted on 2022-08-19. T
 
 ![Hibernated SD card and floppy](https://www.stevencombs.com/images/mega65/sd-card-to-floppy.jpg)
 
-)
-
 While I spend more time in the video showing how to copy a MEGA65 disk image to the internal 3.5" floppy, this blog post will provide a short written description of the process for quick reference. Let's get started.
 
 ----
@@ -25,7 +23,7 @@ Check out the [supporters page](https://www.stevencombs.com/supporters) to learn
 
 ## Companion YouTube Video
 
-Title: _‌Managing MEGA65 Media | Update 3.5" Floppy Files from a .D81_
+Title: _‌Managing MEGA65 Media \| Update 3.5" Floppy Files from a .D81_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/ATUwOYtJA2Q" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 

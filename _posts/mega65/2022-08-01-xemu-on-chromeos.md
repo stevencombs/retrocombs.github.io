@@ -328,7 +328,7 @@ Since the developer does not support Xemu on ChromeOS, you need to know about th
 
 1. ~~I've not yet been able to get sound to work reliably. All settings in the emulator for sound are on and correct. A cursory online search leads me to believe this is not unique to XEMU.~~ As of 2022-08-03, sound works. I cannot duplicate the issue with sounds shown in the video.
 
-2. In the Mac version of XEMU, I can drag and drop `.d81` or `.prg` files from the Finder to XEMU to load them. This is not working from the ChromeOS files app to the XEMU running in the Linux container. This is not surprising. I suspect that if I load a file manager in the Linux container, this will work. If someone gives this a try, or if I do, I'll update this blog post.
+2. In the Mac version of XEMU, I can drag and drop `.d81` or `.prg` files from the Finder to XEMU to load them. This is not working from the ChromeOS files app to the XEMU running in the Linux container and not a surprise. I suspect that if I load a file manager in the Linux container, this will work. If someone gives this a try, or if I do, I'll update this blog post.
 
 3. With other XEMU or Commodore emulator installs, I can plug in a THEC64 Joystick and everything works. Not with Chrome OS on Linux. The container does not recognize the USB device as an option I can allow access. It recognizes the SD card reader built into the USB hub, but not the controller plugged into the hub. I checked to see if TheC64 Joystick was working on the Chromebook with [browser based Gamepad Tester](https://apps.nektro.net/gamepad) and everything checked out. I'll continue to research this one further.
 
