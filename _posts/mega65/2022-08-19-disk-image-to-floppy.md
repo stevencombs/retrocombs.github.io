@@ -47,7 +47,7 @@ Below are the succinct steps:
 2. Insert an SD Card into the MEGA65 that contains the disk image you want to copy to the 3.5" floppy disk.
 2. Use the `DIR U12` command to list the contents of the SD Card on the MEGA65.
 3. Use the `MOUNT <FILENAME>,U9` command to mount a disk image from the SD Card to unit/drive 9.
-4. Use the `BACKUP U8 TO U9` command to copy the SD card disk image contents to the 3.5" floppy disk. This process will take a long time and there's no visual sign. Be patient.
+4. Use the `BACKUP U9 TO U8` command to copy the SD card disk image contents to the 3.5" floppy disk. This process will take a long time and there's no visual sign. Be patient.
 5. Verify the contents on the 3.5” floppy disk using the `DIR` command.
 
 You can now enjoy a more authentic experience by running software from a 3.5" floppy disk. This is one perk of MEGA65 ownership; the ability to choose between virtual and physical media. Expect the software to run slower from the floppy disk, but relish in the old school sounds!
