@@ -13,9 +13,9 @@ During the COVID pandemic of 2020, I began earnestly creating video for my [YouT
 
 While building my YouTube channel, I made the move from capturing video using OBS Studio on my Mac to a dedicated audio/visual/streaming platform, the [ATEM Mini](https://amzn.to/3QzB7JA) followed by the [ATEM Mini Extreme Iso](https://amzn.to/3dJ3OVU). The ATEM Mini line, unlike my [YoloBox Pro](https://amzn.to/3dDife1), does not support USB cameras.
 
-To connect cameras to the ATEM Mini, you must have an HDMI out. This can be either HDMI, micro HDMI, or mini HDMI, as long as you have an adapter. But this does limit you to pricey cameras like my [Sony ZV1](https://amzn.to/3PE1VXG) and other popular streaming cameras like the [Lumix G7](https://amzn.to/3Ay2Jcy). If you want multiple cameras in your studio, like I do, that's a pricey proposition and I'm not going to imply that the solution I will share is better than either option; however, it might be perfect for you if you have a high quality webcam.
+To connect cameras to the ATEM Mini, that camera must support clean HDMI out. Connect via HDMI using a standard or micro/mini HDMI with an adapter. But this does limit you to pricey cameras like my [Sony ZV1](https://amzn.to/3PE1VXG) and other popular streaming cameras like the [Lumix G7](https://amzn.to/3Ay2Jcy). If you want more than one camera in your studio, it's a pricey proposition. My solution won't be better than the cameras I mention, but if you if you have a high quality webcam, this might be the option for you.
 
-In this blog post and companion video, I'm going to introduce you to a product that can help you connect webcams to the ATEM mini, the $170 [RGBLink TAO 1tiny on Amazon](https://amzn.to/3wibNji). Let's dig in and see how it works.
+In this blog post and companion video, I'm going to introduce you to a product connects a webcam to the ATEM mini, the $170 [RGBLink TAO 1tiny on Amazon](https://amzn.to/3wibNji). Let's dig in and see how it works.
 
 ----
 
