@@ -38,23 +38,22 @@ The sections below contain sorted links to MEGA65 content. Send your link recomm
 
 ### Official
 
-* [MEGA65 Homepage](https://www.mega65.org) - Learn all about the MEGA65 and what makes this retro recreation special.
+* [MEGA65 Homepage](https://www.mega65.org) - The official MEGA65 page.
 * [MEGA65 YouTube Channel](https://www.youtube.com/channel/UCEz3CQ343r4ssvIdmhDauMQ) - The latest update videos and development streams from the MEGA65 team. MUST WATCH!
-* [MEGA65 on Twitter](https://twitter.com/MEGA65Retro)
-* [MEGA65 on Facebook](https://www.facebook.com/MEGA65RetroComputer)
-* [MEGA65 on Reddit](https://www.reddit.com/r/mega65/)
+* [MEGA65 on Twitter](https://twitter.com/MEGA65Retro) - Read the Tweets and Retweets.
+* [MEGA65 on Facebook](https://www.facebook.com/MEGA65RetroComputer) - Still available but not up-do-date.
 * [MEGA65 filehost](https://files.mega65.org/) - Growing collection of titles and utilities for the MEGA65.
-* [Making a C64/C65 compatible computer](https://c65gs.blogspot.com/)
-* [What is the MEGA65](https://mega65.org/assets/pdf/What_is_the_MEGA65.pdf)
-* [MEGA - Museum of Electronic Games & Art](https://www.m-e-g-a.org/)
+* [Making a C64/C65 compatible computer](https://c65gs.blogspot.com/) - Paul Gardner-Stephen's MEGA65 blog.
+* [What is the MEGA65](https://mega65.org/assets/pdf/What_is_the_MEGA65.pdf) - PDF that explains the history and why of the MEGA65.
+* [MEGA - Museum of Electronic Games & Art](https://www.m-e-g-a.org/) - Where's MEGA come from? The MEGA65 sponsor organization, the Museum of Electronic Games & Art.
 
 ### Technical
 
-* [MEGA65 book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d) - The entire reference collection all in a single PDF ready for reading, searching, or even printing.
-* [MEGA65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA65 project. User highlights include the user's guide, tools, and Xemu (see above).
-* [What are “alternative” MEGA65 cores?](https://sy2002.github.io/m65cores/) - the cores available and in development.
+* [MEGA65 book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d) - The entire reference collection all in a single PDF ready for reading, searching, and printing.
+* [MEGA65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA65 project. Highlights include the user's guide, tools, and Xemu.
+* [What are “alternative” MEGA65 cores?](https://sy2002.github.io/m65cores/) - All the known cores available or in development.
 * [MEGA65.ROM](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c) - The latest `MEGA65.ROM` file.
-* [Freezer V2](https://github.com/M3wP/MEGA65-Freezer) - Still in development next generation of the Freezer utility for the MEGA65.
+* [Freezer V2](https://github.com/M3wP/MEGA65-Freezer) - Still in development next generation of the MEGA65 Freezer utility.
 * [SD Card Essentials](https://files.mega65.org?id=a809e0ae-30ac-42f5-ab9c-766d72fd6331) - All the files an SD Card needs to operate a MEGA65.
 * [MEGA65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals.
 * [Xemu](https://github.lgb.hu/xemu/) - Use this emulator on your Mac, Linux, or Windows PC to run a virtual MEGA65 environment. A great way to get started with zero cost.
@@ -62,12 +61,13 @@ The sections below contain sorted links to MEGA65 content. Send your link recomm
 ### Community
 
 * [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to the friendliest community of MEGA65 developers and users on Discord. Think 8-bit BBS level support without the communication delay.
-* [MEGA65 - Forum64](https://www.forum64.de/index.php?board/457-mega65/&l=2)
-* [Keeping up with the MEGA65 - by Dan Sanderson](https://m65digest.substack.com/p/keeping-up-with-the-mega65?showWelcome=true)
+* [MEGA65 - Forum64](https://www.forum64.de/index.php?board/457-mega65/&l=2) - Old school forum for MEGA65 content.
+* [Keeping up with the MEGA65 - by Dan Sanderson](https://m65digest.substack.com/p/keeping-up-with-the-mega65?showWelcome=true) - Dan's MEGA65 newsletter. Subscribe vial email or RSS.
+* [MEGA65 on Reddit](https://www.reddit.com/r/mega65/) - The Reddit location for all things MEGA65.
 
 ### Gear
 
-* [MEGA65 Products Trenz Electronic GmbH Online Shop (EN)](https://shop.trenz-electronic.de/en/Products/MEGA65/)
-* [COMMAND Webshop](https://commandshop.eu/)
-* [MINI MEGA65 Keychain](https://www.lavago.de/mini-mega65.html)
-* [mouSTer - Modern mouse adapter for retro computers](https://retrohax.net/shop/amiga/mouster/)
+* [MEGA65 Products Trenz Electronic GmbH Online Shop (EN)](https://shop.trenz-electronic.de/en/Products/MEGA65/) - Purchase your MEGA65 here.
+* [COMMAND Webshop](https://commandshop.eu/) - Purchase MEGA65 gear such as t-shirts, mugs, and USB drives.
+* [MINI MEGA65 Keychain](https://www.lavago.de/mini-mega65.html) - Show your MEGA65 support with a mini-MEGA65 keychain.
+* [mouSTer - Modern mouse adapter for retro computers](https://retrohax.net/shop/amiga/mouster/) - Finding a tank mouse is tough, but this adapter will let you use any USB mouse. Perfect for GEOS.a Here's [my experience with the MouSTer](https://www.stevencombs.com/mouster).
