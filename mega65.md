@@ -6,7 +6,8 @@ permalink: /mega65
 
 <img class="category" src="http://www.stevencombs.com/images/design/mega65.svg" width="20%" />
 
-I own one of 100 [MEGA65 Dev Kits (#261)](https://www.stevencombs.com/mega65-1) and one of the first batch of 400. This ownership allows me to experience, once again, my love of Commodore computers and the joy of BASIC and 8-bit computers.
+
+This page is a quick reference and start point for "all things MEGA65." Bookmark/Favorite this page for quick access and I'll keep the updates coming.
 
 <div class="video-container">
   <video width=500px id="video-bg" autoplay muted loop>
@@ -15,8 +16,6 @@ I own one of 100 [MEGA65 Dev Kits (#261)](https://www.stevencombs.com/mega65-1) 
 </div>
 
 <sup>Video Courtesy [MEGA65](https://mega65.org)</sup>
-
-This page is a quick reference and start point for "all things MEGA65." Bookmark/Favorite this page for quick access and I'll keep the updates coming.
 
 ## My Blog Posts
 
