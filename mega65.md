@@ -34,14 +34,14 @@ Check out my [MEGA65 YouTube channel playlist]
 
 The memories of programming my VIC-20 and C128 are alive as I use BASIC 65 on the MEGA65 and create my own programs. Use the link below to view my BASIC programs:
 
-1. [MEGA65 Color Palette](https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b) - Short program, with sound effect, that displays the standard and extended color palette of the MEGA65.
-2. [Submarine Tracking Program](https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270) - This program is a recreation of the [submarine tracking program](https://www.stevencombs.com/basic65-sub-track-update) found in the Commodore 128 Programmer's Reference Guide. More information is [here](https://www.stevencombs.com/sub-track-sys) and [here](https://www.stevencombs.com/basic65-sub-track-update).
+* [MEGA65 Color Palette](https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b) - Short program, with sound effect, that displays the standard and extended color palette of the MEGA65.
+* [Submarine Tracking Program](https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270) - This program is a recreation of the [submarine tracking program](https://www.stevencombs.com/basic65-sub-track-update) found in the Commodore 128 Programmer's Reference Guide. More information is [here](https://www.stevencombs.com/sub-track-sys) and [here](https://www.stevencombs.com/basic65-sub-track-update).
 
-## My Favorite MEGA65 Links
+## MEGA65 Links
 
 The sections below contain sorted links to MEGA65 content. Send your link recommendation via email to [retrocombs@icloud.com](mailto:retrocombs@icloud.com?subject=Recommend%20Link).
 
-### Official Content
+### Official
 
 * [MEGA65 Homepage](https://www.mega65.org) - Learn all about the MEGA65 and what makes this retro recreation special.
 * [MEGA65 YouTube Channel](https://www.youtube.com/channel/UCEz3CQ343r4ssvIdmhDauMQ) - The latest update videos and development streams from the MEGA65 team. MUST WATCH!
@@ -53,7 +53,7 @@ The sections below contain sorted links to MEGA65 content. Send your link recomm
 * [What is the MEGA65](https://mega65.org/assets/pdf/What_is_the_MEGA65.pdf)
 * [MEGA - Museum of Electronic Games & Art](https://www.m-e-g-a.org/)
 
-### Technical Content
+### Technical
 
 * [MEGA65 book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d) - The entire reference collection all in a single PDF ready for reading, searching, or even printing.
 * [MEGA65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA65 project. User highlights include the user's guide, tools, and Xemu (see above).
@@ -64,15 +64,15 @@ The sections below contain sorted links to MEGA65 content. Send your link recomm
 * [MEGA65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals.
 * [Xemu](https://github.lgb.hu/xemu/) - Use this emulator on your Mac, Linux, or Windows PC to run a virtual MEGA65 environment. A great way to get started with zero cost.
 
-### Community Content
+### Community
 
 * [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to the friendliest community of MEGA65 developers and users on Discord. Think 8-bit BBS level support without the communication delay.
 * [MEGA65 - Forum64](https://www.forum64.de/index.php?board/457-mega65/&l=2)
 * [Keeping up with the MEGA65 - by Dan Sanderson](https://m65digest.substack.com/p/keeping-up-with-the-mega65?showWelcome=true)
 
-### MEGA65 Gear
+### Gear
 
-* [MEGA65 | Products | Trenz Electronic GmbH Online Shop (EN)](https://shop.trenz-electronic.de/en/Products/MEGA65/)
+* [MEGA65 Products Trenz Electronic GmbH Online Shop (EN)](https://shop.trenz-electronic.de/en/Products/MEGA65/)
 * [COMMAND Webshop](https://commandshop.eu/)
 * [MINI MEGA65 Keychain](https://www.lavago.de/mini-mega65.html)
 * [mouSTer - Modern mouse adapter for retro computers](https://retrohax.net/shop/amiga/mouster/)
