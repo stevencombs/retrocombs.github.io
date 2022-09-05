@@ -9,7 +9,7 @@ permalink: hibernated1
 category: mega65
 ---
 
-During a 2022-08-07 live stream, I opened the first boxed software released for the MEGA65, PolyPlay's [Hibernated 1 - Director's Cut](https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1) by Stefan Vogt. To see what's included in the box, watch the companion video below. After the livestream, it became apparent I should create a companion blog post that provides additional background. You will understand the rationale for my decision as you read.
+During a 2022-08-07 live stream, I opened the first boxed software released for the MEGA65, PolyPlay's [Hibernated 1 - Director's Cut](https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1) by Stefan Vogt. To see what's included in the box, watch the companion video below. After the livestream, it became apparent I should create a companion blog post that provides background and a follow-up livestream to provide an example of game play.
 
 ![Box](https://www.polyplay.xyz/media/image/product/1668/lg/hibernated-1-directors-cut-mega65.jpg)
 
@@ -19,7 +19,7 @@ During a 2022-08-07 live stream, I opened the first boxed software released for 
 
 - [Table of Contents](#table-of-contents)
 - [Support the Blog and Channel](#support-the-blog-and-channel)
-- [Companion YouTube Video](#companion-youtube-video)
+- [Companion YouTube Videos](#companion-youtube-videos)
 - [Video Errata](#video-errata)
 - [Links Mentioned in this Video](#links-mentioned-in-this-video)
 - [Introduction to Text Adventures](#introduction-to-text-adventures)
@@ -38,15 +38,19 @@ During a 2022-08-07 live stream, I opened the first boxed software released for 
 
 Check out the [supporters page](https://www.stevencombs.com/supporters) to learn about my amazing supporters and how you can join our community.
 
-## Companion YouTube Video
+## Companion YouTube Videos
 
 Title: _Unbox and Play Hibernated 1 (Director's Cut) for MEGA65_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/LO8_Bxz8Fvs" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+Title: _Play Hibernated 1 (Director's Cut) for MEGA65 | Part 2 (Please Note: Periods of Audio Echo/Delay)_
+
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/RnK1uNGnCSA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
 ## Video Errata
 
-None as of 2022-08-13.
+[UPDATE: 2022-09-05] There's an echo/delay to my audio in Part 2. During the livestream I couldn't hear it but afterward, I determined that Chrome hadn't released the audio from my stream when I closed the browser after testing the broadcast before going live.
 
 ## Links Mentioned in this Video
 
