@@ -1,13 +1,13 @@
 ---
 
-title: 'StevenCombs.com'
+title: 'retroCombs'
 logo: '/images/design/retroCombs-logo.svg'
-description: 'Blog posts and video from Steven as he “COMBS” through the minutia to discover tech, retro-computing, physical computing, gadgets and sci-fi.'
+description: 'Retro computing with a touch of modern and the home for all things, retroCombs (aka Steven Combs).'
 google_analytics: UA-1632774-9
 name: 'retroCombs'
 email: 'retrocombs@icloud.com'
 tagline: 'Combsing through the retro-minutia…'
-url: 'https://www.stevencombs.com'
+url: 'https://www.retrocombs.com'
 
 lsi: false
 comments: true
