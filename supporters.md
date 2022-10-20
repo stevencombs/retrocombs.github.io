@@ -6,7 +6,7 @@ permalink: /supporters
 
 I have "the best supporters in the world" contributing to this blog and companion [YouTube channel](https://www.youtube.com/stevencombs). It may be a small group, but it is a mighty and communicative one that is the heart of a growing community of retro computing fans. Below is a list of those supporters for each level in alphabetical order.
 
-> **NEW for 2022:** retroCombs memberships are now available and each level, to meet all budgets, is based on our favorite Commodore computers. Check them out at <https://www.buymeacoffee.com/retroCombs>. Below is a sample of the first level; PET!
+> **NEW for 2022:** retroCombs memberships are now available and each level, to meet all budgets, is based on our favorite Commodore computers. Check them out at <https://www.buymeacoffee.com/retrocombs/membership>. Below is a sample of the first level; PET!
 
 > ![PET Level Membership](https://cdn.buymeacoffee.com/uploads/membership_level/2021/12/AVxnyaAqngdbAZ4HqgSFfHmEtbC3tpeiPDB5cfj5.png@800w_0e.webp)
 

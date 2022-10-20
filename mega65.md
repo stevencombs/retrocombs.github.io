@@ -4,7 +4,7 @@ title: 'MEGA65 Resource Page (v2.0)'
 permalink: /mega65
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/mega65.svg" width="20%" />
+<img class="category" src="/images/design/mega65.svg" width="20%" />
 
 
 This page is a quick reference and start point for "all things MEGA65." Bookmark/Favorite this page for quick access and I'll keep the updates coming.

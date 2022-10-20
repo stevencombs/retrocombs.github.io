@@ -4,7 +4,7 @@ title: Wyze Products
 permalink: /wyze
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/wyze.svg" width="20%" />
+<img class="category" src="/images/design/wyze.svg" width="20%" />
 
 Below are my posts about Wyze products.
 

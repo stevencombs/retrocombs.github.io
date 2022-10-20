@@ -4,7 +4,7 @@ title: Blog Posts
 permalink: /blog
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/blog.svg" width="20%" />
+<img class="category" src="/images/design/blog.svg" width="20%" />
 
 This page is a list of every post on this site. It can be a bit unwieldily to search through this list and I recommend that you use this page to simply review the most recent blog posts or browse and look for interesting titles. If you use a Mac, consider typing ⌘ + `F` to bring up the *Find* dialog box and search for a specific word or title.
 

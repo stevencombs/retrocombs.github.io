@@ -4,7 +4,7 @@ title: 3D Models
 permalink: /models
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/models.svg" width="20%" />
+<img class="category" src="/images/design/models.svg" width="20%" />
 
 Back in the day as a young faculty member, I was a mechanical design and computer-aided design instructor. Along with my co-author, I wrote over 12 books and workbooks related to AutoCAD and 3D Studio. I've since become a [higher education administrator](http://www.stevencombs.com/higher-education.html), but still dabble in modeling.
 

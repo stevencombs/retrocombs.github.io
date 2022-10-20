@@ -4,7 +4,7 @@ title: Amateur Radio (Ham)
 permalink: /ham
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/ham.svg" width="20%" />
+<img class="category" src="/images/design/ham.svg" width="20%" />
 
 2015 became the year that I decided to work on one of my bucket list items – obtain my amateur radio license. My grandfather was an amateur radio operator and this has been somewhat of a fascination of mine for years. Once I learned that Morse code was no longer a requirement, I decided to take the plunge. I made this decision on my 50th birthday and I think I waited entirely too long!
 
