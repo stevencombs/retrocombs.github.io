@@ -22,7 +22,7 @@ tags:
   - flash
 ---
 
-It's been awhile since I've posted anything LEGO related. I wouldn't say that I'm in my "dark years;" however, my LEGO hobby has been put on hold for some pressing work concerns and priority with other hobbies (I have way too many); namely my new [fascination with the 1980s era Commodore Plus/4 computer](https://www.stevencombs.com/plus4) and the use of [modern devices](https://www.stevencombs.com/pi1541) to make that device even more enjoyable to use in 2020s.
+It's been awhile since I've posted anything LEGO related. I wouldn't say that I'm in my "dark years;" however, my LEGO hobby has been put on hold for some pressing work concerns and priority with other hobbies (I have way too many); namely my new [fascination with the 1980s era Commodore Plus/4 computer](/plus4) and the use of [modern devices](/pi1541) to make that device even more enjoyable to use in 2020s.
 
 During the 2020 fourth of July weekend, Nikki and I brokedecided to break out some LEGO projects (Have I mentioned how much she and I miss our old podcast, Bricks in my Pocket - BimPCast?). I chose to worked on my IKEA LEGO minifig display that I've had on the back burner for months. I knew it would be a quickshort project; even including the video capture. The next day, I took twoa couple of hours with DaVinci Resolve to create an edit of what I hope is a fun video meant to inspire others to give this simple, and inexpensive, LEGO minifig display hack a try. What a fungreat family project for a rainy, hot, or snowy, afternoon!
 
@@ -56,4 +56,4 @@ Now that this video is complete, I'm looking forward to getting back to my [retr
 
 ## Join the Fun
 
-Have you created your own LEGO minifig display? Leave a comment below and share your creation. Nikki and I would love to see them. Stay tuned to <https://www.stevencombs.com> for any updates to this post with additional figures, or scenes, I add to my display(s). Now where is that Harley Quinn minifig?
+Have you created your own LEGO minifig display? Leave a comment below and share your creation. Nikki and I would love to see them. Stay tuned to <> for any updates to this post with additional figures, or scenes, I add to my display(s). Now where is that Harley Quinn minifig?

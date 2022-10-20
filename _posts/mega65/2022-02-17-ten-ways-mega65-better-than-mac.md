@@ -115,7 +115,7 @@ The MEGA65 continues the tradition of Commodore fast boot and even beats wonderf
 
 ### 2. Fast Updates
 
-The MEGA65 receives regular updates to both its Field Programmable Gate Array (FPGA) core and the closed ROMs. Prior to 2022, "flashing the core" was a slow process; [however, a recent update](https://www.stevencombs.com/mega65-core-testing-livestream) increased core flash update speeds by 1809%! That is not a typo! You can check watch the comparison in the video below:
+The MEGA65 receives regular updates to both its Field Programmable Gate Array (FPGA) core and the closed ROMs. Prior to 2022, "flashing the core" was a slow process; [however, a recent update](/mega65-core-testing-livestream) increased core flash update speeds by 1809%! That is not a typo! You can check watch the comparison in the video below:
 
 <!-- ☒ Slow flashing core video -->
 <!-- ☒ Fast flashing core video -->
@@ -314,24 +314,24 @@ Help make this content better! Leave your comments, corrections, additions, and 
 
 
 [1]: https://amzn.to/33e9HFb
-[2]: https://www.stevencombs.com/mega65-1
+[2]: /mega65-1
 [3]: https://discord.com/channels/719326990221574164/801767398675316756/918414507607466025
 [4]: https://www.mega65.org
 [5]: https://www.mega65.org
 [6]: https://amzn.to/3G3ZkCq
-[7]: [https://www.stevencombs.com/combianpi400-1]
+[7]: [/combianpi400-1]
 [8]: https://www.m-e-g-a.org/mega65-keyboards/?fbclid=IwAR0568QaSSrBabLtrFsS90CGJFvzGjdORnqt7ys121I8nL5jpedsH8cQw_I
 [9]: https://www.gmk-electronic-design.de/en.html
 [10]: https://www.wikiwand.com/en/Commodore_65
 [11]: https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1
 [12]: https://www.polyplay.xyz
 [13]: https://8bitgames.itch.io/hibernated1
-[14]: https://www.stevencombs.com/xemu-on-mac
+[14]: /xemu-on-mac
 [15]: https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1
 [16]: https://files.mega65.org/html/filedetail.php?id=0fb941fe-5c5f-4608-b0f1-32849d4a8dff
-[17]: https://www.stevencombs.com/pi1541-1
+[17]: /pi1541-1
 [18]: https://c65gs.blogspot.com/2022/01/more-work-on-hd-floppies-rll-encoding.html
 [19]: https://en.wikipedia.org/wiki/KERNAL
 [20]: https://www.youtube.com/stevencombs
-[21]: https://www.stevencombs.com
+[21]: 
 [22]: mailto:retrocombs@icloud.com

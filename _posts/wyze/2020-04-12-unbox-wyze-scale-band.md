@@ -31,7 +31,7 @@ I've created a new OPEN THE BOX and FIRST USE video and it's a twofer! Last week
 
 > **NOTE:** I'm still playing around with DaVinci Resolve and may have gone a bit overboard on effects and music; however, there's no better way to learn than trying out the features. Let me know if it's too much.
 
-> **FUN FACT:** I used the [Wyze Cam with the new webcam firmware](https://www.stevencombs.com/gadgets/2020/04/05/wyzecam-to-webcam.html) to record the unboxing video on the workbench.
+> **FUN FACT:** I used the [Wyze Cam with the new webcam firmware](/gadgets/2020/04/05/wyzecam-to-webcam.html) to record the unboxing video on the workbench.
 
 I've had the chance to use both the scale and the band for 24 hours. Each received a firmware update and both are working as expected; however, the Wyze Band is exceeding expectations. Listen, I know it's not an Apple Watch or an Android Wear OS device, but this thing is really handy. I've worn it for over 24 hours and during my COVID-19 day in my home office I was able to:
 

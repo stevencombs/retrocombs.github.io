@@ -16,7 +16,7 @@ tags:
   - manual
 ---
 
-This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](https://www.stevencombs.com/retro).
+This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](/retro).
 
 ![retroCombs Plus/4](/plus4/images/retrocombs-plus4.png)
 
@@ -107,7 +107,7 @@ Below are links I've found to be most beneficial as I work through this series:
 
     * [Commodore Plus/4 Computer Wikipedia Entry](https://en.wikipedia.org/wiki/Commodore_Plus/4)
     * [Commodore Plus/4 Wiki](https://www.c64-wiki.com/wiki/Commodore_Plus/4)
-    * [My blog](https://www.stevencombs.com/rss) (This site)
+    * [My blog](/rss) (This site)
     * [My Twitter feed](https://www.twitter.com/stevencombs)
     * [My YouTube channel](https://www.youtube.com/stevencombs)
 
@@ -129,7 +129,7 @@ Below are links I've found to be most beneficial as I work through this series:
 
 4. [Commodore Plus/4 User's Manual, Chapter 3 - Using Software](/plus4-4)
 
-    I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](https://www.stevencombs.com/tapuino-1), and a [Pi1541](https://www.stevencombs.com/pi1541-1).
+    I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](/tapuino-1), and a [Pi1541](/pi1541-1).
 
     * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
     * [Pi1541 Setup](/pi1541-1)
@@ -150,7 +150,7 @@ Below are links I've found to be most beneficial as I work through this series:
 
     In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher; I hope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequate.
 
-    * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+    * [Commodore Plus/4 User's Manual Series](/plus4)
     * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
     * [The Tapuino Project](/tapuino-1)
 
@@ -158,9 +158,9 @@ Below are links I've found to be most beneficial as I work through this series:
 
     In Chapter 6, _Beginning BASIC Programming_, of the Commodore Plus/4 user's manual, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.
 
-    * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+    * [Commodore Plus/4 User's Manual Series](/plus4)
     * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
-    * [Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
+    * [Pi1541 Assembly and First Use](/pi1541-1)
     * [ Project](https://mega65.org/)
     * [ Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
     * [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
@@ -170,7 +170,7 @@ Below are links I've found to be most beneficial as I work through this series:
 
     Our first significant foray into custom graphics, besides PETSCII, on the Plus/4 begins in this chapter; _Using Graphics and Color_. The Plus/4 and its sibling, the C16 did not include sprites or other custom chips to enhance graphics; however, it did include a custom BASIC commands not found on the VIC-20 or C64. The extra graphics commands and additional graphics modes make the Plus/4 whole lotta fun if you want to draw on your computer using a command language.
 
-    * [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+    * [Commodore Plus/4 User's Manual Series](/plus4)
 
 9. [Commodore Plus/4 User's Manual, Chapter 8 - Making Sound and Music on the Plus/4](/plus4-9)
 

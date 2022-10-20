@@ -30,7 +30,7 @@ In the video below, I open as a box on a Lenovo Yoga Tab with Google Assistant:
 
 Before I share my thoughts about the Lenovo Yoga Smart Tab with Google Assistant (whew!), let's find out what makes this thing tick and along the way, I'll share why it the things to like/dislike about this tablet.
 
-![](https://www.stevencombs.com/images/posts/lenovo/lenovo-smart-tab.jpg)
+![](/images/posts/lenovo/lenovo-smart-tab.jpg)
 
 > Need a case for this device? I like the $12 Moko case below:
 
@@ -40,25 +40,25 @@ Before I share my thoughts about the Lenovo Yoga Smart Tab with Google Assistant
 
 The design, while reminiscent of a tablet, is unique because of the two small, but powerful speakers built into the tablet. We'll talk more about the speakers later. The tablet looks like a book with a spine that hosts two loud speakers. A built-in metal plate on the back serves as either a stand or hanger. I've never thought about hanging a tablet, but it is a useful feature.
 
-![](https://www.stevencombs.com/images/posts/lenovo/device.jpg)
+![](/images/posts/lenovo/device.jpg)
 
 ### System
 
 Android 9, affectionately know as Pie, is the OS for this device. ~~I've had enough Pie and there's no way to upgrade to Android 10 or 11. This limits device features, such as swipe gestures, dark mode integration, and updated share sheets. It's not a deal breaker, but come-on, Lenovo. You kill the user's tablet longevity.~~ They eventually released an upgrade to Android 10.
 
-![](https://www.stevencombs.com/images/posts/lenovo/system.jpg)
+![](/images/posts/lenovo/system.jpg)
 
 ### CPU
 
 Let's talk about hardware. The Lenovo is powered by the now three-year-old (as of this writing) [Qualcomm Snapdragon 439](https://www.qualcomm.com/products/snapdragon-439-mobile-platform) 64 bit, 2 Ghz, octo-core/thread processor. You would think with all that giga, octo, and thread count, this would be a monster processor; however, online descriptions tout this chip as a "lower mainstream system on a chip (SOC)." Don't expect amazing performance but "just enough." The chip is fine for this device and normal user interface operations are smooth. App launching is tidy and multitasking is seamless. More on this as we talk about memory.
 
-![CPU](https://www.stevencombs.com/images/posts/lenovo/cpu.jpg
+![CPU](/images/posts/lenovo/cpu.jpg
 
 ### GPU
 
 Graphics are the work of the built-in Adreno 505. This GPU is three years-old and not what you would call a pixel pusher. It's fine, but not great. 2D display and minimal poly-count games are smooth, but try a modern 3D shooter and you will need to lower rendering requirements for any decent frame rate. I'm not a hardcore gamer and 3D gaming is not a feature I need on a tablet. On occasion, I will watch video on the device (since it has this amazing sound system) and this chip spits out 1080p video at 30 fps without hesitation. Not fabulous, but it gets the job done.
 
-![](https://www.stevencombs.com/images/posts/lenovo/gpu.jpg)
+![](/images/posts/lenovo/gpu.jpg)
 
 ### Memory
 
@@ -68,7 +68,7 @@ Many low end tablets stick you with 2 Gb of onboard RAM. Thankfully, Lenovo adde
 
 Internal storage comes from a suitable, but not massive, 64 Gb eMMC Flash Drive. About 50 Gb is available to the user. Add more storage (but no offloading of apps) using the microSD card expansion under the built-in stand (see video above). 64 Gb is plenty for my use, but you might need more if you want to carry around a bunch of video with you or play a lot of games, but remember that games gotcha!
 
-![](https://www.stevencombs.com/images/posts/lenovo/memory.jpg)
+![](/images/posts/lenovo/memory.jpg)
 
 ### Battery
 
@@ -76,25 +76,25 @@ Battery life is good. My primary use for this tablet is reading and video. I get
 
 It does not support fast charging on the USB-C port. A full charge takes several hours. Instead, it uses trickle charge, which is easier on the tablet's battery when the device in ambient mode. That may be true, but it sure would be nice to have the option to fast-charge.
 
-![](https://www.stevencombs.com/images/posts/lenovo/battery.jpg)
+![](/images/posts/lenovo/battery.jpg)
 
 ### Display
 
 Technically, the display is HD, but it is a few pixels short at 1920 x 1200, versus 1920 x 1280; however, it is a beautiful 10" IPS LCD screen with a 60 Hz refresh rate. It does not support HDR but colors are bright and blacks are dark. There has not been an environmental situation that has caused me issues with the screen. I don't use the tablet outside and can't speak to using this device outdoors.
 
-![Display](https://www.stevencombs.com/images/posts/lenovo/display.jpg)
+![Display](/images/posts/lenovo/display.jpg)
 
 ### Camera
 
 Camera quality is good but not what you would expect from a modern phone. Using a tablet to take pictures, to me, is goofy and cumbersome. The front camera is "good enough" for a Zoom or Teams meeting.
 
-![Camera](https://www.stevencombs.com/images/posts/lenovo/camera.jpg)
+![Camera](/images/posts/lenovo/camera.jpg)
 
 ### Sensors
 
 Holy tricorder, Mr. Spock (how about that mash up of two 60's pop culture references?). This thing has 28 sensors that cover both internal and external environmental variables. Why it has a step sensor is beyond me. You will not strap this thing on your back and go for a hike. My guess; it's a leftover remnant from the mobile processor which explains why the Android OS on tablets is mess. On the plus side, this thing includes the sensors necessary to make light gaming a pleasure.
 
-![](https://www.stevencombs.com/images/posts/lenovo/sensors.jpg)
+![](/images/posts/lenovo/sensors.jpg)
 
 ### Ports
 

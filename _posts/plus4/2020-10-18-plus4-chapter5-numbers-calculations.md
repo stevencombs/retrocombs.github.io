@@ -56,7 +56,7 @@ In this Commodore Plus/4 retroCombs episode, I cover chapter 5 of the Commodore 
 
 This episode is a small part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
 
-<https://www.stevencombs.com/plus4>
+</plus4>
 
 ## Companion Disk Image
 
@@ -75,15 +75,15 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
 
-[Chapter 54 - Numbers and CalculationsGetting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-54.pdf)
+[Chapter 54 - Numbers and CalculationsGetting Started](/plus4/users-manual/p4um-chapter-54.pdf)
 
 Below are the links for previous chapters covered:
 
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
-3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
-4. [Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
-5. [Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4	.pdf)
+3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
+4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
+5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4	.pdf)
 
 ## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 5 - Numbers and Calculations_
 
@@ -103,7 +103,7 @@ Thanks for the catch and correction, Robin!
 
 Below are the links I mention in the video.
 
-1. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+1. [Commodore Plus/4 User's Manual Series](/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
 3. [The Tapuino Project](/tap](/teduino-1)
 
@@ -130,7 +130,7 @@ No feedback from previous episode. I must have gotten most things correct!
 ## Introduction
 
 1. Thanks to all my viewers for the feedback.
-2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).link).
+2. .d81 disk image is now available [here](/plus4#companion-disk-image).link).
 3. Proud of the companion website for this episode. Check it out!
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 

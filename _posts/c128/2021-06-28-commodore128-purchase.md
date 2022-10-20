@@ -79,7 +79,7 @@ In the late 1980s, I sold my beloved Commodore 128 so I could purchase an Amiga 
 
 ## The Commodore 128 eBay Purchase
 
-While working my way through my [Commodore Plus/4 User's Manual](https://www.stevencombs.com/plus4) and trying out BASIC 3.5, I became nostalgic about my old Commodore 128. I've conducted searches on eBay for a replacement since January 2021 and had lost bids, or been leery about the operational integrity of the systems available.
+While working my way through my [Commodore Plus/4 User's Manual](/plus4) and trying out BASIC 3.5, I became nostalgic about my old Commodore 128. I've conducted searches on eBay for a replacement since January 2021 and had lost bids, or been leery about the operational integrity of the systems available.
 
 In June of 2021, I thought I would win a bid on a C128D. While not the model I owned previously, it was a C128 with a cool form factor. I lost that bid; however, I was following another C128.
 
@@ -129,8 +129,8 @@ After removing the packaging, I could immediately tell the seller delivered what
 
 I connected the Keelog power supply to the C128 and then into the wall, hoping smoke would not follow; and it did not. I connected the video to my [Cloner Alliance Box Pro's](https://amzn.to/3wYSOs5) composite video port using a [5 pin DIN to four RCA port adapter](https://amzn.to/3x15RcC). The cable sends the output to a [LePow portable HDMI display](https://amzn.to/3A0Xwrf). I use a [Vassink HDMI switcher](https://amzn.to/3h3T2rk) to plug in several HDMI sources to the monitor at one time such as my [MEGA65][84d5375d] and [TheVIC20][807000dc].
 
-  [84d5375d]: https://www.stevencombs.com/mega65-3 "Part 1: Ten cool things you will do with a MEGA65"
-  [807000dc]: https://www.stevencombs.com/thevic20-1 "retroCombs: 10 reasons THEVIC20 and THEC64 are a great retro-computing gifts"
+  [84d5375d]: /mega65-3 "Part 1: Ten cool things you will do with a MEGA65"
+  [807000dc]: /thevic20-1 "retroCombs: 10 reasons THEVIC20 and THEC64 are a great retro-computing gifts"
 
 I turned on the computer and low and behold, the familiar C128 green and gray screen complete with … NOTHING! "Oh, no!" Again, my mind assumed something was wrong. And wrong it was. While tapping the keyboard earlier, I hit the 40/80 column button on the keyboard. The computer was in 80 column mode. I turned the computer off, tapped the 40/80 column key, turned the computer back on, and _TADA!_; on the display was the familiar screen announcing:
 

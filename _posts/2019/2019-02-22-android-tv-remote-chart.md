@@ -26,7 +26,7 @@ You can send this information via email to: <steven@pixelpowerpodcast.com>
 
 [Android TV Remote Comparison][REMOTES]
 
-![Android TV Remote Comparison Sheet](https://www.stevencombs.com/images/posts/2019-02-22-android-tv-remote-sheet.png)
+![Android TV Remote Comparison Sheet](/images/posts/2019-02-22-android-tv-remote-sheet.png)
 
 I hope Android TV users find this chart useful. If you do, drop me a comment below. I'm also open to suggestions for additional information I should include.
 

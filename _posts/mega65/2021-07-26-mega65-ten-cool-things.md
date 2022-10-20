@@ -89,7 +89,7 @@ Below are the links I mention in the videos. All Amazon links are affiliate link
 3. [The C64 mini](https://amzn.to/35kudC5)
 4. [The VIC20](https://retrogames.biz/thevic20)
 5. [DE10-Nano Kit for miSTer](https://amzn.to/3iUhDj4)
-6. [Pi 1541](https://www.stevencombs.com/pi1541)
+6. [Pi 1541](/pi1541)
 7. [IEC Cable](https://amzn.to/3vl2N9I)
 8. [Competition Pro Joystick](https://retromash.com/galleries/competition-pro/)
 9. [Competition Pro](https://icomp.de/shop-icomp/en/shop/product/competition-pro-retro.html)
@@ -107,7 +107,7 @@ What if you want an original Commodore computing experience that includes a Comm
 
 I'm one of the lucky 100 (#00261 to be exact) [MEGA65 DevKit][625e0d3b] owners and while I'm not a developer, I chose to use my DevKit to help spread the word about what will be the Commodore retro-creation you will want to own. With an impending release announcement, I want to get everyone excited about MEGA65. Here's my list of the top 10 cool things you will be able to do on the MEGA65 that distinguish this device from other Commodore recreations such as THEC64 or software emulator [VICE - The Versatile Commodore Emulator](https://vice-emu.sourceforge.io).
 
-  [625e0d3b]: https://www.stevencombs.com/mega65-1 "retroCombs: MEGA65 Open the box, assembly, and first use"
+  [625e0d3b]: /mega65-1 "retroCombs: MEGA65 Open the box, assembly, and first use"
 
 Before we look at the top 10, let's take a quick look at what makes the MEGA65 special.
 
@@ -198,7 +198,7 @@ Finding software on cartridges and cassettes was impossible in the small town wh
 
 Luckily, the MEGA65 includes a huge upgrade to Commodore's original BASIC version 1.0. Version 10 integrates commands from BASIC 3.5 found on the Commodore Plus/4 and version 7 found on the Commodore 128.
 
-> Be sure to check out my [Commodore Plus/4 User's Manual series](https://www.stevencombs.com/plus4) to see the new BASIC commands not included with the VIC-20 or C64.
+> Be sure to check out my [Commodore Plus/4 User's Manual series](/plus4) to see the new BASIC commands not included with the VIC-20 or C64.
 
 BASIC is great; however, in development is a wonderful MEGA65 mode development environment called Eleven. With Eleven you develop games and software using an enhanced BASIC structure (no line numbers and `GOTO` statements) and compile the software right on the MEGA65. Add Eleven to the power of the MEGA65 and you have a convenient on device development environment. I can't wait to dive into Eleven and try it.
 
@@ -215,13 +215,13 @@ Luckily, we live in a world where microcontrollers are a dime a dozen and tinker
 
 > Check out [my full mouSTer post][1ccf40a2] for complete information and video.
 
-  [1ccf40a2]: https://www.stevencombs.com/mouster-1 "Use the Retrohax.net mouSTer on the MEGA65"
+  [1ccf40a2]: /mouster-1 "Use the Retrohax.net mouSTer on the MEGA65"
 
 Since I published this article, the folks over at mouSTer have even provided the MEGA65 team with [a 1351 firmware file](https://files.mega65.org?id=436416b6-fa73-4721-8b41-61a284e18faf) ready for emulation.
 
 The mouSTer and my [wireless Victsing mouse][5a0c6c18], work perfectly with games such as Solitaire.
 
-  [5a0c6c18]: https://www.stevencombs.com/victsing-wireless-mouse "OPEN THE BOX and FIRST USE: VictSing Wireless (USB and Bluetooth) Mouse"
+  [5a0c6c18]: /victsing-wireless-mouse "OPEN THE BOX and FIRST USE: VictSing Wireless (USB and Bluetooth) Mouse"
 
 There were many titles for the Commodore 64 and 128 that used the 1351 mouse; however, there was one title where this mouse was a requirement and we'll cover that in part two of this series. And there's your teaser.
 
@@ -235,7 +235,7 @@ The MEGA65 includes an Ethernet port. We will use this for many things; however,
 
 > If you have an interest in this topic, I recommend you check out my [Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem][0c050ad4] post and video. In this video, I discuss how to access a BBS using Telnet and a Wi-Fi modem.
 
-  [0c050ad4]: https://www.stevencombs.com/plus4bbs "Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem"
+  [0c050ad4]: /plus4bbs "Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem"
 
 During the [MEGA65 May 2021 update video](https://www.youtube.com/watch?v=KDwIMwlIcb0&t=1153s), they connected the MEGA65 to the [Boar's Head Tavern BBS](https://www.telnetbbsguide.com/bbs/boars-head-tavern/).
 

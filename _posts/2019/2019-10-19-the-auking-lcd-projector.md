@@ -22,7 +22,7 @@ This year, we wanted to break away from the standard scenes provided and brighte
 
 Toward the holiday season, I once again began thinking about these devices. I browsed the numerous listings of these tiny inexpensive projectors until my head was about to explode. I looked at brands, models, and reviews. I placed several projectors in my cart, removed them, then added others. In the end, I finally decided to purchase the [AuKing Mini Projector (Upgraded for 2019) (#ad)](https://amzn.to/32Hhqq8).
 
-![The AuKing 2019 Mini Projector](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/1.jpg)
+![The AuKing 2019 Mini Projector](/images/posts/2019-10-19-AuKing/1.jpg)
 
 I choose the AuKing for three reasons:
 
@@ -33,7 +33,7 @@ I choose the AuKing for three reasons:
 ## My Holiday Use Case
 Before I share my review, I want to describe how I use this projector. The LCD projector is connected to an [AmazonBasics standard camera tripod (#ad)](https://amzn.to/35QsBie). The LCD projector includes the threads necessary. I shoot the image onto a translucent window shade mounted to a large window on the front of our home.
 
-![AuKing on AmazonBasics Tripod](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/2.jpg)
+![AuKing on AmazonBasics Tripod](/images/posts/2019-10-19-AuKing/2.jpg)
 
 Visitors are treated to movies I play from an inexpensive [32 Gb microSD card (#ad)](https://amzn.to/2qotTRn) plugged into the LCD projector. You probably wouldn't guess it with a projector this inexpensive, but the it includes the ability to reverse the image so visitors don't see mirrored video. The projector also includes repeat and sleep timer features. I simply turn the projector on, select the movie to display from the built-in media display menus, select repeat, and finally select four hours of play. In the words of Ron Popeil, I "set it and forget it."
 
@@ -102,67 +102,67 @@ This make and model has a higher resolution and more lumens for about $160. I al
 ## Gallery
 Below are images of the item reviewed. Comments are below each image.
 
-![AuKing in box](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/3.jpg)
+![AuKing in box](/images/posts/2019-10-19-AuKing/3.jpg)
 
 AuKing projector prior to unboxing.
 
 ----
 
-![Cables](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/4.jpg)
+![Cables](/images/posts/2019-10-19-AuKing/4.jpg)
 
 Includes all the cables you need and a remote (batteries not included).
 
 ----
 
-![Instruction manual](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/5.jpg)
+![Instruction manual](/images/posts/2019-10-19-AuKing/5.jpg)
 
 Functional, but don't expect any details in this flimsy manual.
 
 ----
 
-![The projector and remote](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/6.jpg)
+![The projector and remote](/images/posts/2019-10-19-AuKing/6.jpg)
 
 The Auking projector and remote. The mouse is included in image to provide a size comparison.
 
 ----
 
-![Ports](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/7.jpg)
+![Ports](/images/posts/2019-10-19-AuKing/7.jpg)
 
 Includes all the port you need to connect to most devices.
 
 ----
 
-![Stereo speakers](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/8.jpg)
+![Stereo speakers](/images/posts/2019-10-19-AuKing/8.jpg)
 
 Includes 4 watt stereo speakers.
 
 ----
 
-![Front of projector](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/9.jpg)
+![Front of projector](/images/posts/2019-10-19-AuKing/9.jpg)
 
 Good looking projector that includes both zoom and keystone adjustments.
 
 ----
 
-![On device controls](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/10.jpg)
+![On device controls](/images/posts/2019-10-19-AuKing/10.jpg)
 
 On device controls when the remote won't function.
 
 ----
 
-![Demonstration projection](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/11.jpg)
+![Demonstration projection](/images/posts/2019-10-19-AuKing/11.jpg)
 
 Sample of my first trial. Connected to a Fire TV stick in dark basement onto a blue wall.
 
 ----
 
-![Sample of pixels](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/12.jpg)
+![Sample of pixels](/images/posts/2019-10-19-AuKing/12.jpg)
 
 A close up image of the pixelation.
 
 ----
 
-![Everything operating](https://www.stevencombs.com/images/posts/2019-10-19-AuKing/13.jpg)
+![Everything operating](/images/posts/2019-10-19-AuKing/13.jpg)
 
 Everything connected and operating.
 

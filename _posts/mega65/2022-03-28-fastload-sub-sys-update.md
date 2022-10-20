@@ -16,7 +16,7 @@ tags:
   - programming
 ---
 
-In my blog post, [Converting a Commodore 128 Submarine Tracking System BASIC Program to the MEGA65](https://www.stevencombs.com/sub-track-sys), I show what the title suggests, converting a Commodore 128 BASIC V7 program, the *Submarine Tracking System*, found on page 116 of the C128 Programmer's Reference Guide to MEGA65 BASIC which began it's life on the unreleased Commodore 65 with BASIC 10. This blog post and companion video is a follow-up to that project. I have a bunch of information to share. Let's get to it.
+In my blog post, [Converting a Commodore 128 Submarine Tracking System BASIC Program to the MEGA65](/sub-track-sys), I show what the title suggests, converting a Commodore 128 BASIC V7 program, the *Submarine Tracking System*, found on page 116 of the C128 Programmer's Reference Guide to MEGA65 BASIC which began it's life on the unreleased Commodore 65 with BASIC 10. This blog post and companion video is a follow-up to that project. I have a bunch of information to share. Let's get to it.
 
 ----
 
@@ -72,7 +72,7 @@ In the video below, I provide an update to my C128 to MEGA65 Submarine Tracking 
 
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel by starting your purchases here!
 
-1. [Converting a Commodore 128 Submarine Tracking System BASIC Program to the MEGA65](https://www.stevencombs.com/sub-track-sys)
+1. [Converting a Commodore 128 Submarine Tracking System BASIC Program to the MEGA65](/sub-track-sys)
 2. [MEGA65 Computer](https://www.mega65.org)
 3. [MEGA65 Discord](https://discord.gg/5DNvESf)
 3. [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
@@ -80,7 +80,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 ## C128 Submarine Tracking System BASIC Program
 
-As a reminder, below is the original BASIC V7 C128 *Submarine Tracking System* from the [C128 Programmer's Reference Manual](https://www.stevencombs.com/images/c128/c128-programmers-reference-guide.pdf).
+As a reminder, below is the original BASIC V7 C128 *Submarine Tracking System* from the [C128 Programmer's Reference Manual](/images/c128/c128-programmers-reference-guide.pdf).
 
 ```realbasic
 10 REM SUBMARINE TRACKING SYSTEM (C128)
@@ -106,13 +106,13 @@ As a reminder, below is the original BASIC V7 C128 *Submarine Tracking System* f
 210 LOOP UNTIL XR=90
 220 LOOP
 ```
-**💾 Download:** [`C128 SUB TRACK`](https://www.stevencombs.com/images/c128/c-128-sub-track-sys.txt)
+**💾 Download:** [`C128 SUB TRACK`](/images/c128/c-128-sub-track-sys.txt)
 
 Below is the output:
 
 <div class="video-container">
   <video width=500px id="video-bg" autoplay muted loop>
-  <source src="https://www.stevencombs.com/images/c128/c128-sub-track-sys.mp4" type="video/mp4">
+  <source src="/images/c128/c128-sub-track-sys.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -235,7 +235,7 @@ As I mentioned in the last video, there are additions I recommend, but at the ti
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

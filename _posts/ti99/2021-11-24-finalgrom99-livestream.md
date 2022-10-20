@@ -13,7 +13,7 @@ tags:
   - ti994a
 ---
 
-Out of nowhere, on a lazy Sunday afternoon, and while preparing for my [The FinalGROM 99 for the Texas Instruments TI-99/4A](https://www.stevencombs.com/finalgrom99) video, I took my FinalGROM 99 experimentation online with a livestream to troubleshoot 32 Kb memory expansion module sidecar issues and play several Texas Instruments TI-99/4A games. This is the companion blog post for the edit which removes over 45 minutes.
+Out of nowhere, on a lazy Sunday afternoon, and while preparing for my [The FinalGROM 99 for the Texas Instruments TI-99/4A](/finalgrom99) video, I took my FinalGROM 99 experimentation online with a livestream to troubleshoot 32 Kb memory expansion module sidecar issues and play several Texas Instruments TI-99/4A games. This is the companion blog post for the edit which removes over 45 minutes.
 
 > **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
 
@@ -143,7 +143,7 @@ Below are the time codes from the video that serve as an outline to content:
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

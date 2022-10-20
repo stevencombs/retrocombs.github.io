@@ -38,17 +38,17 @@ The first step is to remove the noise from your inbox. Do you really need email 
 
 Look in the email for an unsuscribe link; most of the time these links are at the bottom of the message so you can't easily fnd them (like the one shown below).
 
-![Unsubscribe link](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/email-unsubscribe-link.png)
+![Unsubscribe link](/images/posts/2019-12-01-steps-to-inbox-zero/email-unsubscribe-link.png)
 
 For reputable organizations, these links do work. If you aren't sure about the organization's validity or can't find a link to unsubscribe, use your email client's tools to spam the message. Gmail provides an unsubscribe and spam tools such as the ones shown below:
 
-1. Click the *Unsubscribe* link. ![Unsubscribe link](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-link.png)
-2. Click the *Unsubscribe* button to verify.![Unsubscribe button](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-dialog.png)
-3. Next choose the option to move the original email to the Spam folder to report all future messages as spam in the even that unsubscribe does not work. ![Move to Spam](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-report-spam.png)
+1. Click the *Unsubscribe* link. ![Unsubscribe link](/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-link.png)
+2. Click the *Unsubscribe* button to verify.![Unsubscribe button](/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-dialog.png)
+3. Next choose the option to move the original email to the Spam folder to report all future messages as spam in the even that unsubscribe does not work. ![Move to Spam](/images/posts/2019-12-01-steps-to-inbox-zero/gmail-unsubscribe-report-spam.png)
 
 These tools work well. Unfortunately, I only have my personal account in Gmail. For work, I am stuck with Outlook which only includes a report as spam option as shown below:
 
-![Outlook Junk Menu](https://www.stevencombs.com/images/posts/2019-12-01-steps-to-inbox-zero/outlook-junk-menu.png)
+![Outlook Junk Menu](/images/posts/2019-12-01-steps-to-inbox-zero/outlook-junk-menu.png)
 
 ## Step 2: Delete, delete, and delete
 

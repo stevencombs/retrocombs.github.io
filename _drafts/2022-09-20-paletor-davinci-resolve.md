@@ -27,7 +27,7 @@ It's time for me to share another tool I use to create my retro-computing conten
 
 ## Support the Blog and Channel
 
-Check out the [supporters page](https://www.stevencombs.com/supporters) to learn about my amazing supporters and how you can join our community.
+Check out the [supporters page](/supporters) to learn about my amazing supporters and how you can join our community.
 
 ## Companion YouTube Video
 
@@ -111,7 +111,7 @@ If you find Paletor useful for your workflow, post a comment below. If you are i
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

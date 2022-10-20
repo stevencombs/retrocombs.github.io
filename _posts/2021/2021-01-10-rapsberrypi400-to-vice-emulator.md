@@ -198,7 +198,7 @@ I've chosen to name this build the Combian pi/400. I like the name since it comb
 
 ![Combian pi/400 logo and plate](/combianpi400/combianpi400-logo-serial.png)
 
-I'm sure I'm unique in this regard; however, I do 90% of my design work in Google Slides for the [blog](https://www.stevencombs.com) and the [YouTube](https://www.youtube.com/stevencombs) channel. Every graphic I use in this video I create and export from Google Slides. That will seem odd to many professional, and even amateur, graphic designers; however, I find [Google Slides](https://slides.google.com) provides me with just the tools I need while at the same time gives me free and anywhere access to my files and the tools to make modifications; on almost any PC or mobile device I own. I do wish slides included features like layers, Boolean geometry creations, and custom fonts; however, I now know how to work my way around these limitations for most of my projects.
+I'm sure I'm unique in this regard; however, I do 90% of my design work in Google Slides for the [blog]() and the [YouTube](https://www.youtube.com/stevencombs) channel. Every graphic I use in this video I create and export from Google Slides. That will seem odd to many professional, and even amateur, graphic designers; however, I find [Google Slides](https://slides.google.com) provides me with just the tools I need while at the same time gives me free and anywhere access to my files and the tools to make modifications; on almost any PC or mobile device I own. I do wish slides included features like layers, Boolean geometry creations, and custom fonts; however, I now know how to work my way around these limitations for most of my projects.
 
 Another feature of Slides is the ability to share and collaborate; as is evidenced below where I share my original slides so you can see my design process and even copy the file to modify and use for your own project.
 
@@ -242,7 +242,7 @@ I demonstrate playing this game in the video and am using THEC64 joystick. It re
 
 ## Join the Fun
 
-That's it for this post. You won't want to miss the fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs). Also make sure you subscribe to the [RSS feed](https://www.stevencombs.com/rss). You won't want to miss future projects.
+That's it for this post. You won't want to miss the fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs). Also make sure you subscribe to the [RSS feed](/rss). You won't want to miss future projects.
 
 I also update many posts regularly with new information. I'll time stamp those changes when I do so if you return, you know where the modifications are made.
 

@@ -36,7 +36,7 @@ Watch the video below and then read my additional thoughts on this toolkit.
 Below are the links I mention in the video:
 
 1. [ORIA Precision Screwdriver Set, 86 in 1 Magnetic Repair Tool Kit (#ad)](https://amzn.to/3loTyBw)
-2. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+2. [Commodore Plus/4 User's Manual Series](/plus4)
 
 ## Package Contents
 

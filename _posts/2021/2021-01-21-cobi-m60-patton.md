@@ -70,7 +70,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 2. [COBI M113 Personnel Carrier](https://amzn.to/396QENL)
 3. [COBI M1A2 Abrams Main Battle Tank](https://amzn.to/3o7EZ5r)
 4. [U-BOOT U-48 Submarine model](https://amzn.to/366H6k6)
-3. [My Rotating iPhone Dock Instructions](https://www.stevencombs.com/get-the-dock)
+3. [My Rotating iPhone Dock Instructions](/get-the-dock)
 
 ## Video Outline
 
@@ -236,7 +236,7 @@ As is customary in my videos, let's do a quick open the box and see what's insid
 
 ### Building Instructions
 
-No model is any good if you can't put it together; and LEGO has the best instructions. They continue to evolve and get better over time and as [someone who has created build instructions](https://www.stevencombs.com/get-the-dock), I can attest to how much time is involved. Let's see how COBI's instructions rate:
+No model is any good if you can't put it together; and LEGO has the best instructions. They continue to evolve and get better over time and as [someone who has created build instructions](/get-the-dock), I can attest to how much time is involved. Let's see how COBI's instructions rate:
 
 1. Paper quality is on par with LEGO. Pages are thick and paper is high quality glossy stock.
 2. Looking inside we find themed background pages, numbered steps, a parts list for each step, and a parts placement with previous layers grayed out to highlight part placement for the current step.

@@ -53,7 +53,7 @@ In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore 
 
 This episode is a small part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
 
-<https://www.stevencombs.com/plus4>
+</plus4>
 
 ## Companion Disk Image
 
@@ -72,14 +72,14 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
 
-[Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4.pdf)
+[Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
 
 Below are the links for previous chapters covered:
 
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
-3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
-4. [Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
+3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
+4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
 
 ## YouTube Video: _retroCombs: Commodore Plus/4 User's Guide, Chapter 4 - Getting Started_
 
@@ -250,7 +250,7 @@ We are bound to make mistakes when typing. It happens...a lot! You can do two th
 
 Here's how it works. First, use the `NEW` command to clear out the previous program.
 
-> **TIP:** If you want to save the program, refer to [chapter 3](https://www.stevencombs.com/plus4-4))
+> **TIP:** If you want to save the program, refer to [chapter 3](/plus4-4))
 
 type the line of code below:
 

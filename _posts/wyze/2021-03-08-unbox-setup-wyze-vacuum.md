@@ -32,7 +32,7 @@ Below are the links (#ad) mentioned in the video:
 
 1. [Wyze Vacuum](https://amzn.to/3fm1liV)
 1. [My Previous "SMART" Vacuum by Eufy](https://amzn.to/3qstLJS)
-2. [Wyze Cam Outdoor Wireless](https://www.stevencombs.com/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
+2. [Wyze Cam Outdoor Wireless](/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
 3. [My Wyze Playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTokf2amubNe1PZpzac3TUHwi)
 
 ## Other Wyze Products I Like
@@ -55,7 +55,7 @@ My final thoughts are often a numbered list. Here's the list for the Wyze Vacuum
 5. When I purchased the Eufy, the cost was around $150, so about $100 less than I suggest in the video; however, the Eufy isn't as technologically sophisticated as the Wyze. If you want to save $100, however, I do recommend the [Eufy](https://amzn.to/3qstLJS).
 6. **[2021-03-28:]** It is rare that my wife like's my love of smart gadgets, however, the Wyze Smart Vacuum is spouse approved. Her favorite feature is also the mapping and the virtual walls.
 
-That's it for now. I do update and timestamp posts as I receive questions and post updates. Check back later and make sure you add this site to your [RSS feeds](https://www.stevencombs.com/rss).
+That's it for now. I do update and timestamp posts as I receive questions and post updates. Check back later and make sure you add this site to your [RSS feeds](/rss).
 
 ## Have Questions?
 

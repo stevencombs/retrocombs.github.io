@@ -52,7 +52,7 @@ All equipment for this project, with Amazon links (#ad), is listed below:
 
 1 - [Arduino IDE](https://www.arduino.cc/en/main/software): Use the link to the left and follow the instructions to download and install the IDE on your computer.
 
-> **NOTE:** If you use Ubuntu or Ubuntu Mate might I recommend [my install instructions](https://www.stevencombs.com/arduino/2019/12/31/install-arduino-ubuntu.html).
+> **NOTE:** If you use Ubuntu or Ubuntu Mate might I recommend [my install instructions](/arduino/2019/12/31/install-arduino-ubuntu.html).
 
 1 - [Elegoo Breadboard](https://amzn.to/377CB7e): Use the breadboard to prototype the project.
 

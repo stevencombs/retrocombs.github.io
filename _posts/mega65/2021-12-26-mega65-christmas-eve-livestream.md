@@ -68,8 +68,8 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 5. [GitHub - MEGA65/mega65-release-prep: Preparations for MEGA65 final release](https://github.com/MEGA65/mega65-release-prep)
 6. [Hyperkin Trooper Joystick](https://amzn.to/3yZkdw1)
 7. [Competition Pro Joystick](https://ebay.us/ETPFaq)
-8. [Install the MEGA65 on a Nexys4 or A7 FPGA \| Build your own MEGA65!](https://www.stevencombs.com/mega65-nexys)
-9. [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](https://www.stevencombs.com/patch-c65-rom)
+8. [Install the MEGA65 on a Nexys4 or A7 FPGA \| Build your own MEGA65!](/mega65-nexys)
+9. [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](/patch-c65-rom)
 
 ## Additional Thoughts
 
@@ -86,7 +86,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

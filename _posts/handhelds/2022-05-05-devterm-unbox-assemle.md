@@ -16,7 +16,7 @@ In this inaugural Dev Term blog post and companion video, I will unbox, assemble
 ![Clockwork Pi DevTerm](https://static.wixstatic.com/media/3833f7_78ede19cf07549989bd0b0835dd1b94d~mv2.png/v1/fill/w_1657,h_1000,al_c,enc_auto/DevTerm_fig01.png)
 <center><font size=2>Image courtesy of Clockwork Pi, <https://www.clockworkpi.com></font></center>
 
-A huge shout-out to [Clockwork](https://www.clockworkpi.com), and Alex, for the opportunity to experience the DevTerm. They sent their top of the line DevTerm, the A06, to me at no cost. That's a $340 value and I am under no obligation to provide a positive review. My thoughts are my own. Thanks again, Clockwork, for supporting my [YouTube channel](https://www.youtube.com/stevencombs) and [blog](https://www.stevencombs.com)!
+A huge shout-out to [Clockwork](https://www.clockworkpi.com), and Alex, for the opportunity to experience the DevTerm. They sent their top of the line DevTerm, the A06, to me at no cost. That's a $340 value and I am under no obligation to provide a positive review. My thoughts are my own. Thanks again, Clockwork, for supporting my [YouTube channel](https://www.youtube.com/stevencombs) and [blog]()!
 
 ----
 
@@ -315,7 +315,7 @@ What ideas do you have or what do you want to see? Drop a comment below and let 
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

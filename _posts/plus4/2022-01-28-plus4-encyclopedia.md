@@ -75,7 +75,7 @@ Before the blog post, I must add a HUGE thanks to [Robin](https://twitter.com/8B
 
 This blog post and companion video is part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
 
-<https://www.stevencombs.com/plus4>
+</plus4>
 
 ## Companion Disk Image
 
@@ -85,7 +85,7 @@ As I progress through the user's manual, I enter and execute sample programs. Th
 
 I use the following file name convention to make it easy to locate specific programs:
 
-<img src="https://www.stevencombs.com/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
+<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
 
 * `02` - The chapter number
 * `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.
@@ -96,7 +96,7 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 
 [Plus/4 Encylopedia](https://www.manualslib.com/manual/1030491/Commodore-Plus-4.html?page=122#manual)
 
-For previous chapters, view the [Commodore Plus/4 Resource Page](https://www.stevencombs.com/plus4)
+For previous chapters, view the [Commodore Plus/4 Resource Page](/plus4)
 
 ## Companion Video:
 
@@ -140,7 +140,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 1. Channel memberships are now available! Check out [my Buy Me A Coffee page](https://www.buymeacoffee.com/retroCombs) and support the channel if you found value in the Plus/4 series.
 2. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
-3. A .d81 disk image is available [here](https://www.stevencombs.com/plus4#companion-disk-image).
+3. A .d81 disk image is available [here](/plus4#companion-disk-image).
 
 ## Encyclopedia Introduction
 
@@ -299,7 +299,7 @@ Use `TI$="120000` to set the 24 hour internal clock and `? TI$` to view the curr
 
 ### BASIC OPERATORS
 
-I extensively covered basic operators in [Chapter 5](https://www.stevencombs.com/plus4-6). This section serves as a quick reference; however, there is value in a brief discussion of three logical operators: `AND`, `OR`, & `NOT`. These are used to join multiple formulas in `IF`…`THEN` statements or with arithmetic operations where they are evaluated last (after +, -, *, and /).
+I extensively covered basic operators in [Chapter 5](/plus4-6). This section serves as a quick reference; however, there is value in a brief discussion of three logical operators: `AND`, `OR`, & `NOT`. These are used to join multiple formulas in `IF`…`THEN` statements or with arithmetic operations where they are evaluated last (after +, -, *, and /).
 
 `AND`: Requires both this or that. Example: `IF A=B AND C=D THEN 100`
 
@@ -493,11 +493,11 @@ This section explains how to create trigonometry and other mathematical function
 
 Thanks to [Corey Minter](https://www.youtube.com/channel/UCuBoBVHYG1F5d2kuQTWsNdw) for the correction!
 
-Once coded in BASIC, you can use these new functions. I discuss functions in [Chapter 5](https://www.stevencombs.com/plus4-6).
+Once coded in BASIC, you can use these new functions. I discuss functions in [Chapter 5](/plus4-6).
 
 ## Section 11: Musical Note Table
 
-I covered sound extensively in [Chapter 8](https://www.stevencombs.com/plus4-9) and the table in this section provides a quick reference to sound register value and that values frequency (NTSC). For example:
+I covered sound extensively in [Chapter 8](/plus4-9) and the table in this section provides a quick reference to sound register value and that values frequency (NTSC). For example:
 
 `VOL 4: SOUND 1,7,30` Plays an A note, on channel 1, at 50% volume, at a frequency of 110 Hz, for half a second. Substitute `7` with `515` to move up the scale on octave.
 
@@ -643,7 +643,7 @@ This section includes eight additional Commodore Plus/4 programs to try. They ar
 
 ## Section 13: RS-232 Interface
 
-The RS-232 is used to communicate with devices, such as printers and modems. Software that uses these devices will include BASIC or assembly code to transfer data between the Plus/4 and the device; however, this section includes detailed information to use BASIC programming to access the RS-232 port. For more information on how to use a Commodore Plus/4 with a modern Wi-Fi modern, read my [Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem](https://www.stevencombs.com/plus4-bbs) blog post.
+The RS-232 is used to communicate with devices, such as printers and modems. Software that uses these devices will include BASIC or assembly code to transfer data between the Plus/4 and the device; however, this section includes detailed information to use BASIC programming to access the RS-232 port. For more information on how to use a Commodore Plus/4 with a modern Wi-Fi modern, read my [Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem](/plus4-bbs) blog post.
 
 ```realbasic
 100 OPEN 5,2,2,CHR$(22)+CHR$(5)
@@ -735,11 +735,11 @@ Thanks for reading and watching and if you are inclined, please let others know 
 Finally! The last part of my Commodore Plus/4 User's Guide series. In this episode, the Encyclopedia and Robin, from 8-Bit Show and Tell makes a cameo to help me out with the TEDMON.
 
 📝Companion blog post with more information and all the links you need at: 
-https://www.stevencombs.com/plus4-encylopedia
+/plus4-encylopedia
 
 Find me online at:
 
-📝 Blog: https://www.stevencombs.com/
+📝 Blog: /
 🐦 Twitter: https://www.twitter.com/stevencombs
 📹 YouTube: https://www.youtube.com/stevencombs
 📘 Facebook: https://fb.com/retrocombsfb

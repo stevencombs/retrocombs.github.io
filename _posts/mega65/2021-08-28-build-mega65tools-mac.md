@@ -67,7 +67,7 @@ My instructions assume you have a free GitHub account. If not, follow the steps 
 
 1. Visit <https://github.com/>. The GitHub homepage will appear as shown below:
 
-    ![GitHub main page](https://www.stevencombs.com/images/mega65/github-main-page.png)
+    ![GitHub main page](/images/mega65/github-main-page.png)
 
 2. Enter an email address in the *Email address* text edit box as shown in the image above.
 3. Click the green *Sign Up for GitHub* button. GitHub will present an animated and enjoyable account creation page.
@@ -79,7 +79,7 @@ Mac OS X includes the *Terminal* application and a **nix* (short for Linix/Unix 
 
 1. Load the *Terminal* app or preferably [iTerm](https://iterm2.com/index.html) which I've customized with my own cool C64 inspired theme as shown in the image below.
 
-    ![My iTerm retro theme](https://www.stevencombs.com/images/mega65/iterm-retro-theme.png)
+    ![My iTerm retro theme](/images/mega65/iterm-retro-theme.png)
 
 2. In a browser, visit <https://brew.sh/>. On the center of the page is the terminal command necessary to install Homebrew.
 3. Copy the command. The command below is current as of this writing:
@@ -134,11 +134,11 @@ With a GitHub account and access to brew packages, prepare the Mac to clone the 
 
 10. Copy the eight digit code or write it down. Press `⏎` to open the browser and display the *Device Activation Page* as shown in the image below:
 
-    ![GitHub device activation page](https://www.stevencombs.com/images/mega65/github-device-activation.png)
+    ![GitHub device activation page](/images/mega65/github-device-activation.png)
 
 11. Paste or type your activation code and click the green *Continue* button. The *‌Authorize GitHub CLI* page will appear as shown in the image below:
 
-    ![The *‌Authorize GitHub CLI* page](https://www.stevencombs.com/images/mega65/github-authorize-cli.png)
+    ![The *‌Authorize GitHub CLI* page](/images/mega65/github-authorize-cli.png)
 
 12. Click the green *Authorize github* button. The *Congratulations, you're all set! Your device is now connected* prompt will appear and the Terminal will display, `✓ Authentication complete. Press Enter to continue...`
 13. Press `⏎` to return to the terminal prompt. `gh` will display the prompt below and release the prompt:
@@ -176,7 +176,7 @@ Your GitHub account is now associated with your local Mac and the `gh` command. 
 
     `brew install libusb-compat`
 
-    > **NOTE:** If you have a Mac with a M1 Processor, stop here, drop down to the [Mac M1 Instructions Modification section](https://www.stevencombs.com/mega65-tools#mac-m1-instructions-modification-skip-is-you-have-an-intel-mac), complete the steps, and then return here.
+    > **NOTE:** If you have a Mac with a M1 Processor, stop here, drop down to the [Mac M1 Instructions Modification section](/mega65-tools#mac-m1-instructions-modification-skip-is-you-have-an-intel-mac), complete the steps, and then return here.
 
 6. To build `m65.osx`, type `make bin/m65.osx`. You may receive warnings; however, ignore them.
 7. To build `mega65_ftp.osx`, type `make bin/mega65_ftp.osx`. This build will take more time than `m65.osx` and will generate warnings. Ignore them.
@@ -403,7 +403,7 @@ Interacting with the community to write this post, and the writing itself, was a
 
 ## Join the Fun
 
-Don't miss the MEGA fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other MEGA65 related posts](https://www.stevencombs.com/mega65).
+Don't miss the MEGA fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other MEGA65 related posts](/mega65).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can also email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

@@ -67,11 +67,11 @@ Since this video, I did release my MEGA65 Color Palette program [version 1.5 on 
 3. Color HEX codes (thanks Tayger!)
 4. Fixes color display on first few lines if you use a custom screen in `AUTOBOOT.C65`.
 
-![MEGA65 Color Palette BASIC program version 1.5](https://www.stevencombs.com/images/mega65/mega65-color-palette-version)
+![MEGA65 Color Palette BASIC program version 1.5](/images/mega65/mega65-color-palette-version)
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

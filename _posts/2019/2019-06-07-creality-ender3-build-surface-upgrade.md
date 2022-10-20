@@ -18,7 +18,7 @@ I mentioned in my [last post][printer-setup] that my new [Creality Ender-3](http
 
 [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][build-surface-amazon]
 
-> **NOTE:** This post is part of a [series on 3D Printers](https://www.stevencombs.com/3dprinting). More posts to come.
+> **NOTE:** This post is part of a [series on 3D Printers](/3dprinting). More posts to come.
 
 This post shares my experience replacing the old build surface with the one above.
 
@@ -134,7 +134,7 @@ Do you own this build surface and have another or long-term experience? Drop me 
 
 
 [build-surface-amazon]: https://amzn.to/31gy9R4
-[printer-setup]: https://www.stevencombs.com/3dprinting/2019/06/02/set-up-ender3.html
+[printer-setup]: /3dprinting/2019/06/02/set-up-ender3.html
 [clip]: https://www.thingiverse.com/thing:3045991
 [thingiverse]: https://www.thingiverse.com
 [jonesey]: https://www.thingiverse.com/Jonesey44

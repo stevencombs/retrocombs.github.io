@@ -53,7 +53,7 @@ Despite these limits, you can still have some fun as it appropriately demonstrat
 
 This episode is a small part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
 
-<https://www.stevencombs.com/plus4>
+</plus4>
 
 ## Companion Disk Image
 
@@ -63,7 +63,7 @@ As I progress through the user's manual, I enter and execute sample programs. Th
 
 I use the following file name convention to make it easy to locate specific programs:
 
-<img src="https://www.stevencombs.com/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
+<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLL.PRG`
 
 * `02` - The chapter number
 * `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.
@@ -72,18 +72,18 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 8:
 
-[Chapter 8 - Making Sound and Music on the Plus/4](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-8.pdf)
+[Chapter 8 - Making Sound and Music on the Plus/4](/plus4/users-manual/p4um-chapter-8.pdf)
 
 Below are the links for previous chapters covered:
 
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
-3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
-4. [Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
-5. [Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4.pdf)
-6. [Chapter 5 - Numbers and Calculations](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-5.pdf)
-7. [Chapter 6 - Beginning BASIC Programming](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-6.pdf)
-8. [Chapter 7 - Using Graphics and Color](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-7.pdf)
+3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
+4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
+5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
+6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
+7. [Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
+8. [Chapter 7 - Using Graphics and Color](/plus4/users-manual/p4um-chapter-7.pdf)
 
 ## YouTube Video: _‌Commodore Plus/4 User's Manual \| Chapter 8 - Making Sound and Music \| Beeps, boops and bops!_
 
@@ -99,7 +99,7 @@ None as of 2021-05-14.
 
 Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
-1. [Chapter 7 - Using Graphics and Color](https://www.stevencombs.com/plus4-8)
+1. [Chapter 7 - Using Graphics and Color](/plus4-8)
 
 ## Key to Keys
 
@@ -123,8 +123,8 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 1. Thank you to all my 1500+ subscribers viewers! Glad there are niche folks who like my content.
 2. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
-2. .d81 disk image is available [here](https://www.stevencombs.com/plus4#companion-disk-image).
-5. A lot of good feedback on my last blog post/video; [Transfer BASIC Programs in Print to Physical Commodore Computers](https://www.stevencombs.com/print-to-commodore) where I share my technique to move printed programs from, say, users's manuals, to a physical Commodore computer or emulator.
+2. .d81 disk image is available [here](/plus4#companion-disk-image).
+5. A lot of good feedback on my last blog post/video; [Transfer BASIC Programs in Print to Physical Commodore Computers](/print-to-commodore) where I share my technique to move printed programs from, say, users's manuals, to a physical Commodore computer or emulator.
 
 ## Introduction
 
@@ -132,7 +132,7 @@ The Commodore Plus/4 includes the (**T**ext **ED**itor)TED 7360 (which is how th
 
 > LEARN MORE: Check out the wonderful [Commodore Plus/4, 16, 264, 364 “TED” Series – The Beginning of the End – Commodore Computers: C64 VIC20 PET C128 Plus4 – 8 Bit PC's](https://www.commodore.ca/commodore-products/commodore-264-plus4-ted-series-the-beginning-of-the-end/) page.
 
-![Commodore TED Series](https://www.stevencombs.com/plus4/images/ted-models.png)
+![Commodore TED Series](/plus4/images/ted-models.png)
 
 We've seen the five video modes the TED supports in Chapter 7. Let's see what sound and music we can create using the built-in tone generator. This generator contains two channels; one square wave and a second channel capable of either a square wave or white noise.
 

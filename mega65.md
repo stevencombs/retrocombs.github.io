@@ -19,7 +19,7 @@ This page is a quick reference and start point for "all things MEGA65." Bookmark
 
 ## My Blog Posts
 
-View my [MEGA65 blog posts](https://www.stevencombs.com/mega65-blog).
+View my [MEGA65 blog posts](/mega65-blog).
 
 ## My MEGA65 Videos
 
@@ -30,7 +30,7 @@ View my [MEGA65 YouTube channel playlist](https://www.youtube.com/playlist?list=
 Use the links below to view my MEGA65 BASIC programs:
 
 * [MEGA65 Color Palette](https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b) - Short program, with sound effect, that displays the standard and extended color palette of the MEGA65.
-* [Submarine Tracking Program](https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270) - This program is a recreation of the [submarine tracking program](https://www.stevencombs.com/basic65-sub-track-update) found in the Commodore 128 Programmer's Reference Guide. More information is [here](https://www.stevencombs.com/sub-track-sys) and [here](https://www.stevencombs.com/basic65-sub-track-update).
+* [Submarine Tracking Program](https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270) - This program is a recreation of the [submarine tracking program](/basic65-sub-track-update) found in the Commodore 128 Programmer's Reference Guide. More information is [here](/sub-track-sys) and [here](/basic65-sub-track-update).
 
 ## MEGA65 Links
 
@@ -70,4 +70,4 @@ The sections below contain sorted links to MEGA65 content. Send your link recomm
 * [MEGA65 Products Trenz Electronic GmbH Online Shop (EN)](https://shop.trenz-electronic.de/en/Products/MEGA65/) - Purchase your MEGA65 here.
 * [COMMAND Webshop](https://commandshop.eu/) - Purchase MEGA65 gear such as t-shirts, mugs, and USB drives.
 * [MINI MEGA65 Keychain](https://www.lavago.de/mini-mega65.html) - Show your MEGA65 support with a mini-MEGA65 keychain.
-* [mouSTer - Modern mouse adapter for retro computers](https://retrohax.net/shop/amiga/mouster/) - Finding a tank mouse is tough, but this adapter will let you use any USB mouse. Perfect for GEOS.a Here's [my experience with the MouSTer](https://www.stevencombs.com/mouster).
+* [mouSTer - Modern mouse adapter for retro computers](https://retrohax.net/shop/amiga/mouster/) - Finding a tank mouse is tough, but this adapter will let you use any USB mouse. Perfect for GEOS.a Here's [my experience with the MouSTer](/mouster).

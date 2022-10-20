@@ -29,7 +29,7 @@ In the video below, I share 10 reasons why THEVIC20 is the prefect gift for the 
 ## Video Errata
 
 1. [10 Minute Amiga Retro Cast](http://www.youtube.com/channel/UCSWXB7cc8mAtCjK8iXAJc1A) wanted to remind everyone that you can use a USB keyboard with THEC64 mini. Great reminder and I recommend the [Logitech MK270](https://amzn.to/3p4LmaS). For $20 you get a wireless keyboard with mouse and long battery life. Perfect for a hobbyist keyboard.
-2. [Chris Hawkins](http://www.youtube.com/channel/UCqyCNJrfSsZ0G6B_jRz-UpA) mentioned he'd like to have original ports on the back of these devices. I would agree. A couple of 8 pin connectors and an IEC would make these amazing devices; however, hold that thought Chris. The [](https://www.stevencombs.com/mega65-1) will be here soon!
+2. [Chris Hawkins](http://www.youtube.com/channel/UCqyCNJrfSsZ0G6B_jRz-UpA) mentioned he'd like to have original ports on the back of these devices. I would agree. A couple of 8 pin connectors and an IEC would make these amazing devices; however, hold that thought Chris. The [](/mega65-1) will be here soon!
 3. I mention in the video it has been 30 years since I opend my first Commodore VIC-20 box. WRONG! It's been 40! Wow, I'm old.
 
 ## Links for this episode (#ad):

@@ -14,7 +14,7 @@ tags:
   - emulator
 ---
 
-As a MEGA65 Dev Kit owner, I've created several posts to share what's coming when my favorite Commodore "what could have been" retro computer releases. I'm not going in depth about the MEGA65 in this post and companion video; instead, check out my new [MEGA65 page](https://www.stevencombs.com/mega65). In this post, I will show you how to get started with the MEGA65, on your Apple Mac computer, while you wait for the hardware to arrive.
+As a MEGA65 Dev Kit owner, I've created several posts to share what's coming when my favorite Commodore "what could have been" retro computer releases. I'm not going in depth about the MEGA65 in this post and companion video; instead, check out my new [MEGA65 page](/mega65). In this post, I will show you how to get started with the MEGA65, on your Apple Mac computer, while you wait for the hardware to arrive.
 
 > **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
 
@@ -79,7 +79,7 @@ Below are the links I mention in the video or helpful content. All Amazon links 
 4. [Hyperkin Trooper II USB Joystick](https://amzn.to/2YglHnl)
 3. [Mac mini (M1)](https://amzn.to/3sE2qHp)
 4. [MacBook Pro (M1)](https://amzn.to/3go2jL8)
-5. [Create a Commodore Disk Image](https://www.stevencombs.com/pi1541-2)
+5. [Create a Commodore Disk Image](/pi1541-2)
 
 ## Download and Install Xemu
 
@@ -95,7 +95,7 @@ Let's begin by downloading Xemu using the steps below:
 5. Double-click the `Xemu-Installer.dmg` file to mount the disk image and display the *GNU GENERAL PUBLIC LICENSE* window.
 6. Click the *Agree* button. The Mac will display the 'Xemu-Installer' window, as shown below:
 
-    ![Xemu Installer Window](https://www.stevencombs.com/images/mega65/xemu-installer-window.png)
+    ![Xemu Installer Window](/images/mega65/xemu-installer-window.png)
 
 7. Locate the `xmega65.app` file and drag it to the *Applications* folder.
 
@@ -158,11 +158,11 @@ With *xmega65* running, configure the emulator with all the items we need to hav
 
 13. Click the *OK* button and *xmega65* will boot as shown in the image below:
 
-    ![*xmega65* with MEGA65 licensed ROM](https://www.stevencombs.com/images/mega65/xemu-licensed-rom.png)
+    ![*xmega65* with MEGA65 licensed ROM](/images/mega65/xemu-licensed-rom.png)
 
     > *NOTE:* If you use the Open ROM, the screen will look like the image below:
 
-    ![Xemu with MEGA65 Open ROM](https://www.stevencombs.com/images/mega65/xemu-open-rom.png)
+    ![Xemu with MEGA65 Open ROM](/images/mega65/xemu-open-rom.png)
 
     Congratulations! You now have a working version of *xmega65* running a MEGA `.ROM` file. You are ready to explore the wonders of the MEGA65—if only you knew what to do next! Let's cover that in the next section.
 
@@ -321,7 +321,7 @@ If you want a more familiar Commodore 8-Bit experience, press `F1`  to switch be
 
 On the Mac, *xmega65* does not place options on the Apple menu bar. Instead, you access menus with a right-click of a mouse or two-finger tap on a trackpad as shown in the image below:
 
-![xmega65 menus](https://www.stevencombs.com/images/mega65/xemu-menus.png)
+![xmega65 menus](/images/mega65/xemu-menus.png)
 
 [MEGA65 Quick Start for Xemu](https://github.com/lgblgblgb/xemu/wiki/MEGA65-quickstart)
 
@@ -355,7 +355,7 @@ The *xmega65* function keys perform the functions shown in the table below:
 | `F11` | Full-screen mode                       |
 | `F12` | N/A                                    |
 
-I use `F1` and `F3` the most. I find I like the original 40 character screen width and `F3` is in my muscle memory from my [Commodore Plus/4 series](https://www.stevencombs.com/plus4).
+I use `F1` and `F3` the most. I find I like the original 40 character screen width and `F3` is in my muscle memory from my [Commodore Plus/4 series](/plus4).
 
 ## Load Software
 
@@ -373,7 +373,7 @@ You may wonder where this `.d81` disk image is stored? This is helpful informati
 
 Remember the symbolic link we created earlier? Double-click it and you will see the directory listing again. In that listing is a file with the name `mega65.img`. Because the Mac can mount `.img` files, double-click it. It will mount and locate the image on the desktop. Double-click and you will see the files shown in the image below:
 
-![Contents of `mega65.img`](https://www.stevencombs.com/images/mega65/mega65-disk-image.png)
+![Contents of `mega65.img`](/images/mega65/mega65-disk-image.png)
 
 The content of this disk image mirrors what you find on the SD card for a physical MEGA65. With the image mounted, you can change the contents. I do not recommend this until you know what you are doing. It is easier to manage `.d81` images external to the image file. So which `.d81` files is the default for *xmega65*?
 
@@ -387,7 +387,7 @@ You can use other disk images and easily mounting. You can use the menus or you 
 
 When you drag a disk image on the *xmega65* window, you will see the dialog box below. For a disk image, select the *MOUNT as D81* option.
 
-![Disk image confirmation](https://www.stevencombs.com/images/mega65/xemu-mount-disk-image-confirmation.png)
+![Disk image confirmation](/images/mega65/xemu-mount-disk-image-confirmation.png)
 
 After you make a selection, use the `DIR` command to view the contents of the image. If you want two disk images mounted in devices 8 and 9, use the menus to select both disk images using the *Finder*.
 
@@ -395,9 +395,9 @@ After you make a selection, use the `DIR` command to view the contents of the im
 
 ### Drag and drop `.PRG` files
 
-Sometimes you locate a program file not on a disk image but in a `.PRG` file. You do not need to [create a disk image](https://www.stevencombs.com/pi1541-2), move this file to the image, and then mount the image. Running a `.PRG` file is as simple as drag-and-drop the file onto the *xmega65* window. The *xmega65* dialog box below will appear:
+Sometimes you locate a program file not on a disk image but in a `.PRG` file. You do not need to [create a disk image](/pi1541-2), move this file to the image, and then mount the image. Running a `.PRG` file is as simple as drag-and-drop the file onto the *xmega65* window. The *xmega65* dialog box below will appear:
 
-![Disk image confirmation](https://www.stevencombs.com/images/mega65/xemu-mount-disk-image-confirmation.png)
+![Disk image confirmation](/images/mega65/xemu-mount-disk-image-confirmation.png)
 
 For a `.PRG` file, select the *RUN/inject as PRG* option. The program will load and run.
 
@@ -405,7 +405,7 @@ For a `.PRG` file, select the *RUN/inject as PRG* option. The program will load 
 
 This is a great way to take the MEGA65 environment with you on the road. The keyboard mapping confuses things. After time, the muscle memory will kick in. There's not an easy way to sync disk images and move them back and forth between *xmega65* and a MEGA65. I hope that once the Ethernet port on the MEGA65 sees wide use, someone will develop a way to drop a disk image onto a cloud synced folder (such as Google Drive our Dropbox) for easy access.
 
-Now that I know how to use **xmega65**, I have this nagging feeling that I should try to install this on a Linux device or Raspberry Pi. Something similar to [my Combian pi/400](https://www.stevencombs.com/combianpi400-1) would be of interest as a portable device. My ultimate dream would be a bare-metal version for the Raspberry Pi 400!
+Now that I know how to use **xmega65**, I have this nagging feeling that I should try to install this on a Linux device or Raspberry Pi. Something similar to [my Combian pi/400](/combianpi400-1) would be of interest as a portable device. My ultimate dream would be a bare-metal version for the Raspberry Pi 400!
 
 The emulator is a work in progress and while you can use either an closed ROM or an open ROM, the open ROM needs much more work and the closed ROM is not yet available unless you own a Dev Kit. Please don't ask me to share it. I enjoy being a part of the [MEGA65 development community](https://discord.com/channels/719326990221574164/) and would hate to be thrown out!
 

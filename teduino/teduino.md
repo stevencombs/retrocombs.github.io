@@ -16,7 +16,7 @@ tags:
   - tapuino
 ---
 
-This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. This page captures content from my TEDuino project. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](https://www.stevencombs.com/retro).
+This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. This page captures content from my TEDuino project. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](/retro).
 
 ![retroCombs Plus/4](/plus4/images/retrocombs-plus4.png)
 
@@ -44,7 +44,7 @@ Key  | Description   | Key  | Description
 
 Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites. This page captures a collection of all links mentioned.
 
-1. [The Tapuino Project - Build an Arduino powered Commodore Datasette clone for the Commodore Plus/4](https://www.stevencombs.com/tapuino-1)
+1. [The Tapuino Project - Build an Arduino powered Commodore Datasette clone for the Commodore Plus/4](/tapuino-1)
 2. [Announcing the TEDuino](/teduino-1)
 
 ## About .tap Files

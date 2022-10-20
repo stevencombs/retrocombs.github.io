@@ -20,7 +20,7 @@ While spending time in the MEGA65 Discord group, I found a link to *Weihnachten 
 
 > The idea behind the creation of the booklet is based on the fact that for some users of the C64 there is a certain connection with Christmas, as many originally got it for Christmas at that time or the Christmas season symbolizes a contemplative, quiet time in that you can take out your home computer to do the typing of BASIC programs like in the old days…Although the listings are intended for the C64, the magazine is not limited to this computer. Listings for other Commodore home computers such as the C128 or Plus/4 can be found in it. To enable the most error-free typing possible, the booklet contains the checksum tool F64Summer, which was developed by Zirias in the course of the first edition.
 
-![Weihnachten auf dem Commodore](https://www.stevencombs.com/images/posts/weihnachten-pages.jpg)
+![Weihnachten auf dem Commodore](/images/posts/weihnachten-pages.jpg)
 
 You can order your copies of all three volumes [here](https://xmas.drwuro.com/order). For 3.00 EUR (or ≈ $3.50 USD) per issue, purchase all three. Shipping to the United States is 3.60 EUR and if you order all three, no additional shipping is applied. It's a steal. You do need to be aware that the magazines come in the German language. There is not an English version; however, for someone who had four years of German I in high school, I am able to decipher much of it and in those cases where I can't figure it out, I turn to Google Translate. It's a wonderfully technological world we live in.
 
@@ -65,7 +65,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 4. [iaWriter](https://ia.net/writer) \| For Mac, iOS, and Android
 4. [Atom](https://www.atom.io) \| For Mac, Linux, and Windows
 5. [VICE](https://vice-emu.sourceforge.io/) \| For Mac, Linux, and Windows
-6. [Pi1541 Zero Project](https://www.stevencombs.com/pi1541-1)
+6. [Pi1541 Zero Project](/pi1541-1)
 7. [THEVIC20](https://amzn.to/2Q58kCz)
 8. [THEC64](https://amzn.to/32dQGiL)
 9. [microSD cards](https://amzn.to/3aeuedx)
@@ -75,7 +75,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 
 Don't misunderstand, there's educational opportunity to be had from typing in Commodore BASIC programs. You learn command syntax, keyboard layout, program structure, and an entire realm of programming concepts when you take the time to enter each line. But, man! It can eat at your free time, even with the thoughtful bookmark and space ruler that each issue of WADC includes.
 
-![Image of Magazine and Bookmark](https://www.stevencombs.com/images/posts/weihnachten-ruler.jpg)
+![Image of Magazine and Bookmark](/images/posts/weihnachten-ruler.jpg)
 
 And in the case of the *Checksum* program (a program designed to verify you've typed each line correctly), there's little value since the program is a series of pokes to create a machine language program. Normal humans can't process these programs.
 
@@ -122,7 +122,7 @@ We will use [The Versatile Commodore Emulator (VICE)](https://vice-emu.sourcefor
 7. If you have a disk image mounted to VICE, save the file to the disk image and  skip to step 10.
 8. VICE can create disk images. Choose the *File* \| *Create and attach an empty disk image…* option. The *Create and attach a new disk image* dialog box will appear as shown below:
 
-    ![Create a Disk Image](https://www.stevencombs.com/images/posts/vice-create-disk-image.png)
+    ![Create a Disk Image](/images/posts/vice-create-disk-image.png)
 
 9. Use the dialog box to create a `.d81` file as shown in sample above.
 
@@ -130,7 +130,7 @@ With a working program saved to a Commodore disk image, you are ready to transfe
 
 ### Transfer and Execute the program on physical hardware
 
-The imagee transfer process depends on the device you choose to mount your disk image. I won't share each in detail but here's a quick summary for transfer using a [Pi1541](https://www.stevencombs.com/pi1541-1) on original Commodore hardware and using a THEC64/VIC20.
+The imagee transfer process depends on the device you choose to mount your disk image. I won't share each in detail but here's a quick summary for transfer using a [Pi1541](/pi1541-1) on original Commodore hardware and using a THEC64/VIC20.
 
 #### Commodore Hardware and Pi1541
 
@@ -156,11 +156,11 @@ You can now load and save programs to disk images on the Pi1541.
 4. Turn on the THEC64.
 5. Press the lower-right red button on the joystick. The menu below will appear:
 
-    ![THEC64 screen menu](https://www.stevencombs.com/images/posts/thevic20/bottom-menu.jpg)
+    ![THEC64 screen menu](/images/posts/thevic20/bottom-menu.jpg)
 
 6. Use the joystick to highlight *Media access* and press the fire button. The Media Access page appear as shown below:
 
-    ![Media Access Page](https://www.stevencombs.com/images/posts/thevic20/media-access.jpg)
+    ![Media Access Page](/images/posts/thevic20/media-access.jpg)
 
 6. Use the joystick to locate the disk image file. Press the fire button to attach the disk image. The image name will appear in the **Disk Drive** option at the bottom of the page.
 7. Press the lower-right red button on the joystick to return the Commodore computer screen. The image is now available.

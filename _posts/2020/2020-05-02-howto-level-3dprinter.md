@@ -21,11 +21,11 @@ tags:
   - cura
 ---
 
-Since I finally have my process working consistently, it is time to share how I level the bed on my [Creality Ender-3 (#ad)](https://amzn.to/3d6WHB2) 3D printer with [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate (#ad)](https://amzn.to/31gy9R4) upgrade. If you are curious about the glass build surface upgrade, check out [this blog post](https://www.stevencombs.com/3dprinting/2019/06/08/creality-ender3-build-surface-upgrade.html).
+Since I finally have my process working consistently, it is time to share how I level the bed on my [Creality Ender-3 (#ad)](https://amzn.to/3d6WHB2) 3D printer with [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate (#ad)](https://amzn.to/31gy9R4) upgrade. If you are curious about the glass build surface upgrade, check out [this blog post](/3dprinting/2019/06/08/creality-ender3-build-surface-upgrade.html).
 
 This post shares both a YouTube video that demonstrates my process as well as written instructions below. To test out the bed leveling, I print a keyboard plunger for a Commodore VIC-20. The plunger will replace an original that is broken. Check out the video to see if I was successful (or see the image down below for the spoiler):
 
-> **NOTE:** This post is part of a [series on 3D Printers](https://www.stevencombs.com/3dprinting). More posts to come.
+> **NOTE:** This post is part of a [series on 3D Printers](/3dprinting). More posts to come.
 
 ## YouTube Video: _HOWTO: Level a Creality Ender 3 Surface Bed and Print a Commodore VIC-20 Key Plunger_
 
@@ -35,7 +35,7 @@ This post shares both a YouTube video that demonstrates my process as well as wr
 
 ## The Problem
 
-Once I level the bed, I am going to test the surface by printing a key plunger for a [Commodore VIC-20 computer](https://www.stevencombs.com/commodore/2017/07/26/commodore-v20-ebay-purchase.html). If you don't know what this is, it really doesn't matter with regard to leveling the print surface. If you do know what this is, greetings from a fellow retro-computing enthusiast.
+Once I level the bed, I am going to test the surface by printing a key plunger for a [Commodore VIC-20 computer](/commodore/2017/07/26/commodore-v20-ebay-purchase.html). If you don't know what this is, it really doesn't matter with regard to leveling the print surface. If you do know what this is, greetings from a fellow retro-computing enthusiast.
 
 This is a perfect part to test the leveling on the Ender 3 because it is small and only connects to the print surface at two points (disregard my four point comments in the video) and those two points are small areas. If the bed isn't level and the heat set just properly, the print will fail miserably, and usually dramatically, with a mess of PLA.
 

@@ -72,7 +72,7 @@ Whenever you press a key, information you need for the `xmodmap` command will ap
 
 The next question you may ask is, "Why did you choose to switch the Caps Lock key and the Scroll Lock keys?" I never use Scroll Lock, but on occasion, I might want to use Caps Lock functionality. Instead of removing this feature completely, I just reassigned it to another key that had the word "lock" on it. I thought it was also kind of clever. Some keyboard may no longer have the Scroll Lock key, but thankfully my trusty [Unicomp Model M keyboard](https://amzn.to/2K7Wv86) does.
 
-> **NOTE:** If you are interested in the Unicomp Model M, [check out my review](https://www.stevencombs.com/gadgets/2017/07/09/relive-80s-with-unicomp-keyboard.html) of this 80s classic keyboard that you can still purchase today!
+> **NOTE:** If you are interested in the Unicomp Model M, [check out my review](/gadgets/2017/07/09/relive-80s-with-unicomp-keyboard.html) of this 80s classic keyboard that you can still purchase today!
 
 ## Testing the script
 

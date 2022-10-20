@@ -17,7 +17,7 @@ tags:
   - cord-cutter
 ---
 
-In my [last blog post](https://www.stevencombs.com/gadgets/2020/04/24/boxopen-xfinity-flex.html), I shared my YouTube OPEN THE BOX video for the Xfinity Flex video streaming device. This blog post and companion video serves as a follow-up for those interested in this streamer. In the video, I take a first-look at the devices's menus and features. In addition, this companion blog post shares additional information not included in the video along with some final thoughts and questions.
+In my [last blog post](/gadgets/2020/04/24/boxopen-xfinity-flex.html), I shared my YouTube OPEN THE BOX video for the Xfinity Flex video streaming device. This blog post and companion video serves as a follow-up for those interested in this streamer. In the video, I take a first-look at the devices's menus and features. In addition, this companion blog post shares additional information not included in the video along with some final thoughts and questions.
 
 Xfinity offered the device for free as part of my Xfinity cable account. The first device is free and a second is $5 per month. Being the penny-pincher I am, I only requested the single device. If I ever cancel my service, I have to turn the device back in. I do not own this "free" device. After you read my review, you will not be shocked to learn that my Flex may go back to Xfinity sooner, rather than later. I'm not sure I want to be financially accountable for a device that I won't use regularly.
 

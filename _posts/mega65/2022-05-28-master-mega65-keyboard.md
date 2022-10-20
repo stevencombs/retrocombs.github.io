@@ -15,7 +15,7 @@ tags:
 
 I love a good keyboard shortcut and consider myself a Mac shortcut connoisseur. One of the fun features of the MEGA65 is the keyboard; both the hardware and the functionality. In this blog post and companion video, I cover the keyboard layout, functions, and shortcuts you need to master the MEGA65 keyboard. Time to learn how to be a keyboard NINJA on the MEGA65.
 
-While you might think advanced keyboard combinations started with the MEGA65, many of them have their routes back to the original PET, refined as part of the [Plus/4](https://www.stevencombs.com/plus4) and [C128](https://www.stevencombs.com/c128-1), and optimized by the MEGA65 team. There's a fun keyboard history that I won't cover, that you should not ignore. I've used a Commodore keyboard since the early 1980s and it was fun to revisit those keystrokes with my MEGA65 DevKit.
+While you might think advanced keyboard combinations started with the MEGA65, many of them have their routes back to the original PET, refined as part of the [Plus/4](/plus4) and [C128](/c128-1), and optimized by the MEGA65 team. There's a fun keyboard history that I won't cover, that you should not ignore. I've used a Commodore keyboard since the early 1980s and it was fun to revisit those keystrokes with my MEGA65 DevKit.
 
 ----
 
@@ -167,7 +167,7 @@ The ALT key is a modifier key that software developers can use to add functional
 
 Press and hold ALT while booting the MEGA65 to enter the *MEGA65 Configuration Utility* as shown in the image below:
 
-![MEGA65 Configuration Utility](https://www.stevencombs.com/images/mega65/utility-menu.jpg)
+![MEGA65 Configuration Utility](/images/mega65/utility-menu.jpg)
 
 This key is not available in Commodore 64 mode.
 
@@ -253,7 +253,7 @@ This was another the way the developers could engage the community and allow the
 
 I've created a program to display all the colors on your MEGA65. The output of that program is below:
 
-![MEGA65 Colors](https://www.stevencombs.com/images/mega65/mega65-colors.png)
+![MEGA65 Colors](/images/mega65/mega65-colors.png)
 
 If you'd like the program that includes a fun sound effect as the MEGA65 displays the colors, download the disk image below:
 
@@ -267,7 +267,7 @@ Next we will use the MEGA key to access the several of the extended color keys.
 
 If the MEGA key shape is familiar, see the image below and it will all make sense.
 
-![Commodore to MEGA65 Logo](https://www.stevencombs.com/images/mega65/commodore-to-mega65-logo.png)
+![Commodore to MEGA65 Logo](/images/mega65/commodore-to-mega65-logo.png)
 
 Now that we know where the symbol comes from, let's find out how to use it.
 
@@ -308,7 +308,7 @@ Press and hold RUN/STOP and then tap RESTORE to restore the computer to a “cle
 
 I use RESTORE frequently to access the Freezer. Press and hold the RESTORE key for about a second and release when the screen border flickers. The Freezer will display as shown in the image below.
 
-![The Freezer](https://www.stevencombs.com/images/mega65/freezer-menu.jpg)
+![The Freezer](/images/mega65/freezer-menu.jpg)
 
 ### Cursor Keys
 
@@ -422,7 +422,7 @@ This content was a blast to prepare and I hope readers and watchers learn as muc
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

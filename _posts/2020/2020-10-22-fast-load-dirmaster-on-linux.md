@@ -22,7 +22,7 @@ tags:
   - wine
 ---
 
-There are many modern retro-computing applications available that `run` (see what I did there?) on modern computers to support our hobby. Longtime retroCombs [readers](https://www.stevencombs.com/retro) and [watcher](https://www.youtube.com/stevencombs)know I like to take a modern spin on retro-computing and integrate new technology and apps with the old.
+There are many modern retro-computing applications available that `run` (see what I did there?) on modern computers to support our hobby. Longtime retroCombs [readers](/retro) and [watcher](https://www.youtube.com/stevencombs)know I like to take a modern spin on retro-computing and integrate new technology and apps with the old.
 
 If you are a Commodore computer fan, one piece of software I recommend is _DirMaster_. _DirMaster_ lets you view, create, and edit Commodore disk images (.d64, .d81, etc.) on a Windows PC.
 
@@ -151,7 +151,7 @@ With _DirMaster_ installed in a virtual drive and a shortcut on your desktop, la
 
     ![DirMaster with Loaded Disk Image](/images/posts/wine/dirmaster-application-image-loaded.png)
 
-> **TIP:** If you'd like a disk image to play with, download my [Plus/4 Users Manual disk image](https://www.stevencombs.com/plus4). It's about half way down the page. Look for the retroCombs floppy disk.
+> **TIP:** If you'd like a disk image to play with, download my [Plus/4 Users Manual disk image](/plus4). It's about half way down the page. Look for the retroCombs floppy disk.
 
 ## What's next?
 

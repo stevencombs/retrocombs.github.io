@@ -19,7 +19,7 @@ tags:
   - tap
 ---
 
-As part of my [Commodore Plus/4 series](https://www.stevencombs.com/plus4), chapter three of the user's manual includes a section on using a Commodore Datasette and a 1541 Diskette Drive. In a previous post, I assemble a [replacement for the disk drive](https://www.stevencombs.com/pi1541) now it's time to build a device I call the Tapuino.
+As part of my [Commodore Plus/4 series](/plus4), chapter three of the user's manual includes a section on using a Commodore Datasette and a 1541 Diskette Drive. In a previous post, I assemble a [replacement for the disk drive](/pi1541) now it's time to build a device I call the Tapuino.
 
 What's a Tapuino, you ask? It's a cool Arduino-based replacement for the [Commodore Datasette](https://en.wikipedia.org/wiki/Commodore_Datasette). For this project I use an Arduino, in this case the [inexpensive Arduino Nano version](https://amzn.to/2ZLXbaL) with easy to source electronic components. You can learn all about the Tapuino on the [Sweetlilmres 1337 beef: Building the Tapuino R2](http://sweetlilmre.blogspot.com/2015/03/building-tapuino-r2.html?m=1) blog post.
 
@@ -72,7 +72,7 @@ The first step in my process was to use a regular breadboard to build the Tapuin
 
 Afterward, I optimized the layout and part locations. There was little change since the original was efficient; however, I could locate updated Fritzing parts and took a different approach to labeling the cable connection. A Fritzing image of my layout is below.
 
-![My Fritzing Layout](https://www.stevencombs.com/tapuino/images/tapuino_bb.png)
+![My Fritzing Layout](/tapuino/images/tapuino_bb.png)
 
 [Download my Fritzing File](/tapuino/images/tapuino.fzz)
 
@@ -91,7 +91,7 @@ One of the reason's I used a solderable breadboard was to provide a permanent pl
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

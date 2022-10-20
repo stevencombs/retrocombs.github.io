@@ -9,9 +9,9 @@ permalink: master-mega65-keyboard-addendum
 category: mega65
 ---
 
-My [Master the MEGA65 Keyboard](https://www.stevencombs.com/master-mega65-keyboard) created a lot of conversation. I knew during the creation of that content that I was going to miss, or mis-explain, concepts and I was ready for the comments and suggestions to roll in. The MEGA65 community didn't let me down and in this blog post and companion video, I've captured the best additions to further our knowledge of the MEGA65 and continue to build a mastery of the keyboard.
+My [Master the MEGA65 Keyboard](/master-mega65-keyboard) created a lot of conversation. I knew during the creation of that content that I was going to miss, or mis-explain, concepts and I was ready for the comments and suggestions to roll in. The MEGA65 community didn't let me down and in this blog post and companion video, I've captured the best additions to further our knowledge of the MEGA65 and continue to build a mastery of the keyboard.
 
-![MEGA65 Dev Kit Keyboard](https://www.stevencombs.com/images/mega65/dev-kit-keyboard.jpg)
+![MEGA65 Dev Kit Keyboard](/images/mega65/dev-kit-keyboard.jpg)
 
 I want to thank everyone who contributed to this addendum and I've done my best to give proper attribution and with a first name or handle. If you'd like your entire name listed, along with a link, or if I missed a recommendation, please drop me an [email](mailto:retrocombs@icloud.com) and I'll correct on this blog post.
 
@@ -72,7 +72,7 @@ None as of 2022-07-01.
 
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel by starting your purchases here!
 
-1. [Master the MEGA65 Keyboard](https://www.stevencombs.com/master-mega65-keyboard)
+1. [Master the MEGA65 Keyboard](/master-mega65-keyboard)
 2. [MEGA65 Computer](https://www.mega65.org)
 3. [MEGA65 FileHost](https://files.mega65.org)
 
@@ -166,7 +166,7 @@ KEY 16,"RUN "+CHR$(34)+"*"+CHR$(34)+CHR$(13)
 
 This is where Dan's tip comes in. The sixteen function keys (F1-F14, HELP, and Shift + RUN) are programmable using the `KEY` command. In my list taken from the XEMU emulator, there's a mix of PETSCII control codes, shown between the `{` and `}`, and `CHR$` codes. Below is a screen capture of that listing that shows the PETSCII characters:
 
-![KEY Command Listing](https://www.stevencombs.com/images/mega65/key-command.png)
+![KEY Command Listing](/images/mega65/key-command.png)
 
 CHR$ codes don't have a PETSCII equivalent and cannot appear inside a quote. This listed include:
 
@@ -193,7 +193,7 @@ I suspect there are other things I missed. If there are, post them in the commen
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

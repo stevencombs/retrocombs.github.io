@@ -11,7 +11,7 @@ category: mega65
 
 This short blog post is a supplement to a MEGA65 video I posted on 2022-08-19. The video shows how to update the Hibernated 1 The Director's Cut 3.5" Floppy upon release of a new version that enhances game play or fixes bugs. It's fine to load the .d81 disk image and play from the SD card on the MEGA65, but sometimes you need the floppy disk clicking to get that true retro computing experience on the MEGA65.
 
-![Hibernated SD card and floppy](https://www.stevencombs.com/images/mega65/sd-card-to-floppy.jpg)
+![Hibernated SD card and floppy](/images/mega65/sd-card-to-floppy.jpg)
 
 While I spend more time in the video showing how to copy a MEGA65 disk image to the internal 3.5" floppy, this blog post will provide a short written description of the process for quick reference. Let's get started.
 
@@ -19,7 +19,7 @@ While I spend more time in the video showing how to copy a MEGA65 disk image to 
 
 ## Support the Blog and Channel
 
-Check out the [supporters page](https://www.stevencombs.com/supporters) to learn about my amazing supporters and how you can join our community.
+Check out the [supporters page](/supporters) to learn about my amazing supporters and how you can join our community.
 
 ## Companion YouTube Video
 
@@ -54,7 +54,7 @@ You can now enjoy a more authentic experience by running software from a 3.5" fl
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

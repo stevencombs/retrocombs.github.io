@@ -25,7 +25,7 @@ In this livestream and companion blog post, I setup the RGBtoHDMI on my Commodor
 
 ## Support the Blog and Channel
 
-Check out the [supporters page](https://www.stevencombs.com/supporters) to learn about my amazing supporters and how you can join our community.
+Check out the [supporters page](/supporters) to learn about my amazing supporters and how you can join our community.
 
 
 ## Companion YouTube Video
@@ -51,7 +51,7 @@ What is the RGBtoHDMI device? Here's a blurb from [the device wiki](https://gith
 
 > The RGBtoHDMI interface converts the "digital" RGB video signal from vintage computers like the BBC Micro or PC MDA/CGA/EGA to HDMI or DVI compatible with most modern TVs/Monitors. The interface comprises a Raspberry Pi Zero and a specially designed Hat containing a small CPLD. Custom firmware on the Raspberry Pi, in conjunction with the CPLD, is able to correctly sample each of the supported video modes to give a pixel-perfect rendition.
 
-The [device support list](https://github.com/hoglet67/RGBtoHDMI/wiki/Supported-Computers) is LONG but for this video and blog post, I'll focus its use with [my Commodore 128](https://www.stevencombs.com/c128-1). Before we can use the device, we work ahead. Unlike the texElec version which comes complete with Raspberry Pi Zero, 9-pin video out, and a custom board, the Retro Hack Shack version is a Raspberry Pi Zero hat.
+The [device support list](https://github.com/hoglet67/RGBtoHDMI/wiki/Supported-Computers) is LONG but for this video and blog post, I'll focus its use with [my Commodore 128](/c128-1). Before we can use the device, we work ahead. Unlike the texElec version which comes complete with Raspberry Pi Zero, 9-pin video out, and a custom board, the Retro Hack Shack version is a Raspberry Pi Zero hat.
 
 ## Create Connector
 
@@ -78,7 +78,7 @@ Below is the pinout for a Commodore 128 80 column connector.
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

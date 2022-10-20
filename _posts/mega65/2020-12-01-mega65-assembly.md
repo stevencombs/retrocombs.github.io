@@ -42,8 +42,8 @@ Below are the links I mention in the video. Any Amazon links are affiliate links
 1. [](https://mega65.org/)
 2. [Museum of Electronic Games & Art (MEGA)](https://www.m-e-g-a.org/)
 3. [Trenz ](https://shop.trenz-electronic.de/en/Products/MEGA65/)
-3. [TEDunio Project](https://www.stevencombs.com/teduino-1)
-4. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+3. [TEDunio Project](/teduino-1)
+4. [Commodore Plus/4 User's Manual Series](/plus4)
 
 ## Additional Thoughts
 
@@ -57,7 +57,7 @@ Below are follow-up notes to my video.
 7. __The missing screw:__ Did I ever put the [missing screw](https://youtu.be/BJqSz99_7og?t=906) back in the case? Not yet. Because...
 8. __PlexiLaser is awesome:__ I reached out to them and they are shipping replacement spacers. Once I receive those replacements, I'll add them and the missing screw and...
 9. __Wipe down the case:__ I've found even more dust and packing peanut debris inside the case. The acrylic case is a static magnet.
-10. __Much more to come:__ As I learn more about the  DevKit, I'll share via this blog and on my [YouTube channel](https://www.youtube.com/stevencombs). I will likely make good use of my [new FAST LOAD series](https://youtu.be/fA9RpEtS2f0); short video so you can quickly get back to your own retro-computing projects. Make sure to subscribe and set alerts on [my YouTube channel](https://www.youtube.com/stevencombs) if you want to follow along and also [add this blog](https://www.stevencombs.com/rss) to your favorite RSS reader.
+10. __Much more to come:__ As I learn more about the  DevKit, I'll share via this blog and on my [YouTube channel](https://www.youtube.com/stevencombs). I will likely make good use of my [new FAST LOAD series](https://youtu.be/fA9RpEtS2f0); short video so you can quickly get back to your own retro-computing projects. Make sure to subscribe and set alerts on [my YouTube channel](https://www.youtube.com/stevencombs) if you want to follow along and also [add this blog](/rss) to your favorite RSS reader.
 
 I tend to add additional thoughts as I think of them, so check back later. I'll time stamp any additions.
 

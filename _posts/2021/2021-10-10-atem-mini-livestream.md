@@ -59,13 +59,13 @@ There were five additional lurkers throughout the video. If you are reading this
 5. The ATEM Mini software has a steep learning curve. I was surprised it wasn't immediately apparent how to do things; however, I should have guessed. Blackmagic Design is a professional video manufacturer that uses professional terminology. You must learn this terminology to understand their products. As a user of DaVinci Resolve, I should know this. After research, it appears I need to become familiar with macros if I want to use the advanced features.
 6. I need to update the firmware. This is a manual process within the ATEM software. There is no notification (that I've seen). The upgrade will add new features and correct bugs. Blackmagic has an excellent reputation for correcting and adding features to their software and hardware and this will require me to check for firmware updates.
 6. A note to everyone who claims the Canon M50 is great for livestreams. I disagree! I plugged this camera into the ATEM Mini after the livestream to test. The camera has an issue. It shuts the camera display off after 30 minutes, which also shuts off the HDMI display. You cannot turn this “feature” off. A hack is to plug the USB into a computer with the Canon software. This is not a convenient option. I'm on the search now for a couple of inexpensive HDMI cameras to use with the ATEM Mini. 
-7. My [new IPEVO VZ-R document camera](https://www.stevencombs.com/ipevo-vz-r) is perfect for the ATEM Mini since it includes both a USB-C connection and a high resolution HDMI port. Check out my post for all the reasons. This is a great camera for livestreams where you need to show your desk or documents.
+7. My [new IPEVO VZ-R document camera](/ipevo-vz-r) is perfect for the ATEM Mini since it includes both a USB-C connection and a high resolution HDMI port. Check out my post for all the reasons. This is a great camera for livestreams where you need to show your desk or documents.
 
 That's all for this post; however, if I find other ATEM Mini nuggets in the next few days, I'll update this post.
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

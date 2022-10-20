@@ -53,7 +53,7 @@ Below are the links (#ad) mentioned in the video:
 2. [Wyze Band](https://amzn.to/3fo229k)
 3. [Wyze Smart Plug](https://amzn.to/2Y4W3ig)
 4. [Wyze Scale](https://amzn.to/31SsVMs)
-5. [Wyze Blog Posts](https://www.stevencombs.com/wyze)
+5. [Wyze Blog Posts](/wyze)
 6. [My Wyze YouTube Playlist](https://youtube.com/playlist?list=PLRVBh2hjFTokf2amubNe1PZpzac3TUHwi)
 
 ## Unboxing

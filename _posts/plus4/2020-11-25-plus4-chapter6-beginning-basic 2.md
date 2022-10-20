@@ -60,7 +60,7 @@ This is not an all-inclusive chapter and you will not become a master programmer
 
 This episode is a small part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
 
-<https://www.stevencombs.com/plus4>
+</plus4>
 
 ## Companion Disk Image
 
@@ -79,16 +79,16 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 6:
 
-[Chapter 6 - Beginning BASIC Programming](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-6.pdf)
+[Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
 
 Below are the links for previous chapters covered:
 
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
-3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
-4. [Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
-5. [Chapter 4 - Getting Started](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-4.pdf)
-6. [Chapter 5 - Numbers and Calculations](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-5.pdf)
+3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
+4. [Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
+5. [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
+6. [Chapter 5 - Numbers and Calculations](/plus4/users-manual/p4um-chapter-5.pdf)
 
 ## YouTube Video: _retroCombs: Commodore Plus/4, Chapter 6 - Beginning BASIC Programming_
 
@@ -104,9 +104,9 @@ None as of 2020-11-25.
 
 Below are the links I mention in the video. All Amazon links are affialiate links. Thanks for supporting the blog and the YouTube channel!
 
-1. [Commodore Plus/4 User's Manual Series](https://www.stevencombs.com/plus4)
+1. [Commodore Plus/4 User's Manual Series](/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
-3. [Pi1541 Assembly and First Use](https://www.stevencombs.com/pi1541-1)
+3. [Pi1541 Assembly and First Use](/pi1541-1)
 4. [ Project](https://mega65.org/)
 4. [ Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
 5. [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
@@ -133,7 +133,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 ## Introduction
 
 1. Thank you to all my viewers and especially for those who provide feedback.
-2. .d81 disk image is now available [here](https://www.stevencombs.com/plus4#companion-disk-image).
+2. .d81 disk image is now available [here](/plus4#companion-disk-image).
 4. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 5. I have some great content coming up for retro-computing fans.
 

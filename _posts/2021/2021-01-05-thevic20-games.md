@@ -51,7 +51,7 @@ Below are the links I mention in the videos. All Amazon links are affiliate link
 1. [THEC64](https://amzn.to/2KO2lzJ)
 2. [THEC64 mini](https://amzn.to/38aV3P7)
 3. [THEVIC20](https://amzn.to/3hCMY90)
-4. [THEVIC20-1 blog post](https://www.stevencombs.com/thevic20-1)
+4. [THEVIC20-1 blog post](/thevic20-1)
 
 ## Complete List of Games (and additional thoughts)
 

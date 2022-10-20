@@ -14,7 +14,7 @@ tags:
   - flashrom99
 ---
 
-First things first, TIPI is pronounced (per TI fans everywhere); "T.I. Pi" and and "Tippy." With that clarification out of the way, what is the TIPI for the Texas Instruments (TI) 99/4A? In this blog post and companion video, I discus, install, and use the TIPI for the first time on [the latest addition](https://www.stevencombs.com/first-ti994a) to my retro computer collection.
+First things first, TIPI is pronounced (per TI fans everywhere); "T.I. Pi" and and "Tippy." With that clarification out of the way, what is the TIPI for the Texas Instruments (TI) 99/4A? In this blog post and companion video, I discus, install, and use the TIPI for the first time on [the latest addition](/first-ti994a) to my retro computer collection.
 
 ## YouTube Video: _Title_
 
@@ -102,7 +102,7 @@ Use a mouse in the browser
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

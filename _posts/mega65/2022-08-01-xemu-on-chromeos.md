@@ -16,7 +16,7 @@ categories:
   - linux
 ---
 
-In the post [Run a MEGA65 on your Mac using Xemu](https://www.stevencombs.com/xemu-on-mac), I show how to install the XEMU emulator for the MEGA65, _xmega65_, on a Mac. It's time to stretch my operating system’s legs and install it on another popular system. No, I'm not installing on Windows but on an operating system that may surprise many; ChromeOS!
+In the post [Run a MEGA65 on your Mac using Xemu](/xemu-on-mac), I show how to install the XEMU emulator for the MEGA65, _xmega65_, on a Mac. It's time to stretch my operating system’s legs and install it on another popular system. No, I'm not installing on Windows but on an operating system that may surprise many; ChromeOS!
 
 ![XEMU on ChromeOS](https://media.discordapp.net/attachments/781481205639020554/996588525778649168/XEMU_on_ChromeOS.png?width=1755&height=1170)
 
@@ -53,7 +53,7 @@ The process to install Xemu on ChromeOS is, unsurprisingly, similar to the Linux
 
 ## Support the Blog and Channel
 
-Check out the [supporters page](https://www.stevencombs.com/supporters) to learn about my amazing supporters and how you can join our community.
+Check out the [supporters page](/supporters) to learn about my amazing supporters and how you can join our community.
 
 ## Companion YouTube Video
 
@@ -77,7 +77,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 - [Google Pixel Slate - ARM](https://amzn.to/3o6S8hL)
 - [Xemu page](https://github.lgb.hu/xemu/)
 - [MEGA65 FilesHost](https://files.mega65.org)
-- [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](https://www.stevencombs.com/mega65/2021-12-17-patch-c65-rom.md)
+- [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](/mega65/2021-12-17-patch-c65-rom.md)
 - [TheC64 Joystick](https://amzn.to/3d0UITW)
 - [Hyperkin Tropper II Joystick](https://amzn.to/3zqN90p)
 
@@ -281,7 +281,7 @@ With _xmega65_ installed on both Intel and ARM processor ChromeOS devices, I can
 
 Don't let the glowing and text-filled _xmega65_ screen scare you. We don't need to do anything other than install a ROM file from the [MEGA65 FilesHost](https://files.mega65.org). 
 
-I've covered this in other posts and videos, but there is a closed ROM and an open ROM. The closed ROM is for those who own a MEGA65 Dev Kit or MEGA65. I'll show that one in my example since I own both. If you don't own either, you can legally download an original C65 ROM from the free version of the [C64Forever Cloanto](https://www.c64forever.com/) package. You can then patch it using the tools on the FileHost. I document this process in my [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](https://www.stevencombs.com/patch-c65-rom) post and video.
+I've covered this in other posts and videos, but there is a closed ROM and an open ROM. The closed ROM is for those who own a MEGA65 Dev Kit or MEGA65. I'll show that one in my example since I own both. If you don't own either, you can legally download an original C65 ROM from the free version of the [C64Forever Cloanto](https://www.c64forever.com/) package. You can then patch it using the tools on the FileHost. I document this process in my [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](/patch-c65-rom) post and video.
 
 If you have access, you can [download the closed ROM here](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c). On ChromeOS, the file will download directly to your _Downloads_ folder.
 
@@ -291,7 +291,7 @@ To load the ROM, follow the steps below:
 
 1. Right-click anywhere in the _xmega65_ application. A menu, like the one shown below from the Mac version, will appear:
 
-    ![xmega65 menu](https://www.stevencombs.com/images/mega65/xemu-menus.png)
+    ![xmega65 menu](/images/mega65/xemu-menus.png)
 
 2. Select _Disks_ \| _SD-card_ \| _Update files on SD Image_. A warning dialog will ask, "Use the previously installed ROM?"
 
@@ -320,7 +320,7 @@ I won't go into all the features of the emulator; however, below are a three thi
 
 <!-- RECORD NUMBER 3 ↑ -->
 
-Want more? Time to begin your MEGA65 journey and you can start with my [MEGA65 resource page](https://www.stevencombs.com/mega65).
+Want more? Time to begin your MEGA65 journey and you can start with my [MEGA65 resource page](/mega65).
 
 ## Limitations
 
@@ -334,7 +334,7 @@ Since the developer does not support Xemu on ChromeOS, you need to know about th
 
 4. If you are new to Commodore computer emulators, you may notice that several keys don't match their position on the ChromeOS keyboard and there are keyboard combinations that are unavailable. _Xmega65_ uses a positional keyboard configuration based on an extended PC keyboard layout. Unless you have an extended ChromeOS keyboard, you will find you can't enter certain symbols. Xemu can overcome this limitation by modifying a `keyboard.cfg` file. I'll continue to work on this file to create something that makes using the ChromeOS keyboard functional and enjoyable. If anyone else wants to get ahead of me on this project, let me know.
 
-I'll continue to research all these important quirks to make using the Xemu emulator, _xmega65, on Chrome OS easier, more productive, and fun. Make sure you [follow the blog](https://www.stevencombs.com) and and [subscribe to the channel](https://www.youtube.com/stevencombs).
+I'll continue to research all these important quirks to make using the Xemu emulator, _xmega65, on Chrome OS easier, more productive, and fun. Make sure you [follow the blog]() and and [subscribe to the channel](https://www.youtube.com/stevencombs).
 
 ## What's Next?
 
@@ -342,13 +342,13 @@ Chromebook devices are more popular than ever and now you can wow your friends a
 
 Earlier, I list three ways you can get started with the emulator; however, below are two additional recommendations from my blog and channel:
 
-1. [Converting a Commodore 128 Submarine Tracking System BASIC Program to the MEGA65](https://www.stevencombs.com/sub-track-sys)
+1. [Converting a Commodore 128 Submarine Tracking System BASIC Program to the MEGA65](/sub-track-sys)
 
-2. [Master the MEGA65 Keyboard](https://www.stevencombs.com/master-mega65-keyboard)
+2. [Master the MEGA65 Keyboard](/master-mega65-keyboard)
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

@@ -19,7 +19,7 @@ tags:
   - plus/4
 ---
 
-In a [previous blog post](https://www.stevencombs.com/gadgets/2020/03/28/unbox-cloner-box-pro.html), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
+In a [previous blog post](/gadgets/2020/03/28/unbox-cloner-box-pro.html), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
 
 I knew the production of this video would push my DaVinci Resolve limits and because of COVID-19, I had time work on the project over the course of a couple of weeks. While preparing the video, I had another idea. Why not try and connect the Cloner Alliance Box Pro to a Commodore Plus/4. You can read more about that below.
 

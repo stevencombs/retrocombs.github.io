@@ -23,7 +23,7 @@ tags:
   - cassette
 ---
 
-In this Commodore Plus/4 retroCombs episode, I cover chapter 3 of the Commodore Plus/4 user's manual. This chapter is dedicated to _Using Software_ and there are several ways to load and save software using; cartridges, datasettes, and diskettes. In this post and the accompanying video, I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](https://www.stevencombs.com/tapuino-1), and a [Pi1541](https://www.stevencombs.com/pi1541-1).
+In this Commodore Plus/4 retroCombs episode, I cover chapter 3 of the Commodore Plus/4 user's manual. This chapter is dedicated to _Using Software_ and there are several ways to load and save software using; cartridges, datasettes, and diskettes. In this post and the accompanying video, I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](/tapuino-1), and a [Pi1541](/pi1541-1).
 
 > **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
 
@@ -59,7 +59,7 @@ In this Commodore Plus/4 retroCombs episode, I cover chapter 3 of the Commodore 
 
 This episode is a small part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
 
-<https://www.stevencombs.com/plus4>
+</plus4>
 
 ## Companion Disk Image
 
@@ -78,13 +78,13 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
 
-[Chapter 3 - Using Software](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-3.pdf)
+[Chapter 3 - Using Software](/plus4/users-manual/p4um-chapter-3.pdf)
 
 Below are the links for previous chapters covered:
 
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
-3. [Chapter 2 - Using the Keyboard and the Screen](https://www.stevencombs.com/plus4/users-manual/p4um-chapter-2.pdf)
+3. [Chapter 2 - Using the Keyboard and the Screen](/plus4/users-manual/p4um-chapter-2.pdf)
 
 ## YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 3 - Using Software_
 
@@ -249,7 +249,7 @@ The `SCRATCH` command deletes a program on the diskette.
 
 ## Modern additions to Chapter 3
 
-In preparation for this episode, I had to assemble the Pi1541. That in itself was [a post](https://www.stevencombs.com/pi1541-1) and [a video](https://youtu.be/iiuS-cI2c6s).
+In preparation for this episode, I had to assemble the Pi1541. That in itself was [a post](/pi1541-1) and [a video](https://youtu.be/iiuS-cI2c6s).
 
 I also delayed this video to create a Tapuino (an Arduino based modern Datasette clone). You can [view that process here](/tapuino-1).
 

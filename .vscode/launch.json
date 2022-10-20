@@ -2,9 +2,9 @@
     "configurations": [
         {
             "type": "pwa-chrome",
-            "name": "https://www.stevencombs.com/images/mega65/xemu-menus.png",
+            "name": "/images/mega65/xemu-menus.png",
             "request": "launch",
-            "url": "https://www.stevencombs.com/images/mega65/xemu-menus.png"
+            "url": "/images/mega65/xemu-menus.png"
         }
     ]
 }

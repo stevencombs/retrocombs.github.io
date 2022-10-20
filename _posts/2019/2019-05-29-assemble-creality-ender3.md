@@ -28,7 +28,7 @@ I purchased my first 3D Printer over the 2019 Memorial Day weekend. I've been re
 * Well reviewed
 * And of course, produces good prints
 
-> **NOTE:** This post is part of a [series on 3D Printers](https://www.stevencombs.com/3dprinting). More posts to come.
+> **NOTE:** This post is part of a [series on 3D Printers](/3dprinting). More posts to come.
 
 While browsing 3D printers at Amazon, I found the [Creality Ender-3 for $229 with a $40 coupon code (#ad)](https://amzn.to/2Wt0i7O). It met my first criteria. This was not the Ender-3 Pro. However, that model was currently more than $200 and after reading comparisons of the two, there wasn't enough value in the Pro version to justify the extra cost. The Ender-3 also met all of my criteria. The remainder of this post will be my experience assembling the printer. It will be in journal format with times listed to give you an idea of how long each step took.
 
@@ -218,6 +218,6 @@ Fans are on, smell of ozone, and controller display is bright. Success so far. N
 And it works! Assembly complete.
 
 # What's next?
-I have no idea. I've never 3D printed anything before and I know there is a learning curve. I'll soon find out how steep that curve is. While learning, I will continue to document the process and post here. As a matter of fact, my next post, [preparing the 3D printer to print](https://www.stevencombs.com/3dprinting/2019/06/02/set-up-ender3.html), is now live.
+I have no idea. I've never 3D printed anything before and I know there is a learning curve. I'll soon find out how steep that curve is. While learning, I will continue to document the process and post here. As a matter of fact, my next post, [preparing the 3D printer to print](/3dprinting/2019/06/02/set-up-ender3.html), is now live.
 
 I hope you enjoyed this post on the assembly of my new Creality Ender-3. Leave a comment below if you have any tips for me.

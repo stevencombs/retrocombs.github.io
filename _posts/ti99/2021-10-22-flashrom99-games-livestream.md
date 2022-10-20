@@ -13,7 +13,7 @@ tags:
   - retro computing
 ---
 
-After receiving and then creating a [video/blog post](https://www.stevencombs.com/flashrom99) about the FlashROM99 from [The Brewing Academy](https://thebrewingacademy.com), I went online to show how to play games from the device and experience, for the first time, these Texas Instruments TI-99/4A versions of popular 1980s video games.
+After receiving and then creating a [video/blog post](/flashrom99) about the FlashROM99 from [The Brewing Academy](https://thebrewingacademy.com), I went online to show how to play games from the device and experience, for the first time, these Texas Instruments TI-99/4A versions of popular 1980s video games.
 
 > **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
 
@@ -37,7 +37,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 2. [FinalGROM99](https://endlos99.github.io/finalgrom99/)
 3. [Hyperkin Trooper Joystick](https://amzn.to/3l1CHXj)
 3. [The Brewing Academy](https://thebrewingacademy.com)
-3. [My TI-99/4A Purchase](https://www.stevencombs.com/first-ti994a)
+3. [My TI-99/4A Purchase](/first-ti994a)
 4. [32 Kb Memory Side Car Expansion](https://thebrewingacademy.com/products/ti-99-4a-32k-external-expansion)
 5. [Inexpensive 4 Gb SD Cards](https://amzn.to/3DJxDxp)
 6. [Blackmagic ATEM Mini](https://amzn.to/3iN4r0p)
@@ -69,8 +69,8 @@ If you want to jump to your favorite **game(s)**, below are the time codes which
 
 ## Additional Thoughts
 
-1. If you want more information about the FlashROM99, including instructions to prepare and use the device, check out [my previous post](https://www.stevencombs.com/flashrom99).
-2. Since my collection of Texas Instruments TI-99/4A related content is growing, I've created a [TI-99/4A resource page](https://www.stevencombs.com/ti994a) to highlight that content and share my journey with this recent addition to my retro computing collection.
+1. If you want more information about the FlashROM99, including instructions to prepare and use the device, check out [my previous post](/flashrom99).
+2. Since my collection of Texas Instruments TI-99/4A related content is growing, I've created a [TI-99/4A resource page](/ti994a) to highlight that content and share my journey with this recent addition to my retro computing collection.
 3. Two stalwarts joined me for this livestream (with about 6 more popping in and out):
 
    - https://twitter.com/KrlezaMislav - A tremendous shout out for sending a Super Chat during the livestream. One of my biggest supporters and "virtual" friends. Thanks for continuing to support the channel and for being a part of the community.
@@ -80,7 +80,7 @@ If you want to jump to your favorite **game(s)**, below are the time codes which
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to mßy [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to mßy [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

@@ -18,13 +18,13 @@ tags:
   - chromeos
 ---
 
-After my [previous Arduino IDE post](https://www.stevencombs.com/arduino/2019/12/31/install-arduino-ubuntu.html), I wondered if I could now install the latest version of the Arduino IDE on Chrome OS using the Crostini Linux VM. In the past, you could use the `apt` package manager to install the Arduino IDE but the version was woefully outdated.
+After my [previous Arduino IDE post](/arduino/2019/12/31/install-arduino-ubuntu.html), I wondered if I could now install the latest version of the Arduino IDE on Chrome OS using the Crostini Linux VM. In the past, you could use the `apt` package manager to install the Arduino IDE but the version was woefully outdated.
 
 I was confident I could get the latest version of the IDE installed, but then pushed my challenge further to see if I could even connect the Chrome OS device to the Arduino and upload a program. In theory, this should be possible since the latest version of Chrome OS on the beta channel (version 80) provides the option to give the Linux VM access and permission to "non-supported" USB devices.
 
 [![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
 
-I was dubious about hardware connectivity; however, with the IDE installed I could at least do some development on my [Pixel Slate](https://amzn.to/37eKmIG). Much to my surprise, and after much trial and error, I was able to install the Arduino IDE and upload code to an [Elegoo MEGA 2560](https://www.stevencombs.com/arduino/2020/01/11/elegoo-mega-starter-kit.html)! I was so excited, I just had to share my process.
+I was dubious about hardware connectivity; however, with the IDE installed I could at least do some development on my [Pixel Slate](https://amzn.to/37eKmIG). Much to my surprise, and after much trial and error, I was able to install the Arduino IDE and upload code to an [Elegoo MEGA 2560](/arduino/2020/01/11/elegoo-mega-starter-kit.html)! I was so excited, I just had to share my process.
 
 > **NOTE 1:** This post was updated on 2020-05-16 with refinements and updates from my readers. Many thanks to those who are making this post even more valuable! Join us by leaving your comments below.
 
@@ -201,4 +201,4 @@ Google continues to refine Linux support on Chrome OS devices. Just months ago, 
 
 Installation of the Arduino IDE on a Chromebook is an educator's dream. If you are a high school teacher, you likely use a Chromebook as your "daily driver." In order to teach Arduino and physical computing concepts, you likely had to pull out a leftover Windows machine from the IT closet for demonstrations. You no longer need to do this! You can now use a Chromebook.
 
-I am very excited about that capability this brings to my Pixelbook and Pixel Slate. As you can tell from the multiple exclamation marks in this post, I am very excited that I can use Chrome OS for one of my [favorite hobbies](https://www.stevencombs.com/embedded.html) and as [part of my job](https://sites.google.com/site/stevencombs/home/instruction/design-thinking-in-technology). I hope others find this post helpful. Happy programming!
+I am very excited about that capability this brings to my Pixelbook and Pixel Slate. As you can tell from the multiple exclamation marks in this post, I am very excited that I can use Chrome OS for one of my [favorite hobbies](/embedded.html) and as [part of my job](https://sites.google.com/site/stevencombs/home/instruction/design-thinking-in-technology). I hope others find this post helpful. Happy programming!

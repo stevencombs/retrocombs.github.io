@@ -42,7 +42,7 @@ In the next Commodore Plus/4 retroCombs episode, I open the Commodore Plus/4 man
 
 This episode is part of a series. You can read the entire series and view additional resources at:
 
-<https://www.stevencombs.com/plus4>
+</plus4>
 
 ## Companion Disk Image
 

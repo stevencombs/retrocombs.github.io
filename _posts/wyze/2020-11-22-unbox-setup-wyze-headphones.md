@@ -34,8 +34,8 @@ Below are the links (#ad) mentioned in the video:
 2. [Wyze Band](https://amzn.to/3fo229k)
 3. [Wyze Smart Plug](https://amzn.to/2Y4W3ig)
 4. [Wyze Scale](https://amzn.to/31SsVMs)
-5. [Chromecast w/Google TV](https://www.stevencombs.com/gadgets/2020/10/11/chromecast-google-tv.html)
-6. [My Previous Wyze Product Look](https://www.stevencombs.com/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
+5. [Chromecast w/Google TV](/gadgets/2020/10/11/chromecast-google-tv.html)
+6. [My Previous Wyze Product Look](/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
 
 ## Final Thoughts
 
