@@ -10,7 +10,7 @@ comments: true
 
 I recently purchased an [Arduino Esplora](http://www.amazon.com/gp/product/B00CMCM688/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CMCM688&linkCode=as2&tag=stevenccom-20) from our local Radio Shack. I chose the Shack because I had a $10 coupon. So after my $10 off, I did pretty well on the purchase.  I opened the box and ran through the setup instructions found on the [Arduino Esplora page](http://arduino.cc/en/Main/ArduinoBoardEsplora). All went until I tried to attach the provided joystick knob to the joystick post. Seems I have a “round peg in a square hole” problem as shown in the images below taken by [Nick Gammon](http://forum.arduino.cc/index.php?action=profile;u=36095) from the [Arduino Esplora Forum](http://forum.arduino.cc/index.php?topic=144164.0).
 
-![Round Page](http://www.stevencombs.com/images/posts/2014-07-27-RoundPeg.png)![Square Hole](http://www.stevencombs.com/images/posts/2014-07-27-SquareHole.png)
+![Round Page](/images/posts/2014-07-27-RoundPeg.png)![Square Hole](/images/posts/2014-07-27-SquareHole.png)
 
 As Arduino Forum member [roundhouselabs](http://forum.arduino.cc/index.php?action=profile;u=68073) explained, there are two types of knob connections and the folks at Arduino made a mistake while packing some units. As an example of the two knob types, he shared the image below:
 

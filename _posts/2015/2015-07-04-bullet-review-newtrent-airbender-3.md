@@ -8,13 +8,13 @@ category: apple
 comments: 'yes'
 ---
 
-A little over a year ago I reviewed the [NewTrent Airbender 2.0](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html). About a week ago, NewTrent sent an offer to review an upgrade, the NewTrent Airbender 3.0. The main new feature is support for the iPad Air 2 as well as the original iPad Air (the model I own and use regularly). I wondered if there were significant improvements to the original 2.0 and accepted the offer. A couple of days later, it arrived.
+A little over a year ago I reviewed the [NewTrent Airbender 2.0](/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html). About a week ago, NewTrent sent an offer to review an upgrade, the NewTrent Airbender 3.0. The main new feature is support for the iPad Air 2 as well as the original iPad Air (the model I own and use regularly). I wondered if there were significant improvements to the original 2.0 and accepted the offer. A couple of days later, it arrived.
 
 ![](https://lh6.googleusercontent.com/-Q6ufztsma0g/VZcHPIpxoHI/AAAAAAABlr8/AwIJl1U8cFA/s966-no/IMG_8387.JPG)
 
 I really like the original Airbender, although admittedly, I grew tired of the bulk and later moved to the more svelte [Zagg iPad Air bluetooth keyboard](http://www.amazon.com/gp/product/B00EXPSEFQ/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00EXPSEFQ&linkCode=as2&tag=stevenccom-20). What I did miss from the original Airbender was the protection it afforded the iPad Air. The system felt like a tank. I expected no less from this newer model as visually it is identical to the original.
 
-To review this upgrade, I will begin with the original pros and cons from the Airbender 2.0 bullet review and then comment on modifications. At the end of the bullet review, I include images of this new model. There really isn't much difference so if you want to see the different configurations possible, I recommend you view my [Airbender 2.0 review](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html). Time for my bullet review below.
+To review this upgrade, I will begin with the original pros and cons from the Airbender 2.0 bullet review and then comment on modifications. At the end of the bullet review, I include images of this new model. There really isn't much difference so if you want to see the different configurations possible, I recommend you view my [Airbender 2.0 review](/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html). Time for my bullet review below.
 
 # Pros
 
@@ -30,9 +30,9 @@ To review this upgrade, I will begin with the original pros and cons from the Ai
 
 > As a matter of fact, the stability on this case is better than any other I have used and that is likely due to the fact that this thing is built like a tank and utilizes a support arm made of metal.
 
-* Use case as separate stand and keyboard (see gallery <strike>below</strike> [in previous post](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html)).
+* Use case as separate stand and keyboard (see gallery <strike>below</strike> [in previous post](/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html)).
 
-> No change, but do look at the images in the [previous post](http://www.stevencombs.com/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html) to understand how this works.
+> No change, but do look at the images in the [previous post](/apple/2014/03/06/Bullet-review-newtrent-airbender-2.html) to understand how this works.
 
 * Separate the iPad Air from keyboard easily and still have protection for the back of the iPad
 

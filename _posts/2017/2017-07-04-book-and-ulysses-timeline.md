@@ -93,6 +93,6 @@ I hope other authors using Ulysses find this technique useful. If so, let me kno
 [2]:	https://www.ulyssesapp.com/
 [3]:	https://www.timeanddate.com/calendar/basic.html
 
-[image-1]:	http://www.stevencombs.com/images/ulysses/writing-groups.png "Sheet Groups"
-[image-2]:	http://www.stevencombs.com/images/ulysses/plain-text-calendar.png
-[image-3]:	http://www.stevencombs.com/images/ulysses/sheet-sort.png "Sheet Sort"
+[image-1]:	/images/ulysses/writing-groups.png "Sheet Groups"
+[image-2]:	/images/ulysses/plain-text-calendar.png
+[image-3]:	/images/ulysses/sheet-sort.png "Sheet Sort"

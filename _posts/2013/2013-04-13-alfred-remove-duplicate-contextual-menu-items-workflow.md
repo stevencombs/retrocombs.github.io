@@ -18,7 +18,7 @@ This Alfred Workflow (PowerPack required) will remove those pesky duplicates qui
 
 Click the image below to download the Alfred workflow:
 
-[![](http://www.stevencombs.com/images/common/alfred-workflow-icon100x80.png)](https://dl.dropboxusercontent.com/u/217516/Alfred%20Extensions/Remove%20duplicate%20contextual%20menu%20items.alfredworkflow)
+[![](/images/common/alfred-workflow-icon100x80.png)](https://dl.dropboxusercontent.com/u/217516/Alfred%20Extensions/Remove%20duplicate%20contextual%20menu%20items.alfredworkflow)
 
 ## Install:
 

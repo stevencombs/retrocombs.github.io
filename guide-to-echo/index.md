@@ -11,7 +11,7 @@ I've referred to the Amazon echo as "[Siri in a Pingle Can][3ee33dfb]." It reall
 
 <font color="#3498DB">note:</font> The Amazon Echo is only available, via waitlist and in limited supplies, to Amazon Prime members.
 
-  [3ee33dfb]: http://www.stevencombs.com/gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"
+  [3ee33dfb]: /gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"
 
 # <font color="orange">about this guide</font>
 
@@ -19,7 +19,7 @@ Much of the the content for this guide was originally found in [my review of the
 
 This page is my attempt to bring sanity to the review feature content by providing an entire list of commands in alphabetical order. It will be much easier to list a command, its function and any required setup in a table than to integrate this information within the confines of a review. This page will become a nice supplement to my review.
 
-  [b9115e58]: http://www.stevencombs.com/gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"
+  [b9115e58]: /gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"
 
 # <font color="orange">echo hardware</font>
 Before we explore the numerous commands available on the Echo, let's first take a look at the hardware.

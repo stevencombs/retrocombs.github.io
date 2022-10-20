@@ -23,7 +23,7 @@ The Pebble is first and foremost a watch and really a good one at that. Even wit
 
 ![Pebble celebrates Halloween](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/q83/s960x960/10620492_10152789719678839_828209333834264136_o.jpg)
 
-A design feature of the Pebble is the ability to modify the watchface to fit your mood, style or occasion. I took some time to create an [Ivy Tech Community College watchface theme](http://www.stevencombs.com/pebble/2014/10/18/my-first-pebble-watchface.html) using an online tool. My design includes basic watchface features such as:
+A design feature of the Pebble is the ability to modify the watchface to fit your mood, style or occasion. I took some time to create an [Ivy Tech Community College watchface theme](/pebble/2014/10/18/my-first-pebble-watchface.html) using an online tool. My design includes basic watchface features such as:
 
 * Time
 * Date
@@ -55,11 +55,11 @@ The iPhone receives notifications via Bluetooth connectivity to the iPhone. This
 
 I quickly mentioned apps and watchfaces. If you want to add functionality beyond notifications, you install apps and watchfaces to the Pebble using the [Pebble app](https://itunes.apple.com/us/app/smartwatch+-for-pebble/id711357931?mt=8&uo=4&at=10l9vL) as shown in the image below.
 
-![Pebble iPhone app](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/pebble-iphone-app.png)
+![Pebble iPhone app](/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/pebble-iphone-app.png)
 
 As you can see in the image above, the app has two categories: apps and the locker. The apps and watchfaces are at the top of the Pebble app screen and the locker is on the bottom. The locker holds all your favorite apps. The current generation Pebble can only hold eight apps or watchfaces at a time due to memory limitations. The locker makes this bearable and ensures you have quick access to favorite apps not on your Pebble. Transfers are quick. Select the app or watchface and select the load option. The app or watchface will quickly load via Bluetooth to the iPhone and the progress represented by a vertical green bar that rises from bottom to top as shown in the image below.
 
-![Loading a Pebble watchface](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/loading-watchface.png)
+![Loading a Pebble watchface](/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/loading-watchface.png)
 
 Pebble apps and watchfaces are small and transfer to the iPhone is quick. Want to remove an app or watchface from the Pebble? Select it from the iPhone app and touch the trash button. It is immediately removed and a slot is free for another app or watchface. This is a quick and simple process.
 
@@ -143,7 +143,7 @@ Access to notes on the Pebble can be a bit tedious. It is easier to simply break
 **Smartwatch+**
 This app requires two pieces, the free Smartwatch+ Pebble app and the $2.99 [Smartwatch+](https://itunes.apple.com/us/app/smartwatch+-for-pebble/id711357931?mt=8&uo=4&at=10l9vL) iPhone app. Together the two provide additional functionality to the Pebble such as weather, calendar, camera control, stocks and GPS location. Lastly, the Smartwatch+ app allows the installation of another component called SmartStatus which is demonstrated in the image below.
 
-![SmartStatus](http://www.stevencombs.com/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/smartstatus.gif)
+![SmartStatus](/images/posts/2014-10-19-my-first-week-with-pebble-smartwatch/smartstatus.gif)
 
 These two apps are currently the only two I use regularly. I reserve the last 6 slots for various watchfaces. I’m not going to include a section of my favorite watchfaces. Watchfaces are a personal choice and depend on your own style and need.
 
@@ -176,4 +176,4 @@ In conclusion, if the thought of a smart watch appeals to you, my guess is the P
 
 Want a Pebble of your own or as a gift for the holidays? Check Amazon for both the [Pebble](http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=stevenccom-20) and [Pebble Steel](http://www.amazon.com/gp/product/B00IVX0XGO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IVX0XGO&linkCode=as2&tag=stevenccom-20)? Have a cool [Pebble App](https://play.google.com/store/apps/details?id=com.getpebble.android&hl=en) to share or a tip/trick/hack? Leave it in the comments section below.
 
-**Post Sketchnote:** [http://www.stevencombs.com/sketchnotes/2014/10/19/sketchnote-pebble-blog-post.html](http://www.stevencombs.com/sketchnotes/2014/10/19/sketchnote-pebble-blog-post.html)
+**Post Sketchnote:** [/sketchnotes/2014/10/19/sketchnote-pebble-blog-post.html](/sketchnotes/2014/10/19/sketchnote-pebble-blog-post.html)

@@ -11,7 +11,7 @@ comments: yes
 
 My wife and I are done paying $150/month for mobile phone service on two iPhones. We both have an iPhone 4s and we are ready for an upgrade to the phones and the service. After some research and use by other family members, we chose to go the [Virgin Mobile](https://refer.virginmobileusa.com/3wVpu2Z) route. Part of the switch will involve an upgrade from our iPhone 4s to iPhone 5s.
 
-I've written about the [iPhone 5s](http://www.stevencombs.com/apple/2014/08/25/upgrade-from-iphone-4s-to-5s.html), so in this post I will share why we chose to switch from Verizon to [Virgin Mobile](https://refer.virginmobileusa.com/3wVpu2Z). I also provide some concerns you must consider should you want to join us in the mobile phone money saving revolution as described in the video below hosted by Sir Richard Branson.
+I've written about the [iPhone 5s](/apple/2014/08/25/upgrade-from-iphone-4s-to-5s.html), so in this post I will share why we chose to switch from Verizon to [Virgin Mobile](https://refer.virginmobileusa.com/3wVpu2Z). I also provide some concerns you must consider should you want to join us in the mobile phone money saving revolution as described in the video below hosted by Sir Richard Branson.
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/0spDpIQND9I" frameborder="0" allowfullscreen></iframe>
 
@@ -56,14 +56,14 @@ That's just under $2000 in two years. With the savings, I can:
 # Service coverage
 If there is any downside to Virgin, it has to be service availability. Virgin rides on top of the [Sprint network](http://www.sprint.com/netdotcom/). Before you make the switch, check out the [Virgin Mobile coverage map](http://www.virginmobileusa.com/check-cell-phone-coverage "Check Nationwide Prepaid Voice, Data & 4G LTE Coverage | Virgin Mobile"). I've found in our area coverage is good and provides LTE in most of my neck of the woods. A further look at the map reveals several spots nationally without coverage. If you travel frequently or are not in one of the coverage areas, this is not the plan for you.
 
-![Virgin Mobile and Sprint service is often sporadic](http://www.stevencombs.com/images/posts/2014-08-27-virginmobilenolet.png)
+![Virgin Mobile and Sprint service is often sporadic](/images/posts/2014-08-27-virginmobilenolet.png)
 
 For me, Virgin Mobile fits the bill nicely. I have LTE available in my area. I rarely travel to areas that do not have Sprint coverage and due to the nature of my job, I always have ubiquitous Wi-Fi access. If you have a similar situation, you will enjoy Virgin mobile and especially the savings.
 
 # Mobile hotspot
 Let me talk about one other feature others may see as a negative. I mentioned mobile hotspot activation earlier and the cost of $5 per day. “Per day” is a bit fuzzy. You can maximize a day if you know the details. Mobile hotspot expires when you reach 250Mb or midnight the day after the initial activation. So if you activate at 9:00am on a Wednesday, you will have mobile hotspot availability until Thursday at 11:59pm. That’s two full workdays. Again, that's if you don't burn through your 250Mb first.
 
-Many will point out that 250Mb "ain't much" and $5 per day is a bit steep. As for the first point, read my ([Five Ways to Reduce iPhone-Data Usage](http://www.stevencombs.com/apple/2011/05/20/five-ways-to-reduce-iphone-data.html)) post to minimize your data usage. Also keep in mind that mobile hotspot usage does not count against your iPhone unlimited data.
+Many will point out that 250Mb "ain't much" and $5 per day is a bit steep. As for the first point, read my ([Five Ways to Reduce iPhone-Data Usage](/apple/2011/05/20/five-ways-to-reduce-iphone-data.html)) post to minimize your data usage. Also keep in mind that mobile hotspot usage does not count against your iPhone unlimited data.
 
 As I stated earlier, I am not a heavy user of the mobile hotspot feature as I have Wi-Fi everywhere, so this is not a concern for me and fits my usage habits nicely. I'd rather pay for the hotspot when I need it, rather than pay for it when I don't. If you use your phone heavily as a hotspot, Virgin may not be the service for you or you may want to purchase a [Virgin Mobile Broadband2Go hotspot](http://www.virginmobileusa.com/shop/mobile-broadband/broadband-2-go/).
 

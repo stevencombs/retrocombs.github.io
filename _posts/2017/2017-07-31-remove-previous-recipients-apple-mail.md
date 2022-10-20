@@ -37,4 +37,4 @@ When you create a new email message (⌘ + n) and begin to enter an email addres
 
 This is an easy fixes; however, it was very bothersome and it took me awhile to find the solution. Now the solution will be just a Google search away for some else struggling with the same issue.
 
-[image-1]:	http://www.stevencombs.com/images/posts/2017-07-31-apple-mail-previous-recipients.png "Previous Recipients window"
+[image-1]:	/images/posts/2017-07-31-apple-mail-previous-recipients.png "Previous Recipients window"

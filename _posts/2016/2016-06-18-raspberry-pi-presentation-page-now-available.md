@@ -16,7 +16,7 @@ On June 17th, I was the guest speaker for our local [Columbus area Chamber of Co
 
 A companion page is available that includes my electronic presentation and links to the numerous resources I shared. The page is located at:
 
-[http://www.stevencombs.com/raspberrypi.html](http://www.stevencombs.com/raspberrypi.html)
+[/raspberrypi.html](/raspberrypi.html)
 
 The page also includes a comments area if you have questions. If you would like me to present this information, or a modified version, to your group, [send me an email](mailto:steven.combs@gmail.com).
 

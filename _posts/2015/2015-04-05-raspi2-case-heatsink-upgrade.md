@@ -12,7 +12,7 @@ Recently a group from our community made a trip to several Makerspaces in the Lo
 
 ![](https://lh4.googleusercontent.com/b8oUz0k4BsLpUUbmTjiWGG7-XbC2T6tNc_UePZQOalgK=w1221-h560-no)
 
-That evening, I made a visit to Amazon to locate a case. Unlike my original Raspberry Pi, I will not use this Raspi 2 for physical computing development, but rather as a  [headless](http://www.stevencombs.com/raspberrypi/apple/linux/2013/04/27/create-ssh-connection-from-your-mac-to.html) networked Linux box. The Raspi 2's additional CPU speed combined with the additional memory should make the Raspi 2 a nice addition to our home network for server and Python related experiments. I will connect to the Raspi 2 using either SSH or VNC via an iPad, Chromebook or Mac.
+That evening, I made a visit to Amazon to locate a case. Unlike my original Raspberry Pi, I will not use this Raspi 2 for physical computing development, but rather as a  [headless](/raspberrypi/apple/linux/2013/04/27/create-ssh-connection-from-your-mac-to.html) networked Linux box. The Raspi 2's additional CPU speed combined with the additional memory should make the Raspi 2 a nice addition to our home network for server and Python related experiments. I will connect to the Raspi 2 using either SSH or VNC via an iPad, Chromebook or Mac.
 
 My requirements for a case are:
 

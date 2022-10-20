@@ -149,12 +149,12 @@ What will you do with your untethered C.H.I.P.? I would love to read your ideas.
 [2]:	http://docs.getchip.com/chip.html#headless-chip
 [3]:	https://www.google.com/chrome/browser/desktop/index.html
 [4]:	http://flash.getchip.com/
-[5]:	http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
+[5]:	/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
 
-[image-1]:	http://www.stevencombs.com/images/posts/chip/choose-version.png
-[image-2]:	http://www.stevencombs.com/images/posts/chip/chip-jumper-pins.jpg
-[image-3]:	http://www.stevencombs.com/images/posts/chip/flashing.png
-[image-4]:	http://www.stevencombs.com/images/posts/chip/flashing-success.png
-[image-5]:	http://www.stevencombs.com/images/posts/chip/tty-devices.png
-[image-6]:	http://www.stevencombs.com/images/posts/chip/serial-connection.png
-[image-7]:	http://www.stevencombs.com/images/posts/chip/wifi-networks.png
+[image-1]:	/images/posts/chip/choose-version.png
+[image-2]:	/images/posts/chip/chip-jumper-pins.jpg
+[image-3]:	/images/posts/chip/flashing.png
+[image-4]:	/images/posts/chip/flashing-success.png
+[image-5]:	/images/posts/chip/tty-devices.png
+[image-6]:	/images/posts/chip/serial-connection.png
+[image-7]:	/images/posts/chip/wifi-networks.png

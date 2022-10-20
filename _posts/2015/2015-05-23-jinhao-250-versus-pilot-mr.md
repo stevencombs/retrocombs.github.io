@@ -9,7 +9,7 @@ categories:
   - art
 ---
 
-Recently, I wrote about [my first fountain pen](http://www.stevencombs.com/art/2015/05/03/my-first-fountain-pen-jinhao-250.html), the Jinhao 250. I shared the post in the [PenAddict Slack channel](https://penaddict.slack.com). Slack member @punkey read my review and based on my "so-so" experience recommended I try another fountain pen, the Pilot MR Metropolitan. He then offered to send one to me. Evidently, he likes the pen so much, he keeps spares.
+Recently, I wrote about [my first fountain pen](/art/2015/05/03/my-first-fountain-pen-jinhao-250.html), the Jinhao 250. I shared the post in the [PenAddict Slack channel](https://penaddict.slack.com). Slack member @punkey read my review and based on my "so-so" experience recommended I try another fountain pen, the Pilot MR Metropolitan. He then offered to send one to me. Evidently, he likes the pen so much, he keeps spares.
 
 ![](https://lh3.googleusercontent.com/-TygGZeUOOew/VWCXOtFnllI/AAAAAAABbWM/32xbqRkJYSs/w1978-h776-no/Jinhao-vs-pilot-header.jpg)
 
@@ -89,7 +89,7 @@ Below are a few thoughts in each category before I declare a winner.
 ## Cost
 The Pilot [retails for around $20](http://pilotpen.us/brands/mr-metropolitan/mr-metropolitan-fountain/) and can be found on [Amazon for less than $14](https://www.amazon.com/Pilot-Metropolitan-Collection-Fountain-91107/dp/B009X9Z2FW/ref=as_sl_pc_ss_til?tag=stevenccom-20&linkCode=w01&linkId=V2FSST6MHQRSIUBC&creativeASIN=B009X9Z2FW). The Jinhao retails for $15.00 and can be found on [Amazon for around $3](http://www.amazon.com/gp/product/B0052KLTM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0052KLTM6&linkCode=as2&tag=stevenccom-20&linkId=TSUEOXKLITSDKODM). That’s a significant difference which allows the Jinhao to reduce the barrier to entry. If cost is a factor, the Jinhao 250 is a no brainer. This category goes to the Jinhao.
 
-> Read my [full review of the Jinhao](http://www.stevencombs.com/art/2015/05/03/my-first-fountain-pen-jinhao-250.html) to learn more.
+> Read my [full review of the Jinhao](/art/2015/05/03/my-first-fountain-pen-jinhao-250.html) to learn more.
 
 ## Case
 The Pilot includes a foam lined case, one ink cartridge, instructions and a converter. The Jinhao comes in a cheap plastic sleeve with a preinstalled converter. There is no box or ink. If you want to gift a fountain pen, purchase the Pilot. If this is a personal purchase, do you need the case? Preferential win to Pilot.

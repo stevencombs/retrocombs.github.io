@@ -19,4 +19,4 @@ Burning the contents of an [.iso](http://en.wikipedia.org/wiki/.iso) file should
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
-This is by far the easiest method to create a [Live CD](http://en.wikipedia.org/wiki/Live_CD) using a Mac. If you need to transfer the contents to a USB drive instead of a CD, check out [this post](http://www.stevencombs.com/apple/2009/05/27/create-bootable-usb-drive-osx.html).
+This is by far the easiest method to create a [Live CD](http://en.wikipedia.org/wiki/Live_CD) using a Mac. If you need to transfer the contents to a USB drive instead of a CD, check out [this post](/apple/2009/05/27/create-bootable-usb-drive-osx.html).

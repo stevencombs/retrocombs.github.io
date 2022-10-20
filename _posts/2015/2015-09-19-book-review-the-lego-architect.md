@@ -69,7 +69,7 @@ The [No Starch Press][11] graphics designers did an amazing job on this book. Of
 Even though I didn't buy this book, it is a "must buy" for any LEGO or architecture fan. [Get a copy][12] and pair with the [LEGO Architecture Studio][13] to create an amazing christmas gift for that budding architect or architectural fan.
 
 [1]:	http://www.amazon.com/gp/product/1593276133/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276133&linkCode=as2&tag=stevenccom-20
-[2]:	http://www.stevencombs.com/lego/2012/12/09/book-review-unofficial-lego.html
+[2]:	/lego/2012/12/09/book-review-unofficial-lego.html
 [3]:	http://tomalphin.com
 [4]:	http://www.leverhouseartcollection.com/
 [5]:	https://en.wikipedia.org/wiki/Curtain_wall_(architecture)
@@ -82,5 +82,5 @@ Even though I didn't buy this book, it is a "must buy" for any LEGO or architect
 [12]:	http://www.amazon.com/gp/product/1593276133/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276133&linkCode=as2&tag=stevenccom-20
 [13]:	http://www.amazon.com/gp/product/B00CN5Y1MI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CN5Y1MI&linkCode=as2&tag=stevenccom-20
 
-[image-1]:	http://www.stevencombs.com/images/posts/2015-09-19-book-review-lego-architect/book-and-computer.jpg
-[image-2]:	http://www.stevencombs.com/images/posts/2015-09-19-book-review-lego-architect/art-deco-theatre.png
+[image-1]:	/images/posts/2015-09-19-book-review-lego-architect/book-and-computer.jpg
+[image-2]:	/images/posts/2015-09-19-book-review-lego-architect/art-deco-theatre.png

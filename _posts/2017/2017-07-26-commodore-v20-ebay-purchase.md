@@ -86,10 +86,10 @@ I am happy to know that I will be able to restore at least a couple of these com
 > A note about shipping costs for your consideration: I am a hobbyist/enthusiast of vintage computing, not a commercial endeavor. All items are packed very carefully using packing paper, ESD bubble wrap (where appropriate), and USPS Priority Mail packaging when possible.
 
 [1]:	https://en.wikipedia.org/wiki/Commodore_VIC-20
-[2]:	http://www.stevencombs.com/writing/2017/07/04/book-and-ulysses-timeline.html
+[2]:	/writing/2017/07/04/book-and-ulysses-timeline.html
 [3]:	http://www.ebay.com/usr/vector98?_trksid=p2047675.l2559
 [4]:	http://amzn.to/2tLhWGh
 [5]:	https://cmaiolino.wordpress.com/combian-64-v2/
 [6]:	http://vice-emu.sourceforge.net/
 
-[image-1]:	http://www.stevencombs.com/images/posts/vic-20-ebay.jpg "eBay purchase image"
+[image-1]:	/images/posts/vic-20-ebay.jpg "eBay purchase image"

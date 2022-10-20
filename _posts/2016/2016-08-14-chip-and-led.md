@@ -189,7 +189,7 @@ The Python code above is the physical computing equivalent to the popular "hello
 In other words, you now have the basics necessary to begin experiments with Python and the GPIO pins on the C.H.I.P. The physical computing world is now just an idea away. What will you create with your GPIO pins active? Drop a comment below and let me know.
 
 [1]:	http://www.getchip.com
-[2]:	http://www.stevencombs.com/raspberrypi.html
+[2]:	/raspberrypi.html
 [3]:	http://amzn.to/2bfqY4g
 [4]:	http://amzn.to/2aSrf9b
 [5]:	#flash-the-chip-without-a-gui
@@ -203,16 +203,16 @@ In other words, you now have the basics necessary to begin experiments with Pyth
 [13]:	#turn-the-led-on
 [14]:	#turn-the-led-off
 [15]:	#hello-world
-[16]:	http://www.stevencombs.com/chip/2016/08/07/mac-to-chip-serial-connection.html
-[17]:	http://www.stevencombs.com/chip/2016/08/07/mac-to-chip-serial-connection.html
-[18]:	http://www.stevencombs.com/chip/2016/08/07/mac-to-chip-serial-connection.html
+[16]:	/chip/2016/08/07/mac-to-chip-serial-connection.html
+[17]:	/chip/2016/08/07/mac-to-chip-serial-connection.html
+[18]:	/chip/2016/08/07/mac-to-chip-serial-connection.html
 [19]:	https://try.github.io/levels/1/challenges/1
 [20]:	https://github.com/xtacocorex/CHIP_IO
-[21]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
+[21]:	/chip/2016/08/13/fish-and-chips.html
 [22]:	https://bbs.nextthing.co/t/hello-world-control-a-gpio-connected-led-using-python-on-the-c-h-i-p/8421/6?u=stevencombs
 [23]:	http://amzn.to/2bq6e7w
 [24]:	#turn-the-led-on
 
-[image-1]:	http://www.stevencombs.com/images/posts/chip/tracked-robotic-platform.jpg
-[image-2]:	http://www.stevencombs.com/images/posts/chip/chip-led.jpg
-[image-3]:	http://www.stevencombs.com/images/posts/chip/nano-python-save.png
+[image-1]:	/images/posts/chip/tracked-robotic-platform.jpg
+[image-2]:	/images/posts/chip/chip-led.jpg
+[image-3]:	/images/posts/chip/nano-python-save.png

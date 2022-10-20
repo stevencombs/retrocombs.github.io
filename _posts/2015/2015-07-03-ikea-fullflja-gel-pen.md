@@ -76,7 +76,7 @@ I began to capture notes for this blog post. The more I used it, the more my han
 # Ink quality
 Despite the horrible writing experience, here's a surprise. This pen has amazing ink! I really like the ink in this pen. My guess is the thickness of the line is either a 0.5mm, 0.7mm or somewhere in between. Ink is dark and black on the page. Line thickness is consistent and there was rarely a break in the line.
 
-Despite my apprehension toward the ball point, the pen placed ink on the page with aplomb. Writing was smooth with nary a snag on the paper. It would seem that the Italian roots of this pen led to an excellent ink supplier. The pen ink is more consistent than the [JinHao](http://www.stevencombs.com/art/2015/05/03/my-first-fountain-pen-jinhao-250.html) ink I shared in an earlier post.
+Despite my apprehension toward the ball point, the pen placed ink on the page with aplomb. Writing was smooth with nary a snag on the paper. It would seem that the Italian roots of this pen led to an excellent ink supplier. The pen ink is more consistent than the [JinHao](/art/2015/05/03/my-first-fountain-pen-jinhao-250.html) ink I shared in an earlier post.
 
 Bleed was on par with other inks I've used; which is to say, too much. Single line strokes will pool at start and end points if the tip is left in a single spot for more than a second or two.
 

@@ -9,7 +9,7 @@ categories:
   - productivity
 ---
 
-Similar to my first [Evernote Know How blog post](http://www.stevencombs.com/evernote/2014/11/26/evernote-fullscreen-editing.html). This is a simple tip, but not immediately obvious. The task today is to simply duplicate a note. There are many reasons to duplicate a note and if you need to, I don't need to explain. So I won't.
+Similar to my first [Evernote Know How blog post](/evernote/2014/11/26/evernote-fullscreen-editing.html). This is a simple tip, but not immediately obvious. The task today is to simply duplicate a note. There are many reasons to duplicate a note and if you need to, I don't need to explain. So I won't.
 
 My search to duplicate a note led me to the Mac Evernote app pull-down menu (see bonus tip at the end of the post for an Android Evernote app solution). There was no option to duplicate or copy a note. There is however an item that allows you to *Copy to Notebook…*
 

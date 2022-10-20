@@ -26,19 +26,19 @@ If you connect a Raspberry Pi to an HDMI monitor, you may find the terminal font
 * Type `sudo dpkg-reconfigure console-setup` at the prompt
 * If prompted, type the Raspberry Pi password - the *Package configuration* application will appear as shown in the image below
 
-> ![Package Configuration - Configuring console-setup](http://www.stevencombs.com/images/posts/terminal-font-size-1.png)
+> ![Package Configuration - Configuring console-setup](/images/posts/terminal-font-size-1.png)
 
 *  If not the default, select the `UTF-8` option and hit ↩ - the screen below will display
 
-> ![Package Configuration - Configuring console-setup](http://www.stevencombs.com/images/posts/terminal-font-size-2.png)
+> ![Package Configuration - Configuring console-setup](/images/posts/terminal-font-size-2.png)
 
 * If not the default, select the `Guess optimal character set` option and hit ↩ - the screen below will display
 
-> ![Package Configuration - Configuring console-setup](http://www.stevencombs.com/images/posts/terminal-font-size-3.png)
+> ![Package Configuration - Configuring console-setup](/images/posts/terminal-font-size-3.png)
 
 * If not the default, select the `Let the system select a suitable font` option and hit ↩ - the screen below will display
 
-> ![Package Configuration - Configuring console-setup](http://www.stevencombs.com/images/posts/terminal-font-size-4.png)
+> ![Package Configuration - Configuring console-setup](/images/posts/terminal-font-size-4.png)
 
 * Select the size font you prefer and hit ↩ - the red highlighted font (16x32) shown in the image above is my preference
 * Finally, reboot the Raspberry Pi using the `sudo reboot` command

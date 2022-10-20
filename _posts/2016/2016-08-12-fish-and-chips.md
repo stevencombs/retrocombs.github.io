@@ -85,6 +85,6 @@ Anyone else using `fish`? Share your tips and tricks in the comments below so we
 [1]:	https://fishshell.com/
 [2]:	https://fishshell.com/docs/current/tutorial.html
 
-[image-1]:	http://www.stevencombs.com/images/posts/chip/fish-on-pocketchip.png
-[image-2]:	http://www.stevencombs.com/images/posts/chip/fish-syntax-highlighting.png
-[image-3]:	http://www.stevencombs.com/images/posts/chip/fish-default-chip.png
+[image-1]:	/images/posts/chip/fish-on-pocketchip.png
+[image-2]:	/images/posts/chip/fish-syntax-highlighting.png
+[image-3]:	/images/posts/chip/fish-default-chip.png

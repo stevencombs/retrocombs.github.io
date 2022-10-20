@@ -22,18 +22,18 @@ Now it's time for the shameless self promotion. Below are the articles that appe
 
 The Inside Indiana Business post was a repost of our college press release. You can view the post by clicking [here](http://bit.ly/1rlQkgy).
 
-![Inside Indiana Business Screen Capture](http://www.stevencombs.com/images/posts/2014-09-20-combs-president/2014-09-20-inside-indiana-business-screenshot.png)
+![Inside Indiana Business Screen Capture](/images/posts/2014-09-20-combs-president/2014-09-20-inside-indiana-business-screenshot.png)
 
 # The Republic (Columbus, Indiana) - September 20, 2014
 The Republic is our local paper and our education reporter, Michelle Sokol, does an amazing job. I was impressed at her take on the blanket press release.
 
-<a href="http://www.stevencombs.com/images/posts/2014-09-20-combs-president/2014-09-20-combs-president-republic.png"><img src="http://www.stevencombs.com/images/posts/2014-09-20-combs-president/2014-09-20-combs-president-republic.png"></a>
+<a href="/images/posts/2014-09-20-combs-president/2014-09-20-combs-president-republic.png"><img src="/images/posts/2014-09-20-combs-president/2014-09-20-combs-president-republic.png"></a>
 <center>Click for larger view</center>
 
 # The Tribune (Seymour, Indiana) – September 20, 2014
 A duplicate of The Republic article above with a bit different take on the sidebar.
 
-<a href="http://www.stevencombs.com/images/posts/2014-09-20-combs-president/2014-09-20-combs-president-tribune.png"><img src="http://www.stevencombs.com/images/posts/2014-09-20-combs-president/2014-09-20-combs-president-tribune.png"></a>
+<a href="/images/posts/2014-09-20-combs-president/2014-09-20-combs-president-tribune.png"><img src="/images/posts/2014-09-20-combs-president/2014-09-20-combs-president-tribune.png"></a>
 <center>Click for larger view</center>
 
 # Press Release - September 19, 2014

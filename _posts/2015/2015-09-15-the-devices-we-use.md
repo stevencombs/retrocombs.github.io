@@ -39,4 +39,4 @@ I'm often asked what electronic devices we use on a regular basis. This post lis
 
 That's an exhaustive list and as I look around our home, I see other devices I need to include. I will add those as time permits. In the mean time, if you have questions about these devices, please leave them in the comments section below.
 
-  [d44d8a3d]: http://www.stevencombs.com/gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"
+  [d44d8a3d]: /gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"

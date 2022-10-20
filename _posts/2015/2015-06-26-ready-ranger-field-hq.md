@@ -90,5 +90,5 @@ Anyone else remember the Ready Ranger (evidently they do as a [Ready Ranger Face
 [1]: https://lh6.googleusercontent.com/-fICziDwR_XI/Tsqz3wmqiZI/AAAAAAAA4Tg/qX8SSrHC7F0/w453-h600-no/Ready%2BRanger%2BAd.jpg
 [2]: http://www.amazon.com/dp/B000VBIGCW/ref=as_li_ss_til?tag=stevenccom-20&camp=0&creative=0&linkCode=as4&creativeASIN=B000VBIGCW&adid=1V12H8R7D99Z3MSGVZXC
 [3]: https://lh3.googleusercontent.com/-Ax1aZEYvHnM/Tsqz3bJKKHI/AAAAAAAA4TY/9dXbILKBwHE/w550-h805-no/Ready%2BRanger%2BCartoon%2BAd.jpg
-[4]: http://www.stevencombs.com/lego.html
+[4]: /lego.html
 [5]: http://www.facebook.com/groups/45986951748/

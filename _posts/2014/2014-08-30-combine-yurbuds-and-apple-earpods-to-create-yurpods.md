@@ -21,7 +21,7 @@ On the other hand, while the Yurbuds are rock solid in my ear and are comfortabl
 
 It dawned on me while looking at both pairs on my desk – create an amalgam of the two.
 
-![My Yurbud Apple Earpod amalgam](http://www.stevencombs.com/images/posts/2014-08-30-yurpods.png)
+![My Yurbud Apple Earpod amalgam](/images/posts/2014-08-30-yurpods.png)
 
 The secret sauce of the Yurbud is the [Yurbud Earbud Covers](http://www.amazon.com/gp/product/B00A8ML9S2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A8ML9S2&linkCode=as2&tag=stevenccom-20) which you can purchase separately. I removed the covers from my Yurbuds and put them on the Apple Earpods. They fit perfectly. I stuck the new headphone combination in my ear using the Yurbud rotation process and low and behold, they fit and felt just like the comfortable Yurbud.
 

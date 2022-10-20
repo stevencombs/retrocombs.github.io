@@ -119,7 +119,7 @@ Have any other tips for me? Are you a seasoned NaNoWriMo writer? Leave me a comm
 ----
 *Are you a literary agent or publisher looking for a motivated, experienced writer with an intriguing genre story? Why not get in touch with me now and learn more. First draft will be finished by December 2017 with an anticipated final draft ready by in the second quarter of 2018.*
 
-[1]:	http://www.stevencombs.com/writing/2017/07/04/book-and-ulysses-timeline.html
+[1]:	/writing/2017/07/04/book-and-ulysses-timeline.html
 [2]:	amazon.com/author/stevencombs
 [3]:	http://nanowrimo.org/
 [4]:	http://nanowrimo.org/
@@ -132,7 +132,7 @@ Have any other tips for me? Are you a seasoned NaNoWriMo writer? Leave me a comm
 [11]:	http://www.atom.io
 [12]:	http://brettterpstra.com/projects/nvalt/
 [13]:	https://ulyssesapp.com/
-[14]:	http://www.stevencombs.com/writing/2017/07/04/book-and-ulysses-timeline.html
+[14]:	/writing/2017/07/04/book-and-ulysses-timeline.html
 [15]:	http://drive.google.com
 [16]:	https://play.google.com/store/apps/details?id=net.ia.iawriter&hl=en
 [17]:	http://slides.google.com
@@ -147,6 +147,6 @@ Have any other tips for me? Are you a seasoned NaNoWriMo writer? Leave me a comm
 [26]:	https://creativewritingcareer.wordpress.com/podcast/
 [27]:	http://www.secretsofstory.com/2017/06/the-secrets-of-story-podcast-archive.html
 
-[image-1]:	http://www.stevencombs.com/images/nanowrimo/reporter-notebook.jpg "Insert image of notebook"
-[image-2]:	http://www.stevencombs.com/images/nanowrimo/character-profile.svg "Character profile slide"
-[image-3]:	http://www.stevencombs.com/images/nanowrimo/technology-profile.svg "Technology slide"
+[image-1]:	/images/nanowrimo/reporter-notebook.jpg "Insert image of notebook"
+[image-2]:	/images/nanowrimo/character-profile.svg "Character profile slide"
+[image-3]:	/images/nanowrimo/technology-profile.svg "Technology slide"

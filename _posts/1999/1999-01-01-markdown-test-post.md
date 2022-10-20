@@ -45,7 +45,7 @@ Check out [StevenCombs.com](http://www.stevencombs.com) for my blog posts.
 
 ## Image
 
-![This is a test image](http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png)
+![This is a test image](/images/posts/2014-07-01-editorial-posts-bookmark.png)
 
 > Need to create caption CSS (currently does not render)
 

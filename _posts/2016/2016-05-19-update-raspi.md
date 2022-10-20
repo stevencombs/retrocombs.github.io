@@ -54,7 +54,7 @@ At the terminal prompt, type the following command to update the Raspberry Pi fi
 
 The latest version of the Raspberry Pi firmware will download and update the Raspberry Pi OS [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)) as shown in the image below.
 
-> ![rpi-update](http://www.stevencombs.com/images/posts/rpi-update.png)
+> ![rpi-update](/images/posts/rpi-update.png)
 
 To use the new firmware, a reboot is required:
 

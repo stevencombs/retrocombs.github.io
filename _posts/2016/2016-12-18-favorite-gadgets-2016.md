@@ -181,7 +181,7 @@ There you have it; my favorite gadgets of 2016. There were many gadgets released
 [22]:	#anker-24w-dual-usb-car-charger
 [23]:	#logitech-k400-keyboard
 [24]:	#ikea-storh%C3%B6gen-battery-charger-with-storage
-[25]:	http://www.stevencombs.com/android/2016/11/13/thoughts-on-the-google-pixel.html
+[25]:	/android/2016/11/13/thoughts-on-the-google-pixel.html
 [26]:	https://g.co/fi/r/07H30X
 [27]:	https://store.google.com/product/pixel_phone
 [28]:	http://amzn.to/2gDL36E
@@ -206,9 +206,9 @@ There you have it; my favorite gadgets of 2016. There were many gadgets released
 [47]:	https://www.nextthing.co/
 [48]:	https://www.nextthing.co/pages/store
 [49]:	https://bbs.nextthing.co/
-[50]:	http://www.stevencombs.com/chip/2016/06/28/ten-things-about-pocket-chip.html
+[50]:	/chip/2016/06/28/ten-things-about-pocket-chip.html
 [51]:	https://www.nextthing.co/pages/store
-[52]:	http://www.stevencombs.com/gadgets/2015/02/21/amazon-echo-review.html
+[52]:	/gadgets/2015/02/21/amazon-echo-review.html
 [53]:	http://amzn.to/2i1mTQS
 [54]:	http://amzn.to/2gDLNbW
 [55]:	http://amzn.to/2i3QyZY

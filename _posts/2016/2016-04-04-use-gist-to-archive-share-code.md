@@ -23,7 +23,7 @@ Create snippets by visiting the Gist page, clicking the *New snippet* button, co
 
 After the code is published, you share the code by copying a small script that you can include in a blog post (see below) or share the URL to the script page to share in an email, text or other electronic communication.
 
-![Share a Gist](http://www.stevencombs.com/images/posts/2016-04-04-share-gist.png)
+![Share a Gist](/images/posts/2016-04-04-share-gist.png)
 
 Use the URL below to create a free Gist account and get started:
 

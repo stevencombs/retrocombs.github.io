@@ -43,7 +43,7 @@ For those unfamiliar with programming, think of an API Documentation Browser as 
 
 While programming in Python and I cannot remember the proper syntax, usage, scope or options for the `print` command. I use Dash to search the Python docset for the `print` command. Dash provides the information shown in the image below.
 
-![](http://www.stevencombs.com/images/posts/2015-09-16-goodbye-textexpander-hello-dash/python-print-example.png)
+![](/images/posts/2015-09-16-goodbye-textexpander-hello-dash/python-print-example.png)
 
 Docsets are not preinstalled. You choose the docsets you need based on the tasks you perform. Once chosen, Dash downloads docsets to your Mac so they are available when you are offline and also checks regularly to see if updates are available. There are over a hundred different docsets that range from Markdown, to Python, to Swift.
 
@@ -86,7 +86,7 @@ Snippets don't have to be lines of code though. When Dash is running, expansion 
 
 I currently have around 80 snippets and they work flawlessly in all applications. For general text expansion, Dash if flawless. Dash allows you to use tags to organize your snippets. This makes snippets easy to search and categorize. Below is a screenshot of Dash that displays the tags I use to keep my snippets organized.
 
-![](http://www.stevencombs.com/images/posts/2015-09-16-goodbye-textexpander-hello-dash/snippet-tags.png)
+![](/images/posts/2015-09-16-goodbye-textexpander-hello-dash/snippet-tags.png)
 
 This list grows regularly as I find other ways to use Dash to reduce typing.
 

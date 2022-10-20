@@ -19,7 +19,7 @@ In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out
 
 ![Next Think Co. Logo](https://cdn.shopify.com/s/files/1/1065/9514/t/15/assets/ntclogo.png?752585561207401692)
 
-> Thanks to the folks over at [Next Thing Co.][6] for making this build a feature of their [August 11, 2016 blog post][7]. If you are coming over from their post, WELCOME! Also be sure to check out a few of my [other C.H.I.P. related posts](http://www.stevencombs.com/embedded.html). Many more to come.
+> Thanks to the folks over at [Next Thing Co.][6] for making this build a feature of their [August 11, 2016 blog post][7]. If you are coming over from their post, WELCOME! Also be sure to check out a few of my [other C.H.I.P. related posts](/embedded.html). Many more to come.
 
 ![][image-1]
 
@@ -64,22 +64,22 @@ I slide the Pocket C.H.I.P. into the dock. It is surprising how close the width 
 I built in an integrated V shape to provide access to, and visually point out, the home/power button.
 
 [1]:	http://fi.google.com
-[2]:	http://www.stevencombs.com/android/2015/06/27/google-fi-welcome-pack.html
+[2]:	/android/2015/06/27/google-fi-welcome-pack.html
 [3]:	http://amzn.to/2alx7Y5
 [4]:	http://amzn.to/2alx7Y5
 [5]:	http://amzn.to/2acE2Dv
 [6]:	https://www.nextthing.co/
 [7]:	http://blog.nextthing.co/pocketc-h-i-p-community-projects-a-pokemon-go-trainer-bot-a-drawing-robot-a-brick-built-stand/
 
-[image-1]: http://www.stevencombs.com/images/posts/chip/dock1.jpg
-[image-2]: http://www.stevencombs.com/images/posts/chip/dock2.jpg
-[image-3]: http://www.stevencombs.com/images/posts/chip/dock3.jpg
-[image-4]: http://www.stevencombs.com/images/posts/chip/dock4.jpg
-[image-5]: http://www.stevencombs.com/images/posts/chip/dock5.jpg
-[image-6]: http://www.stevencombs.com/images/posts/chip/dock6.jpg
-[image-7]: http://www.stevencombs.com/images/posts/chip/dock7.jpg
-[image-8]: http://www.stevencombs.com/images/posts/chip/dock8.jpg
-[image-9]: http://www.stevencombs.com/images/posts/chip/dock9.jpg
-[image-10]:	http://www.stevencombs.com/images/posts/chip/dock10.jpg
-[image-11]:	http://www.stevencombs.com/images/posts/chip/dock11.jpg
-[image-12]: http://www.stevencombs.com/images/posts/chip/dock12.jpg
+[image-1]: /images/posts/chip/dock1.jpg
+[image-2]: /images/posts/chip/dock2.jpg
+[image-3]: /images/posts/chip/dock3.jpg
+[image-4]: /images/posts/chip/dock4.jpg
+[image-5]: /images/posts/chip/dock5.jpg
+[image-6]: /images/posts/chip/dock6.jpg
+[image-7]: /images/posts/chip/dock7.jpg
+[image-8]: /images/posts/chip/dock8.jpg
+[image-9]: /images/posts/chip/dock9.jpg
+[image-10]:	/images/posts/chip/dock10.jpg
+[image-11]:	/images/posts/chip/dock11.jpg
+[image-12]: /images/posts/chip/dock12.jpg

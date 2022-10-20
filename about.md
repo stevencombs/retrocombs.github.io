@@ -4,13 +4,13 @@ title: About Steven
 permalink: /about
 ---
 
-<img class="category" src="http://www.stevencombs.com/images/design/about.svg" width="20%" />
+<img class="category" src="/images/design/about.svg" width="20%" />
 
 This page lists posts that provide insights into my personal interests or that do not fit within other categories. It also provides a comprehensive employment biography that can be used as a narrative for conference and presentation introductions.
 
 This page can be accessed and shared using the link below:
 
-<http://www.stevencombs.com/about>
+</about>
 
 ## Post about me
 
@@ -22,9 +22,9 @@ This page can be accessed and shared using the link below:
 
 ## Biography
 
-Steven B. Combs, Ph.D. is currently the chancellor for the [Columbus, Indiana campus of Ivy Tech Community College](http://www.ivytech.edu/columbus). In this position he is the senior campus executive officer. He fosters community engagement/collaboration and is responsible for campus and instructional site operations in the communities of Columbus, Seymour, Greensburg, and North Vernon. Combs also serves as an adjunct faculty member for Purdue Polytechnic Columbus.
+Steven B. Combs, Ph.D. the chancellor for the [Columbus, Indiana campus of Ivy Tech Community College](http://www.ivytech.edu/columbus). In this position he is the senior campus executive officer. He fosters community engagement/collaboration and is responsible for campus and instructional site operations in the Indiana counties of Bartholomew, Johnson, Jackson, Jennings, Decatur, and Shelby. Combs also serves as an adjunct faculty member for Purdue Polytechnic Columbus.
 
-Before service as chancellor, he was the campus president for two years. Seven months prior to that position, he was appointed the interim chancellor for the previous Ivy Tech Community College – Columbus/Franklin region while also serving as the vice chancellor for academic affairs, a role he held for two years prior. Two years earlier, he served as dean and professor for the School of Applied Science and Engineering Technology at Ivy Tech Community College – Lafayette.
+Before service as chancellor, he was the campus president for two years. Seven months prior, he was appointed the interim chancellor for the previous Ivy Tech Community College – Columbus/Franklin region while also serving as the vice chancellor for academic affairs, a role he held for two years prior. Two years earlier, he served as dean and professor for the School of Applied Science and Engineering Technology at Ivy Tech Community College – Lafayette.
 
 He is a 27 year military veteran and began his service as an airman in the United States Air Force as an automatic flight control specialist. During college, he transferred to the [Army Reserve Officer Training Corp][0511-001] to obtain his federal commission. He retired from the Army Reserve holding the rank of Major having served as an armor officer and later an adjutant general corps officer.
 
@@ -32,7 +32,7 @@ Major Combs served on active duty for 2 years as the chief, command and control 
 
 Prior to his assignment at USTRANSCOM, he served 6 months on active duty as a chief, policy and plans for [Joint Task Force - Alaska][0511-004] and studied the role of global warming and its impacts on national and strategic policy.
 
-Before being placed on active duty, he served as a department chair and professor for Advanced Manufacturing Technology at Ivy Tech Community College – Evansville. Prior to this appointment, he spent 8 years as the Evansville campus’ instructional technologist assisting faculty in the creation of compelling and media rich online course content.
+Before placed on active duty, he served as a department chair and professor for Advanced Manufacturing Technology at Ivy Tech Community College – Evansville. Prior to this appointment, he spent 8 years as the Evansville campus’ instructional technologist assisting faculty in the creation of compelling and media rich online course content.
 
 Combs began his academic teaching career as a graduate teaching assistant and visiting lecturer at [Murray State University][0511-005]. While pursuing his graduate degree, he also taught as an adjunct for [Paducah Community College][0511-006].
 

@@ -36,4 +36,4 @@ All right, I have to go now. Creating the outline for the next episode! Merry Ch
 [1]:	http://www.pixelpowerpodcast.com
 [2]:	http://www.pixelpowerpodcast.com/episodes/0001
 
-[image-1]:	http://www.stevencombs.com/images/ppp/550x550-ppp-logo.png "Pixel Power Podcast Logo"
+[image-1]:	/images/ppp/550x550-ppp-logo.png "Pixel Power Podcast Logo"

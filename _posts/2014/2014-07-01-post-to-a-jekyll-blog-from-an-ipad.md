@@ -32,15 +32,15 @@ I am a new user of GitHub and what some may already know, I recently discovered.
 
 In Editorial, I created a bookmark to my blog’s GitHub `_posts` online directory as shown in the image below.
 
-<a href="http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-07-01-editorial-posts-bookmark.png" align="left" width="100%" /></a>
+<a href="/images/posts/2014-07-01-editorial-posts-bookmark.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="/images/posts/2014-07-01-editorial-posts-bookmark.png" align="left" width="100%" /></a>
 
 When I tap the Editorial bookmark, GitHub provides an online list of the `_posts` directory within its built in web browser as shown in the image below.
 
-<a href="http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts.png" align="left" width="100%" /></a>
+<a href="/images/posts/2014-07-01-jekyll-posts.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="/images/posts/2014-07-01-jekyll-posts.png" align="left" width="100%" /></a>
 
 See the **`+`** symbol highlighted? That’s the secret sauce. If you click the **`+`** symbol, GitHub will present a new online form as shown in the image below.
 
-<a href="http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts-form.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-07-01-jekyll-posts-form.png" align="left" width="100%" /></a>
+<a href="/images/posts/2014-07-01-jekyll-posts-form.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="/images/posts/2014-07-01-jekyll-posts-form.png" align="left" width="100%" /></a>
 
 Add the title of the post, copy the markdown from the Editorial text editor, return to the web browser and then paste the markdown code into the web based editor. Update the commit information at the bottom of the page (including optional notes) and finally click the `Commit new file` at the bottom-right of the page. The post is now added to your blog.
 
@@ -48,6 +48,6 @@ That’s pretty simple. Given Editorial’s extensibility through the built in [
 
 Have another solution? Drop it in the comments below.
 
-[1]: http://www.stevencombs.com/web/2014/06/13/why-i-moved-from-blogger-to-jekyll.html "Why I moved from Blogger to Jekyll"
+[1]: /web/2014/06/13/why-i-moved-from-blogger-to-jekyll.html "Why I moved from Blogger to Jekyll"
 [2]: http://www.garron.me/en/blog/blogging-from-ipad-jekyll-dropbox.html "Blogging from the iPad with Jekyll"
 [3]: http://www.candlerblog.com/2012/04/01/remote-octopress-workflow/ "Remote Blogging with Octopress"

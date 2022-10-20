@@ -34,4 +34,4 @@ Is this really my first post of 2018? Wow! It’s been way too long.
 [2]:	http://amzn.to/2c5gouJ
 [3]:	https://amzn.to/2JUDnZK
 
-[image-1]:	http://www.stevencombs.com/images/posts/2018-06-18-civic-lab.png "Sketchnote - Civic Lab"
+[image-1]:	/images/posts/2018-06-18-civic-lab.png "Sketchnote - Civic Lab"

@@ -198,7 +198,7 @@ If you have any questions, find errors, or would like to leave a thought, please
 [20]:	http://amzn.to/2ekyU5H
 [21]:	http://amzn.to/2eX2r79
 [22]:	#ports
-[23]:	http://www.stevencombs.com/android/2016/04/30/ios-user-talks-android.html#camera
+[23]:	/android/2016/04/30/ios-user-talks-android.html#camera
 [24]:	http://photos.google.com'
 [25]:	https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher&hl=en
 [26]:	https://play.google.com/store/apps/details?id=com.google.android.launcher&hl=en

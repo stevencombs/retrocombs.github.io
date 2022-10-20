@@ -8,7 +8,7 @@ category: art
 comments: yes
 ---
 
-**Description:** Before creating my [blog post on the Pebble watch](http://www.stevencombs.com/pebble/2014/10/19/my-first-month-with-pebble-watch.html) recently purchased, I decided to perform a quick sketchnotes brainstorming session. I broke out a small pocket notebook I found on clearance at Barnes & Noble and my trusty Pilot pen. I use this notebook to capture ideas while I read and this was the first time I used a single page to capture several thoughts I wanted to make in my blog post. This sketchnote became a kind of pictorial mind map. While there is no structure to my doodles, I did use the sketchnote to ensure I captured all the key points.
+**Description:** Before creating my [blog post on the Pebble watch](/pebble/2014/10/19/my-first-month-with-pebble-watch.html) recently purchased, I decided to perform a quick sketchnotes brainstorming session. I broke out a small pocket notebook I found on clearance at Barnes & Noble and my trusty Pilot pen. I use this notebook to capture ideas while I read and this was the first time I used a single page to capture several thoughts I wanted to make in my blog post. This sketchnote became a kind of pictorial mind map. While there is no structure to my doodles, I did use the sketchnote to ensure I captured all the key points.
 
 **Reference URL:** [bit.ly/my-pebble](bit.ly/my-pebble)
 **Type:** Brainstorming
@@ -18,4 +18,4 @@ comments: yes
 <hr/>
 
 **Sketchnote:**
-![Sketchnotes - Pebble Blog Post Brainstorming](http://www.stevencombs.com/images/sketchnotes/2014-10-19-sketchnotes-pebble-blog-post.png)
+![Sketchnotes - Pebble Blog Post Brainstorming](/images/sketchnotes/2014-10-19-sketchnotes-pebble-blog-post.png)

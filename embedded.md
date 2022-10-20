@@ -8,7 +8,7 @@ permalink: /embedded
 
 I am not sure when the physical computing bug hit me. I think it was sometime in 2007 while I taught a course on C programming. I enjoy any chance I have to tinker with my three of favorite boards: the [Arduino](http://www.arduino.cc/), [C.H.I.P.](http://www.getchip.com) and [Raspberry Pi](http://www.raspberrypi.org/).
 
-You may be looking for my [dedicated Raspberry Pi presentation page](http://www.stevencombs.com/raspberrypi.html).
+You may be looking for my [dedicated Raspberry Pi presentation page](/raspberrypi.html).
 
 Below are my embedded systems posts:
 

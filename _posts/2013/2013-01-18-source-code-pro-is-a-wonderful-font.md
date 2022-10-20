@@ -40,12 +40,12 @@ The font is now available in any application. I set it as the default font in [T
 
 ![][8]
 
-The [Google Web Fonts repository][9] includes this font, ~~and I do hope one day Blogger will fix the issue many of us are having with the Blogger template editor so I can use Source Code Pro as my default text for this blog.~~ [Author’s Note: Check out the [“Why I moved from Blogger to Jekyll”](http://www.stevencombs.com/web/2014/06/13/why-i-moved-from-blogger-to-jekyll.html) post to find out why I no longer care.
+The [Google Web Fonts repository][9] includes this font, ~~and I do hope one day Blogger will fix the issue many of us are having with the Blogger template editor so I can use Source Code Pro as my default text for this blog.~~ [Author’s Note: Check out the [“Why I moved from Blogger to Jekyll”](/web/2014/06/13/why-i-moved-from-blogger-to-jekyll.html) post to find out why I no longer care.
 
 Font choices are alway a very personal decision; however, If you are a coder, Markdown user, or simply a fan of monospaced fonts, you will enjoy the appearance and utility of this wonderful open source font. Well done Adobe! Have another font recommendation? Drop a comment below.
 
 [1]: http://3.bp.blogspot.com/-Ahuwpdq25N4/UPmh40U933I/AAAAAAABFw4/kwQfG4MLrzI/s200/Source+Code+Pro+Font.png
-[2]: http://www.stevencombs.com/apple/2013/01/15/ive-found-my-ipad-markdown-editor.html
+[2]: /apple/2013/01/15/ive-found-my-ipad-markdown-editor.html
 [3]: http://1.bp.blogspot.com/-utNtxP8tcoo/UPmjL_4bI1I/AAAAAAABFxI/Din5AxUBI1M/s640/Textastic+Screenshot+Source+Code+Pro.PNG
 [4]: https://blogs.adobe.com/typblography/2012/09/source-code-pro.html
 [5]: http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html

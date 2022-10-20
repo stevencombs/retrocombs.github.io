@@ -38,7 +38,7 @@ As of this writing, the tweet below of this sketchnote was my most popular. It e
 This sketchnote is dedicated to the two colleagues from the Community Education Coalition that traveled with me to attend this session: Jack Hess and Amber Fischvogt. It was great to get to know the two of them better during our lunch and evening dinners in Chicago.
 
 [1]:	https://www.edwardtufte.com/tufte/courses
-[2]:	http://www.stevencombs.com/art/2015/03/20/staedtler-triplus-fineliner-review.html
+[2]:	/art/2015/03/20/staedtler-triplus-fineliner-review.html
 [3]:	http://amzn.to/2c5gouJ
 [4]:	http://amzn.to/2bRNBLp
 [5]:	http://amzn.to/2c5O8Z0

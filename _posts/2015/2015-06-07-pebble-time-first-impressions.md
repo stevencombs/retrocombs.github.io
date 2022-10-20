@@ -13,7 +13,7 @@ Everyone is talking Watch. I get it. It is worth talking about. It's beautifu
 
 I've been to the Apple Store to play with the Watch and while impressive, it wasn't $500 impressive. I am hesitant to purchase a watch that is likely to be replaced by version 2.0 in less than a year. Not to purchase the Watch was an easy decision.
 
-I've been [wearing an original Pebble Watch][2768-0001] for some time now. I get it and I like it as [my review states](http://www.stevencombs.com/gadgets/2014/10/19/my-first-month-with-pebble-watch.html "My first month with the Pebble watch"). Shortly after posting my Pebble review, Pebble announced a [Kickstarter campaign for a new Pebble Time](https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises).
+I've been [wearing an original Pebble Watch][2768-0001] for some time now. I get it and I like it as [my review states](/gadgets/2014/10/19/my-first-month-with-pebble-watch.html "My first month with the Pebble watch"). Shortly after posting my Pebble review, Pebble announced a [Kickstarter campaign for a new Pebble Time](https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises).
 
 This new Pebble watch will include:
 

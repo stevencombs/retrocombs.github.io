@@ -13,7 +13,7 @@ category: higher-education
 <!--more-->
 
 * __1000__: The goal our Chancellor has identified as the total number of student who transfer from our institution to a four-year institution by 2015. Great goal and hope we can reach this one. We have several initiatives in the hopper and hope to blog about some of these soon.
-* __17.83%__: The decrease in our region’s student FTE from this same time last year (after we drop non-pays/attends). This is significant and is the cause of many of our [financial challenges](http://www.stevencombs.com/2012/07/hard-budget-times-are-not-necessarily.html).
+* __17.83%__: The decrease in our region’s student FTE from this same time last year (after we drop non-pays/attends). This is significant and is the cause of many of our [financial challenges](/2012/07/hard-budget-times-are-not-necessarily.html).
 * __$380,000__: The cost to remodel the President’s Office at Purdue University.<sup>1</sup> No wonder the community college is the most affordable higher education in the state.
 * __$1.7 billion__: Total 2012–13 Indiana state appropriations for higher education.<sup>2</sup> An increase of __.03%__. As our President put it today, the budget is flatlined from last year.
 * __6%__: Percentage of the __$1.7__ billion that will be distributed among those colleges and universities that meet certain performance goals. No, I have not seen these goals yet, but will be researching very soon.

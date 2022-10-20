@@ -98,14 +98,14 @@ I mentioned in [my last blog post][8] that I am writing a book. The new Unicomp 
 [5]:	http://amzn.to/2twnjHQ
 [6]:	https://en.wikipedia.org/wiki/Buckling_spring
 [7]:	http://amzn.to/2sDP7XJ
-[8]:	http://www.stevencombs.com/writing/2017/07/04/book-and-ulysses-timeline.html
+[8]:	/writing/2017/07/04/book-and-ulysses-timeline.html
 [9]:	http://amzn.to/2sDP7XJ
 
 [image-1]:	https://hackadaycom.files.wordpress.com/2016/03/ibm_model_f_xt.png "IBM Keyboard from days gone by"
 [image-2]:	https://upload.wikimedia.org/wikipedia/commons/3/3d/Bucklingspring-animation-300ms.gif "By Shaddim - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30568410"
-[image-3]: http://www.stevencombs.com/images/posts/2017-07-09-unicomp/unicomp-1.jpg
-[image-4]: http://www.stevencombs.com/images/posts/2017-07-09-unicomp/unicomp-2.jpg
-[image-5]: http://www.stevencombs.com/images/posts/2017-07-09-unicomp/unicomp-3.jpg
-[image-6]: http://www.stevencombs.com/images/posts/2017-07-09-unicomp/unicomp-4.jpg
-[image-7]: http://www.stevencombs.com/images/posts/2017-07-09-unicomp/unicomp-5.jpg
-[image-8]: http://www.stevencombs.com/images/posts/2017-07-09-unicomp/unicomp-6.jpg
+[image-3]: /images/posts/2017-07-09-unicomp/unicomp-1.jpg
+[image-4]: /images/posts/2017-07-09-unicomp/unicomp-2.jpg
+[image-5]: /images/posts/2017-07-09-unicomp/unicomp-3.jpg
+[image-6]: /images/posts/2017-07-09-unicomp/unicomp-4.jpg
+[image-7]: /images/posts/2017-07-09-unicomp/unicomp-5.jpg
+[image-8]: /images/posts/2017-07-09-unicomp/unicomp-6.jpg

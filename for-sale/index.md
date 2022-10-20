@@ -11,7 +11,7 @@ Item images appear first followed by a description and cost. This page is update
 
 Last updated: February 21, 2016
 
-![For Sale Sign](http://www.stevencombs.com/for-sale/for-sale-sign.png)
+![For Sale Sign](/for-sale/for-sale-sign.png)
 
 # Appliances
 

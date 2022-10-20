@@ -12,7 +12,7 @@ Below are my code related project attempts. I also maintain a [GIST repository](
 
 ## Hello World
 
-I’m creating a [Hello World page](http://www.stevencombs.com/hello-world/) that demonstrates a single program in multiple languages. You may find this valuable if you are new to coding and have an interest in the different programming languages and structure. *Please note that this page is under construction.*
+I’m creating a [Hello World page](/hello-world/) that demonstrates a single program in multiple languages. You may find this valuable if you are new to coding and have an interest in the different programming languages and structure. *Please note that this page is under construction.*
 
 ## Alfred Workflows
 My Alfred workflows creations or those I use on a regular basis are below.

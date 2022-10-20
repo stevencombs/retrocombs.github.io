@@ -60,10 +60,10 @@ Finally, the models themselves make become wonderful gifts for the LEGO fan on y
 [Get your copy today][14] and "get to building." Christmas is just around the corner and thanks to Chris, we can celebrate and decorate in a very LEGO way.
 
 [1]:	https://www.nostarch.com/
-[2]:	http://www.stevencombs.com/lego/2015/09/19/book-review-the-lego-architect.html
-[3]:	http://www.stevencombs.com/lego/2016/10/02/book-review-geeky-lego-crafts.html
+[2]:	/lego/2015/09/19/book-review-the-lego-architect.html
+[3]:	/lego/2016/10/02/book-review-geeky-lego-crafts.html
 [4]:	http://amzn.to/2dyyHKt
-[5]:	http://www.stevencombs.com/lego/2016/10/02/book-review-geeky-lego-crafts.html
+[5]:	/lego/2016/10/02/book-review-geeky-lego-crafts.html
 [6]:	http://www.chrismcveigh.com
 [7]:	http://www.chrismcveigh.com/cm/brick_sketches.html
 [8]:	http://www.chrismcveigh.com

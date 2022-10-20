@@ -15,7 +15,7 @@ category: web
 
 Over the 2014 Memorial Day weekend, I decided to migrate two blogs (personal and tech) to a single [Jekyll](http://jekyllrb.com) blog and host it on [GitHub](http://github.com/). You are reading this post on the new site.
 
-<a href="http://www.stevencombs.com/images/posts/2014-06-13-stevencombs.site.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-06-13-stevencombs.site.png" align="center" width="100%" /></a>
+<a href="/images/posts/2014-06-13-stevencombs.site.png"><img style="margin-left: 10px; margin-bottom: 10px;" src="/images/posts/2014-06-13-stevencombs.site.png" align="center" width="100%" /></a>
 
 I would not recommend every Blogger user make this transition; however, consider it if you have even basic knowledge of the following:
 - [command line](http://en.wikipedia.org/wiki/Command_line)
@@ -33,7 +33,7 @@ Jekyll is a very different blogging platform than Blogger; although you would be
 
 For those who've been around the web and web programming for some time, you might consider static sites a return to the 1990s. In a way it is and I've found this to be a very good thing. Because Jekyll removes the database backend, I've noticed a huge increase not only in the speed of my site, but also a huge decrease in the time required to write, manage and post my content.
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://www.stevencombs.com/images/posts/2014-06-13-github-site-files.png" align="center" width="100%" />
+<img style="margin-left: 10px; margin-bottom: 10px;" src="/images/posts/2014-06-13-github-site-files.png" align="center" width="100%" />
 
 This is an extremely rudimentary description of Jekyll. If you want more, I recommend you check out their [Welcome](http://jekyllrb.com/docs/home/) page. It's loaded with some great information including a quick start guide.
 
@@ -78,7 +78,7 @@ Another flexibility example is the ability to have individual templates based on
 For all of its strengths, there are a few drawbacks to Jekyll. Below is a bullet list of, what I consider, minor issues:
 - Lack of templates - Unlike Blogger, there is not an abundance of templates available. Jekyll just doesn't have the user base of those two platforms. Be prepared to look like every other Jekyll blog unless you are ready to roll up your sleeves, dig deep and modify the default [Jekyll bootstrap theme's](http://jekyllbootstrap.com/usage/jekyll-theming.html) CSS.
 - Learning curve - To use Jekyll, you need to understand GitHub and [GitHub pages](https://pages.github.com/). This doesn't necessarily mean new _Terminal_ commands as there is a pretty fantastic GUI [GitHub Mac app](https://mac.github.com/). In my case, this was not a drawback, but rather a learning opportunity. For some though, this will be a "non-starter."
-- ~~You can't post from iOS – I am unable to commit/post to my Jekyll site from an iOS device.~~ [I now have a solution](http://www.stevencombs.com/web/2014/07/01/post-to-a-jekyll-blog-from-an-ipad.html).
+- ~~You can't post from iOS – I am unable to commit/post to my Jekyll site from an iOS device.~~ [I now have a solution](/web/2014/07/01/post-to-a-jekyll-blog-from-an-ipad.html).
 - No dashboard – Blogger provides an online dashboard to modify blog settings and to create posts/pages. Using Jekyll, this is done manually on a file by file basis. While I don't consider this a drawback, many new bloggers will. Don't go into Jekyll unless you are comfortable working without a GUI to manage and create posts for your blog.
 
 # Summing up

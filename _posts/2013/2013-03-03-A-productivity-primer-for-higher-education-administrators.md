@@ -28,7 +28,7 @@ Obviously, a review of the slides and the links below are not enough for readers
 
 ## Slide 1 - Title
 
-* [StevenCombs.com](http://www.stevencombs.com/)
+* [StevenCombs.com](/)
 
 ## Slide 2 - Get a System
 

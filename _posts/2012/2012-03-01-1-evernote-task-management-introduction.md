@@ -31,10 +31,10 @@ I’m looking forward to the series. This is the first time since [my AutoCAD pu
 
 It is also likely to take some time as I will craft these posts as time permits. This may turn into an entire 2016 project. If you want to know when the next post in the series is available, you can follow me on [Twitter][5] and [Google+][6] where I always announce new posts. You can also subscribe to the site [RSS feed][7].
 
-[1]:	http://www.stevencombs.com/evernote/2015/01/24/my-evernote-task-management-journey.html
-[2]:	http://www.stevencombs.com/evernote/2015/01/24/my-evernote-task-management-journey.html
+[1]:	/evernote/2015/01/24/my-evernote-task-management-journey.html
+[2]:	/evernote/2015/01/24/my-evernote-task-management-journey.html
 [3]:	http://www.amazon.com/Steven-B.-Combs/e/B001H6NAW6/ref=dp_byline_cont_book_1
 [4]:	mailto:steven.combs+etm@gmail.com
 [5]:	https://twitter.com/StevenCombs
 [6]:	https://plus.google.com/+StevenCombsPhD
-[7]:	http://www.stevencombs.com/atom.xml
+[7]:	/atom.xml

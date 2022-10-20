@@ -251,12 +251,12 @@ Have something else I should add to the list that other Pocket C.H.I.P. owners s
 [27]:	https://docs.python.org/3/tutorial/introduction.html
 [28]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs
 [29]:	http://amzn.to/29loNc3
-[30]:	http://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
+[30]:	/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
 [31]:	http://blog.nextthing.co/play-minecraft-on-your-c-h-i-p-pocketc-h-i-p/
 [32]:	http://amzn.to/2bvjFa0
 [33]:	http://linuxcommand.org/learning_the_shell.php
 [34]:	http://www.linuxcommand.org
-[35]:	http://www.stevencombs.com/chip/2016/08/13/fish-and-chips.html
+[35]:	/chip/2016/08/13/fish-and-chips.html
 [36]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs
 [37]:	https://bbs.nextthing.co/t/new-pocket-home-marshmallow-edition/6579
 [38]:	https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511
@@ -266,10 +266,10 @@ Have something else I should add to the list that other Pocket C.H.I.P. owners s
 [42]:	http://www.rift.dk/blog/run-vice-on-your-pocketchip
 [43]:	http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/
 
-[image-1]:	http://www.stevencombs.com/images/posts/chip/pocket_chip.jpg
-[image-2]:	http://www.stevencombs.com/images/posts/chip/xCalc.png
+[image-1]:	/images/posts/chip/pocket_chip.jpg
+[image-2]:	/images/posts/chip/xCalc.png
 [image-3]:	https://lh3.googleusercontent.com/mLeA1bFTLZkzlWfV-QaG3OB5-438GbNNd2GiNcYbj6DvGYhMATZbbUvL0A2jCKR5_Ab02fagGrgeRPh2naC2qPx-y9WSEo2q3G-iJd5_by_TZDs7NmLTvX6iqqorpxT1PLXh0tGk1ITUNRvPLGCiR0Bull1EL14Mfq3P-w0hBf4wRsU2ANgOK9kkeex11xm1dwSsNAInMZFSckKgZ2Bmyhf-f-v_z6CNzqRo5NiqWs57FGPQRHNeMdPCsbBWlfhG6p7tB0pu-1R-G2cbsvJEMwY2E39CipwHp5_q9xtODNm1GxxRDSoAzr3pauRTRoQ-VT7IkJIpfkGTMil8nyOR2y16GpfVIsDIP3apTQYR-FHxXaTLaYJYjtLQaXh4KxrObBvT46J0y3mKghW8L12mn8iidv1R5vNwDbwUOGog7k_dDuwbr90-JHu3b9HkT8YenAp2yZv_efN0D4Nh6vuuMMdEI5dij7MxndbkuTIrBDzv6W4TndySD5zOVxvFmX10uFW5V-D4TsG8YvCiUhYdGbFdgJ8xzmRDl84HpAT-pQhJcavPwp5VsX2cvfXVw0-q8hdMqLQEOJB3uOJf5U_dGfsNUUeutR-f=w960-h680-no
 [image-4]:	http://blog.nextthing.co/wp-content/uploads/2016/12/nice.gif
 [image-5]:	https://lh3.googleusercontent.com/cFUGmmQh0EzBBCwFvnsbrvE22fWpOfyMehtge99keeoKHBLP0PmV-X0DHPhiAm8E718KGb2Z4asueGfxzRWYvroox1xig1cJe5Wozb3JkiESyg5j5jAenuP0ViCgvt97X2kXUs75UXuqk0wX3RrprDdnIfLlqIjCy-eov_WHbLTm4F-z0qH4mPrD8EY9ZaMpQifP0MdZzx5ulPb4ihQ9yt1q32oIimhdzEPog-v_CVizlZycYhBp05IpWzyZrcoM4-EPIcV3qaAHnLDt_wxnde_pNuxG5857fm761Ldkp7mpy1lnySJh0QcoZWkuklYuQLbGz5K2OI1_qFGNoMoSetDUMWEuGGh4ymPiVh7ZRVCruJfFHL8jUvGAHOVck9NSQpReGybTfLSSi3P4EicbQowmGEQcZPgMREUnfRpNihysiP03CCq6i64MrKRlqBjhDW2h_nxPO0s_OTVEhuNW0EZbFckxsnzG0ny34M5KXr8wBQemmXqViDwjUZuaIzdt9wXvL0TqOv39g8xAkGIM1rEa5lWugm9jHZcBsHRyQtc9wmyLpsV048WPYqmmsEhNRu-fOhUeJBCoqEeEmXGatY1qJyAaJyaV=w960-h545-no
-[image-6]:	http://www.stevencombs.com/images/posts/chip/fish-on-pocketchip.png "fish and chips"
-[image-7]:	http://www.stevencombs.com/images/posts/chip/vice-on-pchip.png "VICE on Pocket C.H.I.P."
+[image-6]:	/images/posts/chip/fish-on-pocketchip.png "fish and chips"
+[image-7]:	/images/posts/chip/vice-on-pchip.png "VICE on Pocket C.H.I.P."

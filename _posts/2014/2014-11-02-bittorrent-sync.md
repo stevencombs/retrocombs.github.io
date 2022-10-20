@@ -20,11 +20,11 @@ Recently while listening to an episode of the [Systematic podcast][7232-001], I 
 
 I visited the site and without exhaustive research, began a download and install. It was a small download. I installed the software on both my [Mac mini Media Server][7232-004] and my iMac. Both are on the same home network and I thought this would be a good first test. Setup was done through the use of a dialog box as shown in the image below.
 
-![BitTorrent Sync dialog box](http://www.stevencombs.com/images/posts/2014-11-02-bittorrent-sync/2014-11-02-bittorrent-sync.png)
+![BitTorrent Sync dialog box](/images/posts/2014-11-02-bittorrent-sync/2014-11-02-bittorrent-sync.png)
 
 Once you choose a directory to sync on a host device, the software presents another dialog box, shown below, that allows you to choose other options to create the synced connection between devices.
 
-![BitTorrent Sync options dialog](http://www.stevencombs.com/images/posts/2014-11-02-bittorrent-sync/2014-11-02-bottorrent-sync-options.png)
+![BitTorrent Sync options dialog](/images/posts/2014-11-02-bittorrent-sync/2014-11-02-bottorrent-sync-options.png)
 
 The *Read Only* option will backup the data to another device. The *Read & Write* option will allow changes on either side of the sync to be made to all devices. The *Security* options provide ways to protect access to your data. Finally, as shown at the bottom of the dialog, you can choose ways to share a connection on another device.
 
@@ -46,7 +46,7 @@ It really didn’t take long for me to figure out how to use BitTorrent Sync; ho
 
 * If you have devices are on the same network, I found that turning off the options, shown in the image below, speed up transfers significantly. I have no idea why.
 
-![BitTorrent Sync lan options](http://www.stevencombs.com/images/posts/2014-11-02-bittorrent-sync/2014-11-02-bittorrent-sync-lan-preferences.png)
+![BitTorrent Sync lan options](/images/posts/2014-11-02-bittorrent-sync/2014-11-02-bittorrent-sync-lan-preferences.png)
 
 * If you have large data to transfer, I highly recommend you copy the files from one device to another using a USB drive first. I had 120Gb of movie files and BitTorrent sync listed a transfer time of 88 days. I’m sure it wouldn’t have taken that long; however, I decided to copy the files first and then make the connection. Once the sync connection was made, the two directories where instantaneously in sync and subsequent syncs where much faster.
 * Make sure you choose the correct options at the beginning. There is no way that I have found where you can modify those after the connection is made.
@@ -63,6 +63,6 @@ Even though the current version is in beta, it exceeds all my expectations and I
 [7232-001]: http://5by5.tv/systematic
 [7232-002]: http://brettterpstra.com/
 [7232-003]: http://www.bittorrent.com/sync/download
-[7232-004]: http://www.stevencombs.com/apple/2012/03/13/we-have-mac-mini-media-center-mmmc.html
+[7232-004]: /apple/2012/03/13/we-have-mac-mini-media-center-mmmc.html
 [7232-005]: https://itunes.apple.com/us/app/bittorrent-sync/id665156116?mt=8&uo=4&at=10l9vL
 [7232-006]: http://www.bittorrent.com/
