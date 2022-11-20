@@ -15,6 +15,13 @@ My very first computer was a Commodore VIC 20. I've always had a special place i
     <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+## Commodore PET
+
+<ul id="blog-posts" class="posts">
+{% for post in site.categories.pet %}
+    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
 
 ## Commodore VIC-20
 
