@@ -9,9 +9,9 @@ permalink: xanadu-bas-demo
 category: mega65
 ---
 
-A couple of MEGA65 programmers, Gurcé and Deathy, reached out to ask for assistance. The two collaborated with the BAS demo group to participate in Syntax 2022 a "Demoparty" held in Melbourne Australia on November 11 and 12th. You can read more about this and past year's events at the [Syntax DemoParty](https://syntaxparty.org/) web site.
+A couple of MEGA65 programmers, Gürçe and Deathy, reached out to ask for assistance. The two collaborated with the BAS demo group to participate in Syntax 2022 a "Demoparty" held in Melbourne Australia on November 11 and 12th. You can read more about this and past year's events at the [Syntax DemoParty](https://syntaxparty.org/) web site.
 
-What was the BAS demo groups's goal for Syntax 2022? To create the most kicking MEGA65 demo using both assembly language and BASIC while honoring the legacy of one of Australia beloved treasures, and I'm not talking haggis. But I'm not going to spoil the surprise. The demo disk includes both an assembly language demo and a BASIC demo. After the demo, I'll share my reactions and additional information sent to me by Gurcé and Deathy.
+What was the BAS demo groups's goal for Syntax 2022? To create the most kicking MEGA65 demo using both assembly language and BASIC while honoring the legacy of one of Australia beloved treasures, and I'm not talking haggis. But I'm not going to spoil the surprise. The demo disk includes both an assembly language demo and a BASIC demo. After the demo, I'll share my reactions and additional information sent to me by Gürçe and Deathy.
 
 By the way, I captured this demo from hardware, a MEGA65, and not in emulation; however, if you want to run these demos in emulation, you can download and install [XEMU](https://github.lgb.hu/xemu/) on your Windows, [Mac](https://retrocombs.com/xemu-on-mac), Linux, or even [Chrome OS](https://retrocombs.com/mega65-on-chromeos) device. NOW, on to the demo.
 
@@ -46,7 +46,7 @@ None as of 2022-11-19.
 
 To be clear. I had nothing to do with this demo. Both developers reached out to me and asked if I would take time to capture and share their creation since I had capture equipment and a channel full of MEGA65 fans. I was thrilled to be asked and now after seeing this demos…WOW! While the assembly language version does a great job of highlighting the hardware features of the MEGA65, I'm blown away by the BASIC version and can't wait to dig into the BASIC code to see how parts of the demo were created.
 
-When Gurcé reached out, he shared the paraphrased information below:
+When Gürçe reached out, he shared the paraphrased information below:
 
 > This is the second MEGA65 demo to feature at a demo party, but the first to highlight the VIC4 capabilities. The BAS goal was to bring together a collective of creative coders to explore the capabilities and limits of the MEGA65. When one demo group or team sees this, the hope is that other demo teams will try to push push the hardware even more.
 
@@ -54,7 +54,7 @@ SPOILER: There's another demo team hard at work with plans to reveal their work 
 
 Retro Computing fans shouldn't be surprised by this project. Even in 2022 demo groups continue to exploit old hardware and Commodore computers are a favorite target. We've seen recent demos for the C64 and even the PET!
 
-I hope you enjoyed this demo video. If you did, leave a comment below. Thanks to Gurcé and Deathy for this opportunity to share the BAS Demo Group's work. My wanna be programmer geek side has to wonder, am I now an honorary member of the BAS demo team?
+I hope you enjoyed this demo video. If you did, leave a comment below. Thanks to Gürçe and Deathy for this opportunity to share the BAS Demo Group's work. My wanna be programmer geek side has to wonder, am I now an honorary member of the BAS demo team?
 
 If you liked this demo, check out my [Part I: Playing the C64 demos from the MEGA65 on boarding SD Card](https://retrocombs.com/c64-on-mega65-livestream).
 
