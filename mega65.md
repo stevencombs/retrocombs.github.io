@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: 'MEGA65 Resource Page (v2.0)'
+title: 'MEGA65 Resource Page (v2.1)'
 permalink: /mega65
 ---
 
@@ -47,16 +47,25 @@ The sections below contain sorted links to MEGA65 content. Send your link recomm
 * [What is the MEGA65](https://mega65.org/assets/pdf/What_is_the_MEGA65.pdf) - PDF that explains the history and why of the MEGA65.
 * [MEGA - Museum of Electronic Games & Art](https://www.m-e-g-a.org/) - Where's MEGA come from? The MEGA65 sponsor organization, the Museum of Electronic Games & Art.
 
-### Technical
+### Essentials
+
+* [MEGA65.ROM](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c) - The latest `MEGA65.ROM` file.
+* [Freezer V2](https://github.com/M3wP/MEGA65-Freezer) - Still in development next generation of the MEGA65 Freezer utility.
+* [SD Card Essentials](https://files.mega65.org?id=a809e0ae-30ac-42f5-ab9c-766d72fd6331) - All the files an SD Card needs to operate a MEGA65.
+
+### Technical Documents
 
 * [MEGA65 book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d) - The entire reference collection all in a single PDF ready for reading, searching, and printing.
 * [MEGA65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA65 project. Highlights include the user's guide, tools, and Xemu.
 * [What are “alternative” MEGA65 cores?](https://sy2002.github.io/m65cores/) - All the known cores available or in development.
-* [MEGA65.ROM](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c) - The latest `MEGA65.ROM` file.
-* [Freezer V2](https://github.com/M3wP/MEGA65-Freezer) - Still in development next generation of the MEGA65 Freezer utility.
-* [SD Card Essentials](https://files.mega65.org?id=a809e0ae-30ac-42f5-ab9c-766d72fd6331) - All the files an SD Card needs to operate a MEGA65.
 * [MEGA65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals.
+
+### Tools
+
 * [Xemu](https://github.lgb.hu/xemu/) - Use this emulator on your Mac, Linux, or Windows PC to run a virtual MEGA65 environment. A great way to get started with zero cost.
+* [M65 Connect](https://files.mega65.org?id=5919a8b8-c23c-4616-9a52-37e077076638) - Available for Mac, Linux and Windows, this GUI connects your MEGA65 to your PC to manage files and your MEGA65.
+* [MEGA65 Tools](https://files.mega65.org?id=e3ec875c-ca31-44fc-a268-ab6f9990e004) - Includes *m65* and * mega65_ftp* so you can yse your PC's command line to manage your MEGA65. Geeks only need download!
+* [matrix65 - crates.io: Rust Package Registry](https://crates.io/crates/matrix65) - MEGA65 Tools is a wonderful collection of CLI tools and now there's a RUST alternative.
 
 ### Community
 
