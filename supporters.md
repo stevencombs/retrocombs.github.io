@@ -4,9 +4,9 @@ title: retroCombs Supporters (THE BEST IN THE WORLD!)
 permalink: /supporters
 ---
 
-I have "the best supporters in the world" contributing to this blog and companion [YouTube channel](https://www.youtube.com/stevencombs). It may be a small group, but it is a mighty and communicative one that is the heart of a growing community of retro computing fans. Below is a list of those supporters for each level in alphabetical order.
+I have "the best supporters in the world" contributing to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs). It's a small, but mighty group!
 
-> **NEW for 2022:** retroCombs memberships are now available and each level, to meet all budgets, is based on our favorite Commodore computers. Check them out at <https://www.buymeacoffee.com/retrocombs/membership>. Below is a sample of the first level; PET!
+> **NEW in 2022:** retroCombs memberships are now available and each level to meet all budgets and they are based on our favorite Commodore computers. Check them out at <https://www.buymeacoffee.com/retrocombs/membership>. Below is a sample of the first level; PET!
 
 > ![PET Level Membership](https://cdn.buymeacoffee.com/uploads/membership_level/2021/12/AVxnyaAqngdbAZ4HqgSFfHmEtbC3tpeiPDB5cfj5.png@800w_0e.webp)
 
@@ -14,8 +14,9 @@ I have "the best supporters in the world" contributing to this blog and companio
 ## Executive Producers (MEGA65-Level Members)
 
 - Boba Fett
-- [Mislav Krleža](https://twitter.com/KrlezaMislav)
+- Gürçe
 - [Mindrail](https://twitter.com/mindrail)
+- [Mislav Krleža](https://twitter.com/KrlezaMislav)
 
 ## Producers (C128-Level Members)
 
@@ -24,13 +25,13 @@ I have "the best supporters in the world" contributing to this blog and companio
 
 ## Members (PET, VIC-20, C64, and Plus/4 Level Members)
 
-- Michael Whipp (VIC-20)
+- [8-Bit Show and Tell](https://www.8bitshowandtell.com/) (VIC-20)
+- Greg from GR (VIC-20)
 - Hauiproductions (VIC-20)
-- 8-Bit Show and Tell (VIC-20)
+- Michael Whipp (VIC-20)
 - Neil Curtis (VIC-20)
-- Gurce Isikyildiz (VIC-20)
-- Mark Dell (Plus/4)
 - Cam Urquhart (Plus/4)
+- Mark Dell (Plus/4)
 
 If you would like your name linked to your site, business, or social media presence, let me know!
 
@@ -43,8 +44,8 @@ Below are the ways you can support and/or become a member.
 3. Click the **♡THANKS** button underneath one of my videos.
 4. Click the **SUPER CHAT** option during a livestream.
 5. Send me a [PayPal donation](paypal.me/stevencombs).
-6. Send me a piece of retro or retro-related tech. Send me an email to discuss where to send.
+6. Send me a piece of retro or retro-related tech. [Send me an email](mailto:retrocombs@icloud.com) to discuss where to send.
 
-No matter which option you choose, your name will appear on this page.
+Depending on your level of support, your name may appear on this page!
 
 Your support, along with my use of Google Adsense and Amazon Affiliate links, allows me to provide more gadget and retro-computing content.

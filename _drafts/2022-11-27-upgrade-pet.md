@@ -9,7 +9,7 @@ permalink: upgrade-pet
 category: pet
 ---
 
-Followers know during Vintage Computer Festival Midwest, I got a new to me Commodore PET. I will not rehash that memory, but if you want to relive it, check out my [My Vintage Computer Festival Midwest 2022 Experience and Commodore PET Purchase](https://retrocombs.com/vcfmw-2022) post. In this post, I want to explore the question, should I (or you) upgrade a Commodore PET?
+Followers know during Vintage Computer Festival Midwest 2022, I got a new to me Commodore PET. I will not rehash that memory, but if you want to relive it, check out my [My Vintage Computer Festival Midwest 2022 Experience and Commodore PET Purchase](https://retrocombs.com/vcfmw-2022) post. In this post, I want to explore the question, should I (or you) upgrade a stock Commodore PET? Purist may answer, "No way, retroCombs" while modern enthusiasts might disagree. I intent to find out if the cost and additions are a good ROI.
 
 ![Commodore PET Motherboard](/images/pet/pet-motherboard.jpg)
 
@@ -230,7 +230,9 @@ That's a lot of new features on a hampered stock Commodore PET. With the investm
 
 ## Do I recommend upgrades?
 
-One word. YES! In a future video and if there’s interest, I'll describe the use of these upgrades, but I am not disappointed. These upgrades make the Commodore PET more usable, fun, and interesting. Be sure to subscribe to the channel for more Commodore PET videos.
+One word. YES! In a future video and if there’s interest, I'll describe the use of these upgrades, but I am not disappointed. These upgrades make the Commodore PET more usable, fun, and interesting. Combined, the upgrades were not inexpensive, but neither was the Commodore PET! Without this additional investment, the PET would have been a show piece. These upgrades allow further experimentation and as a plus, they are can be removed to return the Commodore PET to its original state. Other than cost, there's no reason not to upgrade you Commodore PET with one or more of these devices. 
+
+Be sure to subscribe to the channel for more Commodore PET videos.
 
 Want to learn more about the MEGA65, the last computer in the Commodore PET lineage? Check out my [MEGA65 Introductory Video](https://www.youtube.com/watch?v=Vr9rLUQZgJI).
 
