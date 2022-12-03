@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Should I have upgraded my stock Commodore PET?'
+title: 'Upgrading my 1977 Commodore PET 2001-8-N'
 date: 2022-11-27
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
-permalink: upgrade-pet
+permalink: cbm-pet-upgrades
 category: pet
 ---
 
@@ -21,7 +21,7 @@ Followers know during Vintage Computer Festival Midwest 2022, I got a new to me 
 - [Support the Blog and Channel](#support-the-blog-and-channel)
 - [Companion YouTube Video](#companion-youtube-video)
 - [Video Errata](#video-errata)
-- [Links Mentioned in this Episode](#links-mentioned-in-this-episode)
+- [Links Mentioned](#links-mentioned)
 - [History of my Commodore PET](#history-of-my-commodore-pet)
 - [What's in a Name?](#whats-in-a-name)
 - [My Commodore PET Specifications](#my-commodore-pet-specifications)
@@ -50,13 +50,13 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 
 Title: _Should you upgrade a Commodore PET_
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="link" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/zGIs-yurPOA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Video Errata
 
-None as of 2022-11-27.
+None as of 2022-12-02.
 
-## Links Mentioned in this Episode
+## Links Mentioned
 
 I use affiliate links. Thanks for your support of the blog and the YouTube channel when you use these links.
 
@@ -67,6 +67,9 @@ I use affiliate links. Thanks for your support of the blog and the YouTube chann
 5. [Bonus Life Computers](https://bonuslifecomputers.com/)
 5. [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
 6. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
+7. [Campus Curiosity Article](https://rcc-redmarley.tumblr.com/post/612113605642649600/campus-curiosity-commodore-pet-2001#:~:text=Released%20in%201977%2C%20it%20appears,the%20font%20of%20Hal's%20interface.)
+8. [The Oldest Commodore PET Brochure](https://www.commodore.ca/commodore-history/the-oldest-commodore-pet-2001-brochure/#:~:text=THE%20PET%20is%20the%20only,and%20weighs%20just%2044%20pounds.)
+9. [Zimmers.net SuperPET Page](http://www.zimmers.net/cbmpics/csp9000.html)
 
 ## History of my Commodore PET
 
@@ -83,13 +86,13 @@ Using a couple of sources of information, here's what I know about the history o
 
    > Yep. It came from Goodwill in I believe Arizona. We had to swap the power supply with a unit from another 2001, rebuild the keyboard and I think there was one bad RAM chip.
 
-I'm convinced there's an owner in between the University of Las Vegas and Goodwill. I'll conjecture that the owners sold the PET at a public auction or a Professor took it home. If you are watching this and have an idea, please leave a comment below.
+I'd wager there's an owner in between the University of Las Vegas and Goodwill. I'll conjecture that the University sold the PET at a public auction or a lucky computer science Professor took it home. If you are watching this and have an idea, please leave a comment below.
 
-The Commodore PET was part of Byte Magazine's "1977 trinity of computers" that included the Apple II and TRS-80. It was the first mass-market Commodore computer. There were several models released before the PET line ended in 1982 after selling over two-hundred thousand units.
+The Commodore PET was part of Byte Magazine's "1977 trinity of computers" that included the Apple II and Radio Shack TRS-80. It was the first mass-market Commodore computer and saw moderate success. There were several models released before the PET line ended in 1982 after selling over two-hundred thousand units.
 
 ![The 1977 Trinity](https://upload.wikimedia.org/wikipedia/commons/f/ff/Trinity77.jpg)<sup>*By Tim Colegrove - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79216985</sup>*
 
-I was twelve when Commodore released the PET. By 1982, I had saved enough money mowing lawns to purchase my first computer, the Commodore VIC-20. I would classify the Commodore PET as a generation ahead of me and would have been a financial burden to my family.
+I was twelve when Commodore released the PET. By 1982, I had saved enough money mowing lawns to purchase my first computer, the Commodore VIC-20. I would classify the Commodore PET as a generation ahead of me and it would have been a financial burden to my family at an original cost of $795.
 
 ![Commodore VIC-20](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Commodore-VIC-20-FL.jpg/2560px-Commodore-VIC-20-FL.jpg)<sup>*By Evan-Amos - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=38582541</sup>*
 
@@ -99,13 +102,15 @@ The full nomenclature for my computer is the:
 
 `Commodore Business Machines (CBM) Personal Electronic Transactor (PET) Model 2001-N-8`
 
-There is an interesting background in the choice to use both PET and 2001 to describe the computer. [Wikipedia states](https://en.wikipedia.org/wiki/Commodore_PET#Origins) PET is a backronym to capitalize on the pet rock craze of the 1970s. [Campus Curiosity: Commodore PET 2001 | Research and Cultural Collections](https://rcc-redmarley.tumblr.com/post/612113605642649600/campus-curiosity-commodore-pet-2001#:~:text=Released%20in%201977%2C%20it%20appears,the%20font%20of%20Hal's%20interface.) reads…
+The choice to use both PET and 2001 to describe the computer is interesting. [Wikipedia states that](https://en.wikipedia.org/wiki/Commodore_PET#Origins) PET is a backronym (an acronym looking for a definition) to capitalize on the pet rock craze of the 1970s. 
+
+A [Campus Curiosity](https://rcc-redmarley.tumblr.com/post/612113605642649600/campus-curiosity-commodore-pet-2001#:~:text=Released%20in%201977%2C%20it%20appears,the%20font%20of%20Hal's%20interface.) page on the PET shares the reason for the number 2001:
 
 > …it appears that the designer, Chuck Peddle, was inspired by the sentient AI machine HAL 9000, from Stanley Kubrick’s 2001: A Space Odyssey. Peddle paid homage through the use of a three letter name combined with the number “2001” and PET’s Microgramma logo, this being the font of HAL’s interface.
 
-That's an interesting amalgam of pop culture references. I'm not sure I would have ever put the pet rock and the HAL 9000 together as a marketing strategy.
+That's an interesting amalgam of pop culture references. I'm not sure I would have ever combined a pet rock and the HAL 9000 together as a marketing strategy.
 
-A "N" follows the 2001 reference to show that this Commodore PET includes a black and green monitor. Finally, the "8" means my PET has 8 KB of memory. Let's dig deeper into my PET's specifications.
+The "N" that follows the 2001 reference indicates this Commodore PET includes a black and green monitor. Finally, the "8" means my PET has 8 KB of memory. 4 KB more than the base model. Let's dig deeper into my PET's specifications.
 
 ## My Commodore PET Specifications
 
@@ -127,11 +132,11 @@ Below are specifications for my Commodore PET:
 
 ## Industrial Design
 
-Commodore packaged the electronics in a hefty beige case with an integrated 9-inch monochrome display, cassette recorder (called a Datasette), and a chiclet keyboard. The case includes port cut-outs on the back. [The Oldest Commodore PET Brochure](https://www.commodore.ca/commodore-history/the-oldest-commodore-pet-2001-brochure/#:~:text=THE%20PET%20is%20the%20only,and%20weighs%20just%2044%20pounds.)says the PET comes in at a hefty 16 1/2” wide; 18 1/2″ deep; 14″ high, and weighs 44 pounds.
+Commodore packaged the electronics in a hefty beige case with an integrated 9-inch monochrome display, cassette recorder (called a Datasette), and a chiclet keyboard. The case includes port cut-outs on the back. [The Oldest Commodore PET Brochure](https://www.commodore.ca/commodore-history/the-oldest-commodore-pet-2001-brochure/#:~:text=THE%20PET%20is%20the%20only,and%20weighs%20just%2044%20pounds.)says the PET comes in at 16 1/2” wide; 18 1/2″ deep; 14″ high, and weighs a hefty 44 pounds.
 
 ### Display
 
-The 9-inch 60 Hz display includes a 40 columns by 25 row, or 1000 characters, black and green screen that supports upper/lower case and PETSCII characters. Warm up time is fast after throwing the massive power switch.
+The 9-inch 60 Hz display includes a 40 columns by 25 rows, or 1000 characters, black and green screen that supports upper/lower case and PETSCII characters. Warm up time is fast. It turns on seconds after throwing the massive power switch. The screen is steady and easy on the eyes for a CRT screen.
 
 ### Datasette
 
@@ -150,19 +155,19 @@ The chiclet keyboard is a love/hate relationship. With a history of creating cal
 5. Alpha-numeric keys are tan, character supplement keys RETURN, SHIFT, SPACE, CLR/HOME, and INST/DEL are red, and user keys OFF/RVS, RUN/STOP, CSR↑↓, and CSR←→ are light blue.
 6. Press CSR↑↓ and CSR←→ to move the cursor down and right. Hold SHIFT and the corresponding key to move the cursor up and left. Commodore repeats this cursor key arrangement on the VIC-20 and the C64.
 
-Here's the love/hate relationship. You hate using the keyboard and it can't be used to touch-type. Because you can't touch-type on it, the keyboard makes sense and makes longer Commodore BASIC sequences faster. Faster than touch-typing? No. But if you have to suffer with hunt and peck, things can go quicker with this layout when you use command short cuts (the first two or three letters of a command with the second or third character shifted) and the keys on the top row. Since you don't have to hold a shift key for special characters, you can enter those quickly.
+Here's the love/hate relationship. You hate using the keyboard and it can't be used to touch-type. Because you can't touch-type on it, the keyboard makes sense and makes hammering out longer Commodore BASIC sequences faster. Faster than touch-typing? No. But if you have to suffer with hunt and peck, things can go quicker with this layout when you use command short cuts (the first two or three letters of a command with the second or third character shifted) and the keys on the top row. Since you don't have to hold the shift key for special characters, you can enter those quickly.
 
-With a review of the industrial design complete, let's lift the hood and see what's side.
+With a review of the industrial design complete, let's, "literally" (and I did use that correctly) lift the hood and see what's side.
 
 ### Lift the Case
 
-The case includes a hinge to open the entire top of the PET like the hood of a car. It even includes a "kick-stand" to hold the top of the PET open. Inside the PET is the motherboard and power supply. There's even ample room left over to throw in a spare tire or luggage for your weekend trip! The first time I lifted the hood, I knew it was time for this PET to get a good interior cleaning.
+The case includes a hinged top to open the PET like the hood of a car. It even includes a "hood-stand" to hold the top of the PET open. Inside the PET is the motherboard and power supply. There's even ample room left over to throw in a spare tire or luggage for your weekend trip! The first time I lifted the hood, I knew it was time for this PET to get a good interior cleaning.
 
 ## First step, clean up!
 
 Externally, my PET was clean and in good condition. Scott gave the device lots of love and attention to the exterior, even touching up scratches with paint. Opening the Commodore PET revealed an interior of dirt. Scott later mentioned that he wanted to clean the interior before VCFMW 2022 but ran out of time.
 
-I was not averse to a cleaning and grabbed the alcohol, swabs, and a rag and got to work. I removed the motherboard to make cleanup easier and inspected everything as I removed them for any damage. There was none.
+I was not averse to a cleaning and grabbed the alcohol, swabs, toothbrush, and a rag. I removed the motherboard to make cleanup easier and inspected everything as I removed them for any damage. There was none. In the end, the interior looked pristine! Now I have to keep it that way.
 
 Once the PET was all cleaned up, it was time to make the upgrades.
 
@@ -179,11 +184,13 @@ It is important to note that upgrade #2 is required before numbers 1 and 3 to wo
 
 ### SD2PET Future - Commodore PET
 
-The SD2PET Future plugs into the IEEE-488 port on the back of the PET. It requires power and that adapter plugs into a Datasette port. The SD card is accessible from the rear of the PET as are the drive reset button and the activity LED that flashes red and green. FAT Format the SD card and you drop on `.PRG` and `.D64` files. Use the complicated `OPEN` command to access the files; however, stay tuned. The RAM/ROM expansion has a few tricks up its sleeve. And that's without the Stupid PET tricks!
+The SD2PET Future plugs into the IEEE-488 port on the back of the PET. It requires power and that adapter plugs into the Datasette port. The SD card is accessible from the rear of the PET as are the drive reset button and the activity LED that flashes red and green. 
+
+FAT Format the SD card and drop on `.PRG` and `.D64` files. Use the complicated `OPEN` command to access the files; however, stay tuned. The RAM/ROM expansion has a few tricks up its sleeve.
 
 ### Commodore PET RAM/ROM
 
-Installation is simple: 
+The next upgrade was TFW8B's Commodore PET RAM/ROM unit. Installation is simple: 
 
 1. Remove the original 6502 processor.
 2. Plug the 6502 processor into the RAM/ROM board.
@@ -197,7 +204,7 @@ DIP switches control the configuration of the RAM/ROM expansion. With the PET tu
 
 > **NOTE:** You must use version 2 or 4 of the ROM in order to use the IEEE-488 user port.
 
-When I first used the SD2PET, I became frustrated with the long commands necessary to access disk images and program files. But after reading the RAM/ROM instructions, I discovered the ROM includes a turbo loader called (INSERT NAME!) complete with commands I use on the MEGA65 like `/` to load software. I will not cover these features in this video, but if there's interest, drop a comment below to let me know.
+When I first used the SD2PET Future, I became frustrated with the long commands necessary to access disk images and program files. But after reading the RAM/ROM instructions, I discovered the ROM includes Nils Eilers DOS Wedge. Enter `SYS 36864` and new DOS commands are available like `/` to load software. I use this shortcut keystroke on the MEGA65! I will not cover these features in this video, but if there's interest, drop a comment below to let me know.
 
 ### Joystick Connector
 
@@ -214,23 +221,31 @@ Stupid PET Tricks lets your PET "[do stupid (fun) tricks](https://www.bit-zeal.c
 - *PET Term* Software module programed with Zimodem code)
 - Powertap adapter to draw power for the Wi-Fi modem from the Datasette port
 
+That's a whole lot of tricks in this single device.
+
 ## Are the upgrades valuable?
 
-What amazed me the most was that all these upgrades worked in tandem with each other. The SD2PET and Stupid PET Tricks both draw power from the user port and I worried it was a “one or the other” affair, which is not ideal; however, the Stupid PET Tricks Power Tap option includes a pass through allowing me to plug in the SD2PET. Nice! 
+What amazed me the most was that all these upgrades worked in tandem with each other. The SD2PET Future and Stupid PET Tricks both draw power from the user port and I worried it was a “one or the other” affair, which is not ideal; however, the Stupid PET Tricks Power Tap option includes a pass through allowing me to plug in the SD2PET Future. Nice! 
 
-In order to use the SD2PET, my PET needs version 2 or 4 of the ROM. It includes version 1. That's where the RAM/ROM upgrade comes in. Flip a few DIP switches and the Commodore PET now features the version 4 ROM and 32 KB of RAM.
+In order to use the SD2PET Future, the PET needs ROM version 2 or 4 instead of the stock version 1. That's where the RAM/ROM upgrade comes in. Flip a few DIP switches and the Commodore PET now features ROM version 4 and 32 KB of RAM.
 
-I can use the tape drive to load and save programs; however, using the SD2PET with an upgraded ROM means I don't need to search for the bulky Commodore 8050 floppy drive unit and the SD2PET loads programs faster.
+I can use the tape drive to load and save programs; however, using the SD2PET Future with an upgraded ROM means I don't need to search for a bulky Commodore 8050 floppy drive unit and the SD2PET Future loads programs faster.
 
 ![Commodore 8050](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Commodore_CBM_2001_%26_8050.jpg/1920px-Commodore_CBM_2001_%26_8050.jpg)*<sup>https://commons.wikimedia.org/wiki/File:Commodore_CBM_2001_%26_8050.jpg#/media/File:Commodore_CBM_2001_&_8050.jpg</sup>*
 
-The RAM/ROM unit upgrades memory to 32 KB to can run more software. The Stupid PET Tricks joysticks ports make playing games alone or with a friend more enjoyable and accurate than using the cursor keys or alphanumeric keys to control game characters. Tapping into the sound on the Commodore PET means games and other programs now have sound! And last, I can now use my PET as a true computer terminal by connecting to various BBS using the Wi-Fi modem.
+The RAM/ROM unit upgrades memory to 32 KB and gives me the option to run more software. The Stupid PET Tricks joysticks ports make playing games alone or with a friend more enjoyable and accurate than using the cursor keys or alphanumeric keys to control game characters. Tapping into the sound on the Commodore PET means games and other programs now have audio cues! And last, I can now use my PET as a true computer terminal by connecting to various BBSs using the Wi-Fi modem.
 
-That's a lot of new features on a hampered stock Commodore PET. With the investment I made into the PET, these additional upgrades were an easy decision. The only disappointment is that I cannot upgrade my PET to an 80-column display to take advantage of a larger library of titles. Or can I? If it can, I'm sure viewers will let me know.
+That's a lot of new features on a hampered stock Commodore PET. With the investment I made into the PET, these additional upgrades were an easy decision. The only disappointment is that I cannot upgrade my PET to an 80-column display to take advantage of a larger library of titles. Or can I? If I can, I'm sure viewers will let me know.
 
 ## Do I recommend upgrades?
 
-One word. YES! In a future video and if there’s interest, I'll describe the use of these upgrades, but I am not disappointed. These upgrades make the Commodore PET more usable, fun, and interesting. Combined, the upgrades were not inexpensive, but neither was the Commodore PET! Without this additional investment, the PET would have been a show piece. These upgrades allow further experimentation and as a plus, they are can be removed to return the Commodore PET to its original state. Other than cost, there's no reason not to upgrade you Commodore PET with one or more of these devices. 
+I mention earlier that I'd love to have an 80-column display. I'll add to this that a full-size keyboard would be another upgrade I wish I could make. I'd like to experience one of the later PETs but after this investment, I don't see one of those in my future but I'll keep my eye open. There's one variant, the SuperPET, I'd love to add to my collection. It includes a larger 12" inch 80 column screen, 96 KB of memory, BASIC 4.0 and other programming languages (Waterloo microAPL, microFORTRAN, microBASIC, microPASCAL, microCOBOL), microEDITOR a modal text editor, and built-in RS-232 to serve as a Terminal. That's my dream PET! Check out the [Zimmers.net SuperPET page](http://www.zimmers.net/cbmpics/csp9000.html) to understand why I drool over this PET variant.
+
+![Commodore SuperPET](https://vintagecomputer.ca/wp-content/uploads/2015/10/SuperPET-6502-boot.jpg)<sup>Source: <https://vintagecomputer.ca/commodore-superpet-sp9000/></sup>
+
+But what about my upgrades? Even though they don't bring me to SuperPET status, do I recommend them? YES! If there’s interest, I'll describe the use of these upgrades, but I am not disappointed. 
+
+These upgrades make the Commodore PET more usable, fun, and interesting. Combined, the upgrades were not inexpensive, but neither was the Commodore PET! Without this additional investment, the PET would have been a show piece. These upgrades allow further experimentation and exploration of the PETs history. As a plus, these upgrades can be removed to return the Commodore PET to its original state. Other than cost, there's no reason not to upgrade you Commodore PET with one or more of these devices.
 
 Be sure to subscribe to the channel for more Commodore PET videos.
 
