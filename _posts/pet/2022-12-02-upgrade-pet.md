@@ -231,7 +231,7 @@ In order to use the SD2PET Future, the PET needs ROM version 2 or 4 instead of t
 
 I can use the tape drive to load and save programs; however, using the SD2PET Future with an upgraded ROM means I don't need to search for a bulky Commodore 8050 floppy drive unit and the SD2PET Future loads programs faster.
 
-![Commodore 8050](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Commodore_CBM_2001_%26_8050.jpg/1920px-Commodore_CBM_2001_%26_8050.jpg)*<sup>https://commons.wikimedia.org/wiki/File:Commodore_CBM_2001_%26_8050.jpg#/media/File:Commodore_CBM_2001_&_8050.jpg</sup>*
+![Commodore 8050](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Commodore_CBM_2001_%26_8050.jpg/1920px-Commodore_CBM_2001_%26_8050.jpg)*<sup>[Source: Wikipedia](https://commons.wikimedia.org/wiki/File:Commodore_CBM_2001_%26_8050.jpg#/media/File:Commodore_CBM_2001_&_8050.jpg)</sup>*
 
 The RAM/ROM unit upgrades memory to 32 KB and gives me the option to run more software. The Stupid PET Tricks joysticks ports make playing games alone or with a friend more enjoyable and accurate than using the cursor keys or alphanumeric keys to control game characters. Tapping into the sound on the Commodore PET means games and other programs now have audio cues! And last, I can now use my PET as a true computer terminal by connecting to various BBSs using the Wi-Fi modem.
 
