@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Upgrading my 1977 Commodore PET 2001-8-N'
-date: 2022-11-27
+title: 'Upgrading my 1977 Commodore PET 2001-8'
+date: 2022-12-03
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
@@ -48,13 +48,13 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 
 ## Companion YouTube Video
 
-Title: _Should you upgrade a Commodore PET_
+Title: _I upgrade my Commodore PET 2001-8 using modern devices? But should you?_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/zGIs-yurPOA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Video Errata
 
-None as of 2022-12-02.
+2022-12-03: Chuck Hutchins dropped a comment let me know I made a mistake on the model number. I reference the 2001-8-N. While N does denote a black and green display, that nomenclature is used for a PET 2001 with a full-size keyboard. I misread the Wikipedia entry.
 
 ## Links Mentioned
 
@@ -78,7 +78,7 @@ As I shared in an earlier video and blog post, I purchased my Commodore PET from
 Using a couple of sources of information, here's what I know about the history of this Commodore PET 2001:
 
 1. Property tags on the back of the computer tell me the PET went into service at the University of Nevada Las Vegas. It's appropriate that this Commodore PET is back in the hands of an educator.
-2. Chris Hutchinson's [PET database](https://docs.google.com/spreadsheets/d/1NTQpIdW1gT3KTPUPs5mWHLGJxomzp0It32OHQ076W90/edit?usp=sharing) tells me the PET ended up at a Goodwill in Southern Nevada and [he archived the images](https://drive.google.com/drive/folders/1AeJuEBxaX6w6MbbFM7Q2PfqjJzrumg9V):
+2. Chuck Hutchins' [PET database](https://docs.google.com/spreadsheets/d/1NTQpIdW1gT3KTPUPs5mWHLGJxomzp0It32OHQ076W90/edit?usp=sharing) tells me the PET ended up at a Goodwill in Southern Nevada and [he archived the images](https://drive.google.com/drive/folders/1AeJuEBxaX6w6MbbFM7Q2PfqjJzrumg9V):
 
     ![Image from Goodwill](/images/pet/pet-goodwill-tag.jpg)
 
@@ -100,7 +100,7 @@ I was twelve when Commodore released the PET. By 1982, I had saved enough money 
 
 The full nomenclature for my computer is the:
 
-`Commodore Business Machines (CBM) Personal Electronic Transactor (PET) Model 2001-N-8`
+`Commodore Business Machines (CBM) Personal Electronic Transactor (PET) Model 2001-N`
 
 The choice to use both PET and 2001 to describe the computer is interesting. [Wikipedia states that](https://en.wikipedia.org/wiki/Commodore_PET#Origins) PET is a backronym (an acronym looking for a definition) to capitalize on the pet rock craze of the 1970s. 
 
@@ -110,13 +110,13 @@ A [Campus Curiosity](https://rcc-redmarley.tumblr.com/post/612113605642649600/ca
 
 That's an interesting amalgam of pop culture references. I'm not sure I would have ever combined a pet rock and the HAL 9000 together as a marketing strategy.
 
-The "N" that follows the 2001 reference indicates this Commodore PET includes a black and green monitor. Finally, the "8" means my PET has 8 KB of memory. 4 KB more than the base model. Let's dig deeper into my PET's specifications.
+~~The "N" that follows the 2001 reference indicates this Commodore PET includes a black and green monitor.~~ Finally, the "8" means my PET has 8 KB of memory. 4 KB more than the base model. Let's dig deeper into my PET's specifications.
 
 ## My Commodore PET Specifications
 
 Below are specifications for my Commodore PET:
 
-1. Commodore PET Model 2001–N-8 
+1. Commodore PET Model 2001–8 
 2. Built in the United States
 3. Likely sold in 1978
 4. Serial Number: 0040424
@@ -140,8 +140,7 @@ The 9-inch 60 Hz display includes a 40 columns by 25 rows, or 1000 characters, b
 
 ### Datasette
 
-The PET supports up to two Datasette units. The PET 2001-N-8 includes a built-in cassette recorder with an additional Datasette port. Later models dropped the internal Datasette to accommodate a full-size keyboard.
-
+The PET supports up to two Datasette units. The PET 2001-8 includes a built-in cassette recorder with an additional Datasette port. Later models dropped the internal Datasette to accommodate a full-size keyboard.
 Users save programs to and load program from a cassette tape inserted in into the Datasette. Load times varied based on the size of the program. The command to save a program was `SAVE` and the command to load a program was "LOAD". After each command, the PET prompts the user to hit specific Datasette buttons (Play or Play and Record). The PET includes fast-forward and rewind buttons; however, without a counter, locating programs on the cassette tape is a challenge. The tape unit includes a combined Stop and Eject button.
 
 ### Keyboard
