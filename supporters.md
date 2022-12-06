@@ -47,7 +47,7 @@ Below are the ways you can support and/or become a member.
 
 Depending on your level of support, your name may appear on this page!
 
-<hr></hr>
+<hr>
 
 ## Why Support Me
 
