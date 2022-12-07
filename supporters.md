@@ -57,6 +57,8 @@ Below are the ways you can support and/or become a member.
 5. Send me a [PayPal donation](paypal.me/stevencombs).
 6. Send me a piece of retro or retro-related tech. [Send me an email](mailto:retrocombs@icloud.com) to discuss where to send.
 
+!a "Kindle Scribe"
+
 Depending on your level of support, your name may appear on this page!
 
 <hr>
