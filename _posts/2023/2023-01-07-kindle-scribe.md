@@ -53,14 +53,14 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 
 ## Companion YouTube Video
 
-Title: _My Amazon Kindle Scribe Guide | A Perfect Retro Computing Companion
+Title: _Amazon Kindle Scribe Guide | A Perfect Retro Computing Companion
 _
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/bXiPbneEUZQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Video Errata
 
-None as of 2023-01-06.
+None as of 2023-01-07.
 
 ## Links Mentioned in this Episode
 
