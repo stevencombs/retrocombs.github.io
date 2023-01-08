@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: 'MEGA65 Resource Page (v2.1)'
+title: 'MEGA65 Resource Page (v2.2)'
 permalink: /mega65
 ---
 
@@ -51,7 +51,9 @@ The sections below contain sorted links to MEGA65 content. Send your link recomm
 
 * [MEGA65.ROM](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c) - The latest `MEGA65.ROM` file.
 * [Freezer V2](https://github.com/M3wP/MEGA65-Freezer) - Still in development next generation of the MEGA65 Freezer utility.
-* [SD Card Essentials](https://files.mega65.org?id=a809e0ae-30ac-42f5-ab9c-766d72fd6331) - All the files an SD Card needs to operate a MEGA65.
+* [SD Card Essentials](https://files.mega65.org?id=0fb941fe-5c5f-4608-b0f1-32849d4a8dff) - All the files an SD Card needs to operate a MEGA65.
+* [SD Card Intro Disk Extras](https://files.mega65.org?id=2f99feed-edd3-430c-a71d-e5489f5d83ac) - All the fun demos and software that come with the MEGA65's SD card.
+* [GEOS 65](https://files.mega65.org?id=76448b22-bb44-49af-b816-3446e6497e40) - Beta version of GEOS for the MEGA65.
 
 ### Technical Documents
 
