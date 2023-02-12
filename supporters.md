@@ -37,6 +37,7 @@ Table of Contents
 
 ## Members (PET, VIC-20, C64, and Plus/4 Level Members)
 
+- Axel Klahr (VIC-20)
 - [8-Bit Show and Tell](https://www.8bitshowandtell.com/) (VIC-20)
 - Greg from GR (VIC-20)
 - Hauiproductions (VIC-20)
