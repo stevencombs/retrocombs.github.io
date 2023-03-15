@@ -1,5 +1,5 @@
 ---
-layout: none
+layout:
 title: retroCombs Shop
 permalink: /shop
 ---
