@@ -3,8 +3,7 @@ layout: null
 title: retroCombs Shop
 permalink: /shop
 ---
-
-Support this blog and my YouTube channel by sporting the retroCombs logo. Check out my branded shop below:
+<!DOCTYPE html>
 
 <div id="myShop">
     <a href="https://retrocombs.myspreadshop.com">retrocombs</a>

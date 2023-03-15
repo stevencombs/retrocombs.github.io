@@ -47,6 +47,10 @@ I use affiliate links. Thanks for your support of the blog and the YouTube chann
 
 ## My Logo Journey
 
+To begin my story, we must first take a look at my original logo.
+
+![retroCombs original logo](https://retrocombs.com/images/design/retroCombs-logo-version1.svg)
+
 SpreadShop told me the Atari Joystick is still the intellectual property of Atari.
 
 Here's the January 30th, 2023 email from Spreadshop:
