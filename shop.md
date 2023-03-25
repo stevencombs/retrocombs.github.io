@@ -3,8 +3,9 @@ layout: null
 title: retroCombs Shop
 permalink: /shop
 ---
-<!DOCTYPE html>
 
+<!DOCTYPE html>
+<html>
 <div id="myShop">
     <a href="https://retrocombs.myspreadshop.com">retrocombs</a>
 </div>
@@ -21,3 +22,4 @@ permalink: /shop
 <script type="text/javascript"
         src="https://retrocombs.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js">
 </script>
+</html>

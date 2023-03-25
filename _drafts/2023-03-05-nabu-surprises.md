@@ -63,8 +63,9 @@ I use affiliate links. Thanks for your support of the blog and the YouTube chann
 6. [Arcade Shopper NABU Cable](https://www.arcadeshopper.com/wp/store/#!/NABU-DIN5-RJ45-cable-with-DB9-adapter-for-RS422-connection-to-Nabu/p/530710449/category=144933272)
 
 Let's look at ten things about the NABU that surprised this Commodore enthusiast, starting with the NABU’s industrial design.
+
 ## 1. Industrial Design
-The NABU form factor is substantial when compared with Commodore computers of the same period. Commodore's bread bin case looks toylike next to the rugged metal VCR-sized NABU case. You can tell designers of the NABU created the "set-top-box" computer to look at home in a rack with 1980s video tape recorders and hi-fi audio equipment.
+The NABU form factor is substantial when compared with Commodore computers of the same period. Commodore's bread bin case looks toylike next to the rugged metal VCR-sized NABU case. You can tell designers of the NABU created the "set-top-box" computer to look at home in a rack with 1980s video tape recorders and hi-fi audio equipment and then dangled a keyboard off the box and lets take a look at that keyboard.
 
 <!-- Insert image form manual along with racks of A/V equipment from 1980s -->
 
@@ -73,14 +74,14 @@ At first glance, the 66-key qwerty keyboard with Alps key switches look bulky, w
 
 <!-- read the user’s manual to verify -->
 
-The keyboard feel is a surprise. In a word, the keyboard feels "outstanding." The Alps keys provide a nice thunk that reminds me of early Apple keyboards. It feels professional and is a keyboard I want to use–a statement rarely said about 1980s home computers. Finally, the keyboard includes ports for two joysticks and those ports are my next surprise.
+The keyboard feel is a surprise. In a word, the keyboard feels "outstanding." The Alps keys provide a nice thunk that reminds me of early Apple keyboards. It feels professional and is a keyboard I want to use–a statement rarely said about 1980s home computers, even Commodore computers. Finally, the keyboard includes ports for two joysticks and those ports are my next surprise.
 
 ## 3. Standard 9 pin DIN joystick connectors
 I'll admit, when I heard the NABU was a cable company contraption, I assumed everything would be proprietary; including connectors. DJ Sures uses a NABU joystick (I need to find me one of these) in his videos and assumed, because of its unique flight stick appearance, that the connector on the other end was proprietary.
 
 <!-- include an image of the NABU joystick -->
 
-To my surprise, the back of the keyboard includes the two DB-9 connectors found on Atari and Commodore computers. My [Hyperkin Trooper](https://amzn.to/3l1CHXj) and [Competition Pro](https://ebay.us/omzmAF) joysticks work perfectly with the NABU. I've not tried the [Hyperkin Ranger Paddle Controller](https://amzn.to/3orPuEv), but nothing leads me to believe it won't work except for paddle support in the software.
+To my surprise, the back of the keyboard includes the two DB-9 connectors found on Atari and Commodore computers. My [Hyperkin Trooper](https://amzn.to/3l1CHXj) and [Competition Pro](https://ebay.us/omzmAF) joysticks work perfectly with the NABU. I've not tried the [Hyperkin Ranger Paddle Controller](https://amzn.to/3orPuEv), but nothing leads me to believe it won't work except for paddle support in the software which I might find in the NABU network.
 
 ## 4. The NABU Network is LIVE (KINDA)
 The NABU network is critical to the operation of the NABU personal computer. Last year, when boxes of NABUs first appeared, the only reason anyone would want one was for their historic value. Unbox it, turn it on, and the only thing the NABU could do is display a logo followed by an *adapter failure* message. I passed on the first round of boxes since there was only a hope that "one-day" the community might reactivate the network and in record time, that happened! 
@@ -111,7 +112,7 @@ Check out drive `B:` and `User 1` for an assortment of MSX games ported to the N
 CP/M was available for Commodore computers in the mid-1980s, and the Commodore 128 had its own version; however, the NABU version is more convenient and, based on what I've heard, more full featured. But pulling software from a server is not the only way to run applications on the NABU.
 
 ## 7. Remote and Local Software
-Thanks to software by GWSS and DJ Sures, we can download titles from the network via the Internet from different "channels." But that’s not the only way. You can download `.nabu` files to run locally using software such as the Internet Adapter Software from <https://www.NABUnetwork.com>.
+Thanks to software by GWSS and DJ Sures, we can download titles from the network via the Internet from different "channels." But that’s not the only way. You can download `.nabu` files to run locally using software such as the Internet Adapter Software from [NABUNetworks](https://www.nabunetwork.com/resources/software-downloads/). This will suffice until development continues on new hardware that will emulate local storage for old and new software.
 
 ## 8. Software and Hardware Developers
 Not content with the NABU's original capabilities, software and hardware developers are creating new projects to extend functionality using modern programming techniques and hardware components. Like other popular retro-computing platforms, the NABU eco-system is alive and well with several software and hardware projects.
@@ -131,18 +132,17 @@ We will continue to see [new software](https://youtu.be/ONclrBNkLmg) for the NAB
 ### Hardware
 Here's a short list of interesting hardware projects in development:
 
-1. [F18A](https://forums.atariage.com/topic/280138-f18a-mk2/) - Originally designed for the TI-994/A, this board … 
-<!-- ADD Board Description -->
+1. [F18A](https://forums.atariage.com/topic/280138-f18a-mk2/) - Originally designed for the TI-994/A, this board replaces the TMS9918A video controller to add a hole host of features such as a digital video out, new screen resolutions, and an increased color palette.
 2. [nabu.cpm](https://github.com/randomvariations/nabu.cpm) - This project combines software and hardware to run CP/M locally from an SD card.
 3. [SD Card Expansion Board](https://github.com/TheCodeman/Nabu_PC) - Boot your NABU into BASIC using an SD card.
-4. ESP board
+4. [USB to Serial Adapter](https://www.pcbway.com/project/shareproject/NABU_native_USB_to_serial_adapter_4c1e523b.html) - Forget RS422 and install this board to provide a direct USB connection.
 
-Like software, there’s sure to be more hardware projects in development.
+I'm keeping my fingers crossed that we will soon have an inexpensive ESP32 board to connect our NABU's to the network via Wi-Fi. In the meantime, if you don't have a NABU, you do have options.
 
 ## 9. NABU Emulator
 It surprised me to learn that NABU emulation was available through the use of MAME software. Yes, that MAME, the Multiple Arcade Machine Emulator we use to play our favorite retro console titles. And NABU setup is similar. Install the MAME software, feed it a NABU ROM, boot, and away we go!
 
-Download a complete [NABU emulator package for Windows](https://gtamp.com/nabu/nabu-mame.zip) and then [read the instructions,](https://gtamp.com/nabu/readme.txt). I'm sure Mac and Linux versions are coming soon.
+Download a complete [NABU emulator package for Windows](https://gtamp.com/nabu/nabu-mame.zip) and then [read the instructions,](https://gtamp.com/nabu/readme.txt). I'm sure Mac and Linux versions are coming soon to provide a free way to experience the NABU; however, what about the cost for real hardware?
 
 ## 10. Low Cost to Entry
 Cost is the most surprising entry on my list. The retro hobby is expensive and when boxes of NABU units surfaced, I expected the owner would want to make a buck or two on his find. That's not the case. You can [purchase a NABU on eBay](https://ebay.us/PaU0QZ) for $60 plus shipping. You'll spend around $100 for the unit and then you'll need another few bucks to build a cable with the components below:

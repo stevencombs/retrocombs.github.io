@@ -47,11 +47,13 @@ I use affiliate links. Thanks for your support of the blog and the YouTube chann
 
 ## My Logo Journey
 
-To begin my story, we must first take a look at my original logo.
+To begin my story, we must first look at my original logo.
 
-![retroCombs original logo](https://retrocombs.com/images/design/retroCombs-logo-version1.svg)
+![retroCombs original logo](https://retrocombs.com/images/design/magnet.png)
 
-SpreadShop told me the Atari Joystick is still the intellectual property of Atari.
+I was pretty proud of my original logo. It was an Atari inspired joystick with Commodore Plus/4 style colors. Why the Plus/4? Because my Plus/4 series launched retroCombs. During the 2020 pandemic, I decide to dig into the Plus/4 that was sitting in a box and generated a whole [Commodore Plus/4 User's Guide series](https://www.retrocombs.com/plus4). Chapter-by-chapter, I mowed through the user's manual and posted my video guides online. While not my most popular content, the series does have a following and many have reached out to tell me how much they enjoyed and appreciated learning about the TED series of computers.
+
+I used the logo for several years but had to change it when [Spreadshop](https://www.spreadshop.com) told me the Atari Joystick is still the intellectual property of Atari.
 
 Here's the January 30th, 2023 email from Spreadshop:
 
