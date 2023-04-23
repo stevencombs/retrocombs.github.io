@@ -6,10 +6,6 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
 permalink: xanadu-bas-demo
-tags:
-	- mega65
-	- demoscene
-	- basic
 category: mega65
 ---
 
