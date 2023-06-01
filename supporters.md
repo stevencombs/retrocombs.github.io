@@ -4,9 +4,9 @@ title: retroCombs Supporters (THE BEST IN THE WORLD!)
 permalink: /supporters
 ---
 
-I have "the best supporters in the world" contributing to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs). It's a small, but mighty group!
+"The best supporters in the world" contribute to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs). It's a small, but mighty group!
 
-retroCombs memberships are now available and each level to meet all budgets and they are based on our favorite Commodore computers. Check them out at <https://www.buymeacoffee.com/retrocombs/membership>. Below is a sample of the first level; PET!
+retroCombs memberships are available at levels to meet all budgets and have fun Commodore inspired names. Check them out at <https://www.buymeacoffee.com/retrocombs/membership>. Below is a sample of the first level; PET!
 
 ![PET Level Membership](https://cdn.buymeacoffee.com/uploads/membership_level/2021/12/AVxnyaAqngdbAZ4HqgSFfHmEtbC3tpeiPDB5cfj5.png@800w_0e.webp)
 
@@ -33,6 +33,7 @@ Table of Contents
 
 - Keven
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
+- - [retroKat](https://twitter.com/klcombs95)
 - The Lovely Accountant
 
 ## Members (PET, VIC-20, C64, and Plus/4 Level Members)
@@ -45,6 +46,7 @@ Table of Contents
 - Neil Curtis (VIC-20)
 - Cam Urquhart (Plus/4)
 - Mark Dell (Plus/4)
+- [krzychos75, aka Chris](https://twitter.com/ontrucktoit) (Plus/4)
 
 If you would like your name linked to your site, business, or social media presence, let me know!
 
@@ -58,8 +60,6 @@ Below are the ways you can support and/or become a member.
 4. Click the **SUPER CHAT** option during a livestream.
 5. Send me a [PayPal donation](paypal.me/stevencombs).
 6. Send me a piece of retro or retro-related tech. [Send me an email](mailto:retrocombs@icloud.com) to discuss where to send.
-
-!a "Kindle Scribe"
 
 Depending on your level of support, your name may appear on this page!
 
