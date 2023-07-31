@@ -4,7 +4,7 @@ title: retroCombs Supporters (THE BEST IN THE WORLD!)
 permalink: /supporters
 ---
 
-"The best supporters in the world" contribute to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs). It's a small, but mighty group!
+"The best supporters in the world" contribute to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs?sub_confirmation_1). It's a small, but mighty group!
 
 retroCombs memberships are available at levels to meet all budgets and have fun Commodore inspired names. Check them out at <https://www.buymeacoffee.com/retrocombs/membership>. Below is a sample of the first level; PET!
 
@@ -44,6 +44,7 @@ Table of Contents
 - Hauiproductions (VIC-20)
 - Michael Whipp (VIC-20)
 - Neil Curtis (VIC-20)
+- Paul Kuhnast (C64 via YouTube membership)
 - Cam Urquhart (Plus/4)
 - Mark Dell (Plus/4)
 - [krzychos75, aka Chris](https://twitter.com/ontrucktoit) (Plus/4)
