@@ -33,7 +33,7 @@ Table of Contents
 
 - Keven
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
-- - [retroKat](https://twitter.com/klcombs95)
+- [retroKat](https://twitter.com/klcombs95)
 - The Lovely Accountant
 
 ## Members (PET, VIC-20, C64, and Plus/4 Level Members)
