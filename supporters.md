@@ -26,13 +26,13 @@ Table of Contents
 
 - Boba Fett
 - Gürçe
+- [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
 - [Mindrail](https://twitter.com/mindrail)
 - [Mislav Krleža](https://twitter.com/KrlezaMislav)
 
 ## Producers (C128-Level Members)
 
 - Keven
-- [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
 - [retroKat](https://twitter.com/klcombs95)
 - The Lovely Accountant
 
