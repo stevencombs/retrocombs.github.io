@@ -1,7 +1,7 @@
 ---
 
 layout: pages
-title: ‘MEGA65 Resource Page (v2.3)’
+title: 'MEGA65 Resource Page (v2.3)'
 permalink: /mega65
 
 ---
