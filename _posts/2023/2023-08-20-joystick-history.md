@@ -7,10 +7,6 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: 1311-joysticks
 category: commodore
-tags:
-  - commodore
-  - joysticks
-  - peripherals
 ---
 
 Welcome to a tale woven with the threads of rivalry – a competition that unfolds in the early 1980s, vying for the allegiance of 8-bit gaming enthusiasts. But this contest doesn't involve video consoles or computers – it's a tale of a joystick that ignited a legal action by one of the manufacturer's fiercest competitors. Our journey commences with none other than the $10 (in 1982 money) Commodore VIC-20 (1311) Joystick.
