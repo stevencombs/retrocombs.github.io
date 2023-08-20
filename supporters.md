@@ -42,6 +42,7 @@ Table of Contents
 - [8-Bit Show and Tell](https://www.8bitshowandtell.com/) (VIC-20)
 - Greg from GR (VIC-20)
 - Hauiproductions (VIC-20)
+- Ivan Richardson II (VIC-20)
 - Michael Whipp (VIC-20)
 - Neil Curtis (VIC-20)
 - Paul Kuhnast (C64 via YouTube membership)
@@ -55,12 +56,11 @@ If you would like your name linked to your site, business, or social media prese
 
 Below are the ways you can support and/or become a member.
 
-1. Become a member at [Buy me a coffee](https://www.buymeacoffee.com/retrocombs).
-2. Buy me a coffee at [Buy me a coffee](https://www.buymeacoffee.com/retrocombs).
-3. Click the **♡THANKS** button underneath one of my videos.
-4. Click the **SUPER CHAT** option during a livestream.
-5. Send me a [PayPal donation](paypal.me/stevencombs).
-6. Send me a piece of retro or retro-related tech. [Send me an email](mailto:retrocombs@icloud.com) to discuss where to send.
+1. Buy me a coffee at [Buy me a coffee](https://www.buymeacoffee.com/retrocombs).
+2. Click the **♡THANKS** button underneath one of my videos.
+3. Click the **SUPER CHAT** option during a livestream.
+4. Send me a [PayPal donation](paypal.me/stevencombs).
+5. Send me a piece of retro or retro-related tech. [Send me an email](mailto:retrocombs@icloud.com) to discuss where to send.
 
 Depending on your level of support, your name may appear on this page!
 
