@@ -2,8 +2,8 @@
 layout: post
 title: 'The Controversy Surrounding Commodore's First Joystick, The Commodore VIC 1311'
 date: 2023-08-20
-author: Steven B. Combs, Ph.D. 
-email: retrocombs@icloud.com
+author: 'Steven B. Combs, Ph.D.' 
+email: 'retrocombs@icloud.com'
 comments: yes
 permalink: 1311-joysticks
 category: commodore
