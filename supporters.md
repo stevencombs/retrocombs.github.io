@@ -43,7 +43,7 @@ Table of Contents
 - Greg from GR (VIC-20)
 - Hauiproductions (VIC-20)
 - Ivan Richardson II (VIC-20)
-- Mark Krueg (VIC-20)
+- [Mark Krueg](https://social.treehouse.systems/@markkrueg) (VIC-20)
 - Michael Whipp (VIC-20)
 - Neil Curtis (VIC-20)
 - Paul Kuhnast (C64 via YouTube membership)
