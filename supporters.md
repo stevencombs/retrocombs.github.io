@@ -50,6 +50,7 @@ Table of Contents
 - Cam Urquhart (Plus/4)
 - Mark Dell (Plus/4)
 - [krzychos75, aka Chris](https://twitter.com/ontrucktoit) (Plus/4)
+- [Heinz Stampfli](https://twitter.com/@HeinzStampfli)
 
 If you would like your name linked to your site, business, or social media presence, let me know!
 
