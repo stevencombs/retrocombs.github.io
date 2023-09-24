@@ -46,6 +46,7 @@ Table of Contents
 - [Mark Krueg](https://social.treehouse.systems/@markkrueg) (VIC-20)
 - Michael Whipp (VIC-20)
 - Neil Curtis (VIC-20)
+- MrLandPhil (VIC-20)
 - Paul Kuhnast (C64 via YouTube membership)
 - Cam Urquhart (Plus/4)
 - Mark Dell (Plus/4)
