@@ -44,6 +44,7 @@ Table of Contents
 - Hauiproductions (VIC-20)
 - Ivan Richardson II (VIC-20)
 - [Mark Krueg](https://social.treehouse.systems/@markkrueg) (VIC-20)
+- retroBard
 - Michael Whipp (VIC-20)
 - Neil Curtis (VIC-20)
 - MrLandPhil (VIC-20)
