@@ -49,6 +49,7 @@ Table of Contents
 - Neil Curtis (VIC-20)
 - MrLandPhil (VIC-20)
 - Paul Kuhnast (C64 via YouTube membership)
+- [Martin Suer](https://www.youtube.com/@mindance1969)
 - Cam Urquhart (Plus/4)
 - Mark Dell (Plus/4)
 - [krzychos75, aka Chris](https://twitter.com/ontrucktoit) (Plus/4)
