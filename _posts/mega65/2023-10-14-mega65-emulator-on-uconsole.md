@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Install the MEGA≡65 Emulator on the Clockwork uConsole'
+title: 'Install the MEGA≡65 Emulator on the Raspberry Pi Clockwork uConsole using Raspbian OS'
 date: 2023-10-14
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
@@ -42,7 +42,7 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 
 Title: _Create an Amazing Handheld MEGA65 with the Clockwork uConsole and XEMU_
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="[link](https://www.youtube.com/embed/Bm4YtKuqk9g?si=VJKbl_U25BfOeJkA)" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/Bm4YtKuqk9g?si=VJKbl_U25BfOeJkA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
 ## Video Errata
 
