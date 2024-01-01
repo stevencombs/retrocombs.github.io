@@ -5,7 +5,7 @@ date: '2022-01-28'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
-permalink: plus4-encylopedia
+permalink: plus4-encyclopedia
 category: plus4
 tags:
   - commodore
@@ -38,7 +38,7 @@ Before the blog post, I must add a HUGE thanks to [Robin](https://twitter.com/8B
   - [BASIC COMMANDS AND STATEMENTS](#basic-commands-and-statements)
   - [MORE ON GRAPHICS STATEMENTS](#more-on-graphics-statements)
   - [FUNCTIONS](#functions)
-  - [VARIABLES & OPERATORS](#variables--operators)
+  - [VARIABLES \& OPERATORS](#variables--operators)
   - [BASIC OPERATORS](#basic-operators)
 - [Section 2: BASIC 3.5 Abbreviations](#section-2-basic-35-abbreviations)
 - [Section 3: Conversion Programs](#section-3-conversion-programs)

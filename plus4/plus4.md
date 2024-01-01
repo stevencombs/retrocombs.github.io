@@ -90,6 +90,7 @@ In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/
 7. [Chapter 6 - Beginning BASIC Programming](/plus4/users-manual/p4um-chapter-6.pdf)
 8. [Chapter 7 - Using Graphics and Color](/plus4/users-manual/p4um-chapter-7.pdf)
 9. [Chapter 8 - Making Sound and Music on the Plus/4](/plus4/users-manual/p4um-chapter-8.pdf)
+10. [Commodore Plus/4 User's Manual Series, Encyclopedia](/plus4-encyclopedia)
 
 ## Plus/4 Resources
 
@@ -179,4 +180,7 @@ Below are links I've found to be most beneficial as I work through this series:
     * [Pi1541 Setup](/pi1541-1)
     * [Create a Blank .d64 Disk Image](/pi1541-2)
 
+10. [Commodore Plus/4 User's Manual Series, Encyclopedia](/plus4-encyclopedia)
+
+    Coming Soon.
 -->
