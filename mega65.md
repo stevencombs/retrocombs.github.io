@@ -1,7 +1,7 @@
 ---
 
 layout: pages
-title: 'MEGA65 Resource Page (v2.3)'
+title: 'MEGA65 Resource Page (v2.4)'
 permalink: /mega65
 
 ---
@@ -26,14 +26,10 @@ This page is a quick reference and start point for “all things MEGA≡65.” B
 
 ## Page Updates
 
-The latest update (2023-08-06) includes:
+The latest update (2024-03-03) includes:
 
-- Added table of contents
-- Fixed broken and updated various links
-- Corrected typos
-- Added new Cores section
-- Added new links to Gear section
-- Changed all occurrences of MEGA65 to MEGA≡65 (because I like it like that!)
+- Links to all all books in the MEGA≡65 library
+- Link to the MEGA≡65 Wiki
 
 <div class="video-container">
 <video width=500px id="video-bg" autoplay muted loop><source src="images/mega65/mega65-rotating.mp4" type="video/mp4">
@@ -85,7 +81,12 @@ Use the links below to view my MEGA≡65 BASIC programs:
 
 ## Technical Documents
 
-- [MEGA≡65 book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d) - The entire reference collection in a single PDF so you can read, search, and print.
+- [MEGA≡65 User's Guide](https://mega65.org/user-guide) - PDF version of the user's guide that comes with the MEGA≡65.
+- [The MEGA≡65 Developer's Guide:](https://mega65.org/developer-guide) - Information to help you write programs for the MEGA65.
+- [The MEGA≡65 BASIC 65 Reference:](https://mega65.org/basic65-ref) - BASIC 65 commands, functions, and operations documentation.
+- [The MEGA≡65 Chipset Reference:](https://mega65.org/chipset-ref) - Information about the MEGA65's custom chips.
+- [The MEGA≡65 Complete Compendium:](https://mega65.org/mega65-book) - All volumes in a single PDF.
+- [MEGA≡65 Wiki](https://mega65.org/wiki) - Confluence Wiki with article and more.
 - [MEGA≡65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA≡65 project. Highlights include the user’s guide, tools, and Xemu.
 - [What are “alternative” MEGA≡65 cores?](https://sy2002.github.io/m65cores/) - All the known cores that are available or in development.
 - [MEGA≡65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals.
