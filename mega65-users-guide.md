@@ -18,4 +18,3 @@ In this series, I'll cover the following topics from the user's guide:
 8. New BASIC 65 commands
 9. Screen Editor Keys
 10. PETSCII Characters, Screen Codes, and the System Palette
-

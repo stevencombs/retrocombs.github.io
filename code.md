@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Code
-permalink: /code
+permalink: code
 ---
 
 <img class="category" src="/images/design/code.svg" width="20%" />

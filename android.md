@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Android
-permalink: /android
+permalink: android
 ---
 
 <img class="category" src="/images/design/android.svg" width="20%" />

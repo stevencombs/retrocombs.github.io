@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: About Steven
-permalink: /about
+permalink: about
 ---
 
 <img class="category" src="/images/design/about.svg" width="20%" />

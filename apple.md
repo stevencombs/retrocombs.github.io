@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Apple
-permalink: /apple
+permalink: apple
 ---
 
 <img class="category" src="/images/design/apple.svg" width="20%" />

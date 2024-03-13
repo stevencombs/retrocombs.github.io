@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Blog Posts
-permalink: /blog
+permalink: blog
 ---
 
 <img class="category" src="/images/design/blog.svg" width="20%" />
