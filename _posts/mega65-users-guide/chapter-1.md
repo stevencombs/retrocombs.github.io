@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MEGA65 User's Guide - Chapter 1: Introduction'
+title: "MEGA65 User's Guide - Chapter 1: Introduction"
 date: '2023-03-12'
 author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-ug-1
