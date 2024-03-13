@@ -13,6 +13,7 @@ This page is a quick reference and start point for “all things MEGA≡65.” B
 **Table of Contents**
 
 - [Page Updates](#page-updates)
+- [My MEGA≡65 User's Guide Series](#my-mega65-users-guide-series)
 - [My Blog Posts](#my-blog-posts)
 - [My MEGA≡65 Videos](#my-mega65-videos)
 - [My MEGA≡65 BASIC Programs](#my-mega65-basic-programs)
@@ -36,6 +37,10 @@ The latest update (2024-03-03) includes:
 </video>
 </div>
 <sup>Video Courtesy [MEGA≡65](https://mega65.org)</sup>
+
+## My MEGA≡65 User's Guide Series
+
+Coming Soon!
 
 ## My Blog Posts
 
