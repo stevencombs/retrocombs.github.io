@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: 3D Models
-permalink: /models
+permalink: models
 ---
 
 <img class="category" src="/images/design/models.svg" width="20%" />

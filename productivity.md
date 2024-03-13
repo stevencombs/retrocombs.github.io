@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Productivity
-permalink: /productivity
+permalink: productivity
 ---
 
 <img class="category" src="/images/design/productivity.svg" width="20%" />

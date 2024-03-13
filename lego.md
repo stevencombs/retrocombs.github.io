@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: LEGO
-permalink: /lego
+permalink: lego
 ---
 
 <img class="category" src="/images/design/lego.svg" width="20%" />

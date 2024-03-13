@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: retroCombs Supporters (THE BEST IN THE WORLD!)
-permalink: /supporters
+permalink: supporters
 ---
 
 "The best supporters in the world" contribute to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs?sub_confirmation_1). It's a small, but mighty group!

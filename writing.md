@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Writing
-permalink: /writing
+permalink: writing
 ---
 
 <img class="category" src="/images/design/writing.svg" width="20%" />

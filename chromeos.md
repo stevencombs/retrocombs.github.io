@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Chrome OS
-permalink: /chromeos
+permalink: chromeos
 ---
 
 <img class="category" src="/images/design/chromeos.svg" width="20%" />

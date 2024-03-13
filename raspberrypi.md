@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Raspberry Pi Presentation
-permalink: /raspberrypi
+permalink: raspberrypi
 ---
 
 <img class="category" src="/images/design/embedded.svg" width="20%" />

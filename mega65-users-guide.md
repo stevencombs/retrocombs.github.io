@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: MEGA65 User Guide Series
-permalink: /mega65-users-guide
+permalink: mega65-users-guide
 ---
 
 <img class="category" src="/images/design/mega65.svg" width="20%" />

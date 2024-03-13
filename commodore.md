@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Commodore Business Machines (CBM)
-permalink: /commodore
+permalink: commodore
 ---
 
 <img class="category" src="/images/design/commodore.svg" width="20%" />

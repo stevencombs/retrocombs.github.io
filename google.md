@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Google
-permalink: /google
+permalink: google
 ---
 
 <img class="category" src="/images/design/google.svg" width="20%" />

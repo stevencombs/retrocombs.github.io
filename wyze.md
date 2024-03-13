@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Wyze Products
-permalink: /wyze
+permalink: wyze
 ---
 
 <img class="category" src="/images/design/wyze.svg" width="20%" />

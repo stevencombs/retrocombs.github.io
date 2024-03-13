@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Presentations
-permalink: /presentations
+permalink: presentations
 ---
 
 <img class="category" src="/images/design/presentations.svg" width="20%" />

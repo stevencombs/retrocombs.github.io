@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Entertainment
-permalink: /entertainment
+permalink: entertainment
 ---
 
 <img class="category" src="/images/design/entertainment.svg" width="20%" />

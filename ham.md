@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Amateur Radio (Ham)
-permalink: /ham
+permalink: ham
 ---
 
 <img class="category" src="/images/design/ham.svg" width="20%" />

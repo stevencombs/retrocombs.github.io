@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Search StevenCombs.com
-permalink: /search
+permalink: search
 ---
 
 Use the search form below to find content on this site.

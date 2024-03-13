@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Embedded Systems and Physical Computing
-permalink: /embedded
+permalink: embedded
 ---
 
 <img class="category" src="/images/design/embedded.svg" width="20%" />
