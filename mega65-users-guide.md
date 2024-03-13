@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: MEGA65 User Guide Series
+title: 'MEGA65 User’s Guide Series'
 permalink: mega65-users-guide
 ---
 

@@ -38,11 +38,11 @@ The latest update (2024-03-03) includes:
 
 ## MY MEGA≡65 USER'S GUIDE SERIES
 
-[My ongoing series](/mega65-users-guide.md) (as of 2024-03-12) where I work through the MEGA≡65 User's Guide chapter-by-chapter.
+Check out my ongoing series (as of 2024-03-12), [MEGA≡65 USER'S GUIDE SERIES](/mega65-users-guide.md), where I work through the MEGA≡65 User's Guide chapter-by-chapter.
 
 ## MY BLOG POSTS
 
-View my [MEGA≡65 blog posts](/mega65-blog).
+View all of my [MEGA≡65 blog posts](/mega65-blog).
 
 ## MY MEGA≡65 VIDEOS
 
