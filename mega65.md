@@ -1,9 +1,7 @@
 ---
-
 layout: pages
 title: 'MEGA65 Resource Page (v2.4)'
 permalink: /mega65
-
 ---
 
 <img class="category" src="/images/design/mega65.svg" width="20%" />
@@ -12,7 +10,6 @@ This page is a quick reference and start point for “all things MEGA≡65.” B
 
 **TABLE OF CONTENTS**
 
-[PAGE UPDATES](#page-updates)
 - [PAGE UPDATES](#page-updates)
 - [MY MEGA≡65 USER'S GUIDE SERIES](#my-mega65-users-guide-series)
 - [MY BLOG POSTS](#my-blog-posts)
@@ -41,7 +38,7 @@ The latest update (2024-03-03) includes:
 
 ## MY MEGA≡65 USER'S GUIDE SERIES
 
-Coming Soon!
+[My ongoing series](/mega65-users-guide.md) (as of 2024-03-12) where I work through the MEGA≡65 User's Guide chapter-by-chapter.
 
 ## MY BLOG POSTS
 
