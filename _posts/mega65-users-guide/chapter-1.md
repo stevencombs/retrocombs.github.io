@@ -1,37 +1,48 @@
 ---
+
 layout: post
-title: "MEGA65 User's Guide - Chapter 1: Introduction"
-date: '2023-03-12'
+title: 'MEGA65 Users Guide - Chapter 1: Introduction'
+date: 2023-03-12
 author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-ug-1
-email: 'retrocombs@icloud.com'
-comments: 'yes'
+email: retrocombs@icloud.com
+comments: yes
 category: mega65
-tags:
-  - mega65
-  - manual
-  - guide
+
 ---
 
 Welcome to the first in a new video series: The MEGA65 User's Guide! I'm going to open up version 2 of the user's guide, and together, we're going to go through it chapter by chapter.
 
 When the series is complete, you will have a video compendium of all the information you need to begin using a MEGA65. Let's get started with Chapter 1 – Introduction!
 
-## Support the Blog and Channel
+**TABLE OF CONTENTS:**
+
+[Support the Blog and Channel](#support-the-blog-and-channel)
+[COMPANION YOUTUBE VIDEO](#companion-youtube-video)
+- [SUPPORT THE BLOG AND CHANNEL](#support-the-blog-and-channel)
+- [COMPANION YOUTUBE VIDEO](#companion-youtube-video)
+- [VIDEO ERRATA](#video-errata)
+- [LINKS MENTIONED IN THIS EPISODE](#links-mentioned-in-this-episode)
+- [ABOUT THE USER'S GUIDE](#about-the-users-guide)
+- [WELCOME TO THE MEGA65](#welcome-to-the-mega65)
+- [JOIN THE COMMUNITY](#join-the-community)
+- [CONCLUSION](#conclusion)
+
+## SUPPORT THE BLOG AND CHANNEL
 
 Check out the [supporters page](/supporters) to learn about my amazing supporters and how you can join our community.
 
-## Companion YouTube Video
+## COMPANION YOUTUBE VIDEO
 
 Title: _‌Managing MEGA65 Media \| Update 3.5" Floppy Files from a .D81_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/ATUwOYtJA2Q" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-## Video Errata
+## VIDEO ERRATA
 
 None as of 2022-08-19.
 
-## Links Mentioned in this Episode
+## LINKS MENTIONED IN THIS EPISODE
 
 ## ABOUT THE USER'S GUIDE
 The original manual was included with the first batch of MEGA65s delivered in 2022. Since then, the MEGA65 has continued to receive core and hardware updates. In 2024, in anticipation of the next MEGA65 batch release scheduled for the Summer, the MEGA65 team released version two of the manual, which I'll be using for this video series. Even if you don't own a MEGA65, there are three ways you can get your own manual:
