@@ -1,9 +1,7 @@
 ---
-
 layout: pages
-title: 'MEGA65 User's Guide Series'
+title: "MEGA65 User's Guide Series"
 permalink: /mega65-users-guide
-
 ---
 
 <img class="category" src="/images/design/mega65.svg" width="20%" />
