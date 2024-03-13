@@ -8,7 +8,7 @@ permalink: mega65-users-guide
 
 In this series, I'll cover the following topics from the user's guide:
 
-1. [Introduction to the User's Guide and the MEGA65](/_posts/mega65-users-guide/2024-03-12-mega65-ug-1.md)
+1. [Introduction to the User's Guide and the MEGA65](_posts/mega65/2024-03-12-mega65-ug-1.md)
 2. MEGA65 Setup
 3. Getting Started with the MEGA65
 4. Configuring the MEGA65
