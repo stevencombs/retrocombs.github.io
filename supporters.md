@@ -25,6 +25,7 @@ Table of Contents
 ## Executive Producers (MEGA65-Level Members)
 
 - Boba Fett
+- C.L.P.
 - Gürçe
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
 - [Mindrail](https://twitter.com/mindrail)
