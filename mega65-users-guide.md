@@ -9,8 +9,8 @@ permalink: mega65-users-guide
 In this series, I'll cover the following topics from the user's guide:
 
 1. [Introduction to the User's Guide and the MEGA65](_posts/mega65/2024-03-12-mega65-ug-1.md)
-2. MEGA65 Setup
-3. Getting Started with the MEGA65
+2. [MEGA65 Setup](_posts/mega65/2024-03-12-mega65-ug-2.md)
+3. [Getting Started with the MEGA65](_posts/mega65/2024-03-12-mega65-ug-3.md)
 4. Configuring the MEGA65
 5. Upgrading the MEGA65
 6. Using Disks and Disk Images
