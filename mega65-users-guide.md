@@ -6,6 +6,8 @@ permalink: mega65-users-guide
 
 <img class="category" src="/images/design/mega65.svg" width="20%" />
 
+![MEGA65 User's Guide Series](/images/mega65-ug/mega65-users-guide.jpg)
+
 In this series, I'll cover the following topics from the user's guide:
 
 1. [Introduction to the User's Guide and the MEGA65](https://retrocombs.com/mega65-ug-1)
