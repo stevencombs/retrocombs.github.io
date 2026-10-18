@@ -1,0 +1,9 @@
+{
+  "thumbnail": {"file": "thumbnail.jpg", "v": "c37b4eee19cd"},
+  "bugzap": {"file": "bugzap.png", "v": "b5ad292fae14"},
+  "support": {"file": "support.png", "v": "00e074201114"},
+  "gear": {"file": "gear.png", "v": "50b98dc96ce4"},
+  "news": {"file": "news.png", "v": "f10d1880a13c"},
+  "demo": {"file": "demo.png", "v": "68e8b024fdf3"},
+  "lower-third": {"file": "lower-third.png", "v": "913d9c260a8f"}
+}
