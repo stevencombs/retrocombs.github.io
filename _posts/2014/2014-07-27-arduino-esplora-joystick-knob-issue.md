@@ -16,7 +16,7 @@ As Arduino Forum member [roundhouselabs](http://forum.arduino.cc/index.php?actio
 
 ![Two knob types](https://lh4.googleusercontent.com/-gq4S5B0u8Ps/UQQ8dg8ZKgI/AAAAAAAAHIQ/cCsPAbdWYLo/s288/IMG_20130126_151311.jpg)
 
-There is no way the Arduino Esplora joystick post will fit into the small rectangular hole on the knob I received. So what's a guy to do? Take it back to the Shack? Nope. Time to break out the power hand drill. I began using small bits to ream out the square until I had a small circle leading up to a 5/32” bit. That seemed to be the perfect size diameter and once I placed the knob on the post, it was worked well, expect for one small issue. I drilled the hole too deep.
+There is no way the Arduino Esplora joystick post will fit into the small rectangular hole on the knob I received. So what's a guy to do? Take it back to the Shack? Nope. Time to break out the power hand drill. I began using small bits to ream out the square until I had a small circle leading up to a 5/32” bit. That seemed to be the perfect size diameter and once I placed the knob on the post, it worked well, except for one small issue. I drilled the hole too deep.
 
 I was unable to press the joystick down to activate the center button. So I grabbed some of the shavings and pushed them back in the hole with the drill bit. Finally, I heated the drill bit for a final tamping of the shavings and melted them. **Remedy this and place a marker on your drill bit at 1/8”**.
 

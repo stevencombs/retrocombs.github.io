@@ -24,7 +24,7 @@ I’ll be the first to admit, that I usually groan when I hear that someone is p
 
 **Much food consumed.** Lunch/Dinner/Breakfast/Lunch were provided along with copious amounts of coffee, soda and water. It’s those little things that keep you refreshed. Food breaks along the way allowed the discussions to veer “off topic” and often get to the real issues. Our dinner at a local establishment allowed our social bonds to strengthen. Of course, I had to tack on an extra mile or two to my run afterwards.
 
-**Technology allowed.** While we were sensitive not to overstep our bounds by reading our e-mail/tweets/texts/etc, technology was not outlawed. Everyone understood that our jobs often require a quick checkin and answer back to our home campuses. All of us had our technology (mine was a new Nexus 7 tablet, but that’s another blog post) on the table and there were often discussions where that technology came in handy to research trends, policy, curriculum and the like.
+**Technology allowed.** While we were sensitive not to overstep our bounds by reading our e-mail/tweets/texts/etc, technology was not outlawed. Everyone understood that our jobs often require a quick check-in and answer back to our home campuses. All of us had our technology (mine was a new Nexus 7 tablet, but that’s another blog post) on the table and there were often discussions where that technology came in handy to research trends, policy, curriculum and the like.
 
 **Peer group created.** Sure I could call upon several of the other more experienced college academic officers for advice; however, now I have a core group of peers who probably have a better handle on my current challenges and as we mature in the position together, will better understand these challenges going forward.
 

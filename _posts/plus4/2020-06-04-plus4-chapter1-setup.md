@@ -97,13 +97,13 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 ## Episode Errata
 
-THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
+THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning much. I will add video corrections or additions below.
 
 ## Random Thoughts
 
 You really can learn something when you read an instruction manual. I found that out while reading an out-of-place paragraph about the use of the _Reset_ button. When you hold the _RUN/STOP_ key and push the _Reset_ button (unique to the Plus/4), you enter the Machine Language Monitor (also unique to the Plus/4). The extra feature here is that doing so soft reboots the computer and keeps the current program in memory. Using the _Reset_ button by itself will completely reboot the computer. Keep this in mind if you run into an issue with a program and haven't saved it recently.
 
-I was surprised how quickly my muscle memory returned when typing on the Plus/4 keyboard. The layout is so different from modern computers, I thought the "relearning" curve would take longer. I guess all those years typing lines and lines of code from [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine)) burned those keystrokes into my old brain. After the video, I took a peek at some programs from the user's manual. I couldn't help myself; I took some time to type a few of them into the Plus/4 and "runned" them. So much fun. Even in 2020, there's a satisfaction to typing a program, bug fixing, and then executing the code. I've programmed in Python and Ruby on modern PCs, and I just don't get that same feeling of satisfaction. Maybe it's nostalgia, but I want to believe there is just something special about these 8-Bit computers and the basic programming language.
+I was surprised how quickly my muscle memory returned when typing on the Plus/4 keyboard. The layout is so different from modern computers, I thought the "relearning" curve would take longer. I guess all those years typing lines and lines of code from [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine)) burned those keystrokes into my old brain. After the video, I took a peek at some programs from the user's manual. I couldn't help myself; I took some time to type a few of them into the Plus/4 and "ran" them. So much fun. Even in 2020, there's a satisfaction to typing a program, bug fixing, and then executing the code. I've programmed in Python and Ruby on modern PCs, and I just don't get that same feeling of satisfaction. Maybe it's nostalgia, but I want to believe there is just something special about these 8-Bit computers and the basic programming language.
 
 I'm fond of the spiral-bound manual. I always wondered why every software manual wasn't bound this way and still prefer them to today's electronic manuals. I've read that the Plus/4 user's manual is not as comprehensive, of the same quality, or as fun, as the Commodore 64 manual. I really need to get a C64 manual to compare. I have a VIC-20 manual and there is a stark difference in print quality. I think I'll share that during the next video.
 
@@ -111,6 +111,6 @@ I mention in the video that I plan to look at modern components to replace items
 
 ## Join the Fun
 
-Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/fstxGJwj7jg).
+Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/fstxGJwj7jg).
 
 🕹️ retroCombs, OUT!

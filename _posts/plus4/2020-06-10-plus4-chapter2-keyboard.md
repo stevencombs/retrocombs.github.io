@@ -146,7 +146,7 @@ In this episode I describe and demonstrate each of the items below:
     * `⎋`, `X` = Cancel an Escape functions
 
 9. Special Keys: Per the manual, the keyboard contains special keys such as: `£`, `π`, `<`, `>`, `[`, `]`, `←`, and `↑`.
-10. Function Keys: Type the `KEY` command to display the fuctions of the keys as shown below:
+10. Function Keys: Type the `KEY` command to display the functions of the keys as shown below:
 
     ```
     KEY 1, "GRAPHIC" or built-in software

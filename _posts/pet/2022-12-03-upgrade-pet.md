@@ -9,7 +9,7 @@ permalink: cbm-pet-upgrades
 category: pet
 ---
 
-Followers know during Vintage Computer Festival Midwest 2022, I got a new to me Commodore PET. I will not rehash that memory, but if you want to relive it, check out my [My Vintage Computer Festival Midwest 2022 Experience and Commodore PET Purchase](https://retrocombs.com/vcfmw-2022) post. In this post, I want to explore the question, should I (or you) upgrade a stock Commodore PET? Purist may answer, "No way, retroCombs" while modern enthusiasts might disagree. I intent to find out if the cost and additions are a good ROI.
+Followers know during Vintage Computer Festival Midwest 2022, I got a new to me Commodore PET. I will not rehash that memory, but if you want to relive it, check out my [My Vintage Computer Festival Midwest 2022 Experience and Commodore PET Purchase](https://retrocombs.com/vcfmw-2022) post. In this post, I want to explore the question, should I (or you) upgrade a stock Commodore PET? Purists may answer, "No way, retroCombs" while modern enthusiasts might disagree. I intend to find out if the cost and additions are a good ROI.
 
 ![Commodore PET Motherboard](/images/pet/pet-motherboard.jpg)
 
@@ -217,7 +217,7 @@ Stupid PET Tricks lets your PET "[do stupid (fun) tricks](https://www.bit-zeal.c
 - Dual joysticks (typical fire button hack where it equals up and down)
 - 3.5mm sound port
 - Wi-Fi optional module (up to 2400 bps)
-- *PET Term* Software module programed with Zimodem code)
+- *PET Term* Software module programmed with Zimodem code)
 - Powertap adapter to draw power for the Wi-Fi modem from the Datasette port
 
 That's a whole lot of tricks in this single device.

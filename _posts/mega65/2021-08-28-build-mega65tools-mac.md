@@ -75,7 +75,7 @@ My instructions assume you have a free GitHub account. If not, follow the steps 
 
 ### Install Homebrew
 
-Mac OS X includes the *Terminal* application and a **nix* (short for Linix/Unix variant OSs) [BSD-based back-end](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/BSD/BSD.html); however, there are several standard **nix* tools missing. You can install these tools manually, but a better method uses [Homebrew](https://brew.sh/) to install and manage these packages. Luckily, Homebrew installation is a single command line as shown in the steps below:
+Mac OS X includes the *Terminal* application and a **nix* (short for Linux/Unix variant OSs) [BSD-based back-end](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/BSD/BSD.html); however, there are several standard **nix* tools missing. You can install these tools manually, but a better method uses [Homebrew](https://brew.sh/) to install and manage these packages. Luckily, Homebrew installation is a single command line as shown in the steps below:
 
 1. Load the *Terminal* app or preferably [iTerm](https://iterm2.com/index.html) which I've customized with my own cool C64 inspired theme as shown in the image below.
 

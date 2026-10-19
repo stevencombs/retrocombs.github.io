@@ -72,7 +72,7 @@ My final thoughts are always a numbered list. Here's the list for this device:
 6. How many cleaning cloths can one person have? Well, that and USB cables.
 7. Not sure I understand the SIM card shells. When would I use them?
 8. I'm looking forward to the first opportunity to use the suction cups and break open a mobile device.
-8. Overall, I like this set and the variety to tips included. I've already had occassion to use the set and for the price, its hard to beat.
+8. Overall, I like this set and the variety of tips included. I've already had occasion to use the set and for the price, it's hard to beat.
 
 That concludes my final thoughts for this toolset. I do update and timestamp posts when modifications and additions are made, so check back later and make sure you add this site to your RSS feeds.
 

@@ -48,7 +48,7 @@ As I mention at the start of the video, I love DC Comics. I've always been a DC,
 * Atom - a man who's smaller, but stronger, than everyone else
 * Hawkman - a reincarnated winged warrior
 * Hourman - a man who takes a drug (not a great role model for today's youth) to achieve his superhuman strength for, you guessed it, one hour
-* Red Tornado (aka, Ma Hunkel) - one of the strangest characters ever and you musthave to Google that one for some fun (**Spoiler Alert:** she wears a cooking pot on her head in her fight against crime)
+* Red Tornado (aka, Ma Hunkel) - one of the strangest characters ever and you must have to Google that one for some fun (**Spoiler Alert:** she wears a cooking pot on her head in her fight against crime)
 
 In hindsight, I wish I'd spent more time planning the video. I always think of things afterward to include; however, after only a few hours of editing, it was a fun, and very geeky, weekend project for the two of me and Nikki to enjoy and I was glad I could cajole Nikki into an audio only appearance. It's always so much more lively when she joins the fun. Her laugh is infectious and I should have included more of it into the video.
 

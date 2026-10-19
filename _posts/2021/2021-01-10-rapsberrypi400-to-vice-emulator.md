@@ -106,9 +106,9 @@ While the default Commodore machine is the C64, VICE version 3.4 includes the fo
 - `xcbm5x0`, the CBM-II emulator (VIC-II models)
 - `xscpu64`, the SCPU64 emulator
 
-Within each of those emulators are more settings and models of each machine including, displays, memory expansions, kernals, VICs, drives, etc. The number of options can overwhelm; however, these options lead to some pretty sophisticated emulated hardware configurations that were beyond the pocketbooks of most users in the 1980s. With VICE you have access on your personal computer (Mac, Linux, and Windows) to about any Commodore computer operating system ever made. Since VICE is available on Linux, it's perfectly matched for the Raspberry Pi and especially the Raspberry Pi 400 with it's built-in keyboard.
+Within each of those emulators are more settings and models of each machine including, displays, memory expansions, kernals, VICs, drives, etc. The number of options can overwhelm; however, these options lead to some pretty sophisticated emulated hardware configurations that were beyond the pocketbooks of most users in the 1980s. With VICE you have access on your personal computer (Mac, Linux, and Windows) to about any Commodore computer operating system ever made. Since VICE is available on Linux, it's perfectly matched for the Raspberry Pi and especially the Raspberry Pi 400 with its built-in keyboard.
 
-~~Before you download Combian V3.0, you need to support the project.~~ {UPDATE: 2021-01-11} Support for all versions no longer require "project support," but I still recommend you "[tip](https://www.paypal.com/paypalme/combian64)" Carmelo (see [Final Thoughts](#final-thoughts) number 2). Versions prior to 3.0 are free to download but won't work with the Raspberry Pi 4 or 400. No specific amount is required; however, I recommend you tip Carmelo at least $10 to $20 to keep this amazing project alive.
+~~Before you download Combian V3.0, you need to support the project.~~ {UPDATE: 2021-01-11} Support for all versions no longer requires "project support," but I still recommend you "[tip](https://www.paypal.com/paypalme/combian64)" Carmelo (see [Final Thoughts](#final-thoughts) number 2). Versions prior to 3.0 are free to download but won't work with the Raspberry Pi 4 or 400. No specific amount is required; however, I recommend you tip Carmelo at least $10 to $20 to keep this amazing project alive.
 
 ## Extract Combian 64
 
@@ -214,7 +214,7 @@ Cutting out the logo and serial number plate was the final step before applicati
 
 I'm thrilled with the results, as shown in the images below:
 
-![The Combain pi/400 logo on the Raspberry Pi 400](/combianpi400/logo.jpg)
+![The Combian pi/400 logo on the Raspberry Pi 400](/combianpi400/logo.jpg)
 
 ![The serial number plate  on the Raspberry Pi 400](/combianpi400/serial-plate.jpg)
 

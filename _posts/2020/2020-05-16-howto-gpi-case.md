@@ -323,7 +323,7 @@ Follow these steps:
 
 1. Move the power switch from the far right position to the middle position and you will hear a slight click that will activate the shutdown script.
 
-    ![GPi Case Power Buttom](/images/posts/2020-05-16-howto-gpi-case/power-switch.jpg)
+    ![GPi Case Power Button](/images/posts/2020-05-16-howto-gpi-case/power-switch.jpg)
 
 2. EmulationStation will close and exit to a terminal screen where you view the script shutdown commands.
 3. When the shutdown commands are complete, the screen will fade to either black or a strip of horizontal colors. When it does, move the switch all the way to the left to cut power to the device.

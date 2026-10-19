@@ -270,7 +270,7 @@ As I was building, I noticed an interesting variety of building elements:
 3. I was a fan of these 1 x 3 elements that provide a flat surface on the bottoms of plates and bricks. LEGO may have these, but I don't remember them. I know watchers will correct me and drop comments below. I look forward to those comments.
 4. COBI includes what appears to be many custom parts for this, and possibly other track vehicles. For example, the two roller axles. Two kinds: one with a longer axle to accommodate a wheel and roller and another with a shorter axle to accommodate a wheel.
 5. Let's talk action figures, or in LEGO parlance, minifigs. COBI minifigs are "more" anatomically correct, if there can be such a thing in a building block action figure.
-6. This set includes and American officer and solider. I will say, I love the armored cavalry hat and sunglasses on the officer and the helmet and vest on the soldier. The included M16 rifle is an element you will never find in a LEGO set (but Star Wars blasters are okay, I guess) and the set appropriately includes binoculars.
+6. This set includes an American officer and soldier. I will say, I love the armored cavalry hat and sunglasses on the officer and the helmet and vest on the soldier. The included M16 rifle is an element you will never find in a LEGO set (but Star Wars blasters are okay, I guess) and the set appropriately includes binoculars.
 
 ### Quality
 

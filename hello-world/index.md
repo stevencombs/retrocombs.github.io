@@ -27,7 +27,7 @@ As I began to write the program in various languages, there are assumptions made
 * functions are a necessary programming skill
 * functions allow reuse of code chunks
 * there are many ways, in a single language, to solve this code project
-* my code will follow, as closely as a language allows, my psuedo code
+* my code will follow, as closely as a language allows, my pseudo code
 * my code will focus on the Mac OS where necessary
 
 ## Description
@@ -85,7 +85,7 @@ A [flow chart](https://en.wikipedia.org/wiki/Special:Search?search=flow+chart) i
 
 # Languages
 
-There are numerous programming languages available. To reiterate, the purpose of this page is to demonstrate the use of code to do something beneficial; prompt you to take a break during the day. You will not want to learn each languague, but this quick guide might assist you in determining which languge you want to learn.
+There are numerous programming languages available. To reiterate, the purpose of this page is to demonstrate the use of code to do something beneficial; prompt you to take a break during the day. You will not want to learn each language, but this quick guide might assist you in determining which language you want to learn.
 
 Use the table below to quickly jump to a language example:
 

@@ -9,15 +9,15 @@ permalink: tao-1tiny
 category: gadgets
 ---
 
-During the COVID pandemic of 2020, online meetings took over my life and, in a search to find a good meeting presence, I accumulated an insane number of USB webcams. Cameras quickly became scare, and I tried everything from available $25 fixed focus cameras an eventual and brilliant $130 4K [Logitech Brio](https://amzn.to/3dLvfP1).
+During the COVID pandemic of 2020, online meetings took over my life and, in a search to find a good meeting presence, I accumulated an insane number of USB webcams. Cameras quickly became scarce, and I tried everything from available $25 fixed focus cameras to an eventual and brilliant $130 4K [Logitech Brio](https://amzn.to/3dLvfP1).
 
-After a day of virtual meetings, I spent the evenings building my [YouTube channel](https://www.youtube.com/stevencombs) using these same webcams with OBS Studio on my Mac. I'd use the Brio for the headshot and one of the cheaper models for a workbench view. It worked and got me started, but I quickly saw the need for a dedicated audio/visual/streaming platform and better cameras. This lead me to the [ATEM Mini](https://amzn.to/3QzB7JA) followed by the [ATEM Mini Extreme Iso](https://amzn.to/3dJ3OVU). 
+After a day of virtual meetings, I spent the evenings building my [YouTube channel](https://www.youtube.com/stevencombs) using these same webcams with OBS Studio on my Mac. I'd use the Brio for the headshot and one of the cheaper models for a workbench view. It worked and got me started, but I quickly saw the need for a dedicated audio/visual/streaming platform and better cameras. This led me to the [ATEM Mini](https://amzn.to/3QzB7JA) followed by the [ATEM Mini Extreme Iso](https://amzn.to/3dJ3OVU). 
 
 The ATEM Mini line, unlike my [YoloBox Pro](https://amzn.to/3dDife1), does not support USB cameras. To connect cameras to the ATEM Mini, the camera must have a clean HDMI out connection. This requires pricey DSLR or mirror-less cameras. I chose the mirror-less [Sony ZV-1](https://amzn.to/3PE1VXG) for my setup but there were many to choose from including other popular streaming cameras like the [Lumix G7](https://amzn.to/3Ay2Jcy).
 
-> **NOTE:** I tried a [Canon EOS M50](https://amzn.to/3e3HmqQ) which is a great camera, a disaster with the ATEM Mini. It took hacks to keep the thing recording and autofocus has to be turned off to use clean HDMI out. The Sony ZV-1 eliminates all these issues.
+> **NOTE:** I tried a [Canon EOS M50](https://amzn.to/3e3HmqQ) which is a great camera but a disaster with the ATEM Mini. It took hacks to keep the thing recording and autofocus has to be turned off to use clean HDMI out. The Sony ZV-1 eliminates all these issues.
 
-Starting cost for these cameras is around $600 and if you want two or more cameras in your studio, it's a pricey proposition. My solution won't be better than the cameras I mention, but if you if you have a high-quality webcam, this option may work and save money.
+Starting cost for these cameras is around $600 and if you want two or more cameras in your studio, it's a pricey proposition. My solution won't be better than the cameras I mention, but if you have a high-quality webcam, this option may work and save money.
 
 In this blog post and companion video, I'm going to introduce you to a product that connects a webcam to the ATEM mini, the $170 [RGBLink TAO 1tiny](https://amzn.to/3wibNji). Let's see how it works.
 
@@ -79,7 +79,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 Before I try the 1tiny, let's see what comes in the small basic white box:
 
-1. The 1tiny UVC to HDMI convertor
+1. The 1tiny UVC to HDMI converter
 2. An instruction manual
 3. A USB-C to USB-C cable
 4. A USB-A to USB-C adapter

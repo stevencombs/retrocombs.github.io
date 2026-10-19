@@ -94,7 +94,7 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter. Use the link below to view the Encyclopedia:
 
-[Plus/4 Encylopedia](https://www.manualslib.com/manual/1030491/Commodore-Plus-4.html?page=122#manual)
+[Plus/4 Encyclopedia](https://www.manualslib.com/manual/1030491/Commodore-Plus-4.html?page=122#manual)
 
 For previous chapters, view the [Commodore Plus/4 Resource Page](/plus4)
 
@@ -247,7 +247,7 @@ The encyclopedia uses three function classifications: numeric, string, and other
 
 `DEC("FFFF")`: Returns the decimal value of a hexadecimal string. Here, the value is `65535`.
 
-`INSTR("RETROCOMBS","OCO")`: Returns the position in the first string of the text in the second sting. Here, the value is `5`.
+`INSTR("RETROCOMBS","OCO")`: Returns the position in the first string of the text in the second string. Here, the value is `5`.
 
 `JOY(N)`: Returns the position of either joystick 1 or 2 where `N` is the joystick number. Below is a sample program and additional information.
 

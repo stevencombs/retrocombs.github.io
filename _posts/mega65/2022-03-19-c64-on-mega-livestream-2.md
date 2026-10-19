@@ -146,7 +146,7 @@ LOAD Command: `LOAD "STAR RIDERS /I&M"`
 
 LOAD Command: `LOAD "ELECTRIC CAFE␣␣␣"`
 
-**That's the Way it is** - As with many demos, [[CSDb] - That's the Way It Is by Scoop (1988)](https://csdb.dk/release/?id=172968) begins with hellos and creditss followed by massive vertical scrolling text! While the intro itself is impressive, press the spacebar to begin the demo to be treated to a 1980s "space-babe" in a swimsuit, ON THE MOON?!? How is she breathing?
+**That's the Way it is** - As with many demos, [[CSDb] - That's the Way It Is by Scoop (1988)](https://csdb.dk/release/?id=172968) begins with hellos and credits followed by massive vertical scrolling text! While the intro itself is impressive, press the spacebar to begin the demo to be treated to a 1980s "space-babe" in a swimsuit, ON THE MOON?!? How is she breathing?
 
 LOAD Command: `LOAD "THAT'S../SCOOP␣␣"`
 

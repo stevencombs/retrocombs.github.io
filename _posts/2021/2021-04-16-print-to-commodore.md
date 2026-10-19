@@ -130,7 +130,7 @@ With a working program saved to a Commodore disk image, you are ready to transfe
 
 ### Transfer and Execute the program on physical hardware
 
-The imagee transfer process depends on the device you choose to mount your disk image. I won't share each in detail but here's a quick summary for transfer using a [Pi1541](/pi1541-1) on original Commodore hardware and using a THEC64/VIC20.
+The image transfer process depends on the device you choose to mount your disk image. I won't share each in detail but here's a quick summary for transfer using a [Pi1541](/pi1541-1) on original Commodore hardware and using a THEC64/VIC20.
 
 #### Commodore Hardware and Pi1541
 

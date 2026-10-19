@@ -11,7 +11,7 @@ category: mega65
 
 A couple of MEGA65 programmers, Gürçe and Deathy, reached out to ask for assistance. The two collaborated with the BAS demo group to participate in Syntax 2022 a "Demoparty" held in Melbourne Australia on November 11 and 12th. You can read more about this and past year's events at the [Syntax DemoParty](https://syntaxparty.org/) web site.
 
-What was the BAS demo groups's goal for Syntax 2022? To create the most kicking MEGA65 demo using both assembly language and BASIC while honoring the legacy of one of Australia beloved treasures, and I'm not talking haggis. But I'm not going to spoil the surprise. The demo disk includes both an assembly language demo and a BASIC demo. After the demo, I'll share my reactions and additional information sent to me by Gürçe and Deathy.
+What was the BAS demo group's goal for Syntax 2022? To create the most kicking MEGA65 demo using both assembly language and BASIC while honoring the legacy of one of Australia's beloved treasures, and I'm not talking haggis. But I'm not going to spoil the surprise. The demo disk includes both an assembly language demo and a BASIC demo. After the demo, I'll share my reactions and additional information sent to me by Gürçe and Deathy.
 
 By the way, I captured this demo from hardware, a MEGA65, and not in emulation; however, if you want to run these demos in emulation, you can download and install [XEMU](https://github.lgb.hu/xemu/) on your Windows, [Mac](https://retrocombs.com/xemu-on-mac), Linux, or even [Chrome OS](https://retrocombs.com/mega65-on-chromeos) device. NOW, on to the demo.
 

@@ -59,9 +59,9 @@ But enough about Markdown, you can read thousands of blog posts on this topic. L
 
 ##  Choosing a Markdown text editor
 
-A Google or App Store search for a Markdown capable text editor results in an overwhelming number of options. I needed some guidance, so I turned to the the wonderful [iTextEditors chart][6] by Brett Terpstra. Brett's guide compares the features of every text editor found in the iOS App Store and even provides screen shots. It is an amazing resource and if you are looking for any kind of text editor, Markdown capable or not, I highly recommend you take a look at this resource.
+A Google or App Store search for a Markdown capable text editor results in an overwhelming number of options. I needed some guidance, so I turned to the wonderful [iTextEditors chart][6] by Brett Terpstra. Brett's guide compares the features of every text editor found in the iOS App Store and even provides screen shots. It is an amazing resource and if you are looking for any kind of text editor, Markdown capable or not, I highly recommend you take a look at this resource.
 
-After a review Brett's page and a look at the App Store reviews, I decided to give the following editors a try:
+After a review of Brett's page and a look at the App Store reviews, I decided to give the following editors a try:
 
 * [Byword](https://itunes.apple.com/us/app/byword/id482063361?mt=8&uo=4&at=10l9vL)
 * [Drafts](https://itunes.apple.com/us/app/drafts-for-ipad-quickly-capture/id542797283?mt=8&uo=4&at=10l9vL)
@@ -91,7 +91,7 @@ Let's take a quick look at the text editors I tried and share some brief comment
 
 ![][10]
 
-**FioWriter** – The appeal of this app is the enhanced keyboard that includes _Option_, _Control_ and _Command_ keys. Using this keyboard makes the iOS experience more like that of a full fledged Mac. If you dig into the documentation for the app, you will also find a way to reveal extra keyboard rows for common punctuation, useful for Markdown creation, and common symbols such as the Apple symbol and currency. The app fails my usage test because FioWriter does not include Markdown preview or export. To bad though, I really like the enhanced keyboards.
+**FioWriter** – The appeal of this app is the enhanced keyboard that includes _Option_, _Control_ and _Command_ keys. Using this keyboard makes the iOS experience more like that of a full fledged Mac. If you dig into the documentation for the app, you will also find a way to reveal extra keyboard rows for common punctuation, useful for Markdown creation, and common symbols such as the Apple symbol and currency. The app fails my usage test because FioWriter does not include Markdown preview or export. Too bad though, I really like the enhanced keyboards.
 
 ![][11]
 

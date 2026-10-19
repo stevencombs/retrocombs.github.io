@@ -29,7 +29,7 @@ The Arduino Integrated Development Environment (IDE) requires Java. Peppermint O
 
 * Verify the install at:
 
-After you load the page in the default Peppermint OS 4 Chromimum browser, allow the Java plugin access to the page. You should then see a verification as shown in the image below.
+After you load the page in the default Peppermint OS 4 Chromium browser, allow the Java plugin access to the page. You should then see a verification as shown in the image below.
 
 <img src="https://3.bp.blogspot.com/-Cg55TDef-EA/Uss0X-_j9iI/AAAAAAABOf4/prFIjccMHPk/s1600/Java+Verification.png" width="100%" />
 

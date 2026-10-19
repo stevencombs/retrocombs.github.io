@@ -171,13 +171,13 @@ The MEGA65 boots to a blue screen called the *Screen Editor*. At the top left of
 
 1. Immediate Mode - Test BASIC programming lines of code or make calculations.
 
-<!-- ☒ Imediate mode calculations -->
+<!-- ☒ Immediate mode calculations -->
 
 2. BASIC Programming - Use the enhanced MEGA65 BASIC version 10 programming language to create your own programs. It's the best BASIC of any Commodore computer and software can run BASIC at a blazing 40Mhz using the BASIC `FAST` command or slowed down using the `SPEED` command. MEGA65 BASIC includes enhanced editing features such as page scrolling with the `DIR W` command and search and replace via the `CHANGE` command.
 
 <!-- DIR W example -->
 <!-- ☒ retroCombs scroll at FAST SPEED -->
-<!-- ☒ CHANGE commend demo CHANGE "RETROCOMBS" TO "RC" -->
+<!-- ☒ CHANGE command demo CHANGE "RETROCOMBS" TO "RC" -->
 
 3. Text Mode - Use `EDIT ON` to activate text mode. When you do, the text on screen is no longer parsed by the BASIC interpreter and the `READY` prompt changes to `OK`. Use line numbers to organize the lines of text. To automate line numbering, use the `AUTO 10` command (or other increment number). Save the text to disk as a `.SEQ` file using the `DSAVE` command. To recall the file, use the `DLOAD` command. If you want view a text file on disk, use the `TYPE` command. You now have a Commodore text editor at your disposal. Use `EDIT OFF` to return to BASIC mode and the `READY` prompt.
 

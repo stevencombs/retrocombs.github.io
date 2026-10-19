@@ -58,7 +58,7 @@ Without a connection to any other device, the TV provides the following featu
 * Access to iTunes content on other computers (iTunes required on local network)
 * Netflix &amp; Hulu Plus (subscription required)
 * MLB.TV, NBA &amp; NHL (subscription required)
-* TrailersYouTubeVimeoPodcasts - Personal favorite for education is access to [TED Talks][7]
+* Trailers, YouTube, Vimeo, Podcasts - Personal favorite for education is access to [TED Talks][7]
 * Radio
 * Photo Stream and Flickr
 * Wall Street Journal Live
@@ -70,7 +70,8 @@ AirPlay is the process of transmitting audio, video and apps to the TV. The f
 * iOS Devices (iPhone and iPad) - AirPlay Music (Music app) and Video (YouTube app) demonstrations from iPhone 4S, Mirroring (iPhone 4S or greater or new iPad required) and [Skitch][8] demonstration from iPhone 4S
 * [PlayTo for Android][9] - No device mirroring (to achieve mirroring, the device must be “rooted” and the appropriate app downloaded from the [Google Play Store][10])
 * OS X Integration - Basic connection functionality built into OS X Mountain Lion only
-* [AirParrot for OS X][11] - Adds AirPlay to all Macs and adds additional functionality such as full desktop (scaled), extended desktop and by applicationA quick word about security - Passcode can be set and device connected cannot be bumped by another device
+* [AirParrot for OS X][11] - Adds AirPlay to all Macs and adds additional functionality such as full desktop (scaled), extended desktop and by application
+* A quick word about security - Passcode can be set and device connected cannot be bumped by another device
 
 **Network Requirements:**
 The TV has the following network requirements:

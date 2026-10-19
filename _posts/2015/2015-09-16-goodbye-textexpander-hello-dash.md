@@ -56,7 +56,7 @@ Dash also provides access to cheatsheets. I use cheatsheets for [Atom](http://ww
 
 # Create your own
 
-Docsets and cheatsheets are programming language centric; however, you can also create your own. You could create an email/phone directory for your organization, a list of comic books, or a company procedural manual. Once you create this reference you can then share these personalized docsets or cheatsheets with others. For someone who dabbles in various programming lanaguages such as Python, Ruby and Arduino and writes extensively in Markdown; Dash is a life-saver.
+Docsets and cheatsheets are programming language centric; however, you can also create your own. You could create an email/phone directory for your organization, a list of comic books, or a company procedural manual. Once you create this reference you can then share these personalized docsets or cheatsheets with others. For someone who dabbles in various programming languages such as Python, Ruby and Arduino and writes extensively in Markdown; Dash is a life-saver.
 
 # Text expansion with snippets
 

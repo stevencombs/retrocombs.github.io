@@ -156,7 +156,7 @@ Don't purchase an external keyboard. Control your Pocket C.H.I.P. using your com
 ![][image-4]
 
 # Learn Linux Terminal commands
-(Added: August 21, 2016) You will want to learn how to use *Terminal* commands. One of the best features of the PocketC.H.I.P. is the ability to carry a full fledge Linux *Terminal* in your pocket. For students in computer science or information security courses, this can be a huge advantage to learning.
+(Added: August 21, 2016) You will want to learn how to use *Terminal* commands. One of the best features of the PocketC.H.I.P. is the ability to carry a full-fledged Linux *Terminal* in your pocket. For students in computer science or information security courses, this can be a huge advantage to learning.
 
 Below are my two favorite resources to learn Linux *Terminal* commands:
 

@@ -38,7 +38,7 @@ Before a C.H.I.P. will work out of the box with a USB OTG connection, you need t
 	![Flashing the C.H.I.P.][image-3]
 	It will take awhile, so kick back and relax as you contemplate the wonderful things are are going to do with your $9 computer.
 * Once flashing is complete, click the *EXIT FLASHER* area at the bottom of the dialog box and unplug the chip from the USB cable.
-	![Flashing succesful][image-4]
+	![Flashing successful][image-4]
 
 * Remove the jumper from pins REL and GND.
 * Reconnect the C.H.I.P. to the Mac without the jumper. The C.H.I.P. will begin the boot process.

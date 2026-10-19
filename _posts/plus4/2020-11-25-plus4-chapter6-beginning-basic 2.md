@@ -102,7 +102,7 @@ None as of 2020-11-25.
 
 ## Links Mentioned in this Episode:
 
-Below are the links I mention in the video. All Amazon links are affialiate links. Thanks for supporting the blog and the YouTube channel!
+Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [Commodore Plus/4 User's Manual Series](/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)

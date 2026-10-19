@@ -42,7 +42,7 @@ The font is now available in any application. I set it as the default font in [T
 
 The [Google Web Fonts repository][9] includes this font, ~~and I do hope one day Blogger will fix the issue many of us are having with the Blogger template editor so I can use Source Code Pro as my default text for this blog.~~ [Author’s Note: Check out the [“Why I moved from Blogger to Jekyll”](/web/2014/06/13/why-i-moved-from-blogger-to-jekyll.html) post to find out why I no longer care.
 
-Font choices are alway a very personal decision; however, If you are a coder, Markdown user, or simply a fan of monospaced fonts, you will enjoy the appearance and utility of this wonderful open source font. Well done Adobe! Have another font recommendation? Drop a comment below.
+Font choices are always a very personal decision; however, if you are a coder, Markdown user, or simply a fan of monospaced fonts, you will enjoy the appearance and utility of this wonderful open source font. Well done Adobe! Have another font recommendation? Drop a comment below.
 
 [1]: https://3.bp.blogspot.com/-Ahuwpdq25N4/UPmh40U933I/AAAAAAABFw4/kwQfG4MLrzI/s200/Source+Code+Pro+Font.png
 [2]: /apple/2013/01/15/ive-found-my-ipad-markdown-editor.html
