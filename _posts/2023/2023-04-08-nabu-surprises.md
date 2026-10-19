@@ -63,7 +63,7 @@ I use affiliate links. Thanks for your support of the blog and the YouTube chann
 • [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
 • [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 • [The NABU RetroNET](https://nabu.ca/)
-• [NABU Network](<https://www.nabunetwork.com/)
+• [NABU Network](https://www.nabunetwork.com/)
 • [NABU MAME Emulator](https://gtamp.com/nabu/)
 • [Monoprice MIDI Cable](https://amzn.to/3l7xKi9)
 • [DTech USB to RS422 RS485 Serial Port Converter Adapter Cable](https://amzn.to/3RCLpdk)

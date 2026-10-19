@@ -44,12 +44,12 @@ The [Google Web Fonts repository][9] includes this font, ~~and I do hope one day
 
 Font choices are alway a very personal decision; however, If you are a coder, Markdown user, or simply a fan of monospaced fonts, you will enjoy the appearance and utility of this wonderful open source font. Well done Adobe! Have another font recommendation? Drop a comment below.
 
-[1]: http://3.bp.blogspot.com/-Ahuwpdq25N4/UPmh40U933I/AAAAAAABFw4/kwQfG4MLrzI/s200/Source+Code+Pro+Font.png
+[1]: https://3.bp.blogspot.com/-Ahuwpdq25N4/UPmh40U933I/AAAAAAABFw4/kwQfG4MLrzI/s200/Source+Code+Pro+Font.png
 [2]: /apple/2013/01/15/ive-found-my-ipad-markdown-editor.html
-[3]: http://1.bp.blogspot.com/-utNtxP8tcoo/UPmjL_4bI1I/AAAAAAABFxI/Din5AxUBI1M/s640/Textastic+Screenshot+Source+Code+Pro.PNG
+[3]: https://1.bp.blogspot.com/-utNtxP8tcoo/UPmjL_4bI1I/AAAAAAABFxI/Din5AxUBI1M/s640/Textastic+Screenshot+Source+Code+Pro.PNG
 [4]: https://blogs.adobe.com/typblography/2012/09/source-code-pro.html
 [5]: http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html
-[6]: http://4.bp.blogspot.com/-nVNqvF7quq0/UPmmJx92kYI/AAAAAAABFxc/aBLynTFxDSI/s400/Source+Code+Pro.png
+[6]: https://4.bp.blogspot.com/-nVNqvF7quq0/UPmmJx92kYI/AAAAAAABFxc/aBLynTFxDSI/s400/Source+Code+Pro.png
 [7]: http://sourceforge.net/projects/sourcecodepro.adobe/
-[8]: http://2.bp.blogspot.com/-KlUBOnVUg-0/UPmmRcbi4xI/AAAAAAABFxk/EER_IQlqHo0/s640/TextMate2.png
+[8]: https://2.bp.blogspot.com/-KlUBOnVUg-0/UPmmRcbi4xI/AAAAAAABFxk/EER_IQlqHo0/s640/TextMate2.png
 [9]: http://www.google.com/webfonts

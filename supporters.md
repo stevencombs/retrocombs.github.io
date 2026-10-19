@@ -2,6 +2,9 @@
 layout: pages
 title: retroCombs Supporters (THE BEST IN THE WORLD!)
 permalink: supporters
+redirect_from:
+  - /membership
+
 ---
 
 "The best supporters in the world" contribute to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs?sub_confirmation=1). It's a small, but mighty group!

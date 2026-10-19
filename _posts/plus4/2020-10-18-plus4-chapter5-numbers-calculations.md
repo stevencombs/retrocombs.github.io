@@ -75,7 +75,7 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
 
-[Chapter 54 - Numbers and CalculationsGetting Started](/plus4/users-manual/p4um-chapter-54.pdf)
+[Chapter 54 - Numbers and CalculationsGetting Started](/plus4/users-manual/p4um-chapter-5.pdf)
 
 Below are the links for previous chapters covered:
 
@@ -195,7 +195,7 @@ I'm going to feel a bit like a math teacher in this episode! But an easy one. No
 
 ## Order of Calculation
 
-1. Commodore Basic 3.5 uses the mathematical concept of [order of operations](order of operations). In the example below, 50/5 is performed first with 200 added after the result:
+1. Commodore Basic 3.5 uses the mathematical concept of [order of operations](https://en.wikipedia.org/wiki/Order_of_operations). In the example below, 50/5 is performed first with 200 added after the result:
 
     ```realbasic
     ? 200+50/5

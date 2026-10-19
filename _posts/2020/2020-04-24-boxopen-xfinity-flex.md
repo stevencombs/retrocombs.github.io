@@ -14,6 +14,9 @@ tags:
   - flex
   - roku
   - androidtv
+redirect_from:
+  - /gadgets/2020/04/24/boxopen-xfinity-flex.html
+
 ---
 
 Two weeks ago, an email arrived from Xfinity. This isn’t unusual. I'm an Internet only customer (cord-cutter) with electronic billing. The message contained an offer for an Xfinity Flex. A what? What in the world is a Flex and how much is this going to cost me per month?
@@ -57,7 +60,7 @@ The COVID-19 CARD explains why the Flex arrived in the shrink wrap package (whic
 
 ## What’s next?
 
-Now that the box is open, I look forward to a FIRST USE video where I will connect the Flex to my [Cloner Alliance Box Pro](/gadgets/2020/04/21/firstuse-cloner-box-pro.html), press record, and turn on the Flex's power. We’ll watch it boot up together, dive into the user interface, and then load a video or two. I'm curious to see how this device compares to my two favorite steaming device platforms, [Roku](https://amzn.to/2Kx2unj) and [Android TV](https://amzn.to/2x2QYwH).
+Now that the box is open, I look forward to a FIRST USE video where I will connect the Flex to my [Cloner Alliance Box Pro](/cloner-alliance-box-pro-first-use), press record, and turn on the Flex's power. We’ll watch it boot up together, dive into the user interface, and then load a video or two. I'm curious to see how this device compares to my two favorite steaming device platforms, [Roku](https://amzn.to/2Kx2unj) and [Android TV](https://amzn.to/2x2QYwH).
 
 At first glance, the only real advantage of this device seems to be in the free access to the streaming Peacock (NBC) premimum channel. Not sure if this membership extends to other devices, but will try and find out for the next post.
 

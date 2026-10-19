@@ -17,6 +17,9 @@ tags:
   - unboxing
   - unpacking
   - amazon
+redirect_from:
+  - /arduino/2020/01/11/elegoo-mega-starter-kit.html
+
 ---
 
 I am priviledged to have the opportunity teach a course at our local Purdue Polytechnic Columbus campus. The course is _TECH 120: Design Thinking in Technology_. The focus of the course is to create solutions to modern problems, using software and hardware, while implementing the basics of design thinking.

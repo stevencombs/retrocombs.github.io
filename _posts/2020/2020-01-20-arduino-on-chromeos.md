@@ -24,7 +24,7 @@ I was confident I could get the latest version of the IDE installed, but then pu
 
 [![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
 
-I was dubious about hardware connectivity; however, with the IDE installed I could at least do some development on my [Pixel Slate](https://amzn.to/37eKmIG). Much to my surprise, and after much trial and error, I was able to install the Arduino IDE and upload code to an [Elegoo MEGA 2560](/arduino/2020/01/11/elegoo-mega-starter-kit.html)! I was so excited, I just had to share my process.
+I was dubious about hardware connectivity; however, with the IDE installed I could at least do some development on my [Pixel Slate](https://amzn.to/37eKmIG). Much to my surprise, and after much trial and error, I was able to install the Arduino IDE and upload code to an [Elegoo MEGA 2560](/elegoo-mega-starter)! I was so excited, I just had to share my process.
 
 > **NOTE 1:** This post was updated on 2020-05-16 with refinements and updates from my readers. Many thanks to those who are making this post even more valuable! Join us by leaving your comments below.
 

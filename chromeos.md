@@ -2,6 +2,9 @@
 layout: pages
 title: Chrome OS
 permalink: chromeos
+redirect_from:
+  - /chrome.html
+
 ---
 
 <img class="category" src="/images/design/chromeos.svg" width="20%" />

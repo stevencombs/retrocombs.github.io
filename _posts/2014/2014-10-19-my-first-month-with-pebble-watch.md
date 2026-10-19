@@ -6,6 +6,9 @@ email: 'retrocombs@icloud.com'
 date: 2014-10-19 15:31
 category: gadgets
 comments: yes
+redirect_from:
+  - /pebble/2014/10/19/my-first-month-with-pebble-watch.html
+
 ---
 
 At the end of September, Apple announced their new [Apple Watch](https://www.apple.com/watch/). I watched the announcement and found myself intrigued by the device; however, one thing kept nagging me, I can’t remember the last time I wore a watch on a regular basis. I think it was in the mid 1990s. After that period I only wore a watch whenever I put on my uniform for military duty and occasionally while I ran.
@@ -65,7 +68,7 @@ Pebble apps and watchfaces are small and transfer to the iPhone is quick. Want t
 
 On the Pebble itself, operation comes from the use of four buttons. **The Pebble is not a touch screen device**. The image from the Pebble site below describes each button function. At first I thought the four buttons would confuse me; however, I find over time that they are intuitive.
 
-![Pebble watch buttons](http://i.imgur.com/4i9NeDU.jpg)
+![Pebble watch buttons](https://i.imgur.com/4i9NeDU.jpg)
 
 Now that we know how the watch operates, let’s look at the good and bad features of the watch.
 

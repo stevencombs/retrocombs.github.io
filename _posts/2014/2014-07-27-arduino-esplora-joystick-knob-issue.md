@@ -22,4 +22,4 @@ I was unable to press the joystick down to activate the center button. So I grab
 
 Not sure why my Arduino Esplora came with the incorrect knob, but it does seem to be a [common problem](http://forum.arduino.cc/index.php?topic=144164.0). Evidently the quality control folks at Arduino need to have a look at some of their boxes before shipping them. Anyway, it did provide me with a bit of hacking today and if you get down to it, isn't that whole point of the [Maker movement](http://en.wikipedia.org/wiki/Maker_culture)? That's it for now. Time for me to explore the capabilities of the Esplora.
 
-![Arduino Esplora](http://farm9.staticflickr.com/8044/8134573901_63952a4f17.jpg)
+![Arduino Esplora](https://farm9.staticflickr.com/8044/8134573901_63952a4f17.jpg)

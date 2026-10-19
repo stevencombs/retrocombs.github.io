@@ -199,11 +199,11 @@ If you have any questions, find errors, or would like to leave a thought, please
 [21]:	http://amzn.to/2eX2r79
 [22]:	#ports
 [23]:	/android/2016/04/30/ios-user-talks-android.html#camera
-[24]:	http://photos.google.com'
+[24]:	https://photos.google.com
 [25]:	https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher&hl=en
 [26]:	https://play.google.com/store/apps/details?id=com.google.android.launcher&hl=en
 [27]:	#google-assistant
-[28]:	hangouts.google.com
+[28]:	https://hangouts.google.com
 [29]:	#pixel-launcher
 [30]:	https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=en
 [31]:	#camera

@@ -10,7 +10,7 @@ category: alfred
 
 Ever right-click on a file to choose an application to use and find multiple duplicate entries for an app (as shown in the image below)? This is a common issue for those of us who update or demo software regularly. I become a bit frustrated with it so I created this [Alfred](http://www.alfredapp.com) workflow to correct the issue.
 
-![](http://2.bp.blogspot.com/-lU3_R1CRxjk/UIb0mkMR6kI/AAAAAAABDEQ/VT4BCpg08v8/s1600/alfred-icon.png)
+![](https://2.bp.blogspot.com/-lU3_R1CRxjk/UIb0mkMR6kI/AAAAAAABDEQ/VT4BCpg08v8/s1600/alfred-icon.png)
 
 This Alfred Workflow (PowerPack required) will remove those pesky duplicates quickly. The workflow simply makes it quick and easy to access a terminal shell script (see bottom of post) using Alfred. Here's how to install the workflow.
 

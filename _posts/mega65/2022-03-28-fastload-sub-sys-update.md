@@ -106,7 +106,7 @@ As a reminder, below is the original BASIC V7 C128 *Submarine Tracking System* f
 210 LOOP UNTIL XR=90
 220 LOOP
 ```
-**💾 Download:** [`C128 SUB TRACK`](/images/c128/c-128-sub-track-sys.txt)
+**💾 Download:** [`C128 SUB TRACK`](/images/c128/c128-sub-track-sys.txt)
 
 Below is the output:
 
@@ -235,7 +235,7 @@ As I mentioned in the last video, there are additions I recommend, but at the ti
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

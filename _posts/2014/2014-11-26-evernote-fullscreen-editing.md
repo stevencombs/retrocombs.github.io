@@ -7,6 +7,9 @@ date: 2014-11-26 14:50
 categories:
   - productivity
 comments: yes
+redirect_from:
+  - /evernote/2014/11/26/evernote-fullscreen-editing.html
+
 ---
 
 I've been frustrated for several months with what I thought was a quirk with Evernote for iPad, that is, no way to display a note full screen to view or edit. It was my assumption that I was stuck with the listing of notes on the left-hand side of the screen.  In fact, the solution was right in front of me all the time. Because this was not readily apparent to me, I thought I should share this with others.

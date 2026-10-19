@@ -73,20 +73,20 @@ I could go on and on about Plex and have really just hit the tip of the features
 
 Have a question about my set up? Drop a comment below. Need me to describe a feature in a later post? I take requests so you can drop those below as well. You can also add to these Tech Notes by sharing your experiences with Plex, XBMC or Boxee. Found an error or three. Let me know because as I mention, I am my own worst editor.
 
-[1]: http://3.bp.blogspot.com/-ClmRWvS4OVs/Tjrnz1e0j3I/AAAAAAAA3Io/VDuOltF_sgE/s200/Boxed+Mac+Mini.PNG
+[1]: https://3.bp.blogspot.com/-ClmRWvS4OVs/Tjrnz1e0j3I/AAAAAAAA3Io/VDuOltF_sgE/s200/Boxed+Mac+Mini.PNG
 [3]: http://blog.boxee.tv/2011/12/26/boxee-1-5-fall-software-update/#.Tyms3ZZSQbk
 [4]: http://goo.gl/ef8S1
 [5]: http://xbmc.org/natethomas/2012/01/22/xbmc-11-0-eden-beta-2-available-now/
-[6]: http://4.bp.blogspot.com/-SvwFe3pXg1c/Tzl7lFl_ceI/AAAAAAAA5Og/FFoRNNdDOtc/s400/Plex+Screen+Shot.png
+[6]: https://4.bp.blogspot.com/-SvwFe3pXg1c/Tzl7lFl_ceI/AAAAAAAA5Og/FFoRNNdDOtc/s400/Plex+Screen+Shot.png
 [7]: https://my.plexapp.com/
 [8]: http://goo.gl/4bYSm
 [9]: http://goo.gl/RASeJ
-[10]: http://3.bp.blogspot.com/-jYfBamSfa-0/Tzl7x574bjI/AAAAAAAA5Oo/bflv4xo4E7k/s320/Photo+Feb+03,+16+09+28.png
+[10]: https://3.bp.blogspot.com/-jYfBamSfa-0/Tzl7x574bjI/AAAAAAAA5Oo/bflv4xo4E7k/s320/Photo+Feb+03,+16+09+28.png
 [11]: http://goo.gl/P4OQS
 [12]: http://draft.blogger.com/www.tcm.com
 [13]: https://my.plexapp.com/queue/help
 [14]: http://draft.blogger.com/www.vimeo.com
 [15]: http://draft.blogger.com/www.youtube.com
-[16]: http://4.bp.blogspot.com/-BIYUElEdVio/Tzl8DHXHUoI/AAAAAAAA5Ow/eeDwKTAlFHM/s320/My+Plex+Login.png
+[16]: https://4.bp.blogspot.com/-BIYUElEdVio/Tzl8DHXHUoI/AAAAAAAA5Ow/eeDwKTAlFHM/s320/My+Plex+Login.png
 [17]: http://forums.plexapp.com/index.php/topic/25356-airplayer-for-plex-how-to-install/
 [18]: http://www.plexapp.com/download/mac-download-new.php

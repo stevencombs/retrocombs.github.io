@@ -14,6 +14,9 @@ tags:
   - setup
   - outdoor
   - squirrel
+redirect_from:
+  - /gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html
+
 ---
 
 I'm a WyzeYZE fan! Except for the [WyzeYZE Lock (#ad)](https://amzn.to/3iPxheg), I "reckon" I have at least one of every product and not because they are sent to me to review–I purchase every WyzeYZE product I review. Although, if you are out there WyzeYZE...I'd consider review units as long as you know they will get an honest and objective look.

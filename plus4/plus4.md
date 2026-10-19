@@ -108,7 +108,7 @@ Below are links I've found to be most beneficial as I work through this series:
 
     * [Commodore Plus/4 Computer Wikipedia Entry](https://en.wikipedia.org/wiki/Commodore_Plus/4)
     * [Commodore Plus/4 Wiki](https://www.c64-wiki.com/wiki/Commodore_Plus/4)
-    * [My blog](/rss) (This site)
+    * [My blog](/blog) (This site)
     * [My Twitter feed](https://www.twitter.com/stevencombs)
     * [My YouTube channel](https://www.youtube.com/stevencombs)
 

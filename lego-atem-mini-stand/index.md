@@ -50,7 +50,7 @@ A: No. I put this together from my Technic collection. You might check current T
 
 **Q: What if I can't find a part I need in my stash?**
 
-A: I recommend [Bricklink](http://www.bricklink.com) where you can purchase single elements! The other alternative is to improvise. Look for other parts that serve the same purpose. That's part of the LEGO fun and you may find that your version is better than mine! If you do, send me an [email](retrocombs@icloud.com) with a pic.
+A: I recommend [Bricklink](http://www.bricklink.com) where you can purchase single elements! The other alternative is to improvise. Look for other parts that serve the same purpose. That's part of the LEGO fun and you may find that your version is better than mine! If you do, send me an [email](mailto:retrocombs@icloud.com) with a pic.
 
 ## Errata
 

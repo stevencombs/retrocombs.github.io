@@ -68,7 +68,7 @@ Makers or electronic hobbyist will have many of these items in stock (I did!). I
 
 The first step in my process was to use a regular breadboard to build the Tapuino using Sweetlilmre's original Fritzing file below:
 
-![Tapuino Fritzing Layout](http://2.bp.blogspot.com/-h7CGISvaymA/VQc9a61cijI/AAAAAAAAKpo/_zOHc1vSwYY/s1600/tapuino_bb-r2.png)
+![Tapuino Fritzing Layout](https://2.bp.blogspot.com/-h7CGISvaymA/VQc9a61cijI/AAAAAAAAKpo/_zOHc1vSwYY/s1600/tapuino_bb-r2.png)
 
 Afterward, I optimized the layout and part locations. There was little change since the original was efficient; however, I could locate updated Fritzing parts and took a different approach to labeling the cable connection. A Fritzing image of my layout is below.
 
@@ -91,7 +91,7 @@ One of the reason's I used a solderable breadboard was to provide a permanent pl
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

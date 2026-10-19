@@ -181,27 +181,27 @@ Although Writing Kit is my preferred iOS text editor, I still have a few feature
 
 Writing Kit 3.5 currently has a 3.5 star rating on the App Store and I for the life of me don't know why. It is a capable editor that should be on every Markdown, text editor or Fountain users iPad. I find it to be an indispensable tool and look forward to future releases (I've been reading that version 3.6 in currently being reviewed in the App Store). It is well worth $4.99. If you decide to give it shot or a current a user. Drop a comment below and let me know what you think about the app.
 
-[1]: http://2.bp.blogspot.com/-VRg3RIlqLfY/UPXRTgRpkmI/AAAAAAABFso/dO1eDulWZW4/s400/markdown+editors.png
+[1]: https://2.bp.blogspot.com/-VRg3RIlqLfY/UPXRTgRpkmI/AAAAAAABFso/dO1eDulWZW4/s400/markdown+editors.png
 [2]: http://db.tt/GcxdAiJ
 [3]: http://daringfireball.net/projects/markdown/
 [4]: http://fletcherpenney.net/multimarkdown/
-[5]: http://3.bp.blogspot.com/-reTpLgTKqW8/UPXRT5DS94I/AAAAAAABFsw/NvzSyfN56cI/s400/preview.PNG
+[5]: https://3.bp.blogspot.com/-reTpLgTKqW8/UPXRT5DS94I/AAAAAAABFsw/NvzSyfN56cI/s400/preview.PNG
 [6]: http://brettterpstra.com/ios-text-editors/
-[7]: http://4.bp.blogspot.com/-6uW76Cp4clg/UPXRPx4Rr9I/AAAAAAABFrg/YkGaQa3B0pk/s400/Byword.PNG
-[8]: http://4.bp.blogspot.com/-Nu7MHBsCdN4/UPXRP8_ZOMI/AAAAAAABFrc/U8aR_kSWz9s/s320/Drafts.PNG
-[9]: http://4.bp.blogspot.com/-roNkj5-Lc88/UPXRQtiuTTI/AAAAAAABFrs/ctYT3JgdX6A/s320/Drafts+sharing.PNG
-[10]: http://2.bp.blogspot.com/-4xN6fIF7-5U/UPXRQVikavI/AAAAAAABFr0/RnnPXLg0M28/s400/Elements.PNG
-[11]: http://2.bp.blogspot.com/-lovjy_yIGcE/UPXRQk6djjI/AAAAAAABFrw/sjOBNPtcoZ8/s400/FioWriter.PNG
-[12]: http://2.bp.blogspot.com/-bnEYz4CrgQc/UPXRTJOYHMI/AAAAAAABFsg/IOePBTa1REE/s400/iAWriter.PNG
+[7]: https://4.bp.blogspot.com/-6uW76Cp4clg/UPXRPx4Rr9I/AAAAAAABFrg/YkGaQa3B0pk/s400/Byword.PNG
+[8]: https://4.bp.blogspot.com/-Nu7MHBsCdN4/UPXRP8_ZOMI/AAAAAAABFrc/U8aR_kSWz9s/s320/Drafts.PNG
+[9]: https://4.bp.blogspot.com/-roNkj5-Lc88/UPXRQtiuTTI/AAAAAAABFrs/ctYT3JgdX6A/s320/Drafts+sharing.PNG
+[10]: https://2.bp.blogspot.com/-4xN6fIF7-5U/UPXRQVikavI/AAAAAAABFr0/RnnPXLg0M28/s400/Elements.PNG
+[11]: https://2.bp.blogspot.com/-lovjy_yIGcE/UPXRQk6djjI/AAAAAAABFrw/sjOBNPtcoZ8/s400/FioWriter.PNG
+[12]: https://2.bp.blogspot.com/-bnEYz4CrgQc/UPXRTJOYHMI/AAAAAAABFsg/IOePBTa1REE/s400/iAWriter.PNG
 [13]: http://macromates.com/
-[14]: http://4.bp.blogspot.com/-9PuvXgHntYA/UPXRSCLNuDI/AAAAAAABFsM/U_JNptJ0QoY/s400/Textastic.PNG
+[14]: https://4.bp.blogspot.com/-9PuvXgHntYA/UPXRSCLNuDI/AAAAAAABFsM/U_JNptJ0QoY/s400/Textastic.PNG
 [15]: https://itunes.apple.com/us/app/writing-kit-research-write/id426208994
-[16]: http://1.bp.blogspot.com/-2YRnYHYkoOA/UPXRTMzz2fI/AAAAAAABFsk/0LGWmMGghn0/s400/enhanced+keyboard+2.PNG
-[17]: http://4.bp.blogspot.com/-639cVZiyrNw/UPXRS2GGjgI/AAAAAAABFsc/cgRuxB-0UhE/s400/enhanced+keyboard.PNG
-[18]: http://3.bp.blogspot.com/-Lc9X_XJetak/UPXXW8atk0I/AAAAAAABFt4/4fmGn8yhIV4/s400/Writing+Kit+iphone.PNG
-[19]: http://1.bp.blogspot.com/-A-IdsZtv7FA/UPXRSOt29XI/AAAAAAABFsQ/PcPq3RbAar0/s400/browser.PNG
-[20]: http://2.bp.blogspot.com/-jLdFb-miVBE/UPXRUMnM5CI/AAAAAAABFs0/jIAKdAGtgcY/s400/quick+research.PNG
-[21]: http://1.bp.blogspot.com/-Y77Xn8sGiZY/UPXRRU78GCI/AAAAAAABFr8/Zw3oSr0KrX0/s400/Terminology.PNG
+[16]: https://1.bp.blogspot.com/-2YRnYHYkoOA/UPXRTMzz2fI/AAAAAAABFsk/0LGWmMGghn0/s400/enhanced+keyboard+2.PNG
+[17]: https://4.bp.blogspot.com/-639cVZiyrNw/UPXRS2GGjgI/AAAAAAABFsc/cgRuxB-0UhE/s400/enhanced+keyboard.PNG
+[18]: https://3.bp.blogspot.com/-Lc9X_XJetak/UPXXW8atk0I/AAAAAAABFt4/4fmGn8yhIV4/s400/Writing+Kit+iphone.PNG
+[19]: https://1.bp.blogspot.com/-A-IdsZtv7FA/UPXRSOt29XI/AAAAAAABFsQ/PcPq3RbAar0/s400/browser.PNG
+[20]: https://2.bp.blogspot.com/-jLdFb-miVBE/UPXRUMnM5CI/AAAAAAABFs0/jIAKdAGtgcY/s400/quick+research.PNG
+[21]: https://1.bp.blogspot.com/-Y77Xn8sGiZY/UPXRRU78GCI/AAAAAAABFr8/Zw3oSr0KrX0/s400/Terminology.PNG
 [22]: http://echohub.com/posts/video/fountain-scriptwriting-made-easier/
 [23]: http://getwritingkit.com/
 [24]: http://markedapp.com/

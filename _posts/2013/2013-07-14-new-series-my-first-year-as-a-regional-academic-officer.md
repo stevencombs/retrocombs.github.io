@@ -8,7 +8,7 @@ comments: true
 category: higher-education
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://2.bp.blogspot.com/-X1gYurcLgJc/UeLnhOCKIMI/AAAAAAABKX0/5ZP9sLTNbQQ/s200/Dean+-vs-+RAO.png" align="right" width="200" />This month marks my first year as the chief academic officer, Vice Chancellor of Academic Affairs (VCAA), for the Columbus/Franklin region of Ivy Tech Community College. During this first year, I have learned much about my new role, the college and the community.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-X1gYurcLgJc/UeLnhOCKIMI/AAAAAAABKX0/5ZP9sLTNbQQ/s200/Dean+-vs-+RAO.png" align="right" width="200" />This month marks my first year as the chief academic officer, Vice Chancellor of Academic Affairs (VCAA), for the Columbus/Franklin region of Ivy Tech Community College. During this first year, I have learned much about my new role, the college and the community.
 
 To celebrate my first year, I’ve decided to share some lessons learned. These lessons may (I write “may” because every situation is unique) be useful for new and even seasoned chief academic officers. Blogging/writing is a great way for me to reflect on this past year and my hope is that not only will these lessons be of value to others when shared, but it will also force me to spend additional time reflecting on the past year’s hits and misses.
 

@@ -51,7 +51,7 @@ Thanks to the new A7 chip mentioned above and an increase in system RAM to 1Gb, 
 
 # Motion
 
-The iPhone 5s includes the new M7 motion chip. The purpose of the M7 is to offload the collection of motion data from the processor and conserve precious battery life. The M7 chip constantly collects movement data and does so with hardly a sip of battery power. Think of it as a [Fitbit](!g) built into your iPhone 5s.
+The iPhone 5s includes the new M7 motion chip. The purpose of the M7 is to offload the collection of motion data from the processor and conserve precious battery life. The M7 chip constantly collects movement data and does so with hardly a sip of battery power. Think of it as a [Fitbit](https://www.google.com/search?q=Fitbit) built into your iPhone 5s.
 
 Add the free [Pedometer++](https://itunes.apple.com/us/app/walkmeter-gps-pedometer-walking/id330594424?mt=8&uo=4&at=10l9vL) app and you have a simple way to track all your steps during the day. Better yet, add the free [MyFitnessPal](https://itunes.apple.com/us/app/calorie-counter-diet-tracker/id341232718?mt=8&uo=4&at=10l9vL) app and track your activity and your eating habits. I often misplace or forget my Fitbit. I never go anywhere without my iPhone, so this allows me to be more diligent tracking steps.
 
