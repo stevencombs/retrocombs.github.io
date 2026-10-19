@@ -119,7 +119,7 @@ Table of Contents
 - Dan Webb
 - JavaJ
 - jibaro
-- RICHARD MURPHY
+- PC-Expert75
 - [retroKat](https://x.com/klcombs95)
 - The Lovely Accountant
 
