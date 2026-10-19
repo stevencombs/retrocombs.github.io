@@ -114,9 +114,7 @@ Use the emulator with your favorite *.d81* disk images or develop your own progr
 
 ## Download my Script
 
-In the video, I mention a script and resources I've created to add a XEMU xmega65 emulator item to the Raspbian OS menu. You can find more information using the link below:
-
-[Raspbian XEMU MEGA≡65 Menu Item Script](https://www.buymeacoffee.com/retrocombs/e/171496)
+In the video, I mention a script and resources I've created to add a XEMU xmega65 emulator item to the Raspbian OS menu. That download isn't posted here. If the video helped, [leave a tip](https://paypal.me/stevencombs).
 
 ## Join the Fun
 

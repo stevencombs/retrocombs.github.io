@@ -11,7 +11,7 @@ category: mega65
 
 This page is the companion blog post to the live stream conducted on 2022-01-02. During that live stream, I install the latest .COR file on the MEGA65, look at the new and much speedier core (`.COR`) flasher, install the latest SD card files, download the latest .ROM, and review several sections of the onboarding SD card that will ship with the MEGA65.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 Before you read the rest of this post, look at my companion video below.
 
@@ -40,7 +40,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 6. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 7. [MEGA65 File Host](https://files.mega65.org)
 8. [MEGA65 Discord](http://www.mega65.org/chat)
-9. [Buy Me A Coffee Membership](https://www.buymeacoffee.com/retroCombs)
+9. [Leave a tip](https://paypal.me/stevencombs)
 
 ## Additional Thoughts
 

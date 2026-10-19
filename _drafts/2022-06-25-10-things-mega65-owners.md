@@ -21,9 +21,9 @@ category: mega65
 
 ## Support the Blog and Channel
 
-You can now support me via [my Buy Me A Coffee page](https://www.buymeacoffee.com/retroCombs/) with a one-time activity or become a full member via my fun Commodore inspired membership levels. When you support the channel, you get additional content and fun extras. Check out [the membership levels](https://www.buymeacoffee.com/retroCombs) to learn more.
+If you enjoy the blog and channel, [leave a tip](https://paypal.me/stevencombs).
 
-Thank you to these members for supporting me at [the C128 and MEGA65 level](https://www.buymeacoffee.com/retroCombs/membership); making them retroCombs (executive) producers:
+Thank you to these members for supporting me at the C128 and MEGA65 level; making them retroCombs (executive) producers:
 
 **Producers:**
 

@@ -15,7 +15,7 @@ tags:
 
 In this companion blog post to the edit of my Christmas Eve 2021 live stream, I celebrate the holiday and briefly lament about the MEGA65 delay; however, it becomes a great time as viewers share stories and I share previews of the recently released box art (suitable for cutting, which I do at the beginning of the video) and the onboarding SD card that will come with new MEGA65s. This edit includes new information and corrections.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 This post includes both the original live stream and the "director's cut" edit. Before you read the rest of this post, look at the companion videos below.
 

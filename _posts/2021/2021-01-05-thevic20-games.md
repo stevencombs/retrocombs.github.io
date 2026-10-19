@@ -22,7 +22,7 @@ THEVIC20(C64) it is a divisive Commodore emulator. There are those, like me, who
 
 Before I share additional thoughts about my time experiencing many of these games for the first time, please watch both parts 1 and 2 below.
 
-**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**
+**If you find this blog post and/or video valuable, please consider [leaving a tip](https://paypal.me/stevencombs). It keeps the blog posts and video coming your way!**
 
 ## Watch the Video: _THEVIC20 and THEC64 VIC-20 Games (Part 1)_
 
@@ -36,9 +36,9 @@ In the video below, I play games Harvester through Zor.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/wdQmYvXXo8o" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-## SUPPORT THIS POST and help me caffinate!
+## SUPPORT THIS POST
 
-If you found this post or its contents useful, consider buying me a coffee (click the coffee cup in the lower-right)!
+If you found this post or its contents useful, [leave a tip](https://paypal.me/stevencombs).
 
 ## Video Errata
 

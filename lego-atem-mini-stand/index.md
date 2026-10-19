@@ -14,9 +14,7 @@ tags:
 
 ![LEGO ATEM Mini Stand](LEGO-atem-mini-dock.jpg)
 
-Have an ATEM Mini/Pro/ISO (or soon [to purchase one](https://amzn.to/3EKT0ye)?), you need a stand. [Commercial stands](https://ebay.us/zU6B1V) are pricey but LEGO fans, like me, can scrounge up elements to build their your own when they get my instructions found at:
-
-<https://www.buymeacoffee.com/retroCombs/e/51612>
+Have an ATEM Mini/Pro/ISO (or soon [to purchase one](https://amzn.to/3EKT0ye)?), you need a stand. [Commercial stands](https://ebay.us/zU6B1V) are pricey but LEGO fans, like me, can scrounge up elements to build their own.
 
 Below is a full video that provides the background on my stand that was my LEGO Build Day 2021 project.
 
@@ -28,11 +26,7 @@ Here's a sample page from the instructions:
 
 ![Dock Instructions](instructions-sample.png)
 
-You can get your instructions on my Buy Me a Coffee page at:
-
-<https://www.buymeacoffee.com/retroCombs/e/51612>
-
-You can purchase the set outright, or if you become a retroCombs member (even at the $1 Commodore PET level), you can get it for free!
+The full instruction PDF isn't posted here. If the build is useful, [leave a tip](https://paypal.me/stevencombs).
 
 ## FAQ
 

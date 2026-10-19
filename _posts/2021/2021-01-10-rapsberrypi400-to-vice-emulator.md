@@ -27,7 +27,7 @@ As readers and viewers know, I've taken a look at several devices this past year
 
 This companion blog post will roughly outline the steps needed to turn the Raspberry Pi 400 into a Commodore VICE emulator extraordinaire! Since I use a [Manjaro Linux](https://manjaro.org/), the step-by-step might not be helpful for Mac and Windows users; however, a broad outline of the process should suffice for most reasonably tech savvy readers.
 
-**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**
+**If you find this blog post and/or video valuable, please consider [leaving a tip](https://paypal.me/stevencombs). It keeps the blog posts and video coming your way!**
 
 Below, I include a table of contents so you can jump around to various sections. If there's something missing that you need to complete your own project, drop comments below this post or in the [YouTube video](https://www.youtube.com/watch?v=P0EaHOGvtS0).
 
@@ -139,7 +139,7 @@ Time to upgrade the Combian 64 distribution.
 5. Once the Raspberry Pi boots, load the *Terminal* and type the following commands:
 
    `sudo apt update` / A password prompt will appear. It is `raspberry`
-   `sudo apt dist-upgrade` / This will apply the updates and takes some time. Grab a coffee, or better yet, [buy me one too](https://www.buymeacoffee.com/retroCombs) so we can sip together!
+   `sudo apt dist-upgrade` / This will apply the updates and takes some time. Grab a coffee, or better yet, [leave a tip](https://paypal.me/stevencombs) so we can sip together!
 
 6. With the update complete, use the Raspian OS menu and shutdown the Raspberry Pi.
 7. Once the Raspberry Pi 4 lights shuts off, unplug the Raspberry Pi 4.

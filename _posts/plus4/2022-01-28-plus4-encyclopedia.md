@@ -15,7 +15,7 @@ tags:
 
 With the last regular Commodore Plus/4 User's Guide chapters complete, we now focus on the last half of the manual. You read that correctly. Chapters 1 through 8 take the first 100 pages, and the Plus/4 Encyclopedia occupies another 183 pages of the user's manual.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 Before the blog post, I must add a HUGE thanks to [Robin](https://twitter.com/8BitShowAndTell) over at [8-Bit Show and Tell](https://www.youtube.com/8BitShowAndTell). He was extremely gracious to collaborate with me. He's a rock star in the retro computing YouTube community and for someone like him to share screen time with me reinforces what a great guy he is. If you are coming over from his channel. WELCOME! I know my content won't live up to Robin's but I hope you will introduce yourself on the YouTube channel or in the comments below and let me know if you find something you like.
 
@@ -138,7 +138,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 ## Introduction
 
-1. Channel memberships are now available! Check out [my Buy Me A Coffee page](https://www.buymeacoffee.com/retroCombs) and support the channel if you found value in the Plus/4 series.
+1. If you found value in the Plus/4 series, [leave a tip](https://paypal.me/stevencombs).
 2. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 3. A .d81 disk image is available [here](/plus4#companion-disk-image).
 
@@ -730,7 +730,7 @@ Thanks for reading and watching and if you are inclined, please let others know 
 
 <!-- 
 
-👍 Please take the time to like, subscribe, and support the channel using the links ↑. Find something useful that provided information or saved you time? Send a {❤THANKS}! You can now become a member, or support me, at ☕ BMAC (https://www.buymeacoffee.com/retroCombs).
+👍 Please take the time to like, subscribe, and support the channel using the links ↑. Find something useful that provided information or saved you time? Send a {❤THANKS}! If this series helped, leave a tip at https://paypal.me/stevencombs.
 
 Finally! The last part of my Commodore Plus/4 User's Guide series. In this episode, the Encyclopedia and Robin, from 8-Bit Show and Tell makes a cameo to help me out with the TEDMON.
 
@@ -784,7 +784,7 @@ Time Codes:
 44:59 RS-232 Interface
 46:51 Books for Commodore Products
 47:36 Conclusion
-48:59 Buy Me A Coffee
+48:59 Leave a Tip
 49:26 Watch More retroCombs
 
 -->

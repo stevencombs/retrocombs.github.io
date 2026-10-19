@@ -32,11 +32,7 @@ I’ve taken the time to prepare detailed instructions (see sample image below):
 
 ![Dock Instructions](instructions-sample.png)
 
-You can get your instructions on my Buy Me a Coffee page at:
-
-<https://www.buymeacoffee.com/retroCombs/e/51689>
-
-You can purchase the set outright, or if you become a retroCombs member (even at the $1 Commodore PET level), you can get it for free!
+The full instruction PDF isn't posted here. If the build is useful, [leave a tip](https://paypal.me/stevencombs).
 
 ## LEGO Dock FAQ
 

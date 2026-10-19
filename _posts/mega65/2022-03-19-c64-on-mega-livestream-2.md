@@ -17,7 +17,6 @@ This is the companion blog post for my 2022-03-13 live stream edit; _Part II: Pl
 
 If you need to get caught up, be sure and check out part one. Here are the details:
 
-- [Watch the Full Live Stream](https://www.buymeacoffee.com/retroCombs/e/57346) - Over one hour of content.
 - [Watch the 25 Minuted Edit](https://youtu.be/eaYErOyKfww) - Includes additional content not found in the original live stream
 
 ----
@@ -42,9 +41,9 @@ If you need to get caught up, be sure and check out part one. Here are the detai
 
 ## Support the Blog and Channel
 
-You can now support me via Buy Me A Coffee page with a onetime activity or become a full member via my fun Commodore inspired membership levels. When you support the channel, you get additional content and fun extras. Check out [the membership levels](https://www.buymeacoffee.com/retroCombs) to learn more.
+If you enjoy the blog and channel, [leave a tip](https://paypal.me/stevencombs).
 
-Thank you to these members for supporting me at [the C128 level](https://www.buymeacoffee.com/retroCombs/membership); making them retroCombs producers:
+Thank you to these members for supporting me at the C128 level; making them retroCombs producers:
 
 - [Mislav Krleža](https://twitter.com/KrlezaMislav)
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
@@ -61,9 +60,7 @@ In the video below, I continue my exploration of the C64 disk image included wit
 
 ## Watch the Entire Live Stream
 
-If this edit isn't enough and you want to [watch the entire livestream](https://www.buymeacoffee.com/retroCombs/e/63381), including additional content and another unboxing, you get it [here](https://www.buymeacoffee.com/retroCombs/e/63381). For a buck, you can support the channel and watch the entire one-hour and twenty-minute version. It's fun to see what I have chopped out while laughing along at my errors!
-
-[Become a member](https://www.buymeacoffee.com/retroCombs) using one of my fun Commodore inspired membership levels and you can watch this live stream for free, and without ads, along with other future live streams (either live or on demand afterward). [Check out my membership page](https://www.buymeacoffee.com/retroCombs) to learn how you can get this benefit along with many others, including access to the retroCombs Discord channel.
+The longer cut isn't posted here. If you enjoyed the edit, [leave a tip](https://paypal.me/stevencombs).
 
 ## Video Errata
 
