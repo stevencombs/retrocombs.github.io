@@ -118,7 +118,7 @@ Table of Contents
 - Andy Petrie
 - Dan Webb
 - JavaJ
-- jibaro
+- Jibaro
 - PC-Expert75
 - [retroKat](https://x.com/klcombs95)
 - The Lovely Accountant
