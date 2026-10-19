@@ -144,7 +144,7 @@ Table of Contents
 
 ### <img class="rc-badge-sm" src="/images/badges/badge-c64.webp" alt="" width="44" height="44"> Commodore 64 (Sprites)
 
-- [3vi1J](https://eternaldusk.com/)
+- [3vi1Jay](https://eternaldusk.com/)
 - Coding with Culp
 - CommodoreSam
 - Daveyk021
