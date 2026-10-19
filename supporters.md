@@ -19,6 +19,14 @@ retroCombs memberships are available through YouTube at levels to meet all budge
 .rc-level span{color:#777}
 .rc-badge{display:block;width:120px;height:auto;margin:0 0 0.8em;border-radius:6px;box-shadow:0 1px 4px rgba(0,0,0,.15)}
 .rc-badge-sm{width:44px;height:auto;vertical-align:middle;margin-right:10px;border-radius:4px;box-shadow:0 1px 3px rgba(0,0,0,.15)}
+.rc-join{display:inline-block;margin:0.2em 0 1em;padding:0.65em 1.15em;background:#3498db;color:#fff !important;text-decoration:none !important;border-radius:6px;font-weight:bold}
+.rc-join:hover,.rc-join:focus{background:#217dbb;color:#fff !important;text-decoration:none !important}
+.rc-note{color:#777;font-size:0.92em}
+.rc-perks{list-style:none;margin:0 0 1.2em;padding:0}
+.rc-perks>li{margin:0 0 0.75em;padding:0.75em 0.9em;border:1px solid #ddd;border-radius:6px}
+.rc-perks ul{margin:0.35em 0 0 1.15em}
+.rc-price{color:#777;font-weight:normal}
+@media (max-width:640px){.rc-join{display:block;text-align:center}}
 </style>
 
 <div class="rc-levels">
@@ -30,7 +38,53 @@ retroCombs memberships are available through YouTube at levels to meet all budge
   <figure class="rc-level"><img src="/images/badges/badge-mega65.webp" alt="MEGA≡65 (FPGA) membership badge" width="150" height="150" loading="lazy"><figcaption><strong>MEGA≡65 (FPGA)</strong><br><span>Executive Producer</span></figcaption></figure>
 </div>
 
-Standard members (PET through Plus/4) get access to the Discord and all livestream links. Producers (C128 and MEGA≡65) get access to the Disk Mag and additional perks.
+## Membership benefits {#membership-benefits}
+
+<a class="rc-join" href="https://www.youtube.com/@retrocombs/join">Become a member</a>
+
+Each level includes the perks of every level before it.
+
+<p class="rc-note">Prices are set by YouTube and may vary by region.</p>
+
+<ul class="rc-perks">
+  <li><strong>Commodore PET (Mono)</strong> <span class="rc-price">$1.99/month</span>
+    <ul>
+      <li>Loyalty badges next to your name in comments and live chat</li>
+      <li>Custom emoji to use in comments and live chat</li>
+      <li>Live in the Shadows?</li>
+    </ul>
+  </li>
+  <li><strong>VIC-20 (Colors)</strong> <span class="rc-price">$2.99/month</span>
+    <ul>
+      <li>Discord/retroCombian Membership!</li>
+    </ul>
+  </li>
+  <li><strong>Commodore 64 (Sprites)</strong> <span class="rc-price">$4.99/month</span>
+    <ul>
+      <li>Member shout-outs</li>
+      <li>Supporters Page Recognition!</li>
+    </ul>
+  </li>
+  <li><strong>Plus/4 (Business)</strong> <span class="rc-price">$7.99/month</span>
+    <ul>
+      <li>Priority reply to comments</li>
+    </ul>
+  </li>
+  <li><strong>C128 (Bil Herd Approved!)</strong> <span class="rc-price">$14.99/month</span>
+    <ul>
+      <li>Producer Credit!</li>
+      <li>Producer's Chat</li>
+      <li>retroCombs Disk Mag</li>
+    </ul>
+  </li>
+  <li><strong>MEGA65 (FPGA)</strong> <span class="rc-price">$24.99/month</span>
+    <ul>
+      <li>Executive Producer Credit</li>
+      <li>Holiday Greeting from Santa Combs!</li>
+      <li>You Get a Wrench 🔧!</li>
+    </ul>
+  </li>
+</ul>
 
 *Last updated: October 18, 2026*
 
@@ -38,6 +92,7 @@ Standard members (PET through Plus/4) get access to the Discord and all livestre
 
 Table of Contents
 
+- [Membership benefits](#membership-benefits)
 - [Executive Producers (MEGA≡65-Level Members)](#executive-producers-mega65-level-members)
 - [Producers (C128-Level Members)](#producers-c128-level-members)
 - [Members (PET, VIC-20, C64, and Plus/4 Level Members)](#members-pet-vic-20-c64-and-plus4-level-members)
