@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- YoloBox slot wrapper: all relative URLs (fonts, images, audio) resolve inside superchat/. Query string is untouched. -->
+<base href="superchat/">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:,">
+<meta name="viewport" content="width=1920, height=1080">
+<title>retroCombs Super Chat overlay</title>
+<style>
+@font-face { font-family: 'PS2P'; src: url('assets/PressStart2P-Regular.woff2') format('woff2'); font-display: block; }
+@font-face { font-family: 'VT323'; src: url('assets/VT323-Regular.woff2') format('woff2'); font-display: block; }
+html, body { margin: 0; padding: 0; width: 1920px; height: 1080px; overflow: hidden; background: transparent !important; }
+#stage { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; overflow: hidden; background: transparent !important; }
+#fx { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; }
+.layer { position: absolute; visibility: hidden; will-change: transform, opacity; }
+/* ---- chat card (v3: 75% scale, 885x225) ---- */
+#card { left: 963px; top: 791px; width: 885px; height: 225px; box-sizing: border-box; border: 4px solid #2a2a2a;
+        border-radius: 14px; background: #e8dcc8; }
+#stripe { position: absolute; left: 11px; top: 3px; width: 855px; height: 18px;
+          background: linear-gradient(to bottom, #f5a623 0 4.5px, #f5e642 4.5px 9px, #7cba3d 9px 13.5px, #4aa3d4 13.5px 18px); }
+#avatar { position: absolute; left: 14px; top: 30px; width: 57px; height: 57px; box-sizing: border-box; border: 3px solid #2a2a2a;
+          border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center; }
+#avatarLetter { font: 22.5px/22.5px 'PS2P', monospace; color: #fff; margin: 3px 0 0 3px;
+                text-shadow: 2px 2px 0 #2a2a2a, -1.5px -1.5px 0 #2a2a2a, 1.5px -1.5px 0 #2a2a2a, -1.5px 1.5px 0 #2a2a2a; }
+#name { position: absolute; left: 85px; top: 35px; font: 18px/21px 'PS2P', monospace; color: #3d3d36; white-space: pre; overflow: hidden; }
+#label { position: absolute; left: 85px; top: 60px; font: 22.5px/22.5px 'VT323', monospace; color: #3d3d36; white-space: pre; }
+#label b { color: #c62828; font-weight: normal; }
+#pill { position: absolute; right: 14px; top: 34px; height: 42px; box-sizing: border-box; padding: 0 16.5px; border: 3px solid #2a2a2a;
+        border-radius: 21px; background: #0000f0; color: #fff; font: 16.5px/36px 'PS2P', monospace; white-space: pre;
+        display: flex; align-items: center; transform-origin: 100% 50%; }
+#pillText { padding-top: 2px; }
+#field { position: absolute; left: 14px; top: 96px; width: 849px; height: 110px; }
+#fieldCanvas { position: absolute; left: 0; top: 0; width: 849px; height: 110px; }
+#ready { opacity: 0; position: absolute; left: 25px; top: 19px; font: 10.5px/10.5px 'PS2P', monospace; color: #7869c4; white-space: pre; }
+.line { position: absolute; left: 25px; width: 805px; height: 25.5px; font: 19.5px/25.5px 'PS2P', monospace; color: #7869c4;
+        white-space: pre; overflow: hidden; }
+#line0 { top: 37px; } #line1 { top: 62.5px; }
+#cursor { display: inline-block; width: 19.5px; height: 19.5px; background: #7869c4; vertical-align: top; margin-top: 2px; }
+/* ---- burst ---- */
+#headline { left: 1122px; top: 714px; width: 567px; height: 68px; transform-origin: 50% 50%; }
+#banner { left: 1083px; top: 726px; width: 645px; height: 50px; transform-origin: 50% 50%; }
+svg.px { display: block; shape-rendering: crispEdges; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <canvas id="fx" width="1920" height="1080"></canvas>
+  <div id="card" class="layer">
+    <div id="stripe"></div>
+    <div id="avatar"><span id="avatarLetter"></span></div>
+    <div id="name"></div>
+    <div id="label">SUPER CHAT <b>&#9679;</b> LIVE</div>
+    <div id="pill"><span id="pillText"></span></div>
+    <div id="field">
+      <canvas id="fieldCanvas" width="849" height="110"></canvas>
+      <div id="ready">READY.</div>
+      <div class="line" id="line0"><span></span></div>
+      <div class="line" id="line1"><span></span></div>
+    </div>
+  </div>
+  <img id="headline" class="layer" src="assets/superchat-headline.png" alt="">
+  <img id="banner" class="layer" src="assets/thanks-banner.png" alt="">
+</div>
+<audio id="sfx" src="assets/superchat-bed.mp3" preload="auto"></audio>
+<script>
+(function () {
+'use strict';
+// ======================= params =======================
+var Q = new URLSearchParams(location.search);
+function clean(v, cap) {
+  v = (v == null ? '' : String(v)).replace(/[\u0000-\u001f\u007f-\u009f\u200b-\u200f\u202a-\u202e\u2066-\u2069]/g, '')
+        .replace(/\s+/g, ' ').trim();
+  return Array.from(v).slice(0, cap).join('').trim();
+}
+function num(v, def, lo, hi) { var n = parseFloat(v); return isFinite(n) ? Math.min(hi, Math.max(lo, n)) : def; }
+var NAME   = clean(Q.get('name'), 24);
+var AMOUNT = clean(Q.get('amount'), 10);
+var MSG    = clean(Q.get('msg'), 60).toUpperCase();
+var DELAY  = num(Q.get('delay'), 300, 0, 600000);
+var LOOP   = Q.get('loop') === '1';
+var EVERY  = num(Q.get('every'), 30, 1, 86400);
+var PAUSED = Q.get('paused') === '1';           // testing only: don't auto-play
+var HAS_NAME = NAME.length > 0;
+if (!HAS_NAME) NAME = 'A SUPER FAN';
+if (!MSG) MSG = 'THANK YOU!';
+
+// ======================= timeline (s) =======================
+var T_CARD = 0.0, D_CARD = 0.55, T_LOAD0 = 0.30, T_LOAD1 = 1.00, T_AV = 0.45, T_NAME = 0.65, T_AMT = 1.05,
+    T_READY = 1.15, T_TYPE = 1.60, T_TYPE_MAX = 5.0, T_B = 5.6, D_BURST = 1.5, T_TH = 7.1, T_OUT = 9.6,
+    D_OUT = 0.55, T_LOGO_IN = 10.0, D_DROP = 0.65, T_LAND = 10.55, D_GLITCH = 0.45, T_LOGO_OUT = 13.4, D_LOGO_OUT = 0.65,
+    END = 14.2, FPS = 30;
+
+// ======================= helpers =======================
+function clamp(x, a, b) { a = a === undefined ? 0 : a; b = b === undefined ? 1 : b; return Math.max(a, Math.min(b, x)); }
+function prog(t, t0, d) { return clamp((t - t0) / d); }
+function eio(u) { return u < .5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2; }
+function eout(u) { return 1 - Math.pow(1 - u, 3); }
+function ein(u) { return u * u * u; }
+function eback(u, s) { s = s || 1.6; u -= 1; return 1 + (s + 1) * u * u * u + s * u * u; }
+function hash(i) { var x = Math.sin(i * 12.9898 + 4.1) * 43758.5453; return x - Math.floor(x); }
+function rngf(seed) { var a = seed >>> 0; return function () { a = (a + 0x6D2B79F5) >>> 0; var t = a;
+  t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+function $(id) { return document.getElementById(id); }
+var RB = ['#f5a623', '#f5e642', '#7cba3d', '#4aa3d4'];
+var C64PAL = ['#000000','#ffffff','#883932','#67b6bd','#8b3f96','#55a049','#40318d','#bfce72',
+              '#8b5429','#574200','#b86962','#505050','#787878','#94e089','#7869c4','#9f9f9f'];
+
+// pixel-art SVG from a bitmap (chars -> colours)
+function pixSvg(rows, p, cmap) {
+  var NS = 'http://www.w3.org/2000/svg', s = document.createElementNS(NS, 'svg');
+  s.setAttribute('class', 'px'); s.setAttribute('width', rows[0].length * p); s.setAttribute('height', rows.length * p);
+  s.setAttribute('viewBox', '0 0 ' + rows[0].length + ' ' + rows.length);
+  rows.forEach(function (row, y) { for (var x = 0; x < row.length; x++) { var c = cmap[row[x]]; if (!c) continue;
+    var r = document.createElementNS(NS, 'rect'); r.setAttribute('x', x); r.setAttribute('y', y);
+    r.setAttribute('width', 1); r.setAttribute('height', 1); r.setAttribute('fill', c); s.appendChild(r); } });
+  return s;
+}
+var HEART = ['.###...###.', '#####.#####', '###########', '###########', '###########',
+             '.#########.', '..#######..', '...#####...', '....###....', '.....#.....'];
+var COIN = ['...oooo...', '.ooyyyyoo.', '.oyyddyyo.', 'oyyddddyyo', 'oyydyyyyyo', 'oyyddddyyo',
+            'oyyyyydyyo', 'oyyddddyyo', '.oyyddyyo.', '.ooyyyyoo.', '...oooo...'];
+
+// ======================= fill text (textContent only) =======================
+var cardEl = $('card'), headEl = $('headline'), banEl = $('banner'), pillEl = $('pill'), nameEl = $('name');
+var avatarEl = $('avatar'), labelEl = $('label'), readyEl = $('ready'), fieldEl = $('field');
+nameEl.textContent = NAME;
+var initial = (Array.from(NAME).filter(function (ch) { return /[0-9A-Za-z\u00c0-\u024f]/.test(ch); })[0] || '');
+if (HAS_NAME && initial) {
+  $('avatarLetter').textContent = initial.toUpperCase();
+  var cols = ['#f5a623', '#7cba3d', '#4aa3d4', '#0000f0', '#c62828'], hsum = 0;
+  Array.from(NAME).forEach(function (ch) { hsum = (hsum * 31 + ch.codePointAt(0)) >>> 0; });
+  avatarEl.style.background = cols[hsum % cols.length];
+} else {
+  $('avatarLetter').remove();
+  avatarEl.style.background = '#c62828';
+  var hs = pixSvg(HEART, 3, { '#': '#ffffff' }); hs.style.marginTop = '3px'; avatarEl.appendChild(hs);
+}
+var coinEl = null;
+if (AMOUNT) { $('pillText').textContent = AMOUNT; }
+else { $('pillText').remove(); pillEl.style.padding = '0 15px';
+       coinEl = pixSvg(COIN, 3, { o: '#2a2a2a', y: '#f5e642', d: '#f5a623' }); pillEl.appendChild(coinEl); }
+
+// message -> up to 2 lines of 40 cells (word wrap; hard wrap if words don't fit)
+var COLS = 40;
+function wrap(s) {
+  var words = s.split(' '), lines = [''], ok = true;
+  words.forEach(function (w) { var cur = lines[lines.length - 1];
+    if (!cur.length) lines[lines.length - 1] = w;
+    else if (Array.from(cur).length + 1 + Array.from(w).length <= COLS) lines[lines.length - 1] = cur + ' ' + w;
+    else lines.push(w); });
+  lines.forEach(function (l) { if (Array.from(l).length > COLS) ok = false; });
+  if (ok && lines.length <= 2) return lines;
+  var a = Array.from(s); return [a.slice(0, COLS).join(''), a.slice(COLS, 2 * COLS).join('').trim()].filter(function (l) { return l.length; });
+}
+var LINES = wrap(MSG).map(function (l) { return Array.from(l); });
+var NCH = LINES.reduce(function (n, l) { return n + l.length; }, 0);
+var lineSpans = [$('line0').firstChild, $('line1').firstChild];
+var cursorEl = document.createElement('span'); cursorEl.id = 'cursor';
+// key times (C64 typing, deterministic jitter, always finished by T_TYPE_MAX)
+var KEYS = (function () {
+  var dt = clamp(3.2 / NCH, 0.055, 0.14), out = [], t = T_TYPE, flat = [].concat.apply([], LINES);
+  for (var i = 0; i < NCH; i++) { out.push(t); t += dt * (0.8 + 0.4 * hash(i)) + (flat[i] === ' ' ? 0.03 : 0); }
+  var last = out[out.length - 1]; if (last > T_TYPE_MAX) out = out.map(function (k) { return T_TYPE + (k - T_TYPE) * (T_TYPE_MAX - T_TYPE) / (last - T_TYPE); });
+  return out.map(function (k) { return Math.round(k * 1000) / 1000; });
+})();
+
+// ======================= fit checks =======================
+function fit() {
+  var maxW = 877 - 14 - pillEl.offsetWidth - 18 - 85, fs = 18;
+  nameEl.style.width = 'auto'; nameEl.style.fontSize = fs + 'px';
+  while (nameEl.scrollWidth > maxW && fs > 10) { fs--; nameEl.style.fontSize = fs + 'px'; nameEl.style.top = (35 + (18 - fs) / 2) + 'px'; }
+  nameEl.style.width = maxW + 'px';
+}
+
+// ======================= canvases =======================
+var fx = $('fx'), cx = fx.getContext('2d'), fc = $('fieldCanvas'), fcx = fc.getContext('2d');
+var LOGO = new Image(); LOGO.src = 'assets/logo-card.png';
+var LW = 300, LH = 228, LM = 112, LX = 1920 - 60 - LW, LY = 60;   // upper-right corner badge
+function mk(w, h) { var c = document.createElement('canvas'); c.width = w; c.height = h; return c; }
+var wc = mk(LW + 2 * LM, LH), wcx = wc.getContext('2d'), tr = mk(LW + 2 * LM, LH), tb = mk(LW + 2 * LM, LH);
+var r0 = rngf(1985), SPARKS = [];
+for (var i = 0; i < 48; i++) SPARKS.push({ a: r0() * Math.PI * 2, v: 165 + r0() * 255, s: [5, 7, 9, 11][Math.floor(r0() * 4)],
+  c: ['#f5a623', '#f5e642', '#7cba3d', '#4aa3d4', '#0000f0', '#c62828', '#ffffff'][Math.floor(r0() * 7)], plus: r0() < .45, tw: r0() * 6 });
+var BX = 1405, BY = 748;   // burst centre
+
+function drawField(t, fi) {
+  var W = 849, H = 110, O = 2, B = 11, load = (t >= T_LOAD0 && t < T_LOAD1), burst = (t >= T_B && t < T_B + D_BURST);
+  fcx.clearRect(0, 0, W, H);
+  fcx.fillStyle = '#2a2a2a'; fcx.fillRect(0, 0, W, H);
+  if (load || burst) {
+    var r = rngf(fi * 7 + 1), y = O;
+    while (y < H - O) { var h = 2 + Math.floor(r() * 8); fcx.fillStyle = C64PAL[1 + Math.floor(r() * 15)];
+      fcx.fillRect(O, y, W - 2 * O, Math.min(h, H - O - y)); y += h; }
+  } else { fcx.fillStyle = '#7869c4'; fcx.fillRect(O, O, W - 2 * O, H - 2 * O); }
+  fcx.fillStyle = '#40318d'; fcx.fillRect(B, B, W - 2 * B, H - 2 * B);
+  if (burst) {
+    var u = (t - T_B) / D_BURST, ih = H - 2 * B;
+    ['#67b6bd', '#bfce72', '#b86962'].forEach(function (col, k) {
+      var cyb = B + ((u * 1.8 + k * 0.33) % 1) * ih;
+      for (var j = -5; j <= 5; j++) { var yy = cyb + j * 1.5; if (yy < B || yy > B + ih - 1.5) continue;
+        fcx.globalAlpha = 1 - Math.abs(j) / 6; fcx.fillStyle = col; fcx.fillRect(B, yy, W - 2 * B, 1.5); }
+    });
+    fcx.globalAlpha = 1;
+  }
+}
+function drawSparks(t) {
+  var u = t - T_B; if (u < 0 || u > 1.3) return;
+  SPARKS.forEach(function (p) {
+    var r = p.v * eout(clamp(u / 1.1)) * 0.9, x = BX + Math.cos(p.a) * r * 1.15, y = BY + Math.sin(p.a) * r * 0.62 + 188 * u * u;
+    var a = clamp(1.4 - u / 0.95); if (a <= 0 || Math.floor((u + p.tw) * 14) % 3 === 0) return;
+    var s = p.s; cx.globalAlpha = a; cx.fillStyle = p.c;
+    if (p.plus) { cx.fillRect(x - s * 1.5, y - s / 2, s * 3, s); cx.fillRect(x - s / 2, y - s * 1.5, s, s * 3); }
+    else { cx.fillStyle = '#2a2a2a'; cx.fillRect(x - s, y - s, 2 * s, 2 * s); cx.fillStyle = p.c; cx.fillRect(x - s + 1.5, y - s + 1.5, 2 * s - 3, 2 * s - 3); }
+  });
+  cx.globalAlpha = 1;
+}
+
+function gauss(r) { var u = Math.max(1e-6, r()), v = r(); return Math.sqrt(-2 * Math.log(u)) * Math.cos(2 * Math.PI * v); }
+function tint(dst, col) { var d = dst.getContext('2d'); d.globalCompositeOperation = 'source-over'; d.clearRect(0, 0, dst.width, dst.height);
+  d.drawImage(wc, 0, 0); d.globalCompositeOperation = 'source-in'; d.fillStyle = col; d.fillRect(0, 0, dst.width, dst.height);
+  d.globalCompositeOperation = 'source-over'; }
+function backin(u, k) { return u * u * ((k + 1) * u - k); }
+function drawLogo(t, fi) {
+  if (t < T_LOGO_IN || t >= T_LOGO_OUT + D_LOGO_OUT || !LOGO.complete || !LOGO.naturalWidth) return;
+  var g = 0, alpha = 1, u, ly = LY;
+  if (t < T_LOGO_IN + D_DROP) { u = (t - T_LOGO_IN) / D_DROP; ly = -LH - 20 + (LY + LH + 20) * eback(u, 1.4); }
+  if (t >= T_LAND && t < T_LAND + D_GLITCH) { u = (t - T_LAND) / D_GLITCH; g = clamp(0.7 * (1 - eout(u)) + (fi % 4 === 0 ? .2 : 0)); }
+  if (t >= T_LOGO_OUT) { u = (t - T_LOGO_OUT) / D_LOGO_OUT; ly = LY - (LY + LH + 40) * backin(u, 1.4);
+    g = clamp(ein(u) * 1.1 + (fi % 3 === 0 ? .15 : 0)); alpha = 1 - clamp((u - 0.6) / 0.4); }
+  if (g <= 0) { cx.globalAlpha = alpha; cx.drawImage(LOGO, LX, ly); cx.globalAlpha = 1; return; }
+  var r = rngf(fi * 131 + 7), y = 0, W2 = LW + 2 * LM;
+  wcx.globalCompositeOperation = 'source-over'; wcx.clearRect(0, 0, W2, LH);
+  while (y < LH) { var bh = 3 + Math.floor(r() * 26);
+    if (r() < g * 0.5) { y += bh; continue; }
+    var dx = r() < 0.25 + 0.7 * g ? clamp(gauss(r) * g * 64, -LM + 1, LM - 1) : 0;
+    var hh = Math.min(bh, LH - y); wcx.drawImage(LOGO, 0, y, LW, hh, LM + dx, y, LW, hh); y += bh; }
+  if (g > 0.02) {
+    var bu = (t - T_LOGO_IN) / 1.4; wcx.globalCompositeOperation = 'source-atop';
+    RB.forEach(function (col, k) { var cyb = ((bu * 1.6 + k * 0.25) % 1) * LH;
+      var gr = wcx.createLinearGradient(0, cyb - 10.5, 0, cyb + 10.5); gr.addColorStop(0, 'rgba(0,0,0,0)'); gr.addColorStop(.5, col); gr.addColorStop(1, 'rgba(0,0,0,0)');
+      wcx.globalAlpha = g * 0.85; wcx.fillStyle = gr; wcx.fillRect(0, cyb - 10.5, W2, 21); });
+    wcx.globalAlpha = 0.65 * g; wcx.globalCompositeOperation = 'destination-out'; wcx.fillStyle = '#000';
+    for (var yy = 0; yy < LH; yy += 3) wcx.fillRect(0, yy, W2, 1.1);
+    wcx.globalAlpha = 1; wcx.globalCompositeOperation = 'source-over';
+  }
+  var s = Math.round(g * 9);
+  if (s) { tint(tr, '#ff1e3c'); tint(tb, '#1e78ff'); cx.globalAlpha = alpha * 0.75;
+    cx.drawImage(tr, LX - LM + s, ly); cx.drawImage(tb, LX - LM - s, ly); }
+  cx.globalAlpha = alpha; cx.drawImage(wc, LX - LM, ly); cx.globalAlpha = 1;
+}
+
+// ======================= frame =======================
+var lastCount = -1, live = false;
+function show(el, on) { el.style.visibility = on ? 'visible' : 'hidden'; }
+function render(t) {
+  var fi = Math.floor(t * FPS);
+  cx.clearRect(0, 0, 1920, 1080);
+  // card
+  var off = 225 + 64 + 40, yo = null;
+  if (t >= T_CARD && t < T_CARD + D_CARD) yo = off * (1 - eback(prog(t, T_CARD, D_CARD), 1.2));
+  else if (t >= T_CARD + D_CARD && t < T_OUT) yo = 0;
+  else if (t >= T_OUT && t < T_OUT + D_OUT) { var po = prog(t, T_OUT, D_OUT); yo = off * ein(po) * 1.05 - 30 * Math.sin(Math.PI * po); }
+  show(cardEl, yo !== null);
+  if (yo !== null) {
+    cardEl.style.transform = 'translateY(' + yo.toFixed(2) + 'px)';
+    var av = t < T_AV ? 0 : eback(prog(t, T_AV, 0.35), 1.8); avatarEl.style.transform = 'scale(' + av.toFixed(3) + ')';
+    var nr = (1 - eout(prog(t, T_NAME, 0.35))) * 100;
+    nameEl.style.clipPath = labelEl.style.clipPath = 'inset(0 ' + nr.toFixed(1) + '% 0 0)';
+    var ps = t < T_AMT ? 0 : eback(prog(t, T_AMT, 0.4), 2.0); pillEl.style.transform = 'scale(' + ps.toFixed(3) + ')';
+    if (coinEl) { var cu = t - T_AMT; coinEl.style.transform = (cu > 0 && cu < 1.0) ? 'scaleX(' + Math.abs(Math.cos(cu * Math.PI * 4)).toFixed(3) + ')' : 'none'; }
+    drawField(t, fi);
+    var burst = t >= T_B && t < T_B + D_BURST;
+    readyEl.style.opacity = t >= T_READY ? '1' : '0';
+    var n = 0; for (var k = 0; k < KEYS.length; k++) if (KEYS[k] <= t) n++;
+    var rem = n, active = 0;
+    for (var L = 0; L < 2; L++) { var line = LINES[L] || [], take = Math.min(rem, line.length); rem -= take;
+      lineSpans[L].textContent = line.slice(0, take).join(''); if (take > 0) active = L;
+      lineSpans[L].parentNode.style.color = burst ? '#ffffff' : '#7869c4'; }
+    if (n > 0 && n < NCH && LINES[active] && lineSpans[active].textContent.length === LINES[active].join('').length && active < LINES.length - 1) active++;
+    var lastKey = n ? KEYS[n - 1] : -9;
+    var curOn = t >= T_READY && !burst && (t - lastKey < 0.35 || Math.floor((t - T_READY) / 0.27) % 2 === 0);
+    if (cursorEl.parentNode !== lineSpans[active].parentNode) lineSpans[active].parentNode.appendChild(cursorEl);
+    cursorEl.style.opacity = curOn ? '1' : '0';
+    if (live && n > lastCount && lastCount >= 0) blip();
+    lastCount = n;
+  }
+  // SUPER CHAT! headline
+  var hu = t - T_B - 0.07, hv = hu >= 0 && t < T_OUT + 0.45;
+  show(headEl, hv);
+  if (hv) {
+    var sc = 0.25 + 0.75 * eback(clamp(hu / 0.38), 2.2); sc *= 1 + 0.025 * Math.sin(hu * 9) * Math.exp(-hu);
+    var ty = -70 * eio(prog(t, T_TH, 0.35)), op = 1;
+    if (t >= T_OUT) { var uo = eio(prog(t, T_OUT, 0.45)); sc *= 1 - uo * 0.9; ty += (82 - ty) * uo; op = 1 - ein(prog(t, T_OUT, 0.45)); }
+    headEl.style.transform = 'translateY(' + ty.toFixed(2) + 'px) scale(' + sc.toFixed(4) + ')'; headEl.style.opacity = op.toFixed(3);
+  }
+  // THANKS FOR THE SUPPORT! banner
+  var bv = t >= T_TH + 0.1 && t < T_OUT + 0.45; show(banEl, bv);
+  if (bv) {
+    var bx = eback(prog(t, T_TH + 0.1, 0.4), 1.6), byy = 0, bop = 1, bsc = 1;
+    if (t >= T_OUT) { var uo2 = eio(prog(t, T_OUT, 0.45)); bsc = 1 - uo2 * 0.9; byy = 67 * uo2; bop = 1 - ein(prog(t, T_OUT, 0.45)); }
+    banEl.style.transform = 'translateY(' + byy.toFixed(2) + 'px) scale(' + (bx * bsc).toFixed(4) + ',' + bsc.toFixed(4) + ')';
+    banEl.style.opacity = bop.toFixed(3);
+  }
+  drawSparks(t);
+  drawLogo(t, fi);
+}
+
+// ======================= audio (always fails silently) =======================
+var sfx = $('sfx'), audioOK = true, KEYPOOL = [];
+for (var q = 0; q < 4; q++) { var ka = document.createElement('audio'); ka.src = 'assets/key.mp3'; ka.preload = 'auto'; KEYPOOL.push(ka); }
+var kp = 0;
+function tryPlay(a) { try { a.currentTime = 0; var p = a.play(); if (p && p.catch) p.catch(function () { audioOK = false; }); } catch (e) { audioOK = false; } }
+function blip() { if (!audioOK) return; tryPlay(KEYPOOL[kp]); kp = (kp + 1) % KEYPOOL.length; }
+[sfx].concat(KEYPOOL).forEach(function (a) { a.addEventListener('error', function () {}, true); });
+
+// ======================= transport =======================
+var raf = 0, t0 = 0, loopTimer = 0;
+function hideAll() { live = false; [cardEl, headEl, banEl].forEach(function (e) { show(e, false); }); cx.clearRect(0, 0, 1920, 1080); }
+function tick(now) {
+  var t = (now - t0) / 1000;
+  if (t >= END) { raf = 0; hideAll(); return; }
+  render(t); raf = requestAnimationFrame(tick);
+}
+function play() {
+  if (raf) cancelAnimationFrame(raf);
+  clearTimeout(loopTimer);
+  lastCount = 0; live = true; audioOK = true; tryPlay(sfx);
+  t0 = performance.now(); render(0); raf = requestAnimationFrame(tick);
+  if (LOOP) loopTimer = setTimeout(play, Math.max(EVERY, END + 1) * 1000);
+}
+window.play = play;
+// testing hooks (no effect on normal playback)
+window.__seek = function (t) { if (raf) cancelAnimationFrame(raf); raf = 0; clearTimeout(loopTimer); live = false;
+  if (t < 0 || t >= END) hideAll(); else render(t); };
+window.__timeline = { end: END, keys: KEYS, lines: LINES.map(function (l) { return l.join(''); }), name: NAME, amount: AMOUNT, msg: MSG };
+
+hideAll();
+function timeout(ms) { return new Promise(function (r) { setTimeout(r, ms); }); }
+var assetsReady = Promise.race([timeout(2500), Promise.all([
+  document.fonts ? document.fonts.load("24px 'PS2P'").catch(function () {}) : 0,
+  document.fonts ? document.fonts.load("30px 'VT323'").catch(function () {}) : 0,
+  LOGO.decode ? LOGO.decode().catch(function () {}) : 0,
+  headEl.decode ? headEl.decode().catch(function () {}) : 0,
+  banEl.decode ? banEl.decode().catch(function () {}) : 0])]).then(function () { try { fit(); } catch (e) {} });
+window.__ready = assetsReady.then(function () { return true; });
+if (!PAUSED) Promise.all([assetsReady, timeout(DELAY)]).then(play);
+})();
+</script>
+</body>
+</html>
