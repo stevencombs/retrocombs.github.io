@@ -2,6 +2,7 @@
 layout: pages
 title: retroCombs Supporters (THE BEST IN THE WORLD!)
 permalink: supporters
+ads: false
 redirect_from:
   - /membership
 
@@ -31,7 +32,7 @@ retroCombs memberships are available through YouTube at levels to meet all budge
 
 Standard members (PET through Plus/4) get access to the Discord and all livestream links. Producers (C128 and MEGA≡65) get access to the Disk Mag and additional perks.
 
-*Last updated: October 17, 2026*
+*Last updated: October 18, 2026*
 
 <hr>
 
@@ -61,6 +62,7 @@ Table of Contents
 
 - Andy Petrie
 - Dan Webb
+- EddeSoto
 - JavaJ
 - RICHARD MURPHY
 - [retroKat](https://x.com/klcombs95)
@@ -71,6 +73,7 @@ Table of Contents
 ### <img class="rc-badge-sm" src="/images/badges/badge-pet.webp" alt="" width="44" height="44"> Commodore PET (Mono)
 
 - Dave 🦊
+- xlar54
 
 ### <img class="rc-badge-sm" src="/images/badges/badge-vic20.webp" alt="" width="44" height="44"> VIC-20 (Colors)
 
@@ -86,12 +89,14 @@ Table of Contents
 
 ### <img class="rc-badge-sm" src="/images/badges/badge-c64.webp" alt="" width="44" height="44"> Commodore 64 (Sprites)
 
-- 3vi1J
+- [3vi1J](https://eternaldusk.com/)
 - Coding with Culp
 - CommodoreSam
 - Daveyk021
 - Phillip Harms
 - Rainer K.
+- stuartguest141
+- TiwazM
 - Zombie Rabbit
 
 ### <img class="rc-badge-sm" src="/images/badges/badge-plus4.webp" alt="" width="44" height="44"> Plus/4 (Business)
