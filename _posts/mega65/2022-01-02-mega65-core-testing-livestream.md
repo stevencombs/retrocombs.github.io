@@ -11,7 +11,7 @@ category: mega65
 
 This page is the companion blog post to the live stream conducted on 2022-01-02. During that live stream, I install the latest .COR file on the MEGA65, look at the new and much speedier core (`.COR`) flasher, install the latest SD card files, download the latest .ROM, and review several sections of the onboarding SD card that will ship with the MEGA65.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 Before you read the rest of this post, look at my companion video below.
 
@@ -22,6 +22,8 @@ Before you read the rest of this post, look at my companion video below.
 Title: _The latest MEGA65 updates and a speedier .COR flasher!‌_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/G3sOKQOOiiA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -40,7 +42,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 6. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 7. [MEGA65 File Host](https://files.mega65.org)
 8. [MEGA65 Discord](http://www.mega65.org/chat)
-9. [Buy Me A Coffee Membership](https://www.buymeacoffee.com/retroCombs)
+9. [Leave a tip](https://paypal.me/stevencombs)
 
 ## Additional Thoughts
 
@@ -64,7 +66,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

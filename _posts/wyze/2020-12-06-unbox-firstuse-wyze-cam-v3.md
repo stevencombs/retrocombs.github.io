@@ -24,6 +24,8 @@ Watch the video below and then read on for my additional thoughts about the Wyze
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/LArZt2AKJK0" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Links Mentioned
 
 Below are the links (#ad) mentioned in the video:
@@ -32,7 +34,7 @@ Below are the links (#ad) mentioned in the video:
 2. [Wyze Band](https://amzn.to/3fo229k)
 3. [Wyze Smart Plug](https://amzn.to/2Y4W3ig)
 4. [Wyze Scale](https://amzn.to/31SsVMs)
-5. [Wyze Cam Outdoor](/gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html)
+5. [Wyze Cam Outdoor](/wyze-cam-outdoor)
 6. [ Open the Box](/mega65-1)
 
 ## Final Thoughts
@@ -47,7 +49,7 @@ My final thoughts are often a numbered list. Here's the list for the Wyze Cam V3
 6. I continue to be amazed at the price per performance of Wyze products and version 3 of the Wyze Cams lives up to the hype. I'd love to replace every version 2 in the home, but there are just too many!
 7. When will see a version 3 of the Wyze Pan and Scan? I have several of those waiting for replacement!
 
-That's all for now. I do update and timestamp posts as I receive questions. Check back later and make sure you add this site to your [RSS feeds](/rss).
+That's all for now. I do update and timestamp posts as I receive questions. Check back later and make sure you add this site to your [RSS feeds](/feed.xml).
 
 ## Have Questions?
 

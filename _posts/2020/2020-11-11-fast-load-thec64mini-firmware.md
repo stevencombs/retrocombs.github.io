@@ -33,6 +33,8 @@ In the video below, I demonstrate how to upgrade the firmware on THEC64mini and 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/05VWxCgaZBk" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Download THEVIC20/C64 Firmware 1.4.2
 
 As of 2021-01-20, the most recent firmware has been pulled down from the Retro Games website. Several viewers and readers have asked me if I could provide. I will post here until someone tells me I need to take it down. This is done as a public service to owners of THEC64, THEVIC20, and THEC64 mini until the 2020 Christmas release is online.

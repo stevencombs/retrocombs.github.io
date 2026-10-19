@@ -19,13 +19,15 @@ tags:
   - audacity
 ---
 
-On 2020-05-23, I began a new series of YouTube videos about the Commodore Plus/4. You can learn more about the first episode and the series [here](/retro/2020/05/23/retrocombs-plus4-part1-openbox.html). In preparation of that series, I created a video bumper; a short 14 second brand animation to introduce all retroCombs videos. In this post, I'm going to share my process. This post is not a step-by-step tutorial, but rather a description of the tools I used and the flow to put it all together. Let's take a look at the bumper first in the YouTube video below.
+On 2020-05-23, I began a new series of YouTube videos about the Commodore Plus/4. You can learn more about the first episode and the series [here](/plus4-1). In preparation of that series, I created a video bumper; a short 14 second brand animation to introduce all retroCombs videos. In this post, I'm going to share my process. This post is not a step-by-step tutorial, but rather a description of the tools I used and the flow to put it all together. Let's take a look at the bumper first in the YouTube video below.
 
 ## YouTube Video: _retroCombs Animated Video Bumper_
 
 As you watch the video below, see if you can identify which tools I used to create the bumper. I think my list, of all FREE apps, will surprise you.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/iVw_ZBVBk7g" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 Think you've identified the tools? Let's see if you were correct.
 
@@ -76,7 +78,7 @@ To record Commodore Plus/4 keystroke sounds, I broke out an [inexpensive handhel
 
 ![Audacity Screenshot](/images/posts/2020-06-02-bumper-video/audacity-edits.png)
 
-My bumper includes 8-bit sound effects. I found 8-bit sound effects in several YouTube videos. I've since figured out how to grab those directly from 8-bit devices using my [Cloner Alliance Box Pro](/gadgets/2020/04/21/firstuse-cloner-box-pro.html). I used an [online YouTube to MP3 converter](https://ytmp3.cc/en13/) to download the audio from these videos. From this large audio file, I used [Audacity](https://www.audacityteam.org/) to grab and create the snippets for the bumper. While Audacity was open, I loaded my keyboard audio and clipped the best take of the keystroke audio.
+My bumper includes 8-bit sound effects. I found 8-bit sound effects in several YouTube videos. I've since figured out how to grab those directly from 8-bit devices using my [Cloner Alliance Box Pro](/cloner-alliance-box-pro-first-use). I used an [online YouTube to MP3 converter](https://ytmp3.cc/en13/) to download the audio from these videos. From this large audio file, I used [Audacity](https://www.audacityteam.org/) to grab and create the snippets for the bumper. While Audacity was open, I loaded my keyboard audio and clipped the best take of the keystroke audio.
 
 With all the video and audio assets ready, it was time to compile the final animation.
 

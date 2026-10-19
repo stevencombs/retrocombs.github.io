@@ -7,9 +7,13 @@ email: 'retrocombs@icloud.com'
 comments: true
 categories:
   - arduino
+redirect_from:
+  - /linux/2014/01/05/Install-arduino-ide-on-peppermint-os.html
+  - /linux/arduino/2014/01/06/Install-arduino-ide-on-peppermint-os.html
+
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://2.bp.blogspot.com/-JWkcedZQv6k/Uss6UrZB9oI/AAAAAAABOg8/qhcYMT0zEXA/s1600/Loki+Blogs.jpg" align="right" width="250" />
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-JWkcedZQv6k/Uss6UrZB9oI/AAAAAAABOg8/qhcYMT0zEXA/s1600/Loki+Blogs.jpg" align="right" width="250" />
 
 Two things happened during the holiday break. Loki and I reacquired our fascination with the [Arduino][2] and I also upgraded the operating system on my old Acer Aspire One from Chrome OS to [Peppermint OS 4][3]. In an [earlier post][4], I shared how to install the Arduino software on a netbook with Ubuntu Netbook remix 9.04. I thought these earlier instructions would assist me with an install on Peppermint OS 4. That was not the case. Not even the first step was correct.
 
@@ -25,9 +29,9 @@ The Arduino Integrated Development Environment (IDE) requires Java. Peppermint O
 
 * Verify the install at:
 
-After you load the page in the default Peppermint OS 4 Chromimum browser, allow the Java plugin access to the page. You should then see a verification as shown in the image below.
+After you load the page in the default Peppermint OS 4 Chromium browser, allow the Java plugin access to the page. You should then see a verification as shown in the image below.
 
-<img src="http://3.bp.blogspot.com/-Cg55TDef-EA/Uss0X-_j9iI/AAAAAAABOf4/prFIjccMHPk/s1600/Java+Verification.png" width="100%" />
+<img src="https://3.bp.blogspot.com/-Cg55TDef-EA/Uss0X-_j9iI/AAAAAAABOf4/prFIjccMHPk/s1600/Java+Verification.png" width="100%" />
 
 Now that we have the Java dependency complete, let's install the Arduino IDE. This is VERY easy if you have ever installed software on a Linux box.
 
@@ -55,7 +59,7 @@ Let's try it out our new Arduino IDE install.
 
 * After a reboot, connect your Arduino to your Peppermint OS 4 enabled computer. My setup is shown in the image below.
 
-<img src="http://2.bp.blogspot.com/--gKVRu6X22s/Uss1auky3QI/AAAAAAABOgc/YOlkVzdaEVg/s1600/My+Setup.jpg" width="100%" />
+<img src="https://2.bp.blogspot.com/--gKVRu6X22s/Uss1auky3QI/AAAAAAABOgc/YOlkVzdaEVg/s1600/My+Setup.jpg" width="100%" />
 
 * Select the Arduino item in the Electronics menu to load the Arduino IDE.
 
@@ -69,7 +73,7 @@ NOTE: The latest version of the Arduino IDE for Linux automatically configures t
 
 * Click the Upload button as shown in the image below.
 
-<img src="http://3.bp.blogspot.com/-1FWWUJpA4Hw/Uss2MJwyIWI/AAAAAAABOgs/DQEwylyxnYs/s1600/Compile+and+Upload.png" width="100%" />
+<img src="https://3.bp.blogspot.com/-1FWWUJpA4Hw/Uss2MJwyIWI/AAAAAAABOgs/DQEwylyxnYs/s1600/Compile+and+Upload.png" width="100%" />
 
 The Arduino IDE will compile the program (check for errors and convert to machine code) and then upload the code to the Arduino. Once upload is complete, the Arduino will blink the on-board LED every second.
 
@@ -80,5 +84,5 @@ That's all there is to it. Linux use and acceptability has come a long way in th
 [2]: http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=arduino&amp;linkCode=ur2&amp;sprefix=Arduino%2Caps%2C236&amp;tag=stevenccom-20&amp;url=search-alias%3Delectronics
 [3]: http://peppermintos.com/
 [4]: http://www.docstechnotes.com/2009/07/install-arduino-on-ubuntu-netbook-remix.html
-[6]: http://1.bp.blogspot.com/-3E9xwqUMbKc/Uss1DrNCbJI/AAAAAAABOgM/-g4fXHU5t8o/s1600/Permission+Checker.png
-[7]: http://3.bp.blogspot.com/-iUODxxNkoxE/Uss1P2LlydI/AAAAAAABOgU/RAJd9mk8870/s1600/Authentication+Required.png
+[6]: https://1.bp.blogspot.com/-3E9xwqUMbKc/Uss1DrNCbJI/AAAAAAABOgM/-g4fXHU5t8o/s1600/Permission+Checker.png
+[7]: https://3.bp.blogspot.com/-iUODxxNkoxE/Uss1P2LlydI/AAAAAAABOgU/RAJd9mk8870/s1600/Authentication+Required.png

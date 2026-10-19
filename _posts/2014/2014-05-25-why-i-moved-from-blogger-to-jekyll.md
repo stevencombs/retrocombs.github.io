@@ -8,7 +8,7 @@ comments: true
 category: web
 ---
 
-[Blogger](www.blogger.com) was my blogging platform of choice for several years. Blogger was the host for my:
+[Blogger](https://www.blogger.com) was my blogging platform of choice for several years. Blogger was the host for my:
 - personal blog: [http://www.stevencombs.com](http://www.stevencombs.com)
 - tech blog: [http://www.docstechnotes.com](http://www.docstechnotes.com)
 - LEGO blog: [http://www.bricksinmypocket.org](http://www.bricksinmypocket.org)

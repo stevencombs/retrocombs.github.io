@@ -8,7 +8,7 @@ comments: true
 category: higher-education
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://1.bp.blogspot.com/-ijvM6gdoAEQ/UBLcgazaLFI/AAAAAAAA_TQ/LDWANWYI-Xk/s200/Professional+Development+Graphic.001.png" align="right" />Within the past year, our statewide community college system has hired five of fourteen new regional academic officers (RAOs) and we have another on the way in September. Given this large number of new RAOs, it was decided by the Provost’s office that they would conduct a _new RAO training session_. This session would occur at our Central Office location and be coordinated/planned by our Provost’s office.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://1.bp.blogspot.com/-ijvM6gdoAEQ/UBLcgazaLFI/AAAAAAAA_TQ/LDWANWYI-Xk/s200/Professional+Development+Graphic.001.png" align="right" />Within the past year, our statewide community college system has hired five of fourteen new regional academic officers (RAOs) and we have another on the way in September. Given this large number of new RAOs, it was decided by the Provost’s office that they would conduct a _new RAO training session_. This session would occur at our Central Office location and be coordinated/planned by our Provost’s office.
 
 I’ll be the first to admit, that I usually groan when I hear that someone is planning my professional development; however as it turns out, this session was probably the best professional development activity I have attended in my twenty years with the college and surely beats the sessions I’ve attended in the military. My thoughts were echoed by my four peers in a recent e-mail conversation, so it must be true.“Why,” you may ask? What was the secret sauce? Let me share my thoughts.
 
@@ -24,7 +24,7 @@ I’ll be the first to admit, that I usually groan when I hear that someone is p
 
 **Much food consumed.** Lunch/Dinner/Breakfast/Lunch were provided along with copious amounts of coffee, soda and water. It’s those little things that keep you refreshed. Food breaks along the way allowed the discussions to veer “off topic” and often get to the real issues. Our dinner at a local establishment allowed our social bonds to strengthen. Of course, I had to tack on an extra mile or two to my run afterwards.
 
-**Technology allowed.** While we were sensitive not to overstep our bounds by reading our e-mail/tweets/texts/etc, technology was not outlawed. Everyone understood that our jobs often require a quick checkin and answer back to our home campuses. All of us had our technology (mine was a new Nexus 7 tablet, but that’s another blog post) on the table and there were often discussions where that technology came in handy to research trends, policy, curriculum and the like.
+**Technology allowed.** While we were sensitive not to overstep our bounds by reading our e-mail/tweets/texts/etc, technology was not outlawed. Everyone understood that our jobs often require a quick check-in and answer back to our home campuses. All of us had our technology (mine was a new Nexus 7 tablet, but that’s another blog post) on the table and there were often discussions where that technology came in handy to research trends, policy, curriculum and the like.
 
 **Peer group created.** Sure I could call upon several of the other more experienced college academic officers for advice; however, now I have a core group of peers who probably have a better handle on my current challenges and as we mature in the position together, will better understand these challenges going forward.
 

@@ -26,6 +26,8 @@ In the video below, I unbox and install the Blackmagic Design ATEM Mini
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/yaPn33E3ABE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 None that aren't corrected in the video, EVENTUALLY!
@@ -54,7 +56,7 @@ There were five additional lurkers throughout the video. If you are reading this
 
 1. I normally livestream from my desk. The goal with the ATEM Mini is to use it at another location where I have two large white IKEA desks. There's more room and a cool brick wall in the background that will give me that cool YouTube look. Stay tuned for the new location.
 2. In retrospect, I should have spent an extra $100 on the [Blackmagic Design ATEM Mini Pro](https://amzn.to/3avLFG5). With this device, I could livestream without a computer and get additional information on the love monitor. I could send back the ATEM Mini; however, I could see myself with two of these, the ATEM mini on my desk for Zoom meetings and the Pro for livestreams and recording. 
-3. The [Blackmagic Design ATEM Mini Pro ISO](https://amzn.to/3oPdIJk) is more functional and records each video source individually on a USB hard drive. This is the version on my wish list and I've started a new [BuyMeACoffee](https://www.buymeacoffee.com/retroCombs) goal. When I reach $1000, I'm adding the ISO to my studio. If you want to help, visit the page. During this video I made the commitment to add Super Chats/Stickers/Thanks donations to this goal.
+3. The [Blackmagic Design ATEM Mini Pro ISO](https://amzn.to/3oPdIJk) is more functional and records each video source individually on a USB hard drive. This is the version on my wish list. If you want to help me add the ISO to the studio, [leave a tip](https://paypal.me/stevencombs). During this video I made the commitment to add Super Chats/Stickers/Thanks donations toward that gear.
 4. Using the ATEM Mini without software is simple and after a few presses of the buttons you can figure out the features; or if like me, you have someone like Mark in the chat room coaching you.
 5. The ATEM Mini software has a steep learning curve. I was surprised it wasn't immediately apparent how to do things; however, I should have guessed. Blackmagic Design is a professional video manufacturer that uses professional terminology. You must learn this terminology to understand their products. As a user of DaVinci Resolve, I should know this. After research, it appears I need to become familiar with macros if I want to use the advanced features.
 6. I need to update the firmware. This is a manual process within the ATEM software. There is no notification (that I've seen). The upgrade will add new features and correct bugs. Blackmagic has an excellent reputation for correcting and adding features to their software and hardware and this will require me to check for firmware updates.
@@ -65,7 +67,7 @@ That's all for this post; however, if I find other ATEM Mini nuggets in the next
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

@@ -33,9 +33,9 @@ The problem was I didn't know where to put it. I tried several locations and rec
 10. Click the Save template button at the top of the page.
 11. If no errors, open another tab in your browser and view a blog post.
 
-If you do receive an error, immediately undo (`⌘+Z`) and once again save your template. Try again in another location. Don't worry if things go awry. You have a backup of your template in a text file. You did preform steps 4 and 5? Simply replace the botched up template with your pristine copy.
+If you do receive an error, immediately undo (`⌘+Z`) and once again save your template. Try again in another location. Don't worry if things go awry. You have a backup of your template in a text file. You did perform steps 4 and 5? Simply replace the botched up template with your pristine copy.
 
-<a href="http://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" /><img border="0" src="http://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" width="100%" /></a>
+<a href="https://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" /><img border="0" src="https://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png" width="100%" /></a>
 Click image for larger view.
 
 I wish I could be a more specific as to the location of the code snippet, but each custom template is different. Hope this helps someone. If it does, drop a comment below.

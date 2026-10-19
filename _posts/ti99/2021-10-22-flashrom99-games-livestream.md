@@ -15,7 +15,7 @@ tags:
 
 After receiving and then creating a [video/blog post](/flashrom99) about the FlashROM99 from [The Brewing Academy](https://thebrewingacademy.com), I went online to show how to play games from the device and experience, for the first time, these Texas Instruments TI-99/4A versions of popular 1980s video games.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 Before you read the rest of this post, look at my companion video below and then continue reading to learn more about the FlashROM99 and watch me reminisce with video games from the 1980s.
 
@@ -24,6 +24,8 @@ Before you read the rest of this post, look at my companion video below and then
 In the video below, I play several 1980s video games using a Texas Instruments TI-99/4A FlashROM99.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/jOO4n3F5MJQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -76,11 +78,11 @@ If you want to jump to your favorite **game(s)**, below are the time codes which
    - https://twitter.com/KrlezaMislav - A tremendous shout out for sending a Super Chat during the livestream. One of my biggest supporters and "virtual" friends. Thanks for continuing to support the channel and for being a part of the community.
    - [Jamie](https://twitter.com/slofunk) - From the [Jamie's Hack Shack YT channel](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg), and neighbor, mentioned his [Extralife4kids](https://www.extra-life.org) November 6th, 2021 event. If you'd like to sponsor and support the Children's Hospital in Louisville, KY, use this link, <https://www.extra-life.org/index.cfm?fuseaction=donorDrive.participant&participantID=458561>. As the father of a child who has spent many hours in this hospital, I can vouch that they will put the funds to good use.
 
-4. I used the [Blackmagic ATEM Mini](https://amzn.to/3iN4r0p) for the first time during this livestream. I have much to learn about this powerful switching device and there's a bunch of features packed in, via the Mac application, that I've yet to explore. I made a mistake and should have purchased the [ATEM Mini Pro](https://amzn.to/3avLFG5) for $100 more or the [Pro ISO](https://amzn.to/3oPdIJk) for $400 more. Each includes streaming directly from the box and recording. I've listed the ISO as a Buy Me A Coffee goal. If I reach $1000, I'll upgrade. If you want to help reach that goal, click the Buy Me A Coffee icon on the lower-right of this page.
+4. I used the [Blackmagic ATEM Mini](https://amzn.to/3iN4r0p) for the first time during this livestream. I have much to learn about this powerful switching device and there's a bunch of features packed in, via the Mac application, that I've yet to explore. I made a mistake and should have purchased the [ATEM Mini Pro](https://amzn.to/3avLFG5) for $100 more or the [Pro ISO](https://amzn.to/3oPdIJk) for $400 more. Each includes streaming directly from the box and recording. If you want to help me upgrade, [leave a tip](https://paypal.me/stevencombs).
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to mßy [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

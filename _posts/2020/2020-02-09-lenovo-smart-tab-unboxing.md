@@ -17,7 +17,7 @@ tags:
   - assistant
 ---
 
-It's time. Time to leave the iOS tablet ecosystem. I've used an iPad for the entire 10 years of the device's life and have moved from an original iPad to a 9.7 inch iPad Pro. I've not used an iOS phone for over five years and want a tablet that uses either Android or Chrome OS to make the useage of phone and tablet consistent.
+It's time. Time to leave the iOS tablet ecosystem. I've used an iPad for the entire 10 years of the device's life and have moved from an original iPad to a 9.7 inch iPad Pro. I've not used an iOS phone for over five years and want a tablet that uses either Android or Chrome OS to make the usage of phone and tablet consistent.
 
 [![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
 
@@ -46,6 +46,8 @@ This post is not a review of the Lenovo Smart Tab with Google Assistant, that wi
   <p><iframe src="https://www.youtube.com/embed/Hu-KtK3lYzA" frameborder="0" allowfullscreen
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 The unboxing was a good experience and includes a few surprises. It wasn't the same premium unboxing experience you get with an Apple product but it was adequate and I didn't pay extra for a package experience. Before the video ends, I do turn on the device. Let me know your thoughts on the device in the comments below and whether this video helped anyone.
 

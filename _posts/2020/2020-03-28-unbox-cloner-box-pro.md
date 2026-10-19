@@ -13,6 +13,9 @@ tags:
   - hdmi
   - recorder
   - obsstudio
+redirect_from:
+  - /gadgets/2020/03/28/unbox-cloner-box-pro.html
+
 ---
 
 Time to open the box on a [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd); a device that promises to be the one device to capture them all (video that is). This post is not a full review, just a few thoughts and a short eight-minute YouTube video to show what's inside the box and talk about how I plan to use the device.
@@ -22,6 +25,8 @@ Time to open the box on a [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOC
 <div style="position:relative;padding-top:56.25%;">
   <p><iframe src="https://www.youtube.com/embed/hUhrYNQCODY" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 Not only do I take the Cloner Alliance Box Pro out of it's box, I also look at the product's design, features, and included cables. I even call an HDMI cable a USB cable. What fun! And because that's not the only error I make in the video, be on the lookout for pop-up corrections!
 

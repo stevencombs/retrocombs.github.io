@@ -41,6 +41,8 @@ Watch the video below and then read on my additional thoughts below.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/Mdil8fmURjQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 1. {2021-08-30} In the video, I mention two concurrent Bluetooth connections. This is incorrect. I found when moving back to the phone; I had to reconnect.

@@ -15,7 +15,7 @@ tags:
 
 In this companion blog post to the edit of my Christmas Eve 2021 live stream, I celebrate the holiday and briefly lament about the MEGA65 delay; however, it becomes a great time as viewers share stories and I share previews of the recently released box art (suitable for cutting, which I do at the beginning of the video) and the onboarding SD card that will come with new MEGA65s. This edit includes new information and corrections.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 This post includes both the original live stream and the "director's cut" edit. Before you read the rest of this post, look at the companion videos below.
 
@@ -47,6 +47,8 @@ The video below is an edit of the full livestream (see second video) that includ
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/lFM3mJO1M30" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ### Full Live Stream
 
 The raw full meal deal for those who want to experience the Christmas Eve stream in its entirety:
@@ -68,7 +70,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 5. [GitHub - MEGA65/mega65-release-prep: Preparations for MEGA65 final release](https://github.com/MEGA65/mega65-release-prep)
 6. [Hyperkin Trooper Joystick](https://amzn.to/3yZkdw1)
 7. [Competition Pro Joystick](https://ebay.us/ETPFaq)
-8. [Install the MEGA65 on a Nexys4 or A7 FPGA \| Build your own MEGA65!](/mega65-nexys)
+8. [Install the MEGA65 on a Nexys4 or A7 FPGA \| Build your own MEGA65!](/mega65-nexys4)
 9. [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](/patch-c65-rom)
 
 ## Additional Thoughts
@@ -86,7 +88,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

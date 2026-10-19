@@ -10,7 +10,7 @@ categories: presentations higher-education apple
 
 Hot on the heels of my [_Apple TV: “Out of the Living Room and into the Classroom”_ presentation](/presentations/higher-education/apple/2013/01/14/Apple-TV-Out-of-the-Living-Room-and-into-the-Classroom.html), I have prepared another entitled, _Enhance Course Materials with iTunes U_. This presentation was held on January 10th, 2013 from 12:00 - 1:00PM in Poling Hall, Room 201 on the Ivy Tech Columbus campus.
 
-![](http://3.bp.blogspot.com/-DmCzV7LBG-k/UO35pceB4_I/AAAAAAABFog/GBBJDrZtvpA/s400/iTunes+U.png)
+![](https://3.bp.blogspot.com/-DmCzV7LBG-k/UO35pceB4_I/AAAAAAABFog/GBBJDrZtvpA/s400/iTunes+U.png)
 
 In this post, you will find my presentation outline that includes all the links (and a few more) shared during my 45 minute talk. As always, feel free to add comments or ask questions using the comments section at the bottom of this post.
 
@@ -63,7 +63,7 @@ Let’s take a look at some unique iTunes U content available for your course:
 * Does not include collaboration or assessment tools
 * iTunes U Course Manager demonstration
 
-![](http://4.bp.blogspot.com/-50PS6YdCD0Q/UO4RHIQ0O6I/AAAAAAABFpA/JiN-D_td6Bw/s400/iTunes+U+Course+Manager.png)
+![](https://4.bp.blogspot.com/-50PS6YdCD0Q/UO4RHIQ0O6I/AAAAAAABFpA/JiN-D_td6Bw/s400/iTunes+U+Course+Manager.png)
 
 ### iBooks Author
 
@@ -74,7 +74,7 @@ Let’s take a look at some unique iTunes U content available for your course:
 * Self publish!!!
 * iBooks OS X
 
-![](http://1.bp.blogspot.com/-euUasrKRgCY/UO4QUu-p20I/AAAAAAABFow/fnqhOHtrpq4/s400/iBooks+Author.png)
+![](https://1.bp.blogspot.com/-euUasrKRgCY/UO4QUu-p20I/AAAAAAABFow/fnqhOHtrpq4/s400/iBooks+Author.png)
 
 ### iTunes U iOS App
 
@@ -98,7 +98,7 @@ Let’s take a look at some unique iTunes U content available for your course:
    * Images
 * iTunes U iOS app demonstration
 
-![](http://1.bp.blogspot.com/--LYkiCxfaHA/UO4SqS0vIOI/AAAAAAABFpU/FKwecMw4xW0/s400/iTunes+U+iOS.JPG)
+![](https://1.bp.blogspot.com/--LYkiCxfaHA/UO4SqS0vIOI/AAAAAAABFpU/FKwecMw4xW0/s400/iTunes+U+iOS.JPG)
 
 ### iBooks iOS App
 
@@ -106,7 +106,7 @@ Let’s take a look at some unique iTunes U content available for your course:
 * Students use&nbsp;[iBooks](https://itunes.apple.com/us/app/ibooks/id364709193?mt=8)&nbsp;to view the course textbook on an iPhone or iPad
 * iBooks demonstration
 
-![](http://2.bp.blogspot.com/-QWx8snREerQ/UO4SqZwFZxI/AAAAAAABFpY/LzTLr0Nk-SM/s400/iBooks+iOS.JPG)
+![](https://2.bp.blogspot.com/-QWx8snREerQ/UO4SqZwFZxI/AAAAAAABFpY/LzTLr0Nk-SM/s400/iBooks+iOS.JPG)
 
 ### Conclusion
 

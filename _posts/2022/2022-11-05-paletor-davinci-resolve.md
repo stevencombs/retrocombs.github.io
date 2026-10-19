@@ -43,6 +43,8 @@ Title: _Supercharge DaVinci Resolve with Paletro for Mac OS_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/MKxTQpheBC4" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 Throughout the entire video I call Paletro, Paletor. Why? I have no idea and I didn't have the wherewithal to rerecord. Please accept my apologies for being lazy but I trust it won't distract from the value of this video.
@@ -119,7 +121,7 @@ If you find Paletro useful for your workflow, post a comment below. If you are i
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

@@ -27,9 +27,9 @@ As readers and viewers know, I've taken a look at several devices this past year
 
 This companion blog post will roughly outline the steps needed to turn the Raspberry Pi 400 into a Commodore VICE emulator extraordinaire! Since I use a [Manjaro Linux](https://manjaro.org/), the step-by-step might not be helpful for Mac and Windows users; however, a broad outline of the process should suffice for most reasonably tech savvy readers.
 
-**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**
+**If you find this blog post and/or video valuable, please consider [leaving a tip](https://paypal.me/stevencombs). It keeps the blog posts and video coming your way!**
 
-Below, I include a table of contents so you can jump around to various sections. If there's something missing that you need to complete your own project, drop comments below this post or in the [YouTube video](link).
+Below, I include a table of contents so you can jump around to various sections. If there's something missing that you need to complete your own project, drop comments below this post or in the [YouTube video](https://www.youtube.com/watch?v=P0EaHOGvtS0).
 
 __Table of Contents__
 
@@ -62,6 +62,8 @@ __Table of Contents__
 In the video below, I demonstrate the process to convert a Raspi 400 into a full functioning Commodore 8-bit computer emulator.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/P0EaHOGvtS0" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -106,9 +108,9 @@ While the default Commodore machine is the C64, VICE version 3.4 includes the fo
 - `xcbm5x0`, the CBM-II emulator (VIC-II models)
 - `xscpu64`, the SCPU64 emulator
 
-Within each of those emulators are more settings and models of each machine including, displays, memory expansions, kernals, VICs, drives, etc. The number of options can overwhelm; however, these options lead to some pretty sophisticated emulated hardware configurations that were beyond the pocketbooks of most users in the 1980s. With VICE you have access on your personal computer (Mac, Linux, and Windows) to about any Commodore computer operating system ever made. Since VICE is available on Linux, it's perfectly matched for the Raspberry Pi and especially the Raspberry Pi 400 with it's built-in keyboard.
+Within each of those emulators are more settings and models of each machine including, displays, memory expansions, kernals, VICs, drives, etc. The number of options can overwhelm; however, these options lead to some pretty sophisticated emulated hardware configurations that were beyond the pocketbooks of most users in the 1980s. With VICE you have access on your personal computer (Mac, Linux, and Windows) to about any Commodore computer operating system ever made. Since VICE is available on Linux, it's perfectly matched for the Raspberry Pi and especially the Raspberry Pi 400 with its built-in keyboard.
 
-~~Before you download Combian V3.0, you need to support the project.~~ {UPDATE: 2021-01-11} Support for all versions no longer require "project support," but I still recommend you "[tip](https://www.paypal.com/paypalme/combian64)" Carmelo (see [Final Thoughts](#final-thoughts) number 2). Versions prior to 3.0 are free to download but won't work with the Raspberry Pi 4 or 400. No specific amount is required; however, I recommend you tip Carmelo at least $10 to $20 to keep this amazing project alive.
+~~Before you download Combian V3.0, you need to support the project.~~ {UPDATE: 2021-01-11} Support for all versions no longer requires "project support," but I still recommend you "[tip](https://www.paypal.com/paypalme/combian64)" Carmelo (see [Final Thoughts](#final-thoughts) number 2). Versions prior to 3.0 are free to download but won't work with the Raspberry Pi 4 or 400. No specific amount is required; however, I recommend you tip Carmelo at least $10 to $20 to keep this amazing project alive.
 
 ## Extract Combian 64
 
@@ -139,7 +141,7 @@ Time to upgrade the Combian 64 distribution.
 5. Once the Raspberry Pi boots, load the *Terminal* and type the following commands:
 
    `sudo apt update` / A password prompt will appear. It is `raspberry`
-   `sudo apt dist-upgrade` / This will apply the updates and takes some time. Grab a coffee, or better yet, [buy me one too](https://www.buymeacoffee.com/retroCombs) so we can sip together!
+   `sudo apt dist-upgrade` / This will apply the updates and takes some time. Grab a coffee, or better yet, [leave a tip](https://paypal.me/stevencombs) so we can sip together!
 
 6. With the update complete, use the Raspian OS menu and shutdown the Raspberry Pi.
 7. Once the Raspberry Pi 4 lights shuts off, unplug the Raspberry Pi 4.
@@ -198,7 +200,7 @@ I've chosen to name this build the Combian pi/400. I like the name since it comb
 
 ![Combian pi/400 logo and plate](/combianpi400/combianpi400-logo-serial.png)
 
-I'm sure I'm unique in this regard; however, I do 90% of my design work in Google Slides for the [blog]() and the [YouTube](https://www.youtube.com/stevencombs) channel. Every graphic I use in this video I create and export from Google Slides. That will seem odd to many professional, and even amateur, graphic designers; however, I find [Google Slides](https://slides.google.com) provides me with just the tools I need while at the same time gives me free and anywhere access to my files and the tools to make modifications; on almost any PC or mobile device I own. I do wish slides included features like layers, Boolean geometry creations, and custom fonts; however, I now know how to work my way around these limitations for most of my projects.
+I'm sure I'm unique in this regard; however, I do 90% of my design work in Google Slides for the [blog](/blog) and the [YouTube](https://www.youtube.com/stevencombs) channel. Every graphic I use in this video I create and export from Google Slides. That will seem odd to many professional, and even amateur, graphic designers; however, I find [Google Slides](https://slides.google.com) provides me with just the tools I need while at the same time gives me free and anywhere access to my files and the tools to make modifications; on almost any PC or mobile device I own. I do wish slides included features like layers, Boolean geometry creations, and custom fonts; however, I now know how to work my way around these limitations for most of my projects.
 
 Another feature of Slides is the ability to share and collaborate; as is evidenced below where I share my original slides so you can see my design process and even copy the file to modify and use for your own project.
 
@@ -214,7 +216,7 @@ Cutting out the logo and serial number plate was the final step before applicati
 
 I'm thrilled with the results, as shown in the images below:
 
-![The Combain pi/400 logo on the Raspberry Pi 400](/combianpi400/logo.jpg)
+![The Combian pi/400 logo on the Raspberry Pi 400](/combianpi400/logo.jpg)
 
 ![The serial number plate  on the Raspberry Pi 400](/combianpi400/serial-plate.jpg)
 
@@ -242,11 +244,11 @@ I demonstrate playing this game in the video and am using THEC64 joystick. It re
 
 ## Join the Fun
 
-That's it for this post. You won't want to miss the fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs). Also make sure you subscribe to the [RSS feed](/rss). You won't want to miss future projects.
+That's it for this post. You won't want to miss the fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs). Also make sure you subscribe to the [RSS feed](/feed.xml). You won't want to miss future projects.
 
 I also update many posts regularly with new information. I'll time stamp those changes when I do so if you return, you know where the modifications are made.
 
-Help make this video better! Post feedback, questions, and ideas. Leave your comments and thoughts below or in the comments [under the YouTube video](link).
+Help make this video better! Post feedback, questions, and ideas. Leave your comments and thoughts below or in the comments [under the YouTube video](https://www.youtube.com/watch?v=P0EaHOGvtS0).
 
 Thanks for watching and if you are so inclined, please let other Commodore fans know about this video and blog post and share using #retroCombs.
 

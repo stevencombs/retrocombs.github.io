@@ -17,11 +17,14 @@ tags:
   - 8-bit
   - commodore
   - plus/4
+redirect_from:
+  - /gadgets/2020/04/21/firstuse-cloner-box-pro.html
+
 ---
 
-In a [previous blog post](/gadgets/2020/03/28/unbox-cloner-box-pro.html), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
+In a [previous blog post](/cloner-alliance-box-pro), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
 
-I knew the production of this video would push my DaVinci Resolve limits and because of COVID-19, I had time work on the project over the course of a couple of weeks. While preparing the video, I had another idea. Why not try and connect the Cloner Alliance Box Pro to a Commodore Plus/4. You can read more about that below.
+I knew the production of this video would push my DaVinci Resolve limits and because of COVID-19, I had time to work on the project over the course of a couple of weeks. While preparing the video, I had another idea. Why not try and connect the Cloner Alliance Box Pro to a Commodore Plus/4. You can read more about that below.
 
 > **NOTE:** This post and video should not be confused with a full review of the Cloner Alliance Box Pro. I only provide a first use and thoughts.
 
@@ -32,6 +35,8 @@ Below the video, I have additional thoughts on the device and plans for this vid
 <div style="position:relative;padding-top:56.25%;">
   <p><iframe src="https://www.youtube.com/embed/dyCbBL9jkvQ" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 In the video, I demonstrate my attempt to use the Cloner Alliance Box Pro in three scenarios. Below is a results rollup:
 

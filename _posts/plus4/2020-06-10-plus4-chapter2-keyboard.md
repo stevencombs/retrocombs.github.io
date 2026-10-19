@@ -24,7 +24,7 @@ In this Commodore Plus/4 retroCombs episode, I cover chapter 2 in the user's man
 
 In this blog post and the companions video, I run through each concept and present ways to uses these features. I even discover some "weirdness" with Commodore Basic. It's a packed episode that may take a couple of viewings to get through, but be sure you watch the entire episode if you want to see all the tips and quirks discovered.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 **Table of Contents**
 
@@ -76,6 +76,8 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 In the video below, I work through Chapter 2 of the user's manual. Along the way, I discover some keyboard tricks and discover some editing quirks.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/O2Mqi2iFFQI" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Links Mentioned in this Episode:
 
@@ -146,7 +148,7 @@ In this episode I describe and demonstrate each of the items below:
     * `⎋`, `X` = Cancel an Escape functions
 
 9. Special Keys: Per the manual, the keyboard contains special keys such as: `£`, `π`, `<`, `>`, `[`, `]`, `←`, and `↑`.
-10. Function Keys: Type the `KEY` command to display the fuctions of the keys as shown below:
+10. Function Keys: Type the `KEY` command to display the functions of the keys as shown below:
 
     ```
     KEY 1, "GRAPHIC" or built-in software

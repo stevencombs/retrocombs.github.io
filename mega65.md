@@ -48,6 +48,8 @@ View all of my [MEGA≡65 blog posts](/mega65-blog).
 
 View my [MEGA≡65 YouTube channel playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTomsrJnQdqFmoZUdT6qHocpo).
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## MY MEGA≡65 BASIC PROGRAMS
 
 Use the links below to view my MEGA≡65 BASIC programs:
@@ -103,7 +105,7 @@ Use the links below to view my MEGA≡65 BASIC programs:
 ## COMMUNITY
 
 - [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to the friendliest community of MEGA≡65 developers and users on Discord. Think 8-bit BBS level support without the communication delay.
-- [retroCombs Discord](https://www.buymeacoffee.com/retroCombs) - Support my channel to get access to my Discord and MEGA≡65 channel.
+- [Leave a tip](https://paypal.me/stevencombs) - If the MEGA≡65 posts are useful, a tip helps keep them coming.
 - [MEGA65 - Forum64](https://www.forum64.de/index.php?board/457-mega65/&l=2) - Old school forum for MEGA≡65 content.
 - [Keeping up with the MEGA≡65](https://m65digest.substack.com/p/keeping-up-with-the-mega65?showWelcome=true) - Dan’s MEGA≡65 newsletter. Subscribe vial email or RSS.
 - [MEGA65 on Reddit](https://www.reddit.com/r/mega65/) - The Reddit location for all things MEGA65.

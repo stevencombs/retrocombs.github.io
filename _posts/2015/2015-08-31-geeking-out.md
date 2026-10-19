@@ -21,7 +21,7 @@ Thanks to everyone for the verbal, email and social media comments. A special th
 
 Below is the article in print layout followed by the full text. Be sure to visit the original link to view additional images.
 
-# Print layout verson of article
+# Print layout version of article
 ![](https://lh3.googleusercontent.com/YeKg1PHfVTTrWSG_QcZP6hrCMXomAEBJCzXm64ZhH9ly=w882-h1622-no)
 ![](https://lh3.googleusercontent.com/WBfVQdJRzcTETKGAl67ZnHExJuQRYpNI_4uDA_MJ9RgS=w931-h867-no)
 

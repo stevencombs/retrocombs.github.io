@@ -15,7 +15,7 @@ tags:
 
 Before I begin, I want to send out a huge thank you to [Gurce Isikyildiz](https://github.com/gurcei) for his assistance with these instructions. My first attempts to build these tools were unsuccessful. [I posted a comment](https://discord.com/channels/719326990221574164/805492126128930846/879839127154085959) on the MEGA65 Discord channel about my struggles. [Gurce responded](https://discord.com/channels/719326990221574164/805492126128930846/879853630746935327); however, after several Discord interactions, it became apparent, I needed help (on many levels but in this case; help with *Terminal* commands). The `mega65-tools` are meant to build on an Intel Mac, but not on a newer M1 Mac.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 Gurce sent me a Discord direct message with a Zoom link. I joined the Zoom meeting and was met by Gurce and his young daughter who was enjoying a tasty chocolate morsel! After a quick introduction, we began to troubleshoot. 10 minutes later, Gurce determined the `Makefile` changes necessary to build on the M1 Mac. I was off to the races. I'll share those M1 modifications in this post.
 
@@ -75,7 +75,7 @@ My instructions assume you have a free GitHub account. If not, follow the steps 
 
 ### Install Homebrew
 
-Mac OS X includes the *Terminal* application and a **nix* (short for Linix/Unix variant OSs) [BSD-based back-end](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/BSD/BSD.html); however, there are several standard **nix* tools missing. You can install these tools manually, but a better method uses [Homebrew](https://brew.sh/) to install and manage these packages. Luckily, Homebrew installation is a single command line as shown in the steps below:
+Mac OS X includes the *Terminal* application and a **nix* (short for Linux/Unix variant OSs) [BSD-based back-end](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/BSD/BSD.html); however, there are several standard **nix* tools missing. You can install these tools manually, but a better method uses [Homebrew](https://brew.sh/) to install and manage these packages. Luckily, Homebrew installation is a single command line as shown in the steps below:
 
 1. Load the *Terminal* app or preferably [iTerm](https://iterm2.com/index.html) which I've customized with my own cool C64 inspired theme as shown in the image below.
 

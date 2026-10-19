@@ -65,7 +65,7 @@ Finally, the models themselves make become wonderful gifts for the LEGO fan on y
 [4]:	http://amzn.to/2dyyHKt
 [5]:	/lego/2016/10/02/book-review-geeky-lego-crafts.html
 [6]:	http://www.chrismcveigh.com
-[7]:	http://www.chrismcveigh.com/cm/brick_sketches.html
+[7]:	https://www.chrismcveigh.com/cm/brick_sketches.html
 [8]:	http://www.chrismcveigh.com
 [9]:	http://amzn.to/2dyyHKt
 [10]:	https://powerpig.ecwid.com/#!/My-First-Computer-Byte-Edition-v3-0/p/56661865/category=15326690
@@ -74,7 +74,7 @@ Finally, the models themselves make become wonderful gifts for the LEGO fan on y
 [13]:	http://chrismcveigh.com/cm/blog.html
 [14]:	http://amzn.to/2dyyHKt
 
-[image-1]:	http://www.chrismcveigh.com/cm/welcome_files/shapeimage_1.png "An amazing Chris McVeigh office creation"
+[image-1]:	https://www.chrismcveigh.com/cm/welcome_files/shapeimage_1.png "An amazing Chris McVeigh office creation"
 [image-2]:	https://lh3.googleusercontent.com/a7dTq2Pvndw5p_P6jG2ToAnm2DF5vIVfi7FMJ8tu3-ekS2eSPmOhv35XRnmwtjNLPhoV27tiCXg=w1535-h1151-no
 [image-3]:	https://www.nostarch.com/images/LegoChristmas_14-15-new.jpg
 [image-4]:	https://www.nostarch.com/images/LegoChristmas_200-201-new.jpg

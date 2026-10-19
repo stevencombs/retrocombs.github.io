@@ -9,7 +9,7 @@ permalink: cbm-pet-upgrades
 category: pet
 ---
 
-Followers know during Vintage Computer Festival Midwest 2022, I got a new to me Commodore PET. I will not rehash that memory, but if you want to relive it, check out my [My Vintage Computer Festival Midwest 2022 Experience and Commodore PET Purchase](https://retrocombs.com/vcfmw-2022) post. In this post, I want to explore the question, should I (or you) upgrade a stock Commodore PET? Purist may answer, "No way, retroCombs" while modern enthusiasts might disagree. I intent to find out if the cost and additions are a good ROI.
+Followers know during Vintage Computer Festival Midwest 2022, I got a new to me Commodore PET. I will not rehash that memory, but if you want to relive it, check out my [My Vintage Computer Festival Midwest 2022 Experience and Commodore PET Purchase](https://retrocombs.com/vcfmw-2022) post. In this post, I want to explore the question, should I (or you) upgrade a stock Commodore PET? Purists may answer, "No way, retroCombs" while modern enthusiasts might disagree. I intend to find out if the cost and additions are a good ROI.
 
 ![Commodore PET Motherboard](/images/pet/pet-motherboard.jpg)
 
@@ -51,6 +51,8 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 Title: _I upgrade my Commodore PET 2001-8 using modern devices? But should you?_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/zGIs-yurPOA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -217,7 +219,7 @@ Stupid PET Tricks lets your PET "[do stupid (fun) tricks](https://www.bit-zeal.c
 - Dual joysticks (typical fire button hack where it equals up and down)
 - 3.5mm sound port
 - Wi-Fi optional module (up to 2400 bps)
-- *PET Term* Software module programed with Zimodem code)
+- *PET Term* Software module programmed with Zimodem code)
 - Powertap adapter to draw power for the Wi-Fi modem from the Datasette port
 
 That's a whole lot of tricks in this single device.

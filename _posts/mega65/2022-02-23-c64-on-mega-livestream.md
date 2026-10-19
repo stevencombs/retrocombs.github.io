@@ -38,9 +38,9 @@ This is the companion blog post for my 2022-02-23 live stream edit; _Part I: Pla
 
 ## Support the Blog and Channel
 
-You can now support me via Buy Me A Coffee page with a onetime activity or become a full member via my fun Commodore inspired membership levels. When you support the channel, you get additional content and fun extras. Check out [the membership levels](https://www.buymeacoffee.com/retroCombs) to learn more.
+If you enjoy the blog and channel, [leave a tip](https://paypal.me/stevencombs).
 
-Thank you to these members for supporting me at [the C128 level](https://www.buymeacoffee.com/retroCombs/membership); making them retroCombs producers:
+Thank you to these members for supporting me at the C128 level; making them retroCombs producers:
 
 - [Mislav Krleža](https://twitter.com/KrlezaMislav)
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
@@ -54,11 +54,11 @@ In the video below, I work through half of the C64 disk image included with the 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/eaYErOyKfww" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Watch the Entire Live Stream
 
-If this edit isn't enough and you want to [watch the entire livestream](https://www.buymeacoffee.com/retroCombs/e/57346), including additional content and another unboxing, you get it [here](https://www.buymeacoffee.com/retroCombs/e/57346). For less than a buck, you can support the channel and watch eat entire one hour version. It's fun to see what I have chopped out!
-
-[Become a member](https://www.buymeacoffee.com/retroCombs) using one of my fun Commodore inspired membership levels and you can watch this live stream for free, and without ads, along with other future live streams (either live or on demand afterward). [Check out my membership page](https://www.buymeacoffee.com/retroCombs) to learn how you can get this benefit along with many others, including access to the retroCombs Discord channel.
+The longer cut isn't posted here. If you enjoyed the edit, [leave a tip](https://paypal.me/stevencombs).
 
 ## Video Errata
 
@@ -86,7 +86,7 @@ Not shown in the edit of the live stream, during the full version I unbox a [USB
 
 ## B-Side Commodore C64 Demos and Games
 
-In the full version of the livestream, while loading the demos and games, I share tips and tricks to make the MEGA65 experience better. You can [view that video here](https://www.buymeacoffee.com/retroCombs/e/57346). Below is a list of the demos and games I share along with thoughts and links.
+In the full version of the livestream, while loading the demos and games, I share tips and tricks to make the MEGA65 experience better. That longer cut isn't posted here. If you enjoyed the edit, [leave a tip](https://paypal.me/stevencombs). Below is a list of the demos and games I share along with thoughts and links.
 
 **Trap Demo** - As we learned during the live stream, the [Trap demo](https://csdb.dk/release/?id=18000) recreates music from the 1970s [Jeff Wayne's Musical Version of: The War of the Worlds](https://amzn.to/36qCtnH). Scroll to 3:30 on the soundtrack to hear the original music. Sci Fi fans who have not heard this music should take a listen. I found it interesting and oh so cool. It’s a true rock opera for the Sci Fi fan!
 
@@ -116,7 +116,7 @@ The C64 disk image is a nice addition to the MEGA65. It is my understanding that
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

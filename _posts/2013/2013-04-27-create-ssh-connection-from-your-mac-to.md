@@ -12,6 +12,9 @@ tags:
   - ssh
   - headless
   - raspbian
+redirect_from:
+  - /raspberrypi/apple/linux/2013/04/27/create-ssh-connection-from-your-mac-to.html
+
 ---
 
 You finally receive that Raspberry Pi you've been waiting for only to find that you don't have an extra keyboard, mouse or monitor laying around. Yeah, you should have taken care of that prior to the purchase (or maybe you did and those items are on their way in a separate order), but does that mean you can't fiddle with your new Raspberry Pi? Of course not. While waiting on the other devices, you can have a ton of fun learning about the new device while at the same time, learning a bit about Linux and remote connections.
@@ -193,9 +196,9 @@ I think this may win the prize for my longest blog post, although my blog post [
 [6]: http://draft.blogger.com/blogger.g?blogID=2984947566836492313
 [7]: /apple/2009/05/27/create-bootable-usb-drive-osx
 [8]: http://alltheware.wordpress.com/2012/12/11/easiest-way-sd-card-setup/
-[9]: http://2.bp.blogspot.com/-yAAekyttYGI/UXwI8U3mArI/AAAAAAABIks/HzrEKBVm4pc/s400/Choose+Image.png
-[10]: http://1.bp.blogspot.com/-NyClIrY5-Vw/UXwI8OT85rI/AAAAAAABIkk/enIvVKcAXyk/s400/SD+Card+Connected.png
-[11]: http://1.bp.blogspot.com/-YscPa5uHDmc/UXwI8ID7qPI/AAAAAAABIko/Q7nJPpx3BKs/s400/Select+SD+Card.png
+[9]: https://2.bp.blogspot.com/-yAAekyttYGI/UXwI8U3mArI/AAAAAAABIks/HzrEKBVm4pc/s400/Choose+Image.png
+[10]: https://1.bp.blogspot.com/-NyClIrY5-Vw/UXwI8OT85rI/AAAAAAABIkk/enIvVKcAXyk/s400/SD+Card+Connected.png
+[11]: https://1.bp.blogspot.com/-YscPa5uHDmc/UXwI8ID7qPI/AAAAAAABIko/Q7nJPpx3BKs/s400/Select+SD+Card.png
 [12]: http://www.docstechnotes.com/2013/04/and-in-weve-got-yet-another-new-look.html
-[13]: http://1.bp.blogspot.com/-x4G34sHG9V0/UXwO1nDLF3I/AAAAAAABIlE/qKeh0Re-vP4/s400/Ports.jpg
-[14]: http://2.bp.blogspot.com/-CoNY1uPJOzA/UXwIJMfNZ8I/AAAAAAABIkc/3j1CK-q-7Z8/s400/Raspi-Config.png
+[13]: https://1.bp.blogspot.com/-x4G34sHG9V0/UXwO1nDLF3I/AAAAAAABIlE/qKeh0Re-vP4/s400/Ports.jpg
+[14]: https://2.bp.blogspot.com/-CoNY1uPJOzA/UXwIJMfNZ8I/AAAAAAABIkc/3j1CK-q-7Z8/s400/Raspi-Config.png

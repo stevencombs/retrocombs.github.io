@@ -15,7 +15,7 @@ tags:
 
 Out of nowhere, on a lazy Sunday afternoon, and while preparing for my [The FinalGROM 99 for the Texas Instruments TI-99/4A](/finalgrom99) video, I took my FinalGROM 99 experimentation online with a livestream to troubleshoot 32 Kb memory expansion module sidecar issues and play several Texas Instruments TI-99/4A games. This is the companion blog post for the edit which removes over 45 minutes.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 Before you read the rest of this post, watch the livestream below.
 
@@ -43,6 +43,8 @@ Title: _Texas Instruments TI-99/4A FinalGROM 99 Livestream Edit_
 In the video below, I ...
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/C-HizpDpqYI" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 Check out the time codes at the bottom of this post for the contents of this livestream edit.
 
@@ -143,7 +145,7 @@ Below are the time codes from the video that serve as an outline to content:
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

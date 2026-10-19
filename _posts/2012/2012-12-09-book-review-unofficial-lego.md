@@ -8,7 +8,7 @@ comments: true
 category: lego
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://3.bp.blogspot.com/-PmxKja42FPM/UMUCGXYfaQI/AAAAAAABExA/EMH2na1uhV8/s200/BimP+Book+Review+Graphic.png" align="right" width="250" />As most folks know, I am a huge fan of the first edition of Allan Bedford's wonderful The Unofficial LEGO Builder's Guide. Back when Nikki and I were still hosting the BimPCast, we had Allan join us to discuss his new book in BimPCast 24. Wanna listen to our discussion? Click [here][2].
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-PmxKja42FPM/UMUCGXYfaQI/AAAAAAABExA/EMH2na1uhV8/s200/BimP+Book+Review+Graphic.png" align="right" width="250" />As most folks know, I am a huge fan of the first edition of Allan Bedford's wonderful The Unofficial LEGO Builder's Guide. Back when Nikki and I were still hosting the BimPCast, we had Allan join us to discuss his new book in BimPCast 24. Wanna listen to our discussion? Click [here][2].
 
 Imagine my thrill when I learned Allan was in the process of updating the book to a second edition. Further imagine my thrill when No Starch press contacted me and asked if I would be interested in a review copy. "Of course!" I replied.
 
@@ -30,7 +30,7 @@ __Retail Cost:__ $24.95
 __Editorial Note:__ My review will focus on the changes from the first to the second edition. There are many other reviews online that review the text as if it is a first edition. I believe most of our readers will want to know whether they should upgrade to this new edition.
 
 ## In Full Color
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://4.bp.blogspot.com/-6srvFQEblxM/UMUC4PkMAGI/AAAAAAABExQ/y-fO5dFz-_g/s1600/Screen+Shot+2012-12-09+at+4.28.38+PM.png" align="right" />Let's begin our review with the major change that is immediately apparent when comparing to the first edition – the use of full color. There is even a banner in the upper right-hand of the title page to highlight this new change. One of the only suggestions I had for the first edition was to include color to make it easier to understand the models and techniques. I was very happy to see this occur in this new edition.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://4.bp.blogspot.com/-6srvFQEblxM/UMUC4PkMAGI/AAAAAAABExQ/y-fO5dFz-_g/s1600/Screen+Shot+2012-12-09+at+4.28.38+PM.png" align="right" />Let's begin our review with the major change that is immediately apparent when comparing to the first edition – the use of full color. There is even a banner in the upper right-hand of the title page to highlight this new change. One of the only suggestions I had for the first edition was to include color to make it easier to understand the models and techniques. I was very happy to see this occur in this new edition.
 
 The images aren't simply a reprint from the first edition, they are newly rendered images courtesy of Eric "Blakbird" Albrecht. The image updates are bright and colorful. The paper stock used is slick to ensure the images are crisp and clear. The image below provides a quick sample of a before and after page, or close approximation since the pagination is different for this new version. You will immediately notice how much easier the tube, in figure 3.5, is to visualize with color and the enhanced photo realistic rendering.
 
@@ -41,7 +41,7 @@ What makes these images even more amazing is that Eric created and rendered thes
 
 ## Another Obvious Visual Change
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://4.bp.blogspot.com/-xNCEBcOOXlA/UMUCP10ub1I/AAAAAAABExI/-KYjgvniO5A/s320/Book+Thickness+Comparison.png" align="right" />Another noticeable difference between the two versions is the thickness of the book and the number of pages. Both of which you would expect to be greater in a second edition; however, that is the complete opposite for this text. The second edition is thinner, lighter and has fewer pages. The first edition contains 319 pages and the second 221 pages.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://4.bp.blogspot.com/-xNCEBcOOXlA/UMUCP10ub1I/AAAAAAABExI/-KYjgvniO5A/s320/Book+Thickness+Comparison.png" align="right" />Another noticeable difference between the two versions is the thickness of the book and the number of pages. Both of which you would expect to be greater in a second edition; however, that is the complete opposite for this text. The second edition is thinner, lighter and has fewer pages. The first edition contains 319 pages and the second 221 pages.
 
 While the reader might immediately assume that 100 pages of content were removed (we will look at this in the next section below), the change in page count is also attributed to a more efficient layout, a change in paper stock thickness and the removal of excess words to make sentences more concise. Overall the book is easier to read and much more attractive.
 
@@ -73,6 +73,6 @@ You've done it again Allan. You've created the definitive book on the basics of 
 [2]: https://www.dropbox.com/s/pqhijt51enq0988/BimPCast_24_02_25_06_allan_bedford.mp3?dl=0
 [3]: https://amzn.to/2XlQoBQ
 [4]: https://amzn.to/2XqRe07
-[6]: http://1.bp.blogspot.com/-SNwSBpiesfg/UMUF9fVhucI/AAAAAAABExg/Ryix_vH6ZqQ/s640/BW-Color+Comparison.png
+[6]: https://1.bp.blogspot.com/-SNwSBpiesfg/UMUF9fVhucI/AAAAAAABExg/Ryix_vH6ZqQ/s640/BW-Color+Comparison.png
 [8]: https://amzn.to/2ZkPIOS
 [9]: https://amzn.to/2ZkQ9Zw

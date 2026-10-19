@@ -28,15 +28,13 @@ If you inject your own creativity, this MOC is adaptable to your computing envir
   <p><iframe src="https://www.youtube.com/embed/0PTE7P3JTGo" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 I’ve taken the time to prepare detailed instructions (see sample image below):
 
 ![Dock Instructions](instructions-sample.png)
 
-You can get your instructions on my Buy Me a Coffee page at:
-
-<https://www.buymeacoffee.com/retroCombs/e/51689>
-
-You can purchase the set outright, or if you become a retroCombs member (even at the $1 Commodore PET level), you can get it for free!
+The full instruction PDF isn't posted here. If the build is useful, [leave a tip](https://paypal.me/stevencombs).
 
 ## LEGO Dock FAQ
 
@@ -46,7 +44,7 @@ A: Not really. I put this together from my odds and ends bin. You might check cu
 
 **Q: What if I can't find a part I need in my stash?**
 
-A: I highly recommend [Bricklink](http://www.bricklink.com) where you can purchase single elements! The other alternative is to improvise. Look for other parts that serve the same purpose. That's the fun of LEGO. And you may just find that you version is better than mine! If you do, send me an [email](steven.combs@gmail.com) with a pic and share your idea.
+A: I highly recommend [Bricklink](http://www.bricklink.com) where you can purchase single elements! The other alternative is to improvise. Look for other parts that serve the same purpose. That's the fun of LEGO. And you may just find that you version is better than mine! If you do, send me an [email](mailto:steven.combs@gmail.com) with a pic and share your idea.
 
 ## Errata
 

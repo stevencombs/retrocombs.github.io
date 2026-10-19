@@ -9,7 +9,7 @@ categories:
   - arduino
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png" align="right" width="250" />In a previous post I demonstrated the [install of the Arduino IDE](/linux/2014/01/05/Install-arduino-ide-on-peppermint-os.html) on a [Peppermint OS 4](http://peppermintos.com/guide/software/) install. Today I want to take this a bit further and show you how to create an Arduino programming environment that knocks the socks of the original Arduino IDE.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png" align="right" width="250" />In a previous post I demonstrated the [install of the Arduino IDE](/arduino/2014/01/06/Install-arduino-ide-on-peppermint-os.html) on a [Peppermint OS 4](http://peppermintos.com/guide/software/) install. Today I want to take this a bit further and show you how to create an Arduino programming environment that knocks the socks of the original Arduino IDE.
 
 Before you begin, you must have Java and the official [Arduino IDE](http://arduino.cc/en/main/software) software installed on your Peppermint OS box. Directions are [here](http://goo.gl/RHa3f3). Once that process is complete, click the link below to learn how you can use Sublime Text 2 and a package known as [_Stino_](https://github.com/Robot-Will/Stino) to upgrade your Arduino programming environment.
 
@@ -51,7 +51,7 @@ Let’s verify our install of Sublime Text 2 and make sure things are operationa
 
 * Choose _Programming_ / _Sublime Text 2_ from the Peppermint OS start menu as shown in the image below. Sublime Text 2 will load.
 
-<img border="0" src="http://2.bp.blogspot.com/-dkileqzsEzw/UtGYmz_ssAI/AAAAAAABOkM/Rd8K5qC9CGw/s1600/Programming-SublimeText2_menu_item-2.png" height="388" width="640" />
+<img border="0" src="https://2.bp.blogspot.com/-dkileqzsEzw/UtGYmz_ssAI/AAAAAAABOkM/Rd8K5qC9CGw/s1600/Programming-SublimeText2_menu_item-2.png" height="388" width="640" />
 
 Those familiar with basic text editors will find Sublime Text 2 familiar. The lack of icons and buttons may confuse new users. Hang in there and trust me. Once we get those Arduino controls in there, it will all begin to make sense.
 
@@ -66,7 +66,7 @@ _Package Manager_ makes it easy to add other features to Sublime Text 2 as you b
 * Click [here](https://sublime.wbond.net/installation#st2) to visit the Sublime Text 2 Package Control installation page.
 * Highlight and copy the appropriate code that is similar to the code found in the image below. Make sure you grab the code for Sublime Text 2 and not Sublime Text 3. My link will present the code you need by default.
 
-<img border="0" src="http://1.bp.blogspot.com/-QWQoDR4lP1g/UtGYwg2OlgI/AAAAAAABOkU/x5hPH4DjRfQ/s1600/Install+Code.png" height="400" width="392" />
+<img border="0" src="https://1.bp.blogspot.com/-QWQoDR4lP1g/UtGYwg2OlgI/AAAAAAABOkU/x5hPH4DjRfQ/s1600/Install+Code.png" height="400" width="392" />
 
 * Activate the Sublime Text 2 console using `ctrl` + `
 * Paste the text copied from the web site into the console.
@@ -78,7 +78,7 @@ With the install of the _Package Manager_ in the previous section, this is now a
 
 * Activate the _Command Palette_ (shown in the image below) using `shift` + `command` + `p`.
 
-<img border="0" src="http://4.bp.blogspot.com/-lRdWogAr4lE/UtGY4xBX4-I/AAAAAAABOkc/Y3OlENWQ2jA/s1600/command+palette.png" height="360" width="640" />
+<img border="0" src="https://4.bp.blogspot.com/-lRdWogAr4lE/UtGY4xBX4-I/AAAAAAABOkc/Y3OlENWQ2jA/s1600/command+palette.png" height="360" width="640" />
 
 * Activate the _Command Palette_ using `shift` + `command` + `p`.
 
@@ -86,7 +86,7 @@ With the install of the _Package Manager_ in the previous section, this is now a
 
 * Hit `return`. The status bar at the bottom of the page will display an animated prompt while it updates the repository listing as shown in the image below.
 
-<img border="0" src="http://3.bp.blogspot.com/-52jL6TZLYJM/UtGZSMxJGII/AAAAAAABOkk/Ei09r2wAC-A/s1600/animated_status_bar.png" height="400" width="400" />
+<img border="0" src="https://3.bp.blogspot.com/-52jL6TZLYJM/UtGZSMxJGII/AAAAAAABOkk/Ei09r2wAC-A/s1600/animated_status_bar.png" height="400" width="400" />
 
 * An alphabetical list of packages appears.
 
@@ -98,7 +98,7 @@ With the install of the _Package Manager_ in the previous section, this is now a
 
 * An _Arduino_ menu item will appear on the right-hand side of the Sublime Text 2 main menu as shown in the image below.
 
-<img border="0" src="http://3.bp.blogspot.com/-7b_-lkOMmBM/UtGaTnhlLdI/AAAAAAABOkw/VYh0fa8hpbE/s1600/Stino_Arduino_Menu-2.png" height="374" width="640" />
+<img border="0" src="https://3.bp.blogspot.com/-7b_-lkOMmBM/UtGaTnhlLdI/AAAAAAABOkw/VYh0fa8hpbE/s1600/Stino_Arduino_Menu-2.png" height="374" width="640" />
 
 ## Configure and use the Stino Arduino package:
 
@@ -147,7 +147,7 @@ const int ledPin = 13;
 
 * You will have a blinky Arduino as shown in the image below.
 
-<img border="0" src="http://3.bp.blogspot.com/-93o7N_Cmtsw/UtGU0xseHMI/AAAAAAABOj4/QZnI8nAnE7A/s1600/Arduino_Blinky-9.jpg" height="298" width="400" />
+<img border="0" src="https://3.bp.blogspot.com/-93o7N_Cmtsw/UtGU0xseHMI/AAAAAAABOj4/QZnI8nAnE7A/s1600/Arduino_Blinky-9.jpg" height="298" width="400" />
 
 You are now ready to use the _Stino_ package to create an amazing new [physical computing](http://en.wikipedia.org/wiki/Physical_computing) project. And when you do, please share it in the comments below.
 

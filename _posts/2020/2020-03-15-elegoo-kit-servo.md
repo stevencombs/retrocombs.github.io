@@ -20,7 +20,7 @@ tags:
   - tutorial
 ---
 
-Expanding on my previous [OPEN THE BOX](/arduino/2020/01/11/elegoo-mega-starter-kit.html) and [LED and pushbutton Arduino](/arduino/2020/01/20/arduino-hello-world.html) projects, this post provides instructions to control a servo motor with and encoder on an ELEGOO Arduino Mega 2560; with a twist (pun intended)!
+Expanding on my previous [OPEN THE BOX](/elegoo-mega-starter) and [LED and pushbutton Arduino](/arduino-hello-world) projects, this post provides instructions to control a servo motor with and encoder on an ELEGOO Arduino Mega 2560; with a twist (pun intended)!
 
 This project will not only introduce the student, or new Arduino user, to micro servo control using a rotary encoder but also how to assemble a complete hardware and coding system using custom programming functions (subroutines).
 
@@ -41,6 +41,8 @@ Below is a step-by-step video I produced for this project.
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Bill of Materials (BOM)
 
 All equipment for this project, with Amazon links (#ad), is listed below:
@@ -50,7 +52,7 @@ All equipment for this project, with Amazon links (#ad), is listed below:
 1 - [Elegoo MEGA 2560](https://amzn.to/362vn2V): The MEGA is overkill, but is the device I recommend for students. The additional digital I/O ports provide the option to create more complex projects.
 
 1 - [USB Cable](https://amzn.to/2uX7xst): Used to upload code from the Arduino IDE and to provide power to the MEGA.
-/arduino/2020/01/11/elegoo-mega-starter-kit.html
+/elegoo-mega-starter
 
 1 - [Arduino IDE](https://www.arduino.cc/en/main/software): Use the link to the left and follow the instructions to download and install the IDE on your computer.
 

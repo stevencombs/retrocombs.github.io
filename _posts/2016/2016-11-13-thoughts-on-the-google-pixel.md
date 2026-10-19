@@ -68,7 +68,7 @@ The AMOLED screen on the PIXEL is gorgeous. Colors are crisp and bright and blac
 Other Android devices I use often feel laggy. The Pixel response is instantaneous. This is the best Android experience and satisfyingly like, well, an iPhone. Everything from waking the phone, via the fingerprint scanner, to firing up the camera for a picture is instantaneous. Reviewers suggest the iPhone 7 is faster and technically that may be the case; however, in my use case, I'm not sure it makes a bit of difference. The Pixel is "buttery smooth" and responsive when it matters.
 
 # Ports
-The Pixel has a USB-C port for charing and data sync. Like the iPhone lightning port, it doesn't matter which way you attach the adapter. Unlike the Apple lightning port, many devices use USB-C ports. Google includes two USB-C cables.
+The Pixel has a USB-C port for charging and data sync. Like the iPhone lightning port, it doesn't matter which way you attach the adapter. Unlike the Apple lightning port, many devices use USB-C ports. Google includes two USB-C cables.
 
 > My Apple MacBook uses USB-C to charge. I can use the same charger for both the MacBook and the Pixel – something I cannot  do with an iPhone. That just seems odd to me. In this way, my Pixel is more compatible with my Apple computer than an iPhone.
 
@@ -199,11 +199,11 @@ If you have any questions, find errors, or would like to leave a thought, please
 [21]:	http://amzn.to/2eX2r79
 [22]:	#ports
 [23]:	/android/2016/04/30/ios-user-talks-android.html#camera
-[24]:	http://photos.google.com'
+[24]:	https://photos.google.com
 [25]:	https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher&hl=en
 [26]:	https://play.google.com/store/apps/details?id=com.google.android.launcher&hl=en
 [27]:	#google-assistant
-[28]:	hangouts.google.com
+[28]:	https://hangouts.google.com
 [29]:	#pixel-launcher
 [30]:	https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=en
 [31]:	#camera

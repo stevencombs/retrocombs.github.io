@@ -47,7 +47,7 @@ Title: _Title_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/MpDe9VKCrdo" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -63,7 +63,7 @@ I use affiliate links. Thanks for your support of the blog and the YouTube chann
 • [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
 • [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 • [The NABU RetroNET](https://nabu.ca/)
-• [NABU Network](<https://www.nabunetwork.com/)
+• [NABU Network](https://www.nabunetwork.com/)
 • [NABU MAME Emulator](https://gtamp.com/nabu/)
 • [Monoprice MIDI Cable](https://amzn.to/3l7xKi9)
 • [DTech USB to RS422 RS485 Serial Port Converter Adapter Cable](https://amzn.to/3RCLpdk)
@@ -161,7 +161,7 @@ All in, you won't spend more than $150! That's a lot of retro-computing goodness
 ## Bonus: The Community
 There are many NABU owners in the growing community and you can check [out NABU serial numbers](https://www.nabunetwork.com/serial-number-tracker/usa/) to see if you know anyone. As followers know, I'm fond of the MEGA65 community. They are a generous bunch of folks with low drama. I'm new to the NABU community and can't yet vouch for its health. There's been some drama lately and I'm keeping my fingers crossed that all involve will figure it out. What I can tell you is that within that community, I've found helpful folks who have joined my livestream chats and made comments on my videos to help me solve problems. You can check out there comments on [my NABU YouTube playlist.](https://youtube.com/playlist?list=PLRVBh2hjFTon187Seay6ckuaAra5ZZPwq)
 
-If you want to interact with other NABU users, join the [NABU Discord Server](https://discord.com/invite/NgxTXvND2A) or support my channel and blog by becoming a member and then join my [NABU channel on my Discord](https://www.buymeacoffee.com/retroCombs/membership). That community will stay friendly and drama free. You'll also find friendly folks who want to help you in [RetroNET Chat](https://nabu.ca/software#:~:text=User%20Area%201-,retronet%20chat,-The%20%22on-line) or on [the NABU IRC](https://nabu.ca/software#:~:text=NABU%20Channel%20List-,IRC,IA%20NABU%20Channel%20List,-PINGTST.COM).
+If you want to interact with other NABU users, join the [NABU Discord Server](https://discord.com/invite/NgxTXvND2A). If you'd like to support the channel, [leave a tip](https://paypal.me/stevencombs). That community will stay friendly and drama free. You'll also find friendly folks who want to help you in [RetroNET Chat](https://nabu.ca/software#:~:text=User%20Area%201-,retronet%20chat,-The%20%22on-line) or on [the NABU IRC](https://nabu.ca/software#:~:text=NABU%20Channel%20List-,IRC,IA%20NABU%20Channel%20List,-PINGTST.COM).
 
 ## Join the Fun
 

@@ -15,7 +15,7 @@ tags:
 
 With the last regular Commodore Plus/4 User's Guide chapters complete, we now focus on the last half of the manual. You read that correctly. Chapters 1 through 8 take the first 100 pages, and the Plus/4 Encyclopedia occupies another 183 pages of the user's manual.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 Before the blog post, I must add a HUGE thanks to [Robin](https://twitter.com/8BitShowAndTell) over at [8-Bit Show and Tell](https://www.youtube.com/8BitShowAndTell). He was extremely gracious to collaborate with me. He's a rock star in the retro computing YouTube community and for someone like him to share screen time with me reinforces what a great guy he is. If you are coming over from his channel. WELCOME! I know my content won't live up to Robin's but I hope you will introduce yourself on the YouTube channel or in the comments below and let me know if you find something you like.
 
@@ -94,7 +94,7 @@ I use the following file name convention to make it easy to locate specific prog
 
 As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter. Use the link below to view the Encyclopedia:
 
-[Plus/4 Encylopedia](https://www.manualslib.com/manual/1030491/Commodore-Plus-4.html?page=122#manual)
+[Plus/4 Encyclopedia](https://www.manualslib.com/manual/1030491/Commodore-Plus-4.html?page=122#manual)
 
 For previous chapters, view the [Commodore Plus/4 Resource Page](/plus4)
 
@@ -106,6 +106,8 @@ In the video below, I share highlights of the Plus/4 Encyclopedia.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/zWa1s4q4I0s" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 [2022-01-29] In the error message section, I discuss the variables `DS` and `DS$`. While not explicitly stated in the manual, DS stands for disk status.
@@ -114,7 +116,7 @@ In the video below, I share highlights of the Plus/4 Encyclopedia.
 
 > BASIC abbreviations have no rules at least not in a way which many expects :). They are originally not even a designed/intended feature, it's just exploiting a quirk how the tokenizer work and actually was realized later (even by the authors of the ROM!) that they can be used and can be useful. In fact you can use any abbreviation which makes sense and means what you want (the problem when similar names have similar first characters). For example DI+shiftR can be written as DIR+shitE, etc etc.  It cannot be D+shiftI, but only because 'DIM' would match before DIRECTORY :) You can try, if you're not sure about an abbreviation, like writing a tiny BASIC program: 10 DI+shiftM then list it, so you can see what it will mean. This is also a problem, since these abbreviations are not consistent through different Commodore BASICs, as new keywords would match you don't expect from older BASICs. Like P+shiftO means POKE on C64 (V2 basic but also in V3.5) but it's POT on C128 (V7 BASIC), just because the tokenizer found match first with that. Surely you can try to use then PO+shiftK.
 
-[2022-01-30] [3vi1J](https://www.youtube.com/channel/UCuBoBVHYG1F5d2kuQTWsNdw) wanted to take a deeper dive in the `FRE(X)` function. Upon use of the `MONITOR` he found the following:
+[2022-01-30] [3vi1Jay](https://www.youtube.com/channel/UCuBoBVHYG1F5d2kuQTWsNdw) wanted to take a deeper dive in the `FRE(X)` function. Upon use of the `MONITOR` he found the following:
 
 > I took a peek at the memory map, and BASIC RAM is from $1000-$FD00, which would be 60672 bytes. 60669 is shown as free (Editor's note: at the start screen) because of the three zero bytes basic would contain by default for an empty program (one zero to show the first line is empty, and two zeros that point to the next line and are always zero for the last line).  You got a lower value because the graphics RAM isn't reserved until you executed the commands.  So, it's as I suspected - but it only lowers the available memory after you enter the GRAPHIC mode: <https://i.imgur.com/2fjdYtN.png>
 
@@ -138,7 +140,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 ## Introduction
 
-1. Channel memberships are now available! Check out [my Buy Me A Coffee page](https://www.buymeacoffee.com/retroCombs) and support the channel if you found value in the Plus/4 series.
+1. If you found value in the Plus/4 series, [leave a tip](https://paypal.me/stevencombs).
 2. Don't forget to [subscribe to the channel](https://www.youtube.com/stevencombs)!
 3. A .d81 disk image is available [here](/plus4#companion-disk-image).
 
@@ -247,7 +249,7 @@ The encyclopedia uses three function classifications: numeric, string, and other
 
 `DEC("FFFF")`: Returns the decimal value of a hexadecimal string. Here, the value is `65535`.
 
-`INSTR("RETROCOMBS","OCO")`: Returns the position in the first string of the text in the second sting. Here, the value is `5`.
+`INSTR("RETROCOMBS","OCO")`: Returns the position in the first string of the text in the second string. Here, the value is `5`.
 
 `JOY(N)`: Returns the position of either joystick 1 or 2 where `N` is the joystick number. Below is a sample program and additional information.
 
@@ -730,7 +732,7 @@ Thanks for reading and watching and if you are inclined, please let others know 
 
 <!-- 
 
-👍 Please take the time to like, subscribe, and support the channel using the links ↑. Find something useful that provided information or saved you time? Send a {❤THANKS}! You can now become a member, or support me, at ☕ BMAC (https://www.buymeacoffee.com/retroCombs).
+👍 Please take the time to like, subscribe, and support the channel using the links ↑. Find something useful that provided information or saved you time? Send a {❤THANKS}! If this series helped, leave a tip at https://paypal.me/stevencombs.
 
 Finally! The last part of my Commodore Plus/4 User's Guide series. In this episode, the Encyclopedia and Robin, from 8-Bit Show and Tell makes a cameo to help me out with the TEDMON.
 
@@ -784,7 +786,7 @@ Time Codes:
 44:59 RS-232 Interface
 46:51 Books for Commodore Products
 47:36 Conclusion
-48:59 Buy Me A Coffee
+48:59 Leave a Tip
 49:26 Watch More retroCombs
 
 -->

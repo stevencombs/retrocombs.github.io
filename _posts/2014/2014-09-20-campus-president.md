@@ -6,6 +6,9 @@ email: 'retrocombs@icloud.com'
 date: 2014-09-20 17:20
 categories: higher-education personal
 comments: yes
+redirect_from:
+  - /higher-education/2014/09/20/campus-president.html
+
 ---
 
 **SHARE LINK:** [http://bit.ly/combs-president](http://bit.ly/combs-president)

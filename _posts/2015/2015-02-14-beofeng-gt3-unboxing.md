@@ -6,6 +6,9 @@ email: 'retrocombs@icloud.com'
 date: 2015-02-14 15:44
 category: ham
 comments: yes
+redirect_from:
+  - /gadgets/2015/02/14/beofeng-gt3-unboxing.html
+
 ---
 I think (as time permits) I want to test and obtain my [Technician Class amateur radio license](http://www.arrl.org/getting-your-technician-license). To gauge my interest, I purchased the [Baofeng GT-3](http://goo.gl/dQRXj9) and the [Technician Class 2014-18 FCC Element 2 Radio License Preparation](http://goo.gl/W2vpV2) guide.
 

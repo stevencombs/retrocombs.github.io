@@ -16,7 +16,7 @@ tags:
 
 As a MEGA65 Dev Kit owner, I've created several posts to share what's coming when my favorite Commodore "what could have been" retro computer releases. I'm not going in depth about the MEGA65 in this post and companion video; instead, check out my new [MEGA65 page](/mega65). In this post, I will show you how to get started with the MEGA65, on your Apple Mac computer, while you wait for the hardware to arrive.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 To do this, I share how to install the *Xemu* emulator, *xmega65*. What's *Xemu*? Let's go right to the source:
 
@@ -56,6 +56,8 @@ The MEGA65 part of that description is where our interest lies today. Let's set 
 In the video below, I show how to install and use Xemu/xmega65 to emulate a MEGA65 on a Mac computer.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/8PbSxkYVD8I" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -412,7 +414,7 @@ The emulator is a work in progress and while you can use either an closed ROM or
 ## Join the Fun
 You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this series better! Post your feedback, questions, and ideas. Let's make this a community project. For now, leave your comments and thoughts below or in the comments [under the YouTube video](link).
+Help make this series better! Post your feedback, questions, and ideas. Let's make this a community project. For now, leave your comments and thoughts below or in the comments [under the YouTube video](https://www.youtube.com/watch?v=8PbSxkYVD8I).
 
 Thanks for watching and please let other Commodore fans know about my MEGA65 series of posts by sharing on social media using #retroCombs.
 

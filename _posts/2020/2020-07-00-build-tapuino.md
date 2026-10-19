@@ -37,6 +37,8 @@ In the video below, I breadboard and operate a Tapuino connected to a Commodore 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/1Dqbg1-s0m4" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Bill of Materials
 
 The list below includes everything you need and the most inexpensive way I've found to source the project. Many pieces you have to purchase in multiples. This was not a problem for someone like me who has several projects on the bench at a time, but if you want the cheapest way to a Tapuino, purchase a kit or an [assembled unit](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=tapuino&_sacat=0).
@@ -68,7 +70,7 @@ Makers or electronic hobbyist will have many of these items in stock (I did!). I
 
 The first step in my process was to use a regular breadboard to build the Tapuino using Sweetlilmre's original Fritzing file below:
 
-![Tapuino Fritzing Layout](http://2.bp.blogspot.com/-h7CGISvaymA/VQc9a61cijI/AAAAAAAAKpo/_zOHc1vSwYY/s1600/tapuino_bb-r2.png)
+![Tapuino Fritzing Layout](https://2.bp.blogspot.com/-h7CGISvaymA/VQc9a61cijI/AAAAAAAAKpo/_zOHc1vSwYY/s1600/tapuino_bb-r2.png)
 
 Afterward, I optimized the layout and part locations. There was little change since the original was efficient; however, I could locate updated Fritzing parts and took a different approach to labeling the cable connection. A Fritzing image of my layout is below.
 
@@ -91,7 +93,7 @@ One of the reason's I used a solderable breadboard was to provide a permanent pl
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

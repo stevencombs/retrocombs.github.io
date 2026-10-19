@@ -25,7 +25,9 @@ In the video below, Nikki shares her latest Amazon decor and DIY purchase. There
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/9AW0MPkZR9o" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and videos coming your way!**
+{% include member-cta.html channel="retrocombs" %}
+
+**If you find this blog post and/or video valuable, please consider [leaving a tip](https://paypal.me/stevencombs). It keeps the blog posts and videos coming your way!**
 
 ## Video Errata
 

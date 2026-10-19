@@ -6,6 +6,9 @@ email: 'retrocombs@icloud.com'
 date: 2015-01-04 12:38
 categories: chromeos
 comments: yes
+redirect_from:
+  - /chrome/arduino/2015/01/04/program-arduino-on-chromebook-using-chromeduino.html
+
 ---
 
 Recently I considered an installation of Linux on my Chromebook so I could do some light Arduino development. I asked the [Google+ Chromebook](https://plus.google.com/communities/105678482604512626671) community for some thoughts on the process. Imagine my surprise when Google+ user, [Jonathan Berry](https://plus.google.com/102627348548612901975), [replied to my post](https://plus.google.com/118020098182159765872/posts/VMtHGSDRtze) that [ChromeDuino](http://goo.gl/tyXCNI) was now available. Due to the ingenuity of the Chromebook community, I would not have to install Linux after all. I was happy about this as I really want a pure Chromebook experience.

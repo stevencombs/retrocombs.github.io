@@ -15,13 +15,15 @@ tags:
 
 In this FAST LOAD, I try to get the new mouSTer from Retrohax.net working with my MEGA65 Developer Kit. Watch the video below and then come back to this blog post to see if I was successful. Spoiler alert; at first the device did not work; however, I get this wonderful USB HID to DB9 connection device working, and it's not as hard as I imagined.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 ## YouTube Video: _FAST LOAD: Use the Retrohax.net mouSTer on the MEGA65_
 
 In the video below, I connect a mouSTer to a MEGA65 and see if it works.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/OdPSfqBS5S8" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Markers
 

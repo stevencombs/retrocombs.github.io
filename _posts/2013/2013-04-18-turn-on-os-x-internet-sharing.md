@@ -41,7 +41,7 @@ You should now have an Internet/network connection running through the Ethernet 
 
 See, that was easy and as you probably noticed while following along, you can reverse the flow and create your own Wi-Fi network, without a router, by sharing the Ethernet connection. Let me know if you find this useful.
 
-[1]: http://2.bp.blogspot.com/-O3qPf_BNyoY/UXBG4gVEGfI/AAAAAAABIXU/z2gq-Rbsd48/s1600/Ethernet.JPG
+[1]: https://2.bp.blogspot.com/-O3qPf_BNyoY/UXBG4gVEGfI/AAAAAAABIXU/z2gq-Rbsd48/s1600/Ethernet.JPG
 [2]: http://goo.gl/oyadc
-[3]: http://3.bp.blogspot.com/-ubUTlaCNNeI/UXBG4gxWgjI/AAAAAAABIXg/ssPoaTgrvfQ/s1600/System_Preferences_Window.png
-[4]: http://4.bp.blogspot.com/-EPI8v4IbxFk/UXBG4rbVBjI/AAAAAAABIXk/FJerLgyYM3s/s1600/Sharing+Window.png
+[3]: https://3.bp.blogspot.com/-ubUTlaCNNeI/UXBG4gxWgjI/AAAAAAABIXg/ssPoaTgrvfQ/s1600/System_Preferences_Window.png
+[4]: https://4.bp.blogspot.com/-EPI8v4IbxFk/UXBG4rbVBjI/AAAAAAABIXk/FJerLgyYM3s/s1600/Sharing+Window.png

@@ -58,9 +58,9 @@ There are positives to the delay. The initial shipment may be larger quantities 
 
 ## Support the Blog and Channel
 
-You can now support me via Buy Me A Coffee page with a one-time activity or become a full member via my fun Commodore inspired membership levels. When you support the channel you get additional content and fun extras. Check out [the membership levels](https://www.buymeacoffee.com/retroCombs) to learn more.
+If you enjoy the blog and channel, [leave a tip](https://paypal.me/stevencombs).
 
-Thank you to these members for supporting me at [the C128 level](https://www.buymeacoffee.com/retroCombs/membership); making them retroCombs producers:
+Thank you to these members for supporting me at the C128 level; making them retroCombs producers:
 
 - [Mislav Krleža](https://twitter.com/KrlezaMislav)
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
@@ -73,6 +73,8 @@ _
 In the video below, I share the 10 reasons the MEGA65 is better than my M1 MacBook Pro.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/l6mW_3iQ4mE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -171,13 +173,13 @@ The MEGA65 boots to a blue screen called the *Screen Editor*. At the top left of
 
 1. Immediate Mode - Test BASIC programming lines of code or make calculations.
 
-<!-- ☒ Imediate mode calculations -->
+<!-- ☒ Immediate mode calculations -->
 
 2. BASIC Programming - Use the enhanced MEGA65 BASIC version 10 programming language to create your own programs. It's the best BASIC of any Commodore computer and software can run BASIC at a blazing 40Mhz using the BASIC `FAST` command or slowed down using the `SPEED` command. MEGA65 BASIC includes enhanced editing features such as page scrolling with the `DIR W` command and search and replace via the `CHANGE` command.
 
 <!-- DIR W example -->
 <!-- ☒ retroCombs scroll at FAST SPEED -->
-<!-- ☒ CHANGE commend demo CHANGE "RETROCOMBS" TO "RC" -->
+<!-- ☒ CHANGE command demo CHANGE "RETROCOMBS" TO "RC" -->
 
 3. Text Mode - Use `EDIT ON` to activate text mode. When you do, the text on screen is no longer parsed by the BASIC interpreter and the `READY` prompt changes to `OK`. Use line numbers to organize the lines of text. To automate line numbering, use the `AUTO 10` command (or other increment number). Save the text to disk as a `.SEQ` file using the `DSAVE` command. To recall the file, use the `DLOAD` command. If you want view a text file on disk, use the `TYPE` command. You now have a Commodore text editor at your disposal. Use `EDIT OFF` to return to BASIC mode and the `READY` prompt.
 

@@ -17,9 +17,12 @@ tags:
   - led
   - elegoo
   - tutorial
+redirect_from:
+  - /arduino/2020/01/20/arduino-hello-world.html
+
 ---
 
-A project that brand-new Arduino users often complete is to connect an LED to the board and create a program to turn on the LED. This is the Arduino's equivilent of the programmer's ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" I wanted the first student project, for a [course I am teaching](https://bit.ly/sbc-design-thinking), to be similar but with a "logic programming" spin that intergrates more hardware and programming fundamentals.
+A project that brand-new Arduino users often complete is to connect an LED to the board and create a program to turn on the LED. This is the Arduino's equivalent of the programmer's ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" I wanted the first student project, for a [course I am teaching](https://bit.ly/sbc-design-thinking), to be similar but with a "logic programming" spin that integrates more hardware and programming fundamentals.
 
 I developed a simple project and one that has been replicated many times; however, this post and associated video will explain each step along the way to allows students to accelerate their understanding of physical computing.
 
@@ -41,6 +44,8 @@ Below is a step-by-step video I produced for this project.
   <p><iframe src="https://www.youtube.com/embed/FcK--sJlcJI" frameborder="0" allowfullscreen
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Bill of Materials (BOM)
 

@@ -3,24 +3,21 @@
 title: 'retroCombs'
 logo: '/images/design/retroCombs-logo.svg'
 description: 'Retro computing with a touch of modern and the home for all things, retroCombs (aka Steven Combs).'
-google_analytics: UA-1632774-9
 name: 'retroCombs'
 email: 'retrocombs@icloud.com'
 tagline: 'Combsing through the retro-minutia…'
-url: 'https://www.retrocombs.com'
+url: 'https://retrocombs.com'
+lang: en-US
 
-lsi: false
 comments: true
 highlighter: rouge
 markdown: kramdown
 
-themed:
- highlight_color: '#3498db'
- show_disclaimer: true
-
-tipue_search:
-  include:
-    pages: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 exclude:
   - LICENSE

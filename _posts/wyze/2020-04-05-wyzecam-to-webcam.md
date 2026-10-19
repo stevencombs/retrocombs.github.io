@@ -16,6 +16,9 @@ tags:
   - usb
   - camera
   - covid19
+redirect_from:
+  - /gadgets/2020/04/05/wyzecam-to-webcam.html
+
 ---
 
 On March 31, 2019 and during the height of COVID-19, the folks who make the popular [Wyze cam (#ad)](https://amzn.to/2R2sgn6) released a firmware update that allows you to convert their popular security camera into a webcam. This is a nice philanthropic move by the company and while there are likely to be critics who believe this move is only to sell more cameras, I choose to believe that Wyze is doing this to fill a need during this crisis and honestly, $25 for a webcam that can also be used as a security camera is one heckuva deal! And who doesn't need a good deal right now?
@@ -47,6 +50,8 @@ A YouTube video demonstrating/testing the firmware installation process that als
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/TOy8VQSQ_0Q" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 **2020-04-07 UPDATE:** below is the video showing the performance of the camera with new firmware on Chrome OS:
 

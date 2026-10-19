@@ -61,6 +61,8 @@ Title: _Run a MEGA65 on your Chromebook in a Linux Container_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/z65O6bxIkaY" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 2022-08-02:
@@ -334,7 +336,7 @@ Since the developer does not support Xemu on ChromeOS, you need to know about th
 
 4. If you are new to Commodore computer emulators, you may notice that several keys don't match their position on the ChromeOS keyboard and there are keyboard combinations that are unavailable. _Xmega65_ uses a positional keyboard configuration based on an extended PC keyboard layout. Unless you have an extended ChromeOS keyboard, you will find you can't enter certain symbols. Xemu can overcome this limitation by modifying a `keyboard.cfg` file. I'll continue to work on this file to create something that makes using the ChromeOS keyboard functional and enjoyable. If anyone else wants to get ahead of me on this project, let me know.
 
-I'll continue to research all these important quirks to make using the Xemu emulator, _xmega65, on Chrome OS easier, more productive, and fun. Make sure you [follow the blog]() and and [subscribe to the channel](https://www.youtube.com/stevencombs).
+I'll continue to research all these important quirks to make using the Xemu emulator, _xmega65, on Chrome OS easier, more productive, and fun. Make sure you [follow the blog](/blog) and and [subscribe to the channel](https://www.youtube.com/stevencombs).
 
 ## What's Next?
 
@@ -348,7 +350,7 @@ Earlier, I list three ways you can get started with the emulator; however, below
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

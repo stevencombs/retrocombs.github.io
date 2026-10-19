@@ -33,6 +33,8 @@ This post shares both a YouTube video that demonstrates my process as well as wr
   <p><iframe src="https://www.youtube.com/embed/i_-T8uYWwBs" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## The Problem
 
 Once I level the bed, I am going to test the surface by printing a key plunger for a [Commodore VIC-20 computer](/commodore/2017/07/26/commodore-v20-ebay-purchase.html). If you don't know what this is, it really doesn't matter with regard to leveling the print surface. If you do know what this is, greetings from a fellow retro-computing enthusiast.

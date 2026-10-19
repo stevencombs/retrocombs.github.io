@@ -21,9 +21,9 @@ tags:
   - editing
 ---
 
-In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore Plus/4 user's manual. In this chapter, _Getting Started_ I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I show you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
+In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore Plus/4 user's manual. In this chapter, _Getting Started_, I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I show you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 **Table of Contents**
 <!-- TOC -->
@@ -70,7 +70,7 @@ I use the following file name convention to make it easy to locate specific prog
 
 ## User's Manual
 
-As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 3:
+As part of my Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 manual. I've taken the time to scan each chapter so you can read and follow along. Use the link below to view chapter 4:
 
 [Chapter 4 - Getting Started](/plus4/users-manual/p4um-chapter-4.pdf)
 
@@ -86,6 +86,8 @@ Below are the links for previous chapters covered:
 In the video below, I work through Chapter 4 of the user's manual.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/4x1GdvPlaYc" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Links Mentioned in this Episode:
 

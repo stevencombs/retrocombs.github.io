@@ -11,13 +11,13 @@ As an amateur coder, I often dabble in multiple languages such as Ruby, C, Ardui
 
 To help jog my memory, I thought it would be beneficial for me to create a page that demonstrates the same program in multiple languages. This will serve as a primer to each language as well as a comparison. I will stick to modern languages and am likely to add more in the future. The list below contains the first languages I will work through.
 
-If you are looking for an app to try out various languages, might I suggest [CodeRunner](!mas). It’s available in the Mac app store and is my go to app when I want to try out a snippet of code.
+If you are looking for an app to try out various languages, might I suggest [CodeRunner](https://apps.apple.com/us/search?term=CodeRunner). It’s available in the Mac app store and is my go to app when I want to try out a snippet of code.
 <!-- End Blog Post -->
 
 <!-- Add introduction to page here from excerpts above -->
 
 # Preparation
-Many programmers create an outline of a program before they type a single line of code. This sometimes takes the form of either [pseudo code](!wiki) or a [flow chart](!wiki). I will present both, but before doing so, I will also provide a description of the program in paragraph form.
+Many programmers create an outline of a program before they type a single line of code. This sometimes takes the form of either [pseudo code](https://en.wikipedia.org/wiki/Special:Search?search=pseudo+code) or a [flow chart](https://en.wikipedia.org/wiki/Special:Search?search=flow+chart). I will present both, but before doing so, I will also provide a description of the program in paragraph form.
 
 Want to skip the background and go right to the languages? Click [here](#languages).
 
@@ -27,7 +27,7 @@ As I began to write the program in various languages, there are assumptions made
 * functions are a necessary programming skill
 * functions allow reuse of code chunks
 * there are many ways, in a single language, to solve this code project
-* my code will follow, as closely as a language allows, my psuedo code
+* my code will follow, as closely as a language allows, my pseudo code
 * my code will focus on the Mac OS where necessary
 
 ## Description
@@ -40,7 +40,7 @@ At each break interval, the requested URL will open in the default browser as a 
 ## Pseudo Code
 Pseudo code is a program outline that does not include any programming language specific code but is a plain english line-by-line description. Below is the pseudo code for the description above.
 
-> **TIP:** It is useful to copy the actual outline and paste it into the an [integrated development environment](!wiki) (IDE) or program editor. After the outline is pasted, I convert each line to a comment. A good IDE, such as [Atom](!g) or [Sublime Text 3](!s), will provide a tool to do this automatically. This process creates an outline for my work.
+> **TIP:** It is useful to copy the actual outline and paste it into the an [integrated development environment](https://en.wikipedia.org/wiki/Special:Search?search=integrated+development+environment) (IDE) or program editor. After the outline is pasted, I convert each line to a comment. A good IDE, such as [Atom](https://www.google.com/search?q=Atom) or [Sublime Text 3](https://www.google.com/search?btnI=1&q=Sublime+Text+3), will provide a tool to do this automatically. This process creates an outline for my work.
 
 add comments:
 
@@ -79,13 +79,13 @@ run loop program function
 run load URL function
 
 ## Flow Chart
-A [flow chart](iwiki) is a graphical representation of programming code and is often used during the planning process. Below is the flow chart for the program described above.
+A [flow chart](https://en.wikipedia.org/wiki/Special:Search?search=flow+chart) is a graphical representation of programming code and is often used during the planning process. Below is the flow chart for the program described above.
 
 *Coming soon…*
 
 # Languages
 
-There are numerous programming languages available. To reiterate, the purpose of this page is to demonstrate the use of code to do something beneficial; prompt you to take a break during the day. You will not want to learn each languague, but this quick guide might assist you in determining which languge you want to learn.
+There are numerous programming languages available. To reiterate, the purpose of this page is to demonstrate the use of code to do something beneficial; prompt you to take a break during the day. You will not want to learn each language, but this quick guide might assist you in determining which language you want to learn.
 
 Use the table below to quickly jump to a language example:
 

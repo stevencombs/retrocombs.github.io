@@ -59,9 +59,9 @@ While you might think advanced keyboard combinations started with the MEGA65, ma
 
 ## Support the Blog and Channel
 
-You can now support me via [my Buy Me A Coffee page](https://www.buymeacoffee.com/retroCombs/) with a onetime activity or become a full member via my fun Commodore inspired membership levels. When you support the channel, you get additional content and fun extras. Check out [the membership levels](https://www.buymeacoffee.com/retroCombs) to learn more.
+If you enjoy the blog and channel, [leave a tip](https://paypal.me/stevencombs).
 
-Thank you to these members for supporting me at [the C128 level](https://www.buymeacoffee.com/retroCombs/membership); making them retroCombs producers:
+Thank you to these members for supporting me at the C128 level; making them retroCombs producers:
 
 ### Executive Producers
 - Boba Fett
@@ -79,6 +79,8 @@ Title: _Master the MEGA65 Keyboard \| MEGA-sized retroCombs Edition_
 In the video below, I cover all aspects of the MEGA65 keyboard.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/Ylji1yc_VRQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -422,7 +424,7 @@ This content was a blast to prepare and I hope readers and watchers learn as muc
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

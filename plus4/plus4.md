@@ -18,6 +18,8 @@ tags:
 
 This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](/retro).
 
+{% include member-cta.html channel="retrocombs" %}
+
 ![retroCombs Plus/4](/plus4/images/retrocombs-plus4.png)
 
 ***
@@ -108,7 +110,7 @@ Below are links I've found to be most beneficial as I work through this series:
 
     * [Commodore Plus/4 Computer Wikipedia Entry](https://en.wikipedia.org/wiki/Commodore_Plus/4)
     * [Commodore Plus/4 Wiki](https://www.c64-wiki.com/wiki/Commodore_Plus/4)
-    * [My blog](/rss) (This site)
+    * [My blog](/blog) (This site)
     * [My Twitter feed](https://www.twitter.com/stevencombs)
     * [My YouTube channel](https://www.youtube.com/stevencombs)
 

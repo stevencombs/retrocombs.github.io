@@ -15,11 +15,14 @@ tags:
   - unboxing
   - vic20
   - 1980s
+redirect_from:
+  - /retro/2020/05/23/retrocombs-plus4-part1-openbox.html
+
 ---
 
 Today I unveil the first in a new theme of posts, **retroCombs**. This theme is devoted to my love of retro computing and gaming. I have a [couple of retro posts](/retro) on the blog, but now I have a [brand theme](https://youtu.be/iVw_ZBVBk7g) to tie them together. The first post to receive the brand is part one of a new series on the [Commodore Plus/4 computer](https://en.wikipedia.org/wiki/Commodore_Plus/4).
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 **Table of Contents**
 
@@ -66,6 +69,8 @@ The video below describes my background with Commodore computers, my intent for 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/_faxuAlFHII" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Key to Keys
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
@@ -96,7 +101,7 @@ I look forward to diving into the Commodore Plus/4. This 8-bit computer has elud
 
 One experiment I will conduct, is to use the Plus/4's keyboard and word processor to write a blog post. This will involve typing the post (in Markdown) on the Plus/4 and then finding a way to move the text to a modern PC. I'm open to ideas now if anyone has them!
 
-I hope readers and watchers enjoy the series. I may not post as regularly as I like, and I may use YouTube Live on a whim to capture live experiences, so make sure you subscribe to my [blog](/rss), [Twitter feed](https://www.twitter.com/stevencombs), and [YouTube channel](https://www.youtube.com/stevencombs) if you want the full experience.
+I hope readers and watchers enjoy the series. I may not post as regularly as I like, and I may use YouTube Live on a whim to capture live experiences, so make sure you subscribe to my [blog](/feed.xml), [Twitter feed](https://www.twitter.com/stevencombs), and [YouTube channel](https://www.youtube.com/stevencombs) if you want the full experience.
 
 I want this to be a collaborative project. If you are an experienced Plus/4 aficionado, please share your ideas, thoughts on the content, and where I might easily (and inexpensively) locate peripherals for this device. I'd even appreciate if you have spares lying around, sending them my way.
 

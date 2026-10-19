@@ -41,7 +41,7 @@ In each case, I list the normal price of the item. As is the case this time of y
 
 **[Soundfreaq Sound Kick][0386-029]**, $88 - I wasn’t sure I would include this one as I have the older SFQ-04 model and it is becoming hard to find; however, when I travel, I like to have a good bluetooth speaker to enhance the audio of movies and/or music on my Mac or iOS devices. I also use the Soundfreaq with the [White Noise][0386-030] iOS app to drown out sounds when sleeping in noisy hotels. The Soundfreaq Sound Kick has great sound for its size and lasts for about 6-8 hours on its rechargeable battery. It also includes a USB charging port which has been very handy.
 
-** {UPDATE: 2014-11-30}[Zagg Folio Case for iPad Air](0386-031)**, $60 - If you need a bluetooth keyboard for your iPad Air (or other models for that matter), I highly recommend the Zagg Folio line. The keyboard has a very nice feel, includes selectable multi-color backlit keys and has outstanding battery life. iPad removal is easy to facilitate using without a keyboard.
+** {UPDATE: 2014-11-30}[Zagg Folio Case for iPad Air][0386-031]**, $60 - If you need a bluetooth keyboard for your iPad Air (or other models for that matter), I highly recommend the Zagg Folio line. The keyboard has a very nice feel, includes selectable multi-color backlit keys and has outstanding battery life. iPad removal is easy to facilitate using without a keyboard.
 
 That’s my gadget list for 2014. There are many more devices I use; however, I choose to list those I thought the most interesting and made the best gift ideas. If I happen to think of something else, I’ll be sure to pop back in and add it. I’ll include an {Updated} label. Have a question about any of these gadgets? Drop a comment below. I’ll do my best to answer your question. I’m also curious what gadgets you used this past year, so list those in the comments below as well.
 
@@ -64,7 +64,7 @@ That’s my gadget list for 2014. There are many more devices I use; however, I 
 [0386-017]: https://itunes.apple.com/us/app/penultimate/id354098826?mt=8&uo=4&at=10l9vL
 [0386-018]: http://www.amazon.com/gp/product/B00BQ5RYI4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BQ5RYI4&linkCode=as2&tag=stevenccom-20
 [0386-019]: http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=stevenccom-20
-[0386-020]: /pebble/2014/10/19/my-first-month-with-pebble-watch.html
+[0386-020]: /gadgets/2014/10/19/my-first-month-with-pebble-watch.html
 [0386-021]: http://www.amazon.com/gp/product/B00IVX0XGO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IVX0XGO&linkCode=as2&tag=stevenccom-20
 [0386-022]: http://www.amazon.com/gp/product/B00JP12170/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JP12170&linkCode=as2&tag=stevenccom-20
 [0386-023]: http://www.amazon.com/gp/product/B00LMIA9L4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00LMIA9L4&linkCode=as2&tag=stevenccom-20

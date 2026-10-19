@@ -8,7 +8,7 @@ comments: true
 category: entertainment
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://1.bp.blogspot.com/-SoR1QZl9xok/Uge2_ZI2szI/AAAAAAABLIQ/IDmvd1bftzo/s1600/TCM+Now+Playing+-+September+2013.png" align="right" width="300" />We received our monthly [Turner Classic Movies (TCM)](http://www.tcm.com/) Now Playing magazine for September. I think Nikki and I need to take a month’s worth of vacation from work so we can enjoy what is an amazing collection of classic cinema.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://1.bp.blogspot.com/-SoR1QZl9xok/Uge2_ZI2szI/AAAAAAABLIQ/IDmvd1bftzo/s1600/TCM+Now+Playing+-+September+2013.png" align="right" width="300" />We received our monthly [Turner Classic Movies (TCM)](http://www.tcm.com/) Now Playing magazine for September. I think Nikki and I need to take a month’s worth of vacation from work so we can enjoy what is an amazing collection of classic cinema.
 
 Check out these monthly highlights:
 

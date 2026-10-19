@@ -58,7 +58,7 @@ All-in-all, performance and battery life on a modern Chromebook is very similar 
 # Keyboard
 When you take a quick look at the keyboard on a Chromebook, the differences between it and the Mac are visibly noticeable. There is no command key (⌘), no shift lock, and functions keys are tied to the Chromebook and Chrome OS features. On my particular Acer C720 Chromebook, keys were large, comfortable and easy to read. Keyboard feel is similar to that of the Apple MacBook Air keyboard. This made the transition a bit easier.
 
-Keyboard shortcuts are very different from the Mac. My muscle memory was confused during the transition. The control key is used in lieu of the missing command (⌘) key and that key is far to the left. Using my pinky finger to activate the search box was a change from my command key double-tap [Alfred](www.alfredapp.com) activation. Helpful is the onscreen keyboard shortcut tool shown below:
+Keyboard shortcuts are very different from the Mac. My muscle memory was confused during the transition. The control key is used in lieu of the missing command (⌘) key and that key is far to the left. Using my pinky finger to activate the search box was a change from my command key double-tap [Alfred](https://www.alfredapp.com) activation. Helpful is the onscreen keyboard shortcut tool shown below:
 
 ![Keyboard overlay](https://lh5.googleusercontent.com/-SZVppzlGgxU/VKRrPhIbjlI/AAAAAAABXY4/dvEc4D5pdXM/w638-h359-no/chromebook-keyboard-shortcuts-screen.png)
 

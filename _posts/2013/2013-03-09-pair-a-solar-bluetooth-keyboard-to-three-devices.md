@@ -42,10 +42,10 @@ There are two things I would like to see in a future iteration. The first is an 
 
 No keyboard works for everyone. Keyboard usage and feel are very personal decisions; however, if you are looking for a keyboard I believe to be more useful and productive than most, the [Logitech K760][2] may be it. Anyone else use the K760? Drop a comment and share your experiences and/or wish list.
 
-[1]: http://3.bp.blogspot.com/-z0gM3IaCGvE/UTttfJoHfiI/AAAAAAABHUM/qHZSV_K9oY8/s1600/Bluetooth+Keyboard+Square+Bordered.png
+[1]: https://3.bp.blogspot.com/-z0gM3IaCGvE/UTttfJoHfiI/AAAAAAABHUM/qHZSV_K9oY8/s1600/Bluetooth+Keyboard+Square+Bordered.png
 [2]: http://goo.gl/TBxOf
 [3]: http://goo.gl/nI5Sl
-[4]: http://4.bp.blogspot.com/-v18zwCyHyCE/UTttgju6JBI/AAAAAAABHUY/Q-WkEjh-iGk/s1600/Keyboard+comparison.jpg
-[5]: http://2.bp.blogspot.com/-CIBHll64vxI/UTtthoFkeQI/AAAAAAABHUg/HnGqOXxbziw/s1600/Setup+Framed.jpg
+[4]: https://4.bp.blogspot.com/-v18zwCyHyCE/UTttgju6JBI/AAAAAAABHUY/Q-WkEjh-iGk/s1600/Keyboard+comparison.jpg
+[5]: https://2.bp.blogspot.com/-CIBHll64vxI/UTtthoFkeQI/AAAAAAABHUg/HnGqOXxbziw/s1600/Setup+Framed.jpg
 [6]: http://goo.gl/DzvlW
 [7]: http://goo.gl/d0fI7

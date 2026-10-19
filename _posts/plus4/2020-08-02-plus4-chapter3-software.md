@@ -25,7 +25,7 @@ tags:
 
 In this Commodore Plus/4 retroCombs episode, I cover chapter 3 of the Commodore Plus/4 user's manual. This chapter is dedicated to _Using Software_ and there are several ways to load and save software using; cartridges, datasettes, and diskettes. In this post and the accompanying video, I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](/tapuino-1), and a [Pi1541](/pi1541-1).
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 **Table of Contents**
 <!-- TOC -->
@@ -92,6 +92,8 @@ In the video below, I work through Chapter 3 of the user's manual. I deviate sli
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/B9_hKwjlqAA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Links Mentioned in this Episode:
 
 Below are the links I mention in the video.
@@ -125,7 +127,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 THANKS TO EVERYONE FOR THE FEEDBACK!!! It makes this project more fun and I'm (re)learning  much. I will add video corrections or additions below.
 
 1. I mention how the screen blanks when loading programs from the Tapuino (or Datasette), but wondered how Icicle Works got around this limitation with a loading screen. Chuck Hutchins shared that, at least in the case of Icicle Works, the program loads in two parts. The screen blanks (because the C64 and the Plus/4 must blank the screen to access the I/O - a limitation of the custom video chips) while a fast loader is loaded into memory and then loads the main software in a second compressed audio source.
-2. Chuck also shared that the Plus/4 I/O commands such as `DLOAD`, `SCRATCH`, and `HEADER` are also avaialble on PET Computers with Basic 4.0, the C128 (BASIC 7), and the C65 (BASIC 10).
+2. Chuck also shared that the Plus/4 I/O commands such as `DLOAD`, `SCRATCH`, and `HEADER` are also available on PET Computers with Basic 4.0, the C128 (BASIC 7), and the C65 (BASIC 10).
 
 ## Introduction
 

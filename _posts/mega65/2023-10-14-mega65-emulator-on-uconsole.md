@@ -43,6 +43,8 @@ Title: _Create an Amazing Handheld MEGA65 with the Clockwork uConsole and XEMU_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="[link](https://www.youtube.com/embed/Bm4YtKuqk9g?si=VJKbl_U25BfOeJkA)" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 None as of 2023-10-14.
@@ -114,9 +116,7 @@ Use the emulator with your favorite *.d81* disk images or develop your own progr
 
 ## Download my Script
 
-In the video, I mention a script and resources I've created to add a XEMU xmega65 emulator item to the Raspbian OS menu. You can find more information using the link below:
-
-[Raspbian XEMU MEGA≡65 Menu Item Script](https://www.buymeacoffee.com/retrocombs/e/171496)
+In the video, I mention a script and resources I've created to add a XEMU xmega65 emulator item to the Raspbian OS menu. That download isn't posted here. If the video helped, [leave a tip](https://paypal.me/stevencombs).
 
 ## Join the Fun
 

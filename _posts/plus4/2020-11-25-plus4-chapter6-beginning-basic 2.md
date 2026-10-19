@@ -22,7 +22,7 @@ tags:
 
 In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 6, *Beginning BASIC Programming*, of the Commodore Plus/4 user's manual. In this chapter, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 **Table of Contents**
 
@@ -96,13 +96,15 @@ In the video below, I work through Chapter 6 of the user's manual.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/NtSp4xOcz-M" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 None as of 2020-11-25.
 
 ## Links Mentioned in this Episode:
 
-Below are the links I mention in the video. All Amazon links are affialiate links. Thanks for supporting the blog and the YouTube channel!
+Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [Commodore Plus/4 User's Manual Series](/plus4)
 2. [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)

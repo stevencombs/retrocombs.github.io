@@ -8,7 +8,7 @@ comments: true
 category: apple
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="http://2.bp.blogspot.com/-6VdxGgIIbXA/TdamjsD0jMI/AAAAAAAA1SA/SpvuoUkcdr0/s200/Personal+Hotspot.png" align="right" />While on a business trip this past week, I was stuck in a building that did not have Internet access for my [MacBook Air][2]. This was an extreme productivity killer. Then I remembered that the latest iOS for iPhone 4 now contains the ability to create a personal hotspot similar to [MiFi units][3].
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-6VdxGgIIbXA/TdamjsD0jMI/AAAAAAAA1SA/SpvuoUkcdr0/s200/Personal+Hotspot.png" align="right" />While on a business trip this past week, I was stuck in a building that did not have Internet access for my [MacBook Air][2]. This was an extreme productivity killer. Then I remembered that the latest iOS for iPhone 4 now contains the ability to create a personal hotspot similar to [MiFi units][3].
 
 Adding the service was extremely easy using the AT'T iOS app and the charge was only an extra $20 per month. I thought this a fairly reasonable charge and was surprised that it was prorated for the current month, incurred no activation charge and added an extra 2GBs of data to my current 2GBs/month plan. It also appears that I can turn this service off at any time without any additional deactivation charges.
 
@@ -56,9 +56,9 @@ There you have it, <strike>five</strike> six ways you can reduce iPhone personal
 
 [2]: https://www.amazon.com/dp/B0047DVVZO/ref=as_li_ss_til?tag=stevenccom-20&amp;camp=213381&amp;creative=390973&amp;linkCode=as4&amp;creativeASIN=B0047DVVZO&amp;adid=0ZYHMX9S4H9MPSGB0ZEM&amp;
 [3]: http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref_%3Dnb_sb_ss_sc_0_4%26y%3D0%26field-keywords%3Dmifi%26url%3Dsearch-alias%253Daps%26sprefix%3Dmifi%23&amp;tag=stevenccom-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957
-[4]: http://4.bp.blogspot.com/-qwHYByIBNHM/TdamifxAq6I/AAAAAAAA1R4/Scv8krr-x-0/s200/Notifications.PNG
-[5]: http://3.bp.blogspot.com/-YWaVlPW7qfo/Tdamging-JI/AAAAAAAA1Rw/Fd6Xl-BqKTs/s200/Fetch+New+Data.PNG
-[6]: http://3.bp.blogspot.com/-10VSZ3BKvOk/Tdamix69fuI/AAAAAAAA1R8/1y1ZfdhcrPo/s200/Pause+Synching.png
+[4]: https://4.bp.blogspot.com/-qwHYByIBNHM/TdamifxAq6I/AAAAAAAA1R4/Scv8krr-x-0/s200/Notifications.PNG
+[5]: https://3.bp.blogspot.com/-YWaVlPW7qfo/Tdamging-JI/AAAAAAAA1Rw/Fd6Xl-BqKTs/s200/Fetch+New+Data.PNG
+[6]: https://3.bp.blogspot.com/-10VSZ3BKvOk/Tdamix69fuI/AAAAAAAA1R8/1y1ZfdhcrPo/s200/Pause+Synching.png
 [7]: http://db.tt/11cphuY
 [8]: http://www.docstechnotes.com/2011/05/dont-duplicate-your-macbook-air-and-ios.html
-[9]: http://1.bp.blogspot.com/-f9_lwJRtgkw/TdfG1NBE9GI/AAAAAAAA1SU/7RzdvjwtvMw/s400/Automatic+Software+Updates.png
+[9]: https://1.bp.blogspot.com/-f9_lwJRtgkw/TdfG1NBE9GI/AAAAAAAA1SU/7RzdvjwtvMw/s400/Automatic+Software+Updates.png

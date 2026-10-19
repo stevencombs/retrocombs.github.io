@@ -17,7 +17,7 @@ tags:
 
 This last chapter in the user's manual takes us on a musical and noise infused journey through Commodore Basic and the Plus/4 `SOUND` and `VOL` commands. The Plus/4 was not capable of the amazing sounds that come from it's older brother and sister, the Commodore 64 or the 128. Heck, it wasn't even as capable as the earlier VIC-20; however, with a little effort and creativity, you can put the two channels to use in business applications; the primary market for the Commodore TED series.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 Despite these limits, you can still have some fun as it appropriately demonstrated in the last BASIC program in the chapter. Beware! The original printed manual had many errors. I correct these; however, imagine the frustration of a user in the 1980s trying to debug these programs.
 
@@ -90,6 +90,8 @@ Below are the links for previous chapters covered:
 In the video below, I work through Chapter 8 of the Plus/4 user's manual and explore the `VOL` and `SOUND` BASIC 3.5 commands.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/GBJ2EVsqrLU" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 

@@ -15,7 +15,7 @@ tags:
 
 Another Sunday, another livestream and instead of a [TI-99/4A](/ti994a) topic, I returned to a project that's been on the back burner for a long time; installing the MEGA65 Bitstream on a Diligent Nexys4 field programmable gate array (FPGA). A MEGA65 livestream would do double duty and make [supporter](/supporters) Mislav happy. He's asked for new MEGA65 content for a while. Here ya go Mislav; this one's for you.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 You can check out the livestream below and afterward, read the rest of this companion blog post to learn more.
 
@@ -24,6 +24,8 @@ You can check out the livestream below and afterward, read the rest of this comp
 In the livestream video below, I attempt to install a MEGA65 Bitstream on a Nexys4 FPGA.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/Rfum3aKsCBw" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -57,7 +59,7 @@ That's all for this companion blog post. As I mention, once I get a working keyb
 
 ## Join the Fun
 
-Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts]().
+Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
 Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 

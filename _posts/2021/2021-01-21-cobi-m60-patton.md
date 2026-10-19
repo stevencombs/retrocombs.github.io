@@ -28,7 +28,9 @@ In the video below, I share my COBI M60 Patton build and compare the COBI brand 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/eJ1EaGP4XUg" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
-**☕ If you find this blog post and/or video valuable, please consider [buying me a coffee](https://www.buymeacoffee.com/retroCombs)? The caffeine will keep the blog posts and video coming your way!**
+{% include member-cta.html channel="retrocombs" %}
+
+**If you find this blog post and/or video valuable, please consider [leaving a tip](https://paypal.me/stevencombs). It keeps the blog posts and video coming your way!**
 
 ## Table of Contents
 
@@ -270,7 +272,7 @@ As I was building, I noticed an interesting variety of building elements:
 3. I was a fan of these 1 x 3 elements that provide a flat surface on the bottoms of plates and bricks. LEGO may have these, but I don't remember them. I know watchers will correct me and drop comments below. I look forward to those comments.
 4. COBI includes what appears to be many custom parts for this, and possibly other track vehicles. For example, the two roller axles. Two kinds: one with a longer axle to accommodate a wheel and roller and another with a shorter axle to accommodate a wheel.
 5. Let's talk action figures, or in LEGO parlance, minifigs. COBI minifigs are "more" anatomically correct, if there can be such a thing in a building block action figure.
-6. This set includes and American officer and solider. I will say, I love the armored cavalry hat and sunglasses on the officer and the helmet and vest on the soldier. The included M16 rifle is an element you will never find in a LEGO set (but Star Wars blasters are okay, I guess) and the set appropriately includes binoculars.
+6. This set includes an American officer and soldier. I will say, I love the armored cavalry hat and sunglasses on the officer and the helmet and vest on the soldier. The included M16 rifle is an element you will never find in a LEGO set (but Star Wars blasters are okay, I guess) and the set appropriately includes binoculars.
 
 ### Quality
 
@@ -326,7 +328,7 @@ After I film videos, there are always additional thoughts that pop up. Here are 
 
 You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](link).
+Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](https://www.youtube.com/watch?v=eJ1EaGP4XUg).
 
 Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
 

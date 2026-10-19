@@ -24,7 +24,7 @@ tags:
 
 In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 7, *Using Graphics and Color*, of the Commodore Plus/4 user's manual. If you are eager to create images on your Commodore Plus/4, this is the chapter for you. Chapter 7 include information to PETSCII, colors, graphics modes, and other commands to create static images an animations. It's a fun chapter and one that took quite a bit of time to prepare.
 
-> **MEMBERSHIP:** I now offer retroCombs memberships from $1 (PET level membership) to $20 (MEGA65 level membership) that include levels in between for all budgets (VIC-20, C64, Plus/4, and C128). If you'd like to support my content and get access to my Discord server along with other cool freebies, check out each level at <https://www.buymeacoffee.com/retroCombs>.
+> **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 
 **Table of Contents**
@@ -110,6 +110,8 @@ Below are the links for previous chapters covered:
 In the video below, I work through Chapter 6 of the user's manual.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/APEsf1tgf30" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+
+{% include member-cta.html channel="retrocombs" %}
 
 ## Video Errata
 
@@ -710,7 +712,7 @@ You won't want to miss that fun. Make sure you <font color="red">SUBSCRIBE</font
 
 ## Join the Fun
 
-Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](link).
+Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](https://www.youtube.com/watch?v=APEsf1tgf30).
 
 Thanks for watching and if you are inclined, please let other Commodore fans know about the series, my blog, and the YouTube channel, by sharing these videos using #retroCombs.
 
