@@ -28,6 +28,8 @@ If you inject your own creativity, this MOC is adaptable to your computing envir
   <p><iframe src="https://www.youtube.com/embed/0PTE7P3JTGo" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 I’ve taken the time to prepare detailed instructions (see sample image below):
 
 ![Dock Instructions](instructions-sample.png)

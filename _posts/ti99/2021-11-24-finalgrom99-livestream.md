@@ -44,6 +44,8 @@ In the video below, I ...
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/C-HizpDpqYI" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 Check out the time codes at the bottom of this post for the contents of this livestream edit.
 
 ## Video Errata

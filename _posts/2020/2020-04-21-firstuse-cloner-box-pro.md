@@ -36,6 +36,8 @@ Below the video, I have additional thoughts on the device and plans for this vid
   <p><iframe src="https://www.youtube.com/embed/dyCbBL9jkvQ" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 In the video, I demonstrate my attempt to use the Cloner Alliance Box Pro in three scenarios. Below is a results rollup:
 
 1. Capture video device menus (Roku, Android TV, Fire TV, etc.). [✓]

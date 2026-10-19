@@ -38,6 +38,8 @@ Title: _Xanadu, the BAS MEGA65 entry to the SYNTAX 2022 Demoparty!_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/f8yrrww_bac" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 None as of 2022-11-19.

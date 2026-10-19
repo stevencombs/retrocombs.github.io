@@ -22,6 +22,8 @@ Below is a full video that provides the background on my stand that was my LEGO 
   <p><iframe src="https://www.youtube.com/embed/FRaoA08bGP4" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 Here's a sample page from the instructions:
 
 ![Dock Instructions](instructions-sample.png)

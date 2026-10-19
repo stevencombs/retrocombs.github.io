@@ -30,6 +30,8 @@ This is not a review of the Keychron K2 but an explanation of my purchase and in
   <p><iframe src="https://www.youtube.com/embed/A7R0HIG7nR0" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 Not only do I take the new Keychron K2 out of it's shipping package and box in the video, I also take a look at the design and features; including the very cool 15+ LED backlight effects package that I will likely never use. **Spoiler**, I do. Read on.
 
 ![K2 LEDs](/images/posts/2020-02-29-keychron-unboxing/keycron-k2-leds.jpg)

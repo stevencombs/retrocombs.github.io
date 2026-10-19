@@ -80,6 +80,8 @@ In the video below, I cover all aspects of the MEGA65 keyboard.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/Ylji1yc_VRQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 [UPDATE: 2022-05-28] I mention that the HELP function key doesn't do anything and that's not accurate. If you run into a syntax error when you run a BASIC program, press the HELP key and the BASIC 65 will display the first line of code with the error. The `HELP` command serves the same function.

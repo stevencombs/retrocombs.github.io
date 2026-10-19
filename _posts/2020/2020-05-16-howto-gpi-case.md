@@ -80,6 +80,8 @@ The first video below is the extended WORKBENCH LIVE video. This live session is
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/22ZDrUBGBnQ" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## YouTube Video: _HOWTO: Install Super Retroboy on Retroflag GPi Case_
 
 The second video takes that two hour live behemoth and shrinks it down to a much more manageable thirty-minute chunk. If you just want the nuts and bolts toward a first boot of the GPi Case, this one's for you.

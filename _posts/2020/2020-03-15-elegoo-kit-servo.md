@@ -41,6 +41,8 @@ Below is a step-by-step video I produced for this project.
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Bill of Materials (BOM)
 
 All equipment for this project, with Amazon links (#ad), is listed below:

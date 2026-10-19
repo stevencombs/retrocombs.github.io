@@ -51,6 +51,8 @@ A YouTube video demonstrating/testing the firmware installation process that als
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/TOy8VQSQ_0Q" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 **2020-04-07 UPDATE:** below is the video showing the performance of the camera with new firmware on Chrome OS:
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/ft5GLFBIPNw" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>

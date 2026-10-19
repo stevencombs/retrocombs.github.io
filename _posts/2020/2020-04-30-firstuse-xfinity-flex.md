@@ -31,6 +31,8 @@ Before reading the remainder of this post, watch the video below.
   <p><iframe src="https://www.youtube.com/embed/iJW9No9Nqt0" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 In the video, I demonstrate the following:
 
 - [Hardware and Start Up](#hardware-and-start-up)

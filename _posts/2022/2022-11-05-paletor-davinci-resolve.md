@@ -43,6 +43,8 @@ Title: _Supercharge DaVinci Resolve with Paletro for Mac OS_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/MKxTQpheBC4" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 Throughout the entire video I call Paletro, Paletor. Why? I have no idea and I didn't have the wherewithal to rerecord. Please accept my apologies for being lazy but I trust it won't distract from the value of this video.

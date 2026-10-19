@@ -29,6 +29,8 @@ I've created a new OPEN THE BOX and FIRST USE video and it's a twofer! Last week
   <p><iframe src="https://www.youtube.com/embed/ZoBnLnDgv1Q" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 > **NOTE:** I'm still playing around with DaVinci Resolve and may have gone a bit overboard on effects and music; however, there's no better way to learn than trying out the features. Let me know if it's too much.
 
 > **FUN FACT:** I used the [Wyze Cam with the new webcam firmware](/wyzecam-to-webcam) to record the unboxing video on the workbench.

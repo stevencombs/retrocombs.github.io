@@ -26,6 +26,8 @@ In the video below, I share 10 reasons why THEVIC20 is the perfect gift for the 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/QYr5078FzJE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 1. [10 Minute Amiga Retro Cast](http://www.youtube.com/channel/UCSWXB7cc8mAtCjK8iXAJc1A) wanted to remind everyone that you can use a USB keyboard with THEC64 mini. Great reminder and I recommend the [Logitech MK270](https://amzn.to/3p4LmaS). For $20 you get a wireless keyboard with mouse and long battery life. Perfect for a hobbyist keyboard.

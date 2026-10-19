@@ -41,6 +41,8 @@ Before I share the process, here's a video showing the Arduino IDE uploading cod
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Download Chrome OS
 
 1. Chrome OS's Crostini virtual machine (VM) uses Debian (version 9 on Chrome OS v80 and now 10 on Chrome OS v82), a Linux distribution. Because of this, we can use the software found on the Arduino download page at:

@@ -37,6 +37,8 @@ During the course, we will unpack our kits together and go over every component.
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 There are a few errors (aren't there always!) and as you learn while watching, I recorded the whole thing once only to find it didn't record! But that's how you learn; you fail first.
 
 > **INSIDE BASEBALL:** This was the first time I used a multi-camera setup to record video. To manage the video switching, I utilized the free [OBS Studio](https://obsproject.com/). I know I've only scratched the surface of that software's capabilities and I look forward to learning more as I create additional content to support my teaching, blogging, or podcasting.

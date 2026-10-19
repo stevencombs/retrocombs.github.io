@@ -37,6 +37,8 @@ In the video below, I breadboard and operate a Tapuino connected to a Commodore 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/1Dqbg1-s0m4" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Bill of Materials
 
 The list below includes everything you need and the most inexpensive way I've found to source the project. Many pieces you have to purchase in multiples. This was not a problem for someone like me who has several projects on the bench at a time, but if you want the cheapest way to a Tapuino, purchase a kit or an [assembled unit](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=tapuino&_sacat=0).

@@ -44,6 +44,8 @@ Title: _Unbox and Play Hibernated 1 (Director's Cut) for MEGA65_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/LO8_Bxz8Fvs" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 Title: _Play Hibernated 1 (Director's Cut) for MEGA65 | Part 2 (Please Note: Periods of Audio Echo/Delay)_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/RnK1uNGnCSA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>

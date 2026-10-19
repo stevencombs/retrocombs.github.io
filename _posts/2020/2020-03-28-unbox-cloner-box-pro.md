@@ -26,6 +26,8 @@ Time to open the box on a [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOC
   <p><iframe src="https://www.youtube.com/embed/hUhrYNQCODY" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 Not only do I take the Cloner Alliance Box Pro out of it's box, I also look at the product's design, features, and included cables. I even call an HDMI cable a USB cable. What fun! And because that's not the only error I make in the video, be on the lookout for pop-up corrections!
 
 I purchased the Cloner Alliance Box Pro because I hope to do the following things with the device:

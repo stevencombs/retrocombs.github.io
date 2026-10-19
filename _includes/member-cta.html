@@ -1,0 +1,10 @@
+{% comment %}
+  One short membership note. Pass channel="retrocombs" (default) or channel="tech".
+  Use tech only when that channel's /join page offers memberships.
+{% endcomment %}
+{%- if include.channel == "tech" -%}
+  {%- assign join_url = "https://www.youtube.com/@retrocombs-tech/join" -%}
+{%- else -%}
+  {%- assign join_url = "https://www.youtube.com/@retrocombs/join" -%}
+{%- endif -%}
+<p>Enjoying the videos? Become a channel member to support retroCombs: <a href="{{ join_url }}">{{ join_url }}</a>.</p>

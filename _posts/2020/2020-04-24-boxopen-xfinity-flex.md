@@ -33,6 +33,8 @@ I placed an order for the box and about a week later; it arrived. It was now tim
 <p><iframe src="https://www.youtube.com/embed/GLioKkFlrqM" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Contents
 
 The contents of the Xfinity Flex package include:

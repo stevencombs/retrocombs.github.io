@@ -23,6 +23,8 @@ In the video below, I connect a mouSTer to a MEGA65 and see if it works.
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/OdPSfqBS5S8" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Markers
 
 I embed the video markers below in the video so you can jump around to specific content. Of course, I hope you watch the entire video!

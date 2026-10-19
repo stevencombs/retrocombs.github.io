@@ -52,6 +52,8 @@ Title: _I upgrade my Commodore PET 2001-8 using modern devices? But should you?_
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/zGIs-yurPOA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 2022-12-03: Chuck Hutchins dropped a comment let me know I made a mistake on the model number. I reference the 2001-8-N. While N does denote a black and green display, that nomenclature is used for a PET 2001 with a full-size keyboard. I misread the Wikipedia entry.

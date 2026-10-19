@@ -15,3 +15,6 @@ It happened this past weekend. I received the [ALS ice bucket](https://www.googl
   <p><iframe src="www.youtube.com/embed/LJzUgR_Y_wo?list=UUjdKGdIl5leQfhJZiHUYFbQ" frameborder="0" allowfullscreen
     style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
+
+{% include member-cta.html channel="retrocombs" %}
+

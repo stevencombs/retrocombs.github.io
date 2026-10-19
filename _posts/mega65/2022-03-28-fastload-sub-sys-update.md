@@ -64,6 +64,8 @@ In the video below, I provide an update to my C128 to MEGA65 Submarine Tracking 
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/tOlfdtFYDBM" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Video Errata
 
 [UPDATE 2022-04-02] Added information about the `DOT` command in the ['LINE' Command](#line-command) section.

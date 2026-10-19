@@ -18,6 +18,8 @@ tags:
 
 This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](/retro).
 
+{% include member-cta.html channel="retrocombs" %}
+
 ![retroCombs Plus/4](/plus4/images/retrocombs-plus4.png)
 
 ***

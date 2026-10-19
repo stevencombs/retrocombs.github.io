@@ -48,6 +48,8 @@ View all of my [MEGA≡65 blog posts](/mega65-blog).
 
 View my [MEGA≡65 YouTube channel playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTomsrJnQdqFmoZUdT6qHocpo).
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## MY MEGA≡65 BASIC PROGRAMS
 
 Use the links below to view my MEGA≡65 BASIC programs:

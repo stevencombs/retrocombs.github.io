@@ -27,6 +27,8 @@ As you watch the video below, see if you can identify which tools I used to crea
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/iVw_ZBVBk7g" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 Think you've identified the tools? Let's see if you were correct.
 
 ## Creating the Artwork (Google Slides)

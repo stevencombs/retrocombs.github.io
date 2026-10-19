@@ -92,6 +92,8 @@ In the video below, I work through Chapter 3 of the user's manual. I deviate sli
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/B9_hKwjlqAA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ## Links Mentioned in this Episode:
 
 Below are the links I mention in the video.

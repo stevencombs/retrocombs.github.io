@@ -47,6 +47,8 @@ The video below is an edit of the full livestream (see second video) that includ
 
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/lFM3mJO1M30" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
 
+{% include member-cta.html channel="retrocombs" %}
+
 ### Full Live Stream
 
 The raw full meal deal for those who want to experience the Christmas Eve stream in its entirety:
