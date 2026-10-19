@@ -117,8 +117,8 @@ Table of Contents
 
 - Andy Petrie
 - Dan Webb
-- EddeSoto
 - JavaJ
+- jibaro
 - RICHARD MURPHY
 - [retroKat](https://x.com/klcombs95)
 - The Lovely Accountant
@@ -150,7 +150,7 @@ Table of Contents
 - Daveyk021
 - Phillip Harms
 - Rainer K.
-- stuartguest141
+- Stuart Guest
 - TiwazM
 - Zombie Rabbit
 
