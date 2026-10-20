@@ -1,0 +1,27 @@
+# Homepage "Latest videos". Still images are the approved mockup frames, not a live feed.
+- name: "@retroCombs"
+  style: retro
+  tag: "Commodore 8-bit · MEGA65 · live user-group streams"
+  url: https://www.youtube.com/@retroCombs
+  videos:
+    - id: IhNteMTglD8
+      title: "From 4KB to 240 Colors: The Evolution of Roguecraft DX on the MEGA65"
+    - id: KfCLkPSNzAE
+      title: "Watch The MEGA65 Computer Come Alive at Christmas!"
+    - id: cBgLpJWXzMs
+      title: "NEW MEGA65 Game, Spring!: Unboxing, Demo, & BASIC Source Code Access"
+    - id: k7u5mfTzY_k
+      title: "6 Retro Consoles You Can Buy RIGHT NOW While You Wait for the A1200"
+- name: "@retroCombs-tech"
+  style: tech
+  tag: "Real tests. Real tech."
+  url: https://www.youtube.com/@retroCombs-tech
+  videos:
+    - id: YsWzZ2Nj1sY
+      title: "SeekBox S3 Pro: The Android TV Box You've Been SEEKing?"
+    - id: XCdeEKswxa8
+      title: "Does the Wokyis G7 Retro Dock Work With a Mac mini?"
+    - id: fE8jXDB06Fc
+      title: "Archive, Capture, and Stream with the ClonerAlliance UHD Pro"
+    - id: WVmw1CoG5fM
+      title: "Don't Buy a Streaming Box Until You Watch My SuperBOX S7 Pro Deep Dive"

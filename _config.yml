@@ -1,13 +1,26 @@
 ---
 
 title: 'retroCombs'
-logo: '/images/design/retroCombs-logo.svg'
+logo: '/images/brand/retroCombs-logo.svg'
+favicon: '/favicon.ico'
+favicon_png: '/favicon-32.png'
+apple_touch_icon: '/apple-touch-icon.png'
 description: 'Retro computing with a touch of modern and the home for all things, retroCombs (aka Steven Combs).'
 name: 'retroCombs'
 email: 'retrocombs@icloud.com'
-tagline: 'Combsing through the retro-minutia…'
+tagline: 'Retro computing with a touch of modern'
 url: 'https://retrocombs.com'
 lang: en-US
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/brand/social-preview.png
+        width: 1200
+        height: 630
+        alt: retroCombs
 
 comments: true
 highlighter: rouge

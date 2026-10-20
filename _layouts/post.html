@@ -1,33 +1,129 @@
 ---
 layout: default
-comments: true
 ---
-
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
-<p class="view">by {{ page.author | default: site.author }}
-
-{{content}}
-
-<!-- Diqus -->
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://stevencombs.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-<!-- End Disqus -->
+{% assign primary = page.categories | first %}
+{% assign pill_name = "" %}
+{% assign pill_url = "/categories" %}
+{% for group in site.data.topics.groups %}
+  {% if pill_name == "" %}
+    {% for topic in group.items %}
+      {% if topic.categories contains primary %}
+        {% assign pill_name = topic.name %}
+        {% assign pill_url = topic.url %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+{% if pill_name == "" and primary %}
+  {% assign pill_name = primary %}
+  {% assign pill_url = primary | slugify | prepend: "/categories#" %}
+{% endif %}
+{% assign series = site.categories.mega65 | sort: "url" %}
+{% assign in_series = false %}
+{% if page.categories contains "mega65" %}
+  {% if page.url contains "mega65-ug" or page.title contains "Guide" %}
+    {% assign in_series = true %}
+  {% endif %}
+{% endif %}
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="{{ "/" | relative_url }}">Home</a>
+    <span aria-hidden="true">›</span>
+    <a href="{{ "/blog" | relative_url }}">Blog</a>
+    {% if pill_name != "" %}
+    <span aria-hidden="true">›</span>
+    <a href="{{ pill_url | relative_url }}">{{ pill_name }}</a>
+    {% endif %}
+  </nav>
+  <header class="post-head">
+    {% if pill_name != "" %}<a class="pill" href="{{ pill_url | relative_url }}">{{ pill_name }}</a>{% endif %}
+    <h1>{{ page.title }}</h1>
+    <div class="meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+      {% if page.author %}<span>by {{ page.author }}</span>{% endif %}
+      {% if pill_name != "" %}<span>Topic: <a href="{{ pill_url | relative_url }}">{{ pill_name }}</a></span>{% endif %}
+    </div>
+  </header>
+  <div class="layout">
+    <div>
+      <article class="card">
+        <div class="prose">
+          {{ content }}
+        </div>
+      </article>
+      {% include ad.html %}
+      <section class="support-strip" aria-label="Support retroCombs">
+        <p>Enjoying the videos? Become a channel member to support retroCombs: <a href="https://www.youtube.com/@retrocombs/join">https://www.youtube.com/@retrocombs/join</a>.</p>
+        <div class="btns">
+          <a class="btn dark" href="https://www.youtube.com/@retrocombs/join"><span class="rc-follow-icon" style="--rc-icon: url('{{ "/images/icons/star.svg" | relative_url }}')" aria-hidden="true"></span>Join the channel</a>
+          <a class="btn red" href="https://paypal.me/stevencombs"><span class="rc-follow-icon" style="--rc-icon: url('{{ "/images/icons/paypal.svg" | relative_url }}')" aria-hidden="true"></span>Tip on PayPal</a>
+        </div>
+      </section>
+      {% comment %}
+        site.posts is newest-first, so page.previous is the newer post and page.next is the older one.
+      {% endcomment %}
+      {% assign newer = page.previous %}
+      {% assign older = page.next %}
+      <nav class="prevnext" aria-label="More posts">
+        {% if older %}
+        <a class="prev" href="{{ older.url | relative_url }}"><small>← Previous post</small><b>{{ older.title }}</b></a>
+        {% else %}
+        <div class="prev none"><small>← Previous post</small><b>This is the oldest post</b></div>
+        {% endif %}
+        {% if newer %}
+        <a class="next" href="{{ newer.url | relative_url }}"><small>Next post →</small><b>{{ newer.title }}</b></a>
+        {% else %}
+        <div class="next none"><small>Next post →</small><b>This is the newest post</b></div>
+        {% endif %}
+      </nav>
+      <div id="disqus_thread"></div>
+      <script>
+          (function() {
+          var d = document, s = d.createElement('script');
+          s.src = 'https://stevencombs.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+          })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+    <aside class="rail" aria-label="Sidebar">
+      {% if in_series %}
+      <div class="box series">
+        <h2>MEGA65 User's Guide series</h2>
+        <ol>
+          {% for item in series %}
+          {% if item.url contains "mega65-ug" or item.title contains "Guide" %}
+          <li class="{% if item.url == page.url %}cur{% endif %}">
+            {% if item.url == page.url %}
+            <span aria-current="page">{{ item.title }}</span>
+            {% else %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endif %}
+          </li>
+          {% endif %}
+          {% endfor %}
+        </ol>
+      </div>
+      {% endif %}
+      <div class="box">
+        <h2>Topics</h2>
+        <div class="chips">
+          {% for n in (1..6) %}
+            {% for group in site.data.topics.groups %}
+              {% for topic in group.items %}
+                {% if topic.rail == n %}
+                {% capture count %}{% include topic-count.html categories=topic.categories %}{% endcapture %}
+                {% assign count = count | strip %}
+                <a class="chip{% if topic.hot %} hot{% endif %}" href="{{ topic.url | relative_url }}">{{ topic.name }} <b>{{ count }}</b></a>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% endfor %}
+          <a class="chip all" href="{{ "/categories" | relative_url }}">All topics →</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+</div>

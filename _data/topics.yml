@@ -1,0 +1,108 @@
+# Topic menu, chips, and post counts. Counts are the categories each topic page lists.
+# chip: order on the homepage (omit to keep a topic in the menu only).
+# hot: filled chip. rail: order in the post sidebar (omit to leave it out).
+groups:
+  - name: Retro computing
+    items:
+      - name: MEGA65
+        url: /mega65-blog
+        categories: [mega65]
+        hot: true
+        chip: 1
+        rail: 1
+      - name: Commodore
+        url: /commodore
+        categories: [commodore, pet, vic20, c64, plus4, c128]
+        hot: true
+        chip: 2
+        rail: 2
+      - name: TI-99/4A
+        url: /ti994a
+        categories: [ti994a]
+        chip: 11
+        rail: 6
+  - name: Modern tech
+    items:
+      - name: Gadgets
+        url: /gadgets
+        categories: [gadgets]
+        hot: true
+        chip: 3
+        rail: 3
+      - name: Apple
+        url: /apple.html
+        categories: [apple]
+        hot: true
+        chip: 5
+        rail: 5
+      - name: Wyze
+        url: /wyze
+        categories: [wyze]
+        chip: 9
+      - name: Android
+        url: /android
+        categories: [android]
+        chip: 12
+      - name: Chrome OS
+        url: /chromeos
+        categories: [chromeos]
+        chip: 13
+      - name: Linux
+        url: /linux
+        categories: [linux]
+        chip: 17
+      - name: Google
+        url: /google
+        categories: [google]
+  - name: Making
+    items:
+      - name: Embedded
+        url: /embedded
+        categories: [arduino, chip, raspberrypi, electronics]
+        hot: true
+        chip: 4
+        rail: 4
+      - name: LEGO
+        url: /lego
+        categories: [lego]
+        chip: 8
+      - name: Code
+        url: /code
+        categories: [alfred, web, code]
+        chip: 10
+      - name: Amateur Radio
+        url: /ham
+        categories: [ham]
+        chip: 18
+      - name: 3D Printing
+        url: /3dprinting
+        categories: ["3dprinting"]
+        chip: 19
+      - name: 3D Models
+        url: /models
+        categories: [models]
+  - name: Work & life
+    items:
+      - name: Higher Education
+        url: /higher-education.html
+        categories: ["higher-education"]
+        chip: 6
+      - name: Art
+        url: /art.html
+        categories: [art]
+        chip: 7
+      - name: Productivity
+        url: /productivity
+        categories: [productivity]
+        chip: 14
+      - name: Presentations
+        url: /presentations.html
+        categories: [presentations]
+        chip: 15
+      - name: Entertainment
+        url: /entertainment
+        categories: [entertainment]
+        chip: 16
+      - name: Writing
+        url: /writing.html
+        categories: [writing]
