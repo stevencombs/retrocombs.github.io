@@ -12,7 +12,6 @@ In this series, I'll cover the following topics from the user's guide:
 
 {% include guide-list.html %}
 
-<ol start="9">
-<li>Screen Editor Keys</li>
-<li>PETSCII Characters, Screen Codes, and the System Palette</li>
-</ol>
+## Appendices
+
+{% include guide-list.html group="appendices" %}

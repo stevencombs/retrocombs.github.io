@@ -601,3 +601,9 @@ header.site nav .dd > button:hover{border-bottom-color:var(--st-yellow);padding-
   .topic-card-lead ul{border-left:0;border-top:1px solid var(--rc-beige);padding:10px 0 0;margin-top:8px}
   .topic-stray ul{columns:1}
 }
+
+.chlist{color:#fff}
+.prose .chlist{margin:0 0 1.2em}
+.prose .chlist ol{margin:0;padding:0}
+.prose .chlist li{margin:0}
+.chlist li.sub{padding-left:36px}

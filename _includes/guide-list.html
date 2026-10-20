@@ -1,10 +1,23 @@
+{% if include.group == "appendices" %}
+  {% assign entries = site.data.guide.appendices %}
+  {% assign soon_label = "Coming soon" %}
+{% else %}
+  {% assign entries = site.data.guide.chapters %}
+  {% assign soon_label = "Planned" %}
+{% endif %}
 <div class="chlist">
   <ol>
-    {% for chapter in site.data.guide.chapters %}
+    {% for chapter in entries %}
     <li>
       <span><span class="n">{{ chapter.n }}</span>{% if chapter.url %}<a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a>{% elsif chapter.video %}<a href="{{ chapter.video }}">{{ chapter.title }}</a>{% else %}{{ chapter.title }}{% endif %}</span>
-      {% if chapter.url %}<a class="st page" href="{{ chapter.url | relative_url }}">Page + video</a>{% elsif chapter.video %}<a class="st vid" href="{{ chapter.video }}">Video</a>{% else %}<span class="st soon">Planned</span>{% endif %}
+      {% if chapter.url %}<a class="st page" href="{{ chapter.url | relative_url }}">Page + video</a>{% elsif chapter.video %}<a class="st vid" href="{{ chapter.video }}">Video</a>{% else %}<span class="st soon">{{ soon_label }}</span>{% endif %}
     </li>
+    {% for item in chapter.items %}
+    <li class="sub">
+      <span>{% if item.url %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% elsif item.video %}<a href="{{ item.video }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</span>
+      {% if item.url %}<a class="st page" href="{{ item.url | relative_url }}">Page + video</a>{% elsif item.video %}<a class="st vid" href="{{ item.video }}">Video</a>{% else %}<span class="st soon">{{ soon_label }}</span>{% endif %}
+    </li>
+    {% endfor %}
     {% endfor %}
   </ol>
 </div>
