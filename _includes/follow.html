@@ -2,7 +2,7 @@
   <p>Follow retroCombs</p>
   <ul>
     {% for item in site.data.social %}
-    <li><a href="{{ item.url }}" target="_blank" rel="{% if item.rel %}{{ item.rel }} {% endif %}noopener">{{ item.label }}</a></li>
+    <li><a href="{{ item.url }}" target="_blank" rel="{% if item.rel %}{{ item.rel }} {% endif %}noopener"><span class="rc-follow-icon" style="--rc-icon: url('{{ item.icon | prepend: '/images/icons/' | append: '.svg' | relative_url }}')" aria-hidden="true"></span>{{ item.label }}</a></li>
     {% endfor %}
   </ul>
 </nav>
