@@ -5,6 +5,7 @@ date: 1999-01-01 19:19:19
 author: "{{ site.name }}"
 email: "{{ site.email }}"
 comments: false
+search: false
 category: web
 tags:
  - code

@@ -10,24 +10,9 @@ redirect_from:
 
 "The best supporters in the world" contribute to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs?sub_confirmation=1). It's a small, but mighty group!
 
-retroCombs memberships are available through YouTube at levels to meet all budgets and have fun Commodore inspired names. Check them out and join at <https://www.youtube.com/@retrocombs/join>. Here are the levels:
+retroCombs memberships are available through YouTube at levels to meet all budgets and have fun Commodore inspired names. Check them out and join.
 
-<style>
-.rc-levels{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:1em 0 1.5em}
-.rc-level{margin:0;text-align:center;font-size:0.85em;line-height:1.3}
-.rc-level img{width:100%;max-width:150px;height:auto;border-radius:6px;box-shadow:0 1px 4px rgba(0,0,0,.15)}
-.rc-level span{color:#777}
-.rc-badge{display:block;width:120px;height:auto;margin:0 0 0.8em;border-radius:6px;box-shadow:0 1px 4px rgba(0,0,0,.15)}
-.rc-badge-sm{width:44px;height:auto;vertical-align:middle;margin-right:10px;border-radius:4px;box-shadow:0 1px 3px rgba(0,0,0,.15)}
-.rc-join{display:inline-block;margin:0.2em 0 1em;padding:0.65em 1.15em;background:#3498db;color:#fff !important;text-decoration:none !important;border-radius:6px;font-weight:bold}
-.rc-join:hover,.rc-join:focus{background:#217dbb;color:#fff !important;text-decoration:none !important}
-.rc-note{color:#777;font-size:0.92em}
-.rc-perks{list-style:none;margin:0 0 1.2em;padding:0}
-.rc-perks>li{margin:0 0 0.75em;padding:0.75em 0.9em;border:1px solid #ddd;border-radius:6px}
-.rc-perks ul{margin:0.35em 0 0 1.15em}
-.rc-price{color:#777;font-weight:normal}
-@media (max-width:640px){.rc-join{display:block;text-align:center}}
-</style>
+{% include member-cta.html lead=false variant="strip" %}
 
 <div class="rc-levels">
   <figure class="rc-level"><img src="/images/badges/badge-pet.webp" alt="Commodore PET (Mono) membership badge" width="150" height="150" loading="lazy"><figcaption><strong>Commodore PET (Mono)</strong><br><span>Member</span></figcaption></figure>
@@ -101,9 +86,10 @@ Table of Contents
 
 <hr>
 
-## Executive Producers (MEGA≡65-Level Members) {#executive-producers-mega65-level-members}
-
+<div class="level-head">
 <img class="rc-badge" src="/images/badges/badge-mega65.webp" alt="MEGA≡65 (FPGA) membership badge" width="120" height="120">
+<h2 id="executive-producers-mega65-level-members">Executive Producers (MEGA≡65-Level Members)</h2>
+</div>
 
 - DesertBlizzard
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
@@ -111,9 +97,10 @@ Table of Contents
 - Motor Ratte
 - MrLandphill
 
-## Producers (C128-Level Members) {#producers-c128-level-members}
-
+<div class="level-head">
 <img class="rc-badge" src="/images/badges/badge-c128.webp" alt="C128 (Bil Herd Approved!) membership badge" width="120" height="120">
+<h2 id="producers-c128-level-members">Producers (C128-Level Members)</h2>
+</div>
 
 - Andy Petrie
 - Dan Webb

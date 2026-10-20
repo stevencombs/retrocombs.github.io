@@ -5,6 +5,7 @@ permalink: chromeos
 redirect_from:
   - /chrome.html
 
+ads: light
 ---
 
 <img class="category" src="/images/design/chromeos.svg" width="20%" />

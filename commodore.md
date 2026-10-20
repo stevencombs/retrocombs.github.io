@@ -2,6 +2,7 @@
 layout: pages
 title: Commodore Business Machines (CBM)
 permalink: commodore
+ads: light
 ---
 
 <img class="category" src="/images/design/commodore.svg" width="20%" />

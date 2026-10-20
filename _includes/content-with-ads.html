@@ -1,0 +1,28 @@
+{%- assign mode  = page.ads | default: "full" -%}
+{%- assign words = include.html | number_of_words -%}
+{%- assign parts = include.html | split: "<h2" -%}
+{%- assign n = parts.size | minus: 1 -%}
+{%- assign a = -1 -%}{%- assign b = -1 -%}
+{%- if mode == "full" or mode == true -%}
+  {%- if words >= 1500 and n >= 6 -%}
+    {%- assign a = n | divided_by: 3 -%}{%- assign b = n | times: 2 | divided_by: 3 -%}
+  {%- elsif words >= 600 and n >= 3 -%}
+    {%- assign a = n | plus: 1 | divided_by: 2 -%}
+  {%- endif -%}
+  {%- if a < 2 and a != -1 -%}{%- assign a = 2 -%}{%- endif -%}
+{%- endif -%}
+{%- assign placed_a = false -%}
+{%- for part in parts -%}
+  {%- if forloop.first -%}{{ part }}{%- continue -%}{%- endif -%}
+  {%- assign i = forloop.index0 -%}
+  {%- assign prev_index = i | minus: 1 -%}
+  {%- assign prev = parts[prev_index] -%}
+  {%- assign risky = false -%}
+  {%- if prev contains 'youtube' or prev contains '<iframe' or prev contains 'member-cta' or prev contains 'toc-box' -%}{%- assign risky = true -%}{%- endif -%}
+  {%- if placed_a == false and a != -1 and i >= a and risky == false -%}
+    {% include ad.html slot="in_article" %}{%- assign placed_a = true -%}{%- assign min_b = i | plus: 2 -%}
+  {%- elsif placed_a and b != -1 and i >= b and i >= min_b and risky == false -%}
+    {% include ad.html slot="in_article" %}{%- assign b = -1 -%}
+  {%- endif -%}
+  <h2{{ part }}
+{%- endfor -%}

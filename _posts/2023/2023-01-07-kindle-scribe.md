@@ -56,7 +56,7 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 Title: _Amazon Kindle Scribe Guide | A Perfect Retro Computing Companion
 _
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/bXiPbneEUZQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="bXiPbneEUZQ" title="Amazon Kindle Scribe Guide | A Perfect Retro Computing Companion" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

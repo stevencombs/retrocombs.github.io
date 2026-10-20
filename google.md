@@ -2,6 +2,7 @@
 layout: pages
 title: Google
 permalink: google
+ads: light
 ---
 
 <img class="category" src="/images/design/google.svg" width="20%" />

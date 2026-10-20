@@ -39,7 +39,7 @@ It's time for another Wyze product first look. This time, it's the Wyze Buds Pro
 
 Watch the video below and then read on my additional thoughts below.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/Mdil8fmURjQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="Mdil8fmURjQ" title="YouTube Video: Wyze Buds Pro | Unboxing | Setup | Pairing | First Use" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

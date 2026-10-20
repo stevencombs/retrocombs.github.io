@@ -89,7 +89,7 @@ Below are the links for previous chapters covered:
 
 In the video below, I work through Chapter 8 of the Plus/4 user's manual and explore the `VOL` and `SOUND` BASIC 3.5 commands.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/GBJ2EVsqrLU" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="GBJ2EVsqrLU" title="YouTube Video: _‌Commodore Plus/4 User's Manual | Chapter 8 - Making Sound and Music | Beeps, boops and bops!" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

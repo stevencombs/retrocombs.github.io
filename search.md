@@ -1,24 +1,18 @@
 ---
 layout: pages
-title: Search StevenCombs.com
-permalink: search
+title: Search retroCombs
+permalink: /search
+sitemap: false
+search: false
+ads: false
 ---
 
-Use the search form below to find content on this site.
-
-<html>
-  <body>
-    <script>
-      (function() {
-        var cx = '006409210940588294859:erp-bj2kq1o';
-        var gcse = document.createElement('script');
-        gcse.type = 'text/javascript';
-        gcse.async = true;
-        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(gcse, s);
-      })();
-    </script>
-    <gcse:search></gcse:search>
-  </body>
-</html>
+<div id="rcs-page" class="rcs-page">
+  <form role="search" action="{{ '/search' | relative_url }}" method="get">
+    <input name="q" type="search" autocomplete="off" enterkeyhint="search" placeholder="Search posts, pages and topics" aria-label="Search retroCombs">
+    <button type="submit">Search</button>
+  </form>
+  <p class="rcs-count" role="status" aria-live="polite"></p>
+  <ul class="rcs-results"></ul>
+  <noscript><p>Search needs JavaScript. You can browse <a href="{{ '/categories' | relative_url }}">all topics</a> or the <a href="{{ '/blog' | relative_url }}">full post list</a> instead.</p></noscript>
+</div>

@@ -38,7 +38,7 @@ Title: _Unboxing and First Play of Retro Games' TheA500 Mini_
 
 Below is an edit of the original 2022-06-12 livestream that includes additional content. In the video, I unbox and use TheA500 Mini for the first time.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/ro38_TSp1PM" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="ro38_TSp1PM" title="Unboxing and First Play of Retro Games' TheA500 Mini" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

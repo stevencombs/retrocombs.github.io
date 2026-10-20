@@ -1,0 +1,6 @@
+{%- assign topic_post_count = 0 -%}
+{%- for key in include.categories -%}
+{%- assign bucket = site.categories[key] -%}
+{%- if bucket -%}{%- assign topic_post_count = topic_post_count | plus: bucket.size -%}{%- endif -%}
+{%- endfor -%}
+{{- topic_post_count -}}

@@ -24,7 +24,7 @@ It's time for a Wyze product OPEN THE BOX and FIRST USE. This time, it's the Wyz
 
 Watch the video below and then read afterward for my additional thoughts on this new smart vacuum from Wyze.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/TzlbTFLvuoE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="TzlbTFLvuoE" title="YouTube Video: _OPEN THE BOX and FIRST USE: Wyze Robot Vacuum, Does it suck?" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

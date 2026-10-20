@@ -24,7 +24,7 @@ I posted an "open-the-box" video for the Lenovo Yoga Smart Tab with Google Assis
 
 In the video below, I open as a box on a Lenovo Yoga Tab with Google Assistant:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/Hu-KtK3lYzA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="Hu-KtK3lYzA" title="YouTube Video: _OPEN THE BOX: Lenovo YOGA Smart TAB with Google Assistant" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

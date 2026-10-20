@@ -1,0 +1,118 @@
+/* retroCombs theme for the giscus iframe.
+   Variable names follow giscus's light theme. Colors are the site palette. */
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://retrocombs.com/assets/fonts/inter/inter-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://retrocombs.com/assets/fonts/inter/inter-600.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://retrocombs.com/assets/fonts/inter/inter-700.woff2") format("woff2");
+}
+
+main {
+  font-family: "Inter", system-ui, "Helvetica Neue", sans-serif;
+  --color-prettylights-syntax-comment: #636054;
+  --color-prettylights-syntax-constant: #464646;
+  --color-prettylights-syntax-entity: #B51E18;
+  --color-prettylights-syntax-storage-modifier-import: #333333;
+  --color-prettylights-syntax-entity-tag: #464646;
+  --color-prettylights-syntax-keyword: #B51E18;
+  --color-prettylights-syntax-string: #636054;
+  --color-prettylights-syntax-variable: #464646;
+  --color-prettylights-syntax-brackethighlighter-unmatched: #B51E18;
+  --color-prettylights-syntax-invalid-illegal-text: #F5ECDD;
+  --color-prettylights-syntax-invalid-illegal-bg: #B51E18;
+  --color-prettylights-syntax-carriage-return-text: #F5ECDD;
+  --color-prettylights-syntax-carriage-return-bg: #B51E18;
+  --color-prettylights-syntax-string-regexp: #464646;
+  --color-prettylights-syntax-markup-list: #333333;
+  --color-prettylights-syntax-markup-heading: #333333;
+  --color-prettylights-syntax-markup-italic: #333333;
+  --color-prettylights-syntax-markup-bold: #333333;
+  --color-prettylights-syntax-markup-deleted-text: #B51E18;
+  --color-prettylights-syntax-markup-deleted-bg: #F5ECDD;
+  --color-prettylights-syntax-markup-inserted-text: #333333;
+  --color-prettylights-syntax-markup-inserted-bg: #D9CDAD;
+  --color-prettylights-syntax-markup-changed-text: #464646;
+  --color-prettylights-syntax-markup-changed-bg: #F5ECDD;
+  --color-prettylights-syntax-markup-ignored-text: #F5ECDD;
+  --color-prettylights-syntax-markup-ignored-bg: #636054;
+  --color-prettylights-syntax-meta-diff-range: #636054;
+  --color-prettylights-syntax-brackethighlighter-angle: #636054;
+  --color-prettylights-syntax-sublimelinter-gutter-mark: #636054;
+  --color-prettylights-syntax-constant-other-reference-link: #464646;
+  --color-btn-text: #333333;
+  --color-btn-bg: #F5ECDD;
+  --color-btn-border: #D9CDAD;
+  --color-btn-shadow: 0 1px 0 rgb(70 70 70 / 6%);
+  --color-btn-inset-shadow: inset 0 1px 0 rgb(255 255 255 / 40%);
+  --color-btn-hover-bg: #D9CDAD;
+  --color-btn-hover-border: #636054;
+  --color-btn-active-bg: #D9CDAD;
+  --color-btn-active-border: #464646;
+  --color-btn-selected-bg: #D9CDAD;
+  --color-btn-primary-text: #F5ECDD;
+  --color-btn-primary-bg: #B51E18;
+  --color-btn-primary-border: #B51E18;
+  --color-btn-primary-shadow: 0 1px 0 rgb(70 70 70 / 12%);
+  --color-btn-primary-inset-shadow: inset 0 1px 0 rgb(255 255 255 / 16%);
+  --color-btn-primary-hover-bg: #8f1813;
+  --color-btn-primary-hover-border: #8f1813;
+  --color-btn-primary-selected-bg: #8f1813;
+  --color-btn-primary-selected-shadow: inset 0 1px 0 rgb(51 51 51 / 20%);
+  --color-btn-primary-disabled-text: rgb(245 236 221 / 80%);
+  --color-btn-primary-disabled-bg: #d9cdad;
+  --color-btn-primary-disabled-border: #d9cdad;
+  --color-action-list-item-default-hover-bg: rgb(217 205 173 / 55%);
+  --color-segmented-control-bg: #D9CDAD;
+  --color-segmented-control-button-bg: #F5ECDD;
+  --color-segmented-control-button-selected-border: #636054;
+  --color-fg-default: #333333;
+  --color-fg-muted: #636054;
+  --color-fg-subtle: #636054;
+  --color-canvas-default: #F5ECDD;
+  --color-canvas-overlay: #F5ECDD;
+  --color-canvas-inset: #D9CDAD;
+  --color-canvas-subtle: #F5ECDD;
+  --color-border-default: #D9CDAD;
+  --color-border-muted: #D9CDAD;
+  --color-neutral-muted: rgb(99 96 84 / 16%);
+  --color-accent-fg: #B51E18;
+  --color-accent-emphasis: #B51E18;
+  --color-accent-muted: rgb(181 30 24 / 35%);
+  --color-accent-subtle: #F5ECDD;
+  --color-success-fg: #464646;
+  --color-attention-fg: #636054;
+  --color-attention-muted: rgb(217 205 173 / 70%);
+  --color-attention-subtle: #F5ECDD;
+  --color-danger-fg: #B51E18;
+  --color-danger-muted: rgb(181 30 24 / 28%);
+  --color-danger-subtle: #F5ECDD;
+  --color-primer-shadow-inset: inset 0 1px 0 rgb(217 205 173 / 40%);
+  --color-scale-gray-1: #D9CDAD;
+  --color-scale-blue-1: #F5ECDD;
+  --color-social-reaction-bg-hover: var(--color-scale-gray-1);
+  --color-social-reaction-bg-reacted-hover: #D9CDAD;
+}
+
+main .pagination-loader-container {
+  background-image: url("https://github.com/images/modules/pulls/progressive-disclosure-line.svg");
+}
+
+main .gsc-loading-image {
+  background-image: url("https://github.githubassets.com/images/mona-loading-default.gif");
+}

@@ -78,7 +78,7 @@ Before starting, and depending on the amount of time you have to burn, consider 
 
 The first video below is the extended WORKBENCH LIVE video. This live session is unedited and includes additional information not found in my edited video below. It also includes some streaming hiccups that occurred along the way that resulted in some "herky-jerky" video moments. If you have some time to kill or just need some geeky background noise, this is the video for you.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/22ZDrUBGBnQ" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="22ZDrUBGBnQ" title="YouTube Video: _WORKBENCH LIVE: Retroflag GPi Case with Super RetroPie emulation software" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
@@ -86,7 +86,7 @@ The first video below is the extended WORKBENCH LIVE video. This live session is
 
 The second video takes that two hour live behemoth and shrinks it down to a much more manageable thirty-minute chunk. If you just want the nuts and bolts toward a first boot of the GPi Case, this one's for you.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/7LkGX_IpcSk" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="7LkGX_IpcSk" title="YouTube Video: _HOWTO: Install Super Retroboy on Retroflag GPi Case" %}
 
 ## Install Balena Etcher
 

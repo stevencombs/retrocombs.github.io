@@ -78,7 +78,7 @@ Title: _Master the MEGA65 Keyboard \| MEGA-sized retroCombs Edition_
 
 In the video below, I cover all aspects of the MEGA65 keyboard.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/Ylji1yc_VRQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="Ylji1yc_VRQ" title="Master the MEGA65 Keyboard | MEGA-sized retroCombs Edition" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

@@ -34,7 +34,7 @@ Would the new Chromecast with Google TV change my mind? Let's find out after we 
 
 Watch the video below and then read on for my additional thoughts on this device. In the video, you will see me open the box, connect, fire up, and use the device for the first time. I also take a look at the new Google TV app that works along side the Chromecast with Google TV.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/-xR0jAZyFGw" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="-xR0jAZyFGw" title="YouTube Video: _OPEN THE BOX and FIRST USE: Chromecast with Google TV (and the Google TV Android app" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

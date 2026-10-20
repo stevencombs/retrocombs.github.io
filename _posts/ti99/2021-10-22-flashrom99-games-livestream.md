@@ -23,7 +23,7 @@ Before you read the rest of this post, look at my companion video below and then
 
 In the video below, I play several 1980s video games using a Texas Instruments TI-99/4A FlashROM99.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/jOO4n3F5MJQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="jOO4n3F5MJQ" title="YouTube Video: _‌Playing TI-99/4A 1980s video games from a FlashROM99 | Livestream edit with captions" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

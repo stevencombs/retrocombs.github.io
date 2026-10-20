@@ -36,7 +36,7 @@ My instructions are for Arch based distributions (Manjaro for me) but the basics
 
 In the video below, demonstrate how to install the DirMaster Windows application on Manjaro Linux:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/fA9RpEtS2f0" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="fA9RpEtS2f0" title="YouTube Video: _retroCombs: FAST LOAD - Install DirMaster on Linux" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

@@ -104,7 +104,7 @@ Video Title: _‌Commodore Plus/4 User's Manual \| The Encyclopedia_
 
 In the video below, I share highlights of the Plus/4 Encyclopedia.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/zWa1s4q4I0s" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="zWa1s4q4I0s" title="Commodore Plus/4 User's Manual | The Encyclopedia" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
@@ -384,7 +384,7 @@ I reached out to Robin, over at [8-Bit Show and Tell](https://www.youtube.com/c/
 
 I once called Robin my 8-Bit guru. I've learned more about retro-computers, primarily Commodore, watching Robin, than any other channel. His videos share interesting information, tips, tricks, and programming strategies. Get your degree in 8-bit computing by watching Robin's channel and get started by watching his TEDMON video below:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/7mtpxmQbs9E" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="7mtpxmQbs9E" title="Commodore Plus/4 User’s Manual - Plus/4 Encyclopedia" %}
 
 If you want to get started in TEDMON, type `MONITOR`. The Plus/4 will immediately enter TEDMON. At first, the screen is intimidating, but even if you don't program in assembly code, there are fun things you can do that I'll share in [Section 9: Plus/4 Memory Register Map](#section-9-plus4-memory-register-map). When finished, type `X` to return to the BASIC prompt.
 

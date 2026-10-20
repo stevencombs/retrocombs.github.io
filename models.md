@@ -2,6 +2,7 @@
 layout: pages
 title: 3D Models
 permalink: models
+ads: light
 ---
 
 <img class="category" src="/images/design/models.svg" width="20%" />

@@ -61,7 +61,7 @@ __Table of Contents__
 
 In the video below, I demonstrate the process to convert a Raspi 400 into a full functioning Commodore 8-bit computer emulator.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/P0EaHOGvtS0" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="P0EaHOGvtS0" title="Watch the Video: _Raspberry Pi 400 + Combian 64 distro = Combian pi/400 | The Ultimate Commodore Computer Emulator?" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

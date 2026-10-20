@@ -1,0 +1,71 @@
+# Homepage latest videos. .github/scripts/latest-videos.py refreshes
+# each channel's videos from its public YouTube RSS feed.
+
+- name: "@retroCombs"
+  style: retro
+  tag: "Commodore 8-bit · MEGA65 · live user-group streams"
+  url: https://www.youtube.com/@retroCombs
+  channel_id: UCjdKGdIl5leQfhJZiHUYFbQ
+  videos:
+    - id: RkOF3pAsjNU
+      title: "🌺 I Spent $6 at a Honolulu Vintage Show: Here’s What I Found!"
+      url: https://www.youtube.com/watch?v=RkOF3pAsjNU
+      published: "2026-10-19"
+      thumbnail: https://i.ytimg.com/vi/RkOF3pAsjNU/maxresdefault.jpg
+      width: 1280
+      height: 720
+    - id: ufjJJpuVegs
+      title: "🔴️ Are these the best new MEGA65 games/apps? Let's test them!"
+      url: https://www.youtube.com/watch?v=ufjJJpuVegs
+      published: "2026-10-18"
+      thumbnail: https://i.ytimg.com/vi/ufjJJpuVegs/maxresdefault.jpg
+      width: 1280
+      height: 720
+    - id: 572EpWpkCBo
+      title: "🏖️️ I Tried To Stream From Hawaii... Here's What Happened"
+      url: https://www.youtube.com/watch?v=572EpWpkCBo
+      published: "2026-10-05"
+      thumbnail: https://i.ytimg.com/vi/572EpWpkCBo/maxresdefault.jpg
+      width: 1280
+      height: 720
+    - id: BkdqBhWYdbU
+      title: "‼️️ LIVE: You Won't Believe What I Found at VCF-MW 2026"
+      url: https://www.youtube.com/watch?v=BkdqBhWYdbU
+      published: "2026-09-28"
+      thumbnail: https://i.ytimg.com/vi/BkdqBhWYdbU/maxresdefault.jpg
+      width: 1280
+      height: 720
+- name: "@retroCombs-tech"
+  style: tech
+  tag: "Real tests. Real tech."
+  url: https://www.youtube.com/@retroCombs-tech
+  channel_id: UCm24j54Ur9uvYu2oskuP5PA
+  videos:
+    - id: YsWzZ2Nj1sY
+      title: "📺️ SeekBox S3 Pro: The Android TV Box You've Been SEEKing?"
+      url: https://www.youtube.com/watch?v=YsWzZ2Nj1sY
+      published: "2026-10-05"
+      thumbnail: https://i.ytimg.com/vi/YsWzZ2Nj1sY/maxresdefault.jpg
+      width: 1280
+      height: 720
+    - id: XCdeEKswxa8
+      title: "🍎️ Does the Wokyis G7 Retro Dock Work With a Mac mini?"
+      url: https://www.youtube.com/watch?v=XCdeEKswxa8
+      published: "2026-09-07"
+      thumbnail: https://i.ytimg.com/vi/XCdeEKswxa8/maxresdefault.jpg
+      width: 1280
+      height: 720
+    - id: fE8jXDB06Fc
+      title: "📀️ Archive, Capture, and Stream with the ClonerAlliance UHD Pro"
+      url: https://www.youtube.com/watch?v=fE8jXDB06Fc
+      published: "2026-08-24"
+      thumbnail: https://i.ytimg.com/vi/fE8jXDB06Fc/maxresdefault.jpg
+      width: 1280
+      height: 720
+    - id: WVmw1CoG5fM
+      title: "📀️ Don't Buy a Streaming Box Until You Watch My SuperBOX S7 Pro Deep Dive"
+      url: https://www.youtube.com/watch?v=WVmw1CoG5fM
+      published: "2026-08-01"
+      thumbnail: https://i.ytimg.com/vi/WVmw1CoG5fM/maxresdefault.jpg
+      width: 1280
+      height: 720

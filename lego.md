@@ -2,6 +2,7 @@
 layout: pages
 title: LEGO
 permalink: lego
+ads: light
 ---
 
 <img class="category" src="/images/design/lego.svg" width="20%" />

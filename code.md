@@ -2,6 +2,7 @@
 layout: pages
 title: Code
 permalink: code
+ads: light
 ---
 
 <img class="category" src="/images/design/code.svg" width="20%" />
