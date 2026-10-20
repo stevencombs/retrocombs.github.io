@@ -22,7 +22,6 @@ defaults:
         height: 630
         alt: retroCombs
 
-comments: true
 highlighter: rouge
 markdown: kramdown
 
