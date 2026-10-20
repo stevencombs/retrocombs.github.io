@@ -358,6 +358,7 @@ header.site .brand{font-family:var(--font-sans)}
 .dd>button.on{border-bottom:3px solid var(--st-yellow);padding-bottom:4px;opacity:1}
 .eyebrow{font-family:var(--font-accent);font-weight:400;font-size:10px;letter-spacing:0;line-height:1.8}
 .chlist .n{font-family:var(--font-retro);font-size:22px;font-weight:400}
+.chlist li > span:first-child{min-width:0}
 .chlist a{color:#fff;text-decoration:none}
 .chlist a:hover{color:var(--st-yellow)}
 footer.site .rc-follow>p{margin:0 0 10px;color:#fff;font-weight:700;font-size:15.5px}

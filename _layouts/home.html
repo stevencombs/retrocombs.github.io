@@ -13,8 +13,8 @@ layout: default
       <ol>
         {% for chapter in site.data.guide.chapters %}
         <li>
-          <span><span class="n">{{ chapter.n }}</span>{% if chapter.url %}<a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a>{% else %}{{ chapter.title }}{% endif %}</span>
-          {% if chapter.url %}<span class="st page">Page + video</span>{% else %}<span class="st soon">Planned</span>{% endif %}
+          <span><span class="n">{{ chapter.n }}</span>{% if chapter.url %}<a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a>{% elsif chapter.video %}<a href="{{ chapter.video }}">{{ chapter.title }}</a>{% else %}{{ chapter.title }}{% endif %}</span>
+          {% if chapter.url %}<span class="st page">Page + video</span>{% elsif chapter.video %}<span class="st vid">Video</span>{% else %}<span class="st soon">Planned</span>{% endif %}
         </li>
         {% endfor %}
       </ol>
