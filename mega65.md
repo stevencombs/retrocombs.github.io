@@ -39,7 +39,7 @@ The latest update (2024-03-03) includes:
 
 ## MY MEGA≡65 USER'S GUIDE SERIES
 
-Check out my ongoing series (as of 2024-03-12), [MEGA≡65 USER'S GUIDE SERIES](/mega65-users-guide.md), where I work through the MEGA≡65 User's Guide chapter-by-chapter.
+Check out my [MEGA≡65 USER'S GUIDE SERIES](/mega65-users-guide), where I work through the MEGA≡65 User's Guide chapter-by-chapter. All seven chapters now have a video and a companion post, from [Chapter 1: Introduction](/mega65-ug-1) through [Chapter 7: Transferring Files](/mega65-ug-7).
 
 ## MY BLOG POSTS
 
