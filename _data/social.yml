@@ -1,10 +1,10 @@
 # Site-wide follow links. Order is the footer order.
 # Brand glyphs in images/icons/ are Simple Icons paths (CC0-1.0).
 # star.svg is a plain star for the membership link.
-- label: YouTube retroCombs
+- label: retroCombs
   url: https://www.youtube.com/@retrocombs
   icon: youtube
-- label: YouTube retroCombs Tech
+- label: retroCombs Tech
   url: https://www.youtube.com/@retrocombs-tech
   icon: youtube
 - label: X

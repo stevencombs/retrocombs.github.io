@@ -536,21 +536,10 @@ img.category{width:56px;height:56px;min-width:0;max-width:56px;object-fit:contai
 }
 
 footer.site .rc-follow{align-self:start}
-footer.site .rc-follow ul{align-content:start;align-items:stretch;grid-auto-rows:min-content;gap:6px 28px}
-footer.site .rc-follow li{margin:0;min-width:0;height:auto}
-footer.site .rc-follow a{display:flex;align-items:center;gap:8px;min-height:0;height:auto;padding:8px 0;box-sizing:border-box}
-.rc-follow-label{display:block;line-height:1.25;min-width:0}
-/* Once a label wraps, every row uses that tallest height so the gap stays the same. */
-@media (max-width:1179px){
-  footer.site .rc-follow ul{grid-auto-rows:calc(2 * 1.25em + 16px)}
-  footer.site .rc-follow a{height:100%}
-}
-@media (min-width:761px) and (max-width:869px){
-  footer.site .rc-follow ul{grid-auto-rows:calc(3 * 1.25em + 16px)}
-}
-@media (max-width:760px){
-  footer.site .rc-follow ul{grid-auto-rows:calc(2 * 1.25em + 16px)}
-}
+footer.site .rc-follow ul{display:flex;flex-wrap:wrap;align-content:flex-start;align-items:flex-start;gap:6px 28px}
+footer.site .rc-follow li{flex:1 1 calc(50% - 14px);max-width:calc(50% - 14px);margin:0;min-width:0;height:auto}
+footer.site .rc-follow a{display:flex;align-items:center;gap:8px;min-height:0;height:auto;padding:0;box-sizing:border-box}
+.rc-follow-label{display:block;line-height:1.25;min-width:0;white-space:nowrap}
 
 /* Active and open nav underlines sit in a border every item already has, so the label does not move. */
 header.site nav > a,
