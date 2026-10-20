@@ -2,6 +2,7 @@
   Membership note: the short lead-in plus a "Join the channel" graphic that links to YouTube.
   channel="retrocombs" (default) or channel="tech". Use tech only when that channel's /join page offers memberships.
   variant="strip" drops the dark box for the cream support strip at the end of posts.
+  lead=false drops the lead-in sentence when the surrounding copy already asks the reader to join.
   Output stays on one line so Markdown never turns it into a code block.
 {% endcomment %}
 {%- if include.channel == "tech" -%}
@@ -11,13 +12,16 @@
 {%- assign join_url = "https://www.youtube.com/@retrocombs/join" -%}
 {%- assign join_name = "retroCombs" -%}
 {%- endif -%}
+{%- assign mc_variant = include.variant | default: "note" -%}
 {%- capture member_cta -%}
 <div class="member-cta{% if include.variant == 'strip' %} member-cta--strip{% endif %}">
+{%- unless include.lead == false -%}
 <p>Enjoying the videos? Become a channel member to support retroCombs:</p>
+{%- endunless -%}
 <a class="member-btn" href="{{ join_url }}" target="_blank" rel="noopener">
 <svg viewBox="0 0 320 88" width="320" height="88" role="img" focusable="false"><title>Join the channel: become a {{ join_name }} member on YouTube (opens in a new tab)</title>
-<defs><clipPath id="mcclip"><rect width="320" height="88" rx="12"/></clipPath></defs>
-<g clip-path="url(#mcclip)">
+<defs><clipPath id="mcclip-{{ mc_variant }}"><rect width="320" height="88" rx="12"/></clipPath></defs>
+<g clip-path="url(#mcclip-{{ mc_variant }})">
 <rect width="320" height="88" fill="#B51E18"/>
 <polygon points="0,0 106,0 88,88 0,88" fill="#636054"/>
 <image href="{{ '/images/brand/retroCombs-logo-160.png' | relative_url }}" x="2" y="2" width="84" height="84"/>
