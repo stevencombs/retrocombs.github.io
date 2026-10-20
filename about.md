@@ -8,10 +8,6 @@ permalink: about
 
 This page lists posts that provide insights into my personal interests or that do not fit within other categories. It also provides a comprehensive employment biography that can be used as a narrative for conference and presentation introductions.
 
-This page can be accessed and shared using the link below:
-
-</about>
-
 ## Post about me
 
 <ul id="blog-posts" class="posts">

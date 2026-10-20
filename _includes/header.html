@@ -47,7 +47,16 @@
           <div class="all"><span>{{ topic_total }} topic pages · {{ site.posts.size }} posts. Numbers are post counts.</span><a href="{{ "/categories" | relative_url }}">All topics →</a></div>
         </div>
       </div>
-      <a href="https://www.youtube.com/@retrocombs/videos">Videos</a>
+      <div class="dd" id="videos">
+        <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="videos-menu">Videos</button>
+        <div class="menu menu-compact" id="videos-menu">
+          <div class="stripes">{% include stripes.html %}</div>
+          <ul>
+            <li><a href="https://www.youtube.com/@retrocombs/videos">retroCombs <span>retro computing</span></a></li>
+            <li><a href="https://www.youtube.com/@retrocombs-tech/videos">retroCombs Tech <span>modern tech</span></a></li>
+          </ul>
+        </div>
+      </div>
       <a href="{{ "/about" | relative_url }}"{% if here == "/about" %} class="on" aria-current="page"{% endif %}>About</a>
       <a href="{{ "/supporters" | relative_url }}"{% if here == "/supporters" %} class="on" aria-current="page"{% endif %}>Support</a>
     </nav>
@@ -81,7 +90,15 @@
         </div>
       </details>
     </li>
-    <li><a href="https://www.youtube.com/@retrocombs/videos">Videos</a></li>
+    <li>
+      <details>
+        <summary>Videos</summary>
+        <div class="tl">
+          <a href="https://www.youtube.com/@retrocombs/videos">retroCombs <span>retro computing</span></a>
+          <a href="https://www.youtube.com/@retrocombs-tech/videos">retroCombs Tech <span>modern tech</span></a>
+        </div>
+      </details>
+    </li>
     <li><a href="{{ "/about" | relative_url }}">About</a></li>
     <li><a href="{{ "/supporters" | relative_url }}">Support</a></li>
     <li><a href="{{ "/search" | relative_url }}?q=">Search</a></li>

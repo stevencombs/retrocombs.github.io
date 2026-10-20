@@ -23,7 +23,8 @@
 - label: Facebook
   url: https://www.facebook.com/retroCombsFB
   icon: facebook
-- label: Join the channel (members get Discord)
+- label: Join the channel
+  note: Members get Discord
   url: https://www.youtube.com/@retrocombs/join
   icon: star
 - label: Tip on PayPal

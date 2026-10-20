@@ -84,9 +84,10 @@ Table of Contents
 
 <hr>
 
-## Executive Producers (MEGA≡65-Level Members) {#executive-producers-mega65-level-members}
-
+<div class="level-head">
 <img class="rc-badge" src="/images/badges/badge-mega65.webp" alt="MEGA≡65 (FPGA) membership badge" width="120" height="120">
+<h2 id="executive-producers-mega65-level-members">Executive Producers (MEGA≡65-Level Members)</h2>
+</div>
 
 - DesertBlizzard
 - [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg)
@@ -94,9 +95,10 @@ Table of Contents
 - Motor Ratte
 - MrLandphill
 
-## Producers (C128-Level Members) {#producers-c128-level-members}
-
+<div class="level-head">
 <img class="rc-badge" src="/images/badges/badge-c128.webp" alt="C128 (Bil Herd Approved!) membership badge" width="120" height="120">
+<h2 id="producers-c128-level-members">Producers (C128-Level Members)</h2>
+</div>
 
 - Andy Petrie
 - Dan Webb

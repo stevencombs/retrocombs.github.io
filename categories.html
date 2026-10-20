@@ -1,16 +1,50 @@
 ---
 layout: pages
-title: Categories
+title: Topics
 ads: false
+wide: true
 ---
 
-<ul>
+<p class="topic-lead">Every topic on the site, with a short description and the three latest posts. MEGA65 leads the retro computing group.</p>
+<div class="topic-board">
 {% for group in site.data.topics.groups %}
-  {% for topic in group.items %}
-  <li><a href="{{ topic.url | relative_url }}">{{ topic.name }}</a></li>
-  {% endfor %}
+<section class="topic-group{% if forloop.first %} topic-group-lead{% endif %}">
+  <h2>{{ group.name }}</h2>
+  <div class="topic-grid">
+    {% for topic in group.items %}
+    {% capture count %}{% include topic-count.html categories=topic.categories %}{% endcapture %}
+    {% assign count = count | strip %}
+    <article class="topic-card{% if forloop.parentloop.first and forloop.first %} topic-card-lead{% endif %}">
+      <a class="topic-card-main" href="{{ topic.url | relative_url }}">
+        {% if topic.icon %}<img src="{{ topic.icon | relative_url }}" alt="" width="48" height="48">{% endif %}
+        <span class="topic-card-name">{{ topic.name }} <b>{{ count }}</b></span>
+        {% if topic.blurb %}<span class="topic-card-blurb">{{ topic.blurb }}</span>{% endif %}
+      </a>
+      <ul>
+        {%- assign shown = 0 -%}
+        {%- assign seen = "|" -%}
+        {%- for post in site.posts -%}
+          {%- if shown >= 3 -%}{% break %}{%- endif -%}
+          {%- assign hit = false -%}
+          {%- for cat in topic.categories -%}
+            {%- if post.categories contains cat -%}{% assign hit = true %}{%- endif -%}
+          {%- endfor -%}
+          {%- if hit -%}
+            {%- assign mark = "|" | append: post.id | append: "|" -%}
+            {%- unless seen contains mark -%}
+              <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+              {%- assign seen = seen | append: post.id | append: "|" -%}
+              {%- assign shown = shown | plus: 1 -%}
+            {%- endunless -%}
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </article>
+    {% endfor %}
+  </div>
+</section>
 {% endfor %}
-</ul>
+</div>
 
 {% assign known = "|" %}
 {% for group in site.data.topics.groups %}
@@ -21,15 +55,26 @@ ads: false
   {% endfor %}
 {% endfor %}
 
+{% assign stray = false %}
 {% for category in site.categories %}
   {% assign key = category[0] %}
   {% assign mark = "|" | append: key | append: "|" %}
-  {% unless known contains mark %}
-  <h2 id="{{ key | slugify }}">{{ key }}</h2>
-  <ul>
-    {% for post in category[1] %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-  {% endunless %}
+  {% unless known contains mark %}{% assign stray = true %}{% endunless %}
 {% endfor %}
+{% if stray %}
+<section class="topic-stray">
+  <h2>Other labels</h2>
+  {% for category in site.categories %}
+    {% assign key = category[0] %}
+    {% assign mark = "|" | append: key | append: "|" %}
+    {% unless known contains mark %}
+    <h3 id="{{ key | slugify }}">{{ key }}</h3>
+    <ul>
+      {% for post in category[1] %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endunless %}
+  {% endfor %}
+</section>
+{% endif %}

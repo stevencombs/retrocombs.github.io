@@ -9,16 +9,7 @@ layout: default
       <p>Each chapter gets a video, a written companion page, the commands from the episode, and links to the official manual.</p>
       <a class="btn primary" href="{{ "/mega65-ug-1" | relative_url }}">Start with Chapter 1</a><a class="btn ghost" href="{{ site.data.guide.playlist }}">Watch the playlist</a>
     </div>
-    <div class="chlist">
-      <ol>
-        {% for chapter in site.data.guide.chapters %}
-        <li>
-          <span><span class="n">{{ chapter.n }}</span>{% if chapter.url %}<a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a>{% elsif chapter.video %}<a href="{{ chapter.video }}">{{ chapter.title }}</a>{% else %}{{ chapter.title }}{% endif %}</span>
-          {% if chapter.url %}<span class="st page">Page + video</span>{% elsif chapter.video %}<span class="st vid">Video</span>{% else %}<span class="st soon">Planned</span>{% endif %}
-        </li>
-        {% endfor %}
-      </ol>
-    </div>
+    {% include guide-list.html %}
   </div>
 </section>
 

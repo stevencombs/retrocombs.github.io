@@ -475,3 +475,98 @@ ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
   .rcs-page form{flex-direction:column}
   .rcs-page button{padding:12px 18px}
 }
+
+/* =====================================================================
+   Theme polish: sharp content images, Videos menu, guide pills,
+   tile row gap, 56px topic icons, supporter columns, footer grid,
+   /categories cards.
+   Buttons, pills, chips, and the header logo keep their rounding.
+   ===================================================================== */
+
+.prose img,.prose video,.vid img,.yt .frame,.video-container video,.video-container img,.rc-badge,.rc-badge-sm,.rc-level img{border-radius:0}
+.prose iframe[src*="youtube.com"],.prose iframe[src*="youtube-nocookie.com"],.prose iframe[src*="youtu.be"]{border-radius:0}
+
+.menu.menu-compact{width:280px;right:0}
+.menu.menu-compact ul{margin:0;padding:8px 16px 12px}
+.menu.menu-compact li a{padding:8px 0;gap:12px}
+@media (max-width:1100px){.menu.menu-compact{width:260px}}
+
+a.st.page,a.st.vid{text-decoration:none}
+.chlist a.st.page:hover,.chlist a.st.page:focus-visible{color:#122;background:#7ee85a;box-shadow:0 0 0 2px #fff}
+.chlist a.st.vid:hover,.chlist a.st.vid:focus-visible{color:#221;background:#ffb133;box-shadow:0 0 0 2px #fff}
+
+.posts{row-gap:20px;column-gap:20px}
+.posts + .posts{margin-top:20px}
+.prose ul.posts{padding-left:0;list-style:none}
+.prose ul.posts li{margin:0}
+
+img.category{width:56px;height:56px;min-width:0;max-width:56px;object-fit:contain;border-radius:0}
+@media (max-width:760px){img.category{width:56px;height:56px;max-width:56px}}
+
+.page-body .prose.prose-wide{max-width:none}
+
+.supporters .page-body .prose{max-width:none}
+.level-head{display:flex;align-items:center;gap:16px;margin:2em 0 .75em;padding-top:14px;border-top:4px solid var(--rc-beige);position:relative}
+.level-head::before{content:"";position:absolute;left:0;top:-4px;width:64px;height:4px;background:linear-gradient(90deg,var(--st-red) 0 20%,var(--st-orange) 20% 40%,var(--st-yellow) 40% 60%,var(--st-green) 60% 80%,var(--st-blue) 80%)}
+.prose .level-head h2{margin:0;padding:0;border:0;flex:1;font-size:24px;line-height:1.25}
+.prose .level-head h2::before{content:none}
+.level-head .rc-badge{width:72px;height:auto;margin:0;flex:none}
+.prose h3:has(img.rc-badge-sm){display:flex;align-items:center;gap:10px}
+.level-head + ul,
+.prose h3:has(img.rc-badge-sm) + ul{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px 28px;list-style:none;padding:0;margin:0 0 1.2em}
+.level-head + ul li,
+.prose h3:has(img.rc-badge-sm) + ul li{margin:0;min-width:0}
+.level-head + ul li::before,
+.prose h3:has(img.rc-badge-sm) + ul li::before{content:"· ";color:var(--rc-slate)}
+@media (max-width:1000px){
+  .level-head + ul,
+  .prose h3:has(img.rc-badge-sm) + ul{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media (max-width:760px){
+  .level-head{gap:12px}
+  .level-head .rc-badge{width:56px}
+  .prose .level-head h2{font-size:20px}
+  .level-head + ul,
+  .prose h3:has(img.rc-badge-sm) + ul{grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 16px}
+}
+
+.rc-follow ul{align-items:stretch;gap:8px 28px}
+.rc-follow li{margin:0;min-width:0}
+.rc-follow a{display:flex;align-items:center;gap:8px;min-height:44px;height:100%;padding:4px 0;box-sizing:border-box}
+.rc-follow-label{display:flex;flex-direction:column;line-height:1.25;min-width:0}
+.rc-follow-label small{display:block;margin-top:1px;font-size:12px;font-weight:500;color:#c9c2b0}
+
+.topic-lead{margin:0 0 22px;max-width:62ch;color:var(--rc-slate);font-size:16.5px}
+.topic-board{display:grid;gap:28px}
+.prose .topic-group > h2{margin:0 0 14px;padding:0 0 12px;border:0;font-family:var(--font-accent);font-size:11px;font-weight:400;letter-spacing:0;line-height:1.7;text-transform:uppercase;color:var(--rc-charcoal);position:relative}
+.prose .topic-group > h2::before{content:none}
+.prose .topic-group > h2::after{content:"";position:absolute;left:0;bottom:0;width:168px;height:4px;background:linear-gradient(90deg,#B51E18 0 16%,#FF9400 16% 33%,#FFD866 33% 50%,#FFFF00 50% 66%,#60D838 66% 83%,#00A5FF 83%)}
+.topic-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.topic-card{display:flex;flex-direction:column;min-width:0;background:#fff;border:1px solid var(--rc-beige);border-top:5px solid var(--rc-slate);border-radius:12px;padding:14px 16px 12px}
+.topic-card-lead{grid-column:1 / -1;display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:8px 28px;align-items:center;background:var(--rc-cream);border-top-color:var(--rc-red)}
+.topic-card-main{display:grid;grid-template-columns:48px minmax(0,1fr);column-gap:12px;row-gap:2px;align-items:center;text-decoration:none;color:var(--rc-ink)}
+.prose .topic-card-main{text-decoration:none;color:inherit}
+.topic-card-main img{grid-row:1 / span 2;width:48px;height:48px;max-width:48px;object-fit:contain;border-radius:0}
+.topic-card-name{font-weight:800;font-size:17px;line-height:1.25;color:var(--rc-ink)}
+.topic-card-name b{font-family:var(--font-retro);font-weight:400;font-size:26px;color:var(--rc-red);margin-left:6px;letter-spacing:0}
+.topic-card-blurb{display:block;font-size:13.5px;line-height:1.4;color:var(--rc-slate)}
+.topic-card-main:hover .topic-card-name,.topic-card-main:focus-visible .topic-card-name{color:var(--rc-red)}
+.topic-card ul{list-style:none;margin:12px 0 0;padding:10px 0 0;border-top:1px solid var(--rc-beige)}
+.topic-card ul:empty{display:none}
+.prose .topic-card li{margin:0}
+.prose .topic-card li a{display:block;padding:4px 0;font-size:14px;line-height:1.35;color:var(--rc-ink);text-decoration:none}
+.prose .topic-card li a:hover,.prose .topic-card li a:focus-visible{color:var(--rc-red)}
+.topic-card-lead ul{margin:0;padding:2px 0 2px 16px;border-top:0;border-left:4px solid #FF9400}
+.topic-stray{margin-top:8px}
+.prose .topic-stray > h2{margin:0 0 8px;padding:0 0 10px;border:0;font-family:var(--font-accent);font-size:11px;font-weight:400;color:var(--rc-slate)}
+.prose .topic-stray > h2::before{content:none}
+.topic-stray h3{font-size:16px}
+.topic-stray ul{columns:2;column-gap:28px;margin:0 0 1em;padding-left:1.2em}
+.topic-stray li{break-inside:avoid}
+@media (max-width:1000px){.topic-grid{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+  .topic-grid{grid-template-columns:1fr}
+  .topic-card-lead{grid-template-columns:1fr;gap:4px}
+  .topic-card-lead ul{border-left:0;border-top:1px solid var(--rc-beige);padding:10px 0 0;margin-top:8px}
+  .topic-stray ul{columns:1}
+}
