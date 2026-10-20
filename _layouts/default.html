@@ -11,6 +11,9 @@
     {% seo %}
     {% feed_meta %}
     <link rel="icon" href="{{ "/favicon.ico" | relative_url }}">
+    {% for item in site.data.social %}{% if item.rel == "me" %}
+    <link rel="me" href="{{ item.url }}">
+    {% endif %}{% endfor %}
 
 {% unless page.ads == false %}
 <!-- Adsense Code -->
@@ -64,6 +67,7 @@
 
       </section>
       <footer>
+        {% include follow.html %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
