@@ -54,9 +54,8 @@ layout: default
       </article>
       {% include ad.html slot="end" %}
       <section class="support-strip" aria-label="Support retroCombs">
-        <p>Enjoying the videos? Become a channel member to support retroCombs: <a href="https://www.youtube.com/@retrocombs/join">https://www.youtube.com/@retrocombs/join</a>.</p>
+        {% include member-cta.html channel="retrocombs" variant="strip" %}
         <div class="btns">
-          <a class="btn dark" href="https://www.youtube.com/@retrocombs/join"><span class="rc-follow-icon" style="--rc-icon: url('{{ "/images/icons/star.svg" | relative_url }}')" aria-hidden="true"></span>Join the channel</a>
           <a class="btn red" href="https://paypal.me/stevencombs"><span class="rc-follow-icon" style="--rc-icon: url('{{ "/images/icons/paypal.svg" | relative_url }}')" aria-hidden="true"></span>Tip on PayPal</a>
         </div>
       </section>

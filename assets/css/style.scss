@@ -234,10 +234,15 @@ article.card,.page-body{background:#fff;border-radius:14px;padding:38px 48px;box
 .yt .play span::after{content:"";border-left:22px solid #F5ECDD;border-top:13px solid transparent;border-bottom:13px solid transparent;margin-left:5px}
 .yt .yt-title{display:block;margin-top:8px;font-size:15px;font-weight:700;line-height:1.35;color:var(--rc-ink)}
 .prose .yt a{text-decoration:none}
-.member-cta{display:flex;gap:12px;align-items:flex-start;background:var(--rc-charcoal);color:#fff;border-radius:12px;padding:14px 18px;margin:0 0 1.4em;font-size:16px;line-height:1.5}
-.member-cta::before{content:"";flex:0 0 22px;height:22px;margin-top:1px;background:var(--st-yellow);-webkit-mask:url("/images/icons/star.svg") center/contain no-repeat;mask:url(assets/icons/star.svg) center/contain no-repeat}
-.member-cta p{margin:0}
-.prose .member-cta a{color:var(--st-yellow)}
+.member-cta{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center;background:var(--rc-charcoal);color:#fff;border-radius:12px;padding:14px 18px;margin:0 0 1.4em;font-size:16px;line-height:1.5}
+.member-cta p{margin:0;flex:1 1 220px}
+.member-cta .member-btn{display:block;flex:0 1 300px;max-width:300px;line-height:0;border-radius:12px;text-decoration:none;transition:transform .12s ease,box-shadow .12s ease;box-shadow:0 3px 0 rgba(0,0,0,.35)}
+.member-cta .member-btn svg{display:block;width:100%;height:auto}
+.member-cta .member-btn:hover{transform:translateY(-2px);box-shadow:0 5px 0 rgba(0,0,0,.35)}
+.member-cta .member-btn:focus-visible{outline:3px solid var(--st-yellow);outline-offset:3px}
+.member-cta--strip{background:none;color:inherit;padding:0;margin:0;flex:1 1 420px}
+.member-cta--strip .member-btn{box-shadow:0 3px 0 rgba(0,0,0,.2)}
+@media (max-width:520px){.member-cta .member-btn{flex-basis:100%;max-width:340px}}
 
 /* Post footer pieces */
 .support-strip{display:flex;flex-wrap:wrap;gap:14px 22px;align-items:center;justify-content:space-between;margin:34px 0 0;padding:20px 22px;border-radius:12px;background:var(--rc-cream);border-top:5px solid var(--st-orange)}
@@ -374,7 +379,6 @@ header.site .brand{font-family:var(--font-sans)}
 .chlist a{color:#fff;text-decoration:none}
 .chlist a:hover{color:var(--st-yellow)}
 footer.site .rc-follow>p{margin:0 0 10px;color:#fff;font-weight:700;font-size:15.5px}
-.prose p.member-cta{margin:0 0 1.4em}
 .prose .highlight{margin:0 0 1.2em}
 .prose .highlight pre{margin:0}
 .prose .highlight .c,.prose .highlight .c1,.prose .highlight .cm,.prose .highlight .ch{color:#cbbfa6;font-style:italic}
