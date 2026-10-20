@@ -1,14 +1,37 @@
 (function () {
-  var topics = document.getElementById("topics");
-  var topicsBtn = topics && topics.querySelector("button");
+  var dropdowns = Array.prototype.slice.call(document.querySelectorAll("header.site .dd"));
   var menuBtn = document.querySelector(".menu-btn");
 
-  if (topicsBtn) {
-    topicsBtn.addEventListener("click", function () {
-      var open = topics.classList.toggle("open");
-      topicsBtn.setAttribute("aria-expanded", open ? "true" : "false");
-    });
+  function closeDropdown(dd) {
+    dd.classList.remove("open");
+    var btn = dd.querySelector("button");
+    if (btn) btn.setAttribute("aria-expanded", "false");
   }
+
+  function openDropdown(dd) {
+    dropdowns.forEach(function (other) {
+      if (other !== dd) closeDropdown(other);
+    });
+    dd.classList.add("open");
+    var btn = dd.querySelector("button");
+    if (btn) btn.setAttribute("aria-expanded", "true");
+  }
+
+  dropdowns.forEach(function (dd) {
+    var btn = dd.querySelector("button");
+    if (!btn) return;
+    btn.addEventListener("click", function () {
+      if (dd.classList.contains("open")) closeDropdown(dd);
+      else openDropdown(dd);
+    });
+    btn.addEventListener("keydown", function (event) {
+      if (event.key !== "ArrowDown") return;
+      event.preventDefault();
+      openDropdown(dd);
+      var first = dd.querySelector(".menu a");
+      if (first) first.focus();
+    });
+  });
 
   if (menuBtn) {
     menuBtn.addEventListener("click", function () {
@@ -18,18 +41,19 @@
   }
 
   document.addEventListener("click", function (event) {
-    if (topics && !topics.contains(event.target)) {
-      topics.classList.remove("open");
-      if (topicsBtn) topicsBtn.setAttribute("aria-expanded", "false");
-    }
+    dropdowns.forEach(function (dd) {
+      if (!dd.contains(event.target)) closeDropdown(dd);
+    });
   });
 
   document.addEventListener("keydown", function (event) {
     if (event.key !== "Escape") return;
-    if (topics) {
-      topics.classList.remove("open");
-      if (topicsBtn) topicsBtn.setAttribute("aria-expanded", "false");
-    }
+    dropdowns.forEach(function (dd) {
+      if (!dd.classList.contains("open")) return;
+      var btn = dd.querySelector("button");
+      closeDropdown(dd);
+      if (btn) btn.focus();
+    });
     document.body.classList.remove("mnav");
     if (menuBtn) menuBtn.setAttribute("aria-expanded", "false");
   });
