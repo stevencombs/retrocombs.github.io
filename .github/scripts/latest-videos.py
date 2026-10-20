@@ -9,6 +9,9 @@ Entries whose link contains /shorts/ are skipped. When that endpoint does not
 return an Atom feed, the script reads the public /videos tab instead and
 still skips anything linked as a Short. Only _data/channels.yml is written,
 and only when the video list actually changed.
+
+If a channel cannot be read from either source, the script exits 0 and does
+not write the file, so a bad fetch cannot wipe the tiles.
 """
 
 import json
@@ -246,19 +249,27 @@ def render(channels):
 
 def main():
     current = DATA.read_text(encoding="utf-8")
-    channels = parse_channels(current)
-    if not channels:
-        raise SystemExit("no channels in " + str(DATA))
-    for channel in channels:
-        channel["videos"] = videos_for(channel)
-        print("{0}: {1}".format(channel["name"], ", ".join(v["id"] for v in channel["videos"])))
-    updated = render(channels)
+    try:
+        channels = parse_channels(current)
+        if not channels:
+            raise RuntimeError("no channels in " + str(DATA))
+        for channel in channels:
+            channel["videos"] = videos_for(channel)
+            print("{0}: {1}".format(channel["name"], ", ".join(v["id"] for v in channel["videos"])))
+        updated = render(channels)
+    except Exception as exc:
+        print(
+            "Video refresh failed ({0}). Leaving {1} unchanged.".format(exc, DATA.name),
+            file=sys.stderr,
+        )
+        return 0
     if updated == current:
         print("No video changes.")
-        return
+        return 0
     DATA.write_text(updated, encoding="utf-8")
     print("Updated " + str(DATA.relative_to(ROOT)))
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
