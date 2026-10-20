@@ -30,7 +30,7 @@ During the 2020 fourth of July weekend, Nikki and I brokedecided to break out so
 
 In the video below, I have some fun demonstrating my process to create a LEGO minifig display from an IKEA Lustigt wall display unit and some Makya building brick tape.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/FHxMdBNKRQ4" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="FHxMdBNKRQ4" title="YouTube Video: _Easy to Build LEGO Minifig Display (Mash-up of DC Comics, LEGO, IKEA, and Makya)" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

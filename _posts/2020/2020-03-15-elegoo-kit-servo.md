@@ -36,10 +36,7 @@ Using an [Elegoo branded Arduino MEGA 2560 (MEGA) (#ad)](https://amzn.to/362vn2V
 
 Below is a step-by-step video I produced for this project.
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/pVdh0EwnERk" frameborder="0" allowfullscreen
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="pVdh0EwnERk" title="BUILD & CODE: Elegoo Arduino starter kit servo, LED, and encoder project" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

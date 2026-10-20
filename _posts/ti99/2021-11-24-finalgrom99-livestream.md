@@ -42,7 +42,7 @@ Title: _Texas Instruments TI-99/4A FinalGROM 99 Livestream Edit_
 
 In the video below, I ...
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/C-HizpDpqYI" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="C-HizpDpqYI" title="Texas Instruments TI-99/4A FinalGROM 99 Livestream Edit" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

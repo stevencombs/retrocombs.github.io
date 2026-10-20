@@ -55,7 +55,7 @@ The MEGA65 part of that description is where our interest lies today. Let's set 
 
 In the video below, I show how to install and use Xemu/xmega65 to emulate a MEGA65 on a Mac computer.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/8PbSxkYVD8I" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="8PbSxkYVD8I" title="YouTube Video: _Install and run the MEGA65 emulator, Xemu, on Mac OS X" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

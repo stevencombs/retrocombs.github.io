@@ -24,7 +24,7 @@ THEVIC20 is a modern recreation of my first computer, the Commodore VIC-20. I ab
 
 In the video below, I share 10 reasons why THEVIC20 is the perfect gift for the retro-computing fan on your holiday shopping list.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/QYr5078FzJE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="QYr5078FzJE" title="YouTube Video: _10 reasons THEVIC20 and THEC64 are great retro-computing gifts" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

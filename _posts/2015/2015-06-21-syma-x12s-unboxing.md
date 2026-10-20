@@ -69,7 +69,7 @@ After spending a bit of time with this nano quadcopter, I have a few initial tho
 * Rugged - I crashed the thing several times without any damage
 * Includes headless mode (for even easier flying) as described in the video below by [Quadcopter101](https://www.youtube.com/channel/UC90A4JdsSoFm1Okfu0DHTuQ)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/bFtMIc7p8Oc" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="bFtMIc7p8Oc" title="Initial Thoughts" %}
 
 * Instruction translation is hit or miss
 * Fast charging time for about 4-5 mins of flight

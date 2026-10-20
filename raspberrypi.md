@@ -47,7 +47,7 @@ Below are links referenced during my presentation or links that supplement quest
 * [C.H.I.P.](https://www.getchip.com/) - View this page to learn why I am excited about this new $8 Kickstarter physical computing platform. When the C.H.I.P. arrives, additional information will appear on my [embedded systems page](/embedded.html).
 * [Pocket C.H.I.P.](https://www.getchip.com/pages/pocketchip) - Place the C.H.I.P. into a handheld keyboard/LCD screen combinations and you have the perfect on the go physical computing or gaming development platform (see video below).
 
-<iframe width="649" height="389" src="https://www.youtube.com/embed/W3qkdB5bzLY" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="W3qkdB5bzLY" title="Raspberry Pi Presentation video" %}
 
 ## My Raspberry Pi blog posts (list updates automatically)
 <ul id="blog-posts" class="posts">

@@ -36,10 +36,7 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 
 Before I share the process, here's a video showing the Arduino IDE uploading code from my Pixel Slate to an Arduino Uno.
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/hAuv_M3l_ag" frameborder="0" allowfullscreen
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="hAuv_M3l_ag" title="Install Arduino IDE on Chrome OS - now with device support!" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

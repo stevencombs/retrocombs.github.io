@@ -17,7 +17,7 @@ tags:
 
 The new Google Pixel smartphone arrived on my door step October 21, 2016; a day after the official release. I preordered the  phone the next day. As Google made the phone demonstration at their October 4 event (see video below), I knew it was time to replace my aging Nexus 6 phone with the new Google Pixel phone.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yhsd2F8BIz0" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="yhsd2F8BIz0" title="Three week thoughts on the Google Pixel" %}
 
 This blog post shares my Pixel phone thoughts and observations after a few weeks of use. Before you begin to read this post, check out [my unboxing images][1] for a visual description of the phone and the phone box contents.
 
@@ -105,7 +105,7 @@ I took this shot in a rush and afterwards, was surprised at the quality of the i
 
 Video is impressive. As you will see, in this video also taken during Halloween 2016, software based video stabilization is good. I've never been able to shoot video this smooth from a hand-held camera.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/sb6APIGDfIk" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="sb6APIGDfIk" title="Three week thoughts on the Google Pixel" %}
 
 > Interestingly, when I uploaded the video to YouTube, it announced that my video was shaky and offered to stabilize it for me!
 

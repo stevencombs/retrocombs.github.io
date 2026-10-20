@@ -22,7 +22,7 @@ This blog post is a companion to the my FAST LOAD video embedded below. During t
 
 In the video below, I demonstrate the process to update the MEGA65 (Dev Kit), core, SD card  essential files, `MEGA65.ROM`, and *M65Connect* software.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/tmS0Lidko-U" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="tmS0Lidko-U" title="YouTube Video: _FAST LOAD: THEVIC20, THEC64 (maxi and mini) Firmware 1-5-2 Update | theC64-1_5_2.bin" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

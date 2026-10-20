@@ -48,15 +48,13 @@ You will need the following accessories (#ad):
 
 A YouTube video demonstrating/testing the firmware installation process that also includes a Wyze Cam Black OPEN THE BOX segment is below:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/TOy8VQSQ_0Q" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="TOy8VQSQ_0Q" title="YouTube Video" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
 **2020-04-07 UPDATE:** below is the video showing the performance of the camera with new firmware on Chrome OS:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/ft5GLFBIPNw" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="ft5GLFBIPNw" title="YouTube Video" %}
 
 ## Installation of the webcam firmware
 

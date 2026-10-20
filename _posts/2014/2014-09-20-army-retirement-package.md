@@ -90,7 +90,7 @@ Let’s see what’s on the DVD.
 ## Video from DVD
 I ripped the DVD and uploaded it to YouTube so you can view. It’s a great video that demonstrates the impact the Army has on the lives of its soldiers.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/3V-2txsGgRg" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="3V-2txsGgRg" title="Video from DVD" %}
 
 # Lapel pin
 I have another one of these I purchased at [AAFES](http://www.shopmyexchange.com/). Might make this one part of a hanging display along with the backing ribbon.

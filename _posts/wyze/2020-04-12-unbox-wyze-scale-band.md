@@ -25,9 +25,7 @@ I've created a new OPEN THE BOX and FIRST USE video and it's a twofer! Last week
 
 ## YouTube Video
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/ZoBnLnDgv1Q" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="ZoBnLnDgv1Q" title="YouTube Video" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

@@ -67,7 +67,7 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 
 The video below describes my background with Commodore computers, my intent for this new series, and an open the box on a Commodore Plus/4. Watch the video and then come back and read the additional material posted below the video.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/_faxuAlFHII" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="_faxuAlFHII" title="YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 0 - Open the Box" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

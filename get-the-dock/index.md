@@ -24,9 +24,7 @@ You’ve asked for it and here it is! The official building instructions for my 
 
 If you inject your own creativity, this MOC is adaptable to your computing environment or alternate and more modern device. Haven’t seen the Dock in action yet? Watch the YouTube video below.
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/0PTE7P3JTGo" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="0PTE7P3JTGo" title="LEGO Rotating iPhone Dock and Instructions video" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

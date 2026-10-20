@@ -32,9 +32,7 @@ Below the video, I have additional thoughts on the device and plans for this vid
 
 ## YouTube Video: _FIRST USE: Cloner Alliance Box Pro_
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/dyCbBL9jkvQ" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="dyCbBL9jkvQ" title="YouTube Video: _FIRST USE: Cloner Alliance Box Pro" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
