@@ -1,0 +1,35 @@
+# Refreshes homepage video tiles from the public YouTube RSS feeds.
+# Scheduled runs happen on the default branch after this workflow is on master.
+# The job pushes with the built-in GITHUB_TOKEN and only commits _data/channels.yml.
+name: Latest videos
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out master
+        uses: actions/checkout@v4
+
+      - name: Refresh latest videos
+        run: python3 .github/scripts/latest-videos.py
+
+      - name: Commit channels.yml when it changed
+        run: |
+          git add -- _data/channels.yml
+          if git diff --cached --quiet -- _data/channels.yml; then
+            echo "Latest videos are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update latest videos"
+          git push

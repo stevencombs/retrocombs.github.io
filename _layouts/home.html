@@ -59,8 +59,8 @@ layout: default
         </header>
         <div class="vids">
           {% for video in channel.videos %}
-          <a class="vid" href="https://www.youtube.com/watch?v={{ video.id }}">
-            <img src="{{ video.id | prepend: "/images/home/" | append: ".jpg" | relative_url }}" alt="">
+          <a class="vid" href="{{ video.url }}">
+            <img src="{{ video.thumbnail }}" alt="" width="{{ video.width }}" height="{{ video.height }}" loading="lazy">
             <p>{{ video.title }}</p>
           </a>
           {% endfor %}
