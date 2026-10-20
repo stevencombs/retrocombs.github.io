@@ -317,9 +317,11 @@ img.category{width:20%;min-width:110px;border-radius:0}
 .supporters .prose h2 + p img.rc-badge{margin-top:4px}
 
 @media (max-width:1100px){
+  .rc-levels{grid-template-columns:repeat(3,1fr)}
+}
+@media (max-width:1023px){
   .layout{grid-template-columns:minmax(0,1fr)}
   aside.rail{position:static;grid-template-columns:1fr 1fr}
-  .rc-levels{grid-template-columns:repeat(3,1fr)}
 }
 @media (max-width:760px){
   .post-head h1{font-size:28px;letter-spacing:-.5px}
@@ -447,6 +449,23 @@ li[aria-selected=true] .rcs-title{color:var(--rc-red)}
 .prose .rcs-results a,.prose .rcs-list a{color:inherit;text-decoration:none}
 .rcs-results li a:hover .rcs-title{color:var(--rc-red)}
 .rcs-results .rcs-title{font-size:18px}
+
+/* Ad slots. Neutral and labeled, with reserved space. Not styled like post cards. */
+.rc-ad{margin:44px 0;clear:both}
+.rc-ad__label{display:block;font:600 10.5px/1 Inter,system-ui,sans-serif;letter-spacing:1.4px;text-transform:uppercase;color:#8a8474;margin:0 0 7px;text-align:center}
+.rc-ad__box{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;min-height:250px;border:1px solid #e0d6bf;border-radius:10px;background:repeating-linear-gradient(135deg,#f8f2e6 0 10px,#f3ecdd 10px 20px);color:#9a9483;font:500 12px/1.4 "JetBrains Mono",ui-monospace,monospace;text-align:center;padding:10px}
+.rc-ad__box b{font-weight:600;color:#7d776a}
+.rc-ad--sidebar{position:sticky;top:24px;margin:40px 0 0}
+.rc-ad--sidebar .rc-ad__box{width:300px;min-height:600px;box-sizing:border-box}
+.rc-ad--feed{margin:28px 0}
+.rc-ad--feed .rc-ad__box{min-height:250px}
+.rc-ad--end{margin:40px 0 8px}
+@media (max-width:1023px){.rc-ad--sidebar{display:none}}
+@media (max-width:760px){.rc-ad{margin:36px 0}.rc-ad__box{min-height:280px}}
+@media (min-width:1024px){.layout>aside.rail{position:static;align-self:stretch;align-content:start}}
+@media (max-width:760px){.rc-ad--feed .rc-ad__box{min-height:280px}}
+ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
+.rc-ad:has(ins[data-ad-status="unfilled"]){display:none}
 @media (max-width:760px){
   dialog.rcs{width:100vw;max-width:100vw;height:100vh;max-height:100vh;margin:0;border-radius:0}
   .rcs-bar input{font-size:17px}

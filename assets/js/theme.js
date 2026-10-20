@@ -34,3 +34,28 @@
     if (menuBtn) menuBtn.setAttribute("aria-expanded", "false");
   });
 })();
+
+(function () {
+  var tpl = document.getElementById("rc-ad-sidebar");
+  if (!tpl || !window.matchMedia("(min-width: 1024px)").matches) return;
+  if (!tpl.content || !tpl.content.querySelector(".rc-ad")) return;
+
+  var rail = document.querySelector("aside.rail");
+  if (!rail) {
+    var mainCol = document.querySelector(".page-main");
+    if (!mainCol) return;
+    var layout = document.createElement("div");
+    layout.className = "layout";
+    var col = document.createElement("div");
+    while (mainCol.firstChild) col.appendChild(mainCol.firstChild);
+    rail = document.createElement("aside");
+    rail.className = "rail";
+    rail.setAttribute("aria-label", "Sidebar");
+    layout.appendChild(col);
+    layout.appendChild(rail);
+    mainCol.appendChild(layout);
+  }
+
+  rail.appendChild(tpl.content.cloneNode(true));
+  (window.adsbygoogle = window.adsbygoogle || []).push({});
+})();

@@ -49,10 +49,10 @@ layout: default
     <div>
       <article class="card">
         <div class="prose">
-          {{ content }}
+          {% include content-with-ads.html html=content %}
         </div>
       </article>
-      {% include ad.html %}
+      {% include ad.html slot="end" %}
       <section class="support-strip" aria-label="Support retroCombs">
         <p>Enjoying the videos? Become a channel member to support retroCombs: <a href="https://www.youtube.com/@retrocombs/join">https://www.youtube.com/@retrocombs/join</a>.</p>
         <div class="btns">
@@ -115,6 +115,7 @@ layout: default
           <a class="chip all" href="{{ "/categories" | relative_url }}">All topics →</a>
         </div>
       </div>
+      {% include ad.html slot="sidebar" %}
     </aside>
   </div>
 </div>

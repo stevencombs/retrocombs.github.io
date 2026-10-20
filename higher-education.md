@@ -2,6 +2,7 @@
 layout: pages
 title: Higher Education
 permalink: /higher-education
+ads: light
 ---
 
 <img class="category" src="/images/design/higher-education.svg" width="20%" />

@@ -2,6 +2,7 @@
 layout: pages
 title: Embedded Systems and Physical Computing
 permalink: embedded
+ads: light
 ---
 
 <img class="category" src="/images/design/embedded.svg" width="20%" />

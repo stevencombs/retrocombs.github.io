@@ -77,7 +77,12 @@ layout: default
     <h2>From the blog</h2>
     <p class="sub">Written companions, how-tos, and notes from the workbench.</p>
     <div class="posts">
-      {% for post in site.posts limit:4 %}
+      {% for post in site.posts limit:8 %}
+      {% if forloop.index == 5 %}
+    </div>
+    {% include ad.html slot="feed" %}
+    <div class="posts">
+      {% endif %}
       <div class="post">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
         <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
