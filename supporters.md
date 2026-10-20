@@ -77,7 +77,7 @@ Each level includes the perks of every level before it.
       <li>retroCombs Disk Mag</li>
     </ul>
   </li>
-  <li><strong>MEGA65 (FPGA)</strong> <span class="rc-price">$24.99/month</span>
+  <li><strong>MEGA≡65 (FPGA)</strong> <span class="rc-price">$24.99/month</span>
     <ul>
       <li>Executive Producer Credit</li>
       <li>Holiday Greeting from Santa Combs!</li>
