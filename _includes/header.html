@@ -66,11 +66,11 @@
 </header>
 <div class="mobile-nav" id="mobile-nav">
   <ul>
-    <li><a href="{{ "/" | relative_url }}">Home</a></li>
-    <li><a href="{{ "/blog" | relative_url }}">Blog</a></li>
-    <li><a href="{{ "/mega65-users-guide" | relative_url }}">MEGA65 Guide</a></li>
+    <li><a href="{{ "/" | relative_url }}"{% if here == "/" %} class="on" aria-current="page"{% endif %}>Home</a></li>
+    <li><a href="{{ "/blog" | relative_url }}"{% if page.layout == "post" or here == "/blog" %} class="on" aria-current="page"{% endif %}>Blog</a></li>
+    <li><a href="{{ "/mega65-users-guide" | relative_url }}"{% if here == "/mega65-users-guide" %} class="on" aria-current="page"{% endif %}>MEGA65 Guide</a></li>
     <li>
-      <details>
+      <details{% if on_topic %} class="on"{% endif %}>
         <summary>Topics</summary>
         <div class="tl">
           {% assign empties = "" %}
@@ -99,8 +99,8 @@
         </div>
       </details>
     </li>
-    <li><a href="{{ "/about" | relative_url }}">About</a></li>
-    <li><a href="{{ "/supporters" | relative_url }}">Support</a></li>
+    <li><a href="{{ "/about" | relative_url }}"{% if here == "/about" %} class="on" aria-current="page"{% endif %}>About</a></li>
+    <li><a href="{{ "/supporters" | relative_url }}"{% if here == "/supporters" %} class="on" aria-current="page"{% endif %}>Support</a></li>
     <li><a href="{{ "/search" | relative_url }}?q=">Search</a></li>
   </ul>
 </div>
