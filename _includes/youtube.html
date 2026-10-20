@@ -1,0 +1,35 @@
+{%- comment -%}
+  Click-to-play YouTube facade.
+  id, title (required). start (seconds, optional). upload_date (YYYY-MM-DD, optional).
+  cta="false" skips the membership note when the page already has one after the video.
+{%- endcomment -%}
+{%- assign yt_id = include.id | strip -%}
+{%- assign yt_title = include.title | strip -%}
+{%- assign yt_start = include.start | default: "" | strip -%}
+{%- assign yt_uploaded = include.upload_date | default: "" | strip -%}
+<figure class="yt">
+  <a class="yt-lite" href="https://www.youtube.com/watch?v={{ yt_id }}{% if yt_start.size > 0 %}&amp;t={{ yt_start }}s{% endif %}" data-id="{{ yt_id }}" data-title="{{ yt_title | escape }}"{% if yt_start.size > 0 %} data-start="{{ yt_start }}"{% endif %}>
+    <span class="frame">
+      <img src="https://i.ytimg.com/vi/{{ yt_id }}/maxresdefault.jpg" alt="{{ yt_title | escape }}" width="1280" height="720" loading="lazy" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/{{ yt_id }}/hqdefault.jpg';">
+      <span class="play" aria-hidden="true"><span></span></span>
+    </span>
+    <span class="yt-title">{{ yt_title | escape }}</span>
+  </a>
+  {%- unless include.cta == false or include.cta == "false" -%}
+  {%- assign yt_channel = include.channel | default: "retrocombs" -%}
+  {% include member-cta.html channel=yt_channel %}
+  {%- endunless -%}
+  {%- if yt_uploaded.size == 10 -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": {{ yt_title | jsonify }},
+    "thumbnailUrl": "https://i.ytimg.com/vi/{{ yt_id }}/hqdefault.jpg",
+    "uploadDate": {{ yt_uploaded | jsonify }},
+    "embedUrl": "https://www.youtube-nocookie.com/embed/{{ yt_id }}",
+    "contentUrl": "https://www.youtube.com/watch?v={{ yt_id }}"
+  }
+  </script>
+  {%- endif -%}
+</figure>

@@ -10,7 +10,9 @@
     <![endif]-->
     {% seo %}
     {% feed_meta %}
-    <link rel="icon" href="{{ "/favicon.ico" | relative_url }}">
+    <link rel="icon" href="{{ site.favicon | default: "/favicon.ico" | relative_url }}" sizes="any">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.favicon_png | default: "/favicon-32.png" | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.apple_touch_icon | default: "/apple-touch-icon.png" | relative_url }}">
     {% for item in site.data.social %}{% if item.rel == "me" %}
     <link rel="me" href="{{ item.url }}">
     {% endif %}{% endfor %}
@@ -34,40 +36,16 @@
 <!-- End Google GA4 Tag-->
 
   </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
-
-        <a href="/">
-          <img src="{{site.logo}}" alt="Logo" />
-        </a>
-
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <p><sub></sub><i><b>Disclosure Statement:</b> When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon, the eBay Partner Network, and/or others.</i></sub></p>
-
-<!---
-          <p>
-          <h3>Commodore Plus/4 Series</h3>
-          <a href="/plus4">
-          <img src="/images/design/retro4(300x86).png">
-          </a>
-        </p>
-
-        </p>
--->
-
-      </header>
-      <section>
-
+  <body class="{% if page.layout == "home" %}home{% endif %}{% if page.url == "/supporters" or page.url == "/supporters/" or page.url == "/supporters.html" %} supporters{% endif %}">
+    <a class="skip" href="#main">Skip to content</a>
+    {% include header.html %}
+    <div class="stripes">{% include stripes.html %}</div>
+    <main id="main">
       {{ content }}
-
-      </section>
-      <footer>
-        {% include follow.html %}
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    </main>
+    {% include footer.html %}
+    <script src="{{ "/assets/js/theme.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/yt-lite.js" | relative_url }}" defer></script>
+    {% include search-scripts.html %}
   </body>
 </html>

@@ -2,6 +2,7 @@
 layout: pages
 title: 'MEGA65 Resource Page (v2.4)'
 permalink: /mega65
+ads: light
 ---
 
 <img class="category" src="/images/design/mega65.svg" width="20%" />

@@ -27,9 +27,7 @@ Xfinity offered the device for free as part of my Xfinity cable account. The fir
 
 Before reading the remainder of this post, watch the video below.
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/iJW9No9Nqt0" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="iJW9No9Nqt0" title="YouTube Video: _FIRST USE: Xfinity Flex" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

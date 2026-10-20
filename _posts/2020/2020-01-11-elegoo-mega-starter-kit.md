@@ -32,10 +32,7 @@ During an email exchange with the director of the program (my boss) during fall 
 
 During the course, we will unpack our kits together and go over every component. In preparation for that exercise, and to provide an opportunity for someone who missed the class session, I prepared an unpacking video and [placed it on YouTube](https://youtu.be/jY8Jj0Rim70). You can view the video below.
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube-nocookie.com/embed/jY8Jj0Rim70" frameborder="0" allowfullscreen
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="jY8Jj0Rim70" title="OPEN THE BOX: Elegoo Arduino Mega Starter Kit" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

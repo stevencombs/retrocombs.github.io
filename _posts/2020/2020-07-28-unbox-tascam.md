@@ -22,7 +22,7 @@ I purchased another tool to add to my podcast and YouTube tool chest, the [TASCA
 
 Watch the video below and then read on for some additional thoughts on this audio recorder.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/f1XHL74R8q4" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="f1XHL74R8q4" title="YouTube Video: _OPEN THE BOX: TASCAM DR-40X four track digital audio recorder (and an attempt at a first use)" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

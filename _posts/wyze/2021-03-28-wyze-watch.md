@@ -25,7 +25,7 @@ I wear my TicWatch with work clothes and then throw on my Wyze Band for afternoo
 
 In the video below, I open the box, setup, and use the Wyze Watch for the first time. Watch the video below and then read my final thoughts below.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/qeP5zmun9kY" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="qeP5zmun9kY" title="YouTube Video: _Will the Wyze Watch replace my Wyze Band? Let's open the box and find out." cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

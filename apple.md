@@ -2,6 +2,7 @@
 layout: pages
 title: Apple
 permalink: apple
+ads: light
 ---
 
 <img class="category" src="/images/design/apple.svg" width="20%" />

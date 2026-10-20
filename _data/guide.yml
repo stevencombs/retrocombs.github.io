@@ -1,0 +1,31 @@
+# Homepage MEGA65 User's Guide list.
+# url: a written companion post exists (badge "Page + video").
+# video: a playlist episode exists and the title is the YouTube title (badge "Video").
+# neither: no episode yet (badge "Planned").
+# IDs from yt-dlp --flat-playlist on PLRVBh2hjFTomDGwIT7uPMJv4zH9JAUSVG.
+# The playlist also has a non-chapter promo (BCauYBVQ7U0); it is not a chapter.
+playlist: https://www.youtube.com/playlist?list=PLRVBh2hjFTomDGwIT7uPMJv4zH9JAUSVG
+chapters:
+  - n: "01"
+    title: Introduction
+    url: /mega65-ug-1
+  - n: "02"
+    title: Setup
+    url: /mega65-ug-2
+  - n: "03"
+    title: "Keyboard, Editor & Freezer"
+    url: /mega65-ug-3
+  - n: "04"
+    title: "Configuration Utility & SD Cards"
+    url: /mega65-ug-4
+  - n: "05"
+    title: "Upgrades: Core, ROM & System Files"
+    url: /mega65-ug-5
+  - n: "06"
+    title: "MEGA65 Using Disks and Disk Images (User's Guide Ch. 6) #mega65"
+    video: https://www.youtube.com/watch?v=lw7o2X91Zt4
+  - n: "07"
+    title: "💾️ MEGA65 Users Don't Know About These Ch. 7 Transfer Methods"
+    video: https://www.youtube.com/watch?v=ZiDGhwyjv4g
+  - n: "08"
+    title: New BASIC 65 Commands

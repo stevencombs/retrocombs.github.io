@@ -45,7 +45,7 @@ The video below is an edit of the full livestream (see second video) that includ
 
 ### Live Stream Edit
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/lFM3mJO1M30" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="lFM3mJO1M30" title="‌MEGA65 Christmas Eve Demonstration | Onboarding SD Card and Box Art!" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
@@ -53,7 +53,7 @@ The video below is an edit of the full livestream (see second video) that includ
 
 The raw full meal deal for those who want to experience the Christmas Eve stream in its entirety:
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/-O0V4CBLKfM" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="-O0V4CBLKfM" title="‌MEGA65 Christmas Eve Demonstration | Onboarding SD Card and Box Art!" %}
 
 ## Video Errata
 

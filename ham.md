@@ -2,6 +2,7 @@
 layout: pages
 title: Amateur Radio (Ham)
 permalink: ham
+ads: light
 ---
 
 <img class="category" src="/images/design/ham.svg" width="20%" />

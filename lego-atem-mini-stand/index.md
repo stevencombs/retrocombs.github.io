@@ -18,9 +18,7 @@ Have an ATEM Mini/Pro/ISO (or soon [to purchase one](https://amzn.to/3EKT0ye)?),
 
 Below is a full video that provides the background on my stand that was my LEGO Build Day 2021 project.
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/FRaoA08bGP4" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="FRaoA08bGP4" title="LEGO ATEM Mini Stand PDF Instructions video" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

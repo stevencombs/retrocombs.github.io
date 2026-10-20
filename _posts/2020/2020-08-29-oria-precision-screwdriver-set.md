@@ -28,7 +28,7 @@ Before you read my final thoughts, watch the open the box video below and learn 
 
 Watch the video below and then read my additional thoughts on this toolkit.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/6p10i_OYmPY" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="6p10i_OYmPY" title="YouTube Video: _OPEN THE BOX (BAG): ORIA Precision Screwdriver Set, 86in1 Magnetic Repair Tool Kit with Portable Bag" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

@@ -72,7 +72,7 @@ _
 
 In the video below, I share the 10 reasons the MEGA65 is better than my M1 MacBook Pro.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/l6mW_3iQ4mE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="l6mW_3iQ4mE" title="‌The MEGA65 vs MacBook Pro | Ten Reasons the MEGA65 is the Winner!" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
@@ -122,7 +122,7 @@ The MEGA65 receives regular updates to both its Field Programmable Gate Array (F
 <!-- ☒ Slow flashing core video -->
 <!-- ☒ Fast flashing core video -->
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/XobWGbFfVxQ" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="XobWGbFfVxQ" title="2. Fast Updates" %}
 
 When the MacBook Pro receives an OS update, it means a multi-Gigabyte download, followed by a series of restarts. Even with the speed of the M1 processor, the update can take ten minutes or more. Prior to the updated MEGA65 flash utility, upgrade times were similar to the Mac; however, the MEGA65 now blows the MacBook Pro away. Even when I add the time it takes to download and transfer a core to the SD card, the MEGA65 process is faster. Update times will continue to decrease once/if the MEGA65 includes the ability to download the core directly using the built-in Ethernet port.
 

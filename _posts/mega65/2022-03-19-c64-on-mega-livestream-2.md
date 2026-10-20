@@ -56,7 +56,7 @@ Title: _Part II: Playing the C64 demos from the MEGA65 on boarding SD Card_
 
 In the video below, I continue my exploration of the C64 disk image included with the MEGA65 onboarding SD card.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/yLiZ7nmXcqE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="yLiZ7nmXcqE" title="Part II: Playing the C64 demos from the MEGA65 on boarding SD Card" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

@@ -26,7 +26,7 @@ During the 1990s, I went through my dark-ages (that time when we set LEGO aside 
 
 In the video below, I share my COBI M60 Patton build and compare the COBI brand to the LEGO brand.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/eJ1EaGP4XUg" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="eJ1EaGP4XUg" title="YouTube Video: _COBI M60 Patton Tank and a COBI versus LEGO comparison" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

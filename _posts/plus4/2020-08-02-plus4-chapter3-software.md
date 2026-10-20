@@ -90,7 +90,7 @@ Below are the links for previous chapters covered:
 
 In the video below, I work through Chapter 3 of the user's manual. I deviate slightly from the manual in topic presentation order to add clarity and I also add a bonus command. Along the way, I also share how to use a cartridge, the Tapuino, and the Pi1541
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/B9_hKwjlqAA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="B9_hKwjlqAA" title="YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 3 - Using Software" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

@@ -52,7 +52,7 @@ The Pocket C.H.I.P. has a built in browser called `surf`.
 
 The Google search page will load. You will most likely have to scroll up/down and left/right to see the page. This is a very rudimentary browser with no user interface save for the scroll bars and some keystroke combinations (see below). In a pinch though, it is useful. To exit the browser, use the `ctrl` + `q` keyboard combination.
 
-**Try This:** Reader [buergi][22] provided the `surf` keystrokes below:
+**Try This:** Reader buergi provided the `surf` keystrokes below in the comments:
 
 `ctrl` + `g`: goto URL (opens URL bar)
 `ctrl` + `h`: back
@@ -243,7 +243,6 @@ Have something else I should add to the list that other Pocket C.H.I.P. owners s
 [19]:	#emulate-games
 [20]:	#install-doom-and-a-launch-icon
 [21]:	#join-the-discussion
-[22]:	https://disqus.com/by/buergi/
 [23]:	https://bbs.nextthing.co/
 [24]:	http://docs.getchip.com/pocketchip.html
 [25]:	http://www.chip-community.org/index.php/Troubleshooting#Calibrating_Touchscreen_on_PocketChip

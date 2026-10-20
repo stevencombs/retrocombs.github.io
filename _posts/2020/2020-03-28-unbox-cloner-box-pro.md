@@ -22,9 +22,7 @@ Time to open the box on a [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOC
 
 ## YouTube video, _OPEN THE BOX: Cloner Alliance Box Pro_
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/hUhrYNQCODY" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="hUhrYNQCODY" title="YouTube video, _OPEN THE BOX: Cloner Alliance Box Pro" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

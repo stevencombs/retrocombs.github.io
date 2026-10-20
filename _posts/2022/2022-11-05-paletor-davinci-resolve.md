@@ -41,7 +41,7 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 
 Title: _Supercharge DaVinci Resolve with Paletro for Mac OS_
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/MKxTQpheBC4" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="MKxTQpheBC4" title="Supercharge DaVinci Resolve with Paletro for Mac OS" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

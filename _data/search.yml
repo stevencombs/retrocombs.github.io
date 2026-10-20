@@ -1,0 +1,85 @@
+# Search settings, read by /search.json.
+# topics: post category -> label and topic page shown on results.
+topics:
+  mega65: {label: "MEGA65", url: "/mega65-blog"}
+  commodore: {label: "Commodore", url: "/commodore"}
+  c64: {label: "Commodore 64", url: "/commodore"}
+  C64: {label: "Commodore 64", url: "/commodore"}
+  c128: {label: "Commodore 128", url: "/commodore"}
+  vic20: {label: "VIC-20", url: "/commodore"}
+  pet: {label: "Commodore PET", url: "/commodore"}
+  plus4: {label: "Plus/4", url: "/plus4"}
+  ti994a: {label: "TI-99/4A", url: "/ti994a"}
+  nabu: {label: "NABU", url: "/blog"}
+  retro: {label: "Retro", url: "/commodore"}
+  gadgets: {label: "Gadgets", url: "/gadgets"}
+  apple: {label: "Apple", url: "/apple.html"}
+  wyze: {label: "Wyze", url: "/wyze"}
+  android: {label: "Android", url: "/android"}
+  chromeos: {label: "Chrome OS", url: "/chromeos"}
+  linux: {label: "Linux", url: "/linux"}
+  google: {label: "Google", url: "/google"}
+  raspberrypi: {label: "Raspberry Pi", url: "/raspberrypi"}
+  arduino: {label: "Arduino", url: "/embedded"}
+  chip: {label: "C.H.I.P.", url: "/embedded"}
+  electronics: {label: "Electronics", url: "/embedded"}
+  lego: {label: "LEGO", url: "/lego"}
+  code: {label: "Code", url: "/code"}
+  web: {label: "Web", url: "/code"}
+  alfred: {label: "Alfred", url: "/code"}
+  ham: {label: "Amateur Radio", url: "/ham"}
+  3dprinting: {label: "3D Printing", url: "/3dprinting"}
+  higher-education: {label: "Higher Education", url: "/higher-education.html"}
+  art: {label: "Art", url: "/art.html"}
+  productivity: {label: "Productivity", url: "/productivity"}
+  evernote: {label: "Evernote", url: "/productivity"}
+  presentations: {label: "Presentations", url: "/presentations.html"}
+  entertainment: {label: "Entertainment", url: "/entertainment"}
+  personal: {label: "Personal", url: "/about"}
+  holiday: {label: "Holiday", url: "/blog"}
+  Holiday: {label: "Holiday", url: "/blog"}
+  howto: {label: "How-to", url: "/blog"}
+  openingthebox: {label: "Opening the Box", url: "/blog"}
+# Topic pages: url -> label. These rank a little higher and show a "Topic" badge.
+topic_pages:
+  /mega65-blog: MEGA65
+  /mega65: MEGA65
+  /mega65-users-guide: MEGA65
+  /commodore: Commodore
+  /plus4: Plus/4
+  /ti994a: TI-99/4A
+  /pi1541: Commodore
+  /gadgets: Gadgets
+  /apple: Apple
+  /wyze: Wyze
+  /android: Android
+  /chromeos: Chrome OS
+  /linux: Linux
+  /google: Google
+  /raspberrypi: Raspberry Pi
+  /embedded: Embedded
+  /lego: LEGO
+  /code: Code
+  /ham: Amateur Radio
+  /3dprinting: 3D Printing
+  /models: 3D Models
+  /higher-education: Higher Education
+  /art: Art
+  /productivity: Productivity
+  /presentations: Presentations
+  /entertainment: Entertainment
+  /writing: Writing
+  /handhelds: Handhelds
+# Pages and posts left out of search (add `search: false` to front matter as well).
+exclude:
+  - /
+  - /index.html
+  - /404.html
+  - /search
+  - /search.html
+  - /categories.html
+  - /sitemap.html
+  - /rss/
+  - /web/1999/01/01/markdown-test-post.html
+# Words of body text kept per entry (titles, topics and tags are always kept).
+words: 350

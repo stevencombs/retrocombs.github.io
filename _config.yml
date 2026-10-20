@@ -1,15 +1,52 @@
 ---
 
 title: 'retroCombs'
-logo: '/images/design/retroCombs-logo.svg'
-description: 'Retro computing with a touch of modern and the home for all things, retroCombs (aka Steven Combs).'
+logo: '/images/brand/retroCombs-logo.svg'
+favicon: '/favicon.ico'
+favicon_png: '/favicon-32.png'
+apple_touch_icon: '/apple-touch-icon.png'
+description: 'Retro computing with a touch of modern'
 name: 'retroCombs'
 email: 'retrocombs@icloud.com'
-tagline: 'Combsing through the retro-minutia…'
+tagline: 'Retro computing with a touch of modern'
 url: 'https://retrocombs.com'
 lang: en-US
 
-comments: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/brand/social-preview.png
+        width: 1200
+        height: 630
+        alt: retroCombs
+
+# Giscus. Comments render only when category_id is set and the page
+# does not set comments: false.
+giscus:
+  repo: stevencombs/retrocombs.github.io
+  repo_id: "MDEwOlJlcG9zaXRvcnkxODk1MjczNA=="
+  category: Announcements
+  category_id: DIC_kwDOASEyHs4DJGzz
+  mapping: pathname
+  strict: 1
+  reactions_enabled: 1
+  input_position: top
+  lang: en
+  loading: lazy
+
+# Manual AdSense units. Slot ids stay empty until Steven creates the units.
+# An empty id renders nothing: no label, no reserved box, no push().
+adsense:
+  enabled: true
+  client: ca-pub-4132959196132899
+  slots:
+    in_article: { id: "", type: in-article }
+    end:        { id: "", type: display }
+    sidebar:    { id: "", type: fixed, width: 300, height: 600 }
+    feed:       { id: "", type: display }
+
 highlighter: rouge
 markdown: kramdown
 

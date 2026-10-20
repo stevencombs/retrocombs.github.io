@@ -1,0 +1,89 @@
+{% assign here = page.url | replace: "index.html", "" | replace: ".html", "" %}
+{% assign here_len = here | size | minus: 1 %}
+{% assign here_last = here | slice: here_len, 1 %}
+{% if here != "/" and here_last == "/" %}
+  {% assign here = here | slice: 0, here_len %}
+{% endif %}
+{% assign topic_total = 0 %}
+{% assign on_topic = false %}
+{% for group in site.data.topics.groups %}
+  {% assign topic_total = topic_total | plus: group.items.size %}
+  {% for topic in group.items %}
+    {% assign t = topic.url | replace: ".html", "" %}
+    {% assign t_len = t | size | minus: 1 %}
+    {% assign t_last = t | slice: t_len, 1 %}
+    {% if t != "/" and t_last == "/" %}
+      {% assign t = t | slice: 0, t_len %}
+    {% endif %}
+    {% if here == t %}{% assign on_topic = true %}{% endif %}
+  {% endfor %}
+{% endfor %}
+<header class="site">
+  <div class="wrap">
+    <a class="logo" href="{{ "/" | relative_url }}"><img src="{{ site.logo | relative_url }}" alt="retroCombs joystick logo" width="56" height="56"></a>
+    <div class="brand">{{ site.title }}<small>{{ site.tagline }}</small></div>
+    <nav aria-label="Primary">
+      <a href="{{ "/" | relative_url }}"{% if here == "/" %} class="on" aria-current="page"{% endif %}>Home</a>
+      <a href="{{ "/blog" | relative_url }}"{% if page.layout == "post" or here == "/blog" %} class="on" aria-current="page"{% endif %}>Blog</a>
+      <a href="{{ "/mega65-users-guide" | relative_url }}"{% if here == "/mega65-users-guide" %} class="on" aria-current="page"{% endif %}>MEGA65 Guide</a>
+      <div class="dd" id="topics">
+        <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="topics-menu"{% if on_topic %} class="on"{% endif %}>Topics</button>
+        <div class="menu" id="topics-menu">
+          <div class="stripes">{% include stripes.html %}</div>
+          <div class="grid">
+            {% for group in site.data.topics.groups %}
+            <div>
+              <h6>{{ group.name }}</h6>
+              <ul>
+                {% for topic in group.items %}
+                {% capture count %}{% include topic-count.html categories=topic.categories %}{% endcapture %}
+                {% assign count = count | strip %}
+                <li><a class="{% if count == "0" %}empty{% endif %}" href="{{ topic.url | relative_url }}">{{ topic.name }}<span>{{ count }}</span></a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endfor %}
+          </div>
+          <div class="all"><span>{{ topic_total }} topic pages · {{ site.posts.size }} posts. Numbers are post counts.</span><a href="{{ "/categories" | relative_url }}">All topics →</a></div>
+        </div>
+      </div>
+      <a href="https://www.youtube.com/@retrocombs/videos">Videos</a>
+      <a href="{{ "/about" | relative_url }}"{% if here == "/about" %} class="on" aria-current="page"{% endif %}>About</a>
+      <a href="{{ "/supporters" | relative_url }}"{% if here == "/supporters" %} class="on" aria-current="page"{% endif %}>Support</a>
+    </nav>
+    {% include search-button.html %}
+    <button class="menu-btn" type="button" aria-expanded="false" aria-controls="mobile-nav">Menu</button>
+  </div>
+</header>
+<div class="mobile-nav" id="mobile-nav">
+  <ul>
+    <li><a href="{{ "/" | relative_url }}">Home</a></li>
+    <li><a href="{{ "/blog" | relative_url }}">Blog</a></li>
+    <li><a href="{{ "/mega65-users-guide" | relative_url }}">MEGA65 Guide</a></li>
+    <li>
+      <details>
+        <summary>Topics</summary>
+        <div class="tl">
+          {% assign empties = "" %}
+          {% for group in site.data.topics.groups %}
+            {% for topic in group.items %}
+            {% capture count %}{% include topic-count.html categories=topic.categories %}{% endcapture %}
+            {% assign count = count | strip %}
+            {% assign count_n = count | plus: 0 %}
+            {% if count_n == 0 %}
+              {% if empties == "" %}{% assign empties = topic.name %}{% else %}{% assign empties = empties | append: ", " | append: topic.name %}{% endif %}
+            {% else %}
+              <a href="{{ topic.url | relative_url }}">{{ topic.name }}<span>{{ count }}</span></a>
+            {% endif %}
+            {% endfor %}
+          {% endfor %}
+          <a class="allt" href="{{ "/categories" | relative_url }}">All topics{% if empties != "" %} (incl. {{ empties }}){% endif %} →</a>
+        </div>
+      </details>
+    </li>
+    <li><a href="https://www.youtube.com/@retrocombs/videos">Videos</a></li>
+    <li><a href="{{ "/about" | relative_url }}">About</a></li>
+    <li><a href="{{ "/supporters" | relative_url }}">Support</a></li>
+    <li><a href="{{ "/search" | relative_url }}?q=">Search</a></li>
+  </ul>
+</div>

@@ -25,7 +25,7 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 
 Title: _‌Managing MEGA65 Media \| Update 3.5" Floppy Files from a .D81_
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/ATUwOYtJA2Q" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="ATUwOYtJA2Q" title="‌Managing MEGA65 Media | Update 3.5' Floppy Files from a .D81" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

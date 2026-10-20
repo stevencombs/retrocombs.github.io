@@ -49,7 +49,7 @@ What's a Commodore retro-computing fan to do? Use what he learned while producin
 
 Before you read my process below, look at the FAST LOAD video below that shows my technique.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/nyg4Yh_QFuA" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="nyg4Yh_QFuA" title="YouTube Video: _Transfer BASIC programs in print to physical Commodore computers" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

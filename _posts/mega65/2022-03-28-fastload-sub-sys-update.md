@@ -62,7 +62,7 @@ Title: ‌Updating the Submarine Tracking System BASIC 65 Program for the MEGA65
 
 In the video below, I provide an update to my C128 to MEGA65 Submarine Tracking System BASIC program.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/tOlfdtFYDBM" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="tOlfdtFYDBM" title="‌Updating the Submarine Tracking System BASIC 65 Program for the MEGA65 💾" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

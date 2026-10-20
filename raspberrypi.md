@@ -47,7 +47,7 @@ Below are links referenced during my presentation or links that supplement quest
 * [C.H.I.P.](https://www.getchip.com/) - View this page to learn why I am excited about this new $8 Kickstarter physical computing platform. When the C.H.I.P. arrives, additional information will appear on my [embedded systems page](/embedded.html).
 * [Pocket C.H.I.P.](https://www.getchip.com/pages/pocketchip) - Place the C.H.I.P. into a handheld keyboard/LCD screen combinations and you have the perfect on the go physical computing or gaming development platform (see video below).
 
-<iframe width="649" height="389" src="https://www.youtube.com/embed/W3qkdB5bzLY" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="W3qkdB5bzLY" title="Raspberry Pi Presentation video" %}
 
 ## My Raspberry Pi blog posts (list updates automatically)
 <ul id="blog-posts" class="posts">
@@ -67,27 +67,4 @@ Discussing the 8-bit days of computing during the presentation
 
 ## Feedback
 
-Have a questions or want to send feedback? You can [send me email](mailto:steven.combs@gmail.com) or use the comments section below.
-
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-
-        s.src = '//stevencombs.disqus.com/embed.js';
-
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+Have a question or want to send feedback? You can [send me email](mailto:steven.combs@gmail.com) or use the [Support](/supporters) link.

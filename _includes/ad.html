@@ -1,0 +1,30 @@
+{%- assign s = site.adsense.slots[include.slot] -%}
+{%- assign slot_id = "" -%}
+{%- if s -%}
+  {%- assign slot_id = s.id | append: "" | strip -%}
+{%- endif -%}
+{%- if site.adsense.enabled and page.ads != false and slot_id.size > 0 -%}
+  {%- capture rc_ad_unit -%}
+<aside class="rc-ad rc-ad--{{ include.slot }}" aria-label="Advertisements">
+  <span class="rc-ad__label">Advertisements</span>
+  <div class="rc-ad__box">
+  {%- if s.type == "in-article" -%}
+    <ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid"
+         data-ad-client="{{ site.adsense.client }}" data-ad-slot="{{ slot_id }}"></ins>
+  {%- elsif s.type == "fixed" -%}
+    <ins class="adsbygoogle" style="display:inline-block;width:{{ s.width }}px;height:{{ s.height }}px"
+         data-ad-client="{{ site.adsense.client }}" data-ad-slot="{{ slot_id }}"></ins>
+  {%- else -%}
+    <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-full-width-responsive="true"
+         data-ad-client="{{ site.adsense.client }}" data-ad-slot="{{ slot_id }}"></ins>
+  {%- endif -%}
+  </div>
+</aside>
+  {%- endcapture -%}
+  {%- if include.slot == "sidebar" -%}
+<template id="rc-ad-sidebar">{{ rc_ad_unit }}</template>
+  {%- else -%}
+{{ rc_ad_unit }}
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  {%- endif -%}
+{%- endif -%}

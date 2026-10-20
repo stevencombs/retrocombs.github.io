@@ -59,7 +59,7 @@ Check out the [supporters page](/supporters) to learn about my amazing supporter
 
 Title: _Run a MEGA65 on your Chromebook in a Linux Container_
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/z65O6bxIkaY" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="z65O6bxIkaY" title="Run a MEGA65 on your Chromebook in a Linux Container" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

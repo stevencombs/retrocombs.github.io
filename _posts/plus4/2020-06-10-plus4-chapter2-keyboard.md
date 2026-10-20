@@ -75,7 +75,7 @@ As part of my Commodore Plus/4 YouTube series, I work through each chapter of th
 
 In the video below, I work through Chapter 2 of the user's manual. Along the way, I discover some keyboard tricks and discover some editing quirks.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/O2Mqi2iFFQI" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="O2Mqi2iFFQI" title="YouTube Video: _retroCombs: Commodore Plus/4 User's Manual, Chapter 2 - Using the Keyboard and the Screen" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

@@ -28,7 +28,7 @@ Before I share additional thoughts about my time experiencing many of these game
 
 In the video below, I play games Adbductor through Gridrunner.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/tGDyC4KwSJE" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="tGDyC4KwSJE" title="Watch the Video: _THEVIC20 and THEC64 VIC-20 Games (Part 1)" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
@@ -36,7 +36,7 @@ In the video below, I play games Adbductor through Gridrunner.
 
 In the video below, I play games Harvester through Zor.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/wdQmYvXXo8o" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="wdQmYvXXo8o" title="Watch the Video: _THEVIC20 and THEC64 VIC-20 Games (Part 2)" %}
 
 ## SUPPORT THIS POST
 

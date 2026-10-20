@@ -2,6 +2,7 @@
 layout: pages
 title: Productivity
 permalink: productivity
+ads: light
 ---
 
 <img class="category" src="/images/design/productivity.svg" width="20%" />

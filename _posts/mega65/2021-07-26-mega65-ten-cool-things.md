@@ -56,13 +56,13 @@ In the videos below, I share the ten cool things that will excite Commodore retr
 
 
 ### Part 1 Video
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/nAgkn2FpDg0" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="nAgkn2FpDg0" title="Part 1 Video" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
 ### Part 2 Video
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/eWPfvCRYhhs" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="eWPfvCRYhhs" title="Part 2 Video" %}
 
 ## Video Errata
 

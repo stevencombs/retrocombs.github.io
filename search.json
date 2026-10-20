@@ -1,0 +1,36 @@
+---
+layout: null
+permalink: /search.json
+sitemap: false
+search: false
+---
+{%- assign cfg = site.data.search -%}
+{%- assign words = cfg.words | default: 350 -%}
+[
+{%- assign first = true -%}
+{%- for post in site.posts -%}
+{%- if post.search == false or post.sitemap == false or cfg.exclude contains post.url -%}{%- continue -%}{%- endif -%}
+{%- assign topics = "" | split: "" -%}{%- assign turls = "" | split: "" -%}
+{%- for c in post.categories -%}{%- assign t = cfg.topics[c] -%}{%- if t -%}{%- unless topics contains t.label -%}{%- assign topics = topics | push: t.label -%}{%- assign turls = turls | push: t.url -%}{%- endunless -%}{%- endif -%}{%- endfor -%}
+{%- assign body = post.content | strip_html | normalize_whitespace | truncatewords: words, "" -%}
+{%- unless first -%},{%- endunless -%}{%- assign first = false %}
+{"t":{{ post.title | strip_html | jsonify }},"u":{{ post.url | jsonify }},"d":{{ post.date | date: "%Y-%m-%d" | jsonify }},"c":{{ topics | jsonify }},"cu":{{ turls | jsonify }},"g":{{ post.tags | jsonify }},"s":{{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncatewords: 40, "" | jsonify }},"x":{{ body | jsonify }}}
+{%- endfor -%}
+{%- for page in site.pages -%}
+{%- unless page.title -%}{%- continue -%}{%- endunless -%}
+{%- if page.search == false or page.sitemap == false or page.layout == nil or cfg.exclude contains page.url or page.redirect_to -%}{%- continue -%}{%- endif -%}
+{%- assign ext = page.url | split: "." | last -%}
+{%- if ext == "json" or ext == "xml" or ext == "txt" or ext == "css" -%}{%- continue -%}{%- endif -%}
+{%- comment -%} Pages may still hold raw Liquid here: drop tag and output blocks, then render Markdown and strip HTML. {%- endcomment -%}
+{%- capture lt -%}{% raw %}{%{% endraw %}{%- endcapture -%}{%- capture rt -%}%}{%- endcapture -%}{%- capture lo -%}{% raw %}{{{% endraw %}{%- endcapture -%}{%- capture ro -%}}}{%- endcapture -%}
+{%- assign raw = "" -%}
+{%- assign parts = page.content | split: lt -%}
+{%- for p in parts -%}{%- if forloop.first -%}{%- assign raw = raw | append: p -%}{%- else -%}{%- assign rest = p | split: rt -%}{%- assign raw = raw | append: " " | append: rest[1] -%}{%- endif -%}{%- endfor -%}
+{%- assign parts = raw | split: lo -%}{%- assign raw = "" -%}
+{%- for p in parts -%}{%- if forloop.first -%}{%- assign raw = raw | append: p -%}{%- else -%}{%- assign rest = p | split: ro -%}{%- assign raw = raw | append: " " | append: rest[1] -%}{%- endif -%}{%- endfor -%}
+{%- assign body = raw | markdownify | strip_html | normalize_whitespace | truncatewords: words, "" -%}
+,
+{%- assign purl = page.url | replace: "/index.html", "/" -%}{%- assign tl = cfg.topic_pages[purl] -%}
+{"t":{{ page.title | strip_html | jsonify }},"u":{{ purl | jsonify }},"p":{% if tl %}2{% else %}1{% endif %},"c":{% if tl %}[{{ tl | jsonify }}]{% else %}[]{% endif %},"cu":[],"g":[],"s":{{ page.description | default: "" | jsonify }},"x":{{ body | jsonify }}}
+{%- endfor %}
+]

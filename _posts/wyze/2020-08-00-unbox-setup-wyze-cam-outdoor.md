@@ -29,7 +29,7 @@ Before I share additional thoughts, please take a few minutes to watch my YouTub
 
 Watch the video below and then read on for my additional thoughts on this outdoor camera.
 
-<div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/iMRspt-YkDw" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p></div>
+{% include youtube.html id="iMRspt-YkDw" title="YouTube Video: _OPEN THE BOX and SETUP: Wyze Cam Outdoor (Squirrel Cam One)" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

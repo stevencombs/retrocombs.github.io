@@ -10,7 +10,7 @@ comments: true
 
 It's been about a month since the [unboxing](/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://amzn.to/21dvBwS). Since the unboxing, we've put the [Amazon Echo](http://amzn.to/21dvBwS) through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren't familiar with the [Amazon Echo](http://amzn.to/21dvBwS), watch the video below before you read the rest of the post.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/KkOCeAtKHIc" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="KkOCeAtKHIc" title="REVIEW: Amazon Echo is Siri in a Pringle® can" %}
 
 Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and plugged it into a 110v outlet (required). Initial tests were conducted in this location. I would quickly learn that this was not to be the permanent home for the Echo.
 <hr>

@@ -1,16 +1,35 @@
 ---
-layout: default
+layout: pages
 title: Categories
+ads: false
 ---
 
-<ul class="tag_box inline">
-  {% assign categories_list = site.categories %}
+<ul>
+{% for group in site.data.topics.groups %}
+  {% for topic in group.items %}
+  <li><a href="{{ topic.url | relative_url }}">{{ topic.name }}</a></li>
+  {% endfor %}
+{% endfor %}
 </ul>
 
+{% assign known = "|" %}
+{% for group in site.data.topics.groups %}
+  {% for topic in group.items %}
+    {% for key in topic.categories %}
+      {% assign known = known | append: key | append: "|" %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
 
 {% for category in site.categories %}
-  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
+  {% assign key = category[0] %}
+  {% assign mark = "|" | append: key | append: "|" %}
+  {% unless known contains mark %}
+  <h2 id="{{ key | slugify }}">{{ key }}</h2>
   <ul>
-    {% assign pages_list = category[1] %}
+    {% for post in category[1] %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endfor %}
   </ul>
+  {% endunless %}
 {% endfor %}

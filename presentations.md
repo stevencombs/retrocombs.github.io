@@ -2,6 +2,7 @@
 layout: pages
 title: Presentations
 permalink: presentations
+ads: light
 ---
 
 <img class="category" src="/images/design/presentations.svg" width="20%" />

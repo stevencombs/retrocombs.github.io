@@ -1,0 +1,108 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="wrap">
+    <div>
+      <div class="eyebrow">Series · MEGA65 User's Guide</div>
+      <h1>Work through the MEGA65 User's Guide, chapter by chapter.</h1>
+      <p>Each chapter gets a video, a written companion page, the commands from the episode, and links to the official manual.</p>
+      <a class="btn primary" href="{{ "/mega65-ug-1" | relative_url }}">Start with Chapter 1</a><a class="btn ghost" href="{{ site.data.guide.playlist }}">Watch the playlist</a>
+    </div>
+    <div class="chlist">
+      <ol>
+        {% for chapter in site.data.guide.chapters %}
+        <li>
+          <span><span class="n">{{ chapter.n }}</span>{% if chapter.url %}<a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a>{% elsif chapter.video %}<a href="{{ chapter.video }}">{{ chapter.title }}</a>{% else %}{{ chapter.title }}{% endif %}</span>
+          {% if chapter.url %}<span class="st page">Page + video</span>{% elsif chapter.video %}<span class="st vid">Video</span>{% else %}<span class="st soon">Planned</span>{% endif %}
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+</section>
+
+<section class="topics">
+  <div class="wrap">
+    <span class="lead">Browse topics</span>
+    <div class="row">
+      <h2>Topics</h2>
+      {% for n in (1..30) %}
+        {% for group in site.data.topics.groups %}
+          {% for topic in group.items %}
+            {% if topic.chip == n %}
+              {% capture count %}{% include topic-count.html categories=topic.categories %}{% endcapture %}
+              {% assign count = count | strip %}
+              {% assign count_n = count | plus: 0 %}
+              {% if count_n > 0 %}
+              <a class="chip{% if topic.hot %} hot{% endif %}" href="{{ topic.url | relative_url }}">{{ topic.name }} <b>{{ count }}</b></a>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      {% endfor %}
+      <a class="chip all" href="{{ "/categories" | relative_url }}">All topics →</a>
+    </div>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <h2>Latest videos</h2>
+    <p class="sub">Two channels. Pick one, or both.</p>
+    <div class="cols">
+      {% for channel in site.data.channels %}
+      <div class="chan {{ channel.style }}">
+        <header>
+          <h3>{{ channel.name }}</h3>
+          <span class="tag">{{ channel.tag }}</span>
+        </header>
+        <div class="vids">
+          {% for video in channel.videos %}
+          <a class="vid" href="{{ video.url }}">
+            <img src="{{ video.thumbnail }}" alt="" width="{{ video.width }}" height="{{ video.height }}" loading="lazy">
+            <p>{{ video.title }}</p>
+          </a>
+          {% endfor %}
+        </div>
+        <a class="more" href="{{ channel.url }}">Visit the channel →</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <h2>From the blog</h2>
+    <p class="sub">Written companions, how-tos, and notes from the workbench.</p>
+    <div class="posts">
+      {% for post in site.posts limit:8 %}
+      {% if forloop.index == 5 %}
+    </div>
+    {% include ad.html slot="feed" %}
+    <div class="posts">
+      {% endif %}
+      <div class="post">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+        <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+        <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 140 }}</p>
+        {% assign primary = post.categories | first %}
+        {% if primary %}
+          {% assign pill_name = primary %}
+          {% assign pill_url = "/categories" %}
+          {% for group in site.data.topics.groups %}
+            {% for topic in group.items %}
+              {% if topic.categories contains primary %}
+                {% assign pill_name = topic.name %}
+                {% assign pill_url = topic.url %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          <a class="pill" href="{{ pill_url | relative_url }}">{{ pill_name }}</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

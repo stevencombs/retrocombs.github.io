@@ -36,10 +36,7 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 
 Before I share the process, here's a video showing the Arduino IDE uploading code from my Pixel Slate to an Arduino Uno.
 
-<div style="position:relative;padding-top:56.25%;">
-  <p><iframe src="https://www.youtube.com/embed/hAuv_M3l_ag" frameborder="0" allowfullscreen
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
-</div>
+{% include youtube.html id="hAuv_M3l_ag" title="Install Arduino IDE on Chrome OS - now with device support!" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
@@ -165,7 +162,7 @@ If you have a Chrome OS device with an older USB 3.0 or USB 2.0, plug the Arduin
 
 So far so good!
 
-> As noted by reader, [Nathan Morse](https://disqus.com/by/disqus_WcwrX4qGCo/), "Let the record show that you must connect the Arduino[-esque] device to the USB before trying to change the Linux USB setting in Chrome OS. Totally works, now! You are a hero, [@Steven Combs](https://disqus.com/by/stevencombsphd/)!" - Well thanks so much Nathan for the shout-out and the solution to a longstanding Arduino clone connection problem. This solutions is reported as working on Chrome OS v81.
+> As noted by reader Nathan Morse in the comments, "Let the record show that you must connect the Arduino[-esque] device to the USB before trying to change the Linux USB setting in Chrome OS. Totally works, now! You are a hero, Steven Combs!" - Well thanks so much Nathan for the shout-out and the solution to a longstanding Arduino clone connection problem. This solutions is reported as working on Chrome OS v81.
 
 ## Give Linux access to the USB device
 

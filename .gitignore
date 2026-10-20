@@ -5,6 +5,15 @@
 *.ttf
 *.eot
 assets/fonts/*
+# Theme fonts are self-hosted on purpose. These exceptions beat the rules above.
+!assets/fonts/inter/
+!assets/fonts/inter/*.woff2
+!assets/fonts/jetbrains-mono/
+!assets/fonts/jetbrains-mono/*.woff2
+!assets/fonts/press-start-2p/
+!assets/fonts/press-start-2p/*.woff2
+!assets/fonts/vt323/
+!assets/fonts/vt323/*.woff2
 *.insyncdl
 *.insyncdl
 *.insyncdl
