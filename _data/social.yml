@@ -1,20 +1,31 @@
 # Site-wide follow links. Order is the footer order.
+# Brand glyphs in images/icons/ are Simple Icons paths (CC0-1.0).
+# star.svg is a plain star for the membership link.
 - label: YouTube retroCombs
   url: https://www.youtube.com/@retrocombs
+  icon: youtube
 - label: YouTube retroCombs Tech
   url: https://www.youtube.com/@retrocombs-tech
+  icon: youtube
 - label: X
   url: https://x.com/StevenCombs
+  icon: x
 - label: Bluesky
   url: https://bsky.app/profile/retrocombs.bsky.social
+  icon: bluesky
 - label: Mastodon
   url: https://mastodon.social/@stevencombs
   rel: me
+  icon: mastodon
 - label: Threads
   url: https://www.threads.com/@retrocombs
+  icon: threads
 - label: Facebook
   url: https://www.facebook.com/retroCombsFB
+  icon: facebook
 - label: Join the channel (members get Discord)
   url: https://www.youtube.com/@retrocombs/join
+  icon: star
 - label: Tip on PayPal
   url: https://paypal.me/stevencombs
+  icon: paypal

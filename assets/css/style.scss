@@ -29,6 +29,27 @@
   line-height: 1.35;
 }
 
+.rc-follow a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.rc-follow-icon {
+  flex: 0 0 16px;
+  width: 16px;
+  height: 16px;
+  background-color: currentColor;
+  -webkit-mask-image: var(--rc-icon);
+  mask-image: var(--rc-icon);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+
 @media print, screen and (min-width: 961px) {
   footer {
     background: #fff;
@@ -50,7 +71,6 @@
   }
 
   .rc-follow a {
-    display: inline-block;
     padding: 0.15em 0;
   }
 }
