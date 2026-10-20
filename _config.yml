@@ -22,6 +22,20 @@ defaults:
         height: 630
         alt: retroCombs
 
+# Giscus. Comments render only when category_id is set and the page
+# does not set comments: false.
+giscus:
+  repo: stevencombs/retrocombs.github.io
+  repo_id: "MDEwOlJlcG9zaXRvcnkxODk1MjczNA=="
+  category: Announcements
+  category_id: DIC_kwDOASEyHs4DJGzz
+  mapping: pathname
+  strict: 1
+  reactions_enabled: 1
+  input_position: top
+  lang: en
+  loading: lazy
+
 highlighter: rouge
 markdown: kramdown
 

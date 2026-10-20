@@ -249,6 +249,11 @@ article.card,.page-body{background:#fff;border-radius:14px;padding:38px 48px;box
 .prevnext b{font-size:15.5px;line-height:1.35}
 .prevnext .next{text-align:right}
 .prevnext .none{color:#6b675c;background:transparent;border-style:dashed}
+.post-comments{margin:28px 0 0}
+.post-comments h2{margin:0 0 6px;font-size:22px;font-weight:800}
+.post-comments-note{margin:0 0 14px;color:var(--rc-slate);font-size:14.5px}
+.giscus-wrap{min-height:240px}
+.giscus-wrap .giscus,.giscus-wrap iframe{width:100%;max-width:100%}
 
 /* Right rail */
 aside.rail{position:sticky;top:16px;display:grid;gap:18px}
