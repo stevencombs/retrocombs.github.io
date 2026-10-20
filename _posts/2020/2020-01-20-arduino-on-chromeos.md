@@ -165,7 +165,7 @@ If you have a Chrome OS device with an older USB 3.0 or USB 2.0, plug the Arduin
 
 So far so good!
 
-> As noted by reader, [Nathan Morse](https://disqus.com/by/disqus_WcwrX4qGCo/), "Let the record show that you must connect the Arduino[-esque] device to the USB before trying to change the Linux USB setting in Chrome OS. Totally works, now! You are a hero, [@Steven Combs](https://disqus.com/by/stevencombsphd/)!" - Well thanks so much Nathan for the shout-out and the solution to a longstanding Arduino clone connection problem. This solutions is reported as working on Chrome OS v81.
+> As noted by reader Nathan Morse in the comments, "Let the record show that you must connect the Arduino[-esque] device to the USB before trying to change the Linux USB setting in Chrome OS. Totally works, now! You are a hero, Steven Combs!" - Well thanks so much Nathan for the shout-out and the solution to a longstanding Arduino clone connection problem. This solutions is reported as working on Chrome OS v81.
 
 ## Give Linux access to the USB device
 
