@@ -1,0 +1,8 @@
+<nav class="rc-follow" aria-label="Follow retroCombs">
+  <p>Follow retroCombs</p>
+  <ul>
+    {% for item in site.data.social %}
+    <li><a href="{{ item.url }}" target="_blank" rel="{% if item.rel %}{{ item.rel }} {% endif %}noopener">{{ item.label }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

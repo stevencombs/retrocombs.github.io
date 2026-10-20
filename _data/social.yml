@@ -1,0 +1,20 @@
+# Site-wide follow links. Order is the footer order.
+- label: YouTube retroCombs
+  url: https://www.youtube.com/@retrocombs
+- label: YouTube retroCombs Tech
+  url: https://www.youtube.com/@retrocombs-tech
+- label: X
+  url: https://x.com/StevenCombs
+- label: Bluesky
+  url: https://bsky.app/profile/retrocombs.bsky.social
+- label: Mastodon
+  url: https://mastodon.social/@stevencombs
+  rel: me
+- label: Threads
+  url: https://www.threads.com/@retrocombs
+- label: Facebook
+  url: https://www.facebook.com/retroCombsFB
+- label: Join the channel (members get Discord)
+  url: https://www.youtube.com/@retrocombs/join
+- label: Tip on PayPal
+  url: https://paypal.me/stevencombs
