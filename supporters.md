@@ -10,7 +10,9 @@ redirect_from:
 
 "The best supporters in the world" contribute to this blog and companion [YouTube channel](https://www.youtube.com/@retrocombs?sub_confirmation=1). It's a small, but mighty group!
 
-retroCombs memberships are available through YouTube at levels to meet all budgets and have fun Commodore inspired names. Check them out and join at <https://www.youtube.com/@retrocombs/join>. Here are the levels:
+retroCombs memberships are available through YouTube at levels to meet all budgets and have fun Commodore inspired names. Check them out and join.
+
+{% include member-cta.html lead=false variant="strip" %}
 
 <div class="rc-levels">
   <figure class="rc-level"><img src="/images/badges/badge-pet.webp" alt="Commodore PET (Mono) membership badge" width="150" height="150" loading="lazy"><figcaption><strong>Commodore PET (Mono)</strong><br><span>Member</span></figcaption></figure>
