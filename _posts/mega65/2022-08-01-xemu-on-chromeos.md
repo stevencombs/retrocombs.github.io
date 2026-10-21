@@ -14,11 +14,16 @@ categories:
   - mega65
   - chromeos
   - linux
+image:
+  path: /images/posts/mega65-on-chromeos/xemu-chromeos.jpg
+  width: 1280
+  height: 720
+  alt: 'Title card for the video on installing the MEGA65 Xemu emulator on a Chromebook'
 ---
 
 In the post [Run a MEGA65 on your Mac using Xemu](/xemu-on-mac), I show how to install the XEMU emulator for the MEGA65, _xmega65_, on a Mac. It's time to stretch my operating system’s legs and install it on another popular system. No, I'm not installing on Windows but on an operating system that may surprise many; ChromeOS!
 
-![XEMU on ChromeOS](https://media.discordapp.net/attachments/781481205639020554/996588525778649168/XEMU_on_ChromeOS.png?width=1755&height=1170)
+![Title card for the video on installing the MEGA65 Xemu emulator on a Chromebook](/images/posts/mega65-on-chromeos/xemu-chromeos.jpg)
 
 The process to install Xemu on ChromeOS is, unsurprisingly, similar to the Linux version since I'll use a Linux container on ChromeOS. But don't let that scare you. The Linux container feature is now out of beta and it has never been easier to install Linux apps on your Chromebook. Xemu is ready to download as an easy to install `.deb` file for Intel-based ChromeOS devices. If you have an ARM-based ChromeOS device, I have you covered. It is a more involved process, but if you follow my steps closely, you will have the MEGA65 emulator up and running in no time. Let's get started!
 

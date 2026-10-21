@@ -7,7 +7,14 @@ date: 2016-04-30
 comments: yes
 categories:
   - android
+image:
+  path: /images/posts/ios-talks-android/nexus-6.jpg
+  width: 1280
+  height: 720
+  alt: 'Motorola Nexus 6, the phone this Android comparison is based on'
 ---
+
+![Motorola Nexus 6, the phone this Android comparison is based on](/images/posts/ios-talks-android/nexus-6.jpg)
 
 Android has come a long way in the past several years and during that time, there has been a Hatfield/McCoy divide among Android and iOS users. Until recently, the only smart phone I have used is the iPhone. Since standing in line for the first generation iPhone to my latest, the iPhone 5s, I've been firmly in the iOS camp. But then something changed.
 
@@ -187,3 +194,5 @@ While I will recommend Android devices now to my family and friends, I will alwa
 [40]:	http://amzn.to/1WZIOIX
 
 [image-1]:	https://lh3.googleusercontent.com/iuztwmZyshWzHwUnVDfMD0lDT7tXHMlISbwFnJLQNaHUpvH-pEzfz2hxD3D2FeLCcRQwwl61_eXMJWS3hhLKP0nCHxwEINS1LbIoF3nCWLYPiK-G25_SBLnNeLePmiiY2gDogF6NPH7lsGqh_Ke-_9xfQ5EbGv-zp1kCHXzwgCUnMR96SErKsoPjzDpSujKsQX8rLKdrKBdlDlj0i7rkxsYOgxyrgP13P9eXwSz6dmM9X9pyEIHQwEri5Uddalom57OrSr0_ux7oHj5tvRhnhNfHgypwkwrZa4N1_4VKcbEXMApzfUuzAWVul5rI8PInJlLNBqrcLiLAgSPMkRtYXztxGbJG5XufgcG0D70pJNMRpIZkeCGPWSrc9Imphyih6gPkWV_lZeNR_GkvpnsNujkzEIb3gvScwJFCLAE3qXyaC53zAueFLkPW6f-KEniJ7epsJvS25m6RBRE7oR9o_BpwccECloFYogorjt1a9M-dSxDDUDe9kdRfgyIS8dCwVpThbdYwY0OvSUp1lRfgIOyjPSeAMh2-AqezQ0unjAVH8tlcdQZ5PPQgVQ_IuhSWABQ25A=w1717-h841-no "Google Material Design"
+
+*Image: [Nexus 6 device art, developers.android.com](https://commons.wikimedia.org/wiki/File:Nexus_6.png), [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/), via Wikimedia Commons.*

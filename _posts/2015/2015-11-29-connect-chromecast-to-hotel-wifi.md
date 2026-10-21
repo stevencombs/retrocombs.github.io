@@ -10,7 +10,14 @@ categories:
 redirect_from:
   - /google/2015/11/29/connect-chromecast-to-hotel-wifi.html
 
+image:
+  path: /images/posts/chromecast-hotel/chromecast.jpg
+  width: 1280
+  height: 853
+  alt: 'First-generation Chromecast HDMI dongle held in a hand'
 ---
+
+![First-generation Chromecast HDMI dongle held in a hand](/images/posts/chromecast-hotel/chromecast.jpg)
 
 The Chromecast, while a great device, has one huge flaw. Unlike the [Amazon Fire TV (or Stick)][amazon], it does not have a way to authenticate into a hotel that has a captive portal web page. This is an omission I would like to see Google include. Without a remote, this could be difficult to include. No worries though. There is a way to use your Chromecast in **some** hotels and this post will show you how to do so using your Mac.
 
@@ -100,3 +107,5 @@ The Chromecast should automatically connect to the hotel Wi-Fi network without n
 * Use a compatible device that is on the same hotel Wi-Fi network and try to cast video or audio to the Chromecast
 
 I believe the process above is accurate. Give it a shot and let me know. Please remember, this may not work on all hotel Wi-Fi networks. I've found it works in many independent hotels and within Marriott properties. I cannot verify for other hotel chains. If it works or does not work for you, please leave a comment below and include the hotel chain so we all benefit.
+
+*Photo: [@iannnnn](https://commons.wikimedia.org/wiki/File:View_of_HDMI_plug_of_first-generation_Chromecast_in_hand.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons.*

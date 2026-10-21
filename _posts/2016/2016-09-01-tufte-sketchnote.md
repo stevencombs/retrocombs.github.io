@@ -7,7 +7,14 @@ date: 'September 1, 2016'
 comments: 'yes'
 categories:
   - art
+image:
+  path: /images/posts/tufte-sketchnote/edward-tufte.jpg
+  width: 1280
+  height: 960
+  alt: 'Edward Tufte teaching a class'
 ---
+
+![Edward Tufte teaching a class](/images/posts/tufte-sketchnote/edward-tufte.jpg)
 
 On Friday, August 26th, 2016 I had the opportunity to attend the [EDWARD TUFTE: PRESENTING DATA AND INFORMATION][1] one-day seminar at the Westin in Chicago, Illinois. I generated a sketchnote during the session as I will describe below.
 
@@ -44,3 +51,5 @@ This sketchnote is dedicated to the two colleagues from the Community Education 
 [5]:	http://amzn.to/2c5O8Z0
 
 [image-1]:	https://lh3.googleusercontent.com/30C0zW-GZsw78PFR2WV_RsiZyt9bs6NhS9gJY31knlOnWP40H0NwAx8LGpya0z65WUP4_ZCqvnRCxIKC2c_F93LFj1uwjexOH9YUVAxEGDF3ziLul2ixU1NtoZHp10DFZd0_Qmf6FSKPSgUabqJmjCaopDXDR-46mlJ8mgAWr37wfzCtyRnuxqRWILUBve6NcRgyMllxeMF6cg4UIuMb1Vw0OpOQNjLifstZtAfUkY9NiFmPLP8W1xtTVdeWbQpTupoSNFXWoLxtEmX_BHdz-EtVxJh11TS0mDipA3QFq-TiF-hV9b5dyfsee7Wiu-68PeM-yvEqS5AF8Fj4IJcJIclltQ_sDp9udCiAFosN5EtBO5Lk7J24fkvJ8SLS6SP1HSPY9j3379MBCh70Xsdw9Q-lHq74tq_s1x5jh8_3qRVZDn2i35PHq9MHgmIqO-wAdv5MvNajLsaIWlBmPEKw78Iv4u85_zQlH5iALBtBeGH9fYck7uZUsLpG3UkAZomCFUKpvvQHiMhbrfwTkAHk_gJawsuWTbBZnCT6KByQYJTbfogAfSgaxZkULvb8Jebd67EZi4Sa4T7vVJtK2K926jJEjYGe7uzwmgsJofZD-UeWvqaw9g=w741-h961-no
+
+*Photo: [Aaron Fulkerson](https://commons.wikimedia.org/wiki/File:Edware_Tufte_giving_a_class.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*

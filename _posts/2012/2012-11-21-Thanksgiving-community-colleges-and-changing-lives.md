@@ -6,7 +6,14 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 categories: holiday higher-education
+image:
+  path: /images/posts/thanksgiving-community-colleges/community-college.jpg
+  width: 1280
+  height: 853
+  alt: 'A community college campus building'
 ---
+
+![A community college campus building](/images/posts/thanksgiving-community-colleges/community-college.jpg)
 
 This is the first Thanksgiving in my new role as Vice Chancellor for
 Academic Affairs. While reflecting on this yesterday, I decided to send
@@ -30,3 +37,5 @@ Feedback from the faculty has been positive, but my absolute favorite of the bun
 That’s what community college service is all about folks. Changing lives and making a difference. To all of my fellow community college faculty, staff and administrators:
 
 <h3>Happy Thanksgiving!</h3>
+
+*Photo: [Austin Community College](https://commons.wikimedia.org/wiki/File:Austin_Community_College_campus_in_2013.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons.*

@@ -6,7 +6,14 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: apple
+image:
+  path: /images/posts/mac-keystrokes/macbook-air-keyboard.jpg
+  width: 1280
+  height: 721
+  alt: 'Backlit keyboard of a MacBook Air'
 ---
+
+![Backlit keyboard of a MacBook Air](/images/posts/mac-keystrokes/macbook-air-keyboard.jpg)
 
 I can NEVER remember the Mac OS X keyboard shortcuts that create the typographic symbols I need. Can you remember the keystroke to create a © symbol? Probably not, in which case you use the [on screen keyboard][1] method which, while useful, can really mess with your workflow.
 
@@ -43,3 +50,5 @@ I only include symbols I use frequently. The list is formatted as a quick refere
 Did I miss a commonly used symbol that I should include? Leave me a comment and let me know. It is an easy task to include it and together we can make a better reference.
 
 [1]: /apple/2009/09/03/use-the-os-x-onscreen-keyboard-create-symbols.html
+
+*Photo: [TheumasNL](https://commons.wikimedia.org/wiki/File:MacBook_Air_keyboard_1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*

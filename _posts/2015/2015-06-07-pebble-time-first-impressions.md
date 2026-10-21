@@ -7,7 +7,14 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets
+image:
+  path: /images/posts/pebble-time/pebble-time.jpg
+  width: 1280
+  height: 720
+  alt: 'A Pebble Time smartwatch with a color screen'
 ---
+
+![A Pebble Time smartwatch with a color screen](/images/posts/pebble-time/pebble-time.jpg)
 
 Everyone is talking Watch. I get it. It is worth talking about. It's beautiful, an amazing technological achievement, and it's manufactured by Apple. What's not to like? The price tag; that's what.
 
@@ -105,3 +112,5 @@ After 48 hours, I am happy with my Pebble Time. There have been no problems and 
 
 [2768-0001]: http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=stevenccom-20
 [2768-0002]: http://www.amazon.com/gp/product/B00LMIA9L4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00LMIA9L4&linkCode=as2&tag=stevenccom-20
+
+*Photo: [Frmorrison](https://commons.wikimedia.org/wiki/File:Pebble_Time_front.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.*

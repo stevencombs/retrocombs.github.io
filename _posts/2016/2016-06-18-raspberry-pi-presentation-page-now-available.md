@@ -8,11 +8,16 @@ comments: no
 categories:
   - raspberrypi
   - presentations
+image:
+  path: /images/posts/raspberry-pi-presentation/raspberry-pi-2.jpg
+  width: 1280
+  height: 720
+  alt: 'A Raspberry Pi 2 Model B single-board computer'
 ---
 
 On June 17th, I was the guest speaker for our local [Columbus area Chamber of Commerce TANK Talk](https://www.facebook.com/events/1271805972849192/). I was asked to give a presentation about the Raspberry Pi and its use in physical computing, making and education. I decided to expand the presentation to include other physical computing devices such as the Arduino and a Kickstarter project.
 
-![Steven making the Raspberry Pi  presentation](https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-9/13434725_1033657290004039_7940487692931619442_n.jpg?oh=86a9c0760405a435ada7c54c7fe739d7&oe=57D45ACB)
+![A Raspberry Pi 2 Model B single-board computer](/images/posts/raspberry-pi-presentation/raspberry-pi-2.jpg)
 
 A companion page is available that includes my electronic presentation and links to the numerous resources I shared. The page is located at:
 
@@ -21,3 +26,5 @@ A companion page is available that includes my electronic presentation and links
 The page also includes a comments area if you have questions. If you would like me to present this information, or a modified version, to your group, [send me an email](mailto:steven.combs@gmail.com).
 
 Shout out and huge thanks to the [Columbus Area Chamber](http://www.columbusareachamber.com/) and the [Fish Tank Co-working Space](http://www.columbusareachamber.com/spotlight/fishtank) for inviting me to present.
+
+*Photo: [Multicherry](https://commons.wikimedia.org/wiki/File:Raspberry_Pi_2_Model_B_v1.1_top_new_(bg_cut_out).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*

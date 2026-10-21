@@ -7,7 +7,14 @@ date: 'March 20, 2016'
 comments: 'yes'
 categories:
   - raspberrypi
+image:
+  path: /images/posts/openhab-raspberry-pi/openhab-logo.jpg
+  width: 1280
+  height: 720
+  alt: 'The openHAB home-automation logo'
 ---
+
+![The openHAB home-automation logo](/images/posts/openhab-raspberry-pi/openhab-logo.jpg)
 
 This post shares the process I use to install [openHAB][8291-0001], the "vendor and technology agnostic open source automation software for your home," on a Raspberry Pi 2. While I use the Raspberry Pi 2, this process should work on any variant. After scouring the web, I found multiple tutorials, but none worked for me exclusively. After much experimentation, my process became an amalgam of several online resources.
 
@@ -122,3 +129,5 @@ The install is just the start of my openHAB journey. As I learn to control my ho
 [8291-0003]: https://www.raspbian.org/
 [8291-0004]: https://en.wikipedia.org/wiki/Secure_Shell
 [8291-0005]: https://java.com/download
+
+*Image: [openHAB logo by Kai Kreuzer](https://commons.wikimedia.org/wiki/File:OpenHAB_logo.svg), public domain, via Wikimedia Commons.*

@@ -6,7 +6,14 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 categories: presentations higher-education apple
+image:
+  path: /images/posts/apple-tv-classroom/apple-tv-3.jpg
+  width: 1280
+  height: 960
+  alt: 'Home screen of a third-generation Apple TV'
 ---
+
+![Home screen of a third-generation Apple TV](/images/posts/apple-tv-classroom/apple-tv-3.jpg)
 
 On Monday, October 22nd, I was the presenter for a local brown-bag at the Columbus Learning Center for the three institutions of higher education on our shared campus: Ivy Tech Community College, IUPUC and Purdue College of Technology. The topic of my presentation is the use of the TV in the Classroom. See, even Vice Chancellors can stay current in the use of instructional technologies!
 
@@ -94,3 +101,5 @@ The TV has the following network requirements:
    [10]: http://play.google.com/
    [11]: http://airparrot.com/
    [12]: http://goo.gl/pOsCC
+
+*Photo: [Wadzifox](https://commons.wikimedia.org/wiki/File:Home-AppleTV-3RevA.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*

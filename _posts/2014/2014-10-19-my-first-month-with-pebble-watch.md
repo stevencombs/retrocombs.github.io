@@ -9,7 +9,14 @@ comments: yes
 redirect_from:
   - /pebble/2014/10/19/my-first-month-with-pebble-watch.html
 
+image:
+  path: /images/posts/pebble-watch/pebble-watches.jpg
+  width: 1280
+  height: 720
+  alt: 'Three original Pebble e-paper watches in red, black, and white'
 ---
+
+![Three original Pebble e-paper watches in red, black, and white](/images/posts/pebble-watch/pebble-watches.jpg)
 
 At the end of September, Apple announced their new [Apple Watch](https://www.apple.com/watch/). I watched the announcement and found myself intrigued by the device; however, one thing kept nagging me, I can’t remember the last time I wore a watch on a regular basis. I think it was in the mid 1990s. After that period I only wore a watch whenever I put on my uniform for military duty and occasionally while I ran.
 
@@ -180,3 +187,5 @@ In conclusion, if the thought of a smart watch appeals to you, my guess is the P
 Want a Pebble of your own or as a gift for the holidays? Check Amazon for both the [Pebble](http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=stevenccom-20) and [Pebble Steel](http://www.amazon.com/gp/product/B00IVX0XGO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IVX0XGO&linkCode=as2&tag=stevenccom-20)? Have a cool [Pebble App](https://play.google.com/store/apps/details?id=com.getpebble.android&hl=en) to share or a tip/trick/hack? Leave it in the comments section below.
 
 **Post Sketchnote:** [/sketchnotes/2014/10/19/sketchnote-pebble-blog-post.html](/sketchnotes/2014/10/19/sketchnote-pebble-blog-post.html)
+
+*Image: [Pebble Technology press photo](https://commons.wikimedia.org/wiki/File:Pebble_watch_trio_group_04.png), [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0/), via Wikimedia Commons.*

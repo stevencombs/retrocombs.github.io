@@ -6,12 +6,20 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 category: evernote
 comments: true
+image:
+  path: /images/posts/2014-07-26-use-evernote-to-create-a-blog.png
+  width: 912
+  height: 712
+  alt: 'Postach.io site created from an Evernote notebook'
 ---
 
 While browsing the web this morning, I read about a site that will turn your [Evernote][1] notes from a specific notebook to a blog. As a huge Evernote user, I just had to give this a shot to see how well it works. The tool you ask?
 
-<center>**[Postach.io](postach.io)**
-![Postach.io](/images/posts/2014-07-26-use-evernote-to-create-a-blog.png)</center>The setup is easy and the premise is genius for Evernote users who want a simple and quick way to get online or share a series of Evernote notes to the world in a blog format. You can create a single blog for free to try it out. Below are the steps to get started.
+**[Postach.io](http://postach.io)**
+
+![Postach.io site created from an Evernote notebook](/images/posts/2014-07-26-use-evernote-to-create-a-blog.png)
+
+The setup is easy and the premise is genius for Evernote users who want a simple and quick way to get online or share a series of Evernote notes to the world in a blog format. You can create a single blog for free to try it out. Below are the steps to get started.
 
 # Setup
 Postach.io set up took me about five minutes. The process couldn't be easier:

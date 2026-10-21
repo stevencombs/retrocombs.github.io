@@ -7,7 +7,14 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets
+image:
+  path: /images/posts/devices-we-use/nexus-6.jpg
+  width: 1280
+  height: 720
+  alt: 'Motorola Nexus 6, the primary phone in this 2015 device list'
 ---
+
+![Motorola Nexus 6, the primary phone in this 2015 device list](/images/posts/devices-we-use/nexus-6.jpg)
 
 I'm often asked what electronic devices we use on a regular basis. This post lists those devices and provides a bit of information about their use and location in our home. This is a live, and very unorganized, list that I will update regularly as new devices become favored and old devices fall out of favor. Old devices will remain in the list; however, they will receive <strike>strike through</strike> highlighting. There are copious hyperlinks through the list. Some will take you to a purchase page and others will simply provide further information on an older device.
 
@@ -40,3 +47,5 @@ I'm often asked what electronic devices we use on a regular basis. This post lis
 That's an exhaustive list and as I look around our home, I see other devices I need to include. I will add those as time permits. In the mean time, if you have questions about these devices, please leave them in the comments section below.
 
   [d44d8a3d]: /gadgets/2015/02/21/amazon-echo-review.html "Amazon Echo is Siri in a Pringle® can"
+
+*Image: [Nexus 6 device art, developers.android.com](https://commons.wikimedia.org/wiki/File:Nexus_6.png), [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/), via Wikimedia Commons.*
