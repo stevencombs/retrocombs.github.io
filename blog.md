@@ -2,6 +2,7 @@
 layout: pages
 title: Blog Posts
 permalink: blog
+ads: false
 ---
 
 <img class="category" src="/images/design/blog.svg" width="20%" />
