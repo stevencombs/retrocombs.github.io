@@ -42,16 +42,15 @@ giscus:
   lang: en
   loading: lazy
 
-# Manual AdSense units. Slot ids stay empty until Steven creates the units.
-# An empty id renders nothing: no label, no reserved box, no push().
+# Manual AdSense units. An empty id renders nothing: no label, no reserved box, no push().
 adsense:
   enabled: true
   client: ca-pub-4132959196132899
   slots:
-    in_article: { id: "", type: in-article }
-    end:        { id: "", type: display }
-    sidebar:    { id: "", type: fixed, width: 300, height: 600 }
-    feed:       { id: "", type: display }
+    in_article: { id: "1032354878", type: in-article }
+    end:        { id: "1840583243", type: display }
+    sidebar:    { id: "2190183019", type: fixed, width: 300, height: 600 }
+    feed:       { id: "1384367805", type: display }
 
 highlighter: rouge
 markdown: kramdown
