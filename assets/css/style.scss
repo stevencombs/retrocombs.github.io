@@ -471,7 +471,7 @@ li[aria-selected=true] .rcs-title{color:var(--rc-red)}
 @media (min-width:1024px){.layout>aside.rail{position:static;align-self:stretch;align-content:start}}
 @media (max-width:760px){.rc-ad--feed .rc-ad__box{min-height:280px}}
 ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
-.rc-ad:has(ins[data-ad-status="unfilled"]){display:none}
+.rc-ad:has(ins.adsbygoogle[data-ad-status="unfilled"]){display:none!important}
 @media (max-width:760px){
   dialog.rcs{width:100vw;max-width:100vw;height:100vh;max-height:100vh;margin:0;border-radius:0}
   .rcs-bar input{font-size:17px}
