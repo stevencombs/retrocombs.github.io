@@ -14,30 +14,14 @@ You may be looking for my [dedicated Raspberry Pi presentation page](/raspberryp
 Below are my embedded systems posts:
 
 ## Arduino
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.arduino %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.arduino %}
 
 ## C.H.I.P. and Pocket C.H.I.P.
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.chip %}
-    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.chip %}
 
 ## Raspberry Pi
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.raspberrypi %}
-    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.raspberrypi %}
 
 ## Electronics
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.electronics %}
-    <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.electronics %}

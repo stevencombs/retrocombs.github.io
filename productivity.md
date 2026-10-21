@@ -13,8 +13,4 @@ For the longest time, I used Evernote as primary tool to capture, collect, organ
 
 Below are my posts that add to the discussion of productivity and organization.
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.productivity %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.productivity %}

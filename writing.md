@@ -17,11 +17,7 @@ As I work with new writing tools, and as I begin my foray into fiction, this pag
 
 ## Writing related posts
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.writing %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.writing %}
 
 ## A note to literary agents
 If you are a literary agent looking for a motivated, experienced writer with an intriguing genre story, why not get in touch with me now and learn more? You can send inquires to:

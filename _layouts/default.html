@@ -4,6 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      function cardThumbError(img) {
+        var src = img.getAttribute("src") || "";
+        if (src.indexOf("maxresdefault") !== -1 && img.getAttribute("data-thumb-step") !== "hq") {
+          img.setAttribute("data-thumb-step", "hq");
+          img.src = src.replace("maxresdefault", "hqdefault");
+          return;
+        }
+        img.onerror = null;
+        img.onload = null;
+        img.hidden = true;
+        var tile = img.parentNode && img.parentNode.querySelector(".post-card-fallback-tile");
+        if (tile) tile.hidden = false;
+      }
+      function cardThumbLoad(img) {
+        var src = img.currentSrc || img.src || "";
+        if (src.indexOf("i.ytimg.com") !== -1 && img.naturalWidth && img.naturalWidth <= 120) {
+          cardThumbError(img);
+        }
+      }
+    </script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -45,6 +66,7 @@
     </main>
     {% include footer.html %}
     <script src="{{ "/assets/js/theme.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/post-cards.js" | relative_url }}"></script>
     <script src="{{ "/assets/js/yt-lite.js" | relative_url }}" defer></script>
     {% include search-scripts.html %}
   </body>

@@ -11,8 +11,4 @@ I'm an unabashed Mac fan. Anyone who knows me understands this and knows at any 
 
 Below are posts that I create to assist my friends and family who are Mac and/or iOS device users:
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.apple %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.apple %}
