@@ -6,7 +6,14 @@ email: 'retrocombs@icloud.com'
 date: '2015-02-21 16:36'
 category: gadgets
 comments: true
+image:
+  path: /images/posts/amazon-echo-review/amazon-echo.jpg
+  width: 1280
+  height: 720
+  alt: 'An original Amazon Echo speaker'
 ---
+
+![An original Amazon Echo speaker](/images/posts/amazon-echo-review/amazon-echo.jpg)
 
 It's been about a month since the [unboxing](/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://amzn.to/21dvBwS). Since the unboxing, we've put the [Amazon Echo](http://amzn.to/21dvBwS) through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren't familiar with the [Amazon Echo](http://amzn.to/21dvBwS), watch the video below before you read the rest of the post.
 
@@ -360,3 +367,5 @@ The Echo is a fine gadget and does all things advertised. Given time and a coupl
 If you are considering an [Echo purchase](http://amzn.to/1Qlp3d1), you have to ask yourself, "Are the Echo features worth $200?" That's a personal question you have to answer yourself. If you have $200 burning a hole in your pocket, probably. It's a fun device and you could spend much more on other gadgets that do less. If you can grab an Echo at the limited time Amazon Prime rate of $99, I highly recommend a purchase. No matter how much you spend on the Echo, you will only be satisfied if you force yourself to use it on a regular basis, which we have done. Ours is used everyday due to; location, location, location! **{Update: April 26th, 2015}** With the addition of home automation features to control WeMo and Philips Hue devices, the Echo has become the brains of our home automation system. If you use these devices, you will soon be hooked on the use of the Echo to control them.
 
 <s>More updates are on the way and we should probably look at the Echo again in a year. It might be fun to make a now-versus-then comparison. Until then, drop your comments and questions below.</s> I will update this post as Amazon adds new features (as has already been done). Be sure to check back occasionally and look review the updates list at the top of the post. Over time, this post will surely be the definitive guide to the Amazon Echo. **{End Update}**
+
+*Photo: [Frmorrison](https://commons.wikimedia.org/wiki/File:Amazon_Echo.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.*

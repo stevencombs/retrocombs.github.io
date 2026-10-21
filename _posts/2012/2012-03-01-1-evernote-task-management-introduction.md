@@ -6,7 +6,14 @@ email: 'retrocombs@icloud.com'
 date: 2015-02-23 17:26
 category: productivity
 comments: yes
+image:
+  path: /images/posts/evernote-task-management/evernote.jpg
+  width: 1280
+  height: 956
+  alt: 'Evernote notes open on an iPad beside a MacBook'
 ---
+
+![Evernote notes open on an iPad beside a MacBook](/images/posts/evernote-task-management/evernote.jpg)
 
 In a [previous post][1] I share my path toward an Evernote task management system. At the end of the post, I include a statement that I will share this system. My intent was to do so in a single post. As I prepared an outline for a single post, I realized that the length of the post would be unwieldy both from a writer and reader’s perspective so I chose to write the instructions as a series of posts. This post is part two of that series.
 
@@ -38,3 +45,5 @@ It is also likely to take some time as I will craft these posts as time permits.
 [5]:	https://twitter.com/StevenCombs
 [6]:	https://plus.google.com/+StevenCombsPhD
 [7]:	/atom.xml
+
+*Photo: [John Keane](https://commons.wikimedia.org/wiki/File:Evernote_on_iPad_and_MacBook.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*

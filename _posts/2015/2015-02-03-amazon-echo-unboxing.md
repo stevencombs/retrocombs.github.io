@@ -6,11 +6,16 @@ email: 'retrocombs@icloud.com'
 date: 2015-02-03 19:20
 category: gadgets
 comments: yes
+image:
+  path: /images/posts/amazon-echo-unboxing/echo-box.jpg
+  width: 1024
+  height: 768
+  alt: 'Unmarked black box the Amazon Echo arrived in'
 ---
 
 Today a package arrived via UPS. When I opened the UPS box, the unmarked black box found in the image below was inside. I was expecting the Amazon Echo I ordered about a month ago, but found it interesting that there were no markings whatsoever on the outside slip cover.
 
-![Unmarked package](https://lh5.googleusercontent.com/-E7mxY0s1Edo/VNFmn8z746I/AAAAAAABY0g/cEjXUW-TL6k/w1259-h944-no/IMG_6910.JPG)
+![Unmarked black box the Amazon Echo arrived in](/images/posts/amazon-echo-unboxing/echo-box.jpg)
 
 I had a bit of time late this afternoon and decided to take some unboxing images to see if there were any other unexpected features. I found a few and was able to get the Echo unboxed, powered up and working in a matter of minutes.
 

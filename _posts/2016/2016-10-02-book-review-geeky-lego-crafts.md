@@ -7,7 +7,14 @@ date: 'October 2, 2016'
 comments: 'yes'
 categories:
   - lego
+image:
+  path: /images/posts/geeky-lego-crafts/cover.jpg
+  width: 487
+  height: 630
+  alt: 'Cover of Geeky LEGO Crafts by David Scarfe'
 ---
+
+![Cover of Geeky LEGO Crafts by David Scarfe](/images/posts/geeky-lego-crafts/cover.jpg)
 
 Each year before the holidays begin, [No Starch Press][1] sends me a review copy of their latest LEGO title. Last year it was the [The LEGO Architect][2] and this year it is, [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3]. Receipt of these books prior to Halloween has become a fun tradition in the Combs household. It also means a promise to read and review the book; something I've always enjoyed. Let's take a look at this new book by David Scarfe.
 
@@ -74,3 +81,5 @@ I can tell that a lot of love and attention goes into each No Starch LEGO book. 
 [image-1]:	https://lh3.googleusercontent.com/NDfuEYiXODZpBJEni0SUPt5dA_YA2CPO1Su1LU5z3e5dntjI9G2qcMBFXdkWL0dgZ3H6aEaLP0k=w1635-h1226-no
 [image-2]:	https://lh3.googleusercontent.com/EwFe3SlQ7qWTYD1adCcUy0MSKSyIbCUDSyAuVm8397adaf_SDEWcK83vKVxFOIVGNt3El7yd5EU=w895-h1226-no "Project description, difficulty level and elements necessary."
 [image-3]:	https://lh3.googleusercontent.com/WmkUb63y_CF502AY04m4ps0tozfUXH3m3Exr4A0hNdWGzmwOv6nwohaK91bKlVGNjmGL-Ip753SDDPo0kz0E9vb0dsc5Fd1EZhNkCq63P_9XCe5zd1OJQ5PmZfOSw21JpN6m2JYwQciolEPCbwpGXXoJMVoVzhbscxw2_kK3whPsu0FEna_afaOyVZUu2uwhlvrO2UjVtJhJmVxvLdk0UO_Ziri74-7RsVvWuE-jjNmNSFRB7ez-udFbTZJDBepN63t-l54YUJjqh7w4p5cPMjj73qeheh5s9Juwx7ew2z9LiXppb5j9_ezlgwHlr54X9jcnyf4xbXaM1U7bfEhiBU6DFOmN1tth9c5Krrb5RgM01KVenK4dKhddME-x02B6i_S7rzlnHgrvSSvAXsAj6XLXXqGMyn473fYIxqEVT6k126oX_aKNC2gDJsIBNo3o3EH8eWQo6cmDBGBil1JjoTctkGZ4bvL1_ZoPVeWMO_82cE49pHK97wV_A7NyvsBuNXpXtlJeMX0NJi9Bf5gJB77zGd3Z3rdZE6Ax_TR8QTwyVIEUUfeo8Fb8sw4kjeryB3KEeTgWh1IwxNXtfrch3tB75REqJvEbDZ1yehjzlOqT1YiiRA=w1275-h1154-no "Sample build instructions"
+
+*Image: [No Starch Press product photo](https://nostarch.com/geekylegocrafts).*

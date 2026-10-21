@@ -7,6 +7,11 @@ date: 2014-08-25 09:23
 copyright: © Steven B. Combs, Ph.D. 2014
 category: apple
 comments: yes
+image:
+  path: /images/posts/2014-08-27-virginmobilenolet.png
+  width: 320
+  height: 568
+  alt: 'Virgin Mobile coverage map on an iPhone showing no LTE signal'
 ---
 
 My wife and I are done paying $150/month for mobile phone service on two iPhones. We both have an iPhone 4s and we are ready for an upgrade to the phones and the service. After some research and use by other family members, we chose to go the [Virgin Mobile](https://refer.virginmobileusa.com/3wVpu2Z) route. Part of the switch will involve an upgrade from our iPhone 4s to iPhone 5s.

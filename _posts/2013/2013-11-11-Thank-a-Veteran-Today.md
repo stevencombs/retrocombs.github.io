@@ -6,7 +6,14 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: Holiday
+image:
+  path: /images/posts/thank-a-veteran/veterans-day.jpg
+  width: 1280
+  height: 858
+  alt: 'U.S. Air Force honor guard at a Veterans Day ceremony'
 ---
+
+![U.S. Air Force honor guard at a Veterans Day ceremony](/images/posts/thank-a-veteran/veterans-day.jpg)
 
 <iframe align="right" frameborder="0" height="540px" src="https://www.thunderclap.it/projects/6258-veterans-day-2013/embed" width="250px"></iframe>Once again the time has come for us to honor those that have sacrificed themselves so that we may enjoy the freedoms of this great land. While we officially recognize the contributions of our veteran’s twice a year, we should be grateful daily for their continued service and sacrifices.
 
@@ -17,3 +24,5 @@ I am grateful for those that served and still serve “down-range.” Every day 
 Because of their sacrifice that you get to enjoy and voice your political views without fear or retribution. Not willing to thank them? Put your viewpoints on the shelf as you don’t deserve the liberty they provide.
 
 Finally, I add a special thanks to those who served by my side during my two military careers (Air Force and Army). Many friendships were made and I am happy that they still endure even after 27-years of service. Happy Veteran’s Day Y‘all!
+
+*Photo: [Staff Sgt. Ryan Crane, U.S. Air Force](https://commons.wikimedia.org/wiki/File:Scott_Air_Force_Base_Veterans_Day_121111-F-RN211-009.jpg), public domain, via Wikimedia Commons.*

@@ -7,7 +7,14 @@ date: 'October 3, 2016'
 comments: 'yes'
 categories:
   - art
+image:
+  path: /images/posts/exhibit-columbus/miller-house.jpg
+  width: 1280
+  height: 960
+  alt: 'The Miller House in Columbus, Indiana'
 ---
+
+![The Miller House in Columbus, Indiana](/images/posts/exhibit-columbus/miller-house.jpg)
 
 I created this sketchnote during the Friday, September 30th, 2016 morning session of [Exhibit Columbus][1]. The Exhibit Columbus website describes this event as, "an annual exploration of architecture, art, design, and community with programming that alternates between symposium and exhibition years. It seeks to celebrate Columbus’ design heritage, while making it relevant to new audiences."
 
@@ -36,3 +43,5 @@ This sketchnote is dedicated to my mother who's birthday happens to fall on Octo
 [4]:	http://amzn.to/2c5O8Z0
 
 [image-1]:	https://lh3.googleusercontent.com/HPHbF7iikkpK1W2HyR52T5kyaKM4rZzSJdBXxBgLbuTPjl0NRgF7Ds3DSvJbTrnK_fjoiAs1S-tjQrJHXm0mYF9tmK0DZhhpdarnKK_RRAgPkd2VeRC_KsfEgj5ifZHpkwsW0WaMtbyr-Tq5icfw6ii7f3mUF_6jye7wyWAcJPNi9wEEm9w0eSILMaH0axSduOYCMucO_yFs9ckPkwbmNxAN7oGGHXEC-JAkxQWWmM3kgZ_Z1IScwDdEC1cEEQuLbJXk5Se-kbaE6HQ1IRMGWU0DAztLRIy0JjrO9NQdMGvE07Jh3_17vrO-zWowape0knDdfiEqr4SYldnp3yYLCMRxPHIcV0AUfJlBgF4zPNbqeqrMyKHw5ov9pcIwvHMhCfp7U7RNmnMX0Ab3d5zVF43Mx6v2rwiI_Wya7UPiPfHmE-PLbZT4L23FGnLEPq4JuEBebUT5nr26-GR0E-k2TyCgdJbw2cedKGrAoFtrCYQB01tVxc1H3cXLWWulEEiVbDqOQVzYOSnzDxwF6pqkiNOHe1fNX5Up5qZpwV48RhJtGNoY68Br6YHlll2V4nEE_eXJXJ-wKmVycEtCq3fd35XTP0OlNRLU3sfxo84IHxhvxJM4gA=w620-h960-no
+
+*Photo: [Jeff Hart](https://commons.wikimedia.org/wiki/File:Miller_House_(Columbus,_Indiana)_-_March_2013_-_Jeff_Hart_11.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons.*

@@ -11,7 +11,14 @@ tags:
   - gadgets
   - favorites
   - list 
+image:
+  path: /images/posts/favorite-gadgets-2016/pixel-xl.jpg
+  width: 1280
+  height: 720
+  alt: 'Google Pixel XL smartphone showing the Google Assistant'
 ---
+
+![Google Pixel XL smartphone showing the Google Assistant](/images/posts/favorite-gadgets-2016/pixel-xl.jpg)
 
 This past year brought many gadgets into our home. As the year winds up, I decided to share my favorites and those I use on a regular basis. Some of these were purchased prior to 2016, but remain useful. I include prices that were accurate at the time of this writing. Below is a table of contents to provide quick access to each gadget description.
 
@@ -220,3 +227,5 @@ There you have it; my favorite gadgets of 2016. There were many gadgets released
 [61]:	http://amzn.to/2hJcHjv
 [62]:	http://amzn.to/2hVQBeu
 [63]:	http://www.ikea.com/us/en/catalog/products/00303648/
+
+*Photo: [Maurizio Pesce](https://commons.wikimedia.org/wiki/File:Android_Assistant_on_the_Google_Pixel_XL_smartphone_(29526761674).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
