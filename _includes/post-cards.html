@@ -12,6 +12,7 @@
 {%- assign page_size = include.page_size | default: 0 | plus: 0 -%}
 {%- if cards and cards.size > 0 -%}
 {%- assign cards_left = cards.size | minus: page_size -%}
+{%- assign static_index = site.static_files | map: "path" | join: "||" | prepend: "||" | append: "||" -%}
 <div class="post-cards-block"{% if page_size > 0 and cards_left > 0 %} data-post-cards{% endif %}>
   <div class="post-cards">
     {%- for post in cards -%}
@@ -54,20 +55,45 @@
         {%- endfor -%}
       {%- endif -%}
       {%- if thumb != "" -%}
+        {%- assign thumb = thumb | replace: "&amp;amp;", "&" | replace: "&amp;", "&" | replace: "&#38;", "&" -%}
         {%- assign thumb_head = thumb | slice: 0, 1 -%}
         {%- unless thumb contains "://" or thumb_head == "/" or thumb_head == "." -%}
           {%- assign thumb = thumb | prepend: "/" -%}
         {%- endunless -%}
-        {%- if thumb contains "://" -%}
-          {%- assign thumb_url = thumb -%}
+        {%- assign thumb_check = "" -%}
+        {%- if thumb contains "://retrocombs.com" or thumb contains "://www.retrocombs.com" -%}
+          {%- assign thumb_check = thumb | split: "retrocombs.com" | last | split: "?" | first | split: "#" | first -%}
+        {%- elsif thumb contains "://" -%}
+          {%- assign thumb_check = "" -%}
         {%- else -%}
-          {%- assign thumb_url = thumb | relative_url -%}
+          {%- assign thumb_check = thumb | split: "?" | first | split: "#" | first -%}
+          {%- assign check_head = thumb_check | slice: 0, 1 -%}
+          {%- unless check_head == "/" -%}
+            {%- assign thumb_check = thumb_check | prepend: "/" -%}
+          {%- endunless -%}
+        {%- endif -%}
+        {%- if thumb_check != "" -%}
+          {%- assign thumb_mark = "||" | append: thumb_check | append: "||" -%}
+          {%- unless static_index contains thumb_mark -%}
+            {%- assign thumb = "" -%}
+          {%- endunless -%}
+        {%- endif -%}
+        {%- if thumb != "" -%}
+          {%- if thumb contains "://" -%}
+            {%- assign thumb_url = thumb -%}
+          {%- else -%}
+            {%- assign thumb_url = thumb | relative_url -%}
+          {%- endif -%}
         {%- endif -%}
       {%- endif -%}
       <a class="post-card" href="{{ post.url | relative_url }}"{% if hide %} hidden{% endif %}>
         <span class="post-card-media{% if thumb == "" %} post-card-fallback{% endif %}">
           {%- if thumb != "" -%}
-            <img src="{{ thumb_url | escape }}" alt="" width="640" height="360" loading="lazy">
+            <img src="{{ thumb_url | escape }}" alt="" width="640" height="360" loading="lazy" onerror="cardThumbError(this)" onload="cardThumbLoad(this)">
+            <span class="post-card-fallback-tile" hidden>
+              <span class="post-card-mark" aria-hidden="true">rc</span>
+              <span class="post-card-bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
+            </span>
           {%- else -%}
             <span class="post-card-mark" aria-hidden="true">rc</span>
             <span class="post-card-bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>

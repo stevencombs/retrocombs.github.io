@@ -293,7 +293,7 @@ aside.rail{position:sticky;top:16px;display:grid;gap:18px}
 .page-hero .crumbs span[aria-hidden]{color:#c9c2b0}
 .page-hero h1{font-size:38px;line-height:1.15;letter-spacing:-1px;margin:0;font-weight:800}
 .page-main{margin-top:26px}
-.page-body{max-width:none}
+.page-body{max-width:none;container-type:inline-size}
 .page-body .prose{max-width:76ch}
 img.category{width:20%;min-width:110px;border-radius:0}
 .video-container video,.video-container img{width:100%;max-width:500px;border-radius:10px;display:block}
@@ -610,12 +610,17 @@ header.site nav .dd > button:hover{border-bottom-color:var(--st-yellow);padding-
 
 /* Image-on-top post cards. Shared by every former date » link list. */
 .post-cards-block{margin:0 0 1.35em}
-.post-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;margin:0}
+/* The prose measure is 76ch. Cards use the full page column instead, which fits four across on a 1280 screen. */
+.page-body .prose:not(.prose-wide) .post-cards-block{width:100cqi;max-width:none}
+.post-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;margin:0}
 .post-card{display:flex;flex-direction:column;min-width:0;background:#fff;border:2px solid var(--rc-beige);color:var(--rc-ink);text-decoration:none;border-radius:0}
 .post-card[hidden]{display:none !important}
 .prose a.post-card,.prose a.post-card:hover{color:inherit;text-decoration:none;overflow-wrap:normal}
 .post-card-media{display:block;aspect-ratio:16/9;background:var(--rc-charcoal);overflow:hidden;border-radius:0;position:relative}
 .prose .post-card-media img,.post-card-media img{width:100%;height:100%;max-width:none;object-fit:cover;border-radius:0;display:block}
+.post-card-media img[hidden]{display:none !important}
+.post-card-fallback-tile{position:absolute;inset:0}
+.post-card-fallback-tile[hidden]{display:none !important}
 .post-card-fallback{position:relative}
 .post-card-mark{position:absolute;left:10px;top:10px;font-family:var(--font-accent);font-size:11px;line-height:1;color:var(--rc-cream)}
 .post-card-bars{position:absolute;left:0;right:0;bottom:0;display:flex;height:10px}
