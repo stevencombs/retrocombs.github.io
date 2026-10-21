@@ -83,3 +83,44 @@
   rail.appendChild(tpl.content.cloneNode(true));
   (window.adsbygoogle = window.adsbygoogle || []).push({});
 })();
+
+/* Browsers without :has() still need the striped wrapper removed when a unit is unfilled. */
+(function () {
+  if (!window.MutationObserver) return;
+
+  function hideIfUnfilled(ins) {
+    if (!ins || ins.getAttribute("data-ad-status") !== "unfilled") return;
+    var slot = ins.closest ? ins.closest(".rc-ad") : null;
+    if (!slot) return;
+    slot.style.setProperty("display", "none", "important");
+  }
+
+  function scan(root) {
+    if (!root || !root.querySelectorAll) return;
+    var nodes = root.querySelectorAll("ins.adsbygoogle");
+    for (var i = 0; i < nodes.length; i++) hideIfUnfilled(nodes[i]);
+  }
+
+  scan(document);
+  var observer = new MutationObserver(function (mutations) {
+    for (var i = 0; i < mutations.length; i++) {
+      var mutation = mutations[i];
+      if (mutation.type === "attributes") {
+        hideIfUnfilled(mutation.target);
+        continue;
+      }
+      for (var j = 0; j < mutation.addedNodes.length; j++) {
+        var node = mutation.addedNodes[j];
+        if (!node || node.nodeType !== 1) continue;
+        if (node.matches && node.matches("ins.adsbygoogle")) hideIfUnfilled(node);
+        scan(node);
+      }
+    }
+  });
+  observer.observe(document.documentElement, {
+    subtree: true,
+    childList: true,
+    attributes: true,
+    attributeFilter: ["data-ad-status"]
+  });
+})();
