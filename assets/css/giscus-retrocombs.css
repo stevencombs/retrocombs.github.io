@@ -23,6 +23,17 @@
   src: url("https://retrocombs.com/assets/fonts/inter/inter-700.woff2") format("woff2");
 }
 
+/* The widget is loaded inside a giscus.app iframe. Pin light colors so a
+   dark OS color-scheme cannot leave inherited text and borders white while
+   the cream page shows through the transparent frame. */
+html,
+body,
+main {
+  color-scheme: light;
+  background-color: #F5ECDD;
+  color: #333333;
+}
+
 main {
   font-family: "Inter", system-ui, "Helvetica Neue", sans-serif;
   --color-prettylights-syntax-comment: #636054;
@@ -57,11 +68,11 @@ main {
   --color-prettylights-syntax-constant-other-reference-link: #464646;
   --color-btn-text: #333333;
   --color-btn-bg: #F5ECDD;
-  --color-btn-border: #D9CDAD;
+  --color-btn-border: #636054;
   --color-btn-shadow: 0 1px 0 rgb(70 70 70 / 6%);
   --color-btn-inset-shadow: inset 0 1px 0 rgb(255 255 255 / 40%);
   --color-btn-hover-bg: #D9CDAD;
-  --color-btn-hover-border: #636054;
+  --color-btn-hover-border: #FF9400;
   --color-btn-active-bg: #D9CDAD;
   --color-btn-active-border: #464646;
   --color-btn-selected-bg: #D9CDAD;
@@ -70,8 +81,8 @@ main {
   --color-btn-primary-border: #B51E18;
   --color-btn-primary-shadow: 0 1px 0 rgb(70 70 70 / 12%);
   --color-btn-primary-inset-shadow: inset 0 1px 0 rgb(255 255 255 / 16%);
-  --color-btn-primary-hover-bg: #8f1813;
-  --color-btn-primary-hover-border: #8f1813;
+  --color-btn-primary-hover-bg: #FF9400;
+  --color-btn-primary-hover-border: #FF9400;
   --color-btn-primary-selected-bg: #8f1813;
   --color-btn-primary-selected-shadow: inset 0 1px 0 rgb(51 51 51 / 20%);
   --color-btn-primary-disabled-text: rgb(245 236 221 / 80%);
@@ -88,8 +99,8 @@ main {
   --color-canvas-overlay: #F5ECDD;
   --color-canvas-inset: #D9CDAD;
   --color-canvas-subtle: #F5ECDD;
-  --color-border-default: #D9CDAD;
-  --color-border-muted: #D9CDAD;
+  --color-border-default: #636054;
+  --color-border-muted: #636054;
   --color-neutral-muted: rgb(99 96 84 / 16%);
   --color-accent-fg: #B51E18;
   --color-accent-emphasis: #B51E18;
@@ -115,4 +126,27 @@ main .pagination-loader-container {
 
 main .gsc-loading-image {
   background-image: url("https://github.githubassets.com/images/mona-loading-default.gif");
+}
+
+/* Primer paints the sign-in control from these classes. Keep the fill red
+   and the hover orange even if a variable is ignored. */
+main a.btn-primary,
+main button.btn-primary {
+  color: #F5ECDD;
+  background-color: #B51E18;
+  border-color: #B51E18;
+}
+main a.btn-primary:hover,
+main button.btn-primary:hover,
+main a.btn-primary:focus-visible,
+main button.btn-primary:focus-visible {
+  color: #333333;
+  background-color: #FF9400;
+  border-color: #FF9400;
+}
+main .gsc-comment-box,
+main .gsc-comment-box-textarea,
+main .gsc-comment-box-tabs,
+main .btn {
+  border-color: #636054;
 }

@@ -8,6 +8,11 @@
   <h2>Comments</h2>
   <p class="post-comments-note">Comments use GitHub Discussions; sign in with GitHub to join in.</p>
   <div class="giscus-wrap">
+    {%- comment -%}
+      Theme URL must be the apex host. www.retrocombs.com 301s to retrocombs.com
+      without Access-Control-Allow-Origin, and giscus loads this file cross-origin,
+      so a www URL is dropped and the widget falls back to white text on cream.
+    {%- endcomment -%}
     <script src="https://giscus.app/client.js"
             data-repo="{{ site.giscus.repo }}"
             data-repo-id="{{ site.giscus.repo_id }}"
@@ -18,7 +23,7 @@
             data-reactions-enabled="{{ site.giscus.reactions_enabled }}"
             data-emit-metadata="0"
             data-input-position="{{ site.giscus.input_position }}"
-            data-theme="https://www.retrocombs.com/assets/css/giscus-retrocombs.css"
+            data-theme="{{ site.url }}/assets/css/giscus-retrocombs.css"
             data-lang="{{ site.giscus.lang }}"
             data-loading="{{ site.giscus.loading }}"
             crossorigin="anonymous"
