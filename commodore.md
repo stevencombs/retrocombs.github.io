@@ -11,46 +11,22 @@ The Commodore VIC 20 was my first computer. I've always had a special place in m
 
 ## Commodore Accessories
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.commodore %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.commodore %}
 ## Commodore PET
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.pet %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.pet %}
 
 ## Commodore VIC-20
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.vic20 %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.vic20 %}
 
 ## Commodore 64
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.c64 %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.c64 %}
 ## Commodore Plus/4
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.plus4 %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.plus4 %}
 
 ## Commodore 128
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.c128 %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.c128 %}

@@ -1,0 +1,90 @@
+{%- comment -%}
+  Image-on-top post cards. Every topic list, the blog, About, and
+  the stray labels on /categories use this include.
+
+  items: a list of posts (may be empty or nil).
+  page_size: when set, only this many cards show until "Load more".
+
+  Thumbnail: the post's own image when it is not the sitewide social
+  preview, otherwise the first content image, otherwise the charcoal tile.
+{%- endcomment -%}
+{%- assign cards = include.items -%}
+{%- assign page_size = include.page_size | default: 0 | plus: 0 -%}
+{%- if cards and cards.size > 0 -%}
+{%- assign cards_left = cards.size | minus: page_size -%}
+<div class="post-cards-block"{% if page_size > 0 and cards_left > 0 %} data-post-cards{% endif %}>
+  <div class="post-cards">
+    {%- for post in cards -%}
+      {%- assign hide = false -%}
+      {%- if page_size > 0 and forloop.index > page_size -%}
+        {%- assign hide = true -%}
+      {%- endif -%}
+      {%- assign thumb = "" -%}
+      {%- if post.image.path -%}
+        {%- assign candidate = post.image.path | strip -%}
+        {%- unless candidate == "/images/brand/social-preview.png" or candidate == "images/brand/social-preview.png" -%}
+          {%- assign thumb = candidate -%}
+        {%- endunless -%}
+      {%- elsif post.image -%}
+        {%- assign candidate = post.image | strip -%}
+        {%- if candidate contains "/" -%}
+          {%- unless candidate contains "social-preview" -%}
+            {%- assign thumb = candidate -%}
+          {%- endunless -%}
+        {%- endif -%}
+      {%- endif -%}
+      {%- if thumb == "" -%}
+        {%- assign img_chunks = post.content | split: "<img" -%}
+        {%- for chunk in img_chunks offset:1 -%}
+          {%- assign tag = chunk | split: ">" | first -%}
+          {%- assign src = "" -%}
+          {%- if tag contains 'src="' -%}
+            {%- assign src = tag | split: 'src="' | last | split: '"' | first | strip -%}
+          {%- elsif tag contains "src='" -%}
+            {%- assign src = tag | split: "src='" | last | split: "'" | first | strip -%}
+          {%- endif -%}
+          {%- assign skip = false -%}
+          {%- if src == blank or src contains "/images/design/" or src contains "/images/brand/" or src contains "social-preview" or src contains "favicon" or src contains "logo.svg" or src contains "logo.png" or src contains "data:image" or tag contains 'width="1"' or tag contains 'height="1"' -%}
+            {%- assign skip = true -%}
+          {%- endif -%}
+          {%- unless skip -%}
+            {%- assign thumb = src -%}
+            {%- break -%}
+          {%- endunless -%}
+        {%- endfor -%}
+      {%- endif -%}
+      {%- if thumb != "" -%}
+        {%- assign thumb_head = thumb | slice: 0, 1 -%}
+        {%- unless thumb contains "://" or thumb_head == "/" or thumb_head == "." -%}
+          {%- assign thumb = thumb | prepend: "/" -%}
+        {%- endunless -%}
+        {%- if thumb contains "://" -%}
+          {%- assign thumb_url = thumb -%}
+        {%- else -%}
+          {%- assign thumb_url = thumb | relative_url -%}
+        {%- endif -%}
+      {%- endif -%}
+      <a class="post-card" href="{{ post.url | relative_url }}"{% if hide %} hidden{% endif %}>
+        <span class="post-card-media{% if thumb == "" %} post-card-fallback{% endif %}">
+          {%- if thumb != "" -%}
+            <img src="{{ thumb_url | escape }}" alt="" width="640" height="360" loading="lazy">
+          {%- else -%}
+            <span class="post-card-mark" aria-hidden="true">rc</span>
+            <span class="post-card-bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
+          {%- endif -%}
+        </span>
+        <span class="post-card-body">
+          <time class="post-card-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <span class="post-card-title">{{ post.title | escape }}</span>
+        </span>
+      </a>
+    {%- endfor -%}
+  </div>
+  {%- if page_size > 0 and cards_left > 0 -%}
+    <button type="button" class="post-cards-more" data-step="{{ page_size }}">Load more <span class="post-cards-left">{{ cards_left }} left</span></button>
+    <noscript><p class="post-cards-note">Showing the latest {{ page_size }} posts. Turn on JavaScript to load the rest, or browse by topic.</p></noscript>
+  {%- endif -%}
+</div>
+{%- else -%}
+<p class="post-cards-empty">No posts here yet.</p>
+{%- endif -%}

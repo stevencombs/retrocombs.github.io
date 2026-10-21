@@ -13,8 +13,4 @@ I have not taken the Technician Class license exam yet, but will update this pag
 
 The posts below document my experience through the process as well as thoughts on the equipment I use and hopefully later, my experiences as an amateur radio operator.
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.ham %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.ham %}

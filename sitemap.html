@@ -1,39 +1,52 @@
 ---
-# Remember to set production_url in your _config.yml file!
-title : Sitemap
-layout: default
+title: Sitemap
+layout: pages
+permalink: /sitemap.html
 comments: false
 ads: false
+sitemap: false
 ---
 
-<!--
-First Trial
-{% for page in site.pages %}
-{{site.production_url}}{{ page.url }}{% endfor %}
-{% for post in site.posts %}
-{{site.production_url}}{{ post.url }}{% endfor %}
--->
+<p>This page lists the main sections, topic pages, and posts. Search engines use the XML sitemap at <a href="{{ "/sitemap.xml" | relative_url }}">sitemap.xml</a>.</p>
 
+<h2>Start here</h2>
+
+<ul class="sitemap-list">
+  <li><a href="{{ "/" | relative_url }}">Home</a></li>
+  <li><a href="{{ "/blog" | relative_url }}">Blog</a></li>
+  <li><a href="{{ "/categories" | relative_url }}">Topics</a></li>
+  <li><a href="{{ "/about" | relative_url }}">About</a></li>
+  <li><a href="{{ "/search" | relative_url }}">Search</a></li>
+  <li><a href="{{ "/supporters" | relative_url }}">Supporters</a></li>
+  <li><a href="{{ "/mega65-users-guide" | relative_url }}">MEGA65 User's Guide</a></li>
+</ul>
+
+<h2>Topics</h2>
+
+<ul class="sitemap-list">
+  {% for group in site.data.topics.groups %}
+    {% for topic in group.items %}
+    <li><a href="{{ topic.url | relative_url }}">{{ topic.name }}</a></li>
+    {% endfor %}
+  {% endfor %}
+</ul>
+
+<h2>Posts</h2>
+
+{% assign seen_years = "" %}
 {% for post in site.posts %}
-    <url>
-      <loc>{{ site.baseurl }}{{ post.url }}</loc>
-      {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+  {% assign year = post.date | date: "%Y" %}
+  {% assign year_mark = "|" | append: year | append: "|" %}
+  {% unless seen_years contains year_mark %}
+    {% assign seen_years = seen_years | append: year_mark %}
+<h2>{{ year }}</h2>
+<ul class="sitemap-list">
+    {% for item in site.posts %}
+      {% assign item_year = item.date | date: "%Y" %}
+      {% if item_year == year %}
+  <li><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a> <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date_to_string }}</time></li>
       {% endif %}
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-    </url>
-  {% endfor %}
-  {% for page in site.pages %}
-    {% if page.sitemap != null and page.sitemap != empty %}
-      <url>
-        <loc>{{ site.baseurl }}{{ page.url }}</loc>
-        <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-        <priority>{{ page.sitemap.priority }}</priority>
-       </url>
-    {% endif %}
-  {% endfor %}
-</urlset>
+    {% endfor %}
+</ul>
+  {% endunless %}
+{% endfor %}

@@ -59,11 +59,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites.
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.plus4 %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li><div> {{ post.excerpt }} </div>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.plus4 %}
 
 ## Companion Disk Image
 

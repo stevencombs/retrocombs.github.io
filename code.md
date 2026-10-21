@@ -18,26 +18,14 @@ I’m creating a [Hello World page](/hello-world/) that demonstrates a single pr
 ## Alfred Workflows
 My Alfred workflows creations or those I use on a regular basis are below.
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.alfred %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.alfred %}
 
 ## Web
 Web development (Jekyll, Blogger, GitHub, etc.) related posts are below.
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.web %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.web %}
 
 ## Code
 My programming experiences as well as the tools I use are in the posts below.
 
-<ul id="blog-posts" class="posts">
-{% for post in site.categories.code %}
-    <li><span>{{ post.date | date_to_string }} &raquo; </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+{% include post-cards.html items=site.categories.code %}

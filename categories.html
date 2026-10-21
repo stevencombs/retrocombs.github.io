@@ -69,11 +69,8 @@ wide: true
     {% assign mark = "|" | append: key | append: "|" %}
     {% unless known contains mark %}
     <h3 id="{{ key | slugify }}">{{ key }}</h3>
-    <ul>
-      {% for post in category[1] %}
-      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
+    {% assign stray_posts = category[1] %}
+    {% include post-cards.html items=stray_posts %}
     {% endunless %}
   {% endfor %}
 </section>
