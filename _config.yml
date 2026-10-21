@@ -21,6 +21,12 @@ defaults:
         width: 1200
         height: 630
         alt: retroCombs
+  # Google's HTML verification file is copied unchanged. Without this,
+  # jekyll-sitemap would list the static .html file.
+  - scope:
+      path: "google88a0db31e40e0904.html"
+    values:
+      sitemap: false
 
 # Giscus. Comments render only when category_id is set and the page
 # does not set comments: false.
