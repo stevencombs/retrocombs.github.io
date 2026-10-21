@@ -30,9 +30,9 @@ Comments are stored in GitHub Discussions. Be civil. Do not post spam, harassmen
 
 The site links to other sites, including merchants. When you click links to merchants and make a purchase, this site can earn a commission. Affiliate programs and affiliations include, but are not limited to, Amazon, the eBay Partner Network, and others. Those sites have their own terms and privacy policies. Steven is not responsible for them.
 
-## YouTube API app
+## retroCombs Channel Companion (YouTube API)
 
-Steven's private app uses YouTube API Services to read his own YouTube channels. That use is bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). The app is described in the [Privacy Policy]({{ "/privacy" | relative_url }}).
+retroCombs Channel Companion is Steven's private tool. It uses YouTube API Services to read reports from his own YouTube channels and, only after he approves each change, to update his own videos' titles, descriptions, and tags. **By using retroCombs Channel Companion, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms).** How the app handles data is described in the [Privacy Policy](/privacy).
 
 ## Limitation of liability
 
