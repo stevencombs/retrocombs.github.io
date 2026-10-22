@@ -103,7 +103,8 @@
   else pushAfterLayout();
 })();
 
-/* Browsers without :has() still need the striped wrapper removed when a unit is unfilled. */
+/* Browsers without :has() still need the striped wrapper removed when a unit is unfilled,
+   and the placeholder chrome cleared once a unit is filled. Never hide before the request. */
 (function () {
   if (!window.MutationObserver) return;
 
@@ -114,10 +115,28 @@
     slot.style.setProperty("display", "none", "important");
   }
 
+  function settleIfFilled(ins) {
+    if (!ins || ins.getAttribute("data-ad-status") !== "filled") return;
+    var slot = ins.closest ? ins.closest(".rc-ad") : null;
+    if (!slot) return;
+    slot.classList.add("rc-ad--filled");
+    var box = slot.querySelector(".rc-ad__box");
+    if (!box) return;
+    box.style.setProperty("background", "none", "important");
+    box.style.setProperty("border", "0", "important");
+    box.style.setProperty("border-radius", "0", "important");
+    box.style.setProperty("min-height", "0", "important");
+    box.style.setProperty("height", "auto", "important");
+    box.style.setProperty("padding", "0", "important");
+  }
+
   function scan(root) {
     if (!root || !root.querySelectorAll) return;
     var nodes = root.querySelectorAll("ins.adsbygoogle");
-    for (var i = 0; i < nodes.length; i++) hideIfUnfilled(nodes[i]);
+    for (var i = 0; i < nodes.length; i++) {
+      hideIfUnfilled(nodes[i]);
+      settleIfFilled(nodes[i]);
+    }
   }
 
   scan(document);
@@ -126,12 +145,16 @@
       var mutation = mutations[i];
       if (mutation.type === "attributes") {
         hideIfUnfilled(mutation.target);
+        settleIfFilled(mutation.target);
         continue;
       }
       for (var j = 0; j < mutation.addedNodes.length; j++) {
         var node = mutation.addedNodes[j];
         if (!node || node.nodeType !== 1) continue;
-        if (node.matches && node.matches("ins.adsbygoogle")) hideIfUnfilled(node);
+        if (node.matches && node.matches("ins.adsbygoogle")) {
+          hideIfUnfilled(node);
+          settleIfFilled(node);
+        }
         scan(node);
       }
     }

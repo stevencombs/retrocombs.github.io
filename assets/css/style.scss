@@ -470,16 +470,21 @@ li[aria-selected=true] .rcs-title{color:var(--rc-red)}
 .rc-ad--feed .rc-ad__box{min-height:250px}
 .rc-ad--end{margin:40px 0 8px}
 /* Responsive and fluid units need a real block width before adsbygoogle.push().
-   The box is a column flex with align-items:center, so an empty ins shrinks to 0. */
-.rc-ad:not(.rc-ad--sidebar){display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box}
-.rc-ad:not(.rc-ad--sidebar) .rc-ad__box{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box}
-.rc-ad:not(.rc-ad--sidebar) ins.adsbygoogle{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box}
+   The box is a column flex with align-items:center, so an empty ins shrinks to 0.
+   No horizontal padding: AdSense sizes the creative from the box, and padding
+   made that creative wider than the visible column. Sharp corners. */
+.rc-ad:not(.rc-ad--sidebar){display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box;overflow:hidden}
+.rc-ad:not(.rc-ad--sidebar) .rc-ad__box{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box;overflow:hidden;padding:0;border-radius:0}
+.rc-ad:not(.rc-ad--sidebar) ins.adsbygoogle{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box;overflow:hidden}
 @media (max-width:1023px){.rc-ad--sidebar{display:none}}
 @media (max-width:760px){.rc-ad{margin:36px 0}.rc-ad__box{min-height:280px}}
 @media (min-width:1024px){.layout>aside.rail{position:static;align-self:stretch;align-content:start}}
 @media (max-width:760px){.rc-ad--feed .rc-ad__box{min-height:280px}}
 ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
 .rc-ad:has(ins.adsbygoogle[data-ad-status="unfilled"]){display:none!important}
+/* A filled unit keeps its label and drops the striped placeholder. */
+.rc-ad--filled .rc-ad__box,
+.rc-ad:has(ins.adsbygoogle[data-ad-status="filled"]) .rc-ad__box{background:none;border:0;border-radius:0;min-height:0;height:auto;padding:0}
 @media (max-width:760px){
   dialog.rcs{width:100vw;max-width:100vw;height:100vh;max-height:100vh;margin:0;border-radius:0}
   .rcs-bar input{font-size:17px}
