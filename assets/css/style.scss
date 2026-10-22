@@ -90,12 +90,6 @@ footer.site ul{list-style:none;margin:0;padding:0;font-size:14.5px}
 footer.site li{margin:5px 0}
 footer.site a{text-decoration:none}
 .legal{font-size:12px;color:#bdbdbd;border-top:1px solid #5a5a5a;padding:14px 28px;max-width:1180px;margin:0 auto}
-.companion-note{width:100%;max-width:none;margin:0;background:#D9CDAD;color:#333333;font-family:var(--font-sans);border-radius:0}
-.companion-note__inner{max-width:78ch;margin:0 auto;padding:16px 28px 14px}
-footer.site .companion-note p{margin:0;font-size:13px;line-height:1.55;border-radius:0}
-.companion-note .site-copy{margin-top:10px;padding:0;text-align:left;font-size:12px;color:#333333}
-footer.site .companion-note a{color:#B51E18;font-weight:600;text-decoration:underline}
-.site-copy{margin:0;padding:4px 28px 16px;text-align:center;font-family:var(--font-sans);font-size:12.5px;color:#c8c8c8;border-radius:0}
 
 /* ---- v2: Topics menu, chips, mobile ---- */
 nav{align-items:center}
@@ -130,8 +124,6 @@ nav{align-items:center}
 .mobile-nav{display:none}
 @media (max-width:760px){
   .wrap{padding:0 16px}
-  .companion-note__inner{padding:14px 16px 12px}
-  .site-copy{padding:4px 16px 14px}
   header.site .wrap{height:64px;gap:12px}
   header.site img{width:42px;height:42px}
   .brand{font-size:21px}.brand small{display:none}
@@ -182,6 +174,9 @@ footer.site p{margin:0;font-size:14.5px}
 .rc-follow a:hover,.site-links a:hover{color:var(--st-yellow)}
 .rc-follow-icon{flex:0 0 16px;width:16px;height:16px;background-color:currentColor;-webkit-mask:var(--rc-icon) center/contain no-repeat;mask:var(--rc-icon) center/contain no-repeat}
 .legal i{font-style:normal}
+footer.site .legal p{margin:8px 0 0;padding:0;font-size:12px;line-height:1.55;color:#bdbdbd;text-align:left;font-family:var(--font-sans)}
+footer.site .legal b,footer.site .legal strong{font-weight:700;color:#bdbdbd}
+footer.site .legal a{color:#F5ECDD;font-weight:inherit;text-decoration:underline}
 
 /* AdSense placeholders (Auto ads on the live site) */
 .ad-slot{display:flex;align-items:center;justify-content:center;flex-direction:column;gap:2px;background:#d9d9d9;border:1px dashed #9a9a9a;color:#444;border-radius:8px;font-weight:600;font-size:12.5px;font-family:var(--font-sans);text-transform:uppercase;letter-spacing:1px;min-height:110px;margin:26px 0;text-align:center;padding:10px}
