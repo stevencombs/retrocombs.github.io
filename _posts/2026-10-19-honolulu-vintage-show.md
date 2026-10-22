@@ -172,7 +172,7 @@ Another vendor had all of 1980s Saturday morning in Ziploc bags: action figures 
 - **World War II-era Time magazines**: a whole table from the late 1930s to the early 1940s. The Pearl Harbor attack on December 7, 1941, still looms over this island.
 - **A sheet of Elvis stamps**, $35. The Postal Service didn't put Elvis on a stamp until 1993. That seems way too late.
 
-## HAWAIʻI HISTORY
+## HAWAIʻI HISTORY {#hawaii-history}
 
 This is a Hawaiiana show, and some of my favorite finds had nothing to do with electronics. There were old Waikiki visitor guides and a war map of the Pacific showing Japan, Hawaiʻi, and the rest of the world. That's a real piece of history, right here in Honolulu.
 
