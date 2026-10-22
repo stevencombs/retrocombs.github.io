@@ -649,6 +649,13 @@ header.site nav .dd > button.on:focus-visible{border-bottom-color:var(--st-yello
 .post-card-body{display:block;padding:10px 12px 14px}
 .post-card-date{display:block;font-family:var(--font-retro);font-size:20px;font-weight:400;line-height:1;letter-spacing:.02em;color:var(--st-orange)}
 .post-card-title{display:block;margin-top:4px;font-family:var(--font-sans);font-size:16px;font-weight:600;line-height:1.35;color:var(--rc-ink)}
+.post-cards--projects{grid-template-columns:repeat(3,minmax(0,1fr))}
+.post-card-link{display:flex;flex-direction:column;flex:1 1 auto;min-width:0;color:inherit;text-decoration:none}
+.prose a.post-card-link,.prose a.post-card-link:hover{color:inherit;text-decoration:none;overflow-wrap:normal}
+.post-card-dek{display:block;margin-top:6px;font-family:var(--font-sans);font-size:14px;font-weight:400;line-height:1.45;color:var(--rc-slate)}
+article.post-card .post-card-body{padding-bottom:8px}
+.post-card-source{margin:auto 0 0;padding:0 12px 14px;font-size:13px;line-height:1.3}
+.prose .post-card-source a{font-size:13px;font-weight:600;overflow-wrap:normal}
 .post-card:hover,.post-card:focus-visible{border-color:var(--st-orange)}
 .post-card:hover .post-card-title,.post-card:focus-visible .post-card-title{color:var(--st-orange)}
 .post-card:focus-visible{outline:2px solid var(--st-orange);outline-offset:2px}
@@ -668,6 +675,6 @@ header.site nav .dd > button.on:focus-visible{border-bottom-color:var(--st-yello
 .prose .sitemap-list a:hover,.prose .sitemap-list a:focus-visible{color:var(--st-orange)}
 .sitemap-list time{flex:none;font-family:var(--font-retro);font-size:20px;line-height:1;color:var(--st-orange)}
 @media (max-width:700px){
-  .post-cards{grid-template-columns:1fr}
+  .post-cards,.post-cards--projects{grid-template-columns:1fr}
   .prose .sitemap-list li{flex-direction:column;gap:2px;align-items:flex-start}
 }
