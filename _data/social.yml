@@ -23,6 +23,11 @@
 - label: Facebook
   url: https://www.facebook.com/retroCombsFB
   icon: facebook
+- label: GitHub
+  url: https://github.com/stevencombs
+  rel: me
+  aria_label: retroCombs on GitHub
+  icon: github
 - label: Join the channel
   note: Members get Discord
   url: https://www.youtube.com/@retrocombs/join

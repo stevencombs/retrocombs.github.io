@@ -26,6 +26,7 @@
       <a href="{{ "/" | relative_url }}"{% if here == "/" %} class="on" aria-current="page"{% endif %}>Home</a>
       <a href="{{ "/blog" | relative_url }}"{% if page.layout == "post" or here == "/blog" %} class="on" aria-current="page"{% endif %}>Blog</a>
       <a href="{{ "/mega65-users-guide" | relative_url }}"{% if here == "/mega65-users-guide" %} class="on" aria-current="page"{% endif %}>MEGA65 Guide</a>
+      <a href="{{ "/projects" | relative_url }}"{% if here == "/projects" %} class="on" aria-current="page"{% endif %}>Projects</a>
       <div class="dd" id="topics">
         <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="topics-menu"{% if on_topic %} class="on"{% endif %}>Topics</button>
         <div class="menu" id="topics-menu">
@@ -69,6 +70,7 @@
     <li><a href="{{ "/" | relative_url }}"{% if here == "/" %} class="on" aria-current="page"{% endif %}>Home</a></li>
     <li><a href="{{ "/blog" | relative_url }}"{% if page.layout == "post" or here == "/blog" %} class="on" aria-current="page"{% endif %}>Blog</a></li>
     <li><a href="{{ "/mega65-users-guide" | relative_url }}"{% if here == "/mega65-users-guide" %} class="on" aria-current="page"{% endif %}>MEGA65 Guide</a></li>
+    <li><a href="{{ "/projects" | relative_url }}"{% if here == "/projects" %} class="on" aria-current="page"{% endif %}>Projects</a></li>
     <li>
       <details{% if on_topic %} class="on"{% endif %}>
         <summary>Topics</summary>

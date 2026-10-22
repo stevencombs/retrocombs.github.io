@@ -1,0 +1,19 @@
+# Apps with their own landing pages. This list is the whole Projects page.
+- name: GrokGauge
+  tag: "macOS · Menu bar app"
+  tagline: "GrokGauge is a free, open-source macOS menu bar app that shows your weekly SuperGrok and Grok Bot usage as colored rings."
+  landing_url: https://stevencombs.github.io/GrokGauge/
+  repo_url: https://github.com/stevencombs/GrokGauge
+  image: /assets/img/projects/grokgauge.png
+- name: ClipGauge
+  tag: "macOS · Menu bar app"
+  tagline: "ClipGauge is a free, open-source macOS menu bar app that renames and sorts your video and photo clips in place with local AI. Nothing leaves your Mac."
+  landing_url: https://stevencombs.github.io/ClipGauge/
+  repo_url: https://github.com/stevencombs/ClipGauge
+  image: /assets/img/projects/clipgauge.png
+- name: Sync Pad
+  tag: "Alfred 5 workflow"
+  tagline: "Sync Pad is a free Alfred 5 workflow. Type pad, save a text clip, and open it on another Mac. Alfred Clipboard History stays on clip."
+  landing_url: https://stevencombs.github.io/alfred-sync-pad/
+  repo_url: https://github.com/stevencombs/alfred-sync-pad
+  image: /assets/img/projects/sync-pad.png
