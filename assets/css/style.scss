@@ -469,6 +469,11 @@ li[aria-selected=true] .rcs-title{color:var(--rc-red)}
 .rc-ad--feed{margin:28px 0}
 .rc-ad--feed .rc-ad__box{min-height:250px}
 .rc-ad--end{margin:40px 0 8px}
+/* Responsive and fluid units need a real block width before adsbygoogle.push().
+   The box is a column flex with align-items:center, so an empty ins shrinks to 0. */
+.rc-ad:not(.rc-ad--sidebar){display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box}
+.rc-ad:not(.rc-ad--sidebar) .rc-ad__box{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box}
+.rc-ad:not(.rc-ad--sidebar) ins.adsbygoogle{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box}
 @media (max-width:1023px){.rc-ad--sidebar{display:none}}
 @media (max-width:760px){.rc-ad{margin:36px 0}.rc-ad__box{min-height:280px}}
 @media (min-width:1024px){.layout>aside.rail{position:static;align-self:stretch;align-content:start}}
