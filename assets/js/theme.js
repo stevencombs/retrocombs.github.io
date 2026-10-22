@@ -61,27 +61,46 @@
 
 (function () {
   var tpl = document.getElementById("rc-ad-sidebar");
-  if (!tpl || !window.matchMedia("(min-width: 1024px)").matches) return;
-  if (!tpl.content || !tpl.content.querySelector(".rc-ad")) return;
-
-  var rail = document.querySelector("aside.rail");
-  if (!rail) {
-    var mainCol = document.querySelector(".page-main");
-    if (!mainCol) return;
-    var layout = document.createElement("div");
-    layout.className = "layout";
-    var col = document.createElement("div");
-    while (mainCol.firstChild) col.appendChild(mainCol.firstChild);
-    rail = document.createElement("aside");
-    rail.className = "rail";
-    rail.setAttribute("aria-label", "Sidebar");
-    layout.appendChild(col);
-    layout.appendChild(rail);
-    mainCol.appendChild(layout);
+  if (tpl && window.matchMedia("(min-width: 1024px)").matches && tpl.content && tpl.content.querySelector(".rc-ad")) {
+    var rail = document.querySelector("aside.rail");
+    if (!rail) {
+      var mainCol = document.querySelector(".page-main");
+      if (mainCol) {
+        var layout = document.createElement("div");
+        layout.className = "layout";
+        var col = document.createElement("div");
+        while (mainCol.firstChild) col.appendChild(mainCol.firstChild);
+        rail = document.createElement("aside");
+        rail.className = "rail";
+        rail.setAttribute("aria-label", "Sidebar");
+        layout.appendChild(col);
+        layout.appendChild(rail);
+        mainCol.appendChild(layout);
+      }
+    }
+    if (rail) rail.appendChild(tpl.content.cloneNode(true));
   }
 
-  rail.appendChild(tpl.content.cloneNode(true));
-  (window.adsbygoogle = window.adsbygoogle || []).push({});
+  function pushAll() {
+    var slots = document.querySelectorAll("ins.adsbygoogle");
+    for (var i = 0; i < slots.length; i++) {
+      var ins = slots[i];
+      if (ins.closest && ins.closest("template")) continue;
+      if (ins.getAttribute("data-rc-pushed") === "1") continue;
+      if (ins.getAttribute("data-adsbygoogle-status")) continue;
+      ins.setAttribute("data-rc-pushed", "1");
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    }
+  }
+
+  function pushAfterLayout() {
+    requestAnimationFrame(function () {
+      requestAnimationFrame(pushAll);
+    });
+  }
+
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", pushAfterLayout);
+  else pushAfterLayout();
 })();
 
 /* Browsers without :has() still need the striped wrapper removed when a unit is unfilled. */
