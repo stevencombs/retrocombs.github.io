@@ -44,10 +44,6 @@ nav a.on{border-bottom:3px solid var(--st-yellow);padding-bottom:4px}
 .stripes{display:grid;grid-template-rows:repeat(5,6px)}
 .stripes i:nth-child(1){background:var(--st-red)}.stripes i:nth-child(2){background:var(--st-orange)}.stripes i:nth-child(3){background:var(--st-yellow)}.stripes i:nth-child(4){background:var(--st-green)}.stripes i:nth-child(5){background:var(--st-blue)}
 .hero{background:var(--rc-slate);color:#fff;padding:44px 0}
-.companion-note{background:var(--rc-beige);color:var(--rc-ink);font-family:var(--font-sans);border-radius:0}
-.companion-note .wrap{padding-top:14px;padding-bottom:16px}
-.companion-note p{margin:0;max-width:78ch;font-size:14.5px;line-height:1.55;border-radius:0}
-.companion-note a{color:var(--rc-red);font-weight:600}
 .hero .wrap{display:grid;grid-template-columns:1.25fr 1fr;gap:36px;align-items:center}
 .eyebrow{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:var(--st-yellow)}
 .hero h1{font-size:38px;line-height:1.15;margin:8px 0 14px;font-weight:800;letter-spacing:-1px}
@@ -128,7 +124,6 @@ nav{align-items:center}
 .mobile-nav{display:none}
 @media (max-width:760px){
   .wrap{padding:0 16px}
-  .companion-note .wrap{padding:12px 16px}
   header.site .wrap{height:64px;gap:12px}
   header.site img{width:42px;height:42px}
   .brand{font-size:21px}.brand small{display:none}
@@ -179,6 +174,9 @@ footer.site p{margin:0;font-size:14.5px}
 .rc-follow a:hover,.site-links a:hover{color:var(--st-yellow)}
 .rc-follow-icon{flex:0 0 16px;width:16px;height:16px;background-color:currentColor;-webkit-mask:var(--rc-icon) center/contain no-repeat;mask:var(--rc-icon) center/contain no-repeat}
 .legal i{font-style:normal}
+footer.site .legal p{margin:8px 0 0;padding:0;font-size:12px;line-height:1.55;color:#bdbdbd;text-align:left;font-family:var(--font-sans)}
+footer.site .legal b,footer.site .legal strong{font-weight:700;color:#bdbdbd}
+footer.site .legal a{color:#F5ECDD;font-weight:inherit;text-decoration:underline}
 
 /* AdSense placeholders (Auto ads on the live site) */
 .ad-slot{display:flex;align-items:center;justify-content:center;flex-direction:column;gap:2px;background:#d9d9d9;border:1px dashed #9a9a9a;color:#444;border-radius:8px;font-weight:600;font-size:12.5px;font-family:var(--font-sans);text-transform:uppercase;letter-spacing:1px;min-height:110px;margin:26px 0;text-align:center;padding:10px}
