@@ -20,4 +20,14 @@
     </div>
   </div>
   <div class="legal"><i><b>Disclosure Statement:</b> When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon, the eBay Partner Network, and/or others.</i></div>
+  {% if page.layout == "home" %}
+  <section class="companion-note" aria-label="retroCombs Channel Companion">
+    <div class="companion-note__inner">
+      <p><strong>retroCombs Channel Companion.</strong> retroCombs Channel Companion is the private tool Steven uses to manage his own YouTube channels, retroCombs and retroCombs Tech. With his Google sign-in, it reads his channel analytics (including revenue and CPM), membership levels, and caption lists, and it drafts updates to his own videos' titles, descriptions, and tags that he reviews and approves before anything changes. It isn't available to other users. <a href="{{ "/privacy" | relative_url }}">Privacy Policy</a> · <a href="{{ "/terms" | relative_url }}">Terms</a></p>
+      <p class="site-copy">© 2026 Steven B. Combs, Ph.D. All rights reserved.</p>
+    </div>
+  </section>
+  {% else %}
+  <p class="site-copy">© 2026 Steven B. Combs, Ph.D. All rights reserved.</p>
+  {% endif %}
 </footer>

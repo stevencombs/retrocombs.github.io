@@ -44,10 +44,6 @@ nav a.on{border-bottom:3px solid var(--st-yellow);padding-bottom:4px}
 .stripes{display:grid;grid-template-rows:repeat(5,6px)}
 .stripes i:nth-child(1){background:var(--st-red)}.stripes i:nth-child(2){background:var(--st-orange)}.stripes i:nth-child(3){background:var(--st-yellow)}.stripes i:nth-child(4){background:var(--st-green)}.stripes i:nth-child(5){background:var(--st-blue)}
 .hero{background:var(--rc-slate);color:#fff;padding:44px 0}
-.companion-note{background:var(--rc-beige);color:var(--rc-ink);font-family:var(--font-sans);border-radius:0}
-.companion-note .wrap{padding-top:14px;padding-bottom:16px}
-.companion-note p{margin:0;max-width:78ch;font-size:14.5px;line-height:1.55;border-radius:0}
-.companion-note a{color:var(--rc-red);font-weight:600}
 .hero .wrap{display:grid;grid-template-columns:1.25fr 1fr;gap:36px;align-items:center}
 .eyebrow{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:var(--st-yellow)}
 .hero h1{font-size:38px;line-height:1.15;margin:8px 0 14px;font-weight:800;letter-spacing:-1px}
@@ -94,6 +90,12 @@ footer.site ul{list-style:none;margin:0;padding:0;font-size:14.5px}
 footer.site li{margin:5px 0}
 footer.site a{text-decoration:none}
 .legal{font-size:12px;color:#bdbdbd;border-top:1px solid #5a5a5a;padding:14px 28px;max-width:1180px;margin:0 auto}
+.companion-note{width:100%;max-width:none;margin:0;background:#D9CDAD;color:#333333;font-family:var(--font-sans);border-radius:0}
+.companion-note__inner{max-width:78ch;margin:0 auto;padding:16px 28px 14px}
+footer.site .companion-note p{margin:0;font-size:13px;line-height:1.55;border-radius:0}
+.companion-note .site-copy{margin-top:10px;padding:0;text-align:left;font-size:12px;color:#333333}
+footer.site .companion-note a{color:#B51E18;font-weight:600;text-decoration:underline}
+.site-copy{margin:0;padding:4px 28px 16px;text-align:center;font-family:var(--font-sans);font-size:12.5px;color:#c8c8c8;border-radius:0}
 
 /* ---- v2: Topics menu, chips, mobile ---- */
 nav{align-items:center}
@@ -128,7 +130,8 @@ nav{align-items:center}
 .mobile-nav{display:none}
 @media (max-width:760px){
   .wrap{padding:0 16px}
-  .companion-note .wrap{padding:12px 16px}
+  .companion-note__inner{padding:14px 16px 12px}
+  .site-copy{padding:4px 16px 14px}
   header.site .wrap{height:64px;gap:12px}
   header.site img{width:42px;height:42px}
   .brand{font-size:21px}.brand small{display:none}
