@@ -34,4 +34,10 @@ Free Mac apps and tools I build. Each one has its own page with downloads and se
     </article>
     {%- endfor -%}
   </div>
+  <section class="project-support" aria-labelledby="support-the-projects">
+    <h2 id="support-the-projects">Support the projects</h2>
+    <p>These apps are free and open source. If one saves you time, a tip helps me keep building and updating them.</p>
+    <p><a class="btn red" href="https://paypal.me/stevencombs"><span class="rc-follow-icon" style="--rc-icon: url('{{ "/images/icons/paypal.svg" | relative_url }}')" aria-hidden="true"></span>Tip via PayPal</a></p>
+    <p>You can also become a channel member at <a href="https://www.youtube.com/@retrocombs/join">https://www.youtube.com/@retrocombs/join</a></p>
+  </section>
 </div>
