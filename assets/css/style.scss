@@ -672,7 +672,7 @@ article.post-card .post-card-body{padding-bottom:8px}
 .project-support{margin:28px 0 0;padding:20px 22px;background:var(--rc-cream);border-top:5px solid var(--st-orange);border-radius:0}
 .prose .project-support h2{margin:0 0 8px;padding:0;border:0;font-size:22px;line-height:1.3}
 .prose .project-support h2::before{content:none}
-.prose .project-support p{margin:0 0 14px;max-width:62ch;font-size:16px;line-height:1.5}
+.prose .project-support p{margin:0 0 14px;max-width:none;font-size:16px;line-height:1.5}
 .prose .project-support p:last-child{margin-bottom:0}
 .prose .project-support a.btn.red{display:inline-flex;align-items:center;border-radius:0;color:#fff;text-decoration:none;overflow-wrap:normal}
 .prose .project-support a.btn.red:hover,.prose .project-support a.btn.red:focus-visible{color:#fff;text-decoration:none}
