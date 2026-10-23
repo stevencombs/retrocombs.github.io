@@ -10,6 +10,7 @@ topics:
   pet: {label: "Commodore PET", url: "/commodore"}
   plus4: {label: "Plus/4", url: "/plus4"}
   ti994a: {label: "TI-99/4A", url: "/ti994a"}
+  zxspectrum: {label: "ZX Spectrum Next", url: "/zxspectrum"}
   nabu: {label: "NABU", url: "/blog"}
   retro: {label: "Retro", url: "/commodore"}
   gadgets: {label: "Gadgets", url: "/gadgets"}
@@ -48,6 +49,7 @@ topic_pages:
   /commodore: Commodore
   /plus4: Plus/4
   /ti994a: TI-99/4A
+  /zxspectrum: ZX Spectrum Next
   /pi1541: Commodore
   /gadgets: Gadgets
   /apple: Apple

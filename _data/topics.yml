@@ -28,6 +28,11 @@ groups:
         blurb: Texas Instruments 99/4A notes and videos.
         chip: 11
         rail: 6
+      - name: ZX Spectrum Next
+        url: /zxspectrum
+        categories: [zxspectrum]
+        icon: /images/design/zxspectrum.svg
+        blurb: ZX Spectrum Next notes and videos.
   - name: Modern tech
     items:
       - name: Gadgets
