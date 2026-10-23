@@ -459,32 +459,41 @@ li[aria-selected=true] .rcs-title{color:var(--rc-red)}
 .rcs-results li a:hover .rcs-title{color:var(--rc-red)}
 .rcs-results .rcs-title{font-size:18px}
 
-/* Ad slots. Neutral and labeled, with reserved space. Not styled like post cards. */
-.rc-ad{margin:44px 0;clear:both}
+/* Ad slots stay in flow with a real width so adsbygoogle.push() can measure
+   availableWidth, but they paint nothing until data-ad-status="filled".
+   height:0 and overflow:hidden, not display:none, so the width stays. */
+.rc-ad{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box;height:0;margin:0;padding:0;overflow:hidden;clear:both;border:0}
 .rc-ad__label{display:block;font:600 10.5px/1 Inter,system-ui,sans-serif;letter-spacing:1.4px;text-transform:uppercase;color:#8a8474;margin:0 0 7px;text-align:center}
-.rc-ad__box{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;min-height:250px;border:1px solid #e0d6bf;border-radius:10px;background:repeating-linear-gradient(135deg,#f8f2e6 0 10px,#f3ecdd 10px 20px);color:#9a9483;font:500 12px/1.4 "JetBrains Mono",ui-monospace,monospace;text-align:center;padding:10px}
-.rc-ad__box b{font-weight:600;color:#7d776a}
-.rc-ad--sidebar{position:sticky;top:24px;margin:40px 0 0}
-.rc-ad--sidebar .rc-ad__box{width:300px;min-height:600px;box-sizing:border-box}
-.rc-ad--feed{margin:28px 0}
-.rc-ad--feed .rc-ad__box{min-height:250px}
-.rc-ad--end{margin:40px 0 8px}
-/* Responsive and fluid units need a real block width before adsbygoogle.push().
-   The box is a column flex with align-items:center, so an empty ins shrinks to 0.
-   No horizontal padding: AdSense sizes the creative from the box, and padding
-   made that creative wider than the visible column. Sharp corners. */
-.rc-ad:not(.rc-ad--sidebar){display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box;overflow:hidden}
-.rc-ad:not(.rc-ad--sidebar) .rc-ad__box{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box;overflow:hidden;padding:0;border-radius:0}
+.rc-ad__box{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box;min-height:0;height:auto;margin:0;padding:0;border:0;border-radius:0;background:none;overflow:hidden}
 .rc-ad:not(.rc-ad--sidebar) ins.adsbygoogle{display:block;width:100%;max-width:100%;min-width:min(250px,100%);box-sizing:border-box;overflow:hidden}
-@media (max-width:1023px){.rc-ad--sidebar{display:none}}
-@media (max-width:760px){.rc-ad{margin:36px 0}.rc-ad__box{min-height:280px}}
-@media (min-width:1024px){.layout>aside.rail{position:static;align-self:stretch;align-content:start}}
-@media (max-width:760px){.rc-ad--feed .rc-ad__box{min-height:280px}}
-ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}
-.rc-ad:has(ins.adsbygoogle[data-ad-status="unfilled"]){display:none!important}
-/* A filled unit keeps its label and drops the striped placeholder. */
+.rc-ad--sidebar{width:300px;min-width:300px;max-width:300px}
+.rc-ad--sidebar .rc-ad__box{width:300px;min-width:300px;max-width:300px}
+.rc-ad--filled,
+.rc-ad:has(ins.adsbygoogle[data-ad-status="filled"]){height:auto;margin:44px 0;overflow:hidden}
+.rc-ad--feed.rc-ad--filled,
+.rc-ad--feed:has(ins.adsbygoogle[data-ad-status="filled"]){margin:28px 0}
+.rc-ad--end.rc-ad--filled,
+.rc-ad--end:has(ins.adsbygoogle[data-ad-status="filled"]){margin:40px 0 8px}
+.rc-ad--sidebar.rc-ad--filled,
+.rc-ad--sidebar:has(ins.adsbygoogle[data-ad-status="filled"]){position:sticky;top:24px;margin:40px 0 0;overflow:hidden}
 .rc-ad--filled .rc-ad__box,
 .rc-ad:has(ins.adsbygoogle[data-ad-status="filled"]) .rc-ad__box{background:none;border:0;border-radius:0;min-height:0;height:auto;padding:0}
+.rc-ad--unfilled,
+.rc-ad:has(ins.adsbygoogle[data-ad-status="unfilled"]){height:0!important;margin:0!important;padding:0!important;overflow:hidden!important;border:0!important}
+@media (max-width:1023px){.rc-ad--sidebar{display:none}}
+@media (max-width:760px){
+  .rc-ad--filled,
+  .rc-ad:has(ins.adsbygoogle[data-ad-status="filled"]){margin:36px 0}
+  .rc-ad--feed.rc-ad--filled,
+  .rc-ad--feed:has(ins.adsbygoogle[data-ad-status="filled"]){margin:28px 0}
+}
+@media (min-width:1024px){.layout>aside.rail{position:static;align-self:stretch;align-content:start}}
+.posts + .rc-ad--feed + .posts{margin-top:20px}
+.posts + .rc-ad--feed.rc-ad--filled + .posts,
+.posts + .rc-ad--feed:has(ins.adsbygoogle[data-ad-status="filled"]) + .posts{margin-top:0}
+/* Striped placeholder is opt-in for local checks (?ads-placeholder=1). Never on by default. */
+html.rc-ads-dev .rc-ad:not(.rc-ad--filled):not(.rc-ad--unfilled):not(:has(ins.adsbygoogle[data-ad-status="filled"])):not(:has(ins.adsbygoogle[data-ad-status="unfilled"])){height:auto;margin:28px 0}
+html.rc-ads-dev .rc-ad:not(.rc-ad--filled):not(:has(ins.adsbygoogle[data-ad-status="filled"])) .rc-ad__box{min-height:120px;border:1px solid #e0d6bf;background:repeating-linear-gradient(135deg,#f8f2e6 0 10px,#f3ecdd 10px 20px)}
 @media (max-width:760px){
   dialog.rcs{width:100vw;max-width:100vw;height:100vh;max-height:100vh;margin:0;border-radius:0}
   .rcs-bar input{font-size:17px}
