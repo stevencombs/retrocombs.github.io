@@ -89,7 +89,9 @@
       if (ins.getAttribute("data-rc-pushed") === "1") continue;
       if (ins.getAttribute("data-adsbygoogle-status")) continue;
       ins.setAttribute("data-rc-pushed", "1");
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
+      try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      } catch (e) {}
     }
   }
 
@@ -103,23 +105,46 @@
   else pushAfterLayout();
 })();
 
-/* Browsers without :has() still need the striped wrapper removed when a unit is unfilled,
-   and the placeholder chrome cleared once a unit is filled. Never hide before the request. */
+/* Slots start collapsed in CSS. Reveal the label and box only when a unit
+   is filled. Collapse again on unfilled, and after ~7s with no status
+   (blocked script, no request, or a hang). Do not use display:none. */
 (function () {
-  if (!window.MutationObserver) return;
+  try {
+    var q = window.location && window.location.search || "";
+    var dev = /(?:^|[?&])ads-placeholder=1(?:&|$)/.test(q);
+    if (!dev && window.localStorage) dev = window.localStorage.getItem("rc-ads-placeholder") === "1";
+    if (dev) document.documentElement.classList.add("rc-ads-dev");
+  } catch (e) {}
 
-  function hideIfUnfilled(ins) {
-    if (!ins || ins.getAttribute("data-ad-status") !== "unfilled") return;
-    var slot = ins.closest ? ins.closest(".rc-ad") : null;
-    if (!slot) return;
-    slot.style.setProperty("display", "none", "important");
+  function slotOf(ins) {
+    if (!ins || !ins.closest) return null;
+    if (ins.closest("template")) return null;
+    return ins.closest(".rc-ad");
   }
 
-  function settleIfFilled(ins) {
-    if (!ins || ins.getAttribute("data-ad-status") !== "filled") return;
-    var slot = ins.closest ? ins.closest(".rc-ad") : null;
+  function collapse(slot) {
     if (!slot) return;
+    slot.classList.remove("rc-ad--filled");
+    slot.classList.add("rc-ad--unfilled");
+    slot.setAttribute("aria-hidden", "true");
+    slot.style.setProperty("height", "0", "important");
+    slot.style.setProperty("margin", "0", "important");
+    slot.style.setProperty("padding", "0", "important");
+    slot.style.setProperty("overflow", "hidden", "important");
+    slot.style.setProperty("border", "0", "important");
+  }
+
+  function reveal(ins) {
+    var slot = slotOf(ins);
+    if (!slot) return;
+    slot.classList.remove("rc-ad--unfilled");
     slot.classList.add("rc-ad--filled");
+    slot.removeAttribute("aria-hidden");
+    slot.style.removeProperty("height");
+    slot.style.removeProperty("margin");
+    slot.style.removeProperty("padding");
+    slot.style.removeProperty("overflow");
+    slot.style.removeProperty("border");
     var box = slot.querySelector(".rc-ad__box");
     if (!box) return;
     box.style.setProperty("background", "none", "important");
@@ -130,39 +155,50 @@
     box.style.setProperty("padding", "0", "important");
   }
 
+  function settle(ins) {
+    if (!ins || !ins.getAttribute) return;
+    var status = ins.getAttribute("data-ad-status");
+    if (status === "filled") reveal(ins);
+    else if (status === "unfilled") collapse(slotOf(ins));
+  }
+
   function scan(root) {
     if (!root || !root.querySelectorAll) return;
     var nodes = root.querySelectorAll("ins.adsbygoogle");
-    for (var i = 0; i < nodes.length; i++) {
-      hideIfUnfilled(nodes[i]);
-      settleIfFilled(nodes[i]);
-    }
+    for (var i = 0; i < nodes.length; i++) settle(nodes[i]);
   }
 
-  scan(document);
-  var observer = new MutationObserver(function (mutations) {
-    for (var i = 0; i < mutations.length; i++) {
-      var mutation = mutations[i];
-      if (mutation.type === "attributes") {
-        hideIfUnfilled(mutation.target);
-        settleIfFilled(mutation.target);
-        continue;
-      }
-      for (var j = 0; j < mutation.addedNodes.length; j++) {
-        var node = mutation.addedNodes[j];
-        if (!node || node.nodeType !== 1) continue;
-        if (node.matches && node.matches("ins.adsbygoogle")) {
-          hideIfUnfilled(node);
-          settleIfFilled(node);
+  if (window.MutationObserver) {
+    scan(document);
+    var observer = new MutationObserver(function (mutations) {
+      for (var i = 0; i < mutations.length; i++) {
+        var mutation = mutations[i];
+        if (mutation.type === "attributes") {
+          settle(mutation.target);
+          continue;
         }
-        scan(node);
+        for (var j = 0; j < mutation.addedNodes.length; j++) {
+          var node = mutation.addedNodes[j];
+          if (!node || node.nodeType !== 1) continue;
+          if (node.matches && node.matches("ins.adsbygoogle")) settle(node);
+          scan(node);
+        }
       }
+    });
+    observer.observe(document.documentElement, {
+      subtree: true,
+      childList: true,
+      attributes: true,
+      attributeFilter: ["data-ad-status"]
+    });
+  }
+
+  window.setTimeout(function () {
+    var slots = document.querySelectorAll("ins.adsbygoogle");
+    for (var i = 0; i < slots.length; i++) {
+      var ins = slots[i];
+      if (ins.closest && ins.closest("template")) continue;
+      if (!ins.getAttribute("data-ad-status")) collapse(slotOf(ins));
     }
-  });
-  observer.observe(document.documentElement, {
-    subtree: true,
-    childList: true,
-    attributes: true,
-    attributeFilter: ["data-ad-status"]
-  });
+  }, 7000);
 })();

@@ -5,7 +5,7 @@
 {%- endif -%}
 {%- if site.adsense.enabled and page.ads != false and slot_id.size > 0 -%}
   {%- capture rc_ad_unit -%}
-<aside class="rc-ad rc-ad--{{ include.slot }}" aria-label="Advertisements">
+<aside class="rc-ad rc-ad--{{ include.slot }}" aria-label="Advertisements" aria-hidden="true">
   <span class="rc-ad__label">Advertisements</span>
   <div class="rc-ad__box">
   {%- if s.type == "in-article" -%}
