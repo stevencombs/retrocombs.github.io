@@ -305,9 +305,9 @@ In ZXDB-dl, the arrow keys did the work and my joystick didn't. In games, the Ne
 In the video I said I didn't know that I'd ever add the Pi Zero accelerator. In August 2025 I did, and it's what loads TZX files, runs extra dot commands, and plays more music formats. Watch [⚡ Supercharge Your ZX Spectrum Next! NextPi Zero Install Guide](https://www.youtube.com/watch?v=06S6ZSgc-w0) for the full install.
 
 - **Which Pi:** The Raspberry Pi Zero v1.2, v1.3, and Zero W work. NextPi disables the Zero W's wireless. **The Pi Zero 2 is not supported**, and neither are other Pi models or clones. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
-- **The header:** The Pi needs a 40-pin (2x20) female header, soldered from the component side so it faces downwards. ([User Manual, 3rd ed., p. 220](https://explorer.specnext.dev/documentation/manual/rev3/page/220))
+- **The header:** The Pi needs a 40-pin (2x20) female header, soldered from the component side so it faces downwards. ([User Manual, 3rd ed., p. 221](https://explorer.specnext.dev/documentation/manual/rev3/page/221))
 - **The SD card:** The NextPi2 image needs a 16GB card. ([Latest distro](https://www.specnext.com/latestdistro/); [SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
-- **Quick test:** At the command line, type `.term`. When Terminex appears, press Symbol Shift+B to switch to 115,200 baud and press ENTER. If you see `SUP>`, your Pi is ready. Press Symbol Shift+Q to quit. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
+- **Quick test:** At the command line, type `.term`. When Terminex appears, press SYM+CAPS+B (Symbol Shift + Caps Shift + B) to switch to 115,200 baud and press ENTER. If you see `SUP>`, your Pi is ready. Press Symbol Shift+Q to quit. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
 
 For every step, command, and tip, read my full [ZX Spectrum Next NextPi Install Guide](/zx-spectrum-next-nextpi-install).
 
