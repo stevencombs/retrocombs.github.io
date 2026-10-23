@@ -84,6 +84,7 @@ Below are the links you need to get the most out of your ZX Spectrum Next.
 - 🔈 Budget Speakers: <https://amzn.to/3J2PyDX>
 - 🔌 USB-C to Micro USB Adapter (handy if you add a Pi Zero): <https://amzn.to/3Wkxxrr>
 - 📺 Prison TVs on eBay (small CRTs for VGA or RGB setups): <https://ebay.us/jTv90O>
+- 👚 Sew Ready Covers (tell Maggie retroCombs sent you!): <https://ebay.us/EFNZGp>
 
 *When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
@@ -327,7 +328,7 @@ Most of the Quick Start card applies to every Next, so the tips above work on Is
 > **Note: upgrading a KS1 or KS2 Next.** The FAQ is clear about which board fits. For KS1 and KS2 owners, the answer is "The upgrade board with daughterboard tier. The 'Just the Board' is a different layout that will not fit inside the Next's case." The upgrade tier's description says it's for owners who "want to upgrade their innards to Issue 3. Screwdriver required!" The "Just the Board" option will fit inside an original Spectrum case, but the FAQ warns "you'll need to drill quite a few holes… There's hacking involved!" ([Issue 3 Kickstarter FAQ](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-3-0/faqs); [campaign description](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-3-0/description))
 {: .note}
 
-I backed an Issue 3 board to put inside my KS2 Next, and I plan to install it live when it arrives. [Become a channel member](https://www.youtube.com/@retrocombs/join) and watch the channel so you don't miss it.
+I backed the ZX Spectrum Next Upgrade Board (the board plus daughterboard tier the Kickstarter FAQ recommends for Issue 1 and Issue 2 owners) to put inside my KS2 Next, and I plan to install it live when it arrives. [Become a channel member](https://www.youtube.com/@retrocombs/join) and watch the channel so you don't miss it.
 
 ## EXTRA TIPS AND TRICKS {#extra-tips-and-tricks}
 
