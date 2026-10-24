@@ -104,7 +104,7 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 
 Title: _PicoCalc Out-of-Box Tutorial: Assembly, BASIC, GPIO & Firmware Fun!_
 
-{% include youtube.html id="ATwZwTEeSPo" title="PicoCalc Out-of-Box Tutorial: Assembly, BASIC, GPIO & Firmware Fun!" upload_date="2025-05-24" cta="false" %}
+{% include youtube.html id="ATwZwTEeSPo" title="PicoCalc Out-of-Box Tutorial: Assembly, BASIC, GPIO & Firmware Fun!" upload_date="2025-05-24T01:53:30Z" duration="PT22M37S" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

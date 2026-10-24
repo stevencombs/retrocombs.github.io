@@ -109,7 +109,7 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 
 Title: _⚡ Supercharge Your ZX Spectrum Next! NextPi Zero Install Guide._
 
-{% include youtube.html id="06S6ZSgc-w0" title="⚡ Supercharge Your ZX Spectrum Next! NextPi Zero Install Guide" upload_date="2025-08-12" cta="false" %}
+{% include youtube.html id="06S6ZSgc-w0" title="⚡ Supercharge Your ZX Spectrum Next! NextPi Zero Install Guide" upload_date="2025-08-12T22:13:52Z" duration="PT22M29S" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

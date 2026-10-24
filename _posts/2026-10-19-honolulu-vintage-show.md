@@ -86,7 +86,7 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 
 Title: _🌺 I Spent $6 at a Honolulu Vintage Show: Here’s What I Found!_
 
-{% include youtube.html id="RkOF3pAsjNU" title="I Spent $6 at a Honolulu Vintage Show: Here’s What I Found!" upload_date="2026-10-19" cta="false" %}
+{% include youtube.html id="RkOF3pAsjNU" title="I Spent $6 at a Honolulu Vintage Show: Here’s What I Found!" upload_date="2026-10-19T23:55:04Z" duration="PT15M38S" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

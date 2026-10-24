@@ -1,12 +1,40 @@
 {%- comment -%}
   Click-to-play YouTube facade.
-  id, title (required). start (seconds, optional). upload_date (YYYY-MM-DD, optional).
+  id, title (required).
+  start: seconds, optional.
+  upload_date: optional. Prefer a full ISO 8601 datetime with a timezone,
+    for example 2024-03-06T00:53:48Z. A 10-character YYYY-MM-DD date is
+    accepted and emitted as <date>T12:00:00-05:00. VideoObject JSON-LD is
+    emitted when upload_date is at least 10 characters.
+  description: optional. Falls back to page.description, then the page
+    excerpt (HTML stripped, newlines stripped, truncated to 300 characters),
+    then the video title. The description field is never empty.
+  duration: optional ISO 8601 duration, for example PT40M41S. The key is
+    omitted from JSON-LD when this param is absent.
   cta="false" skips the membership note when the page already has one after the video.
+  channel: optional, defaults to retrocombs.
 {%- endcomment -%}
 {%- assign yt_id = include.id | strip -%}
 {%- assign yt_title = include.title | strip -%}
 {%- assign yt_start = include.start | default: "" | strip -%}
 {%- assign yt_uploaded = include.upload_date | default: "" | strip -%}
+{%- assign yt_duration = include.duration | default: "" | strip -%}
+{%- assign yt_desc = include.description | default: "" | strip -%}
+{%- if yt_desc == empty -%}
+  {%- assign yt_desc = page.description | default: "" | strip -%}
+{%- endif -%}
+{%- if yt_desc == empty -%}
+  {%- assign yt_desc = page.excerpt | default: "" | strip_html | strip_newlines | replace: '&amp;', '&' | replace: '&quot;', '"' | replace: '&#39;', "'" | replace: '&lt;', '<' | replace: '&gt;', '>' | truncate: 300 | strip -%}
+{%- endif -%}
+{%- if yt_desc == empty -%}
+  {%- assign yt_desc = yt_title | strip -%}
+{%- endif -%}
+{%- if yt_desc == empty -%}
+  {%- assign yt_desc = "Video" -%}
+{%- endif -%}
+{%- if yt_uploaded.size == 10 -%}
+  {%- assign yt_uploaded = yt_uploaded | append: "T12:00:00-05:00" -%}
+{%- endif -%}
 <figure class="yt">
   <a class="yt-lite" href="https://www.youtube.com/watch?v={{ yt_id }}{% if yt_start.size > 0 %}&amp;t={{ yt_start }}s{% endif %}" data-id="{{ yt_id }}" data-title="{{ yt_title | escape }}"{% if yt_start.size > 0 %} data-start="{{ yt_start }}"{% endif %}>
     <span class="frame">
@@ -19,14 +47,16 @@
   {%- assign yt_channel = include.channel | default: "retrocombs" -%}
   {% include member-cta.html channel=yt_channel %}
   {%- endunless -%}
-  {%- if yt_uploaded.size == 10 -%}
+  {%- if yt_uploaded.size >= 10 -%}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "VideoObject",
     "name": {{ yt_title | jsonify }},
+    "description": {{ yt_desc | jsonify }},
     "thumbnailUrl": "https://i.ytimg.com/vi/{{ yt_id }}/hqdefault.jpg",
-    "uploadDate": {{ yt_uploaded | jsonify }},
+    "uploadDate": {{ yt_uploaded | jsonify }}{% if yt_duration != empty %},
+    "duration": {{ yt_duration | jsonify }}{% endif %},
     "embedUrl": "https://www.youtube-nocookie.com/embed/{{ yt_id }}",
     "contentUrl": "https://www.youtube.com/watch?v={{ yt_id }}"
   }

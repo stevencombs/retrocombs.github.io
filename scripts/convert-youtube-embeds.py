@@ -4,6 +4,20 @@
 Playlist-only embeds (videoseries, or a list= URL with no video id) stay as
 responsive youtube-nocookie iframes. A following member-cta include is left
 in place and the new tag sets cta="false" so the note is not repeated.
+
+This script does not know a video's YouTube publish time, so converted tags
+omit upload_date and duration. Companion posts that should emit VideoObject
+JSON-LD need those params added by hand:
+
+    {% include youtube.html id="VIDEO_ID" title="Video title"
+       upload_date="2024-03-06T00:53:48Z" duration="PT40M41S" %}
+
+upload_date must be a full ISO 8601 datetime with a timezone (Z or a numeric
+offset). A bare YYYY-MM-DD is accepted by the include and rewritten to
+<date>T12:00:00-05:00, which is only a fallback. duration is an ISO 8601
+duration such as PT40M41S and is omitted from the JSON-LD when absent.
+description is optional; the include falls back to the page description,
+then the excerpt, then the title.
 """
 
 import re
@@ -166,13 +180,24 @@ def playlist_iframe(src, title):
     ).format(src, safe)
 
 
-def include_tag(video, title, start, cta, channel):
+def include_tag(video, title, start, cta, channel, upload_date="", duration=""):
+    """Build a youtube.html include.
+
+    upload_date, when known, must be a full ISO 8601 datetime with a timezone,
+    for example 2024-03-06T00:53:48Z. duration is an ISO 8601 duration such as
+    PT40M41S. convert() leaves both blank because this script cannot look up
+    YouTube publish times; add them by hand on companion posts.
+    """
     parts = [
         'id="{0}"'.format(video),
         'title="{0}"'.format(quote_title(title)),
     ]
     if start:
         parts.append('start="{0}"'.format(start))
+    if upload_date:
+        parts.append('upload_date="{0}"'.format(upload_date))
+    if duration:
+        parts.append('duration="{0}"'.format(duration))
     if cta is False:
         parts.append('cta="false"')
     if channel and channel != "retrocombs":
