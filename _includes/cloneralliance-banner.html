@@ -1,0 +1,23 @@
+{% comment %}
+  ClonerAlliance affiliate banner. Spans the full width of the article column.
+  url (required): affiliate destination.
+  alt (optional): overrides the default alt text.
+  Desktop 1x: /assets/images/banners/rctech-cloneralliance-desktop-1200x300.webp
+  Desktop 2x: /assets/images/banners/rctech-cloneralliance-desktop-2400x600.webp
+  Mobile (max-width 760px, the theme's phone breakpoint):
+    /assets/images/banners/rctech-cloneralliance-mobile-800x400.webp
+{% endcomment %}
+{%- assign ca_url = include.url | default: "" | strip -%}
+{%- assign ca_alt_default = "rC Tech banner: Check out ClonerAlliance capture gear. See current price (affiliate link)." -%}
+{%- assign ca_alt = include.alt | default: ca_alt_default | strip -%}
+{%- if ca_alt == empty -%}{%- assign ca_alt = ca_alt_default -%}{%- endif -%}
+{%- if ca_url != empty -%}
+<figure class="ca-banner">
+  <a href="{{ ca_url }}" rel="sponsored nofollow noopener" target="_blank">
+    <picture>
+      <source media="(max-width: 760px)" width="800" height="400" srcset="{{ '/assets/images/banners/rctech-cloneralliance-mobile-800x400.webp' | relative_url }}">
+      <img src="{{ '/assets/images/banners/rctech-cloneralliance-desktop-1200x300.webp' | relative_url }}" srcset="{{ '/assets/images/banners/rctech-cloneralliance-desktop-1200x300.webp' | relative_url }} 1x, {{ '/assets/images/banners/rctech-cloneralliance-desktop-2400x600.webp' | relative_url }} 2x" alt="{{ ca_alt | escape }}" width="1200" height="300">
+    </picture>
+  </a>
+</figure>
+{%- endif -%}

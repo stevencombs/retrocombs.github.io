@@ -12,6 +12,12 @@ tagline: 'Retro computing with a touch of modern'
 url: 'https://retrocombs.com'
 lang: en-US
 
+# Posts for @retroCombs-tech set `channel: tech` in front matter.
+# That channel does not offer memberships yet, so the end-of-post
+# "Join the channel" strip stays hidden. Set this to true to show it
+# again. The strip will then link to the tech channel's /join page.
+tech_memberships: false
+
 defaults:
   - scope:
       path: ""

@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 permalink: picocalc-tutorial
 comments: yes
 categories: [gadgets, raspberrypi, handhelds]
+channel: tech
 tags:
   - picocalc
   - clockworkpi
@@ -105,10 +106,6 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 Title: _PicoCalc Out-of-Box Tutorial: Assembly, BASIC, GPIO & Firmware Fun!_
 
 {% include youtube.html id="ATwZwTEeSPo" title="PicoCalc Out-of-Box Tutorial: Assembly, BASIC, GPIO & Firmware Fun!" upload_date="2025-05-24T01:53:30Z" duration="PT22M37S" cta="false" %}
-
-{% include member-cta.html channel="retrocombs" %}
-
-This video lives on my modern tech channel, [@retroCombs-tech](https://www.youtube.com/@retrocombs-tech?sub_confirmation=1), where I run real tests on real tech. Subscribe there so you don't miss the next one. Channel memberships run through my main channel, so if you'd like to support both channels, become a channel member.
 
 ## VIDEO ERRATA
 
