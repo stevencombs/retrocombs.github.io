@@ -106,7 +106,7 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 
 Title: _🤪 This ZX Spectrum Next is WILD! QUICK START GUIDE Overview._
 
-{% include youtube.html id="v8Ts9xAVeJo" title="This ZX Spectrum Next is WILD! QUICK START GUIDE Overview." upload_date="2024-03-06" cta="false" %}
+{% include youtube.html id="v8Ts9xAVeJo" title="This ZX Spectrum Next is WILD! QUICK START GUIDE Overview." upload_date="2024-03-06T00:53:48Z" duration="PT40M41S" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 
