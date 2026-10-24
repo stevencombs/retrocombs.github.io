@@ -1,0 +1,22 @@
+{% comment %}
+  ClonerAlliance affiliate banner. Spans the full width of the article column.
+  url (required): affiliate destination.
+  alt (optional): image alt text. Defaults to "ClonerAlliance".
+  Desktop: /assets/images/banners/cloneralliance-1200x300.webp
+    (file is 2400x600, so it is @2x for a 1200x300 slot).
+  Mobile (max-width 760px): /assets/images/banners/cloneralliance-800x400.webp.
+  Both files are neutral placeholders until Brand Kit art replaces them.
+{% endcomment %}
+{%- assign ca_url = include.url | default: "" | strip -%}
+{%- assign ca_alt = include.alt | default: "ClonerAlliance" | strip -%}
+{%- if ca_alt == empty -%}{%- assign ca_alt = "ClonerAlliance" -%}{%- endif -%}
+{%- if ca_url != empty -%}
+<figure class="ca-banner">
+  <a href="{{ ca_url }}" rel="sponsored nofollow noopener" target="_blank">
+    <picture>
+      <source media="(max-width: 760px)" srcset="{{ '/assets/images/banners/cloneralliance-800x400.webp' | relative_url }}">
+      <img src="{{ '/assets/images/banners/cloneralliance-1200x300.webp' | relative_url }}" alt="{{ ca_alt | escape }}" width="1200" height="300">
+    </picture>
+  </a>
+</figure>
+{%- endif -%}

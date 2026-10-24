@@ -53,8 +53,24 @@ layout: default
         </div>
       </article>
       {% include ad.html slot="end" %}
+      {% comment %}
+        channel: tech marks an @retroCombs-tech post. The membership strip
+        stays off until site.tech_memberships is true in _config.yml.
+      {% endcomment %}
+      {% assign show_member_strip = true %}
+      {% if page.channel == "tech" %}
+        {% unless site.tech_memberships %}
+          {% assign show_member_strip = false %}
+        {% endunless %}
+      {% endif %}
       <section class="support-strip" aria-label="Support retroCombs">
-        {% include member-cta.html channel="retrocombs" variant="strip" %}
+        {% if show_member_strip %}
+          {% if page.channel == "tech" %}
+            {% include member-cta.html channel="tech" variant="strip" %}
+          {% else %}
+            {% include member-cta.html channel="retrocombs" variant="strip" %}
+          {% endif %}
+        {% endif %}
         <div class="btns">
           <a class="btn red" href="https://paypal.me/stevencombs"><span class="rc-follow-icon" style="--rc-icon: url('{{ "/images/icons/paypal.svg" | relative_url }}')" aria-hidden="true"></span>Tip on PayPal</a>
         </div>

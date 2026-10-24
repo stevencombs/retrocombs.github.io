@@ -222,6 +222,10 @@ article.card,.page-body{background:#fff;border-radius:14px;padding:38px 48px;box
 .prose blockquote.warn{border-left-color:var(--st-red);background:#FDF0EE}
 .prose blockquote.tip{border-left-color:var(--st-green);background:#F2F8EE}
 .prose blockquote.note{border-left-color:var(--st-orange);background:#FFF6E8}
+.prose blockquote p+p{margin-top:.75em}
+.prose .ca-banner{max-width:none;width:100%;margin:1.4em 0}
+.prose .ca-banner a{display:block;line-height:0;text-decoration:none}
+.prose .ca-banner img{width:100%;height:auto;border-radius:10px}
 .prose .toc-box{background:var(--rc-cream);border-radius:12px;padding:16px 22px;margin:0 0 1.2em;font-size:14.5px;line-height:1.5}
 .prose .toc-box ul{margin:0;padding-left:18px}
 .prose .toc-box a{text-decoration:none}

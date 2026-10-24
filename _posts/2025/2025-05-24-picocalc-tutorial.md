@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 permalink: picocalc-tutorial
 comments: yes
 categories: [gadgets, raspberrypi, handhelds]
+channel: tech
 tags:
   - picocalc
   - clockworkpi
