@@ -1,21 +1,22 @@
 {% comment %}
   ClonerAlliance affiliate banner. Spans the full width of the article column.
   url (required): affiliate destination.
-  alt (optional): image alt text. Defaults to "ClonerAlliance".
-  Desktop: /assets/images/banners/cloneralliance-1200x300.webp
-    (file is 2400x600, so it is @2x for a 1200x300 slot).
-  Mobile (max-width 760px): /assets/images/banners/cloneralliance-800x400.webp.
-  Both files are neutral placeholders until Brand Kit art replaces them.
+  alt (optional): overrides the default alt text.
+  Desktop 1x: /assets/images/banners/rctech-cloneralliance-desktop-1200x300.webp
+  Desktop 2x: /assets/images/banners/rctech-cloneralliance-desktop-2400x600.webp
+  Mobile (max-width 760px, the theme's phone breakpoint):
+    /assets/images/banners/rctech-cloneralliance-mobile-800x400.webp
 {% endcomment %}
 {%- assign ca_url = include.url | default: "" | strip -%}
-{%- assign ca_alt = include.alt | default: "ClonerAlliance" | strip -%}
-{%- if ca_alt == empty -%}{%- assign ca_alt = "ClonerAlliance" -%}{%- endif -%}
+{%- assign ca_alt_default = "rC Tech banner: Check out ClonerAlliance capture gear. See current price (affiliate link)." -%}
+{%- assign ca_alt = include.alt | default: ca_alt_default | strip -%}
+{%- if ca_alt == empty -%}{%- assign ca_alt = ca_alt_default -%}{%- endif -%}
 {%- if ca_url != empty -%}
 <figure class="ca-banner">
   <a href="{{ ca_url }}" rel="sponsored nofollow noopener" target="_blank">
     <picture>
-      <source media="(max-width: 760px)" srcset="{{ '/assets/images/banners/cloneralliance-800x400.webp' | relative_url }}">
-      <img src="{{ '/assets/images/banners/cloneralliance-1200x300.webp' | relative_url }}" alt="{{ ca_alt | escape }}" width="1200" height="300">
+      <source media="(max-width: 760px)" width="800" height="400" srcset="{{ '/assets/images/banners/rctech-cloneralliance-mobile-800x400.webp' | relative_url }}">
+      <img src="{{ '/assets/images/banners/rctech-cloneralliance-desktop-1200x300.webp' | relative_url }}" srcset="{{ '/assets/images/banners/rctech-cloneralliance-desktop-1200x300.webp' | relative_url }} 1x, {{ '/assets/images/banners/rctech-cloneralliance-desktop-2400x600.webp' | relative_url }} 2x" alt="{{ ca_alt | escape }}" width="1200" height="300">
     </picture>
   </a>
 </figure>

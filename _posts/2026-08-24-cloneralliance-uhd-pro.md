@@ -307,7 +307,7 @@ The UHD Pro is a straightforward HDMI recorder for an Android TV box. It is not 
 
 On October 24, 2026, the official store listed it at $278.50, down from a $349.99 list price. Prices change. ([Official store](https://store.cloner-alliance.com/products/cloneralliance-uhd-pro))
 
-{% include cloneralliance-banner.html url="https://amzn.to/3UzOnES" alt="ClonerAlliance" %}
+{% include cloneralliance-banner.html url="https://amzn.to/3UzOnES" %}
 
 ## UHD HALO: COMING SOON {#uhd-halo-coming-soon}
 
