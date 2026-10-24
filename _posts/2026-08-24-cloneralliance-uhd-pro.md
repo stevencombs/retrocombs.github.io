@@ -22,11 +22,16 @@ tags:
   - scheduled-recording
   - streaming
 description: "A hands-on look at the ClonerAlliance UHD Pro: one-button HDMI recording to USB, H.264/H.265, scheduled recording, and USB capture into OBS, tested with a vSeeBox Elite Ultra and Digibox D6 Max."
+image:
+  path: /images/posts/2026-08-24-cloneralliance-uhd-pro.jpg
+  width: 1280
+  height: 720
+  alt: 'ClonerAlliance UHD Pro recorder with its blue H.264 status ring lit'
 ---
 
 It's the VCR my Android TV boxes never had. The ClonerAlliance UHD Pro records an HDMI source to a USB drive with one button, and it doesn't need a PC in the path. I tested recording with a vSeeBox Elite Ultra, and I used a Digibox D6 Max for the OBS streaming test.
 
-<!-- TODO: add hero /images/posts/2026-08-24-cloneralliance-uhd-pro.jpg (1:04, unit on a desk, blue H.264 ring, no overlay text). The frame file was not in this workspace. -->
+![ClonerAlliance UHD Pro recorder with its blue H.264 status ring lit](/images/posts/2026-08-24-cloneralliance-uhd-pro.jpg)
 
 *Full disclosure: ClonerAlliance sent me the UHD Pro free for review. It was a product exchange with no payment, and ClonerAlliance did not see this post before it was published. Links in this post are affiliate links, so I may earn a commission if you buy through them.*
 
@@ -166,7 +171,7 @@ The box has the recorder, the remote, a barrel-jack power supply, an HDMI cable,
 
 My unit is 4.6 x 4.6 x 1.1 in and weighs 8.5 oz, from manual v1.0.2. The HDMI IN and OUT ports are mounted upside down relative to a typical player. The front has Line In, Line Out, Mic, a USB storage port, and the H.264, Snapshot, and Stop buttons.
 
-<!-- TODO: add /images/posts/2026-08-24-cloneralliance-uhd-pro/front-panel.jpg (2:16). Frame file was not in this workspace. -->
+![Front panel of the ClonerAlliance UHD Pro with Line In, Line Out, Mic, and the H.264, Snapshot, and Stop buttons](/images/posts/2026-08-24-cloneralliance-uhd-pro/front-panel.jpg)
 
 On my revision the status ring shows the codec. Blue means H.264. Green means H.265. That's the side-indicator table in the original manual.
 
@@ -229,7 +234,7 @@ The menu has five items: Record settings, Schedule settings, System settings, Vi
 
 ## BITRATE AND FILE SIZE {#bitrate-and-file-size}
 
-<!-- TODO: add /images/posts/2026-08-24-cloneralliance-uhd-pro/record-settings.jpg (4:48) after the vSeeBox app tiles behind the menu are blurred or cropped. Frame file was not in this workspace, so it is not committed. -->
+![Record Settings on the UHD Pro, set to H.264, Low, Always display REC, and a 16GB/3H file size](/images/posts/2026-08-24-cloneralliance-uhd-pro/record-settings.jpg)
 
 These rates are from the original manual, in Mbps. Low and High are the menu settings. Each cell is 4K, then 1080p, then 720p, then SD.
 
@@ -272,7 +277,7 @@ The Snapshot button saves a JPG. You view it on the TV under Photo playback.
 
 The micro-USB port marked "To PC" shows up on macOS as a UVC/UAC device named "CA-989UP UVC". I didn't install a driver. In OBS, add a Video Capture Device and pick CA-989UP UVC. On my revision that input is 1920x1080 at 60 fps. I streamed a Digibox D6 Max through it. The on-screen menu does not appear over USB.
 
-<!-- TODO: add /images/posts/2026-08-24-cloneralliance-uhd-pro/obs-capture.jpg (7:42). The prepared frame blurs the Digibox status line (public IP and MAC). That file was not in this workspace, so it is not committed. -->
+![OBS Studio on a Mac capturing a Digibox through the UHD Pro](/images/posts/2026-08-24-cloneralliance-uhd-pro/obs-capture.jpg)
 
 The KB steps, shortened:
 
