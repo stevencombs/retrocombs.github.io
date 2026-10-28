@@ -1,0 +1,87 @@
+{%- comment -%}
+  Server-rendered Explore catalog. Cards stay in the HTML without JavaScript.
+  page.explore_rated_only limits the list to posts with a rating.
+  page.explore_sort is the share-URL default (newest, or score on /reviews).
+{%- endcomment -%}
+{%- assign explore_sort = page.explore_sort | default: "newest" -%}
+{%- assign explore_page_size = 24 -%}
+{%- assign explore_cards = site.posts | where_exp: "item", "item.explore != false" -%}
+{%- if page.explore_rated_only -%}
+  {%- assign explore_cards = explore_cards | where_exp: "item", "item.rating != nil" | sort: "rating" | reverse -%}
+{%- endif -%}
+<div class="explore" markdown="0" data-explore data-default-sort="{{ explore_sort }}" data-page-size="{{ explore_page_size }}">
+  <div class="explore-panel-wrap">
+    <details class="explore-panel">
+      <summary>Filters</summary>
+      <div class="explore-panel-body">
+        <fieldset class="explore-group">
+          <legend>Kind</legend>
+          <div class="explore-chips">
+            <button type="button" class="explore-chip is-all" data-kind="" aria-pressed="true">All <b>{{ explore_cards.size }}</b></button>
+            {%- for kind in site.data.explore.kinds -%}
+              {%- assign kind_count = 0 -%}
+              {%- for post in explore_cards -%}
+                {%- if post.kind == kind.id -%}{%- assign kind_count = kind_count | plus: 1 -%}{%- endif -%}
+              {%- endfor -%}
+              <button type="button" class="explore-chip" data-kind="{{ kind.id }}" data-label="{{ kind.label }}" data-plural="{{ kind.plural }}" aria-pressed="false">{{ kind.label }} <b>{{ kind_count }}</b></button>
+            {%- endfor -%}
+          </div>
+        </fieldset>
+        <fieldset class="explore-group">
+          <legend>Channel</legend>
+          <div class="explore-chips">
+            {%- for channel in site.data.explore.channels -%}
+              <button type="button" class="explore-chip{% if channel.id == "" %} is-all{% endif %}" data-channel="{{ channel.id }}" aria-pressed="{% if channel.id == "" %}true{% else %}false{% endif %}">{{ channel.label }}</button>
+            {%- endfor -%}
+          </div>
+        </fieldset>
+        <div class="explore-tools">
+          <label class="explore-control">Topic
+            <select data-explore-topic>
+              <option value="">All topics</option>
+              {%- for group in site.data.topics.groups -%}
+                <optgroup label="{{ group.name | escape }}">
+                  {%- for topic in group.items -%}
+                    {%- assign topic_slug = topic.url | replace: ".html", "" | split: "/" | last -%}
+                    <option value="{{ topic_slug }}">{{ topic.name | escape }}</option>
+                  {%- endfor -%}
+                </optgroup>
+              {%- endfor -%}
+            </select>
+          </label>
+          <label class="explore-control">Sort
+            <select data-explore-sort>
+              {%- for sort in site.data.explore.sorts -%}
+                <option value="{{ sort.id }}"{% if sort.id == explore_sort %} selected{% endif %}>{{ sort.label }}</option>
+              {%- endfor -%}
+            </select>
+          </label>
+          <label class="explore-control">Title
+            <input type="search" data-explore-q placeholder="Filter by title" autocomplete="off" enterkeyhint="search">
+          </label>
+        </div>
+        <fieldset class="explore-group">
+          <legend>Score</legend>
+          <div class="explore-chips">
+            <button type="button" class="explore-chip is-all" data-band="" aria-pressed="true">All scores</button>
+            {%- for band in site.data.ratings.bands reversed -%}
+              {%- assign band_count = 0 -%}
+              {%- for post in explore_cards -%}
+                {%- if post.rating -%}
+                  {%- include rating-band.html score=post.rating -%}
+                  {%- if rc_level == band.level -%}{%- assign band_count = band_count | plus: 1 -%}{%- endif -%}
+                {%- endif -%}
+              {%- endfor -%}
+              <button type="button" class="explore-chip" data-band="{{ band.level }}" aria-pressed="false">{{ band.name }} <b>{{ band_count }}</b></button>
+            {%- endfor -%}
+          </div>
+          <p class="explore-scale">A half step uses the band of the whole number below it. 0.5 is GAME OVER.</p>
+        </fieldset>
+      </div>
+    </details>
+  </div>
+  <p class="explore-count" data-explore-count aria-live="polite" aria-atomic="true">Showing {{ explore_cards.size }} {% if explore_cards.size == 1 %}post{% else %}posts{% endif %}</p>
+  <p class="post-cards-empty" data-explore-empty hidden>No posts match these filters.</p>
+  {% include post-cards.html items=explore_cards page_size=explore_page_size with_meta=true %}
+</div>
+<script src="{{ "/assets/js/explore.js" | relative_url }}"></script>

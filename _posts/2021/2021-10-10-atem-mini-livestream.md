@@ -12,6 +12,7 @@ tags:
   - production
   - livestream
   - Blackmagic Design
+kind: livestream
 ---
 
 I recently purchased the [Blackmagic Design ATEM Mini](https://amzn.to/3iN4r0p) after seeing the device featured on many YouTube channels. The device promises to make camera management during livestreams easier and hold the potential to reduce edits on recorded video. In the past few weeks, I've hosted several livestreams and I am enjoying the impromptu conversations, interactions with followers, and the exclusion of the editing process. I enjoy editing and it is appropriate for much of the content I create; however, if this device can cut editing and make livestreams easier to manage, it will be worth the $300 price tag.

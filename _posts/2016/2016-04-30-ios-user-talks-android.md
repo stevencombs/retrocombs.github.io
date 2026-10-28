@@ -12,6 +12,7 @@ image:
   width: 1280
   height: 720
   alt: 'Motorola Nexus 6, the phone this Android comparison is based on'
+kind: editorial
 ---
 
 ![Motorola Nexus 6, the phone this Android comparison is based on](/images/posts/ios-talks-android/nexus-6.jpg)

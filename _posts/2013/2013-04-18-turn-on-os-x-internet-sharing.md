@@ -8,6 +8,7 @@ comments: 'yes'
 categories:
   - howto
   - apple
+kind: how-to
 ---
 
 I often use the Internet sharing feature on a Mac to either create/extend a network from an Ethernet connection via Wi-Fi or, as has been the case lately, extend a Wi-Fi connection using an Ethernet connection to a non-Wi-Fi device that needs Internet/network access. I  use this setup regularly to connect a Raspberry Pi to my home network.

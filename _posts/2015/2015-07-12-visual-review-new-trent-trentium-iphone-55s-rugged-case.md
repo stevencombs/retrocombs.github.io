@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - apple
+kind: review
 ---
 
 Once again, [New Trent](http://www.newtrent.com) sent an opportunity to review one of their products, the [New Trent Trentium](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=new%20trent%20trentium&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=YGBHL3E3ZCRTXC53). I really enjoy their line of iOS accessories and the chance to review their rugged iPhone 5/5s case makes a good addition to previous [NewTrent Airbender 3.0](/apple/2015/07/04/bullet-review-newtrent-airbender-3.html) and [New Trent Gladius](/apple/2014/03/16/bullet-review-new-trent-gladius-air-for-ipad-air.html) reviews. Although I review the iPhone 5/5s version, New Trent also provides [models for the iPhone 6 line](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=new%20trent%20trentium&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=YGBHL3E3ZCRTXC53) that appear identical in design and function.

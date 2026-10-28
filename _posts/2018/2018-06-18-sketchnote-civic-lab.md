@@ -11,6 +11,7 @@ tags:
   - sketchnotes
   - civiclab
   - illustration
+explore: false
 ---
 
 The [CivicLab][1] provided our college with some excellent community engagement skills today. Description below:

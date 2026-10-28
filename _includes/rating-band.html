@@ -1,0 +1,21 @@
+{%- comment -%}
+  Score band for one rating.
+  Pass score (0.5–5). Sets rc_level (1–5) and rc_name.
+  A half step uses the whole number below it. 0.5 is GAME OVER.
+  Band names come from _data/ratings.yml.
+{%- endcomment -%}
+{%- assign rc_band_score = include.score | append: "" | strip -%}
+{%- assign rc_band_parts = rc_band_score | split: "." -%}
+{%- assign rc_band_whole = rc_band_parts[0] | plus: 0 -%}
+{%- assign rc_band_frac = rc_band_parts[1] | default: "" -%}
+{%- if rc_band_frac == "5" -%}
+  {%- assign rc_level = rc_band_whole -%}
+  {%- if rc_level < 1 -%}{%- assign rc_level = 1 -%}{%- endif -%}
+{%- else -%}
+  {%- assign rc_level = rc_band_whole -%}
+{%- endif -%}
+{%- assign rc_name = "HIGH SCORE" -%}
+{%- for band in site.data.ratings.bands -%}
+  {%- assign rc_band_level = band.level | plus: 0 -%}
+  {%- if rc_band_level == rc_level -%}{%- assign rc_name = band.name -%}{%- endif -%}
+{%- endfor -%}

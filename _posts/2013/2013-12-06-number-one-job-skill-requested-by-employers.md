@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
+explore: false
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://lh4.googleusercontent.com/-oo72t0hV8oA/UqFOAadtXfI/AAAAAAABNVY/1oQuEMPCHac/%25255BUNSET%25255D.jpg" align="right" width="200" />On December 12th and 13th 2013, I attended the Workforce Development Consortium Strategy Forum at the Lone Star College Conference Center in Houston Texas. The forum brings together several community college and industry leaders from ten states that are part of the Community College Workforce Consortium (CCWC). The goal is to discuss workforce needs and how community colleges can train, educate and develop the future workforce.

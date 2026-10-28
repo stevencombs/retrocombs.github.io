@@ -11,6 +11,7 @@ image:
   width: 1280
   height: 956
   alt: 'Evernote notes open on an iPad beside a MacBook'
+kind: how-to
 ---
 
 ![Evernote notes open on an iPad beside a MacBook](/images/posts/evernote-task-management/evernote.jpg)

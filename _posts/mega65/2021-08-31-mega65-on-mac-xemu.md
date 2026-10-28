@@ -12,6 +12,7 @@ tags:
   - retro
   - mega65
   - emulator
+kind: how-to
 ---
 
 As a MEGA65 Dev Kit owner, I've created several posts to share what's coming when my favorite Commodore "what could have been" retro computer releases. I'm not going in depth about the MEGA65 in this post and companion video; instead, check out my new [MEGA65 page](/mega65). In this post, I will show you how to get started with the MEGA65, on your Apple Mac computer, while you wait for the hardware to arrive.

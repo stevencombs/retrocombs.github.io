@@ -17,6 +17,7 @@ tags:
   - c16
   - ted
   - tap
+kind: bench
 ---
 
 As part of my [Commodore Plus/4 series](/plus4), chapter three of the user's manual includes a section on using a Commodore Datasette and a 1541 Diskette Drive. In a previous post, I assemble a [replacement for the disk drive](/pi1541) now it's time to build a device I call the Tapuino.

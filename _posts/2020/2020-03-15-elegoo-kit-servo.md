@@ -18,6 +18,7 @@ tags:
   - servo
   - encoder
   - tutorial
+kind: bench
 ---
 
 Expanding on my previous [OPEN THE BOX](/elegoo-mega-starter) and [LED and pushbutton Arduino](/arduino-hello-world) projects, this post provides instructions to control a servo motor with and encoder on an ELEGOO Arduino Mega 2560; with a twist (pun intended)!

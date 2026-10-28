@@ -21,6 +21,7 @@ tags:
   - diskdrive
   - datasette
   - cassette
+kind: companion
 ---
 
 In this Commodore Plus/4 retroCombs episode, I cover chapter 3 of the Commodore Plus/4 user's manual. This chapter is dedicated to _Using Software_ and there are several ways to load and save software using; cartridges, datasettes, and diskettes. In this post and the accompanying video, I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](/tapuino-1), and a [Pi1541](/pi1541-1).

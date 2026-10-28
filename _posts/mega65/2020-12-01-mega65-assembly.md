@@ -11,6 +11,7 @@ tags:
   - mega65
   - devout
   - unboxing
+kind: bench
 ---
 
 I'm really excited! I mean, 15 year-old boy excited. That's how I felt while opening the box, unpacking, assembling, and turning on the new  developer's kit (DevKit) for the first time. Seriously, I've not been that excited about a package in some time; and this from the guy who has two brand new Mac minis (with M1 processors) set to arrive a few days before Christmas.

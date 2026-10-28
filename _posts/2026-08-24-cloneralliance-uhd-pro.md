@@ -27,6 +27,8 @@ image:
   width: 1280
   height: 720
   alt: 'ClonerAlliance UHD Pro recorder with its blue H.264 status ring lit'
+kind: review
+rating: 4
 ---
 
 It's the VCR my Android TV boxes never had. The ClonerAlliance UHD Pro records an HDMI source to a USB drive with one button, and it doesn't need a PC in the path. I tested recording with a vSeeBox Elite Ultra, and I used a Digibox D6 Max for the OBS streaming test.

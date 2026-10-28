@@ -23,6 +23,7 @@ image:
   width: 1280
   height: 720
   alt: 'ZX Spectrum Next on my desk next to its Quick Start Guide card'
+kind: how-to
 ---
 
 My ZX Spectrum Next arrived in February 2024 after a three-year wait. I [unboxed it live](https://www.youtube.com/watch?v=yuD-Q8eZbBQ), and then I didn't touch it. When folks asked how I liked it, I had to admit I had no earthly idea. So I went live again with the little Quick Start Guide card that comes in the box and worked through it on camera, tiny print and all.

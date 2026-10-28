@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets
+kind: review
 ---
 
 [New Trent][1] once again provided me with an opportunity to review a new product; the [Arcadia dual port AC charger][2]. When I received an email that the product was available for review, I must admit, my decision to review the charger was a bit selfish. I could sure use a free wall wart for the brand new [nVidia Shield K1 Tablet][3] I received over the holidays.

@@ -11,6 +11,7 @@ tags:
   - livestream
   - finalgrom99
   - ti994a
+kind: livestream
 ---
 
 Out of nowhere, on a lazy Sunday afternoon, and while preparing for my [The FinalGROM 99 for the Texas Instruments TI-99/4A](/finalgrom99) video, I took my FinalGROM 99 experimentation online with a livestream to troubleshoot 32 Kb memory expansion module sidecar issues and play several Texas Instruments TI-99/4A games. This is the companion blog post for the edit which removes over 45 minutes.

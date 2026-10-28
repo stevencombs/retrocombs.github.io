@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: lego
+kind: review
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-eTSxXIb8fVM/TdW70hRgFWI/AAAAAAAA1RU/g2y-XvwTBoU/s200/BimPBookReviewSimpleMachines.png" align="right" width="250" />The kind folks over at [No Starch][2], and Travis specifically, were kind enough to send me review copies of the[ ][3][LEGO Technic Idea Book ][3]![][4]series by Yoshihito Isogawa. As past readers know, I am very fond of the No Starch line of LEGO books with [Alan Bedford's Unofficial LEGO Builder's Guide][5]![][6] my absolute favorite of all time. Given their past performance with LEGO books, I was excited to read and give this series a try.

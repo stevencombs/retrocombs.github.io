@@ -27,6 +27,12 @@ defaults:
         width: 1200
         height: 630
         alt: retroCombs
+  # Posts are retroCombs unless they set channel: tech in front matter.
+  - scope:
+      path: ""
+      type: posts
+    values:
+      channel: retrocombs
   # Google's HTML verification file is copied unchanged. Without this,
   # jekyll-sitemap would list the static .html file.
   - scope:

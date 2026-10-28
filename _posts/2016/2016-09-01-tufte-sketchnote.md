@@ -12,6 +12,7 @@ image:
   width: 1280
   height: 960
   alt: 'Edward Tufte teaching a class'
+kind: art
 ---
 
 ![Edward Tufte teaching a class](/images/posts/tufte-sketchnote/edward-tufte.jpg)

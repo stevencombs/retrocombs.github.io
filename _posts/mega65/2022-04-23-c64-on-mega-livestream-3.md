@@ -11,6 +11,7 @@ tags:
   - mega65
   - livestream
   - c64
+kind: livestream
 ---
 
 This is the companion blog post for my 2022-04-03 live stream edit; _Part III: Playing the C64 demos from the MEGA65 on boarding SD Card_. This is a short edit of a much longer live stream where I continue my look at the "b-side" of the MEGA65 onboarding SD card that includes a C64 disk image full of games and demos to run on the MEGA65 in Commodore 64 mode. We've run through the games and this video is all demos! Before the demos, I unbox a few items that will appear in future content and a gift from one of my producers.

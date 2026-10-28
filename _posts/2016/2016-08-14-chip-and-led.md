@@ -7,6 +7,7 @@ date: 'August 14, 2016'
 comments: 'yes'
 categories:
   - chip
+kind: how-to
 ---
 
 The [C.H.I.P.][1] packs a lot of power into a tiny board that includes both Bluetooth and Wi-Fi. It's the perfect combination of small size and performance to power physical computing projects.

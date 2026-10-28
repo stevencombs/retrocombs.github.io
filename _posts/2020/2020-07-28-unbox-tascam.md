@@ -14,6 +14,7 @@ tags:
   - unboxing
   - podcast
   - operate
+kind: review
 ---
 
 I purchased another tool to add to my podcast and YouTube tool chest, the [TASCAM DR-40X audio recorder (#ad)](https://amzn.to/3jIDVE9). In the short video below, I open the box, share some accessories, and attempt to turn the unit on, and record for the first time. Along the way, there were a few hiccups; however, after a bit of trial and error (and some instruction manual time), I was able to record samples that I include in the video.

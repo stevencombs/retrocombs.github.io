@@ -16,6 +16,7 @@ tags:
   - google
   - unbox
   - unboxing
+kind: review
 ---
 
 I posted an "open-the-box" video for the Lenovo Yoga Smart Tab with Google Assistant on my YouTube channel. After the video, several called me out for not providing a review of this Android tablet. Below is the video. After you watch, continue on for my review of the Lenovo Yoga Smart Tab.

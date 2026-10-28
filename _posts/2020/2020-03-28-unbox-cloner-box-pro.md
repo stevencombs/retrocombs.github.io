@@ -16,6 +16,7 @@ tags:
 redirect_from:
   - /gadgets/2020/03/28/unbox-cloner-box-pro.html
 
+kind: first-look
 ---
 
 Time to open the box on a [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd); a device that promises to be the one device to capture them all (video that is). This post is not a full review, just a few thoughts and a short eight-minute YouTube video to show what's inside the box and talk about how I plan to use the device.

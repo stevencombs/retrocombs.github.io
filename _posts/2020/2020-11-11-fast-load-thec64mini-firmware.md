@@ -13,6 +13,7 @@ tags:
   - thevic20
   - upgrade
   - firmware
+kind: how-to
 ---
 
 One of my favorite retro-computing devices of 2019 was [THEC64 mini](https://amzn.to/35lh9No). I love that it was a mini recreation of the Commodore 64 that not only looked like the original, but when plugged into an HDMI monitor, would also play Commodore 64 games built-in or on a USB drive. Upon release though, there were limitations:

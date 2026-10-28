@@ -12,6 +12,7 @@ tags:
   - cartoons
   - isis
   - shazam
+kind: editorial
 ---
 
 {UPDATE: This is a repost from another blog. As those who know me can attest, I’m a bit of a sci-fi geek and love to reminisce about days of old. So enjoy this somewhat quirky post on this Saturday morning}

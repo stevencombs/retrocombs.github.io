@@ -18,6 +18,7 @@ tags:
   - calculations
   - numbers
   - basic
+kind: companion
 ---
 
 In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 6, *Beginning BASIC Programming*, of the Commodore Plus/4 user's manual. In this chapter, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.

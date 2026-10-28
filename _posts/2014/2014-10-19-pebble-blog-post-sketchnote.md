@@ -6,6 +6,7 @@ email: 'retrocombs@icloud.com'
 date: 2014-10-19 17:20
 category: art
 comments: yes
+kind: art
 ---
 
 **Description:** Before creating my [blog post on the Pebble watch](/gadgets/2014/10/19/my-first-month-with-pebble-watch.html) recently purchased, I decided to perform a quick sketchnotes brainstorming session. I broke out a small pocket notebook I found on clearance at Barnes & Noble and my trusty Pilot pen. I use this notebook to capture ideas while I read and this was the first time I used a single page to capture several thoughts I wanted to make in my blog post. This sketchnote became a kind of pictorial mind map. While there is no structure to my doodles, I did use the sketchnote to ensure I captured all the key points.

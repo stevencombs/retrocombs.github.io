@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: lego
+kind: review
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-PmxKja42FPM/UMUCGXYfaQI/AAAAAAABExA/EMH2na1uhV8/s200/BimP+Book+Review+Graphic.png" align="right" width="250" />As most folks know, I am a huge fan of the first edition of Allan Bedford's wonderful The Unofficial LEGO Builder's Guide. Back when Nikki and I were still hosting the BimPCast, we had Allan join us to discuss his new book in BimPCast 24. Wanna listen to our discussion? Click [here][2].

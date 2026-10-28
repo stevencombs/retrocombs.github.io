@@ -1,0 +1,14 @@
+# Score bands for the review box and the Explore cards.
+# A half step (n.5) uses the band of n. 0.5 uses band 1, GAME OVER.
+# The floor rule is in _includes/rating-band.html. Names live here only.
+bands:
+  - level: 1
+    name: "GAME OVER"
+  - level: 2
+    name: "CONTINUE?"
+  - level: 3
+    name: "PRESS START"
+  - level: 4
+    name: "EXTRA LIFE"
+  - level: 5
+    name: "HIGH SCORE"

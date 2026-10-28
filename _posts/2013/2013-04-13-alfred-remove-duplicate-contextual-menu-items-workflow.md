@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: alfred
+kind: how-to
 ---
 
 Ever right-click on a file to choose an application to use and find multiple duplicate entries for an app (as shown in the image below)? This is a common issue for those of us who update or demo software regularly. I become a bit frustrated with it so I created this [Alfred](http://www.alfredapp.com) workflow to correct the issue.

@@ -17,6 +17,7 @@ image:
   width: 1280
   height: 720
   alt: 'ALDI battery holiday lights lit from a USB cable on a desk'
+kind: bench
 ---
 
 Nikki purchased a set of ALDI holiday lights for me a couple of weeks ago. I believe they were around $8.00. They run on two AA batteries (3v) and can switch between off, constantly on, or blinking. Although the batteries have yet to die, my goal was to provide power via a USB port (5v) on my Macs or [Chromebook](/chromeos). You've probably seen USB light sets for sale at Target and Walgreens and they usually cost around $15 to $20. The beauty of these USB powered lights is that they turn on when the computer is on and off when you power down or the computer goes to sleep.

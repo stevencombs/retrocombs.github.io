@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: ten-thec64-tips
 category: C64
+kind: how-to
 ---
 
 I scoured the official TheC64 series user's manual (downloaded and sent to my Kindle Scribe / not the small user's guide that comes with the unit - another bonus tip!) and found ten "non-hacky" tips you may not know about.

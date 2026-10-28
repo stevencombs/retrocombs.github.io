@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: apple
+kind: how-to
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-6VdxGgIIbXA/TdamjsD0jMI/AAAAAAAA1SA/SpvuoUkcdr0/s200/Personal+Hotspot.png" align="right" />While on a business trip this past week, I was stuck in a building that did not have Internet access for my [MacBook Air][2]. This was an extreme productivity killer. Then I remembered that the latest iOS for iPhone 4 now contains the ability to create a personal hotspot similar to [MiFi units][3].

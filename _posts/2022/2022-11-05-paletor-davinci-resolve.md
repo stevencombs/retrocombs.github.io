@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: paletro-davinci-resolve
 category: apple
+kind: how-to
 ---
 
 DaVinci Resolve is my goto video editing software but I'm often frustrated with the complex and expansive command set. There's no denying, the cost is excellent (free or $300 for a lifetime licensed version) and there's a huge base of users who share tips and tricks to make learning the software easier, like one of my favorites, [MrAlexTech](https://www.youtube.com/MrAlexTech). But despite Alex's fine presentation of tips and tricks, I always find myself asking, now where is that freeze frame command (or insert any other command)? But I've found my solution!

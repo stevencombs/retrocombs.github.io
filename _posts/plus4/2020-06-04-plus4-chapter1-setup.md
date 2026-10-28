@@ -16,6 +16,7 @@ tags:
   - video
   - machinelanguage
   - 1980s
+kind: companion
 ---
 
 In the next Commodore Plus/4 retroCombs episode, I open the Commodore Plus/4 manual for the first time to look at _Chapter 1: Unpacking and Setting Up_. Since [the previous episode](https://youtu.be/_faxuAlFHII) was an Open the Box, unpacking is already complete so this episode focuses on setting up the computer. Watch the video below and then come back to this post to read some additional thoughts, find links to everything mentioned, and learn a few more additional tips.

@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: web
+kind: editorial
 ---
 
 [Blogger](https://www.blogger.com) was my blogging platform of choice for several years. Blogger was the host for my:

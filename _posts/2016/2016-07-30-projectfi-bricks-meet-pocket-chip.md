@@ -13,6 +13,7 @@ tags:
   - lego
   - projectfi
   - dock
+kind: bench
 ---
 
 In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out *Happy Holidays* kits to their users. Inside the kit were Project Fi building bricks. Many folks online inaccurately called them LEGO bricks. These bricks are definitely not manufactured by LEGO. They have “fi” on the stud and the quality is not up to LEGO manufacturing standards.

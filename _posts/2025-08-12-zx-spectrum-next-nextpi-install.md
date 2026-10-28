@@ -25,6 +25,7 @@ image:
   width: 1280
   height: 720
   alt: 'A Raspberry Pi Zero seated on the accelerator header of my ZX Spectrum Next mainboard'
+kind: bench
 ---
 
 I've had my ZX Spectrum Next (the KS2 machine I keep calling my "Issue 2") for over a year, and I never installed the Raspberry Pi Zero accelerator. With an Issue 3 upgrade board on the way, it was time. So I soldered a header onto a Pi Zero, flashed NextPi2, opened the Next, and plugged it in on camera. If you're new to the Next, start with my [ZX Spectrum Next Quick Start post](/zx-spectrum-next-quick-start) and come back here when you're ready to add the Pi.

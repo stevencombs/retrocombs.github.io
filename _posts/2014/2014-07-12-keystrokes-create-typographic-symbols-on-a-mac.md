@@ -11,6 +11,7 @@ image:
   width: 1280
   height: 721
   alt: 'Backlit keyboard of a MacBook Air'
+kind: how-to
 ---
 
 ![Backlit keyboard of a MacBook Air](/images/posts/mac-keystrokes/macbook-air-keyboard.jpg)

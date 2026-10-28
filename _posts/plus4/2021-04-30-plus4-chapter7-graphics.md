@@ -20,6 +20,7 @@ tags:
   - characters
   - petscii
   - pixels
+kind: companion
 ---
 
 In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 7, *Using Graphics and Color*, of the Commodore Plus/4 user's manual. If you are eager to create images on your Commodore Plus/4, this is the chapter for you. Chapter 7 include information to PETSCII, colors, graphics modes, and other commands to create static images an animations. It's a fun chapter and one that took quite a bit of time to prepare.

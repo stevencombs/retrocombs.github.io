@@ -13,6 +13,7 @@ tags:
   - o2 sensor
   - health
   - wyze watch review
+kind: review
 ---
 
 I think I have a smartwatch and fitness tracker problem. I've worn a WearOS watch for the past three years. It's been and up and down relationship. Battery life on WearOS devices are horrible and a daily charge is required. I've owned a pocket FitBit so supplement the times when I forgot to charge my WearOS, but it's days were numbered years ago.

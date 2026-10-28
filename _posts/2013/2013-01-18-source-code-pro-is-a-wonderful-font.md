@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 category: web
 comments: true
+kind: editorial
 ---
 
 While reviewing Markdown text editors for the iPad [during my last post][2], I had occasion to update the [Textastic](https://itunes.apple.com/us/app/textastic-code-editor-for/id383577124?mt=8&uo=4&at=10l9vL) app. Textastic was not the winner of my round-up; however, it was very close. You can [read the review][2] to find out why. Since I still find Textastic to be a capable editor, I keep it on my iPad.

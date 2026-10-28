@@ -11,6 +11,7 @@ tags:
   - unboxing
   - games
   - ti994a
+kind: livestream
 ---
 
 Followers know a new-to-me Texas Instruments (TI) TI-99/4A now adorns the shelves of my retro computing collection. It's [a long story](/first-ti994a); however, during the diatribe, I talk about the accessories I purchased. In this blog post and companion video, I share those items. There's even a special surprise from Jamie, over at [Jamie's Hack Shack](https://www.youtube.com/channel/UC-otrG2r_FluXkR8lUYWdPg). Watch the livestream video below and continue reading to learn more.

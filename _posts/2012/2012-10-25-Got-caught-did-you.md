@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
+explore: false
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-H-sPawAMu2E/UGNVUhc3d1I/AAAAAAABCPE/zRx-H2V283s/s320/We+Take+Your+Class+-+Offline.png" align="right" width="250" />Take a gander at the article below:

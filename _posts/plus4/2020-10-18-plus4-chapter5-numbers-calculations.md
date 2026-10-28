@@ -18,6 +18,7 @@ tags:
   - calculations
   - numbers
   - basic
+kind: companion
 ---
 
 In this Commodore Plus/4 retroCombs episode, I cover chapter 5 of the Commodore Plus/4 user's manual. In this chapter, _Numbers and Calculations_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher, I hope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequate.

@@ -17,6 +17,7 @@ tags:
   - bumper
   - davinci
   - audacity
+kind: art
 ---
 
 On 2020-05-23, I began a new series of YouTube videos about the Commodore Plus/4. You can learn more about the first episode and the series [here](/plus4-1). In preparation of that series, I created a video bumper; a short 14 second brand animation to introduce all retroCombs videos. In this post, I'm going to share my process. This post is not a step-by-step tutorial, but rather a description of the tools I used and the flow to put it all together. Let's take a look at the bumper first in the YouTube video below.

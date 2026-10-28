@@ -14,6 +14,7 @@ tags:
   - thec64
   - thec64mini
   - 1-5-2
+kind: how-to
 ---
 
 This blog post is a companion to the my FAST LOAD video embedded below. During the video, I upgrade my THEVIC20 to firmware version 1-5-2. This firmware update includes new features for not only [THEVIC20](https://amzn.to/3hCMY90), but also for the [THEC64 mini](https://amzn.to/38aV3P7) and [THEC64](https://amzn.to/2KO2lzJ). Watch the video to find out what's new and then read my additional thoughts below for more information.

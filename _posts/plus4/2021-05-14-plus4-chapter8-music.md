@@ -13,6 +13,7 @@ tags:
   - sound
   - music
   - effects
+kind: companion
 ---
 
 This last chapter in the user's manual takes us on a musical and noise infused journey through Commodore Basic and the Plus/4 `SOUND` and `VOL` commands. The Plus/4 was not capable of the amazing sounds that come from it's older brother and sister, the Commodore 64 or the 128. Heck, it wasn't even as capable as the earlier VIC-20; however, with a little effort and creativity, you can put the two channels to use in business applications; the primary market for the Commodore TED series.

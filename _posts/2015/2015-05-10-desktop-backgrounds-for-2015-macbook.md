@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 categories:
   - apple
 comments: true
+kind: art
 ---
 
 The new early 2015 MacBook is the best portable Mac I've ever used and I've used several (PowerBook G4, White MacBook, MacBook Pro and MacBook Air). When I reviewed the desktop backgrounds included with OS X 10.10.3 Yosemite, I did not find one that highlights the new design and colors (I have gold). I decided to create a few backgrounds and share them with other new MacBook owners. Download links are below the preview image.

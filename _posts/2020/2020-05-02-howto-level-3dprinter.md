@@ -19,6 +19,7 @@ tags:
   - plunger
   - stl
   - cura
+kind: bench
 ---
 
 Since I finally have my process working consistently, it is time to share how I level the bed on my [Creality Ender-3 (#ad)](https://amzn.to/3d6WHB2) 3D printer with [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate (#ad)](https://amzn.to/31gy9R4) upgrade. If you are curious about the glass build surface upgrade, check out [this blog post](/3dprinting/2019/06/08/creality-ender3-build-surface-upgrade.html).

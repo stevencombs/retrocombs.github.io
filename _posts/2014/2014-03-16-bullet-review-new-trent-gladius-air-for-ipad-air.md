@@ -7,6 +7,7 @@ date: 2014-03-16 12:53
 copyright: © Steven B. Combs, Ph.D. 2014
 category: apple
 comments: yes
+kind: review
 ---
 
 In a recent [post][2] I wrote about my purchase of the [New Trent Airbender 2.0 for my iPad Air][3]. Inside the case box, I noticed a small post card with the banner, BECOME A PILOT USER. New Trent Pilot Users are beta testers that agree to review products. Pilot users have to first apply and share a past review. I shared my previous post. Much to my surprise, I was selected and had a chance to choose another product to review.

@@ -11,6 +11,7 @@ image:
   width: 1280
   height: 858
   alt: 'U.S. Air Force honor guard at a Veterans Day ceremony'
+kind: editorial
 ---
 
 ![U.S. Air Force honor guard at a Veterans Day ceremony](/images/posts/thank-a-veteran/veterans-day.jpg)

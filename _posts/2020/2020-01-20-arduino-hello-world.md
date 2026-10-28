@@ -20,6 +20,7 @@ tags:
 redirect_from:
   - /arduino/2020/01/20/arduino-hello-world.html
 
+kind: bench
 ---
 
 A project that brand-new Arduino users often complete is to connect an LED to the board and create a program to turn on the LED. This is the Arduino's equivalent of the programmer's ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" I wanted the first student project, for a [course I am teaching](https://bit.ly/sbc-design-thinking), to be similar but with a "logic programming" spin that integrates more hardware and programming fundamentals.

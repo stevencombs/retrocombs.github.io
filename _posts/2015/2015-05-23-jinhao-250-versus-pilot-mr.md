@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - art
+kind: review
 ---
 
 Recently, I wrote about [my first fountain pen](/art/2015/05/03/my-first-fountain-pen-jinhao-250.html), the Jinhao 250. I shared the post in the [PenAddict Slack channel](https://penaddict.slack.com). Slack member @punkey read my review and based on my "so-so" experience recommended I try another fountain pen, the Pilot MR Metropolitan. He then offered to send one to me. Evidently, he likes the pen so much, he keeps spares.

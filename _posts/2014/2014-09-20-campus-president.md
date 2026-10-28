@@ -9,6 +9,7 @@ comments: yes
 redirect_from:
   - /higher-education/2014/09/20/campus-president.html
 
+explore: false
 ---
 
 **SHARE LINK:** [http://bit.ly/combs-president](http://bit.ly/combs-president)

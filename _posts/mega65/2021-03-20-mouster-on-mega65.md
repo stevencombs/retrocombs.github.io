@@ -11,6 +11,7 @@ tags:
   - mega65
   - mouster
   - mouse
+kind: bench
 ---
 
 In this FAST LOAD, I try to get the new mouSTer from Retrohax.net working with my MEGA65 Developer Kit. Watch the video below and then come back to this blog post to see if I was successful. Spoiler alert; at first the device did not work; however, I get this wonderful USB HID to DB9 connection device working, and it's not as hard as I imagined.

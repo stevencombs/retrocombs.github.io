@@ -12,6 +12,7 @@ image:
   width: 1280
   height: 960
   alt: 'The Miller House in Columbus, Indiana'
+kind: art
 ---
 
 ![The Miller House in Columbus, Indiana](/images/posts/exhibit-columbus/miller-house.jpg)

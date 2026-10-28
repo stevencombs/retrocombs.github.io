@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - art
+kind: art
 ---
 
 **Description:** Awhile ago, I wrote a lengthy [review of the Amazon Echo](/gadgets/2015/02/21/amazon-echo-review.html). It's been a popular post and I've worked hard to update the review as the Echo receives new features (which has been weekly of late). Recently it became evident that revisions to the review were not efficient, so I took pen to paper to develop an idea for a dedicated [Amazon Echo ultimate guide](/guide-to-echo/) page. I like the look of my note and took an image to share as a Sketchnote. The page is text heavy; however, I like the Pilot HI-TEC-C maica color combination.

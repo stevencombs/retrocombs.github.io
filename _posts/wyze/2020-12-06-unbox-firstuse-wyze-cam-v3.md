@@ -14,6 +14,7 @@ tags:
   - setup
   - first use
   - review
+kind: review
 ---
 
 It's time for another Wyze product OPEN THE BOX and FIRST USE. This time, it's the Wyze Cam version 3 or Wyze Cam V3. In this video, I open the box (unbox), make all hardware connections, pair a camera to the Wyze app, share examples of image captures, and then compare these images with Wyze Cam version 2 (Wyze Cam V3 -vs- Wyze Cam v2). Check out the video below.

@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: xanadu-bas-demo
 category: mega65
+kind: companion
 ---
 
 A couple of MEGA65 programmers, Gürçe and Deathy, reached out to ask for assistance. The two collaborated with the BAS demo group to participate in Syntax 2022 a "Demoparty" held in Melbourne Australia on November 11 and 12th. You can read more about this and past year's events at the [Syntax DemoParty](https://syntaxparty.org/) web site.

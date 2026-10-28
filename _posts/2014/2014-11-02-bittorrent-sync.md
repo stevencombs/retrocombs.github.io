@@ -11,6 +11,7 @@ tags:
  - bittorrent
  - cloud
  - sync
+kind: how-to
 ---
 
 I’ve been searching for an easy way to sync large multiple files from one Mac computer to another. I want this feature to keep a backup of my movies, music and photos on another computer and to have access to this data from multiple locations, including mobile devices. [Dropbox](http://db.tt/11cphuY) would be an obvious choice; however, for the amount of storage I need (about 200Gb), it is too costly. So I gave up on the idea and just hoped that I wouldn’t lose my photos, music and video files in between USB drive syncs. Not the way I want to roll with my data.

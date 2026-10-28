@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets
+kind: review
 ---
 
 A couple of weeks ago, my wife made an offer to purchase a [Sonos Play:3][2] for me for Father's Day. I've been eyeing and researching the streaming music device for months and I believe she knew I was intent on trying one, so why not make it a gift. Good call!

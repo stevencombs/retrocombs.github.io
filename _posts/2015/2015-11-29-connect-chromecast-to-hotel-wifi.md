@@ -15,6 +15,7 @@ image:
   width: 1280
   height: 853
   alt: 'First-generation Chromecast HDMI dongle held in a hand'
+kind: how-to
 ---
 
 ![First-generation Chromecast HDMI dongle held in a hand](/images/posts/chromecast-hotel/chromecast.jpg)

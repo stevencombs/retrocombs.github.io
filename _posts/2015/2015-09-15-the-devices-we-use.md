@@ -12,6 +12,7 @@ image:
   width: 1280
   height: 720
   alt: 'Motorola Nexus 6, the primary phone in this 2015 device list'
+kind: editorial
 ---
 
 ![Motorola Nexus 6, the primary phone in this 2015 device list](/images/posts/devices-we-use/nexus-6.jpg)

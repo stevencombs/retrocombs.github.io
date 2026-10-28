@@ -11,6 +11,7 @@ image:
   width: 1280
   height: 960
   alt: 'Home screen of a third-generation Apple TV'
+explore: false
 ---
 
 ![Home screen of a third-generation Apple TV](/images/posts/apple-tv-classroom/apple-tv-3.jpg)

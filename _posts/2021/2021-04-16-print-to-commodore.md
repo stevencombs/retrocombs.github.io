@@ -14,6 +14,7 @@ tags:
   - type-in
   - scanning
   - ocr
+kind: how-to
 ---
 
 While spending time in the MEGA65 Discord group, I found a link to *Weihnachten auf dem Commodore (WADC)*, or [Christmas on the Commodore](https://www.c64-wiki.de/wiki/Weihnachten_auf_dem_Commodore). There have been editions printed since 2018 and I ordered all three available editions. Inside pages are filled with type in BASIC programs for all manner of Commodore 8-bit computers. Below is an excerpt form the [C64 Wiki page](https://www.c64-wiki.de/wiki/Weihnachten_auf_dem_Commodore) about these annual publications.

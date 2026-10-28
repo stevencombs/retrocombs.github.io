@@ -11,6 +11,7 @@ tags:
   - mega65
   - livestream
   - christmas
+kind: livestream
 ---
 
 In this companion blog post to the edit of my Christmas Eve 2021 live stream, I celebrate the holiday and briefly lament about the MEGA65 delay; however, it becomes a great time as viewers share stories and I share previews of the recently released box art (suitable for cutting, which I do at the beginning of the video) and the onboarding SD card that will come with new MEGA65s. This edit includes new information and corrections.

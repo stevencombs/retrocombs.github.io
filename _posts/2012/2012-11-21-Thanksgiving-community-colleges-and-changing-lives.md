@@ -11,6 +11,7 @@ image:
   width: 1280
   height: 853
   alt: 'A community college campus building'
+explore: false
 ---
 
 ![A community college campus building](/images/posts/thanksgiving-community-colleges/community-college.jpg)

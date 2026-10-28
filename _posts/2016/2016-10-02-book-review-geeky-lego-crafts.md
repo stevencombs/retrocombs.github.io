@@ -12,6 +12,7 @@ image:
   width: 487
   height: 630
   alt: 'Cover of Geeky LEGO Crafts by David Scarfe'
+kind: review
 ---
 
 ![Cover of Geeky LEGO Crafts by David Scarfe](/images/posts/geeky-lego-crafts/cover.jpg)

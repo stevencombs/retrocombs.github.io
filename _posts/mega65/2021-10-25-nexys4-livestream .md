@@ -11,6 +11,7 @@ tags:
   - nexsy4
   - fpga
   - mega65
+kind: livestream
 ---
 
 Another Sunday, another livestream and instead of a [TI-99/4A](/ti994a) topic, I returned to a project that's been on the back burner for a long time; installing the MEGA65 Bitstream on a Diligent Nexys4 field programmable gate array (FPGA). A MEGA65 livestream would do double duty and make [supporter](/supporters) Mislav happy. He's asked for new MEGA65 content for a while. Here ya go Mislav; this one's for you.

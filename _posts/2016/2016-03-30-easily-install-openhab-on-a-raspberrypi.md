@@ -12,6 +12,7 @@ image:
   width: 1280
   height: 720
   alt: 'The openHAB home-automation logo'
+kind: how-to
 ---
 
 ![The openHAB home-automation logo](/images/posts/openhab-raspberry-pi/openhab-logo.jpg)

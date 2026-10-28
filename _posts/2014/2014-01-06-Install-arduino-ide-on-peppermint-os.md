@@ -11,6 +11,7 @@ redirect_from:
   - /linux/2014/01/05/Install-arduino-ide-on-peppermint-os.html
   - /linux/arduino/2014/01/06/Install-arduino-ide-on-peppermint-os.html
 
+kind: how-to
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-JWkcedZQv6k/Uss6UrZB9oI/AAAAAAABOg8/qhcYMT0zEXA/s1600/Loki+Blogs.jpg" align="right" width="250" />

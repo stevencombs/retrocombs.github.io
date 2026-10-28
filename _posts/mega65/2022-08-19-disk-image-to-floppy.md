@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: copy-mega65-disk-image-to-floppy
 category: mega65
+kind: how-to
 ---
 
 This short blog post is a supplement to a MEGA65 video I posted on 2022-08-19. The video shows how to update the Hibernated 1 The Director's Cut 3.5" Floppy upon release of a new version that enhances game play or fixes bugs. It's fine to load the .d81 disk image and play from the SD card on the MEGA65, but sometimes you need the floppy disk clicking to get that true retro computing experience on the MEGA65.
