@@ -725,7 +725,10 @@ article.post-card .post-card-body{padding-bottom:8px}
 .rc-review__price{margin:0 0 8px;padding-top:12px;border-top:2px solid var(--rv-beige);font-size:16px;line-height:1.5}
 .rc-review__price b{font-weight:700;margin-right:6px}
 .rc-review__price .amt{font-family:var(--font-mono,"JetBrains Mono",monospace);font-weight:600}
-.rc-review__summary{margin:0;font-size:15.5px;line-height:1.6}
+.rc-review__summary{margin:0;font-size:15.5px;line-height:1.6;font-family:var(--font-sans,"Inter",system-ui,sans-serif)}
+.rc-review .rc-review__label{margin:0 0 5px;font-family:var(--font-accent,"Press Start 2P",monospace);font-size:11px;line-height:1.4;letter-spacing:.05em;color:#333333;white-space:nowrap}
+.rc-review .rc-review__rewind{display:inline-block;width:auto;height:.9em;margin:0 .45em 0 0;vertical-align:-.08em;border-radius:0}
+@media (min-width:760px){.rc-review .rc-review__label{font-size:12px}}
 .rc-review p{margin-bottom:0}
 @media (max-width:760px){.rc-review{padding:20px 16px 16px}.rc-review__name{font-size:12px}}
 
