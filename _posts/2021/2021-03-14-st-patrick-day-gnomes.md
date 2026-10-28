@@ -15,7 +15,7 @@ tags:
   - holiday
   - nikki
   - aldi finds
-explore: false
+kind: review
 rating: 4
 ---
 
