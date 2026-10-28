@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: mega65-uconsole
 category: mega65
+kind: how-to
 ---
 
 In this post and companion video, I share how to install the XEMU MEGA≡65 emulator, xmega65, on the Clockwork uConsole to create an amazing on-the-go handheld MEGA≡65. We can use this hardware and emulator until the release of the official MEGA≡65 handheld, the MEGAphone.

@@ -6,6 +6,7 @@ email: 'retrocombs@icloud.com'
 date: 2014-08-30 14:00
 category: apple
 comments: yes
+kind: bench
 ---
 
 For several years I’ve searched for the perfect earbuds for my iPhone. The problem? None of them are exactly what I need. Some have good sound but lack inline controls and/or microphone. Others include inline controls and microphone, but the buds won’t stay in my ears when I run. Cheaper models that include inline controls and microphone just sound horrible.

@@ -16,6 +16,7 @@ tags:
   - lidar
   - bluetooth
   - smart
+kind: review
 ---
 
 It's time for a Wyze product OPEN THE BOX and FIRST USE. This time, it's the Wyze Robot Vacuum, the newest smart and app enabled vacuum from one of my favorite brands, Wyze. In this blog post and companion video, I open the box and use the vacuum for the very first time.

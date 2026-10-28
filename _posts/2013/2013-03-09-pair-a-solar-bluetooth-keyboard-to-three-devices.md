@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - apple
+kind: how-to
 ---
 
 I'm enamored with a keyboard. Not because this keyboard has the best feel (this honor belongs to an old IBM keyboard with mechanical keys that made a very nice "clickity-clacky" as I typed). Not because this keyboard is wireless (those are pretty common nowadays). Not even because it is the most attractive keyboard (that honor goes to an Apple keyboard).

@@ -7,6 +7,7 @@ date: 2016-04-04T00:00:00.000Z
 comments: 'yes'
 categories:
   - code
+kind: how-to
 ---
 
 This is a short post for those new to coding (Arduino, CSS, HTML, Python, Javascript, Ruby, etc). Lately, I’ve been reactivating my dormant coding skills. As I complete projects and tutorials, I often like to save my code, or snippets from the code, for future reference and recall.

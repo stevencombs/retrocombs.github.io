@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: kindle-scribe
 category: gadgets
+kind: review
 ---
 
 I've used a Kindle since the release of the first version in 2007. I enjoyed that early device and followed it with several other models over the years. My use waned because of the small screen of current models. It might be my older eyes, but I appreciate the larger iPad screens; however, iPad screens are difficult on the eyes and disturb the lovely account if I want to read in bed.

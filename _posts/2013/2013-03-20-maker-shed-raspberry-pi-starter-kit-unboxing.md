@@ -8,6 +8,7 @@ comments: 'yes'
 categories:
   - openingthebox
   - raspberrypi
+kind: review
 ---
 
 On the 14th of March 2013, which just so happened to be [Pi Day][2], I decided to take the plunge, unleash my Dave Ramsey enforced "blow money budget" and purchase a [Raspberry Pi microcontroller][3]. I didn't settle for just just the $35 model B. Oh no, that would be too easy, too inexpensive and too boring. After a bit of research, I decided to settle on the [Maker Shed Raspberry Pi Starter Kit][4].

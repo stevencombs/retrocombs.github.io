@@ -11,6 +11,7 @@ image:
   width: 1024
   height: 768
   alt: 'Raspberry Pi 2 Model B with heatsinks on the main chips'
+kind: bench
 ---
 
 Recently a group from our community made a trip to several Makerspaces in the Louisville area including: [MakerMobile](http://www.velocityindiana.org/makermobile/), [Lvl1](http://www.lvl1.org/) and [FirstBuild](https://firstbuild.com/). During our visit to FirstBuild, I  learned that they sold Arduino and Raspberry Pi development boards to visiting Makers, as well as many other supplies. On a whim, I asked our tour guide if they had the Raspberry Pi 2 Model B (Raspi 2) in stock. She wasn't sure at the time; however, at the conclusion of our tour I was thrilled when she handed me a brand new, in box, Raspi 2. I expected a bit of markup; however, she gladly said, "$35 please." Given the scarcity and online price markups, I was surprised to take one home that day at the retail cost.

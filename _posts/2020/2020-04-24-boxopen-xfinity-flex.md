@@ -17,6 +17,7 @@ tags:
 redirect_from:
   - /gadgets/2020/04/24/boxopen-xfinity-flex.html
 
+kind: first-look
 ---
 
 Two weeks ago, an email arrived from Xfinity. This isn’t unusual. I'm an Internet only customer (cord-cutter) with electronic billing. The message contained an offer for an Xfinity Flex. A what? What in the world is a Flex and how much is this going to cost me per month?

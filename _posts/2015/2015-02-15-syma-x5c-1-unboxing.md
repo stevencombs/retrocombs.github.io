@@ -6,6 +6,7 @@ email: 'retrocombs@icloud.com'
 date: 2015-02-15 18:38
 category: gadgets
 comments: yes
+kind: first-look
 ---
 
 It’s been a gadget kind of weekend. Yesterday I shared an [unboxing of a new Baofeng GT-3 radio](/ham/2015/02/14/beofeng-gt3-unboxing.html) and today I had time to unbox a new gadget that arrived last week from China – the [SYMA X5C-1 Quadcopter](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=stevenccom-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU).

@@ -19,6 +19,7 @@ tags:
   - color
   - basic
   - editing
+kind: companion
 ---
 
 In this Commodore Plus/4 retroCombs episode, I cover chapter 4 of the Commodore Plus/4 user's manual. In this chapter, _Getting Started_, I, "begin to acquaint you with some of the characteristics and capabilities of the Plus/4, and how to take the first steps toward programming with your computer." We spend more time learning how to use the keyboard, correcting mistakes, creating simple programs, and then I show you how to use windows on the Plus/4. No, not the operating system, but another unique feature of the Plus/4's BASIC.

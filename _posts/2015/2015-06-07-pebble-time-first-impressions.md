@@ -12,6 +12,7 @@ image:
   width: 1280
   height: 720
   alt: 'A Pebble Time smartwatch with a color screen'
+kind: first-look
 ---
 
 ![A Pebble Time smartwatch with a color screen](/images/posts/pebble-time/pebble-time.jpg)

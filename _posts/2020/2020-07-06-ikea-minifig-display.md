@@ -20,6 +20,7 @@ tags:
   - dc-comics
   - jsa
   - flash
+kind: bench
 ---
 
 It's been awhile since I've posted anything LEGO related. I wouldn't say that I'm in my "dark years;" however, my LEGO hobby has been put on hold for some pressing work concerns and priority with other hobbies (I have way too many); namely my new [fascination with the 1980s era Commodore Plus/4 computer](/plus4) and the use of [modern devices](/pi1541) to make that device even more enjoyable to use in 2020s.

@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 categories:
   - raspberrypi
+kind: how-to
 ---
 
 There are several tutorials available online that demonstrate how to setup a VNC connection to a [Raspberry Pi][1229-0001] from a Mac; however, most of them use *TightVNC*. This is fine if you want to control your Raspberry Pi remotely and do not have a monitor connected to the Raspberry Pi; however, I want to connect the Raspberry Pi to a monitor and then control the Raspberry Pi desktop, displayed on the monitor, from a Mac across the room.

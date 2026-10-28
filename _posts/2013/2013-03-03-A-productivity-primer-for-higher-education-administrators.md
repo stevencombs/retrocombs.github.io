@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
+explore: false
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://4.bp.blogspot.com/-cEkUuUsA4g4/UTJSV25O7nI/AAAAAAABG2U/-uETIC_O5yM/s200/Empty+Inbox.png" align="right" width="200" />We conduct cabinet meetings on our campus each Monday. Our Chancellor develops the agenda and leads these discussions between our regional academic administrators. Typically these meetings are a simple sharing of information between our team leaders. On occasion we invite college and community leaders to meet with the team to understand important initiatives.

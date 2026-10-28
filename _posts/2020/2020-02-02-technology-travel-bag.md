@@ -19,6 +19,7 @@ tags:
   - entertainment
   - roku
 comments: yes
+kind: editorial
 ---
 
 Because of my love of technology, and especially [Chrome OS devices](https://www.pixelpowerpodcast.com), I've been asked what technology I take on the road. That question was the perfect opportunity for a short blog post and picture. First, here's an image of a recent setup in a hotel room. This is the same setup up I use in coffee houses or other remote locations.

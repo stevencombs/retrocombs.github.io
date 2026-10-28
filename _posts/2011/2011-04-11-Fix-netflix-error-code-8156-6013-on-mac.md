@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: apple
+kind: how-to
 ---
 
 My new 11' MacBook Air was having problems streaming Netflix video this evening. Every time I tried to stream a video, I would receive a Netflix error code 8156-6013 followed by a "call technical support" message. It also stated that this was usually the result of migrating system settings from another Mac.

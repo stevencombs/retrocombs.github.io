@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: hibernated1
 category: mega65
+kind: companion
 ---
 
 During a 2022-08-07 live stream, I opened the first boxed software released for the MEGA65, PolyPlay's [Hibernated 1 - Director's Cut](https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1) by Stefan Vogt. To see what's included in the box, watch the companion video below. After the livestream, it became apparent I should create a companion blog post that provides background and a follow-up livestream to provide an example of game play.

@@ -7,6 +7,7 @@ date: 2014-08-25 09:24
 copyright: © Steven B. Combs, Ph.D. 2014
 category: apple
 comments: yes
+kind: first-look
 ---
 
 I finally took the plunge and upgraded my iPhone 4s to the iPhone 5s. Many of you reading this will notice that we are only a couple of weeks away from an iPhone 6 launch. So why didn’t I wait? I found an [incredible deal](http://www.virginmobileusa.com/shop/cell-phones/iphone5s-32gb-silver-phone/features/) with Virgin mobile ([learn more about my move to Virgin mobile](/apple/2014/08/25/save-money-with-virgin-mobile.html)) on a 32Gb non-contract iPhone 5s.

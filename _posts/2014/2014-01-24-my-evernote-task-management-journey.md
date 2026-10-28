@@ -11,6 +11,7 @@ comments: yes
 redirect_from:
   - /evernote/2015/01/24/my-evernote-task-management-journey.html
 
+kind: editorial
 ---
 
 An effective, and enjoyable, task management system has eluded me for years. My early higher education career was an organizational mess. I relied on my memory for tasks and found myself failing/forgetting regularly. At some point, I began to use [Post It Notes](http://en.wikipedia.org/wiki/Post-it_note). They helped; a bit. Due to some success with this method, it was my system for several years. Into the mid-90s, the personal digital assistant entered into our lives and I found myself intrigued at the possibility of integrating these devices into my workflow.

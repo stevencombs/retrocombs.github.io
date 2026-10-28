@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: web
+kind: how-to
 ---
 
 __{Update: I no longer use Blogger; however, this was a popular post, so I am reposting for those who may need this information.}__

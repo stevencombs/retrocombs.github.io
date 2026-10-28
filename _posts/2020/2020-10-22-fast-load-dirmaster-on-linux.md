@@ -20,6 +20,7 @@ tags:
   - vic-20
   - windows
   - wine
+kind: how-to
 ---
 
 There are many modern retro-computing applications available that `run` (see what I did there?) on modern computers to support our hobby. Longtime retroCombs [readers](/retro) and [watcher](https://www.youtube.com/stevencombs)know I like to take a modern spin on retro-computing and integrate new technology and apps with the old.

@@ -14,6 +14,7 @@ tags:
   - mac
   - unboxing
   - mechanical
+kind: first-look
 ---
 
 It was time to get a new Mac keyboard. I've been using the same Matias One Keyboard for iPhone and Mac for many years. Back in the day, the Matias had a few unique design features and the keyboard provided a typing experience similar to early Mac computers - think Mac II series. The keys are mushy and have a satisfying and hollow feel when pressed that reminds Mac users of the days when Apple created substantial and bold keyboards; not flat and "tappy" slates of plastic and aluminum. Another unique feature of the Matias One was the built in cradle for an iPhone that could connect to the keyboard via Bluetooth. With a push of a button, I could go from typing on a Mac to answering a text message on an iPhone.

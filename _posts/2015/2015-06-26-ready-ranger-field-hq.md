@@ -14,6 +14,7 @@ tags:
   - exploring
   - retro
   - backpack
+kind: editorial
 ---
 
 {This is an update to an original post I wrote around 8 years ago} About a week before Christmas of 2007, my son came home with homework for his Dad. My initial thought at the time, “Parents get homework?!?” Then I read the assignment; write about my favorite childhood Christmas gift. Immediately my mind conjured memories of several favorites: [G.I. Joe with Jeep](http://www.plaidstallions.com/hasbro/gijoe.html), [Six Million Dollar Man action figure](http://www.plaidstallions.com/smdm/), [Evel Knievel action figure with motorcycle](http://www.plaidstallions.com/evel/), [MEGO DC Superheroes](http://www.megomuseum.com/wgsh/dc.html) and of course, [LEGO](http://www.lego.com). However, none of these past Christmas gifts compare to my all time favorite, the Ready Ranger Mobile Field Headquarters (RRMFH) from Aurora {a later version was renamed the Ready Ranger Mobile Field Pack}.

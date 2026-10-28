@@ -6,6 +6,7 @@ email: 'retrocombs@icloud.com'
 date: 2015-05-02 18:58
 category: gadgets
 comments: yes
+kind: review
 ---
 
 This post should be titled, Monster Digital OTG Cloud: Jack of all trades, master of none. Even the name of the device reveals a product that isn't quite sure what it is. On-The-Go (OTG) Cloud? Would the average consumer get that? Before I begin with my thoughts on this device, take a look at the promotional video below for Monster's own take on this device's capabilities.

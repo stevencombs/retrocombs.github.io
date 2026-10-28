@@ -15,6 +15,7 @@ tags:
   - bash
   - terminal
   - script
+kind: how-to
 ---
 
 As a guy who uses multiple platforms (Mac OS, ChromeOS, and Elementary OS), I like to ensure that my typing muscle memory remains the same across platforms. On each of these platforms I use the following launchers:

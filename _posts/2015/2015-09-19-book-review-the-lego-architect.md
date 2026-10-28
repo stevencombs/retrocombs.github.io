@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - lego
+kind: review
 ---
 
 No Starch Press sent me a prerelease copy (release date: September 24th, 2015) of their latest LEGO related title, [The LEGO Architect][1]. I AM GLAD THEY DID! Everyone knows that I am a huge fan of Allan Bedford's [The Unofficial LEGO Builder’s Guide][2]. I enjoy his book because it does just more than show how to build a specific model or genre of models – it teaches concepts that make you a better model builder and gives you a mathematical understanding of LEGO components and their connections.

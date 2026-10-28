@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - arduino
+kind: first-look
 ---
 
 I ordered three components while "window shopping" at Amazon. A couple of the components I will use for Arduino and Raspberry Pi projects I have in mind and another I bought just to see how the thing worked.

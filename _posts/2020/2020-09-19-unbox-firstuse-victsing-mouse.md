@@ -15,6 +15,7 @@ tags:
   - review
   - peripherals
   - pointer
+kind: review
 ---
 
 My trusty 2010 Microsoft Bluetooth Notebook Mouse 5000 gave up the electronic ghost this past week. Over time, the device became less trustworthy. Is ten years the life span of an electronic rodent? Not sure, but the mouse served me well until recently when the cursor began to lag and the connection to my Mac mini would drop.

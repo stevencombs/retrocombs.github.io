@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: true
 categories:
   - arduino
+kind: how-to
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png" align="right" width="250" />In a previous post I demonstrated the [install of the Arduino IDE](/arduino/2014/01/06/Install-arduino-ide-on-peppermint-os.html) on a [Peppermint OS 4](http://peppermintos.com/guide/software/) install. Today I want to take this a bit further and show you how to create an Arduino programming environment that knocks the socks of the original Arduino IDE.

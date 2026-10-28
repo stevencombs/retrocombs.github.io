@@ -17,6 +17,7 @@ tags:
 redirect_from:
   - /gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html
 
+kind: first-look
 ---
 
 I'm a Wyze fan! Except for the [Wyze Lock (#ad)](https://amzn.to/3iPxheg), I "reckon" I have at least one of every product and not because they are sent to me to review–I purchase every Wyze product I review. Although, if you are out there Wyze...I'd consider review units as long as you know they will get an honest and objective look.

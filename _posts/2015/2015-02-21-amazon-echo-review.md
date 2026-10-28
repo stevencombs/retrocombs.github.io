@@ -11,6 +11,7 @@ image:
   width: 1280
   height: 720
   alt: 'An original Amazon Echo speaker'
+kind: review
 ---
 
 ![An original Amazon Echo speaker](/images/posts/amazon-echo-review/amazon-echo.jpg)

@@ -14,6 +14,7 @@ tags:
   - mega65
   - BASIC
   - programming
+kind: how-to
 ---
 
 In my blog post, [Converting a Commodore 128 Submarine Tracking System BASIC Program to the MEGA65](/sub-track-sys), I show what the title suggests, converting a Commodore 128 BASIC V7 program, the *Submarine Tracking System*, found on page 116 of the C128 Programmer's Reference Guide to MEGA65 BASIC which began it's life on the unreleased Commodore 65 with BASIC 10. This blog post and companion video is a follow-up to that project. I have a bunch of information to share. Let's get to it.

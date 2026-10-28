@@ -7,6 +7,7 @@ date: 2014-11-29 17:25
 copyright: © Steven B. Combs, Ph.D. 2014
 categories: gadgets holiday
 comments: yes
+kind: editorial
 ---
 
 To assist others with some holiday shopping, today I present my recommended 2014 holiday gadget buys under $200. Any of these gadgets are sure to make the gadget fan in your life happy. While $200 is the max on my list, you will also find some downright great bargains that offer a lot for their gadget buck. Every gadget below is one I own and use. I present them in alphabetical order.

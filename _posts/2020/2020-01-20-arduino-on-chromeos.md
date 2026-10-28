@@ -16,6 +16,7 @@ tags:
   - debian
   - vm
   - chromeos
+kind: how-to
 ---
 
 After my [previous Arduino IDE post](/arduino/2019/12/31/install-arduino-ubuntu.html), I wondered if I could now install the latest version of the Arduino IDE on Chrome OS using the Crostini Linux VM. In the past, you could use the `apt` package manager to install the Arduino IDE but the version was woefully outdated.

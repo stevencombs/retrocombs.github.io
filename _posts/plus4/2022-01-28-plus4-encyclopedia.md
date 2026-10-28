@@ -11,6 +11,7 @@ tags:
   - commodore
   - basic
   - assembler
+kind: companion
 ---
 
 With the last regular Commodore Plus/4 User's Guide chapters complete, we now focus on the last half of the manual. You read that correctly. Chapters 1 through 8 take the first 100 pages, and the Plus/4 Encyclopedia occupies another 183 pages of the user's manual.

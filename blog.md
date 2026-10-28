@@ -5,6 +5,8 @@ permalink: blog
 ads: false
 ---
 
+<p class="explore-jump"><a href="{{ "/explore" | relative_url }}">Explore all posts</a></p>
+
 <img class="category" src="/images/design/blog.svg" width="20%" />
 
 This page lists every site post. It can be a bit unwieldy to search through this list and I recommend that you use this page to simply review the most recent blog posts or browse and look for interesting titles. If you use a Mac, consider typing ⌘ + `F` to bring up the *Find* dialog box and search for a specific word or title.

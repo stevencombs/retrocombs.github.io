@@ -6,6 +6,7 @@ email: 'retrocombs@icloud.com'
 date: 2015-05-03 19:40
 category: art
 comments: true
+kind: review
 ---
 
 I listen to [The Pen Addict podcast](http://www.relay.fm/penaddict). This is a dangerous thing. Listening causes me to use my precious gadget budget to feed a new addiction, pens and paper. During [The Pen Addict podcast](http://www.relay.fm/penaddict), the hosts, Myke and Brad, regularly extoll the [fountain pen](https://en.wikipedia.org/w/index.php?title=Special:Search&search=fountain+pens&profile=default) writing and ownership experience. I decided to see what all the fuss was about and begin [shopping Amazon for a good starter fountain pen](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=fountain%20pens&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=OWDJZADZLFQU5TXZ).

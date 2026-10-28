@@ -18,6 +18,7 @@ tags:
   - keys
   - characters
   - 1980s
+kind: companion
 ---
 
 In this Commodore Plus/4 retroCombs episode, I cover chapter 2 in the user's manual entitled, _Using the Keyboard and the Screen_. This chapter is chock full of keyboard instructions to help the user move around the screen, change text highlighting, modify lines of code, and create special characters.

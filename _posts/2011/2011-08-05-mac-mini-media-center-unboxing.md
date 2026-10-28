@@ -6,6 +6,7 @@ email: 'retrocombs@icloud.com'
 date: 2011-08-05
 category: apple
 comments: yes
+kind: first-look
 ---
 
 Last night I unpacked the [Mac Mini I purchased from Amazon][1] and connected it to our [Sony Bravia 55" HDTV][2]. After hitting the link below, you'll find images from that unpacking (in all their exciting glory) along with some notes that might be useful for folks with a limited technical background who are also converting a Mac Mini into a Mac Mini Media Center (MMMC).

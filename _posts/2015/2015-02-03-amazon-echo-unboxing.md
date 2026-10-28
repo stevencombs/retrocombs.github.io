@@ -11,6 +11,7 @@ image:
   width: 1024
   height: 768
   alt: 'Unmarked black box the Amazon Echo arrived in'
+kind: first-look
 ---
 
 Today a package arrived via UPS. When I opened the UPS box, the unmarked black box found in the image below was inside. I was expecting the Amazon Echo I ordered about a month ago, but found it interesting that there were no markings whatsoever on the outside slip cover.

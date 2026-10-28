@@ -13,7 +13,7 @@
 {%- if cards and cards.size > 0 -%}
 {%- assign cards_left = cards.size | minus: page_size -%}
 {%- assign static_index = site.static_files | map: "path" | join: "||" | prepend: "||" | append: "||" -%}
-<div class="post-cards-block"{% if page_size > 0 and cards_left > 0 %} data-post-cards{% endif %}>
+<div class="post-cards-block"{% if page_size > 0 and cards_left > 0 and include.with_meta != true %} data-post-cards{% endif %}>
   <div class="post-cards">
     {%- for post in cards -%}
       {%- assign hide = false -%}
@@ -86,7 +86,36 @@
           {%- endif -%}
         {%- endif -%}
       {%- endif -%}
-      <a class="post-card" href="{{ post.url | relative_url }}"{% if hide %} hidden{% endif %}>
+      {%- assign card_band = "" -%}
+      {%- assign card_band_name = "" -%}
+      {%- assign card_kind_label = "" -%}
+      {%- assign topic_slugs = "" -%}
+      {%- if include.with_meta -%}
+        {%- if post.rating -%}
+          {%- include rating-band.html score=post.rating -%}
+          {%- assign card_band = rc_level -%}
+          {%- assign card_band_name = rc_name -%}
+        {%- endif -%}
+        {%- for group in site.data.topics.groups -%}
+          {%- for topic in group.items -%}
+            {%- assign topic_hit = false -%}
+            {%- for cat in topic.categories -%}
+              {%- if post.categories contains cat -%}{%- assign topic_hit = true -%}{%- endif -%}
+            {%- endfor -%}
+            {%- if topic_hit -%}
+              {%- assign topic_slug = topic.url | replace: ".html", "" | split: "/" | last -%}
+              {%- assign topic_slugs = topic_slugs | append: topic_slug | append: " " -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endfor -%}
+        {%- if post.kind -%}
+          {%- assign card_kind_label = post.kind -%}
+          {%- for kind in site.data.explore.kinds -%}
+            {%- if kind.id == post.kind -%}{%- assign card_kind_label = kind.label -%}{%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+      {%- endif %}
+      <a class="post-card" href="{{ post.url | relative_url }}"{% if hide %} hidden{% endif %}{% if include.with_meta %} data-kind="{{ post.kind | escape }}" data-channel="{{ post.channel | escape }}" data-rating="{% if post.rating %}{{ post.rating }}{% endif %}" data-band="{{ card_band }}" data-topics="{{ topic_slugs | strip | escape }}" data-date="{{ post.date | date: '%s' }}" data-title="{{ post.title | escape }}"{% endif %}>
         <span class="post-card-media{% if thumb == "" %} post-card-fallback{% endif %}">
           {%- if thumb != "" -%}
             <img src="{{ thumb_url | escape }}" alt="" width="640" height="360" loading="lazy" onerror="cardThumbError(this)" onload="cardThumbLoad(this)">
@@ -101,14 +130,20 @@
         </span>
         <span class="post-card-body">
           <time class="post-card-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          {%- if include.with_meta and card_kind_label != "" -%}
+            <span class="post-card-kind">{{ card_kind_label | escape }}</span>
+          {%- endif -%}
           <span class="post-card-title">{{ post.title | escape }}</span>
+          {%- if include.with_meta and card_band_name != "" -%}
+            <span class="post-card-score">{{ post.rating }} / 5 · {{ card_band_name }}</span>
+          {%- endif -%}
         </span>
       </a>
     {%- endfor -%}
   </div>
   {%- if page_size > 0 and cards_left > 0 -%}
     <button type="button" class="post-cards-more" data-step="{{ page_size }}">Load more <span class="post-cards-left">{{ cards_left }} left</span></button>
-    <noscript><p class="post-cards-note">Showing the latest {{ page_size }} posts. Turn on JavaScript to load the rest, or browse by topic.</p></noscript>
+    <noscript><p class="post-cards-note">{%- if include.with_meta -%}Every post is in this list. Turn on JavaScript to filter, sort, and load the rest, or use <a href="{{ "/search" | relative_url }}">search</a>.{%- else -%}Showing the latest {{ page_size }} posts. Turn on JavaScript to load the rest, or browse by topic.{%- endif -%}</p></noscript>
   {%- endif -%}
 </div>
 {%- else -%}

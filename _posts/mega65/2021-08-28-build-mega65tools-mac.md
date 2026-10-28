@@ -11,6 +11,7 @@ tags:
   - mega65
   - command-line
   - terminal
+kind: how-to
 ---
 
 Before I begin, I want to send out a huge thank you to [Gurce Isikyildiz](https://github.com/gurcei) for his assistance with these instructions. My first attempts to build these tools were unsuccessful. [I posted a comment](https://discord.com/channels/719326990221574164/805492126128930846/879839127154085959) on the MEGA65 Discord channel about my struggles. [Gurce responded](https://discord.com/channels/719326990221574164/805492126128930846/879853630746935327); however, after several Discord interactions, it became apparent, I needed help (on many levels but in this case; help with *Terminal* commands). The `mega65-tools` are meant to build on an Intel Mac, but not on a newer M1 Mac.

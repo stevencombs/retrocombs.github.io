@@ -20,6 +20,7 @@ tags:
   - raspberrypi
   - raspberrypizero
   - gpicase
+kind: how-to
 ---
 
 This blog post is a companion page to two YouTube videos and provides all the links and additional information necessary for you to install [Super RetroPie](https://mega.nz/folder/Ai5inYJa#mR2BXoPX9jnVCn42jqRjIQ) on a microSD card that will power a [RetroFlag GPi Case](https://amzn.to/2WAKn5q) for on the go retro gaming.

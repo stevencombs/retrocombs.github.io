@@ -11,6 +11,7 @@ image:
   width: 912
   height: 712
   alt: 'Postach.io site created from an Evernote notebook'
+kind: how-to
 ---
 
 While browsing the web this morning, I read about a site that will turn your [Evernote][1] notes from a specific notebook to a blog. As a huge Evernote user, I just had to give this a shot to see how well it works. The tool you ask?

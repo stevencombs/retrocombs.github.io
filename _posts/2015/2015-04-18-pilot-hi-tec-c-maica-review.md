@@ -6,6 +6,7 @@ email: 'retrocombs@icloud.com'
 date: 2015-04-18 14:09
 category: art
 comments: yes
+kind: review
 ---
 
 My go to daily pen is the Pilot Precise V5 RT. This inexpensive pen is the perfect daily use pen for the type of writing I do. Luckily, these pens are on our college’s purchase list and I am able to [order these by the box](http://www.amazon.com/gp/product/B001E6A9M8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E6A9M8&linkCode=as2&tag=stevenccom-20&linkId=W7XFBU6YQH4L3MY2) and keep them in my desk, jacket, car and traveler's bag. I like the pen so much, I decided to see what else Pilot has to offer.

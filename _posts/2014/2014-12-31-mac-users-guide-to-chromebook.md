@@ -6,6 +6,7 @@ email: 'retrocombs@icloud.com'
 date: 2014-12-31
 category: chromeos
 comments: yes
+kind: first-look
 ---
 
 I like technology and gadgets. I can't help myself. Budget permitting, I try them all and one of the products I didn’t own was a Chromebook. I am unsure why the Google laptop fascinates me. Is it the simplicity? Is it the synchronization with the Chrome browser on my Mac? Is it the Linux underpinnings? I'm really not sure, but I wanted one!

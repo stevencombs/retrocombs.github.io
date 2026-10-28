@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="page-hero">
+<section class="page-hero{% if page.explore_page %} page-hero-explore{% endif %}">
   <div class="wrap">
     <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ "/" | relative_url }}">Home</a><span aria-hidden="true">›</span>{{ page.title }}</nav>
     <h1>{{ page.title }}</h1>

@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
+explore: false
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://1.bp.blogspot.com/-ijvM6gdoAEQ/UBLcgazaLFI/AAAAAAAA_TQ/LDWANWYI-Xk/s200/Professional+Development+Graphic.001.png" align="right" />Within the past year, our statewide community college system has hired five of fourteen new regional academic officers (RAOs) and we have another on the way in September. Given this large number of new RAOs, it was decided by the Provost’s office that they would conduct a _new RAO training session_. This session would occur at our Central Office location and be coordinated/planned by our Provost’s office.

@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
+explore: false
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-X1gYurcLgJc/UeLnhOCKIMI/AAAAAAABKX0/5ZP9sLTNbQQ/s200/Dean+-vs-+RAO.png" align="right" width="200" />This month marks my first year as the chief academic officer, Vice Chancellor of Academic Affairs (VCAA), for the Columbus/Franklin region of Ivy Tech Community College. During this first year, I have learned much about my new role, the college and the community.

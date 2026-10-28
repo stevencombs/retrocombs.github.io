@@ -12,6 +12,7 @@ tags:
   - color
   - ink
 comments: yes
+kind: review
 ---
 
 For several months now, I have been on a search for color pens to add a splash of color to my sketchnotes. What I thought would be a simple task, proved to be more difficult than expected. There are hundreds of brands/varieties of colorful markers and pens; however, I had specific requirements:

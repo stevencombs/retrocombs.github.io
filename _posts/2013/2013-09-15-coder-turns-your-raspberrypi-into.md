@@ -12,6 +12,7 @@ tags:
   - coder
   - coding
   - development
+kind: how-to
 ---
 
 My weekend project was to install [Coder][1] on a RaspberryPi. Coder is a Google hosted project that is a:

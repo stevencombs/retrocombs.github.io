@@ -20,6 +20,7 @@ tags:
 redirect_from:
   - /gadgets/2020/04/21/firstuse-cloner-box-pro.html
 
+kind: review
 ---
 
 In a [previous blog post](/cloner-alliance-box-pro), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.

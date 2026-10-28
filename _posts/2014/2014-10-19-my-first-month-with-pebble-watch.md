@@ -14,6 +14,7 @@ image:
   width: 1280
   height: 720
   alt: 'Three original Pebble e-paper watches in red, black, and white'
+kind: review
 ---
 
 ![Three original Pebble e-paper watches in red, black, and white](/images/posts/pebble-watch/pebble-watches.jpg)

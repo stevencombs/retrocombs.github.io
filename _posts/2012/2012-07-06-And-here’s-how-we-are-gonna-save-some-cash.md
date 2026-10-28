@@ -11,6 +11,7 @@ image:
   width: 1280
   height: 720
   alt: 'A black Hewlett-Packard laser toner cartridge'
+explore: false
 ---
 
 ![A black Hewlett-Packard laser toner cartridge](/images/posts/save-some-cash/toner-cartridge.jpg)

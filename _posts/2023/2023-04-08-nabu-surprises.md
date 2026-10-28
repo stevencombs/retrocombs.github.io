@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: nabu-surprises
 category: nabu
+kind: review
 ---
 
 I’ve temporarily shifted my MEGA65 obsession to the newest retro-computing fad on the YouTubes, the NABU Personal Computer. I've shared my [unboxing](https://youtube.com/live/NK2tEIEFpYo?feature=share), [first use](https://youtube.com/live/54Ij7_qIBmw?feature=share), and [a cable build](https://youtu.be/7YMMC7tcRdQ). My experience with the device has been interesting and in this post, I want to share ten things about the NABU that surprises this Commodore computer fan. Let's dig in.

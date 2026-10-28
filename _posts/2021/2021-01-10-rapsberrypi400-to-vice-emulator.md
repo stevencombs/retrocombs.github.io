@@ -15,6 +15,7 @@ tags:
   - raspberry pi
   - vice
   - combian 64
+kind: how-to
 ---
 
 There's a lot of excitement around the Raspberry Pi 400. I mean look at this thing (see image below). It's a self contained Raspberry Pi with a keyboard and a form factor reminiscent of the original 1980s 8-bit computers; albeit, much thinner and lighter. Since I first learned about the 400, I had one project in mind and I'm happy to finally reveal that project in this post and the companion YouTube video.

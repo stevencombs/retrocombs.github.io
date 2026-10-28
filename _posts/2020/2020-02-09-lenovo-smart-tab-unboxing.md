@@ -15,6 +15,7 @@ tags:
   - unboxing
   - google
   - assistant
+kind: first-look
 ---
 
 It's time. Time to leave the iOS tablet ecosystem. I've used an iPad for the entire 10 years of the device's life and have moved from an original iPad to a 9.7 inch iPad Pro. I've not used an iOS phone for over five years and want a tablet that uses either Android or Chrome OS to make the usage of phone and tablet consistent.

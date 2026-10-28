@@ -3,6 +3,8 @@
 
   score: 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, or 5.
          A half score highlights the whole number below. 0.5 highlights GAME OVER.
+         When score is omitted, rating is used, then page.rating.
+         The band name comes from _includes/rating-band.html.
   price: amount only, plain text, no link. Example: $278.50
   where: store and date, plain text, no link. Example: at ClonerAlliance (as of Oct 28, 2026)
   summary: one or two sentences.
@@ -18,23 +20,15 @@
   Pointer icon is provisional (the logo joystick). Change rc_ptr and rc_ptr2
   here to swap it. Rating strips live in /images/ratings/.
 {%- endcomment -%}
-{%- assign rc_score = include.score | strip -%}
-{%- assign rc_file = rc_score | replace: ".", "_" -%}
-{%- assign rc_parts = rc_score | split: "." -%}
-{%- assign rc_whole = rc_parts[0] | plus: 0 -%}
-{%- assign rc_frac = rc_parts[1] | default: "" -%}
-{%- if rc_frac == "5" -%}
-  {%- assign rc_level = rc_whole -%}
-  {%- if rc_level < 1 -%}{%- assign rc_level = 1 -%}{%- endif -%}
+{%- if include.score != empty -%}
+  {%- assign rc_score = include.score | strip -%}
+{%- elsif include.rating != empty -%}
+  {%- assign rc_score = include.rating | append: "" | strip -%}
 {%- else -%}
-  {%- assign rc_level = rc_whole -%}
+  {%- assign rc_score = page.rating | append: "" | strip -%}
 {%- endif -%}
-{%- if rc_level == 1 -%}{%- assign rc_name = "GAME OVER" -%}
-{%- elsif rc_level == 2 -%}{%- assign rc_name = "CONTINUE?" -%}
-{%- elsif rc_level == 3 -%}{%- assign rc_name = "PRESS START" -%}
-{%- elsif rc_level == 4 -%}{%- assign rc_name = "EXTRA LIFE" -%}
-{%- else -%}{%- assign rc_name = "HIGH SCORE" -%}
-{%- endif -%}
+{%- include rating-band.html score=rc_score -%}
+{%- assign rc_file = rc_score | replace: ".", "_" -%}
 {%- assign rc_dir = "/images/ratings" -%}
 {%- assign rc_ptr = "/images/ratings/joystick-full-40.png" -%}
 {%- assign rc_ptr2 = "/images/ratings/joystick-full-40@2x.png" -%}

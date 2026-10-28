@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: web
+kind: how-to
 ---
 
 In an [earlier post][1], I discussed my move from [Blogger](https://www.blogger.com) to a [Jekyll blog](http://jekyllrb.com/) hosted on [GitHub](https://github.com/). While I could create a new blog post, the inability to submit a post to my blog from an iPad was a negative of the migration. I noted this was not possible because there is currently no way to manage a GitHub repository on an iOS device.

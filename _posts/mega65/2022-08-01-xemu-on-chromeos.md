@@ -19,6 +19,7 @@ image:
   width: 1280
   height: 720
   alt: 'Title card for the video on installing the MEGA65 Xemu emulator on a Chromebook'
+kind: how-to
 ---
 
 In the post [Run a MEGA65 on your Mac using Xemu](/xemu-on-mac), I show how to install the XEMU emulator for the MEGA65, _xmega65_, on a Mac. It's time to stretch my operating system’s legs and install it on another popular system. No, I'm not installing on Windows but on an operating system that may surprise many; ChromeOS!

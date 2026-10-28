@@ -1,0 +1,44 @@
+# Explore kinds. ids are the post front matter values. Labels are the chips.
+kinds:
+  - id: review
+    label: Review
+    plural: Reviews
+  - id: first-look
+    label: First Look
+    plural: First Looks
+  - id: how-to
+    label: How-To
+    plural: How-Tos
+  - id: companion
+    label: Companion
+    plural: Companions
+  - id: bench
+    label: Bench
+    plural: Bench
+  - id: editorial
+    label: Editorial
+    plural: Editorials
+  - id: livestream
+    label: Livestream
+    plural: Livestreams
+  - id: art
+    label: Art
+    plural: Art
+channels:
+  - id: ""
+    label: All
+  - id: retrocombs
+    label: retroCombs
+  - id: tech
+    label: retroCombs Tech
+sorts:
+  - id: newest
+    label: Newest
+  - id: oldest
+    label: Oldest
+  - id: score
+    label: Highest score
+  - id: low
+    label: Lowest score
+  - id: az
+    label: A–Z

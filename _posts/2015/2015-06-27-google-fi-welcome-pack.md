@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - android
+kind: first-look
 ---
 
 Recently I received an invitation to join Google's [Project Fi](http://fi.google.com) program. I'll write more about Google's mobile phone service at a later date. This post shares the surprise I received – the Project Fi welcome kit. Images of the welcome kit are below. Under each image are comments.

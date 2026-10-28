@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: mega65-core-testing-livestream
 category: mega65
+kind: bench
 ---
 
 This page is the companion blog post to the live stream conducted on 2022-01-02. During that live stream, I install the latest .COR file on the MEGA65, look at the new and much speedier core (`.COR`) flasher, install the latest SD card files, download the latest .ROM, and review several sections of the onboarding SD card that will ship with the MEGA65.

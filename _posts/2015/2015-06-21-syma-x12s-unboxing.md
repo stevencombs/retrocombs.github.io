@@ -8,6 +8,7 @@ categories:
   - gadgets
 comments: yes
 
+kind: first-look
 ---
 
 Today I received a great Father's Day gift for a gadget lover like me. The gift has taunted me for about a week. My wife placed a box wrapped in blue wrapping paper on my desk last week with a warning note attached that said: *"Do not open until Father's Day!"* This morning, the box moved from my desk to the kitchen table and was presented with a fresh stack of hot pancakes and hot coffee. I do have a wonderful wife!

@@ -16,6 +16,7 @@ image:
   width: 1280
   height: 720
   alt: 'Google Pixel XL smartphone showing the Google Assistant'
+kind: editorial
 ---
 
 ![Google Pixel XL smartphone showing the Google Assistant](/images/posts/favorite-gadgets-2016/pixel-xl.jpg)

@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: tao-1tiny
 category: gadgets
+kind: review
 ---
 
 During the COVID pandemic of 2020, online meetings took over my life and, in a search to find a good meeting presence, I accumulated an insane number of USB webcams. Cameras quickly became scarce, and I tried everything from available $25 fixed focus cameras to an eventual and brilliant $130 4K [Logitech Brio](https://amzn.to/3dLvfP1).

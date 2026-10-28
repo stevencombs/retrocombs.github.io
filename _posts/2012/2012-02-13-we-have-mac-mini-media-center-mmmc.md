@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: apple
+kind: review
 ---
 
 I've been asked by a few, "What media center software do you use?" I've been quite coy with my answer because up and until now, I've not been able to determine a clear and definite winner.

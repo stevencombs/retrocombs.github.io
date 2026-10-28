@@ -6,6 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
+explore: false
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-K-STTmTy85A/UeQtr9EnbnI/AAAAAAABKZk/mm-cxRSUl7s/s200/Mistakes+You+Cannot+Correct.png" align="right" width="200" />Yesterday I began a series of lessons learned from my first year as a Vice Chancellor for Academic Affairs (VCAA). Today I share lesson number two – mistakes.I’ll admit that our college does not have a robust training program for new VCAAs. My training program was a two day orientation with four other “newer” regional VCAAs. The sessions was beneficial, but as our moderator explained, that training would not prepare us for our new roles. We would make mistakes. He was correct, but that session did prove valuable. It gave me a cohort to share ideas.

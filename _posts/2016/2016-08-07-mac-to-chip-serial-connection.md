@@ -14,6 +14,7 @@ tags:
   - otg
   - serial
   - transfer
+kind: how-to
 ---
 
 A key feature of the C.H.I.P. is the 4Gb onboard flash memory. Unlike a Raspberry Pi, the C.H.I.P. does not require a microSD card (making the cost to operate a C.H.I.P. even less than a Raspberry Pi). You simply connect the C.H.I.P. to your computer and "flash" the C.H.I.P. operating system. Once flashed, you don't even need a monitor or keyboard to begin using thanks to Next Thing Co's foresight to include a [USB On-The-Go (OTG) connection][1].

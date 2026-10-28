@@ -7,6 +7,7 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: master-mega65-keyboard-addendum
 category: mega65
+kind: how-to
 ---
 
 My [Master the MEGA65 Keyboard](/master-mega65-keyboard) created a lot of conversation. I knew during the creation of that content that I was going to miss, or mis-explain, concepts and I was ready for the comments and suggestions to roll in. The MEGA65 community didn't let me down and in this blog post and companion video, I've captured the best additions to further our knowledge of the MEGA65 and continue to build a mastery of the keyboard.

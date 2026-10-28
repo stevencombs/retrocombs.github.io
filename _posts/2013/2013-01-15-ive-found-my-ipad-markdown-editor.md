@@ -5,6 +5,7 @@ date: '2013-01-15'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 category: apple
+kind: review
 ---
 
 For quite some time now, I've been trying to establish an iPad mini academic writing and blogging workflow. I have a workflow on the Mac that works well; however, I need to duplicate that one as closely as possible on the iPad mini. Doing so will provide anywhere access to my content and writing tools.

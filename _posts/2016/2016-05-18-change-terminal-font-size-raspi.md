@@ -13,6 +13,7 @@ tags:
   - terminal
   - font
   - raspian
+kind: how-to
 ---
 
 If you connect a Raspberry Pi to an HDMI monitor, you may find the terminal font size to be a bit small; especially if the monitor sits a foot or more away. This post demonstrates how to choose a different font size.

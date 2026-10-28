@@ -11,6 +11,7 @@ tags:
  - code
  - markdown
  - jekyll
+explore: false
 ---
 
 I make numerous changes to the CSS on this blog to refine the conversion of my markdown posts to HTML. I use this post to view the effects made to the final rendering of the markdown files. This post includes the important HTML tags that are affected when Jekyll renders static pages.

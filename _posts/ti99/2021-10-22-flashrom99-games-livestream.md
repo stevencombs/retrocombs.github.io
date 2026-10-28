@@ -11,6 +11,7 @@ tags:
   - ti994a
   - flashrom99
   - retro computing
+kind: livestream
 ---
 
 After receiving and then creating a [video/blog post](/flashrom99) about the FlashROM99 from [The Brewing Academy](https://thebrewingacademy.com), I went online to show how to play games from the device and experience, for the first time, these Texas Instruments TI-99/4A versions of popular 1980s video games.
