@@ -800,6 +800,24 @@ article.post-card .post-card-body{padding-bottom:8px}
 @media (max-width:760px){.rc-review-foot{flex-direction:column;align-items:flex-start}}
 .rc-review--example::after{content:"EXAMPLE";position:absolute;right:12px;bottom:10px;font:10px/1 var(--font-accent,"Press Start 2P",monospace);color:var(--rc-cream,#F5ECDD);background:var(--rc-red,#B51E18);padding:5px 7px;border-radius:4px}
 
+/* Guest rater line for scored REWIND boxes. Optional "Rated by <name>" under the
+   joystick strip and above the Price line. No rater set = no line (Steven's rating).
+   Palette A + Inter / Press Start 2P only. */
+.rc-review .rc-review__rater{display:flex;flex-wrap:wrap;align-items:center;gap:2px .4em;margin:-4px 0 14px;padding:3px 0 3px 10px;
+  border-left:4px solid var(--rv-red);font-family:var(--font-sans,"Inter",system-ui,sans-serif);font-size:14px;line-height:1.45;font-weight:500;color:var(--rv-slate)}
+.rc-review .rc-review__rater-by{white-space:nowrap}
+.rc-review .rc-review__rater-full{font-weight:700;color:var(--rv-ink)}
+/* Short chip (e.g. TLA): hidden by default; only used under 760px when the box has rc-review__rater--short */
+.rc-review .rc-review__rater-chip{display:none;padding:5px 8px 5px 10px;border-radius:6px;background:var(--rv-ink);box-shadow:inset 3px 0 0 var(--rv-red);
+  font-family:var(--font-accent,"Press Start 2P",monospace);font-size:10px;line-height:1.3;letter-spacing:.05em;color:var(--rv-cream);white-space:nowrap;cursor:help}
+@media (max-width:760px){
+  .rc-review .rc-review__rater{font-size:13.5px}
+  .rc-review .rc-review__rater--short .rc-review__rater-full{display:none}
+  .rc-review .rc-review__rater--short .rc-review__rater-chip{display:inline-block}
+}
+/* Never on unscored variants (FIRST LOOK, BENCH, COMPARED, TAKE) */
+.rc-review.rc-review--unscored .rc-review__rater{display:none!important}
+
 /* Explore sits in the bar without wrapping MEGA65 Guide or the tagline. */
 header.site .brand{flex:0 0 auto}
 header.site nav{gap:12px;font-size:14.5px}

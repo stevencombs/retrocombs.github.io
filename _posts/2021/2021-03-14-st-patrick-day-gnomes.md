@@ -16,9 +16,12 @@ tags:
   - nikki
   - aldi finds
 explore: false
+rating: 4
 ---
 
 In an impromptu video, I hold a mic in front of Nikki and ask her questions about her latest Amazon purchase, the St. Patrick's Day Gnome Ornament Faceless Doll Decorations Green Clover Gnome Doll Ornaments Irish, Swedish Leprechaun for St. Patrick's Day Party Christmas Elf Scandinavian Decoration (8 Pieces). WHEW! That's a mouthful. What does she think? Watch the video below and then read the this post for additional gnome and behind-the-scenes thoughts.
+
+{% include review-box.html score="4" price="$12" where="for 8 at Amazon (as of Mar 14, 2021)" summary="The Lovely Accountant missed the Aldi Finds Irish Gnomes, but found these Amazon replacements. They hang nicely, and the nose is an easy fix." channel="tech" product="St. Patrick's Day Gnome Ornament Faceless Doll Decorations (8 Pieces)" rater="The Lovely Accountant" rater_mobile="full" %}
 
 ## YouTube Video: _Nikki missed the Aldi Finds Irish Gnomes, but found these Amazon replacements_
 
