@@ -1,0 +1,65 @@
+{%- comment -%}
+  retroCombs review box. Default layout is the horizontal row.
+
+  score: 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, or 5.
+         A half score highlights the whole number below. 0.5 highlights GAME OVER.
+  price: amount only, plain text, no link. Example: $278.50
+  where: store and date, plain text, no link. Example: at ClonerAlliance (as of Oct 28, 2026)
+  summary: one or two sentences.
+  note: optional sentence under the box.
+  product: optional product name. When set, a Product/Review JSON-LD
+           block is added (author Steven B. Combs, ratingValue from score, bestRating 5).
+  channel: optional. "tech" or "retrocombs". Draws the header-row badge
+           via review-channel.html (variant row, the default).
+
+  Price-line format is provisional. This is the only markup for it:
+  <b>Price:</b><span class="amt">price</span><span class="where">where</span>
+
+  Pointer icon is provisional (the logo joystick). Change rc_ptr and rc_ptr2
+  here to swap it. Rating strips live in /images/ratings/.
+{%- endcomment -%}
+{%- assign rc_score = include.score | strip -%}
+{%- assign rc_file = rc_score | replace: ".", "_" -%}
+{%- assign rc_parts = rc_score | split: "." -%}
+{%- assign rc_whole = rc_parts[0] | plus: 0 -%}
+{%- assign rc_frac = rc_parts[1] | default: "" -%}
+{%- if rc_frac == "5" -%}
+  {%- assign rc_level = rc_whole -%}
+  {%- if rc_level < 1 -%}{%- assign rc_level = 1 -%}{%- endif -%}
+{%- else -%}
+  {%- assign rc_level = rc_whole -%}
+{%- endif -%}
+{%- if rc_level == 1 -%}{%- assign rc_name = "GAME OVER" -%}
+{%- elsif rc_level == 2 -%}{%- assign rc_name = "CONTINUE?" -%}
+{%- elsif rc_level == 3 -%}{%- assign rc_name = "PRESS START" -%}
+{%- elsif rc_level == 4 -%}{%- assign rc_name = "EXTRA LIFE" -%}
+{%- else -%}{%- assign rc_name = "HIGH SCORE" -%}
+{%- endif -%}
+{%- assign rc_dir = "/images/ratings" -%}
+{%- assign rc_ptr = "/images/ratings/joystick-full-40.png" -%}
+{%- assign rc_ptr2 = "/images/ratings/joystick-full-40@2x.png" -%}
+<aside class="rc-review"{% if include.channel != empty %} data-channel="{{ include.channel }}"{% endif %} aria-label="Review rating">
+{%- if include.channel != empty %}{% include review-channel.html channel=include.channel %}{% endif -%}
+  <div class="rc-review__top">
+    <div class="rc-review__scoreblock">
+      <img class="rc-review__stars" src="{{ rc_dir }}/rating-{{ rc_file }}.png" srcset="{{ rc_dir }}/rating-{{ rc_file }}.png 1x, {{ rc_dir }}/rating-{{ rc_file }}@2x.png 2x" width="211" height="40" alt="Rating: {{ rc_score }} out of 5 joysticks, {{ rc_name }}">
+      <span class="rc-review__score" aria-hidden="true">{{ rc_score }} / 5</span>
+    </div>
+    <ol class="rc-ladder" aria-label="Rating levels">
+      <li{%- if rc_level == 5 %} class="is-current" aria-current="true"{%- endif -%}>{%- if rc_level == 5 -%}<img class="ptr" src="{{ rc_ptr }}" srcset="{{ rc_ptr }} 1x, {{ rc_ptr2 }} 2x" width="26" height="26" alt="">{%- endif -%}<span class="lv">5</span>HIGH SCORE{%- if rc_level == 5 -%}<span class="rc-sr"> (current rating: {{ rc_score }} out of 5)</span>{%- endif -%}</li>
+      <li{%- if rc_level == 4 %} class="is-current" aria-current="true"{%- endif -%}>{%- if rc_level == 4 -%}<img class="ptr" src="{{ rc_ptr }}" srcset="{{ rc_ptr }} 1x, {{ rc_ptr2 }} 2x" width="26" height="26" alt="">{%- endif -%}<span class="lv">4</span>EXTRA LIFE{%- if rc_level == 4 -%}<span class="rc-sr"> (current rating: {{ rc_score }} out of 5)</span>{%- endif -%}</li>
+      <li{%- if rc_level == 3 %} class="is-current" aria-current="true"{%- endif -%}>{%- if rc_level == 3 -%}<img class="ptr" src="{{ rc_ptr }}" srcset="{{ rc_ptr }} 1x, {{ rc_ptr2 }} 2x" width="26" height="26" alt="">{%- endif -%}<span class="lv">3</span>PRESS START{%- if rc_level == 3 -%}<span class="rc-sr"> (current rating: {{ rc_score }} out of 5)</span>{%- endif -%}</li>
+      <li{%- if rc_level == 2 %} class="is-current" aria-current="true"{%- endif -%}>{%- if rc_level == 2 -%}<img class="ptr" src="{{ rc_ptr }}" srcset="{{ rc_ptr }} 1x, {{ rc_ptr2 }} 2x" width="26" height="26" alt="">{%- endif -%}<span class="lv">2</span>CONTINUE?{%- if rc_level == 2 -%}<span class="rc-sr"> (current rating: {{ rc_score }} out of 5)</span>{%- endif -%}</li>
+      <li{%- if rc_level == 1 %} class="is-current" aria-current="true"{%- endif -%}>{%- if rc_level == 1 -%}<img class="ptr" src="{{ rc_ptr }}" srcset="{{ rc_ptr }} 1x, {{ rc_ptr2 }} 2x" width="26" height="26" alt="">{%- endif -%}<span class="lv">1</span>GAME OVER{%- if rc_level == 1 -%}<span class="rc-sr"> (current rating: {{ rc_score }} out of 5)</span>{%- endif -%}</li>
+    </ol>
+  </div>
+  <p class="rc-review__price"><b>Price:</b><span class="amt">{{ include.price }}</span>{%- if include.where != empty -%}<span class="where">{{ include.where }}</span>{%- endif -%}</p>
+  <p class="rc-review__label"><svg class="rc-review__rewind" viewBox="0 0 18 10" width="18" height="10" aria-hidden="true" focusable="false"><path fill="#B51E18" d="M8 0 0 5l8 5V0zm10 0L10 5l8 5V0z"/></svg>retroCombs REWIND</p>
+  <p class="rc-review__summary">{{ include.summary }}</p>
+</aside>
+{%- if include.note != empty %}
+<p class="rc-review-note">{{ include.note }}</p>
+{%- endif %}
+{%- if include.product != empty %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Product","name":{{ include.product | jsonify }},"review":{"@type":"Review","author":{"@type":"Person","name":"Steven B. Combs"},"reviewRating":{"@type":"Rating","ratingValue":{{ rc_score }},"bestRating":5},"reviewBody":{{ include.summary | jsonify }}}}</script>
+{%- endif -%}
