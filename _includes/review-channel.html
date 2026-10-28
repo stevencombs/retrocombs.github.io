@@ -1,0 +1,15 @@
+{% comment %}
+  retroCombs review box: channel badge (DRAFT 2026-10-28, Brand Kit). Proposed file for _includes/; Website & Blog installs it.
+  channel="retrocombs" (default) or channel="tech" (same values as member-cta.html). This is the ONE place that switches logo, alt text, names and link.
+  variant="row" (default, recommended B: header row inside the box), "corner" (A: top-right badge), "tag" (C: footer tag next to the note).
+  Logos live in /images/brand/ (where retroCombs-logo-48.png already is). Output stays on one line so Markdown never turns it into a code block.
+{% endcomment %}
+{%- if include.channel == "tech" -%}
+{%- assign ch_key = "tech" -%}{%- assign ch_name = "retroCombs Tech" -%}{%- assign ch_short = "rC Tech" -%}{%- assign ch_handle = "@retrocombs-tech" -%}
+{%- assign ch_url = "https://www.youtube.com/@retrocombs-tech" -%}{%- assign ch_logo = "/images/brand/channel-badge-tech-48" -%}
+{%- else -%}
+{%- assign ch_key = "retrocombs" -%}{%- assign ch_name = "retroCombs" -%}{%- assign ch_short = "retroCombs" -%}{%- assign ch_handle = "@retrocombs" -%}
+{%- assign ch_url = "https://www.youtube.com/@retrocombs" -%}{%- assign ch_logo = "/images/brand/channel-badge-retrocombs-48" -%}
+{%- endif -%}
+{%- assign ch_variant = include.variant | default: "row" -%}
+<a class="rc-channel rc-channel--{{ ch_variant }}" data-channel="{{ ch_key }}" href="{{ ch_url }}" target="_blank" rel="noopener"><img class="rc-channel__logo" src="{{ ch_logo | append: '.png' | relative_url }}" srcset="{{ ch_logo | append: '.png' | relative_url }} 1x, {{ ch_logo | append: '@2x.png' | relative_url }} 2x" width="48" height="48" alt="From the {{ ch_name }} channel">{% if ch_variant == "row" %}<span class="rc-channel__text" aria-hidden="true">From the <b>{{ ch_name }}</b> channel<span class="rc-channel__handle">youtube.com/{{ ch_handle }}</span></span>{% else %}<span class="rc-channel__short" aria-hidden="true">{{ ch_short }}</span>{% endif %}<span class="rc-sr"> (opens YouTube in a new tab)</span></a>

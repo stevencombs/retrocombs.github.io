@@ -9,6 +9,8 @@
   note: optional sentence under the box.
   product: optional product name. When set, a Product/Review JSON-LD
            block is added (author Steven B. Combs, ratingValue from score, bestRating 5).
+  channel: optional. "tech" or "retrocombs". Draws the header-row badge
+           via review-channel.html (variant row, the default).
 
   Price-line format is provisional. This is the only markup for it:
   <b>Price:</b><span class="amt">price</span><span class="where">where</span>
@@ -36,7 +38,8 @@
 {%- assign rc_dir = "/images/ratings" -%}
 {%- assign rc_ptr = "/images/ratings/joystick-full-40.png" -%}
 {%- assign rc_ptr2 = "/images/ratings/joystick-full-40@2x.png" -%}
-<aside class="rc-review" aria-label="Review rating">
+<aside class="rc-review"{% if include.channel != empty %} data-channel="{{ include.channel }}"{% endif %} aria-label="Review rating">
+{%- if include.channel != empty %}{% include review-channel.html channel=include.channel %}{% endif -%}
   <div class="rc-review__top">
     <div class="rc-review__scoreblock">
       <img class="rc-review__stars" src="{{ rc_dir }}/rating-{{ rc_file }}.png" srcset="{{ rc_dir }}/rating-{{ rc_file }}.png 1x, {{ rc_dir }}/rating-{{ rc_file }}@2x.png 2x" width="211" height="40" alt="Rating: {{ rc_score }} out of 5 joysticks, {{ rc_name }}">

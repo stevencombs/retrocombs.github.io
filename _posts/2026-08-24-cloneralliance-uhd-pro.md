@@ -41,7 +41,8 @@ It's the VCR my Android TV boxes never had. The ClonerAlliance UHD Pro records a
    where="at ClonerAlliance (as of Oct 28, 2026)"
    summary="The VCR my Android TV boxes never had: one-button HD and 4K recording to USB, plus driver-free OBS capture on my Mac. HDMI only, and the USB port runs hot."
    note="Rated on my original unit. ClonerAlliance now sells an updated model I haven't tested."
-   product="ClonerAlliance UHD Pro" %}
+   product="ClonerAlliance UHD Pro"
+   channel="tech" %}
 
 ## TABLE OF CONTENTS {#table-of-contents}
 
