@@ -704,3 +704,62 @@ article.post-card .post-card-body{padding-bottom:8px}
   .post-cards,.post-cards--projects{grid-template-columns:1fr}
   .prose .sitemap-list li{flex-direction:column;gap:2px;align-items:flex-start}
 }
+
+/* retroCombs review box v1 for the site (handoff 2026-10-28). Based on DRAFT v2, horizontal row default. Palette A + site fonts only.
+   Relies on the site's :root vars from assets/css/style.scss; fallbacks given in case it's used elsewhere. */
+.rc-review{
+  --rv-cream:var(--rc-cream,#F5ECDD); --rv-beige:var(--rc-beige,#D9CDAD); --rv-ink:var(--rc-ink,#333333);
+  --rv-slate:var(--rc-slate,#636054); --rv-red:var(--rc-red,#B51E18);
+  position:relative; margin:1.6em 0; padding:22px 24px 20px; background:var(--rv-cream);
+  border-radius:12px; color:var(--rv-ink); font-family:var(--font-sans,"Inter",system-ui,sans-serif);
+  max-width:72ch; overflow:hidden;
+}
+/* brand stripe bar across the top (same 5 stripes as .prose h2::before) */
+.rc-review::before{content:"";position:absolute;left:0;right:0;top:0;height:6px;
+  background:linear-gradient(90deg,#ED230D 0 20%,#FF9400 20% 40%,#F8E131 40% 60%,#60D838 60% 80%,#00A5FF 80%)}
+.rc-review__rating{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;margin:4px 0 14px}
+/* undo .prose img defaults (block + 10px radius) */
+.rc-review .rc-review__stars{display:block;width:211px;height:40px;max-width:none;border-radius:0;margin:0}
+.rc-review__name{font-family:var(--font-accent,"Press Start 2P",monospace);font-size:14px;line-height:1.4;letter-spacing:.5px;text-transform:uppercase}
+.rc-review__score{font-family:var(--font-retro,"VT323",monospace);font-size:26px;line-height:1;color:var(--rv-slate)}
+.rc-review__price{margin:0 0 8px;padding-top:12px;border-top:2px solid var(--rv-beige);font-size:16px;line-height:1.5}
+.rc-review__price b{font-weight:700;margin-right:6px}
+.rc-review__price .amt{font-family:var(--font-mono,"JetBrains Mono",monospace);font-weight:600}
+.rc-review__summary{margin:0;font-size:15.5px;line-height:1.6}
+.rc-review p{margin-bottom:0}
+@media (max-width:760px){.rc-review{padding:20px 16px 16px}.rc-review__name{font-size:12px}}
+
+/* ---------- v2: rating ladder ---------- */
+/* DEFAULT (b): horizontal row. Strip + score on one line, then the five names 1 -> 5 left to right. */
+.rc-review__top{display:flex;flex-direction:column;gap:12px;margin:4px 0 16px}
+.rc-review__scoreblock{display:flex;flex-direction:row;align-items:center;gap:16px}
+.rc-review__scoreblock .rc-review__score{font-size:34px;color:var(--rv-ink)}
+.rc-review .rc-ladder{list-style:none;margin:0;padding:0;display:flex;flex-direction:row-reverse;justify-content:flex-end;
+  flex-wrap:wrap-reverse;align-items:center;gap:4px 6px}
+.rc-review .rc-ladder li{margin:0;display:flex;align-items:center;gap:10px;padding:4px 6px;
+  font-family:var(--font-accent,"Press Start 2P",monospace);font-size:9px;line-height:1.6;color:var(--rv-slate);opacity:.8}
+.rc-review .rc-ladder li::marker{content:none}
+.rc-ladder .lv{display:none;font-family:var(--font-retro,"VT323",monospace);line-height:1;min-width:1ch}
+.rc-ladder .ptr{display:none}
+.rc-review .rc-ladder li.is-current{opacity:1;font-size:14px;color:var(--rv-cream);background:var(--rv-ink);
+  border-radius:8px;margin:0 4px;padding:8px 12px 8px 8px;box-shadow:inset 4px 0 0 var(--rv-red)}
+.rc-review .rc-ladder li.is-current .ptr{display:block;width:26px;height:26px;max-width:none;border-radius:0;margin:0}
+
+/* ALT (a): vertical high-score ladder. Add rc-review__top--stack and rc-ladder--stack. Shows 5 at top -> 1. */
+.rc-review__top--stack{display:grid;grid-template-columns:auto 1fr;gap:14px 28px;align-items:center}
+.rc-review__top--stack .rc-review__scoreblock{flex-direction:column;align-items:flex-start;gap:6px}
+.rc-review .rc-ladder--stack{flex-direction:column;flex-wrap:nowrap;justify-content:flex-start;align-items:stretch;gap:3px}
+.rc-review .rc-ladder--stack li{padding:2px 10px;font-size:10px}
+.rc-ladder--stack .lv{display:inline;font-size:18px}
+.rc-review .rc-ladder--stack li.is-current{font-size:17px;margin:4px 0;padding:8px 14px 8px 10px}
+.rc-ladder--stack li.is-current .lv{font-size:26px;color:var(--rv-beige)}
+@media (max-width:760px){.rc-review__top--stack{grid-template-columns:1fr}}
+
+/* Price: store + as-of date after the amount */
+.rc-review__price .where{color:var(--rv-slate);font-size:14.5px;margin-left:4px;display:inline-block}
+/* Note under the box (outside the box, small slate text) */
+.rc-review-note{margin:-1em 0 1.6em;padding:0 4px;font-size:13.5px;line-height:1.5;color:var(--rc-slate,#636054)}
+.prose .rc-review-note{margin-top:-1em}
+/* Screen-reader-only text */
+.rc-review .rc-sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media (max-width:760px){.rc-review__price .where{display:block;margin-left:0;margin-top:2px}}
