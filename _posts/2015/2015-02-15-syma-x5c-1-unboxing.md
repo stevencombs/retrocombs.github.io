@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2015-02-15 18:38
 category: gadgets
 comments: yes
+image:
+  path: 'https://lh5.googleusercontent.com/aq_R2phMyn6fIZdUmfOjtVU1P1ypfStXyggHyB2b92kv=w1088-h559-no'
+  width: 1087
+  height: 558
+  alt: 'SYMA Quadcopter Box'
 kind: first-look
 ---
 

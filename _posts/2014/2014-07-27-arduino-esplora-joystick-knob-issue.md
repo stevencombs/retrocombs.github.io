@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 category: arduino
 comments: true
+image:
+  path: /images/posts/2014-07-27-RoundPeg.png
+  width: 320
+  height: 320
+  alt: 'Round Page'
 kind: bench
 ---
 

@@ -12,6 +12,11 @@ tags:
  - markdown
  - jekyll
 explore: false
+image:
+  path: /images/posts/2014-07-01-editorial-posts-bookmark.png
+  width: 2048
+  height: 1536
+  alt: 'This is a test image'
 ---
 
 I make numerous changes to the CSS on this blog to refine the conversion of my markdown posts to HTML. I use this post to view the effects made to the final rendering of the markdown files. This post includes the important HTML tags that are affected when Jekyll renders static pages.

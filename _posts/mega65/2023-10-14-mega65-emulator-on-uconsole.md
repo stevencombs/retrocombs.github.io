@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: mega65-uconsole
 category: mega65
+image:
+  path: /images/posts/mega65-uconsole/mega65-uconsole.jpg
+  width: 1280
+  height: 720
+  alt: 'Create an Amazing Handheld MEGA65 with the Clockwork uConsole and XEMU'
 kind: how-to
 ---
 

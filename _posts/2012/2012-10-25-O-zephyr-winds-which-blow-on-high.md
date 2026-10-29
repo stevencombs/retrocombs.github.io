@@ -12,6 +12,11 @@ tags:
   - cartoons
   - isis
   - shazam
+image:
+  path: 'https://1.bp.blogspot.com/_CLU_mny_beA/TKCcn5YiohI/AAAAAAAAl54/ObfUckpETq0/s200/isis-flying.jpg'
+  width: 200
+  height: 152
+  alt: 'RETRO: O zephyr winds which blow on high...'
 kind: editorial
 ---
 

@@ -15,6 +15,11 @@ tags:
   - holiday
   - the lovely accountant
   - aldi finds
+image:
+  path: /images/posts/irish-gnomes/irish-gnomes.jpg
+  width: 1280
+  height: 720
+  alt: 'St. Patrick''s Day gnome ornaments from Amazon'
 kind: review
 rating: 4
 ---

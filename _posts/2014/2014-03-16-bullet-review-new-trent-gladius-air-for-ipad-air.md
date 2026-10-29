@@ -7,6 +7,11 @@ date: 2014-03-16 12:53
 copyright: © Steven B. Combs, Ph.D. 2014
 category: apple
 comments: yes
+image:
+  path: /images/posts/2014-06-16-gladius-air.png
+  width: 640
+  height: 508
+  alt: 'Gladius Air in box'
 kind: review
 rating: 4
 ---

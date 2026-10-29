@@ -18,6 +18,11 @@ tags:
   - unboxing
   - unbox
   - review
+image:
+  path: /images/posts/oria-precision-set/oria-precision-set.jpg
+  width: 1280
+  height: 720
+  alt: 'OPEN THE BOX (BAG): ORIA Precision Screwdriver Set, 86in1 Magnetic Repair Tool Kit with Portable Bag'
 kind: review
 rating: 4
 ---

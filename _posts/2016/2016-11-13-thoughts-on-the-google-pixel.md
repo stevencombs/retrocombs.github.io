@@ -13,6 +13,11 @@ tags:
   - phone
   - android
   - review
+image:
+  path: 'https://lh3.googleusercontent.com/MsfRSLLO5c7Kb9bLM03DzV350KmLC2zX6FHiRzdghDLXs__8mNJrJWbuZNNRFgYSuyT4oyp5PbzOU4-3QpEoRH_JJKc0HhjBK3DxYIpsHjefCt-Ju58gYQLpmXiweKXdO1hTNGYlwoapcPNqhhr7tX0WNnL6loNksiCyvfKO5-XnRq6BWN4V-prayDd4uyZIkXsuNYKld8lnR7_bcxZbGhJG_sMOt1_JLItx5DKXCMzZbXqqJb2LW9gsTxGRdP79Ac0pHfY621XprESclRzPcuwEVWYaHReenkB8YzdJ6qP8RPlTCkBXl843XAzx2X_0BTotGPJ6D_56XUaPsHsHr8wbq1xmoZYxWh32XQMMBP4nm8GHZGh-j9AqNX4dtBsdF1c6dNS6eB0r8SzXy411Ke-XrvVMXyd_-JKZU24-B0sA784S52YNUYKj9KVqPpRj14hiMi3QpnF7uGbQm74i4z4d1ha_cXoE0HCnv7caMfRL1K78b5h_ruX8VeatwtQnSW6s5Py9KIeVFvXxtqERkiSRZ-uyYASZN6y3RHHoxp_boPjPIi8xzDA2-XGQp9ffrk-rz58LbFgdmLuqfFhm_2vj8be9QIRwsKYAdhqvVi_fcMhiZQ=w2080-h1560-no'
+  width: 2080
+  height: 1560
+  alt: 'Three week thoughts on the Google Pixel'
 kind: review
 rating: 4
 ---

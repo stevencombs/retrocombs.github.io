@@ -11,6 +11,11 @@ tags:
   - mega65
   - keyboard
   - productivity
+image:
+  path: /images/mega65/utility-menu.jpg
+  width: 970
+  height: 720
+  alt: 'MEGA65 Configuration Utility'
 kind: how-to
 ---
 

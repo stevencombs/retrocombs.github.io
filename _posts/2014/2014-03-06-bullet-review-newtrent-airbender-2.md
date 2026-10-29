@@ -9,6 +9,11 @@ category: apple
 redirect_from:
   - /apple/2014/03/06/Bullet-review-newtrent-airbender-2.html
 
+image:
+  path: 'https://1.bp.blogspot.com/-Yw7R9FFE7UM/UxjU5FB8eqI/AAAAAAABPWA/fyXPHcSgotE/s1600/IMG_5350.JPG'
+  width: 1600
+  height: 1200
+  alt: 'BULLET REVIEW: New Trent Airbender 2.0 for iPad Air'
 kind: review
 rating: 3
 ---

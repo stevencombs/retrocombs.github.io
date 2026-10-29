@@ -12,6 +12,11 @@ tags:
   - color
   - ink
 comments: yes
+image:
+  path: 'https://lh4.googleusercontent.com/-RxA_OdCEM14/VQyCwDQRuJI/AAAAAAABaGE/No3CGW72tA8/w1182-h887-no/IMG_7283.jpg'
+  width: 1182
+  height: 886
+  alt: 'REVIEW: Staedtler Triplus Fineliner'
 kind: review
 rating: 4
 ---

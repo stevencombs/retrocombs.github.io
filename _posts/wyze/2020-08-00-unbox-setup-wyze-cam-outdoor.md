@@ -17,6 +17,11 @@ tags:
 redirect_from:
   - /gadgets/2020/08/17/unbox-setup-wyze-cam-outdoor.html
 
+image:
+  path: /images/posts/wyze-cam-outdoor/wyze-cam-outdoor.jpg
+  width: 1280
+  height: 720
+  alt: 'OPEN THE BOX and SETUP: Wyze Cam Outdoor (Squirrel Cam One)'
 kind: first-look
 ---
 

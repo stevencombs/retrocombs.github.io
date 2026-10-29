@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: kindle-scribe
 category: gadgets
+image:
+  path: /images/posts/kindle-scribe/kindle-scribe.jpg
+  width: 1280
+  height: 720
+  alt: 'Amazon Kindle Scribe Guide | A Perfect Retro Computing Companion'
 kind: review
 ---
 

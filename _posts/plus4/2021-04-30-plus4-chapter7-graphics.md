@@ -20,6 +20,11 @@ tags:
   - characters
   - petscii
   - pixels
+image:
+  path: /plus4/images/petscii-shifted-lower-case.png
+  width: 384
+  height: 242
+  alt: 'Shifted'
 kind: companion
 ---
 

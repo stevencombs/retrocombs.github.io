@@ -18,6 +18,11 @@ tags:
   - calculations
   - numbers
   - basic
+image:
+  path: /plus4/images/operators-slide.png
+  width: 960
+  height: 540
+  alt: 'Basic Mathematical and Relational Operators'
 kind: companion
 ---
 

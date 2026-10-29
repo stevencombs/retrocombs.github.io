@@ -8,6 +8,11 @@ comments: 'yes'
 categories:
   - personal
 explore: false
+image:
+  path: 'https://lh3.googleusercontent.com/YeKg1PHfVTTrWSG_QcZP6hrCMXomAEBJCzXm64ZhH9ly=w882-h1622-no'
+  width: 679
+  height: 1040
+  alt: 'Geeking Out'
 ---
 
 Last week Julie McClure with our local newspaper, [The Republic](http://www.therepublic.com), stopped by my office for an interview. The original intent of the article was to focus on this blog and the gadgets I review. She became aware of my blog after I was quoted in an article by the Associated Press. As we began to chat, the discussion soon moved to other topics and at the end of the hour, we had covered several subjects not on our original agenda. I really enjoyed the interview, but wondered how Julie would craft all the pieces into an interesting article.

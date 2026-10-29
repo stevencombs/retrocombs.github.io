@@ -13,6 +13,11 @@ tags:
   - o2 sensor
   - health
   - wyze watch review
+image:
+  path: /images/posts/wyze-watch/wyze-watch.jpg
+  width: 1280
+  height: 720
+  alt: 'Wyze Watch Open the Box, First Use, and Wyze Band Comparison'
 kind: review
 rating: 3
 ---

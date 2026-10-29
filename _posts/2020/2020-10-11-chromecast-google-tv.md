@@ -14,6 +14,11 @@ tags:
   - android tv
   - roku
   - google tv
+image:
+  path: /images/posts/chromecast-googletv-unbox/chromecast-googletv-unbox.jpg
+  width: 1280
+  height: 720
+  alt: 'OPEN THE BOX and FIRST USE: Chromecast with Google TV'
 kind: review
 rating: 4
 ---

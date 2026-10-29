@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: apple
+image:
+  path: 'https://3.bp.blogspot.com/-10VSZ3BKvOk/Tdamix69fuI/AAAAAAAA1R8/1y1ZfdhcrPo/s200/Pause+Synching.png'
+  width: 193
+  height: 200
+  alt: 'Five ways to reduce iPhone or hotspot data usage'
 kind: how-to
 ---
 

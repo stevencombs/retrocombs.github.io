@@ -7,6 +7,11 @@ date: 'June 28, 2016'
 comments: 'yes'
 categories:
   - chip
+image:
+  path: /images/posts/chip/pocket_chip.jpg
+  width: 4160
+  height: 3088
+  alt: 'Pocket C.H.I.P.'
 kind: how-to
 ---
 

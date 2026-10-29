@@ -17,6 +17,11 @@ tags:
   - bumper
   - davinci
   - audacity
+image:
+  path: /images/posts/2020-06-02-bumper-video/hd-resolution.png
+  width: 350
+  height: 273
+  alt: 'Setting Screen Resolution'
 kind: art
 ---
 

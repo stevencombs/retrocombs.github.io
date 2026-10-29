@@ -14,6 +14,11 @@ tags:
   - type-in
   - scanning
   - ocr
+image:
+  path: /images/posts/weihnachten-pages.jpg
+  width: 2802
+  height: 1576
+  alt: 'Weihnachten auf dem Commodore'
 kind: how-to
 ---
 

@@ -15,6 +15,11 @@ tags:
   - xfinity
   - flex
   - cord-cutter
+image:
+  path: /images/posts/2020-04-24-boxopen-xfinity-flex.jpg
+  width: 1682
+  height: 946
+  alt: 'Flex and accessories'
 kind: review
 rating: 1.5
 ---

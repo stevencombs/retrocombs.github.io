@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2014-10-19 17:20
 category: art
 comments: yes
+image:
+  path: /images/sketchnotes/2014-10-19-sketchnotes-pebble-blog-post.png
+  width: 640
+  height: 1010
+  alt: 'Sketchnotes - Pebble Blog Post Brainstorming'
 kind: art
 ---
 

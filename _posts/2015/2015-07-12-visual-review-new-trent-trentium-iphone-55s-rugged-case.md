@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - apple
+image:
+  path: 'https://lh3.googleusercontent.com/w9_WpJ3EU9tz8dHjuOrPbhC7QIGaL65xCsq7dVenbXWp=s1555-no'
+  width: 1555
+  height: 1554
+  alt: 'REVIEW: New Trent Trentium iPhone 5/5s rugged case'
 kind: review
 rating: 4
 ---

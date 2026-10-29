@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 category: web
 comments: true
+image:
+  path: 'https://3.bp.blogspot.com/-Ahuwpdq25N4/UPmh40U933I/AAAAAAABFw4/kwQfG4MLrzI/s200/Source+Code+Pro+Font.png'
+  width: 200
+  height: 200
+  alt: 'Source Code Pro is a wonderful Markdown font'
 kind: editorial
 ---
 

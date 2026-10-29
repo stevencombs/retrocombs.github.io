@@ -10,6 +10,11 @@ redirect_from:
   - /higher-education/2014/09/20/campus-president.html
 
 explore: false
+image:
+  path: /images/posts/2014-09-20-combs-president/2014-09-20-inside-indiana-business-screenshot.png
+  width: 988
+  height: 533
+  alt: 'Inside Indiana Business Screen Capture'
 ---
 
 **SHARE LINK:** [http://bit.ly/combs-president](http://bit.ly/combs-president)

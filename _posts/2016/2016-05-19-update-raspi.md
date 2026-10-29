@@ -13,6 +13,11 @@ tags:
   - firmware
   - update
   - software
+image:
+  path: /images/posts/rpi-update.png
+  width: 1810
+  height: 1204
+  alt: 'rpi-update'
 kind: how-to
 ---
 

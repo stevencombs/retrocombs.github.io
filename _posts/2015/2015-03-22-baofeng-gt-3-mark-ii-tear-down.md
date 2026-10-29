@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2015-03-22 15:18
 category: ham
 comments: yes
+image:
+  path: 'https://lh6.googleusercontent.com/-l7c6qpRcfzo/VQ8D5l9ZViI/AAAAAAABaNs/8oI3KNon0t0/s638-no/00.jpeg'
+  width: 638
+  height: 638
+  alt: 'TEAR DOWN: Baofeng GT-3 Mark II'
 kind: bench
 rating: 3.5
 ---

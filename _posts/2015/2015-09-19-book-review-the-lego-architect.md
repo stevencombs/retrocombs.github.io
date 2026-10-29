@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - lego
+image:
+  path: /images/posts/2015-09-19-book-review-lego-architect/book-and-computer.jpg
+  width: 1048
+  height: 778
+  alt: 'BOOK REVIEW: The LEGO Architect'
 kind: review
 rating: 5
 ---

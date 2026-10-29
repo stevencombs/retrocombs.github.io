@@ -7,6 +7,11 @@ date: 2014-08-25 09:24
 copyright: © Steven B. Combs, Ph.D. 2014
 category: apple
 comments: yes
+image:
+  path: /images/posts/2014-08-25-iphone-5s-spigen-case.jpg
+  width: 1936
+  height: 1936
+  alt: 'Spigen iPhone 5s case'
 kind: first-look
 ---
 

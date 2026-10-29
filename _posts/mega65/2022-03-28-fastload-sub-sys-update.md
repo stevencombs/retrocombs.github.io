@@ -14,6 +14,11 @@ tags:
   - mega65
   - BASIC
   - programming
+image:
+  path: /images/posts/basic65-sub-track-update/basic65-sub-track-update.jpg
+  width: 1280
+  height: 720
+  alt: '‌Updating the Submarine Tracking System BASIC 65 Program for the MEGA65 💾'
 kind: how-to
 ---
 

@@ -7,6 +7,11 @@ date: 2014-09-20 19:28
 category: personal
 comments: yes
 explore: false
+image:
+  path: /images/posts/2014-09-20-retirement-package/09-20-retirement-package-01.jpg
+  width: 640
+  height: 480
+  alt: 'Shipping box with a star emblem on a wooden table'
 ---
 
 After a three year period, I FINALLY received my United States Army retirement materials. When I left the Army in August of 2011, there was no fanfare, ceremony or recognition from my unit. Honestly, it was a huge letdown after 27 years of military service in both the United States Air Force as an enlisted airman and the United States Army as an Armor and Adjutant General officer. Despite the lack of recognition from my unit, I did think the Army would eventually send me my retirement certificate. It did not happen.

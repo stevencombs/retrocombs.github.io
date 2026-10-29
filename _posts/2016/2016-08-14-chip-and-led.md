@@ -7,6 +7,11 @@ date: 'August 14, 2016'
 comments: 'yes'
 categories:
   - chip
+image:
+  path: /images/posts/chip/tracked-robotic-platform.jpg
+  width: 4160
+  height: 3088
+  alt: 'Tracked Vehicle Platform'
 kind: how-to
 ---
 

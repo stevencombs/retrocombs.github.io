@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2014-08-30 14:00
 category: apple
 comments: yes
+image:
+  path: /images/posts/2014-08-30-yurpods.png
+  width: 640
+  height: 190
+  alt: 'My Yurbud Apple Earpod amalgam'
 kind: bench
 ---
 

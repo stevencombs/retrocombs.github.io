@@ -14,6 +14,11 @@ tags:
   - thec64mini
   - retro-games
   - vic20games
+image:
+  path: /images/posts/thevic20-2/thevic20-2.jpg
+  width: 1280
+  height: 720
+  alt: 'Watch the Video: THEVIC20 and THEC64 VIC-20 Games (Part 1)'
 kind: review
 ---
 

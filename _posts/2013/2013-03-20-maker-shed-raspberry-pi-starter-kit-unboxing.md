@@ -8,6 +8,11 @@ comments: 'yes'
 categories:
   - openingthebox
   - raspberrypi
+image:
+  path: 'https://2.bp.blogspot.com/-5LnHIMO-nVQ/UVc6Hi_oD0I/AAAAAAABIHk/2PCJSHpw0NY/s1600/MakerSHED-RaspberryPiStarterKit-01-TeaserImage.jpg'
+  width: 720
+  height: 720
+  alt: 'OPENING THE BOX: Maker Shed Raspberry Pi Starter Kit'
 kind: review
 ---
 

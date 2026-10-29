@@ -5,6 +5,11 @@ date: '2013-01-15'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 category: apple
+image:
+  path: 'https://2.bp.blogspot.com/-VRg3RIlqLfY/UPXRTgRpkmI/AAAAAAABFso/dO1eDulWZW4/s400/markdown+editors.png'
+  width: 400
+  height: 208
+  alt: 'I’ve found my iPad Markdown Editor!'
 kind: review
 ---
 

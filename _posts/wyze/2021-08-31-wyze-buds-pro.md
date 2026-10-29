@@ -15,6 +15,11 @@ tags:
   - review
   - bluetooth
   - noise cancellation
+image:
+  path: /images/posts/wyze-buds-pro/wyze-buds-pro.jpg
+  width: 1280
+  height: 720
+  alt: 'Wyze Buds Pro | Unboxing | Setup | Pairing | First Use'
 kind: review
 rating: 3
 ---

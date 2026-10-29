@@ -16,6 +16,11 @@ tags:
   - google
   - unbox
   - unboxing
+image:
+  path: /images/posts/lenovo/lenovo-smart-tab.jpg
+  width: 4032
+  height: 2268
+  alt: 'REVIEW: Lenovo YOGA TAB with Google Assistant'
 kind: review
 rating: 3
 ---

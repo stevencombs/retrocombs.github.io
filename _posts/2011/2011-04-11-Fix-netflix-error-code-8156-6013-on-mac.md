@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: apple
+image:
+  path: 'https://3.bp.blogspot.com/-sZkFRYTgSSI/TaO_u7ExntI/AAAAAAAA0-U/hulYf-ocTps/s1600/Netflix+Error.jpg'
+  width: 200
+  height: 200
+  alt: 'HOWTO: Fix Netflix error code 8156-6013 on a Mac'
 kind: how-to
 ---
 

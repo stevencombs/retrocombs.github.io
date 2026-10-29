@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: true
 categories: presentations higher-education apple
 explore: false
+image:
+  path: 'https://3.bp.blogspot.com/-DmCzV7LBG-k/UO35pceB4_I/AAAAAAABFog/GBBJDrZtvpA/s400/iTunes+U.png'
+  width: 400
+  height: 243
+  alt: 'HOWTO: Enhance Course Materials with iTunes U'
 ---
 
 Hot on the heels of my [_Apple TV: “Out of the Living Room and into the Classroom”_ presentation](/presentations/higher-education/apple/2013/01/14/Apple-TV-Out-of-the-Living-Room-and-into-the-Classroom.html), I have prepared another entitled, _Enhance Course Materials with iTunes U_. This presentation was held on January 10th, 2013 from 12:00 - 1:00PM in Poling Hall, Room 201 on the Ivy Tech Columbus campus.

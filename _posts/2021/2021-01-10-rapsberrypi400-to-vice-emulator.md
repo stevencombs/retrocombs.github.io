@@ -15,6 +15,11 @@ tags:
   - raspberry pi
   - vice
   - combian 64
+image:
+  path: /combianpi400/key-caps.jpg
+  width: 1540
+  height: 866
+  alt: 'The PETSCII key caps on the Combian pi/400'
 kind: how-to
 ---
 

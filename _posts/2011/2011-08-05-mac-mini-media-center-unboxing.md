@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2011-08-05
 category: apple
 comments: yes
+image:
+  path: 'https://3.bp.blogspot.com/-UypFI5rTb4A/TjsGfiURTOI/AAAAAAAA3JI/0eqFAtN4B8Y/s640/IMG_00210.jpg'
+  width: 640
+  height: 478
+  alt: 'Mac Mini Media Center Unboxing'
 kind: first-look
 ---
 

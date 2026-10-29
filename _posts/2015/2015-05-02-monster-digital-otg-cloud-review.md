@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2015-05-02 18:58
 category: gadgets
 comments: yes
+image:
+  path: 'https://lh3.googleusercontent.com/-6Aio9y2gy-0/VT0V7kVNquI/AAAAAAABa4U/FKxTVaH3KGc/w759-h569-no/IMG_8113.jpeg'
+  width: 759
+  height: 569
+  alt: 'Monster Digital OTG Cloud'
 kind: review
 rating: 1.5
 ---

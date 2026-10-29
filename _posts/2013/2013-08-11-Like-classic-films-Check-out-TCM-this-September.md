@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: entertainment
+image:
+  path: 'https://1.bp.blogspot.com/-SoR1QZl9xok/Uge2_ZI2szI/AAAAAAABLIQ/IDmvd1bftzo/s1600/TCM+Now+Playing+-+September+2013.png'
+  width: 218
+  height: 334
+  alt: 'RETRO: Like classic films? Check out TCM this September!'
 kind: editorial
 ---
 

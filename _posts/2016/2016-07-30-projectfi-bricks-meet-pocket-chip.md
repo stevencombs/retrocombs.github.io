@@ -13,6 +13,11 @@ tags:
   - lego
   - projectfi
   - dock
+image:
+  path: /images/posts/chip/dock1.jpg
+  width: 1413
+  height: 1071
+  alt: 'HOWTO: Project Fi bricks meet Pocket C.H.I.P.'
 kind: bench
 ---
 

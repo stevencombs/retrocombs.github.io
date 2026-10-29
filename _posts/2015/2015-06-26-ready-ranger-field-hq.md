@@ -14,6 +14,11 @@ tags:
   - exploring
   - retro
   - backpack
+image:
+  path: 'https://lh6.googleusercontent.com/-fICziDwR_XI/Tsqz3wmqiZI/AAAAAAAA4Tg/qX8SSrHC7F0/w453-h600-no/Ready%2BRanger%2BAd.jpg'
+  width: 453
+  height: 600
+  alt: 'RETRO: Ready Ranger Mobile Field Headquarters'
 kind: editorial
 ---
 

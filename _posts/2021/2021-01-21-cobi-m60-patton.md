@@ -14,6 +14,11 @@ tags:
   - models
   - military
   - tanks
+image:
+  path: 'https://lh3.googleusercontent.com/DANhzkSwM81Tow2A8vVYLhGP1wK8GldWAV34aQ6qHwSwypqyAMEkdQ3XQdzMFqxOfGZjYxQ2eS1EkadqqMYdaDRjXXDWXcPkLH0fIzAguoibajXXf4S2YWtuIa9jWM_Lx78AhbMOvG4=w1920-h1080'
+  width: 1920
+  height: 1080
+  alt: 'The COBI M60 Patton Box'
 kind: review
 rating: 3.5
 ---

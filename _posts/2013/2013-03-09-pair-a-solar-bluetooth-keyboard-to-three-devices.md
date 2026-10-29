@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - apple
+image:
+  path: 'https://3.bp.blogspot.com/-z0gM3IaCGvE/UTttfJoHfiI/AAAAAAABHUM/qHZSV_K9oY8/s1600/Bluetooth+Keyboard+Square+Bordered.png'
+  width: 510
+  height: 510
+  alt: 'HOWTO: Pair a solar bluetooth keyboard to three devices'
 kind: how-to
 ---
 

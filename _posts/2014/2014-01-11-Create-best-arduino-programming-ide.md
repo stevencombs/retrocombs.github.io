@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: true
 categories:
   - arduino
+image:
+  path: 'https://3.bp.blogspot.com/-P3kE77jeAh8/UtGX3D4GkbI/AAAAAAABOkE/G5rKnB8pqIA/s1600/PeppermintOS-SublimeText-Arduino.png'
+  width: 500
+  height: 500
+  alt: 'HOWTO: Sublime Text Arduino programming IDE on Peppermint OS'
 kind: how-to
 ---
 

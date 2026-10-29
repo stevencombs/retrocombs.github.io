@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - art
+image:
+  path: 'https://lh4.googleusercontent.com/-DWG1vHgDRVU/VZWYIF50_OI/AAAAAAABllk/9NJ1c0mMuIo/w1022-h818-no/IMG_20150630_125536.jpg'
+  width: 1021
+  height: 817
+  alt: 'REVIEW: IKEA FULLFÖLJA gel pen'
 kind: review
 rating: 2
 ---

@@ -11,6 +11,11 @@ tags:
  - bittorrent
  - cloud
  - sync
+image:
+  path: /images/posts/2014-11-02-bittorrent-sync/2014-11-02-bittorrent-sync.png
+  width: 1336
+  height: 567
+  alt: 'BitTorrent Sync dialog box'
 kind: how-to
 ---
 

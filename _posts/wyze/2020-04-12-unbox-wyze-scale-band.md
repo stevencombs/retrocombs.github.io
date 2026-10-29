@@ -19,6 +19,11 @@ tags:
   - tracking
   - alexa
   - assistant
+image:
+  path: /images/posts/wyze-scale/wyze-scale.jpg
+  width: 480
+  height: 360
+  alt: 'YouTube Video'
 kind: first-look
 ---
 

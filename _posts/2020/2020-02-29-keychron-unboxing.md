@@ -14,6 +14,11 @@ tags:
   - mac
   - unboxing
   - mechanical
+image:
+  path: /images/posts/2020-02-29-keychron-unboxing/matias-and-keychron.jpg
+  width: 4032
+  height: 2268
+  alt: 'IMAGE OF MATIAS AND K2'
 kind: first-look
 ---
 

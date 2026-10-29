@@ -13,6 +13,11 @@ tags:
   - thevic20
   - upgrade
   - firmware
+image:
+  path: /images/c64mini-maxi-vic20/mini-joystick-size.jpg
+  width: 4032
+  height: 2268
+  alt: 'THEC64 mini'
 kind: how-to
 ---
 

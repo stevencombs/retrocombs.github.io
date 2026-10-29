@@ -14,6 +14,11 @@ tags:
   - unboxing
   - podcast
   - operate
+image:
+  path: /images/posts/2020-07-28-tascam/tiltfoot.jpg
+  width: 2267
+  height: 2268
+  alt: 'Tilt foot storage'
 kind: review
 ---
 

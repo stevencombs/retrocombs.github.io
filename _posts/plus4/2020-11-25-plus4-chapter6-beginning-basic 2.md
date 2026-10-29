@@ -18,6 +18,11 @@ tags:
   - calculations
   - numbers
   - basic
+image:
+  path: /images/posts/plus4-7/plus4-7.jpg
+  width: 1280
+  height: 720
+  alt: 'retroCombs: Commodore Plus/4, Chapter 6 - Beginning BASIC Programming'
 kind: companion
 ---
 

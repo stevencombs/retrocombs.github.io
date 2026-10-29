@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: ten-thec64-tips
 category: C64
+image:
+  path: /images/posts/ten-thec64-tips/ten-thec64-tips.jpg
+  width: 1280
+  height: 720
+  alt: '10 Ways To Unlock Thec64 For Maximum Retro Computing Fun!'
 kind: how-to
 ---
 

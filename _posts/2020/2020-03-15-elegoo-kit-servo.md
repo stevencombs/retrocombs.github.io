@@ -18,6 +18,11 @@ tags:
   - servo
   - encoder
   - tutorial
+image:
+  path: /images/posts/2020-03-15-arduino-micro-servo/arduino-led-encoder-servo.jpg
+  width: 3302
+  height: 1858
+  alt: 'Arduino MEGA 2560 with encoder, LED, and servo'
 kind: bench
 ---
 

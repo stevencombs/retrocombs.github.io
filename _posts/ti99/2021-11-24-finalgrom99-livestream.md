@@ -11,6 +11,11 @@ tags:
   - livestream
   - finalgrom99
   - ti994a
+image:
+  path: /images/posts/finalgrom99-livestream/finalgrom99-livestream.jpg
+  width: 1280
+  height: 720
+  alt: 'Texas Instruments TI-99/4A FinalGROM 99 Livestream Edit'
 kind: livestream
 ---
 

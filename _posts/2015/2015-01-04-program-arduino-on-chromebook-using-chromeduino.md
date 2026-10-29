@@ -9,6 +9,11 @@ comments: yes
 redirect_from:
   - /chrome/arduino/2015/01/04/program-arduino-on-chromebook-using-chromeduino.html
 
+image:
+  path: 'https://lh5.googleusercontent.com/-zy1Jd7vaAmU/VKmPqKpeGcI/AAAAAAABXgU/7bx0dDzxVNY/w640-h480-no/ardunio-chromebook.png'
+  width: 640
+  height: 480
+  alt: 'Arduino programming on Chromebook is now possible'
 kind: how-to
 ---
 

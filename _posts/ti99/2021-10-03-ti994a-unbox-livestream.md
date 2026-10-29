@@ -11,6 +11,11 @@ tags:
   - unboxing
   - games
   - ti994a
+image:
+  path: /images/posts/ti994a-accessories-unboxing/ti994a-accessories-unboxing.jpg
+  width: 1280
+  height: 720
+  alt: '‌TI-99/4A Accessories, Unboxing, Gameplay, and FUN!'
 kind: livestream
 ---
 

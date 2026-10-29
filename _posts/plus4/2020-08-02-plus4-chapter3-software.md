@@ -21,6 +21,11 @@ tags:
   - diskdrive
   - datasette
   - cassette
+image:
+  path: /images/posts/plus4-4/plus4-4.jpg
+  width: 1280
+  height: 720
+  alt: 'retroCombs: Commodore Plus/4 User'
 kind: companion
 ---
 

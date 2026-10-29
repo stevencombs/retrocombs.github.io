@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: lego
+image:
+  path: 'https://3.bp.blogspot.com/-PmxKja42FPM/UMUCGXYfaQI/AAAAAAABExA/EMH2na1uhV8/s200/BimP+Book+Review+Graphic.png'
+  width: 198
+  height: 200
+  alt: 'BOOK REVIEW: The Unofficial LEGO Builder’s Guide 2nd Edition'
 kind: review
 rating: 4.5
 ---

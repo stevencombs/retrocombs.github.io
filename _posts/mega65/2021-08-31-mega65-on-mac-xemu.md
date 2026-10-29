@@ -12,6 +12,11 @@ tags:
   - retro
   - mega65
   - emulator
+image:
+  path: /images/mega65/xemu-installer-window.png
+  width: 1712
+  height: 676
+  alt: 'Xemu Installer Window'
 kind: how-to
 ---
 

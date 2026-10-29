@@ -16,6 +16,11 @@ tags:
   - lidar
   - bluetooth
   - smart
+image:
+  path: /images/posts/wyze-vacuum-1/wyze-vacuum-1.jpg
+  width: 1280
+  height: 720
+  alt: 'Wyze Robot Vacuum unboxing and first use'
 kind: review
 rating: 4
 ---

@@ -11,6 +11,11 @@ tags:
   - mega65
   - mac
   - versus
+image:
+  path: /images/posts/ten-mega65-vs-mac/ten-mega65-vs-mac.jpg
+  width: 1280
+  height: 720
+  alt: '‌The MEGA65 vs MacBook Pro | Ten Reasons the MEGA65 is the Winner!'
 kind: editorial
 ---
 

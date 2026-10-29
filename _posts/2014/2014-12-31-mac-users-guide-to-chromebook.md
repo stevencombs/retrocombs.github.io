@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2014-12-31
 category: chromeos
 comments: yes
+image:
+  path: 'https://lh5.googleusercontent.com/-yu5L6oA9m3M/VKRrPvV-DXI/AAAAAAABXY4/e3KGCGNUVGo/w638-h479-no/my-chromebook.png'
+  width: 638
+  height: 478
+  alt: 'My Chromebook'
 kind: first-look
 ---
 

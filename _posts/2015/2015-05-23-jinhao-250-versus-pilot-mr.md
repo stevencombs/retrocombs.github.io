@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - art
+image:
+  path: 'https://lh3.googleusercontent.com/-TygGZeUOOew/VWCXOtFnllI/AAAAAAABbWM/32xbqRkJYSs/w1978-h776-no/Jinhao-vs-pilot-header.jpg'
+  width: 1280
+  height: 502
+  alt: 'Jinhao 250 versus Pilot MR Metropolitan'
 kind: review
 ---
 

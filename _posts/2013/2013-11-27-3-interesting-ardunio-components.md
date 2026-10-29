@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - arduino
+image:
+  path: 'https://2.bp.blogspot.com/-a0seywxOMis/UpZ5wwPlPnI/AAAAAAABNDI/vpwKl5AyNoA/s1600/photo+1.JPG'
+  width: 1493
+  height: 1128
+  alt: 'Three interesting electronics components'
 kind: first-look
 ---
 

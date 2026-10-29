@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - gadgets
+image:
+  path: 'https://2.bp.blogspot.com/-jEt0Mj44iqs/UddbFcfD89I/AAAAAAABKIE/67H_zLUzgpc/s1600/Sonos+Bridge+Under+iMac.jpg'
+  width: 1024
+  height: 768
+  alt: 'BULLET REVIEW: Sonos Play3 with Bridge'
 kind: review
 rating: 4
 ---

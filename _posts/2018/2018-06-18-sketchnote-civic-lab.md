@@ -12,6 +12,11 @@ tags:
   - civiclab
   - illustration
 explore: false
+image:
+  path: /images/posts/2018-06-18-civic-lab.png
+  width: 1632
+  height: 1056
+  alt: 'SKETCHNOTE: Civic Lab Training'
 ---
 
 The [CivicLab][1] provided our college with some excellent community engagement skills today. Description below:

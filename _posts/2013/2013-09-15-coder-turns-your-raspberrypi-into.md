@@ -12,6 +12,11 @@ tags:
   - coder
   - coding
   - development
+image:
+  path: /images/posts/2013-09-15-coder-welcome-video.png
+  width: 1024
+  height: 549
+  alt: 'HOWTO: Turn your RaspberryPi into a development platform with Coder'
 kind: how-to
 ---
 

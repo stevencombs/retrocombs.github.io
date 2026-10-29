@@ -15,6 +15,11 @@ tags:
   - review
   - peripherals
   - pointer
+image:
+  path: /images/posts/victsing-wireless-mouse/victsing-wireless-mouse.jpg
+  width: 1280
+  height: 720
+  alt: 'OPEN THE BOX and FIRST USE: VictSing Wireless (USB and Bluetooth) Mouse'
 kind: review
 rating: 3
 ---
