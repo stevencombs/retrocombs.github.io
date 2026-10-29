@@ -5,8 +5,10 @@
          A half score highlights the whole number below. 0.5 highlights GAME OVER.
          When score is omitted, rating is used, then page.rating.
          The band name comes from _includes/rating-band.html.
-  price: amount only, plain text, no link. Example: $278.50
+  price: optional. Amount only, plain text, no link. Example: $278.50
+         When price is omitted, the price line is not rendered.
   where: store and date, plain text, no link. Example: at ClonerAlliance (as of Oct 28, 2026)
+         Shown on the price line only when price is set.
   summary: one or two sentences.
   note: optional sentence under the box.
   product: optional product name. When set, a Product/Review JSON-LD
@@ -23,8 +25,9 @@
   rater_mobile: optional "full" or "short" to override that phone choice.
          "full" keeps the full "Rated by …" line on phones.
 
-  Price-line format is provisional. This is the only markup for it:
+  Price-line format is provisional. When price is set, this is the only markup for it:
   <b>Price:</b><span class="amt">price</span><span class="where">where</span>
+  The whole price paragraph is omitted when price is empty.
 
   Pointer icon is provisional (the logo joystick). Change rc_ptr and rc_ptr2
   here to swap it. Rating strips live in /images/ratings/.
@@ -69,7 +72,10 @@
 {%- if rc_rater != "" %}
   <p class="rc-review__rater{% if rc_rater_chip %} rc-review__rater--short{% endif %}"><span class="rc-review__rater-by">Rated by</span> <b class="rc-review__rater-full">{{ rc_rater | escape }}</b>{% if rc_rater_short != "" %}<span class="rc-review__rater-chip" role="img" title="{{ rc_rater | escape }}" aria-label="{{ rc_rater | escape }}">{{ rc_rater_short | escape }}</span>{% endif %}</p>
 {%- endif %}
+{%- assign rc_price = include.price | default: "" | strip -%}
+{%- if rc_price != "" %}
   <p class="rc-review__price"><b>Price:</b><span class="amt">{{ include.price }}</span>{%- if include.where != empty -%}<span class="where">{{ include.where }}</span>{%- endif -%}</p>
+{%- endif %}
   <p class="rc-review__label"><svg class="rc-review__rewind" viewBox="0 0 18 10" width="18" height="10" aria-hidden="true" focusable="false"><path fill="#B51E18" d="M8 0 0 5l8 5V0zm10 0L10 5l8 5V0z"/></svg>retroCombs REWIND</p>
   <p class="rc-review__summary">{{ include.summary }}</p>
 </aside>
