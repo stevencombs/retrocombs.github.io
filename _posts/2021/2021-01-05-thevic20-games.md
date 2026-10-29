@@ -76,7 +76,7 @@ Below are the list of games I demonstrate in part 1 of the series. A time code f
 4. Bewitched (🕹️🕹️)[06:16] - Not related to the beloved 1960s-70s sitcom. More closely related to the Atari 2600 game, Adventure, but with more keys, walls and mazes.
 5. Blitzkrieg (🕹️🕹️)[07:40] - Missile command without the complicated controls. One function; drop bombs on building before you run into them. Mindless and easy.
 6. Brainstorm (🕹️)[09:04] - Why did the chicken cross the road? Not sure and this game doesn't help explain why aliens would either. Obviously a puzzle game and one that I had no patience to play. Horrible.
-7. Catcha Snatcha (🕹️)[11:34] - Some might enjoy this early predecessor to the now popular kitchen games. I don't like kitchen games (my wife loves them), so this is a "no-go" for me.
+7. Catcha Snatcha (🕹️)[11:34] - Some might enjoy this early predecessor to the now popular kitchen games. I don't like kitchen games (The Lovely Accountant loves them), so this is a "no-go" for me.
 8. Connect 4 (🕹️)[13:22] - It's connect 4. What more is there to write, only that the checkers are not round. Why not? No joystick support for this one. Unless you love connect 4, you won't appreciate that this one takes up one of our precious carousel spaces.
 9. Encounter (🕹️🕹️🕹️)[14:00] - One of many Pixel Production games that intrigues me. The storytelling is fantastic (for a VIC-20 game) as are the graphics. In this production you make decisions, via puzzles and challenges, as you have a close encounter of the third kind.
 10. Frantic (🕹️🕹️)[16:41] - I didn't spend enough time in the video with this one. There are some intriguing features of this game once you understand the controls. Great sound and "first-person" shooting from the early 80s.

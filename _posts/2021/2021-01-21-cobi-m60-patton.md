@@ -88,7 +88,7 @@ Below are the reasons I choose to produce this video, which is a far cry from my
 1. A colleague at work mentioned COBI building blocks and then showed me his [U-BOOT U-48 Submarine model](https://amzn.to/366H6k6).
 2. He purchased because he and I often lamented that LEGO won't create military models (he's a modeler extraordinaire); although they will create Star Wars and have in the past offered the WWI Sopwith Camel and Red Baron plane models.
 3. I'm a LEGO fan from way back, an adult fan of LEGO (AFOL), and admittedly a LEGO snob. [LEGO clone brands](https://en.wikipedia.org/wiki/Lego_clone) such as MEGA-Blocks, Kre-O, and Best-Lock were always seen as inferior brands fraught with legal troubles, inconsistent color, loose fits, shoddy building instructions, and poor click compatibility.
-4. I love LEGO so much that in the early 2000s, My wife and I hosted, a then popular, podcast call Bricks in my Pocket.
+4. I love LEGO so much that in the early 2000s, The Lovely Accountant and I hosted, a then popular, podcast call Bricks in my Pocket.
 5. During that time, I was selected to serve as a cycle 2 LEGO Ambassador.
 6. Despite all this, the COBI submarine model spoke to me. Could a clone brand ever appeal to me?
 7. I held the submarine model in my hands. It was heavy, the blocks ha a tight fit, the price was right, and my colleague told me they had a [M60 Patton Main Battle Tank](https://amzn.to/3o1UkEB) available. He was knowingly appealing to my inner armor officer.

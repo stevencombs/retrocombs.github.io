@@ -85,7 +85,7 @@ Bleed was on par with other inks I've used; which is to say, too much. Single li
 
 Go over a line more than once will always result in bleed as shown in the image above. Of course bleed will vary based on paper quality but you should expect it on normal stock. Bleed is a pet peeve of mine that I can't let go. It probably isn't as big an issue for most.
 
-My wife characterized the ink by saying, "It is wet." This is spot on. The pen does leave a lot of ink compared to the Pilot pens we both use daily. Still, she summed up by saying she likes the pen for the short marks she makes while working through her to do list.
+The Lovely Accountant characterized the ink by saying, "It is wet." This is spot on. The pen does leave a lot of ink compared to the Pilot pens we both use daily. Still, she summed up by saying she likes the pen for the short marks she makes while working through her to do list.
 
 # Recommendation
 The IKEA FULLFÖLJA gel pen could be something special. The overall experience is harmed only by the barrel. If IKEA were to utilize a heavier barrel material and increase the circumference a tad, this could be a good pen. Maintain the price point and even pen snobs will stop by to purchase.

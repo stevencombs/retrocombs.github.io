@@ -51,6 +51,6 @@ That's the primary "tech" I take with me on trips. In addition to these devices,
 
 And finally, all of this goes into the extremely lightweight and functional [Eddie Bauer Unisex-Adult Stowaway Daypack](https://amzn.to/2Oo4Abn). This bag is inexpensive, water resistant, easy to clean, includes outside mesh pockets, and can be folded down flat when empty.
 
-That's the entire list. My wife often comments that my technology bag is larger and heavier than my suitcase. I can't argue with her, especially for overnight trips; however, each item plays a part in keeping me more productive, entertained, and worry-free during my travels.
+That's the entire list. The Lovely Accountant often comments that my technology bag is larger and heavier than my suitcase. I can't argue with her, especially for overnight trips; however, each item plays a part in keeping me more productive, entertained, and worry-free during my travels.
 
 What do you include in your traveling technology bag? Drop a comment below and let's discuss!

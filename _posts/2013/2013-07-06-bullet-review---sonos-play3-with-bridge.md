@@ -10,7 +10,7 @@ categories:
 kind: review
 ---
 
-A couple of weeks ago, my wife made an offer to purchase a [Sonos Play:3][2] for me for Father's Day. I've been eyeing and researching the streaming music device for months and I believe she knew I was intent on trying one, so why not make it a gift. Good call!
+A couple of weeks ago, The Lovely Accountant made an offer to purchase a [Sonos Play:3][2] for me for Father's Day. I've been eyeing and researching the streaming music device for months and I believe she knew I was intent on trying one, so why not make it a gift. Good call!
 
 ![][1]
 
@@ -38,7 +38,7 @@ At the time, [Sonos][3] was offering the [Play:3][2] with a [Sonos Bridge][4] (a
 - No iTunes radio support
 
 # Summary:
-If my wife finds the Sonos compelling, it must be good. Right? She's really good with tech, but she was a bit hesitant about this purchase. I came home from work one day and she surprised me by saying that "the Sonos kept me motivated during work today...and it was fun!" Probably not a better endorsement than that one. I can't wait until we save up and can afford another component such as the larger [Play:5][7], [sound bar][8] or the [subwoofer][9].
+If The Lovely Accountant finds the Sonos compelling, it must be good. Right? She's really good with tech, but she was a bit hesitant about this purchase. I came home from work one day and she surprised me by saying that "the Sonos kept me motivated during work today...and it was fun!" Probably not a better endorsement than that one. I can't wait until we save up and can afford another component such as the larger [Play:5][7], [sound bar][8] or the [subwoofer][9].
 
 ![][6]
 

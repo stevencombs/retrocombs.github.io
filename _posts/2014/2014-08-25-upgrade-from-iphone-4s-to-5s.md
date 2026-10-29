@@ -66,13 +66,13 @@ Say what you will about the new Lightning connector, but ever since I began usin
 
 # TouchID
 
-The number of folks at work who have an iPhone 5s and do not use touch ID amazes me. I’m not sure if this is due to paranoia, or simply a lack of understanding, but I LOVE touch ID. It just feels more secure and is much more convenient that punching in the four digit pin necessary prior to Touch ID. The first time you buy apps, music and video with Touch ID, you will never want to punch in a password or pin again. I am excited that other apps will allow access to Touch ID in iOS 8. I look forward to a day when I can find an item on Amazon and with a simple touch of my finger, buy it. Well, I can wait, I’m not sure my bank account manager (wife) can.
+The number of folks at work who have an iPhone 5s and do not use touch ID amazes me. I’m not sure if this is due to paranoia, or simply a lack of understanding, but I LOVE touch ID. It just feels more secure and is much more convenient that punching in the four digit pin necessary prior to Touch ID. The first time you buy apps, music and video with Touch ID, you will never want to punch in a password or pin again. I am excited that other apps will allow access to Touch ID in iOS 8. I look forward to a day when I can find an item on Amazon and with a simple touch of my finger, buy it. Well, I can wait, I’m not sure my bank account manager (The Lovely Accountant) can.
 
 [Return to TOC](#contents)
 
 # Color
 
-I choose the champaign gold iPhone 5s because it was on sale. By itself, I don’t particularly like the mix of champaign gold and white. When I add a [Gold Spigen iPhone 5s case](http://www.amazon.com/gp/product/B00FFM7UKG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FFM7UKG&linkCode=as2&tag=stevenccom-20), the phone looks great and the combination of the black and gold gives the phone a more industrial look. As my wife says, it classes up the phone a bit. Check out my image below and see if you don’t agree.
+I choose the champaign gold iPhone 5s because it was on sale. By itself, I don’t particularly like the mix of champaign gold and white. When I add a [Gold Spigen iPhone 5s case](http://www.amazon.com/gp/product/B00FFM7UKG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FFM7UKG&linkCode=as2&tag=stevenccom-20), the phone looks great and the combination of the black and gold gives the phone a more industrial look. As The Lovely Accountant says, it classes up the phone a bit. Check out my image below and see if you don’t agree.
 
 ![Spigen iPhone 5s case](/images/posts/2014-08-25-iphone-5s-spigen-case.jpg)
 

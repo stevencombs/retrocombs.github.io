@@ -62,7 +62,7 @@ Dr. Combs has written 14 textbooks and workbooks and has given numerous presenta
 
 “Steven has the skills necessary to lead our operations in Columbus and the surrounding communities of Greensburg, Seymour, Nashville, North Vernon, and Scottsburg." Lowery said. "He is a proven leader and has a strong track record of pulling people together to move organizations forward."
 
-A graduate of Leadership Lafayette, Combs is a member of Columbus Sunrise Rotary, Columbus Economic Development Board, Columbus Education Coalition, Reserve Officer's Association, and Association of the Century. Combs resides in Columbus with his wife Nikki A. Combs, who is an adjunct psychology faculty member at Ivy Tech Community College and IUPUC.
+A graduate of Leadership Lafayette, Combs is a member of Columbus Sunrise Rotary, Columbus Economic Development Board, Columbus Education Coalition, Reserve Officer's Association, and Association of the Century. Combs resides in Columbus with The Lovely Accountant, who is an adjunct psychology faculty member at Ivy Tech Community College and IUPUC.
 
 ## About Ivy Tech Community College
 Ivy Tech Community College is the state’s largest public postsecondary institution and the nation’s largest singly accredited statewide community college system serving nearly 200,000 students annually. Ivy Tech has campuses throughout Indiana. It serves as the state’s engine of workforce development, offering affordable degree programs and training that are aligned with the needs of its communities. In addition, its courses and programs transfer to other colleges and universities in Indiana. It is accredited by the Higher Learning Commission and is a member of the North Central Association.
