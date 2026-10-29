@@ -17,9 +17,16 @@ tags:
   - bluetooth
   - smart
 kind: review
+rating: 4
 ---
 
 It's time for a Wyze product OPEN THE BOX and FIRST USE. This time, it's the Wyze Robot Vacuum, the newest smart and app enabled vacuum from one of my favorite brands, Wyze. In this blog post and companion video, I open the box and use the vacuum for the very first time.
+
+{% include review-box.html
+   score="4"
+   summary="It never got stuck, it out-cleans my Eufy and the battery handles about 1,500 sq ft. TLA approved, though it costs about $100 more."
+   product="Wyze Robot Vacuum"
+   channel="tech" %}
 
 ## YouTube Video: _OPEN THE BOX and FIRST USE: Wyze Robot Vacuum, Does it suck?_
 
