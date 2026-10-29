@@ -7,9 +7,18 @@ email: 'retrocombs@icloud.com'
 category: apple
 comments: 'yes'
 kind: review
+rating: 4
 ---
 
 A little over a year ago I reviewed the [NewTrent Airbender 2.0](/apple/2014/03/06/bullet-review-newtrent-airbender-2.html). About a week ago, NewTrent sent an offer to review an upgrade, the NewTrent Airbender 3.0. The main new feature is support for the iPad Air 2 as well as the original iPad Air (the model I own and use regularly). I wondered if there were significant improvements to the original 2.0 and accepted the offer. A couple of days later, it arrived.
+
+{% include review-box.html
+   score="4"
+   price="Less than $40"
+   where="on Amazon (as of Jul 2015)"
+   summary="I type faster and more accurately on it than on my MacBook. The new latch is a nuisance, but at under $40 it's a steal."
+   product="New Trent Airbender 3.0"
+   channel="tech" %}
 
 ![](https://lh6.googleusercontent.com/-Q6ufztsma0g/VZcHPIpxoHI/AAAAAAABlr8/AwIJl1U8cFA/s966-no/IMG_8387.JPG)
 

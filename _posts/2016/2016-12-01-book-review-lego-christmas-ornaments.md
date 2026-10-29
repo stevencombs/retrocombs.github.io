@@ -14,9 +14,18 @@ tags:
   - christmas
   - ornaments
 kind: review
+rating: 4.5
 ---
 
 In the past year, [No Starch Press][1] sent both [The LEGO Architect][2] and [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3] for a review. On October 6, 2016, I also found Chris McVeigh's new book, [The LEGO Christmas Ornament Book: 15 Designs to Spread Holiday Cheer][4] in my mailbox. I mentioned in my [Geeky LEGO Crafts: 21 Fun and Quirky Projects][5] review that I was a huge fan of McVeigh's style so I was thrilled to receive this new book.
+
+{% include review-box.html
+   score="4.5"
+   price="$19.95 retail; around $14 on Amazon"
+   where="(as of Dec 2016)"
+   summary="A handsome hardbound book of ornaments to build before the holidays. My only wish is a Commodore or Apple model next to the retro PC."
+   product="The LEGO Christmas Ornaments Book"
+   channel="retrocombs" %}
 
 # About Chris McVeigh
 Chris is well known among the LEGO community. He has an active social media presence on multiple platforms and maintains his LEGO related site at [chrismcveigh.com][6]. He is known for his LEGO photography, miniature models and something he has coined as "[Brick Sketches][7]." Chris has great "cred" among the adult fans of LEGO (AFOL) community. I am one of his biggest fans and often share his creations (like the one shown below).

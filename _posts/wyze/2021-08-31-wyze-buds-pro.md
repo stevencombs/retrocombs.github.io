@@ -16,9 +16,18 @@ tags:
   - bluetooth
   - noise cancellation
 kind: review
+rating: 3
 ---
 
 It's time for another Wyze product first look. This time, it's the Wyze Buds Pro. As a backer, I received an early pair of these new buds and, at the time of this writing, pre-orders are available for the next shipment. If you have questions about these new buds, this blog post and companion video can help as I unbox, setup, pair, and run the buds through a few use cases. At the end of the post, I'll provide final thoughts. Let's first dig in with my companion video.
+
+{% include review-box.html
+   score="3"
+   price="$60"
+   where="(as of Aug 2021)"
+   summary="They fit great, and the noise cancelling is good but not headphone good. The tap controls are tiny and there's no find feature. At $60, a fair pick."
+   product="Wyze Buds Pro"
+   channel="tech" %}
 
 **Table of Contents**
 

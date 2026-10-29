@@ -8,9 +8,16 @@ comments: yes
 permalink: lifegoo-power-screwdriver
 category: gadgets
 kind: review
+rating: 4
 ---
 
 The friendly folks over at [LIFEGOO](https://amzn.to/3yypuL0), thanks Angus, sent over their Mini Electric Screwdriver, LIFEGOO Precision Screwdriver Set with 48 Magnetic Precision Bits & LED Light & Magnetic Mat, Cordless Electric Screwdriver Kit for Phone Watch Camera Laptop (62 In 1) that's [sold on Amazon](https://amzn.to/3nPsLki). I previously took a look at the [iFu precision power screwdriver](https://youtu.be/YdfcpmUEyBA) and my guess is they saw that video and wanted me to take a stab at their version.
+
+{% include review-box.html
+   score="4"
+   summary="Extra-long bits and a 2 oz body make it A-OKAY for my retro computer work. It's my pick of the bunch, and I recommend it."
+   product="LIFEGOO Power Screwdriver"
+   channel="retrocombs" %}
 
 ![LIFEGOO Set](https://m.media-amazon.com/images/I/716dGTUMMzL._AC_SL1500_.jpg)
 <center><sub>Image courtesy of LIFEGOO and Amazon</sub></center>

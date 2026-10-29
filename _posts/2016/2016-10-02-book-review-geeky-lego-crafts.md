@@ -13,11 +13,20 @@ image:
   height: 630
   alt: 'Cover of Geeky LEGO Crafts by David Scarfe'
 kind: review
+rating: 4.5
 ---
 
 ![Cover of Geeky LEGO Crafts by David Scarfe](/images/posts/geeky-lego-crafts/cover.jpg)
 
 Each year before the holidays begin, [No Starch Press][1] sends me a review copy of their latest LEGO title. Last year it was the [The LEGO Architect][2] and this year it is, [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3]. Receipt of these books prior to Halloween has become a fun tradition in the Combs household. It also means a promise to read and review the book; something I've always enjoyed. Let's take a look at this new book by David Scarfe.
+
+{% include review-box.html
+   score="4.5"
+   price="$19.95 retail"
+   where="(as of Oct 2016)"
+   summary="Quirky, retro and useful builds, from a cassette letter holder on up, with easy steps. A must-buy for fans of geeky LEGO."
+   product="Geeky LEGO Crafts"
+   channel="retrocombs" %}
 
 # About David Scarfe
 Let me begin my review with detail about the author, David Scarfe. Below is information from the No Starch press release:

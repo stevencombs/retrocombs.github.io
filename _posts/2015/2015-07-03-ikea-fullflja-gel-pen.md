@@ -8,9 +8,18 @@ comments: 'yes'
 categories:
   - art
 kind: review
+rating: 2
 ---
 
 Today I present a pen review that quite probably no one saw coming. You can't purchase this pen at [JetPens](http://www.jetpens.com). You won't find it at your local discount store and you won't even find it at [Pen Chalet](http://www.penchalet.com). Nope, for this one, you need stop by the home of Swedish design; [IKEA](http://www.ikea.com).
+
+{% include review-box.html
+   score="2"
+   price="$1.99 for three"
+   where="(as of Jul 2015)"
+   summary="Too light, it bends, it cramps my hand and it bleeds. It's not a great pen, but at $2 for three I keep one in each car for signatures."
+   product="IKEA FULLFÖLJA gel pen"
+   channel="retrocombs" %}
 
 On a recent trip to IKEA–West Chester, and after engorging myself on a Swedish meatball lunch, I browsed the home office area and noticed stationary products. My eye was then drawn to the view shown below.
 

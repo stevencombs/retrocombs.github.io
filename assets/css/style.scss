@@ -736,6 +736,7 @@ article.post-card .post-card-body{padding-bottom:8px}
 /* DEFAULT (b): horizontal row. Strip + score on one line, then the five names 1 -> 5 left to right. */
 .rc-review__top{display:flex;flex-direction:column;gap:12px;margin:4px 0 16px}
 .rc-review__scoreblock{display:flex;flex-direction:row;align-items:center;gap:16px}
+@media (max-width:760px){.rc-review__scoreblock{flex-wrap:wrap;row-gap:4px}}
 .rc-review__scoreblock .rc-review__score{font-size:34px;color:var(--rv-ink)}
 .rc-review .rc-ladder{list-style:none;margin:0;padding:0;display:flex;flex-direction:row-reverse;justify-content:flex-end;
   flex-wrap:wrap-reverse;align-items:center;gap:4px 6px}

@@ -13,9 +13,16 @@ tags:
   - ink
 comments: yes
 kind: review
+rating: 4
 ---
 
 For several months now, I have been on a search for color pens to add a splash of color to my sketchnotes. What I thought would be a simple task, proved to be more difficult than expected. There are hundreds of brands/varieties of colorful markers and pens; however, I had specific requirements:
+
+{% include review-box.html
+   score="4"
+   summary="The best range of colors I've found, plus a great case. There's a little bleed on thin paper and the barrel has no grip, but I highly recommend them."
+   product="Staedtler Triplus Fineliner"
+   channel="retrocombs" %}
 
 * 12 or more useful colors
 * .3mm to .5mm fine tip

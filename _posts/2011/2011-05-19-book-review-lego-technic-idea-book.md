@@ -7,9 +7,18 @@ email: 'retrocombs@icloud.com'
 comments: true
 category: lego
 kind: review
+rating: 4.5
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-eTSxXIb8fVM/TdW70hRgFWI/AAAAAAAA1RU/g2y-XvwTBoU/s200/BimPBookReviewSimpleMachines.png" align="right" width="250" />The kind folks over at [No Starch][2], and Travis specifically, were kind enough to send me review copies of the[ ][3][LEGO Technic Idea Book ][3]![][4]series by Yoshihito Isogawa. As past readers know, I am very fond of the No Starch line of LEGO books with [Alan Bedford's Unofficial LEGO Builder's Guide][5]![][6] my absolute favorite of all time. Given their past performance with LEGO books, I was excited to read and give this series a try.
+
+{% include review-box.html
+   score="4.5"
+   price="$19.95 retail each; about $12 on Amazon"
+   where="(as of May 2011)"
+   summary="These books spark ideas for my own builds, and they're a must-have for any LEGO fan. I just wish the spines would lie flat."
+   product="LEGO Technic Idea Book"
+   channel="retrocombs" %}
 
 It has been about a month since I received the books and I've finally had some time to sit down with this three volume series and develop a full BimP review.
 

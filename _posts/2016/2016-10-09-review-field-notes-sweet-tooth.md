@@ -8,8 +8,17 @@ comments: 'yes'
 categories:
   - art
 kind: review
+rating: 4.5
 ---
 Rhodia has replaced [the Moleskine brand][1] as my new favorite notebooks. I currently use a [Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid][2]. I enjoy the Rhodia because of its high quality assembly, thick/no-bleed/gloss paper and soft feel of the cover. It's a joy to use my favorite [Pilot Precise V7 RT pen][3] to write notes and craft ideas in this journal.
+
+{% include review-box.html
+   score="4.5"
+   price="$9.99 for a pack of three"
+   where="(as of Oct 2016)"
+   summary="Thick paper that takes my pen without bleed, in fun colors with a rugged look. They cost more than cheap pads, but these things are sweet. Buy."
+   product="Field Notes Sweet Tooth"
+   channel="retrocombs" %}
 
 While I enjoy the Rhodia notebook's 5.5 x 8.3 inch size for meetings, it's too large to take to social events or drop in the cargo pockets of my pants. I need a small notebook for these applications. For quite some time I've heard Myke and Brad on [The Pen Addict podcast][4] extoll the virtues of [Field Notes][5]. I decided to give the Field Notes brand a try and purchased three items:
 

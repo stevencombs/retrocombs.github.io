@@ -15,9 +15,18 @@ tags:
   - military
   - tanks
 kind: review
+rating: 3.5
 ---
 
 I'm an Adult Fan of LEGO (AFOL) and a LEGO fan since my 1970s childhood. As far as I remember, LEGO has always been in my home and a part of my play. In the 1980s, I purchased a MEGA block space set but quickly found they were not the same quality as LEGO.
+
+{% include review-box.html
+   score="3.5"
+   price="Paid $49.43; retail $52.14"
+   where="(as of Jan 2021)"
+   summary="An accurate, sticker-free M60 with tight-fitting bricks and good value next to LEGO. Visible sprue marks and one marred plate hold it back."
+   product="COBI M60 Patton"
+   channel="retrocombs" %}
 
 During the 1990s, I went through my dark-ages (that time when we set LEGO aside because of, well, adulting). When my daughter turned 5 in the 1990s, she began to show interest in more complicated LEGO models other than DUPLO and we built together. A father's dream come true! LEGO has been in our family ever since. Is there the possibility that I would ever purchase a competing brand of building brick? Watch the video and read the blog post below to find out.
 

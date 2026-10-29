@@ -7,9 +7,18 @@ date: 2015-05-02 18:58
 category: gadgets
 comments: yes
 kind: review
+rating: 1.5
 ---
 
 This post should be titled, Monster Digital OTG Cloud: Jack of all trades, master of none. Even the name of the device reveals a product that isn't quite sure what it is. On-The-Go (OTG) Cloud? Would the average consumer get that? Before I begin with my thoughts on this device, take a look at the promotional video below for Monster's own take on this device's capabilities.
+
+{% include review-box.html
+   score="1.5"
+   price="Paid $14; $99 MSRP"
+   where="(as of May 2015)"
+   summary="Clunky firmware, a horrible web interface and a buggy iOS app. I got mine for $14, and even at that price most people should pass."
+   product="Monster Digital OTG Cloud"
+   channel="tech" %}
 
 {% include youtube.html id="aS2K8oOXYM8" title="REVIEW: Monster Digital OTG Cloud" %}
 
