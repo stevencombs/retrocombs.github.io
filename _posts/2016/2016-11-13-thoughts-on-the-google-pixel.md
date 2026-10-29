@@ -14,9 +14,16 @@ tags:
   - android
   - review
 kind: review
+rating: 4
 ---
 
 The new Google Pixel smartphone arrived on my door step October 21, 2016; a day after the official release. I preordered the  phone the next day. As Google made the phone demonstration at their October 4 event (see video below), I knew it was time to replace my aging Nexus 6 phone with the new Google Pixel phone.
+
+{% include review-box.html
+   score="4"
+   summary="A fabulous first try from Google: great camera, steady video and a handy fingerprint swipe. Texting is a mess, and the lone speaker is for voices, not music."
+   product="Google Pixel"
+   channel="tech" %}
 
 {% include youtube.html id="yhsd2F8BIz0" title="Three week thoughts on the Google Pixel" %}
 

@@ -17,9 +17,18 @@ tags:
   - unbox
   - unboxing
 kind: review
+rating: 3
 ---
 
 I posted an "open-the-box" video for the Lenovo Yoga Smart Tab with Google Assistant on my YouTube channel. After the video, several called me out for not providing a review of this Android tablet. Below is the video. After you watch, continue on for my review of the Lenovo Yoga Smart Tab.
+
+{% include review-box.html
+   score="3"
+   price="Less than $200"
+   where="(as of Sep 2020)"
+   summary="I like the speaker spine, the built-in stand and the FM radio. It's weak for hardcore games, has no fast charging and is showing its age. Grab it under $200."
+   product="Lenovo Yoga Smart Tab"
+   channel="tech" %}
 
 ## YouTube Video: _OPEN THE BOX: Lenovo YOGA Smart TAB with Google Assistant_
 

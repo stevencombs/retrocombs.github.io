@@ -8,9 +8,18 @@ copyright: © Steven B. Combs, Ph.D. 2014
 category: apple
 comments: yes
 kind: review
+rating: 4
 ---
 
 In a recent [post][2] I wrote about my purchase of the [New Trent Airbender 2.0 for my iPad Air][3]. Inside the case box, I noticed a small post card with the banner, BECOME A PILOT USER. New Trent Pilot Users are beta testers that agree to review products. Pilot users have to first apply and share a past review. I shared my previous post. Much to my surprise, I was selected and had a chance to choose another product to review.
+
+{% include review-box.html
+   score="4"
+   price="Around $45"
+   where="(as of Mar 2014)"
+   summary="A rugged case that does its job. It adds weight, the screen cover smears, and Siri wakes when it's face down. Get it if you need the protection."
+   product="New Trent Gladius Air"
+   channel="tech" %}
 
 ![Gladius Air in box](/images/posts/2014-06-16-gladius-air.png)
 

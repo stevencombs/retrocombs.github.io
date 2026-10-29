@@ -15,9 +15,16 @@ tags:
   - first use
   - review
 kind: review
+rating: 4
 ---
 
 It's time for another Wyze product OPEN THE BOX and FIRST USE. This time, it's the Wyze Cam version 3 or Wyze Cam V3. In this video, I open the box (unbox), make all hardware connections, pair a camera to the Wyze app, share examples of image captures, and then compare these images with Wyze Cam version 2 (Wyze Cam V3 -vs- Wyze Cam v2). Check out the video below.
+
+{% include review-box.html
+   score="4"
+   summary="The image quality impressed me, and the price for this performance is hard to argue with. The USB end of the cable isn't weatherproof, though."
+   product="Wyze Cam v3"
+   channel="tech" %}
 
 ## YouTube Video: _OPEN THE BOX and FIRST USE: Wyze Cam V3
 

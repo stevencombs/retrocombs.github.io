@@ -10,9 +10,18 @@ redirect_from:
   - /apple/2014/03/06/Bullet-review-newtrent-airbender-2.html
 
 kind: review
+rating: 3
 ---
 
 I had an upcoming business trip to take and I was on the lookout for a good portable keyboard case for my [iPad Air](http://www.amazon.com/gp/product/B00G2Y4WNY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00G2Y4WNY&amp;linkCode=as2&amp;tag=stevenccom-20). There are several keyboard cases on the market, and after reading numerous reviews, I chose the [New Trent Airbender 2.0 Keyboard](http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ET9YYS2&amp;linkCode=as2&amp;tag=stevenccom-20).
+
+{% include review-box.html
+   score="3"
+   price="As little as $60"
+   where="(as of Mar 2014)"
+   summary="Good protection and a handy vertical stand, but it's bulky, the key labels are stickers and there's no backlight. It fit my budget at the time."
+   product="New Trent Airbender 2.0"
+   channel="tech" %}
 
 <img src="https://1.bp.blogspot.com/-Yw7R9FFE7UM/UxjU5FB8eqI/AAAAAAABPWA/fyXPHcSgotE/s1600/IMG_5350.JPG" width="100%" />
 

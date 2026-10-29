@@ -7,9 +7,18 @@ email: 'retrocombs@icloud.com'
 comments: true
 category: lego
 kind: review
+rating: 4.5
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-PmxKja42FPM/UMUCGXYfaQI/AAAAAAABExA/EMH2na1uhV8/s200/BimP+Book+Review+Graphic.png" align="right" width="250" />As most folks know, I am a huge fan of the first edition of Allan Bedford's wonderful The Unofficial LEGO Builder's Guide. Back when Nikki and I were still hosting the BimPCast, we had Allan join us to discuss his new book in BimPCast 24. Wanna listen to our discussion? Click [here][2].
+
+{% include review-box.html
+   score="4.5"
+   price="$24.95 retail; $15.35 paperback / $9.95 Kindle on Amazon"
+   where="(as of Dec 2012)"
+   summary="Cleaner, tighter and easier to read than the first edition. I miss the sorting chapter, but if you don't own it, buying it is a no-brainer."
+   product="The Unofficial LEGO Builder's Guide, 2nd Edition"
+   channel="retrocombs" %}
 
 Imagine my thrill when I learned Allan was in the process of updating the book to a second edition. Further imagine my thrill when No Starch press contacted me and asked if I would be interested in a review copy. "Of course!" I replied.
 

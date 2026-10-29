@@ -7,9 +7,18 @@ date: 2015-05-03 19:40
 category: art
 comments: true
 kind: review
+rating: 3
 ---
 
 I listen to [The Pen Addict podcast](http://www.relay.fm/penaddict). This is a dangerous thing. Listening causes me to use my precious gadget budget to feed a new addiction, pens and paper. During [The Pen Addict podcast](http://www.relay.fm/penaddict), the hosts, Myke and Brad, regularly extoll the [fountain pen](https://en.wikipedia.org/w/index.php?title=Special:Search&search=fountain+pens&profile=default) writing and ownership experience. I decided to see what all the fuss was about and begin [shopping Amazon for a good starter fountain pen](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=fountain%20pens&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=OWDJZADZLFQU5TXZ).
+
+{% include review-box.html
+   score="3"
+   price="$3.19 pen; $8.27 with ink"
+   where="(as of May 2015)"
+   summary="My list of dislikes is long, and the bleed is bad. But at about $8 with ink, it's a cheap way to learn whether fountain pens are for you."
+   product="JinHao 250"
+   channel="retrocombs" %}
 
 Since I am new to the fountain pen game, I only had two criteria for my fountain pen purchase: good looks and an Amazon rating of 4 or more stars. After several hours of review, I chose the [JinHao 250 Stainless Steel Gold Trim Fountain Pen - Medium](http://www.amazon.com/gp/product/B0052KLTM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0052KLTM6&linkCode=as2&tag=stevenccom-20&linkId=TSUEOXKLITSDKODM).
 

@@ -21,9 +21,16 @@ redirect_from:
   - /gadgets/2020/04/21/firstuse-cloner-box-pro.html
 
 kind: review
+rating: 4
 ---
 
 In a [previous blog post](/cloner-alliance-box-pro), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
+
+{% include review-box.html
+   score="4"
+   summary="It records my retro screens to USB, and support was quick. But I can't capture on my Mac, and its on-screen menu sneaks into my clips."
+   product="ClonerAlliance Box Pro"
+   channel="tech" %}
 
 I knew the production of this video would push my DaVinci Resolve limits and because of COVID-19, I had time to work on the project over the course of a couple of weeks. While preparing the video, I had another idea. Why not try and connect the Cloner Alliance Box Pro to a Commodore Plus/4. You can read more about that below.
 

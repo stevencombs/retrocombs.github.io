@@ -8,9 +8,18 @@ comments: yes
 permalink: nabu-surprises
 category: nabu
 kind: review
+rating: 4.5
 ---
 
 I’ve temporarily shifted my MEGA65 obsession to the newest retro-computing fad on the YouTubes, the NABU Personal Computer. I've shared my [unboxing](https://youtube.com/live/NK2tEIEFpYo?feature=share), [first use](https://youtube.com/live/54Ij7_qIBmw?feature=share), and [a cable build](https://youtu.be/7YMMC7tcRdQ). My experience with the device has been interesting and in this post, I want to share ten things about the NABU that surprises this Commodore computer fan. Let's dig in.
+
+{% include review-box.html
+   score="4.5"
+   price="$150 or less"
+   where="all in (as of Apr 2023)"
+   summary="A lot of retro computing for the money, with its network brought back to life. The bundled software is mediocre, but this is a steal. Grab one."
+   product="NABU"
+   channel="retrocombs" %}
 
 ----
 

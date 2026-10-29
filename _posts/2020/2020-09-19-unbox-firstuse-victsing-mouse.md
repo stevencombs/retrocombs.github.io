@@ -16,9 +16,18 @@ tags:
   - peripherals
   - pointer
 kind: review
+rating: 3
 ---
 
 My trusty 2010 Microsoft Bluetooth Notebook Mouse 5000 gave up the electronic ghost this past week. Over time, the device became less trustworthy. Is ten years the life span of an electronic rodent? Not sure, but the mouse served me well until recently when the cursor began to lag and the connection to my Mac mini would drop.
+
+{% include review-box.html
+   score="3"
+   price="Under $40"
+   where="(as of Sep 2020)"
+   summary="It fits my hand and the buttons are quiet. The lag on my Mac mini got better but isn't gone, and the thumb wheel sits in an awkward spot."
+   product="VictSing Wireless Mouse"
+   channel="tech" %}
 
 Additionally, the Microsoft notebook mouse has always been small and my goal for a new mouse was to be better fit my hand. Selecting a Logitech or another Microsoft mouse would generally be my goto options; however, like web cams during COVID-19, there's a hefty markup on premium brands. After some research, I decided to try an off-brand called [VictSing](https://www.victsing.com/) and purchase their [VictSing Wireless Mouse (#ad)](https://amzn.to/3mDnPNt).
 
