@@ -7,9 +7,18 @@ date: 2015-04-18 14:09
 category: art
 comments: yes
 kind: review
+rating: 4
 ---
 
 My go to daily pen is the Pilot Precise V5 RT. This inexpensive pen is the perfect daily use pen for the type of writing I do. Luckily, these pens are on our college’s purchase list and I am able to [order these by the box](http://www.amazon.com/gp/product/B001E6A9M8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E6A9M8&linkCode=as2&tag=stevenccom-20&linkId=W7XFBU6YQH4L3MY2) and keep them in my desk, jacket, car and traveler's bag. I like the pen so much, I decided to see what else Pilot has to offer.
+
+{% include review-box.html
+   score="4"
+   price="$18"
+   where="(as of Apr 2015)"
+   summary="Thin, clean lines in color, with a case to boot. The color mix is odd and I miss a rubber grip, but at $18 they're a great value."
+   product="Pilot HI-TEC-C maica"
+   channel="retrocombs" %}
 
 Specifically, I was looking for something with color as an alternative to the [Staedtler Triplus Fineliners I reviewed previously](/art/2015/03/20/staedtler-triplus-fineliner-review.html). Don’t get me wrong, I don’t intend to replace the Staedlters. They are a good go to color marker. My goal is to simply experience color in a pen that is similar to the Pilot Precise V5 RT. After much research in [the Pen Addict Slack room](https://twitter.com/dowdyism/status/573604917463535618) and at Amazon, I decided to try the [Pilot HI-TEC-C maica .04 twelve color set](http://www.amazon.com/gp/product/B00N92S8FA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00N92S8FA&linkCode=as2&tag=stevenccom-20&linkId=45NEKD4Q22QJXWEQ). For $18.00 (or $1.50 a pen), this seemed like a good deal that would fit within my pen budget. Amazon customers gave the set a 4.5 star review. Good enough for me. Add to Cart. Purchase.
 

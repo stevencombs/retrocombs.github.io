@@ -8,9 +8,18 @@ comments: 'yes'
 categories:
   - lego
 kind: review
+rating: 5
 ---
 
 No Starch Press sent me a prerelease copy (release date: September 24th, 2015) of their latest LEGO related title, [The LEGO Architect][1]. I AM GLAD THEY DID! Everyone knows that I am a huge fan of Allan Bedford's [The Unofficial LEGO Builder’s Guide][2]. I enjoy his book because it does just more than show how to build a specific model or genre of models – it teaches concepts that make you a better model builder and gives you a mathematical understanding of LEGO components and their connections.
+
+{% include review-box.html
+   score="5"
+   price="$25 retail"
+   where="(as of Sep 2015)"
+   summary="A great primer on architecture and on building LEGO models of it. I couldn't be more thrilled with it, and it's a must-buy for any LEGO or architecture fan."
+   product="The LEGO Architect"
+   channel="retrocombs" %}
 
 ![][image-1]
 

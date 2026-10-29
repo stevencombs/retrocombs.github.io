@@ -14,9 +14,18 @@ tags:
   - health
   - wyze watch review
 kind: review
+rating: 3
 ---
 
 I think I have a smartwatch and fitness tracker problem. I've worn a WearOS watch for the past three years. It's been and up and down relationship. Battery life on WearOS devices are horrible and a daily charge is required. I've owned a pocket FitBit so supplement the times when I forgot to charge my WearOS, but it's days were numbered years ago.
+
+{% include review-box.html
+   score="3"
+   price="$20"
+   where="(as of Mar 2021)"
+   summary="A $20 watch that feels premium, with awesome battery life. But my outdoor runs were off by half a mile or more, and some notifications never showed up."
+   product="Wyze Watch"
+   channel="tech" %}
 
 I love my current WearOS device, the [TicWatch C2+](https://youtu.be/QmCGzq3gkls); however, it too requires a daily charge. A daily charge means I don't wear it to bed and track my sleep and admittedly, I'm not sure I want to wear it to bed or even on a run. That's "wear" the $24 Wyze Band comes into play.
 

@@ -25,9 +25,18 @@ image:
   height: 720
   alt: 'PicoCalc Out-of-Box Tutorial'
 kind: how-to
+rating: 4.5
 ---
 
 I've always had a soft spot for handheld computers, going all the way back to the 1980s. What I wanted from those devices was a way to program in BASIC on the go, but single-line displays and chiclet keyboards didn't make that easy. The Clockwork PicoCalc finally scratches that itch: a Raspberry Pi Pico, a 320x320 IPS color screen, a backlit QWERTY keyboard, speakers, an SD card slot, and GPIO pins, all in a pocket-sized kit you build yourself.
+
+{% include review-box.html
+   score="4.5"
+   price="$89 on Clockwork's store"
+   where="(as of May 2025)"
+   summary="A pocket BASIC computer that boots straight into fun: calculator, programs, a serial terminal, even NES games. It's become one of my favorite handhelds."
+   product="Clockwork PicoCalc"
+   channel="tech" %}
 
 This post is the text companion to my @retroCombs-tech video. It walks through everything I cover in the video, with every command in one place so you can copy it: assembly tips, hardware shortcuts, MMBasic in direct mode, file management, your first programs, a serial terminal, blinking an LED from the GPIO pins, and loading new firmware. I've also added extra tips and a section on what has changed since the video was published. Let's dig in!
 

@@ -8,9 +8,16 @@ comments: yes
 permalink: tao-1tiny
 category: gadgets
 kind: review
+rating: 3.5
 ---
 
 During the COVID pandemic of 2020, online meetings took over my life and, in a search to find a good meeting presence, I accumulated an insane number of USB webcams. Cameras quickly became scarce, and I tried everything from available $25 fixed focus cameras to an eventual and brilliant $130 4K [Logitech Brio](https://amzn.to/3dLvfP1).
+
+{% include review-box.html
+   score="3.5"
+   summary="It does everything it says, and it's the only device I've found for this job. But the price stung, the fan is loud, and the quiet-fan upgrade barely helped."
+   product="RGBLink TAO 1tiny"
+   channel="tech" %}
 
 After a day of virtual meetings, I spent the evenings building my [YouTube channel](https://www.youtube.com/stevencombs) using these same webcams with OBS Studio on my Mac. I'd use the Brio for the headshot and one of the cheaper models for a workbench view. It worked and got me started, but I quickly saw the need for a dedicated audio/visual/streaming platform and better cameras. This led me to the [ATEM Mini](https://amzn.to/3QzB7JA) followed by the [ATEM Mini Extreme Iso](https://amzn.to/3dJ3OVU). 
 
