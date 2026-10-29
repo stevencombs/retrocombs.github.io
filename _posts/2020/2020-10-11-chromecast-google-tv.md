@@ -15,12 +15,19 @@ tags:
   - roku
   - google tv
 kind: review
+rating: 4
 ---
 
 During Google's 2020 "[Launch Night In](https://www.youtube.com/watch?v=q2HSJHOMDyk)" event, the Chromecast with Google TV was announced. Not a surprise, not much is anymore; however, even when the whispers of this device echoed in the halls of the Internet, I was intrigued. Prior to this purchase of this device, I owned the two following Android TV devices:
 
 1. [nVidia Sheld TV (#ad)](https://amzn.to/2FnQxkU)
 2. [mi Box S (#ad)](https://amzn.to/3nPRvI6)
+
+{% include review-box.html
+   score="4"
+   summary="I love the interface and the remote, and content discovery is amazing. The live guide needs work, there's no multitasking, and group audio drifts."
+   product="Chromecast with Google TV"
+   channel="tech" %}
 
 I enjoy both Android TV devices and use them along with two Roku devices and an Apple TV. I've always considered Android TV to be just a step below both Apple TV and Roku for several combined reasons including:
 

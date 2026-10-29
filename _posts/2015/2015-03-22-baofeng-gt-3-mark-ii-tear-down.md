@@ -7,9 +7,18 @@ date: 2015-03-22 15:18
 category: ham
 comments: yes
 kind: bench
+rating: 3.5
 ---
 
 I recently replaced the stock antenna on my [Baofeng GT-3 Mark II](http://www.amazon.com/gp/product/B00HHOLAKG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HHOLAKG&linkCode=as2&tag=stevenccom-20&linkId=TDJT4DBFIOUXWULP) with a [Hypario® 771 dual band antenna](http://www.amazon.com/gp/product/B00HUCQZLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HUCQZLY&linkCode=as2&tag=stevenccom-20&linkId=W6BR6FVADCK2RCJE). Reviews of the antenna suggest that I would receive an increase in receive and transmission range. Since I’m not licensed to transmit yet, I can only verify receive. It is an improvement.
+
+{% include review-box.html
+   score="3.5"
+   price="$55"
+   where="(as of Mar 2015)"
+   summary="I had an antenna problem, but it's still a great radio for anyone new to ham, and it taught me a lot while I studied for my license."
+   product="Baofeng GT-3 Mark II"
+   channel="tech" %}
 
 However, it is not a good fit for the Baofeng GT-3 and somewhere down the line, the extra heft of the antenna along with several removals cause the antenna connector on the Baofeng to come loose and one day I even heard a small rattle in the hand-held unit. I decided to tear it down and determine what was going on.
 

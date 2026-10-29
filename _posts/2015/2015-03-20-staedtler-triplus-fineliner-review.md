@@ -13,6 +13,7 @@ tags:
   - ink
 comments: yes
 kind: review
+rating: 4
 ---
 
 For several months now, I have been on a search for color pens to add a splash of color to my sketchnotes. What I thought would be a simple task, proved to be more difficult than expected. There are hundreds of brands/varieties of colorful markers and pens; however, I had specific requirements:
@@ -25,6 +26,12 @@ For several months now, I have been on a search for color pens to add a splash o
 and most importantly
 
 * NO BLEED!
+
+{% include review-box.html
+   score="4"
+   summary="The best range of colors I've found, plus a great case. There's a little bleed on thin paper and the barrel has no grip, but I highly recommend them."
+   product="Staedtler Triplus Fineliner"
+   channel="retrocombs" %}
 
 My first purchase was a 24 set of [Sharpie Permanent Markers, Ultra Fine Points][1]. I chose them for the variety of colors available and on first use, really liked them. That is until I turned the page and discovered the bleed. And the bleed was severe, I’m talking artery cut severe, even on a page in my [Moleskine Art Plus Sketchbook][2] that has a 165 gsm/111 lb paper weight. I was a bit bummed that I had ruined a page in my sketchbook (see image below) and quickly decided to continue my search.
 

@@ -8,9 +8,18 @@ comments: 'yes'
 categories:
   - gadgets
 kind: review
+rating: 2.5
 ---
 
 [New Trent][1] once again provided me with an opportunity to review a new product; the [Arcadia dual port AC charger][2]. When I received an email that the product was available for review, I must admit, my decision to review the charger was a bit selfish. I could sure use a free wall wart for the brand new [nVidia Shield K1 Tablet][3] I received over the holidays.
+
+{% include review-box.html
+   score="2.5"
+   price="Around $13"
+   where="(as of Feb 2016)"
+   summary="It's cheap, but it can't charge my tablet and phone at the same time. I'm not sure I'd buy one."
+   product="New Trent Arcadia"
+   channel="tech" %}
 
 nVidia does not include a charger as a cost savings measure. An extra charger to throw in my travel bag would be just the ticket. Let's see if this charger punches that ticket. Here's my bullet review:
 

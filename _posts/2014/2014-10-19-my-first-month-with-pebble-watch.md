@@ -15,11 +15,20 @@ image:
   height: 720
   alt: 'Three original Pebble e-paper watches in red, black, and white'
 kind: review
+rating: 4
 ---
 
 ![Three original Pebble e-paper watches in red, black, and white](/images/posts/pebble-watch/pebble-watches.jpg)
 
 At the end of September, Apple announced their new [Apple Watch](https://www.apple.com/watch/). I watched the announcement and found myself intrigued by the device; however, one thing kept nagging me, I can’t remember the last time I wore a watch on a regular basis. I think it was in the mid 1990s. After that period I only wore a watch whenever I put on my uniform for military duty and occasionally while I ran.
+
+{% include review-box.html
+   score="4"
+   price="$99"
+   where="(as of Oct 2014)"
+   summary="A great watch on its own and a handy notification center with my iPhone, with days of battery. At $99 it's the easy way to see if smartwatches fit you."
+   product="Pebble"
+   channel="tech" %}
 
 The Apple Watch looks cool and appears to provide some interesting functionality, but if I’m not going to enjoy wearing a watch, I can’t see shelling out over $350 for one. Enter the Pebble.
 

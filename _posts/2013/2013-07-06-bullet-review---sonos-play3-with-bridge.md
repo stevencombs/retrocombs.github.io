@@ -8,9 +8,18 @@ comments: 'yes'
 categories:
   - gadgets
 kind: review
+rating: 4
 ---
 
 A couple of weeks ago, The Lovely Accountant made an offer to purchase a [Sonos Play:3][2] for me for Father's Day. I've been eyeing and researching the streaming music device for months and I believe she knew I was intent on trying one, so why not make it a gift. Good call!
+
+{% include review-box.html
+   score="4"
+   price="$299 for a second unit"
+   where="(as of Jul 2013)"
+   summary="Excellent sound for its size, and setup was simple. It's mono unless you buy a second one, there's no web control, and it gets pricey room by room."
+   product="Sonos Play:3"
+   channel="tech" %}
 
 ![][1]
 
