@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 category: apple
 comments: 'yes'
+image:
+  path: 'https://lh6.googleusercontent.com/-Q6ufztsma0g/VZcHPIpxoHI/AAAAAAABlr8/AwIJl1U8cFA/s966-no/IMG_8387.JPG'
+  width: 966
+  height: 966
+  alt: 'BULLET REVIEW: NewTrent Airbender 3.0'
 kind: review
 ---
 

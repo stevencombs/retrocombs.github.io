@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 categories:
   - raspberrypi
+image:
+  path: /images/posts/2016-03-23-connect-to-server-dialog-box.png
+  width: 1196
+  height: 686
+  alt: 'Connect to Server dialog box'
 kind: how-to
 ---
 

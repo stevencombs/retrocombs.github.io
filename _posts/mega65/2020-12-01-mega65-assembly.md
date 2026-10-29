@@ -11,6 +11,11 @@ tags:
   - mega65
   - devout
   - unboxing
+image:
+  path: /images/posts/mega65-1/mega65-1.jpg
+  width: 1280
+  height: 720
+  alt: 'retroCombs: Commodore Plus/4, Chapter 6 - Beginning BASIC Programming'
 kind: bench
 ---
 

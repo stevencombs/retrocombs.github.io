@@ -20,6 +20,11 @@ tags:
 redirect_from:
   - /arduino/2020/01/20/arduino-hello-world.html
 
+image:
+  path: /images/posts/2020-01-20-adruino-switch-led/led-switch-demo.gif
+  width: 418
+  height: 418
+  alt: 'Animated GIF of objective'
 kind: bench
 ---
 

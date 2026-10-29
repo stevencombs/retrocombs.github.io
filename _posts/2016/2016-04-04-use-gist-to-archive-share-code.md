@@ -7,6 +7,11 @@ date: 2016-04-04T00:00:00.000Z
 comments: 'yes'
 categories:
   - code
+image:
+  path: /images/posts/2016-04-04-share-gist.png
+  width: 1994
+  height: 1026
+  alt: 'Share a Gist'
 kind: how-to
 ---
 

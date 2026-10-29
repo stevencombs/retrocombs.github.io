@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: web
+image:
+  path: /images/posts/2014-07-01-editorial-posts-bookmark.png
+  width: 2048
+  height: 1536
+  alt: 'HOWTO: Post to a Jekyll blog from an iPad'
 kind: how-to
 ---
 

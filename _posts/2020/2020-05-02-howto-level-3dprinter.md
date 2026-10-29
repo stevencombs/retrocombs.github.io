@@ -19,6 +19,11 @@ tags:
   - plunger
   - stl
   - cura
+image:
+  path: /images/posts/level-creality-ender-3/level-creality-ender-3.jpg
+  width: 480
+  height: 360
+  alt: 'HOWTO: Level a Creality Ender 3 Surface Bed and Print a Commodore VIC-20 Key Plunger'
 kind: bench
 ---
 

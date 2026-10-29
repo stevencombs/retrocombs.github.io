@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - art
+image:
+  path: 'https://lh6.googleusercontent.com/-lD93RyZs3Zk/VXTIovoHqkI/AAAAAAABfR0/tzU_gx2aKVs/w1331-h998-no/IMG_8284.JPG'
+  width: 1331
+  height: 998
+  alt: 'SKETCHNOTE: Amazon Echo ultimate guide page'
 kind: art
 ---
 

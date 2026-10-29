@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: lego
+image:
+  path: 'https://2.bp.blogspot.com/-eTSxXIb8fVM/TdW70hRgFWI/AAAAAAAA1RU/g2y-XvwTBoU/s200/BimPBookReviewSimpleMachines.png'
+  width: 198
+  height: 200
+  alt: 'BOOK REVIEW: LEGO Technic Idea Book Series'
 kind: review
 ---
 

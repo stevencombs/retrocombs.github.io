@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2015-04-18 14:09
 category: art
 comments: yes
+image:
+  path: 'https://lh4.googleusercontent.com/-hfkPDn2LMLI/VTA_Iu422sI/AAAAAAABawE/8WXaCz9uTBo/s920-no/IMG_8059.jpeg'
+  width: 920
+  height: 920
+  alt: 'REVIEW: Pilot HI-TEC-C maica'
 kind: review
 ---
 

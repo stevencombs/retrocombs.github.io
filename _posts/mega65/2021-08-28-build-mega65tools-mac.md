@@ -11,6 +11,11 @@ tags:
   - mega65
   - command-line
   - terminal
+image:
+  path: /images/mega65/github-main-page.png
+  width: 2612
+  height: 1800
+  alt: 'GitHub main page'
 kind: how-to
 ---
 

@@ -11,6 +11,11 @@ comments: yes
 redirect_from:
   - /evernote/2015/01/24/my-evernote-task-management-journey.html
 
+image:
+  path: 'https://lh6.googleusercontent.com/-m-yt1ec9tL4/VMPhyAGF4hI/AAAAAAABYTo/KpZJnPABjYQ/w612-h944-no/My_Task_List_from_Moleskine.png'
+  width: 612
+  height: 944
+  alt: 'A sample page that includes tasks from an old Evernote notebook'
 kind: editorial
 ---
 

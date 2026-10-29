@@ -17,6 +17,11 @@ tags:
   - c16
   - ted
   - tap
+image:
+  path: 'https://2.bp.blogspot.com/-h7CGISvaymA/VQc9a61cijI/AAAAAAAAKpo/_zOHc1vSwYY/s1600/tapuino_bb-r2.png'
+  width: 1117
+  height: 981
+  alt: 'Tapuino Fritzing Layout'
 kind: bench
 ---
 

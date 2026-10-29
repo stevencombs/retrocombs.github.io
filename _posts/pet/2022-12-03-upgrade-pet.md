@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: cbm-pet-upgrades
 category: pet
+image:
+  path: /images/pet/pet-motherboard.jpg
+  width: 2558
+  height: 1439
+  alt: 'Commodore PET Motherboard'
 kind: bench
 ---
 

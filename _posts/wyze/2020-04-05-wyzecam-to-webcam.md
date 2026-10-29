@@ -19,6 +19,11 @@ tags:
 redirect_from:
   - /gadgets/2020/04/05/wyzecam-to-webcam.html
 
+image:
+  path: /images/posts/wyzecam-to-webcam/wyzecam-to-webcam.jpg
+  width: 480
+  height: 360
+  alt: 'HOWTO & OPEN THE BOX: Convert a Wyze Cam Black into a webcam with Wyze''s new firmware'
 kind: how-to
 ---
 

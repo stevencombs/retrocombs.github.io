@@ -16,6 +16,11 @@ tags:
 redirect_from:
   - /gadgets/2020/03/28/unbox-cloner-box-pro.html
 
+image:
+  path: /images/posts/cloner-alliance-box-pro/cloner-alliance-box-pro.jpg
+  width: 480
+  height: 360
+  alt: 'YouTube video, OPEN THE BOX: Cloner Alliance Box Pro'
 kind: first-look
 ---
 

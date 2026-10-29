@@ -13,6 +13,11 @@ tags:
   - fish
   - linux
   - terminal
+image:
+  path: /images/posts/chip/fish-on-pocketchip.png
+  width: 480
+  height: 272
+  alt: 'fish on chip'
 kind: how-to
 ---
 

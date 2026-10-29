@@ -19,6 +19,11 @@ tags:
   - color
   - basic
   - editing
+image:
+  path: /plus4/images/screen-window.png
+  width: 384
+  height: 288
+  alt: 'A to Z'
 kind: companion
 ---
 

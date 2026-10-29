@@ -20,6 +20,11 @@ tags:
 redirect_from:
   - /arduino/2020/01/11/elegoo-mega-starter-kit.html
 
+image:
+  path: /images/posts/2020-01-11-elegoo-mega-kit.jpg
+  width: 3003
+  height: 2252
+  alt: 'The Elegoo Mega Kit (#ad)'
 kind: first-look
 ---
 

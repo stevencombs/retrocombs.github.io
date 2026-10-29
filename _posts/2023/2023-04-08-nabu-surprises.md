@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: nabu-surprises
 category: nabu
+image:
+  path: /images/posts/nabu-surprises/nabu-surprises.jpg
+  width: 1280
+  height: 720
+  alt: '10 Ways the NABU Surprised a Commodore Computer Enthusiast'
 kind: review
 ---
 

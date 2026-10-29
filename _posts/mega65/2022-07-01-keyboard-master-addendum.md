@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: master-mega65-keyboard-addendum
 category: mega65
+image:
+  path: /images/mega65/dev-kit-keyboard.jpg
+  width: 1920
+  height: 1080
+  alt: 'MEGA65 Dev Kit Keyboard'
 kind: how-to
 ---
 

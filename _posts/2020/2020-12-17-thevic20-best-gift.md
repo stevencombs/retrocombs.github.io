@@ -12,6 +12,11 @@ tags:
   - thec64
   - thevic20
   - thec64mini
+image:
+  path: /images/posts/thevic20-1/thevic20-1.jpg
+  width: 1280
+  height: 720
+  alt: '10 reasons THEVIC20 and THEC64 are great retro-computing gifts'
 kind: editorial
 ---
 

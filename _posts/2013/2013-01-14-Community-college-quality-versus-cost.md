@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
 explore: false
+image:
+  path: 'https://3.bp.blogspot.com/-58b-dlaZFUI/UPRsGGTDRHI/AAAAAAABFq0/11iWjBLyWR8/s200/Screen+Shot+2013-01-14+at+3.34.48+PM.png'
+  width: 200
+  height: 200
+  alt: 'Chart of quality versus cost'
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-58b-dlaZFUI/UPRsGGTDRHI/AAAAAAABFq0/11iWjBLyWR8/s200/Screen+Shot+2013-01-14+at+3.34.48+PM.png" align="right" width="200" />Community colleges have several stigmas. One in particular is a sticky-wicket. That being cost. We strive to maintain a low cost for our students. We pride ourselves on being the most affordable college in the state. Then THAT question pops up, “How can a program that costs so little have quality?” I’ve heard this referred to as the Wal-Mart syndrome. Sure you can go and buy the same product and save a few bucks, but is the entire experience worth the time spent?

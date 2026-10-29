@@ -14,6 +14,11 @@ tags:
   - thec64
   - thec64mini
   - 1-5-2
+image:
+  path: /images/posts/thevic20-3/thevic20-3.jpg
+  width: 1280
+  height: 720
+  alt: 'FAST LOAD: THEVIC20, THEC64 (maxi and mini) Firmware 1-5-2 Update | theC64-1 5 2.bin'
 kind: how-to
 ---
 

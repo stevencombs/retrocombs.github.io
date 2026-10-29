@@ -11,6 +11,11 @@ tags:
   - commodore
   - basic
   - assembler
+image:
+  path: /images/posts/plus4-encyclopedia/plus4-encyclopedia.jpg
+  width: 1280
+  height: 720
+  alt: 'Commodore Plus/4 User'
 kind: companion
 ---
 

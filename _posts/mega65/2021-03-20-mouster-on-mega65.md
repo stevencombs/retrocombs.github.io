@@ -11,6 +11,11 @@ tags:
   - mega65
   - mouster
   - mouse
+image:
+  path: /images/posts/mouster/mouster.jpg
+  width: 1280
+  height: 720
+  alt: 'FAST LOAD: Use the Retrohax.net mouSTer on the MEGA65'
 kind: bench
 ---
 

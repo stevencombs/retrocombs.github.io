@@ -7,6 +7,11 @@ date: 'October 09, 2016'
 comments: 'yes'
 categories:
   - art
+image:
+  path: 'https://lh3.googleusercontent.com/DcIH96TuqwLhE5KmiJqA9pFQn6IzFOU-AC9P3dAC29SVylm5liSzU8VtUWmjRDCjvalTttb3YJMgB7Ql63lwRuAoctjIFOTvldSADFwgCNOyqWfPQ8YHkJr2mfGvXgEHkQ1Xkqifx3g7Acmqx2mjJuM76-2B3vzIaPhlKZuTtuoFpPJ4x_WSsePgKqvgl0llv3ij2oUe4Sy_0jLIhcMTNECQguCJnq3B3Stg0KdCfWX20AJLa_cHCXDUD-wgqOB2X8FfNu-SaYMxWJ1Ed6yjk5B6W2aGAYe557CNt8f1ycwUNIgzonLOURd4-zpsciQmQEcJHmR7U7KPK7rmaeVnG20KCeVO9ZCvaFDQnCaCT4CC529u65fF1OAYqdsapcucgrUsKQxc3YeqyMOmuuCKmeLgIyLqGBOwVY8oJtK8BAeGK49_JWAi9-eCaN3Ti34MEZq7sfEZdFdbJ4t-RiNHJS9L7K2X8sYuzvg9E4unXeJsNR7hGYRhK70B3EHkXbMUxSMLAzMmks1EJBALQm8Kp1Vw2VN0-imQ7XO1Ksx95N9K9-zaSfjucbLcbNGCH6lCwsUKVeEvAyNzpPi0dk7kPlJFFejmEjlnC7lnGNGz3zz5ibVRJA=s1226-no'
+  width: 1226
+  height: 1226
+  alt: 'REVIEW: Field Notes Sweet Tooth memo books'
 kind: review
 ---
 Rhodia has replaced [the Moleskine brand][1] as my new favorite notebooks. I currently use a [Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid][2]. I enjoy the Rhodia because of its high quality assembly, thick/no-bleed/gloss paper and soft feel of the cover. It's a joy to use my favorite [Pilot Precise V7 RT pen][3] to write notes and craft ideas in this journal.

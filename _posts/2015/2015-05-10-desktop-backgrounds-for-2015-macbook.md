@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 categories:
   - apple
 comments: true
+image:
+  path: /images/posts/2015-10-15-macbook-backgrounds/MacBookKeyboardDesktopPreview.png
+  width: 640
+  height: 400
+  alt: 'Desktop backgrounds for 2015 MacBook'
 kind: art
 ---
 

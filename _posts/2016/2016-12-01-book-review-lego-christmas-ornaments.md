@@ -13,6 +13,11 @@ tags:
   - review
   - christmas
   - ornaments
+image:
+  path: 'https://www.chrismcveigh.com/cm/welcome_files/shapeimage_1.png'
+  width: 520
+  height: 430
+  alt: 'BOOK REVIEW: The LEGO Christmas Ornaments Book'
 kind: review
 ---
 

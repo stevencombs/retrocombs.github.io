@@ -14,6 +14,11 @@ tags:
   - otg
   - serial
   - transfer
+image:
+  path: /images/posts/chip/choose-version.png
+  width: 2560
+  height: 1394
+  alt: 'C.H.I.P. Flasher Page'
 kind: how-to
 ---
 

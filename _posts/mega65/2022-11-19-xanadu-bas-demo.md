@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: xanadu-bas-demo
 category: mega65
+image:
+  path: /images/posts/xanadu-bas-demo/xanadu-bas-demo.jpg
+  width: 1280
+  height: 720
+  alt: 'Xanadu, the BAS MEGA65 entry to the SYNTAX 2022 Demoparty!'
 kind: companion
 ---
 

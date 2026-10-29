@@ -12,6 +12,11 @@ tags:
   - production
   - livestream
   - Blackmagic Design
+image:
+  path: /images/posts/atem-mini-unboxing/atem-mini-unboxing.jpg
+  width: 1280
+  height: 720
+  alt: '‌Unboxing and Installing the Blackmagic Design ATEM Mini'
 kind: livestream
 ---
 

@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: hibernated1
 category: mega65
+image:
+  path: 'https://www.polyplay.xyz/media/image/product/1668/lg/hibernated-1-directors-cut-mega65.jpg'
+  width: 1120
+  height: 1120
+  alt: 'Box'
 kind: companion
 ---
 

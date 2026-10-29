@@ -20,6 +20,11 @@ tags:
   - raspberrypi
   - raspberrypizero
   - gpicase
+image:
+  path: /images/posts/2020-05-16-howto-gpi-case/mega-download.png
+  width: 986
+  height: 285
+  alt: 'Super Retro Pie MEGA download site'
 kind: how-to
 ---
 

@@ -11,6 +11,11 @@ tags:
   - mega65
   - c64
   - demoscene
+image:
+  path: /images/posts/c64-on-mega65-livestream2/c64-on-mega65-livestream2.jpg
+  width: 1280
+  height: 720
+  alt: 'Part II: Playing the C64 demos from the MEGA65 on boarding SD Card'
 kind: livestream
 ---
 

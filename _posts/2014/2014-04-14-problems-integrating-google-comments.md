@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: web
+image:
+  path: 'https://2.bp.blogspot.com/-pXfpvpca2QY/UyNkOyEo_3I/AAAAAAABPyk/ctc1nFZ4i_o/s1600/Google++Comments+in+Blogger+Code+Snippet.png'
+  width: 1268
+  height: 868
+  alt: 'HOWTO: Integrate Google+ comments into Blogger Template'
 kind: how-to
 ---
 

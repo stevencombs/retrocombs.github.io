@@ -18,6 +18,11 @@ tags:
 redirect_from:
   - /apple/code/2015/09/16/goodbye-textexpander-hello-dash.html
 
+image:
+  path: /images/posts/2015-09-16-goodbye-textexpander-hello-dash/python-print-example.png
+  width: 1072
+  height: 652
+  alt: 'HOWTO: Say goodbye to TextExpander and hello to Dash'
 kind: how-to
 ---
 

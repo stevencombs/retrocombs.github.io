@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: true
 category: higher-education
 explore: false
+image:
+  path: 'https://1.bp.blogspot.com/-uJv26_0PsEc/UIl-2GvgphI/AAAAAAABDK0/nFSTYPaxMJ8/s200/StateLegislation.jpg'
+  width: 200
+  height: 200
+  alt: 'State legislation'
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://1.bp.blogspot.com/-uJv26_0PsEc/UIl-2GvgphI/AAAAAAABDK0/nFSTYPaxMJ8/s200/StateLegislation.jpg" align="right" width="200" />On January 15th, 2013, our Regional Board of Trustees met. I am on the agenda to discuss the changes that will occur within the state with regard to transfer of general education credits among the public institutions. As I read the two pieces of legislation, House Enrolled Act No. 1220 (Credit Creep) and Senate Enrolled Act No. 182 (Common Course Numbering within the Core Transfer Library), the thought struck me that all Indiana higher education faculty (and parents for that matter)&nbsp;should be aware of these initiatives and understand their implications.

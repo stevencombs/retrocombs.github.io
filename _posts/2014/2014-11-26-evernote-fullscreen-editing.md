@@ -10,6 +10,11 @@ comments: yes
 redirect_from:
   - /evernote/2014/11/26/evernote-fullscreen-editing.html
 
+image:
+  path: /images/posts/2014-11-26-evernote-fullscreen-ipad/2014-11-26-evernote-fullscreen-ipad-mode.png
+  width: 640
+  height: 640
+  alt: 'View and edit a note using the full width of the iPad screen'
 kind: how-to
 ---
 

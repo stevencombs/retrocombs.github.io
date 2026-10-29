@@ -15,6 +15,11 @@ tags:
   - unboxing
   - google
   - assistant
+image:
+  path: /images/posts/2020-02-09-lenovo-smart-tab.jpg
+  width: 1024
+  height: 576
+  alt: 'Lenovo Smart Tab with Google Assistant'
 kind: first-look
 ---
 

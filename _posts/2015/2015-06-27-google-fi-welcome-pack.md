@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - android
+image:
+  path: 'https://lh4.googleusercontent.com/-s1nQl2X-7-Q/VZCOOksfmII/AAAAAAABlQQ/YMQmUrgUZPo/w1015-h1240-no/screenshot-mail_google_com_2015-06-28_20-02-49.png'
+  width: 1014
+  height: 1240
+  alt: 'Project Fi welcome kit was a surprise'
 kind: first-look
 ---
 

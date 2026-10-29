@@ -8,6 +8,11 @@ comments: 'yes'
 categories:
   - howto
   - apple
+image:
+  path: 'https://2.bp.blogspot.com/-O3qPf_BNyoY/UXBG4gVEGfI/AAAAAAABIXU/z2gq-Rbsd48/s1600/Ethernet.JPG'
+  width: 500
+  height: 500
+  alt: 'HOWTO: Turn on OS X Internet Sharing'
 kind: how-to
 ---
 

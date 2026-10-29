@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: lifegoo-power-screwdriver
 category: gadgets
+image:
+  path: 'https://m.media-amazon.com/images/I/716dGTUMMzL._AC_SL1500_.jpg'
+  width: 1225
+  height: 1500
+  alt: 'LIFEGOO Set'
 kind: review
 ---
 

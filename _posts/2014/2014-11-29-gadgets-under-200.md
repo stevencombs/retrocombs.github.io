@@ -7,6 +7,11 @@ date: 2014-11-29 17:25
 copyright: © Steven B. Combs, Ph.D. 2014
 categories: gadgets holiday
 comments: yes
+image:
+  path: /images/posts/2014-11-29-acer-c720-chromebook.png
+  width: 200
+  height: 200
+  alt: 'Best gadgets under $200, 2014 Edition'
 kind: editorial
 ---
 

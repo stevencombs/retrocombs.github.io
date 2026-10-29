@@ -20,6 +20,11 @@ tags:
   - vic-20
   - windows
   - wine
+image:
+  path: /images/posts/wine/playonlinux-dirmaster-listing.png
+  width: 567
+  height: 424
+  alt: 'Installed PlayOnLinux Programs Listing'
 kind: how-to
 ---
 

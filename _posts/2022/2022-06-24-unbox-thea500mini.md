@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: unbox-thea500mini
 category: commodore
+image:
+  path: /images/c64mini-maxi-vic20/thea500mini.jpg
+  width: 1920
+  height: 1080
+  alt: 'TheA500 Mini'
 kind: first-look
 ---
 

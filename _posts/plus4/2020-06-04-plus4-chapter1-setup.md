@@ -16,6 +16,11 @@ tags:
   - video
   - machinelanguage
   - 1980s
+image:
+  path: /images/posts/plus4-2/plus4-2.jpg
+  width: 1280
+  height: 720
+  alt: 'Commodore Plus/4 User’s Manual, Chapter 1 - Unpacking and Setting Up'
 kind: companion
 ---
 

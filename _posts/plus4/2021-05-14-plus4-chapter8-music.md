@@ -13,6 +13,11 @@ tags:
   - sound
   - music
   - effects
+image:
+  path: /plus4/images/ted-models.png
+  width: 960
+  height: 540
+  alt: 'Commodore TED Series'
 kind: companion
 ---
 

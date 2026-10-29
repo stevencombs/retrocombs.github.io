@@ -11,6 +11,11 @@ tags:
   - nexsy4
   - fpga
   - mega65
+image:
+  path: /images/posts/mega65-nexys4-livestream/mega65-nexys4-livestream.jpg
+  width: 1280
+  height: 720
+  alt: 'Install a MEGA65 Bitstream on a Digilent NEXYS4 | Everything works but the keyboard!'
 kind: livestream
 ---
 

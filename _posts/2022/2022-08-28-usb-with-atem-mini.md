@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: tao-1tiny
 category: gadgets
+image:
+  path: /images/posts/tao-1tiny/tao-1tiny.jpg
+  width: 1280
+  height: 720
+  alt: '‌Use the RGBLink TAO 1tiny to connect a Webcam to an ATEM Mini'
 kind: review
 ---
 

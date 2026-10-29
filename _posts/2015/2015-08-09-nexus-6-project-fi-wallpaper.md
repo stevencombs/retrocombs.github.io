@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - art
+image:
+  path: /images/posts/2015-08-09-nexus-6-project-fi-wallpaper/nexus-6-project-fi-wallpaper-1-sample.png
+  width: 1440
+  height: 2560
+  alt: 'Wall paper sample on Nexus 6'
 kind: art
 ---
 

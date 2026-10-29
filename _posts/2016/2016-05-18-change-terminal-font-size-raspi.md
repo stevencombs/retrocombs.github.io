@@ -13,6 +13,11 @@ tags:
   - terminal
   - font
   - raspian
+image:
+  path: /images/posts/terminal-font-size-1.png
+  width: 905
+  height: 602
+  alt: 'Package Configuration - Configuring console-setup'
 kind: how-to
 ---
 

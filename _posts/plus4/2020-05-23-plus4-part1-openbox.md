@@ -18,6 +18,11 @@ tags:
 redirect_from:
   - /retro/2020/05/23/retrocombs-plus4-part1-openbox.html
 
+image:
+  path: /images/posts/plus4-1/plus4-1.jpg
+  width: 1280
+  height: 720
+  alt: 'Commodore Plus/4 User’s Manual, Chapter 0 - Open the Box'
 kind: companion
 ---
 

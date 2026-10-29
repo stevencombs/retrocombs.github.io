@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: web
+image:
+  path: /images/posts/2014-06-13-stevencombs.site.png
+  width: 914
+  height: 695
+  alt: 'Why I moved from Blogger to Jekyll'
 kind: editorial
 ---
 

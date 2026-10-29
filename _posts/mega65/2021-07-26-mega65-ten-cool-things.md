@@ -11,6 +11,11 @@ tags:
   - mega65
   - tips
   - tricks
+image:
+  path: 'https://upload.wikimedia.org/wikipedia/commons/1/18/C65alleine_%28no_bg%29_%28balance%29.jpg'
+  width: 1572
+  height: 732
+  alt: 'Commodore C65'
 kind: editorial
 ---
 

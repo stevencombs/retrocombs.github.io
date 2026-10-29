@@ -16,6 +16,11 @@ tags:
   - debian
   - vm
   - chromeos
+image:
+  path: /images/posts/2020-01-20-arduino-ide-chrome-os/arduino-linux-download-link.png
+  width: 699
+  height: 215
+  alt: 'Linux download link'
 kind: how-to
 ---
 

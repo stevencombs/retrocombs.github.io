@@ -11,6 +11,11 @@ redirect_from:
   - /linux/2014/01/05/Install-arduino-ide-on-peppermint-os.html
   - /linux/arduino/2014/01/06/Install-arduino-ide-on-peppermint-os.html
 
+image:
+  path: 'https://2.bp.blogspot.com/-JWkcedZQv6k/Uss6UrZB9oI/AAAAAAABOg8/qhcYMT0zEXA/s1600/Loki+Blogs.jpg'
+  width: 1000
+  height: 743
+  alt: 'HOWTO: Install the Arduino IDE on Peppermint OS 4'
 kind: how-to
 ---
 

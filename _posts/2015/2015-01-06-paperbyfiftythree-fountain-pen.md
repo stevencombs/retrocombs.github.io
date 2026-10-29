@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2015-01-06 17:20
 category: art
 comments: yes
+image:
+  path: 'https://lh4.googleusercontent.com/-oWrVr0rPYhQ/VKw_KJv4eLI/AAAAAAABYEg/xi1WsCnwF70/w1024-h768-no/Pen.jpg'
+  width: 1024
+  height: 768
+  alt: 'Paper by FiftyThree Fountain Pen'
 kind: art
 ---
 

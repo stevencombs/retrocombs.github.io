@@ -19,6 +19,11 @@ tags:
   - entertainment
   - roku
 comments: yes
+image:
+  path: /images/posts/2020-02-02-slate-traveling-office.jpg
+  width: 3557
+  height: 2001
+  alt: 'My mobile setup'
 kind: editorial
 ---
 

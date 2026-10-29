@@ -15,6 +15,11 @@ tags:
 redirect_from:
   - /raspberrypi/apple/linux/2013/04/27/create-ssh-connection-from-your-mac-to.html
 
+image:
+  path: 'https://lh4.googleusercontent.com/-NjsjbCYtA8Y/UXwPS_XqaKI/AAAAAAABIlM/ztfeD2wMg-A/w770-h557-no/ssh+to+raspi.png'
+  width: 770
+  height: 557
+  alt: 'HOWTO: Create an ssh connection to a headless Raspberry Pi'
 kind: how-to
 ---
 

@@ -20,6 +20,11 @@ tags:
 redirect_from:
   - /gadgets/2020/04/21/firstuse-cloner-box-pro.html
 
+image:
+  path: /images/posts/2020-04-21-plus-4-capture.JPG
+  width: 1920
+  height: 1080
+  alt: 'Cloner Alliance Box Pro screen capture from Commodore Plus/4'
 kind: review
 ---
 

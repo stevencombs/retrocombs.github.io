@@ -10,6 +10,11 @@ categories:
 redirect_from:
   - /evernote/2015/07/24/evernote-know-how-duplicate-a-note.html
 
+image:
+  path: 'https://lh3.googleusercontent.com/3atprNjaAUR76CxVugGCuKSWZRGzUwarnleiAr8xGBtj=w771-h554-no'
+  width: 771
+  height: 554
+  alt: 'HOWTO: Duplicate an Evernote note'
 kind: how-to
 ---
 

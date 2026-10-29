@@ -11,6 +11,11 @@ tags:
   - ti994a
   - flashrom99
   - retro computing
+image:
+  path: /images/posts/flashrom99-games-livestream/flashrom99-games-livestream.jpg
+  width: 1280
+  height: 720
+  alt: '‌Playing TI-99/4A 1980s video games from a FlashROM99 | Livestream edit with captions'
 kind: livestream
 ---
 

@@ -20,6 +20,11 @@ tags:
   - dc-comics
   - jsa
   - flash
+image:
+  path: /images/posts/minifig-ikea-lustigt-display/minifig-ikea-lustigt-display.jpg
+  width: 1280
+  height: 720
+  alt: 'Easy to Build LEGO Minifig Display (Mash-up of DC Comics, LEGO, IKEA, and Makya)'
 kind: bench
 ---
 

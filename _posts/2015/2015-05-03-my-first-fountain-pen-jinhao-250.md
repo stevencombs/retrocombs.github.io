@@ -6,6 +6,11 @@ email: 'retrocombs@icloud.com'
 date: 2015-05-03 19:40
 category: art
 comments: true
+image:
+  path: 'https://lh3.googleusercontent.com/-dmGbXr0YXVc/VUZKN8N5soI/AAAAAAABbBM/qUvOOEIQDkY/w1196-h897-no/IMG_8110.jpg'
+  width: 1196
+  height: 897
+  alt: 'My first fountain pen - the JinHao 250'
 kind: review
 ---
 

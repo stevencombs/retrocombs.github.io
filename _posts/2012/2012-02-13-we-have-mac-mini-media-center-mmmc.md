@@ -6,6 +6,11 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: true
 category: apple
+image:
+  path: 'https://3.bp.blogspot.com/-ClmRWvS4OVs/Tjrnz1e0j3I/AAAAAAAA3Io/VDuOltF_sgE/s200/Boxed+Mac+Mini.PNG'
+  width: 200
+  height: 197
+  alt: 'Mac mini Media Center (MmMC) software winner'
 kind: review
 ---
 

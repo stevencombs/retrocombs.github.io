@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: copy-mega65-disk-image-to-floppy
 category: mega65
+image:
+  path: /images/mega65/sd-card-to-floppy.jpg
+  width: 1920
+  height: 1080
+  alt: 'Hibernated SD card and floppy'
 kind: how-to
 ---
 

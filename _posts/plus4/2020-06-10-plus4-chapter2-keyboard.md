@@ -18,6 +18,11 @@ tags:
   - keys
   - characters
   - 1980s
+image:
+  path: /images/posts/plus4-3/plus4-3.jpg
+  width: 1280
+  height: 720
+  alt: 'retroCombs: Commodore Plus/4 User'
 kind: companion
 ---
 

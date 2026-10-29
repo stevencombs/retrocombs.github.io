@@ -11,6 +11,11 @@ tags:
   - mega65
   - livestream
   - christmas
+image:
+  path: /images/posts/mega65-xmas-eve/mega65-xmas-eve.jpg
+  width: 1280
+  height: 720
+  alt: '‌MEGA65 Christmas Eve Demonstration | Onboarding SD Card and Box Art!'
 kind: livestream
 ---
 

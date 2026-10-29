@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: paletro-davinci-resolve
 category: apple
+image:
+  path: /images/posts/paletro-davinci-resolve/paletro-davinci-resolve.jpg
+  width: 1280
+  height: 720
+  alt: 'Supercharge DaVinci Resolve with Paletro for Mac OS'
 kind: how-to
 ---
 

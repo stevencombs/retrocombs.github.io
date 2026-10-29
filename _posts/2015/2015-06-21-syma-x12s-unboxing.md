@@ -8,6 +8,11 @@ categories:
   - gadgets
 comments: yes
 
+image:
+  path: 'https://lh6.googleusercontent.com/-fHBsnUn3Pko/VYct_7dgj8I/AAAAAAABkjI/r995TpT1lPw/s935-no/IMG_8353.JPG'
+  width: 935
+  height: 935
+  alt: 'OPEN THE BOX: Syma X12S unboxing'
 kind: first-look
 ---
 

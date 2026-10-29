@@ -14,6 +14,11 @@ tags:
   - setup
   - first use
   - review
+image:
+  path: /images/posts/wyzecam-v3/wyzecam-v3.jpg
+  width: 1280
+  height: 720
+  alt: 'OPEN THE BOX and FIRST USE: Wyze Cam V3'
 kind: review
 ---
 

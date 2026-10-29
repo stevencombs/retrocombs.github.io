@@ -7,6 +7,11 @@ email: 'retrocombs@icloud.com'
 comments: yes
 permalink: mega65-core-testing-livestream
 category: mega65
+image:
+  path: /images/posts/mega65-core-testing-livestream/mega65-core-testing-livestream.jpg
+  width: 1280
+  height: 720
+  alt: 'The latest MEGA65 updates and a speedier .COR flasher!‌'
 kind: bench
 ---
 

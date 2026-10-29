@@ -15,6 +15,11 @@ tags:
   - bash
   - terminal
   - script
+image:
+  path: /images/posts/2020-04-14-capslock-as-launcher/xev-command.png
+  width: 964
+  height: 856
+  alt: 'The xev command in use'
 kind: how-to
 ---
 
