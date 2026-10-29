@@ -11,9 +11,9 @@ comments: yes
 kind: first-look
 ---
 
-Today I received a great Father's Day gift for a gadget lover like me. The gift has taunted me for about a week. My wife placed a box wrapped in blue wrapping paper on my desk last week with a warning note attached that said: *"Do not open until Father's Day!"* This morning, the box moved from my desk to the kitchen table and was presented with a fresh stack of hot pancakes and hot coffee. I do have a wonderful wife!
+Today I received a great Father's Day gift for a gadget lover like me. The gift has taunted me for about a week. The Lovely Accountant placed a box wrapped in blue wrapping paper on my desk last week with a warning note attached that said: *"Do not open until Father's Day!"* This morning, the box moved from my desk to the kitchen table and was presented with a fresh stack of hot pancakes and hot coffee. The Lovely Accountant is wonderful!
 
-I unwrapped the box and inside was a Syma X12S mini quadcopter. I already own a larger [Syma X5C1](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=stevenccom-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU) that [I discussed in an earlier blog post](/gadgets/2015/02/15/syma-x5c-1-unboxing.html). After reviewing the larger quadcopter, I placed this smaller version in my [Amazon Wish List](http://amzn.com/w/2ULILGJHKWDGJ), which is where my wife found the idea for the gift. In all honesty, I had forgotten about it, so this was indeed a nice surprise.
+I unwrapped the box and inside was a Syma X12S mini quadcopter. I already own a larger [Syma X5C1](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=stevenccom-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU) that [I discussed in an earlier blog post](/gadgets/2015/02/15/syma-x5c-1-unboxing.html). After reviewing the larger quadcopter, I placed this smaller version in my [Amazon Wish List](http://amzn.com/w/2ULILGJHKWDGJ), which is where The Lovely Accountant found the idea for the gift. In all honesty, I had forgotten about it, so this was indeed a nice surprise.
 
 The X5C1 purchased earlier is a full size quadcopter with a camera. This smaller Syma is drastically smaller with a total width of about 3.5 inches. Syma describes it as a nano quadcopter. A comparison of the full size and nano is shown in the image below.
 
@@ -77,7 +77,7 @@ After spending a bit of time with this nano quadcopter, I have a few initial tho
 * No removable battery
 * A WHOLE LOTTA FUN!
 
-So there's my quick summation of the Syma X12S nano quadcopter. Time to go. The Father's Day food hasn't stopped. My wife just grilled some hot dogs and bratwurst. By the time dinner is done, it will be time for another flight.
+So there's my quick summation of the Syma X12S nano quadcopter. Time to go. The Father's Day food hasn't stopped. The Lovely Accountant just grilled some hot dogs and bratwurst. By the time dinner is done, it will be time for another flight.
 
 # Google+ Album Test
 If you would like to view other images of this diminutive quadcopter, check out the link below to the Google+ post that includes an album of images.

@@ -69,7 +69,7 @@ I moved the Echo to what would be its final resting place; the bathroom. We have
 
 ![My Amazon Echo Location](https://lh6.googleusercontent.com/-tkL-ylfSL0k/VOjFGbNKvmI/AAAAAAABZws/PQSY9tn4isI/w1214-h911-no/IMG_7192.jpeg)
 
-I knew I found the perfect location when I came home one evening and heard my wife using the Echo. She had not used it in any other room in the house. So now that you know the location of our Echo, let me share how we use it.
+I knew I found the perfect location when I came home one evening and heard The Lovely Accountant using the Echo. She had not used it in any other room in the house. So now that you know the location of our Echo, let me share how we use it.
 
 # Alexa!
 As shown in the video, you use a _wake_ word to activate the Echo. Currently you have two options: _Alexa_ or _Amazon_.
@@ -323,7 +323,7 @@ In my case, this will turn the left rear light on in my bedroom. Each Hue light 
 
 ![](https://lh5.googleusercontent.com/-ZL-9yJGUT-Q/VT1nd04OOlI/AAAAAAABa5E/Gq9l1eiKjcM/w465-h626-no/IMG_8130.png)
 
-This is the light over my side of the bed. This is useful when I want to read, but my wife may be trying to get some sleep.
+This is the light over my side of the bed. This is useful when I want to read, but The Lovely Accountant may be trying to get some sleep.
 
 While this works the majority of the time, there have been a few hiccups. There are times when not all lights come on or dim. I often have to repeat a command to get the desired results. I blame this on the Philips Hue bridge rather than the Echo as I have the same issue when using the iOS app. I'm hoping a Philips Hue firmware upgrade with fix this in the future.
 
@@ -334,7 +334,7 @@ While I do use the Amazon Echo regularly, there are several features I recommend
 
 **Shopping** - For the life of me I don't understand why I can't purchase items beyond digital music from my Echo. I can't even price check an item or hear more about a product. This seems like a natural fit for the Echo. Its Amazon after all! This would be a great feature for items you purchase regularly such as batteries, kitchen products, etc.
 
-**Digital display** - I mentioned earlier that the Echo doesn't have a display; however if it did, I could finally tell the time at night without calling out a name and waking up my wife. The addition of the outside temperature as well as what's currently playing would also be useful. I get that Amazon wants the echo to be a voice/audio gadget, but sometimes you really need a display.
+**Digital display** - I mentioned earlier that the Echo doesn't have a display; however if it did, I could finally tell the time at night without calling out a name and waking up The Lovely Accountant. The addition of the outside temperature as well as what's currently playing would also be useful. I get that Amazon wants the echo to be a voice/audio gadget, but sometimes you really need a display.
 
 **Control FireTV** - Imagine a day when I could use the Echo to control my [Amazon Fire TV](http://www.amazon.com/gp/product/B00CX5P8FC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CX5P8FC&linkCode=as2&tag=stevenccom-20). I could have Echo find content to play, pause my movies and even tell me more about what's playing. This integration would begin to bring Amazon into the connected home category.
 

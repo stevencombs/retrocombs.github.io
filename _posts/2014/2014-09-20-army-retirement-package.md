@@ -74,7 +74,7 @@ This is the most important document in the box and is from the United States Arm
 ![](/images/posts/2014-09-20-retirement-package/09-20-retirement-package-10.jpg)
 
 # Certificate of appreciation for spouse
-Outstanding! This is the second most important document in the box and goes to my wonderful wife, Nikki. She was incredibly supportive of my career and deserves so much more than this document; however, it is a nice touch. Must get this framed for her office.
+Outstanding! This is the second most important document in the box and goes to The Lovely Accountant. She was incredibly supportive of my career and deserves so much more than this document; however, it is a nice touch. Must get this framed for her office.
 
 ![](/images/posts/2014-09-20-retirement-package/09-20-retirement-package-11.jpg)
 

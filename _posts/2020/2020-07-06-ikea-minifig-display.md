@@ -25,7 +25,7 @@ kind: bench
 
 It's been awhile since I've posted anything LEGO related. I wouldn't say that I'm in my "dark years;" however, my LEGO hobby has been put on hold for some pressing work concerns and priority with other hobbies (I have way too many); namely my new [fascination with the 1980s era Commodore Plus/4 computer](/plus4) and the use of [modern devices](/pi1541) to make that device even more enjoyable to use in 2020s.
 
-During the 2020 fourth of July weekend, Nikki and I brokedecided to break out some LEGO projects (Have I mentioned how much she and I miss our old podcast, Bricks in my Pocket - BimPCast?). I chose to worked on my IKEA LEGO minifig display that I've had on the back burner for months. I knew it would be a quickshort project; even including the video capture. The next day, I took twoa couple of hours with DaVinci Resolve to create an edit of what I hope is a fun video meant to inspire others to give this simple, and inexpensive, LEGO minifig display hack a try. What a fungreat family project for a rainy, hot, or snowy, afternoon!
+During the 2020 fourth of July weekend, The Lovely Accountant and I brokedecided to break out some LEGO projects (Have I mentioned how much she and I miss our old podcast, Bricks in my Pocket - BimPCast?). I chose to worked on my IKEA LEGO minifig display that I've had on the back burner for months. I knew it would be a quickshort project; even including the video capture. The next day, I took twoa couple of hours with DaVinci Resolve to create an edit of what I hope is a fun video meant to inspire others to give this simple, and inexpensive, LEGO minifig display hack a try. What a fungreat family project for a rainy, hot, or snowy, afternoon!
 
 ## YouTube Video: _Easy to Build LEGO Minifig Display (Mash-up of DC Comics, LEGO, IKEA, and Makya)_
 
@@ -53,10 +53,10 @@ As I mention at the start of the video, I love DC Comics. I've always been a DC,
 * Hourman - a man who takes a drug (not a great role model for today's youth) to achieve his superhuman strength for, you guessed it, one hour
 * Red Tornado (aka, Ma Hunkel) - one of the strangest characters ever and you must have to Google that one for some fun (**Spoiler Alert:** she wears a cooking pot on her head in her fight against crime)
 
-In hindsight, I wish I'd spent more time planning the video. I always think of things afterward to include; however, after only a few hours of editing, it was a fun, and very geeky, weekend project for the two of me and Nikki to enjoy and I was glad I could cajole Nikki into an audio only appearance. It's always so much more lively when she joins the fun. Her laugh is infectious and I should have included more of it into the video.
+In hindsight, I wish I'd spent more time planning the video. I always think of things afterward to include; however, after only a few hours of editing, it was a fun, and very geeky, weekend project for the two of me and The Lovely Accountant to enjoy and I was glad I could cajole TLA into an audio only appearance. It's always so much more lively when she joins the fun. Her laugh is infectious and I should have included more of it into the video.
 
 Now that this video is complete, I'm looking forward to getting back to my [retroCombs videos](https://www.youtube.com/playlist?list=PLRVBh2hjFTolfr0_s80Z_Z5bawxWkfRRW). I think there's some impressivereally great stuff coming up. I hope you plan to join me on that retro-computing journey!
 
 ## Join the Fun
 
-Have you created your own LEGO minifig display? Leave a comment below and share your creation. Nikki and I would love to see them. Stay tuned to <> for any updates to this post with additional figures, or scenes, I add to my display(s). Now where is that Harley Quinn minifig?
+Have you created your own LEGO minifig display? Leave a comment below and share your creation. The Lovely Accountant and I would love to see them. Stay tuned to <> for any updates to this post with additional figures, or scenes, I add to my display(s). Now where is that Harley Quinn minifig?
