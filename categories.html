@@ -17,8 +17,8 @@ wide: true
     {% assign count = count | strip %}
     <article class="topic-card{% if forloop.parentloop.first and forloop.first %} topic-card-lead{% endif %}{% if topic.banner %} has-banner{% endif %}">
       {% if topic.banner %}
-      {% assign banner_phone = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_phone.png" %}
-      {% assign banner_wide = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_wide.png" %}
+      {% assign banner_phone = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_phone.png?v=" | append: site.github.build_revision %}
+      {% assign banner_wide = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_wide.png?v=" | append: site.github.build_revision %}
       <a class="topic-card-banner" href="{{ topic.url | relative_url }}" aria-hidden="true" tabindex="-1">
         {% if forloop.parentloop.first and forloop.first %}
         <picture>
