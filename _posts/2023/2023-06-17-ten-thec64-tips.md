@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
 permalink: ten-thec64-tips
-category: C64
+category: c64
 image:
   path: /images/posts/ten-thec64-tips/ten-thec64-tips.jpg
   width: 1280

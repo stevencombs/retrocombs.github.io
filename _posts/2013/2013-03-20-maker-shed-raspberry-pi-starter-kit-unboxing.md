@@ -6,8 +6,8 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
-  - openingthebox
   - raspberrypi
+permalink: /openingthebox/raspberrypi/2013/03/20/maker-shed-raspberry-pi-starter-kit-unboxing.html
 image:
   path: 'https://2.bp.blogspot.com/-5LnHIMO-nVQ/UVc6Hi_oD0I/AAAAAAABIHk/2PCJSHpw0NY/s1600/MakerSHED-RaspberryPiStarterKit-01-TeaserImage.jpg'
   width: 720
