@@ -45,11 +45,13 @@ groups:
         url: /nabu
         categories: [nabu]
         icon: /images/design/place-holder.svg
+        banner: nabu
         blurb: NABU Personal Computer notes and videos.
       - name: Shows
         url: /shows
         categories: [shows]
         icon: /images/design/place-holder.svg
+        banner: shows
         blurb: Vintage computer shows and events.
   - name: Modern tech
     items:
@@ -66,6 +68,7 @@ groups:
         url: /handhelds
         categories: [handhelds]
         icon: /images/design/place-holder.svg
+        banner: handhelds
         blurb: Clockwork uConsole and PicoCalc, gaming handhelds, and pocket computers.
       - name: Apple
         url: /apple.html
