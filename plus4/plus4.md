@@ -16,7 +16,7 @@ tags:
   - manual
 ---
 
-This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by commenting on [YouTube videos](https://www.youtube.com/stevencombs) or on individual [blog posts](/retro).
+This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by leaving a comment below any of the [blog posts](/retro).
 
 {% include member-cta.html channel="retrocombs" %}
 

@@ -34,7 +34,7 @@ If you are a Commodore computer fan, one piece of software I recommend is _DirMa
 
 I'm not going to cover the capabilities of _DirMaster_, but I will demonstrate how Linux users can install this software using the Wine windows compatibility layer; because that's the only way I would ever allow windows applications in my home or office!
 
-> NOTE: Interested a _DirMaster_ tutorial? Leave a comment below this post or on the [YouTube video channel](https://youtu.be/fA9RpEtS2f0). While on the YouTube page, remember to hit **<font color="black">LIKE</font>** and **<font color="red">SUBSCRIBE</font>**!
+> NOTE: Interested in a _DirMaster_ tutorial? Leave a comment below this post. While you're watching the [YouTube video](https://youtu.be/fA9RpEtS2f0), remember to hit **LIKE** and **SUBSCRIBE**!
 
 My instructions are for Arch based distributions (Manjaro for me) but the basics work for any Linux distro where _Wine_ is available, including Macs running 10.14 or earlier (Wine does not work with 10.15 at the time of this writing). I present this process in two ways; a YouTube retroCombs Fast Load video and in the companion blog post below. First the video:
 

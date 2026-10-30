@@ -80,4 +80,4 @@ That's it for now. I do update and timestamp posts when modifications and additi
 
 ## Have Questions?
 
-Drop your questions about the mouse below or in the comments section at YouTube. Happy to provide answers.
+Drop your questions about the mouse below. Happy to provide answers.

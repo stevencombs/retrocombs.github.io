@@ -120,7 +120,7 @@ Below are the list of games I demonstrate in part 2.
 
 You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this series better! Post feedback, questions, and ideas. Leave your comments and thoughts below or in the comments [under the YouTube videos](https://www.youtube.com/stevencombs).
+Help make this series better! Post feedback, questions, and ideas. Leave your comments and thoughts in the comments below.
 
 Thanks for watching and if you are inclined, please let other Commodore fans know about the series by sharing my blog posts and videos using the hashtag, [#retroCombs](https://twitter.com/search?q=%23retrocombs&src=typed_query).
 

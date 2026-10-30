@@ -269,7 +269,7 @@ A fun one to start with (it works with or without the Pi):
 - **On screen help:** Terminex lists its own keys: SYM+CAPS+H for help, SYM+CAPS+B for baud rate, and SYM+CAPS+C/D for Ctrl+C/D.
 - **If it doesn't connect on its own:** The FAQ's older instructions say to press SYM+SHIFT+B to switch to 115,200 baud and press ENTER, then look for `SUP>`. They also say SYM+SHIFT+Q quits Terminex. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
 
-Typing `ls` at the `SUP>` prompt lists what's on the Pi. If you'd like a deeper dive into Terminex and the SUP commands, tell me in the video comments.
+Typing `ls` at the `SUP>` prompt lists what's on the Pi. If you'd like a deeper dive into Terminex and the SUP commands, tell me in the comments below.
 
 ### NextPiUI {#nextpiui}
 
@@ -304,7 +304,7 @@ Here's where I got it wrong on camera. MOD playback **doesn't need the Pi**:
 
 - **NXModPlayer** is a full player app in `apps/audio/NXModPlayer`. It has a MOD browser, pattern view, channel mutes, and a `MODS` folder of tunes to try. Its readme credits "Paula emulation & Mod Engine by 9bitcolor" and "NXModPlayer by em00k". This is the player with the cool visuals in the video. ([NXModPlayer readme](https://gitlab.com/thesmog358/tbblue/-/tree/master/apps/audio/NXModPlayer))
 
-What the Pi adds is a "Virtual Sound-Card as dedicated Next DAC channel." Its players include Amiga MOD, Atari SNDH, C64 SID ("inaccurate, some analog filters are appoximations"), General MIDI, MP3, and WAV. ([SpecNext wiki: Pi:NextPi](https://wiki.specnext.dev/Pi:NextPi)) The `.pisend` help text shows the pattern for sending commands to NextPi, including a SID example (`.pisend -c nextpi-play_sid ...`). ([dot command reference](https://www.cs.hmc.edu/~oneill/specnext/dot-cmds.html)) I haven't tried Pi playback yet. If you want a video on SID and video playback through the Pi, tell me in the comments.
+What the Pi adds is a "Virtual Sound-Card as dedicated Next DAC channel." Its players include Amiga MOD, Atari SNDH, C64 SID ("inaccurate, some analog filters are appoximations"), General MIDI, MP3, and WAV. ([SpecNext wiki: Pi:NextPi](https://wiki.specnext.dev/Pi:NextPi)) The `.pisend` help text shows the pattern for sending commands to NextPi, including a SID example (`.pisend -c nextpi-play_sid ...`). ([dot command reference](https://www.cs.hmc.edu/~oneill/specnext/dot-cmds.html)) I haven't tried Pi playback yet. If you want a video on SID and video playback through the Pi, tell me in the comments below.
 
 > **Tip:** Copying files to the SD card from a Mac? macOS leaves hidden `._` files next to your real ones. You can see `._KEF2.MOD` and friends in my NXModPlayer file list. They aren't real MODs, so don't pick them. Running `dot_clean` on the card's folder in Terminal removes them. ([dot_clean man page](https://ss64.com/mac/dot_clean.html))
 {: .tip}
@@ -360,6 +360,6 @@ Everything in this post was checked on 2026-10-22 against these sources:
 
 That's the whole job: flash a 16GB card, solder a female header on the "wrong" side of a Pi Zero, remove six screws and one stubborn backing plate, and push the Pi into place. In return you get TZX loading with real tape sounds, a Linux companion computer at the `SUP>` prompt, and a pile of new audio formats. And with Alpine Next coming, the Pi looks set to do much more.
 
-Let me know in the video comments what you'd like to see the Pi do next: SID playback, the second screen, or a deep dive into Terminex. If this post helped, [leave a tip](https://paypal.me/stevencombs).
+Let me know in the comments below what you'd like to see the Pi do next: SID playback, the second screen, or a deep dive into Terminex. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
 That's it for me, folks. 🕹️ retroCombs, OUT!

@@ -35,7 +35,7 @@ This companion blog post will roughly outline the steps needed to turn the Raspb
 
 **If you find this blog post and/or video valuable, please consider [leaving a tip](https://paypal.me/stevencombs). It keeps the blog posts and video coming your way!**
 
-Below, I include a table of contents so you can jump around to various sections. If there's something missing that you need to complete your own project, drop comments below this post or in the [YouTube video](https://www.youtube.com/watch?v=P0EaHOGvtS0).
+Below, I include a table of contents so you can jump around to various sections. If there's something missing that you need to complete your own project, drop comments below this post.
 
 __Table of Contents__
 
@@ -254,7 +254,7 @@ That's it for this post. You won't want to miss the fun, so make sure you <font 
 
 I also update many posts regularly with new information. I'll time stamp those changes when I do so if you return, you know where the modifications are made.
 
-Help make this video better! Post feedback, questions, and ideas. Leave your comments and thoughts below or in the comments [under the YouTube video](https://www.youtube.com/watch?v=P0EaHOGvtS0).
+Help make this post better! Leave your comments, corrections, additions, and thoughts in the comments below.
 
 Thanks for watching and if you are so inclined, please let other Commodore fans know about this video and blog post and share using #retroCombs.
 

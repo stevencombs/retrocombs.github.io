@@ -343,7 +343,7 @@ After I film videos, there are always additional thoughts that pop up. Here are 
 
 You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](https://www.youtube.com/watch?v=eJ1EaGP4XUg).
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below.
 
 Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
 

@@ -118,7 +118,7 @@ In the full version of the livestream, while loading the demos and games, I shar
 
 ## Final Thoughts
 
-The C64 disk image is a nice addition to the MEGA65. It is my understanding that the SD Cards are prepared for the spring release of the MEGA65. It is unlikely any of the titles will change, but what's included is a nice way to highlight C64 mode. There are many more demos that I didn't have time to view and I am considering a part II. If you have interest, leave your comments below or under the video.
+The C64 disk image is a nice addition to the MEGA65. It is my understanding that the SD Cards are prepared for the spring release of the MEGA65. It is unlikely any of the titles will change, but what's included is a nice way to highlight C64 mode. There are many more demos that I didn't have time to view and I am considering a part II. If you're interested, leave a comment below.
 
 ## Join the Fun
 

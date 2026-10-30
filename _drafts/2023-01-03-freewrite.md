@@ -69,6 +69,6 @@ I finally pressed the button for the correct amount of time, about two seconds, 
 
 I would later learn that there are other options using a web browser such as connecting the device to cloud services Dropbox or Google Drive, my preferred cloud. But that's a story for another day. I was content with what I had learned and ready to use the Freewrite to help finish a novel that has been in gestation since 2017. It's a fine tale of intrigue, action, and retro-computing, but alas, that too is for another day. 
 
-If you liked this story, hit the like button below. If you'd like to learn more about the Freewrite Smart Typewriter's online features or its younger and more compact sibling, the Freewrite Traveler, drop a comment below. You can help fund this channel by hitting that Thanks button below or [leave a tip](https://paypal.me/stevencombs). Stay tuned at the end of this video for more stories from me and read the video description below to learn how you can get your own Freewrite and save money in the process.
+If you'd like to learn more about the Freewrite Smart Typewriter's online features or its younger and more compact sibling, the Freewrite Traveler, leave a comment below this post. You can help fund this blog by [leaving a tip](https://paypal.me/stevencombs).
 
 Is this the End??? For now but until later, retroCombs OUT! 

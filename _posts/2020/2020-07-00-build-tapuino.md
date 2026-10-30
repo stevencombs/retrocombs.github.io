@@ -95,7 +95,7 @@ I demonstrate how to build the Tapuino in the video; however, below are addition
 
 ## Next Up
 
-One of the reason's I used a solderable breadboard was to provide a permanent platform for the electronics. This way, I could design a 3D printed case. Leave your comments and questions below or in the comments under the YouTube video. I'll do my best to answer them.
+One of the reasons I used a solderable breadboard was to provide a permanent platform for the electronics. This way, I could design a 3D printed case. Leave your comments and questions in the comments below. I'll do my best to answer them.
 
 ## Join the Fun
 
