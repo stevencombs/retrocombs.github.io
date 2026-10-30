@@ -86,7 +86,7 @@ That's it for now. I'll update this page as I have more time with the watch and 
 
 Don't miss the fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this content better! Leave your comments and thoughts in the comments below.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below.
 
 Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
 

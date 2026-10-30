@@ -65,7 +65,7 @@ Below are additional thoughts about this build that expand on the content in the
 
 You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this content better! Leave your comments and thoughts in the comments below.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below.
 
 Thanks for reading and watching and if you are so inclined, please let others know about the blog using the hashtag #retroCombs.
 

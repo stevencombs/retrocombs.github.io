@@ -254,7 +254,7 @@ That's it for this post. You won't want to miss the fun, so make sure you <font 
 
 I also update many posts regularly with new information. I'll time stamp those changes when I do so if you return, you know where the modifications are made.
 
-Help make this video better! Post feedback, questions, and ideas. Leave your comments and thoughts in the comments below.
+Help make this post better! Leave your comments, corrections, additions, and thoughts in the comments below.
 
 Thanks for watching and if you are so inclined, please let other Commodore fans know about this video and blog post and share using #retroCombs.
 

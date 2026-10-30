@@ -179,7 +179,7 @@ LOAD Command: `LOAD "AIRWOLF MUSIC"`
 
 We have another round of demos to go and I'll cover those during another live stream; or Part III. Subscribe to both the blog and the [YouTube channel](https://www.youtube.com/stevencombs) (and hit that alert button) to receive updates.
 
-The C64 disk image is a nice addition to the MEGA65. It is my understanding that they prepared the SD Cards for the spring release of the MEGA65. It is unlikely any of the titles will change, but what's included is a nice way to highlight C64 mode. There are many more demos that I didn't have time to view and there will be a part III. If you have interest, leave your comments below.
+The C64 disk image is a nice addition to the MEGA65. It is my understanding that they prepared the SD Cards for the spring release of the MEGA65. It is unlikely any of the titles will change, but what's included is a nice way to highlight C64 mode. There are many more demos that I didn't have time to view and there will be a part III. If you're interested, leave a comment below.
 
 ## Join the Fun
 

@@ -533,7 +533,7 @@ The screen will clear, a thick purple border will appears, and you now have a sm
 
 ## Join the Fun
 
-Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts in the comments below.
+Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, leave your comments and thoughts in the comments below.
 
 Thanks for watching and if you are so inclined, please let other Commodore fans know about the series by sharing these videos using #retroCombs.
 

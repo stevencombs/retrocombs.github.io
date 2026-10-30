@@ -171,7 +171,7 @@ And that concludes our look at the demos on the MEGA65 SD Card onboarding image!
 
 We did it! We reviewed every demo and game on the B-side of the MEGA65 onboarding SD card. When you receive your MEGA65, make sure to visit these games and demos again. We only scratched the surface of this software and you will want to spend more time to explore all the features these titles offer.
 
-The C64 disk image is a nice addition to the MEGA65. It is my understanding that they prepared the SD Cards for the spring release of the MEGA65. It is unlikely any of the titles will change, but what's included is a nice way to highlight C64 mode. If you have interest, leave your comments below.
+The C64 disk image is a nice addition to the MEGA65. It is my understanding that they prepared the SD Cards for the spring release of the MEGA65. It is unlikely any of the titles will change, but what's included is a nice way to highlight C64 mode. If you're interested, leave a comment below.
 
 ## Join the Fun
 
