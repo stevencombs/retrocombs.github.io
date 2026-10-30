@@ -418,6 +418,23 @@ footer.site .rc-follow>p{margin:0 0 10px;color:#fff;font-weight:700;font-size:15
   .rcs-btn+.menu-btn{margin-left:8px}
   .menu{width:auto}
 }
+/* Tablets and narrow windows (761-1023px): the full menu doesn't fit, so use the Menu button there too. */
+@media (min-width:761px) and (max-width:1023px){
+  header.site nav{display:none}
+  .menu-btn{display:block;margin-left:8px;background:none;border:2px solid #fff;color:#fff;border-radius:8px;font-weight:700;font-size:14px;font-family:var(--font-sans);padding:7px 12px}
+  .rcs-btn{margin-left:auto}
+  .mobile-nav{display:none;background:#3b3b3b;color:#fff}
+  body.mnav .mobile-nav{display:block}
+  .mobile-nav a{color:#fff;text-decoration:none}
+  .mobile-nav>ul{list-style:none;margin:0 auto;padding:6px 24px;max-width:1200px}
+  .mobile-nav>ul>li{border-bottom:1px solid #555;padding:11px 0;font-weight:600}
+  .mobile-nav details summary{list-style:none;display:flex;justify-content:space-between;cursor:pointer}
+  .mobile-nav details summary::after{content:"\25BE"}
+  .mobile-nav .tl{display:grid;grid-template-columns:1fr 1fr 1fr;gap:4px 14px;margin:10px 0 4px;font-weight:500;font-size:14.5px}
+  .mobile-nav .tl a{display:flex;justify-content:space-between}
+  .mobile-nav .tl span{font:12px "JetBrains Mono",monospace;color:#bbb}
+  .mobile-nav .tl a.allt{grid-column:1/-1;color:var(--st-yellow);font-weight:700;margin-top:6px}
+}
 
 /* On-site search: overlay and /search results. */
 dialog.rcs{padding:0;border:0;border-radius:14px;width:92vw;max-width:740px;max-height:78vh;margin:9vh auto auto;background:#fff;color:var(--rc-ink);box-shadow:0 24px 60px rgba(0,0,0,.35);overflow:hidden;font-family:var(--font-sans)}
