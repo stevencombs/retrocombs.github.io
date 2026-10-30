@@ -15,7 +15,21 @@ wide: true
     {% for topic in group.items %}
     {% capture count %}{% include topic-count.html categories=topic.categories %}{% endcapture %}
     {% assign count = count | strip %}
-    <article class="topic-card{% if forloop.parentloop.first and forloop.first %} topic-card-lead{% endif %}">
+    <article class="topic-card{% if forloop.parentloop.first and forloop.first %} topic-card-lead{% endif %}{% if topic.banner %} has-banner{% endif %}">
+      {% if topic.banner %}
+      {% assign banner_phone = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_phone.png" %}
+      {% assign banner_wide = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_wide.png" %}
+      <a class="topic-card-banner" href="{{ topic.url | relative_url }}" aria-hidden="true" tabindex="-1">
+        {% if forloop.parentloop.first and forloop.first %}
+        <picture>
+          <source media="(max-width: 760px)" srcset="{{ banner_phone | relative_url }}" width="1200" height="500">
+          <img src="{{ banner_wide | relative_url }}" alt="" width="2000" height="400">
+        </picture>
+        {% else %}
+        <img src="{{ banner_phone | relative_url }}" alt="" width="1200" height="500" loading="lazy">
+        {% endif %}
+      </a>
+      {% endif %}
       <a class="topic-card-main" href="{{ topic.url | relative_url }}">
         {% if topic.icon %}<img src="{{ topic.icon | relative_url }}" alt="" width="48" height="48">{% endif %}
         <span class="topic-card-name">{{ topic.name }} <b>{{ count }}</b></span>
