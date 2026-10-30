@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: honolulu-vintage-show
 comments: yes
-categories: [retro, personal]
+categories: [shows, personal]
 tags:
   - hawaii
   - honolulu

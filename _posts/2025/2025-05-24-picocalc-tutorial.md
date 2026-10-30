@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: picocalc-tutorial
 comments: yes
-categories: [gadgets, raspberrypi, handhelds]
+categories: [handhelds, raspberrypi]
 channel: tech
 tags:
   - picocalc

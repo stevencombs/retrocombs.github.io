@@ -5,7 +5,8 @@ author: Steven B. Combs, Ph.D.
 email: 'retrocombs@icloud.com'
 date: 2014-11-29 17:25
 copyright: © Steven B. Combs, Ph.D. 2014
-categories: gadgets holiday
+categories: gadgets
+permalink: /gadgets/holiday/2014/11/29/gadgets-under-200.html
 comments: yes
 image:
   path: /images/posts/2014-11-29-acer-c720-chromebook.png

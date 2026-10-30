@@ -10,8 +10,10 @@ topics:
   pet: {label: "Commodore PET", url: "/commodore"}
   plus4: {label: "Plus/4", url: "/plus4"}
   ti994a: {label: "TI-99/4A", url: "/ti994a"}
-  zxspectrum: {label: "ZX Spectrum Next", url: "/zxspectrum"}
-  nabu: {label: "NABU", url: "/blog"}
+  zxspectrum: {label: "ZX Spectrum", url: "/zxspectrum"}
+  nabu: {label: "NABU", url: "/nabu"}
+  shows: {label: "Shows", url: "/shows"}
+  handhelds: {label: "Handhelds", url: "/handhelds"}
   retro: {label: "Retro", url: "/commodore"}
   gadgets: {label: "Gadgets", url: "/gadgets"}
   apple: {label: "Apple", url: "/apple.html"}
@@ -36,7 +38,7 @@ topics:
   evernote: {label: "Evernote", url: "/productivity"}
   presentations: {label: "Presentations", url: "/presentations.html"}
   entertainment: {label: "Entertainment", url: "/entertainment"}
-  personal: {label: "Personal", url: "/about"}
+  personal: {label: "Personal", url: "/personal"}
   holiday: {label: "Holiday", url: "/blog"}
   Holiday: {label: "Holiday", url: "/blog"}
   howto: {label: "How-to", url: "/blog"}
@@ -49,7 +51,9 @@ topic_pages:
   /commodore: Commodore
   /plus4: Plus/4
   /ti994a: TI-99/4A
-  /zxspectrum: ZX Spectrum Next
+  /zxspectrum: ZX Spectrum
+  /nabu: NABU
+  /shows: Shows
   /pi1541: Commodore
   /gadgets: Gadgets
   /apple: Apple
@@ -72,6 +76,7 @@ topic_pages:
   /entertainment: Entertainment
   /writing: Writing
   /handhelds: Handhelds
+  /personal: Personal
 # Pages and posts left out of search (add `search: false` to front matter as well).
 exclude:
   - /

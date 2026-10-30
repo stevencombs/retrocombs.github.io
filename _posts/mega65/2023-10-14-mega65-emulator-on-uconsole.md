@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
 permalink: mega65-uconsole
-category: mega65
+categories: [mega65, handhelds]
 image:
   path: /images/posts/mega65-uconsole/mega65-uconsole.jpg
   width: 1280
