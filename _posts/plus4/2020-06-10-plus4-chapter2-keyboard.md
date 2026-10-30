@@ -180,6 +180,6 @@ I didn't share this issue in the video; however, when using reverse and flash ch
 
 ## Join the Fun
 
-Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/O2Mqi2iFFQI).
+Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, Leave your comments and thoughts in the comments below.
 
 🕹️ retroCombs, OUT!

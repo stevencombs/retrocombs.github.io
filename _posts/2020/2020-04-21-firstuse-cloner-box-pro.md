@@ -129,4 +129,4 @@ In the meantime, I will continue to push the capabilities of the Cloner Alliance
 
 Am I 100% happy with my purchase? Not quite 100%, but because of the way I plan to use the device, my level of satisfaction is definitely in the mid to high 80%. That percentage could rise as I continue to use the device. Time will tell.
 
-I hope you enjoyed these extra thoughts about the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). Drop me a comment below or on the YouTube page to let me know. I'd love to hear from folks who use it in creative ways and with OSB Studio on Windows computers (since I don't have one in the house).
+I hope you enjoyed these extra thoughts about the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). Drop me a comment below to let me know. I'd love to hear from folks who use it in creative ways and with OSB Studio on Windows computers (since I don't have one in the house).

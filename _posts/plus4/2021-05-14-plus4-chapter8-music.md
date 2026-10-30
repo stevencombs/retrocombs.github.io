@@ -433,7 +433,7 @@ This is the last program for Chapter 8. But there's much more in the user's manu
 
 Don't miss the fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/GBJ2EVsqrLU).
+Help make this content better! Leave your comments and thoughts in the comments below.
 
 Thanks for reading and watching and if you are inclined, please let others know about the blog using the hashtag #retroCombs on your favorite social media platform.
 

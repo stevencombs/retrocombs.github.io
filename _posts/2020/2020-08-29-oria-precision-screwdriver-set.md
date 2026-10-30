@@ -94,4 +94,4 @@ That concludes my final thoughts for this toolset. I do update and timestamp pos
 
 ## Have Questions?
 
-Drop your questions about this toolkit below or in the comments section at YouTube. Happy to provide answers.
+Drop your questions about this toolkit below. Happy to provide answers.

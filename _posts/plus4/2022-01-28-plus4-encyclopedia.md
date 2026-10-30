@@ -23,7 +23,7 @@ With the last regular Commodore Plus/4 User's Guide chapters complete, we now fo
 
 > **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
-Before the blog post, I must add a HUGE thanks to [Robin](https://twitter.com/8BitShowAndTell) over at [8-Bit Show and Tell](https://www.youtube.com/8BitShowAndTell). He was extremely gracious to collaborate with me. He's a rock star in the retro computing YouTube community and for someone like him to share screen time with me reinforces what a great guy he is. If you are coming over from his channel. WELCOME! I know my content won't live up to Robin's but I hope you will introduce yourself on the YouTube channel or in the comments below and let me know if you find something you like.
+Before the blog post, I must add a HUGE thanks to [Robin](https://twitter.com/8BitShowAndTell) over at [8-Bit Show and Tell](https://www.youtube.com/8BitShowAndTell). He was extremely gracious to collaborate with me. He's a rock star in the retro computing YouTube community and for someone like him to share screen time with me reinforces what a great guy he is. If you are coming over from his channel. WELCOME! I know my content won't live up to Robin's but I hope you will introduce yourself in the comments below and let me know if you find something you like.
 
 **Table of Contents**
 
@@ -730,7 +730,7 @@ Several books are listed, but few of them are Commodore Plus/4 specific. Some ar
 
 Don't miss the fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/GBJ2EVsqrLU).
+Help make this content better! Leave your comments and thoughts in the comments below.
 
 Thanks for reading and watching and if you are inclined, please let others know about the blog using the hashtag #retroCombs on your favorite social media platform.
 

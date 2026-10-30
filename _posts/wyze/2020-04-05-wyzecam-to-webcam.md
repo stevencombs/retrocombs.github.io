@@ -114,4 +114,4 @@ Wyze claims this firmware is the first and last version they will release; that'
 
 A completely operational firmware will open up the market for Wyze Cams, but more importantly during these weird times, allow those who cannot purchase an inexpensive webcam to tap into your inventory of Wyze Cams so they can telecommute. The microphone must work for these webcams to be useful. If folks don't have a webcam, they likely don't have a secondary USB or internal microphone on their computer. Please Wyze, continue development. I'll be the first to raise my hand to help beta test and we need to do this sooner, rather than later.
 
-What's been your experience with Wyze Cams? Do you have a spare lying around the house that you plan to convert to a Wyze WebCam? Drop me a comment below or at the [YouTube video page](https://www.youtube.com/watch?v=TOy8VQSQ_0Q). Happy webcaming and remember, "wash those hands!"
+What's been your experience with Wyze Cams? Do you have a spare lying around the house that you plan to convert to a Wyze WebCam? Drop me a comment below. Happy webcaming and remember, "wash those hands!"

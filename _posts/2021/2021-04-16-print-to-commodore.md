@@ -190,7 +190,7 @@ You can now load and save programs to disk images on the USB drive.
 
 Don't miss the fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this content better! Leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/nyg4Yh_QFuA).
+Help make this content better! Leave your comments and thoughts in the comments below.
 
 Thanks for reading and watching and if you are so inclined, please let others know about the blog on all your favorite social media platforms using the hashtag #retroCombs.
 

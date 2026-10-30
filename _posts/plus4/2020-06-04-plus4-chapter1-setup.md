@@ -119,6 +119,6 @@ I mention in the video that I plan to look at modern components to replace items
 
 ## Join the Fun
 
-Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, leave your comments and thoughts below or in the comments [under the YouTube video](https://youtu.be/fstxGJwj7jg).
+Help make this series better! Post feedback, questions, and ideas. Let me know if you are following along. Let's make this a community project. For now, leave your comments and thoughts in the comments below.
 
 🕹️ retroCombs, OUT!

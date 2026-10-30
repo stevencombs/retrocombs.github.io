@@ -420,7 +420,7 @@ The emulator is a work in progress and while you can use either an closed ROM or
 ## Join the Fun
 You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this series better! Post your feedback, questions, and ideas. Let's make this a community project. For now, leave your comments and thoughts below or in the comments [under the YouTube video](https://www.youtube.com/watch?v=8PbSxkYVD8I).
+Help make this series better! Post your feedback, questions, and ideas. Let's make this a community project. For now, leave your comments and thoughts in the comments below.
 
 Thanks for watching and please let other Commodore fans know about my MEGA65 series of posts by sharing on social media using #retroCombs.
 

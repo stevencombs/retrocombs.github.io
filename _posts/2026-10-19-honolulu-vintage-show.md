@@ -117,7 +117,7 @@ Other game finds:
 
 - **Altered Beast** for the Sega Genesis, $40.
 - **The Revenge of Shinobi**, also from 1989. They don't make box art like that anymore.
-- **A $5 box of handheld goodies**: a Nintendo DS, some Game & Watch units, a Multi Screen Blackjack, and a Wizards & Warriors. There was a lot more hiding in that box, so pause the video and tell me in the comments what you spot.
+- **A $5 box of handheld goodies**: a Nintendo DS, some Game & Watch units, a Multi Screen Blackjack, and a Wizards & Warriors. There was a lot more hiding in that box, so pause the video and tell me in the comments below what you spot.
 - **Casino Kid** for the NES, sitting next to a box of Miller Lite playing cards. Now that's the '80s.
 
 ## 70S AND 80S ELECTRONICS
@@ -155,7 +155,7 @@ This is where the show really took me back.
 
 One table was a time machine: a Volkswagen bus, a Jeep, Snoopy, a little R2-D2, and Johnny Lightning cars, which showed up in 1969 to take on Hot Wheels. Bozo was in the back.
 
-That Bozo brings up a little bit of shame. I was on the Nashville Bozo show in the early 1970s and was picked to tell a joke. I had one planned that nobody had ever told. When my turn came, I told the same joke everybody told every week. I was so disappointed in myself. Want to know which joke? Ask me in the video comments.
+That Bozo brings up a little bit of shame. I was on the Nashville Bozo show in the early 1970s and was picked to tell a joke. I had one planned that nobody had ever told. When my turn came, I told the same joke everybody told every week. I was so disappointed in myself. Want to know which joke? Ask me in the comments below.
 
 Another vendor had all of 1980s Saturday morning in Ziploc bags: action figures from lots of brands, plus M.A.S.K. (Mobile Armored Strike Kommand, that's "command" with a K). And wait, is that ALF? It is, and there were two of them. ALF was on TV from 1986 to 1990, the alien from Melmac who always had his eye on the family cat. I also found a see no evil, hear no evil, speak no evil monkey. I have no idea what it does, and I was afraid to ask. That is one scary-looking monkey.
 
@@ -219,7 +219,7 @@ This isn't my only video about the retro scene in Honolulu. In an upcoming video
 
 I expected to come home empty-handed on the computer front, and I did. But I found a working Pac-Man handheld, a soup can radio, a knot-tying fishing gadget, and a postcard from my Air Force days, and I got to stand where Elvis made satellite TV history. That's a great day for $6.
 
-What would you have bought? Let me know in the video comments. If you came for retro computers and left disappointed, check out my [vintage and retro show playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTonVDnSU4DqDl7pruBHnwEd9), where I find plenty of them.
+What would you have bought? Let me know in the comments below. If you came for retro computers and left disappointed, check out my [vintage and retro show playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTonVDnSU4DqDl7pruBHnwEd9), where I find plenty of them.
 
 If you like hanging out with folks who love talking about this stuff, join our Discord. It's a perk of becoming a [channel member](https://www.youtube.com/@retrocombs/join), with levels that run from the Commodore PET all the way up to the MEGA65. If this post helped, you can also [leave a tip](https://paypal.me/stevencombs).
 

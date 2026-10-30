@@ -395,6 +395,6 @@ A few extras I've picked up from the PicoMite manual and the community:
 
 That's how you can start having fun with the PicoCalc and its built-in MMBasic right out of the box: a pocket calculator, your first retro-style programs, a serial terminal, an LED on the GPIO pins, and even an NES emulator. It's become one of my favorite handheld devices.
 
-Thanks to Clockwork for sending this unit. Let me know in the video comments how you plan to use your PicoCalc, and whether you'd like a follow-up on swapping in a Pico 2 or Pico W. If you love handheld gadgets like I do, check out my handhelds playlist on YouTube. If this post helped, [leave a tip](https://paypal.me/stevencombs).
+Thanks to Clockwork for sending this unit. Let me know in the comments below how you plan to use your PicoCalc, and whether you'd like a follow-up on swapping in a Pico 2 or Pico W. If you love handheld gadgets like I do, check out my handhelds playlist on YouTube. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
 That's it for me, folks. 🕹️ retroCombs, OUT!

@@ -68,7 +68,7 @@ I've used this device for two days. As with most of my reviews, here's the list 
 
 ## Have Questions?
 
-Drop your questions about the Chromecast below or in the comments section at YouTube. Happy to provide answers and read your thoughts.
+Drop your questions about the Chromecast below. Happy to provide answers and read your thoughts.
 
 ## Pixel Power Podcast
 

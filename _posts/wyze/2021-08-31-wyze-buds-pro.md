@@ -119,4 +119,4 @@ That concludes this post. I update and timestamp posts as I receive questions an
 
 ## Have Questions?
 
-I can see by the time on the [Wyze Watch (#ad)](https://amzn.to/3joScYC) that I've taken up too much of your time! Have questions about the Wyze Buds Pro? Post them in the comments below, or under [the companion video](https://youtu.be/Mdil8fmURjQ), and I'll do my best to answer them.
+I can see by the time on the [Wyze Watch (#ad)](https://amzn.to/3joScYC) that I've taken up too much of your time! Have questions about the Wyze Buds Pro? Post them in the comments below and I'll do my best to answer them.

@@ -71,7 +71,7 @@ I tend to add additional thoughts as I think of them, so check back later. I'll 
 
 ## Join the Fun
 
-Help make this post better! Share your feedback, questions, and ideas. Leave your comments and thoughts below or in the comments [under the  video](https://youtu.be/BJqSz99_7og).
+Help make this post better! Share your feedback, questions, and ideas. Leave your comments and thoughts in the comments below.
 
 Thanks for reading and watching and if you are so inclined, please share this video with the hashtag #retroCombs.
 

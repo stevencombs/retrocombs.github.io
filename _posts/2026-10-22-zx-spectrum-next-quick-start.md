@@ -362,6 +362,6 @@ Everything in this post was checked on 2026-10-22 against these sources:
 
 That's the Quick Start card, start to finish: power, video modes, ports, clock, Wi-Fi, keyboard shortcuts, a first NextBASIC program, and a game download over Wi-Fi. It took me two livestreams to get through that tiny print. I hope this post gets you there in one sitting.
 
-Issue 3 owners, welcome to the Next! Let me know in the video comments which core you'll try first: the Next, the QL, or the C64. If this post helped, [leave a tip](https://paypal.me/stevencombs).
+Issue 3 owners, welcome to the Next! Let me know in the comments below which core you'll try first: the Next, the QL, or the C64. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
 That's it for me, folks. 🕹️ retroCombs, OUT!
