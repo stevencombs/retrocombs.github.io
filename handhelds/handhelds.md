@@ -1,15 +1,12 @@
 ---
 layout: pages
-title: 'Retro Gaming Handheld Consoles'
-permalink: 'handhelds'
-category: retro
-comments: false
-tags:
-  - games
-  - handhelds
-  - consoles
+title: Handhelds
+permalink: handhelds
+ads: light
 ---
 
-During Amazon Prime Day 2021, I took a journey down the retro-computing handheld console road and purchased four devices to whet my retro gaming whistle. This turned into an obsession and this page captures all my handheld gaming device posts.
+<img class="category" src="/images/design/place-holder.svg" width="20%" />
+
+Clockwork uConsole and PicoCalc, gaming handhelds, and pocket computers.
 
 {% include post-cards.html items=site.categories.handhelds %}

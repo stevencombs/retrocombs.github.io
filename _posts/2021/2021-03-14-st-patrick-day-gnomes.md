@@ -5,7 +5,7 @@ date: '2021-03-14'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: yes
-category: holiday
+category: gadgets
 permalink: irish-gnomes
 tags:
   - gnomes

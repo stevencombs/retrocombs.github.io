@@ -6,8 +6,8 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
-  - howto
   - apple
+permalink: /howto/apple/2013/04/18/turn-on-os-x-internet-sharing.html
 image:
   path: 'https://2.bp.blogspot.com/-O3qPf_BNyoY/UXBG4gVEGfI/AAAAAAABIXU/z2gq-Rbsd48/s1600/Ethernet.JPG'
   width: 500

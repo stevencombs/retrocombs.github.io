@@ -7,6 +7,8 @@ date: 'August 13, 2016'
 comments: 'yes'
 categories:
   - chip
+  - handhelds
+permalink: /chip/2016/08/13/fish-and-chips.html
 tags:
   - howto
   - chip

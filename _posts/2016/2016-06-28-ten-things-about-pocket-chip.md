@@ -7,6 +7,8 @@ date: 'June 28, 2016'
 comments: 'yes'
 categories:
   - chip
+  - handhelds
+permalink: /chip/2016/06/28/ten-things-about-pocket-chip.html
 image:
   path: /images/posts/chip/pocket_chip.jpg
   width: 4160

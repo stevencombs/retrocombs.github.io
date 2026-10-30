@@ -35,12 +35,24 @@ groups:
         blurb: Texas Instruments 99/4A notes and videos.
         chip: 11
         rail: 6
-      - name: ZX Spectrum Next
+      - name: ZX Spectrum
         url: /zxspectrum
         categories: [zxspectrum]
         icon: /images/design/zxspectrum.svg
         banner: zxspectrum
-        blurb: ZX Spectrum Next notes and videos.
+        blurb: Classic ZX Spectrum and ZX Spectrum Next notes and videos.
+      - name: NABU
+        url: /nabu
+        categories: [nabu]
+        icon: /images/design/place-holder.svg
+        banner: nabu
+        blurb: NABU Personal Computer notes and videos.
+      - name: Shows
+        url: /shows
+        categories: [shows]
+        icon: /images/design/place-holder.svg
+        banner: shows
+        blurb: Vintage computer shows and events.
   - name: Modern tech
     items:
       - name: Gadgets
@@ -52,6 +64,12 @@ groups:
         hot: true
         chip: 3
         rail: 3
+      - name: Handhelds
+        url: /handhelds
+        categories: [handhelds]
+        icon: /images/design/place-holder.svg
+        banner: handhelds
+        blurb: Clockwork uConsole and PicoCalc, gaming handhelds, and pocket computers.
       - name: Apple
         url: /apple.html
         categories: [apple]
@@ -183,3 +201,9 @@ groups:
         icon: /images/design/writing.svg
         banner: writing
         blurb: Writing tools and long-form work.
+      - name: Personal
+        url: /personal
+        categories: [personal]
+        icon: /images/design/steven-square.svg
+        banner: personal
+        blurb: Army years, podcasts, and trips with The Lovely Accountant.

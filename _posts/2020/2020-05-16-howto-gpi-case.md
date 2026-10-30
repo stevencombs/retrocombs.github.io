@@ -5,7 +5,7 @@ date: '2020-05-16'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 comments: 'yes'
-category: retro
+category: handhelds
 permalink: /gpicase
 tags:
   - gameboy

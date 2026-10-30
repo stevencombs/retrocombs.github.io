@@ -6,7 +6,7 @@ author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: zx-spectrum-next-quick-start
 comments: yes
-categories: [retro, zxspectrum]
+categories: [zxspectrum]
 tags:
   - zxspectrum
   - zxspectrumnext
