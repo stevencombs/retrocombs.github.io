@@ -32,7 +32,7 @@ This is not a cheesy, nor cheap box and is an item that needs to be displayed. I
 ![](/images/posts/2014-09-20-retirement-package/09-20-retirement-package-01.jpg)
 
 # Box side panels with army values
-Army values play an important part of an Army officer’s career. Having them emblazoned on the box is a nice reminder that they are still appropriate in [my civilian career](/higher-education/personal/2014/09/20/campus-president.html) and in life.
+Army values play an important part of an Army officer’s career. Having them emblazoned on the box is a nice reminder that they are still appropriate in my civilian career and in life.
 
 Want to know more about the seven army values? Check them out [here](http://www.history.army.mil/LC/The%20Mission/the_seven_army_values.htm).
 

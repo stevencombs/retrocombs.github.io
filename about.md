@@ -27,6 +27,8 @@ He also co-hosted Brick in my Pocket (BimPCast), a podcast for adult LEGO fans, 
 
 All of it grows out of a long career in higher education. Steven spent many years teaching in the classroom and helping other faculty teach, and his doctoral research focused on faculty development and online curriculum design. Curriculum development is the part of education he loves most: breaking a big topic into clear, hands-on steps that build on each other. That's the same approach behind every video, guide, and post here. It just has more blinking cursors.
 
+Steven is proudest of his 27 years in uniform. He started as an enlisted airman in the United States Air Force, training in automatic flight control systems and avionics in the early 1980s. Later that decade, he earned his commission through ROTC into the United States Army Reserve as an Armor officer. His first tank was an M60A3. He later served as an Adjutant General officer and retired from the Army in 2011. His service still comes up often in his livestreams, on Discord, and in posts like his [COBI M60 Patton build](/cobi-m60-patton).
+
 Steven shares life with The Lovely Accountant (TLA), three kids, two dogs named BINGO! and Váli, and a cat named T.
 
 ### Find retroCombs online
