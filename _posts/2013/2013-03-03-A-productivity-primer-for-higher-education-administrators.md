@@ -14,9 +14,9 @@ image:
   alt: 'Empty inbox'
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="https://4.bp.blogspot.com/-cEkUuUsA4g4/UTJSV25O7nI/AAAAAAABG2U/-uETIC_O5yM/s200/Empty+Inbox.png" align="right" width="200" />We conduct cabinet meetings on our campus each Monday. Our Chancellor develops the agenda and leads these discussions between our regional academic administrators. Typically these meetings are a simple sharing of information between our team leaders. On occasion we invite college and community leaders to meet with the team to understand important initiatives.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://4.bp.blogspot.com/-cEkUuUsA4g4/UTJSV25O7nI/AAAAAAABG2U/-uETIC_O5yM/s200/Empty+Inbox.png" align="right" width="200" />We conduct cabinet meetings at the paying gig each Monday. Our leader develops the agenda and leads these discussions between our regional academic administrators. Typically these meetings are a simple sharing of information between our team leaders. On occasion we invite college and community leaders to meet with the team to understand important initiatives.
 
-A unique twist is that once a month, the Chancellor asks a cabinet member to provide a professional development activity. The cabinet member does not have to personally conduct the activity. They can farm it out to someone on their team or bring in someone from the community. This month, the task falls to me.
+A unique twist is that once a month, our leader asks a cabinet member to provide a professional development activity. The cabinet member does not have to personally conduct the activity. They can farm it out to someone on their team or bring in someone from the community. This month, the task falls to me.
 
 While I have a large number of faculty on our Academic Affairs team that I can ask to lead a session, given that I am new to the cabinet, I felt it appropriate that I take my turn at bat. Folks who know me can probably predict the topic of my presentation (or have read the title of this post). I have this odd obsession. I constantly refine my productivity workflow. I’ve gone through a countless number of tools and processes to find a system that works for me in my given environment.
 

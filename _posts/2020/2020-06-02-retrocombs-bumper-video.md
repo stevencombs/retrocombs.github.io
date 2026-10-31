@@ -39,7 +39,7 @@ Think you've identified the tools? Let's see if you were correct.
 
 ## Creating the Artwork (Google Slides)
 
-This one is going to confuse a whole bunch of graphic artists out there. Every graphic I create for [my YouTube videos](https://youtube.com/stevencombs) or [my podcast](https://www.pixelpowerpodcast.com) is created in...wait for it...[Google Slides](https://slides.google.com). You can view the Google Slides file that contains the artwork for this bumper video below.
+This one is going to confuse a whole bunch of graphic artists out there. Every graphic I create for [my YouTube videos](https://youtube.com/stevencombs) is created in...wait for it...[Google Slides](https://slides.google.com). You can view the Google Slides file that contains the artwork for this bumper video below.
 
 <div style="position:relative;padding-top:56.25%;">
 <p>

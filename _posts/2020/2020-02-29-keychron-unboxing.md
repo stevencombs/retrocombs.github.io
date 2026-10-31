@@ -26,7 +26,7 @@ It was time to get a new Mac keyboard. I've been using the same Matias One Keybo
 
 ![IMAGE OF MATIAS AND K2](/images/posts/2020-02-29-keychron-unboxing/matias-and-keychron.jpg)
 
-Much has changed since the original purchase of this keyboard. I've replaced my iPhone with a [Pixel Phone](https://www.pixelpowerpodcast.com), I've gone through three Macs, I've grown more fond of "clicky" mechanical keyboards, and I like to use my keyboard with more than one Bluetooth device at a time.
+Much has changed since the original purchase of this keyboard. I've replaced my iPhone with a Pixel Phone, I've gone through three Macs, I've grown more fond of "clicky" mechanical keyboards, and I like to use my keyboard with more than one Bluetooth device at a time.
 
 Enter my new purchase, the [Keychron K2 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard).
 

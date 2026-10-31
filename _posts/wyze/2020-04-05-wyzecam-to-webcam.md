@@ -29,7 +29,7 @@ kind: how-to
 
 On March 31, 2019 and during the height of COVID-19, the folks who make the popular [Wyze cam (#ad)](https://amzn.to/2R2sgn6) released a firmware update that allows you to convert their popular security camera into a webcam. This is a nice philanthropic move by the company and while there are likely to be critics who believe this move is only to sell more cameras, I choose to believe that Wyze is doing this to fill a need during this crisis and honestly, $25 for a webcam that can also be used as a security camera is one heckuva deal! And who doesn't need a good deal right now?
 
-> **2020-04-07 UPDATE:** Several asked me why I did not test the camera on Chrome OS since I host the [Pixel Power Podcast](https://www.pixelpowerpodcast.com). Great question. You will find that video linked in this post below the original if you are interested in the firmware performance on Chrome OS devices.
+> **2020-04-07 UPDATE:** Several asked me why I did not test the camera on Chrome OS. Great question. You will find that video linked in this post below the original if you are interested in the firmware performance on Chrome OS devices.
 
 In this post, I will demonstrate how to flash a Wyze Cam Black into a "Wyze WebCam Black" with the new firmware and test out the quality of the image, microphone, and sound. Along the way, I also include an OPEN THE BOX segment with a brand new Wyze Cam Black. The black variant is the same as a Wyze Cam V2, only in black and available in limited numbers. If you want to view this segment only, [click here](https://youtu.be/TOy8VQSQ_0Q?t=292).
 

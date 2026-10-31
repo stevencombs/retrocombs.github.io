@@ -124,7 +124,7 @@ In the meantime, I will continue to push the capabilities of the Cloner Alliance
 * Roku
 * The C64 mini
 * Chrome OS devices
-* [Pixel devices](https://www.pixelpowerpodcast.com)
+* Pixel devices
 * and any other device with a standard video out connector
 
 Am I 100% happy with my purchase? Not quite 100%, but because of the way I plan to use the device, my level of satisfaction is definitely in the mid to high 80%. That percentage could rise as I continue to use the device. Time will tell.
