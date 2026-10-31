@@ -38,8 +38,6 @@ This blog post shares my Pixel phone thoughts and observations after a few weeks
 
 > This phone uses the [Google Project Fi][2] service, not Verizon. Project Fi works for me and my average monthly cost is around $35. That would be hard to beat if I had this phone on Verizon's network.
 
-[![Pixel Power Podcast Banner](/images/common/ppp-banner.png)](https://www.pixelpowerpodcast.com)
-
 # Table of contents
 This is a rather long post. Below is a table of contents you can use to jump to a specific section.
 

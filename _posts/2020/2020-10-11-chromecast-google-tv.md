@@ -69,7 +69,3 @@ I've used this device for two days. As with most of my reviews, here's the list 
 ## Have Questions?
 
 Drop your questions about the Chromecast below. Happy to provide answers and read your thoughts.
-
-## Pixel Power Podcast
-
-If you like this video and describe yourself as a Google Fanboy (person/girl/etc.), be sure to check out my podcast, the Pixel Power Podcast. Monthly (sometimes more often), I focus on a topic that allows you to get the most out of your Pixel and Google powered devices such as Android, Chrome OS, Google Assistant, and Google Workspace (formerly G-Suite) with an emphasis on Pixel devices such as the Pixel phone, Pixelbook, Pixel Slate, Pixel Buds, and other Google Assistant powered devices like this new Chromecast with Google TV. Check out the [podcast](https://www.pixelpowerpodcast.com) and be sure to f[ollow the podcast on Twitter](https://www.twitter.com/pixelpowerpc).
