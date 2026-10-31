@@ -21,6 +21,19 @@ The main components of my workflow must include cloud storage and a good text ed
 
 There are many iOS apps in the App Store that claim to be the best text editor, and while some of them are probably great apps for the general public, very few of them embrace [Markdown][3] or more specifically, [MultiMarkdown][4]. If you are not familiar with Markdown, or its more powerful variant – MultiMarkdown, don't worry; most of the population isn't. After the break below I'll provide a Markdown primer and reveal my iPad text editor of choice.
 
+{% include review-box.html
+   type="compared"
+   price="Writing Kit $4.99"
+   where="(as of Jan 2013)"
+   summary="I tried seven Markdown editors on my iPad. Writing Kit is the clear winner, well worth $4.99, and an indispensable tool. Textastic came very close."
+   pick1_name="Writing Kit"
+   pick1_badge="MY PICK"
+   pick1_text="The clear winner. I wrote about 80% of this post in it. Well worth $4.99."
+   pick2_name="Textastic"
+   pick2_role="runner-up"
+   pick2_text="Very close: a useful keyboard and the best navigation wheel on iOS."
+   channel="tech" %}
+
 **Why Markdown?**
 
 > If you are already familiar with Markdown, I suggest you skip the next two sections. However, if this is a new concept, read on.

@@ -23,6 +23,18 @@ After asking me whether I prefer a medium or fine nib (I chose fine) and then al
 
 Unfortunately, the Pilot sat on my desk, in the original mail package, for several weeks. I was eager to give the pen a try, but wanted to ensure I had time to document my Pilot MR experience and provide a comparison between the Jinhao 250 and the Pilot MR Metropolitan.
 
+{% include review-box.html
+   type="compared"
+   price="Pilot under $14, Jinhao about $3"
+   where="(as of May 2015)"
+   summary="The Jinhao wins on cost and looks, but the Pilot wins the writing experience, and that's what matters most in a fountain pen. The Pilot gets my pick."
+   pick1_name="Pilot MR Metropolitan"
+   pick1_badge="MY PICK"
+   pick1_text="Wins ink flow, weight and the overall writing experience, which matters most."
+   pick2_name="Jinhao 250"
+   pick2_text="Wins on cost (about $3), design and grip. Fine if you want a pen to display."
+   channel="retrocombs" %}
+
 # Pilot MR unboxing
 Before I compare the two fountain pens, below are images from my unboxing of the Pilot. Comments appear below the images.
 

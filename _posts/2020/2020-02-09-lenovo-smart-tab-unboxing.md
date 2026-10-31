@@ -46,6 +46,14 @@ I began to read and watch reviews. Reviewers were generally positive with some m
 
 This post is not a review of the Lenovo Smart Tab with Google Assistant, that will probably come later. What this post does do is provide a video I threw together that is an "unboxing" of the device. There was little information about the device and I am hopeful this video will help others make a decision about whether they too should give this tablet a shot. Here's the video:
 
+{% include review-box.html
+   type="first-look"
+   price="$350 retail, $100 off direct from Lenovo"
+   where="(as of Feb 2020)"
+   summary="After three months of hunting for an Android tablet to replace my iPad, I open the box. Not a premium unboxing, but it's adequate, with a few surprises."
+   full_review="/lenovo-yoga-tab-review"
+   channel="tech" %}
+
 {% include youtube.html id="Hu-KtK3lYzA" title="OPEN THE BOX: Lenovo YOGA TAB with Google Assistant" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}

@@ -21,6 +21,14 @@ DaVinci Resolve is my goto video editing software but I'm often frustrated with 
 
 It's time for me to share another tool I use to create my retro-computing content.
 
+{% include review-box.html
+   type="take"
+   chip="RECOMMENDED"
+   price="$7"
+   where="(as of Nov 2022; also on Setapp)"
+   summary="Paletro adds a command palette to any Mac app. Here are ten ways it speeds up my DaVinci Resolve edits."
+   channel="tech" %}
+
 ----
 
 ## Table of Contents

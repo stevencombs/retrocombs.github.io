@@ -38,6 +38,11 @@ As a Kickstarter backer, this new Pebble Time watch will include a discount and 
 
 My Pebble Time arrived two days ago and this post shares unboxing images, brief commentary and initial impressions. THIS POST IS NOT A FINAL REVIEW.
 
+{% include review-box.html
+   type="first-look"
+   summary="The color e-paper display is easy to read in sunlight, and the design beats my original Pebble. The buttons are still stiff. Timeline is the highlight."
+   channel="tech" %}
+
 #Unboxing images
 Comments are below each image.
 

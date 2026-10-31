@@ -16,6 +16,15 @@ kind: bench
 
 Recently a group from our community made a trip to several Makerspaces in the Louisville area including: [MakerMobile](http://www.velocityindiana.org/makermobile/), [Lvl1](http://www.lvl1.org/) and [FirstBuild](https://firstbuild.com/). During our visit to FirstBuild, I  learned that they sold Arduino and Raspberry Pi development boards to visiting Makers, as well as many other supplies. On a whim, I asked our tour guide if they had the Raspberry Pi 2 Model B (Raspi 2) in stock. She wasn't sure at the time; however, at the conclusion of our tour I was thrilled when she handed me a brand new, in box, Raspi 2. I expected a bit of markup; however, she gladly said, "$35 please." Given the scarcity and online price markups, I was surprised to take one home that day at the retail cost.
 
+{% include review-box.html
+   type="bench"
+   difficulty="Easy"
+   cost="$20: $15 case + $5 heatsink set (Apr 2015)"
+   status="Working"
+   summary="The $15 Zebra case was easy, and fun, to put together, and the $5 heatsinks keep my overclocked Pi 2 running without issue. Well worth $20."
+   parts="Case and heatsink are linked in the post"
+   channel="tech" %}
+
 ![Raspberry Pi 2 Model B with heatsinks on the main chips](/images/posts/raspi2-case-heatsink/pi2-heatsinks.jpg)
 
 That evening, I made a visit to Amazon to locate a case. Unlike my original Raspberry Pi, I will not use this Raspi 2 for physical computing development, but rather as a  [headless](/raspberrypi/2013/04/27/create-ssh-connection-from-your-mac-to.html) networked Linux box. The Raspi 2's additional CPU speed combined with the additional memory should make the Raspi 2 a nice addition to our home network for server and Python related experiments. I will connect to the Raspi 2 using either SSH or VNC via an iPad, Chromebook or Mac.

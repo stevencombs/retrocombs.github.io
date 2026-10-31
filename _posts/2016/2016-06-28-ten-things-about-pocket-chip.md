@@ -19,6 +19,11 @@ kind: how-to
 
 I've had fun playing with the Pocket C.H.I.P. since it landed on my door. <strike>While I do plan to write a full review at some point</strike>, for now, I have ten things to share that might be of interest to new users of the geekiest gadget I have ever owned.
 
+{% include review-box.html
+   type="take"
+   summary="The geekiest gadget I've ever owned. Ten tips for new owners: a calculator, Terminal practice, the fish shell, a new home screen and more. Not a full review."
+   channel="tech" %}
+
 ![Pocket C.H.I.P.][image-1]
 
 **New updates and additions on:** December 18, 2016
