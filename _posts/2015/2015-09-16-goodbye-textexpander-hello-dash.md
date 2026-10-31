@@ -28,7 +28,7 @@ kind: how-to
 
 For several years [TextExpander](https://smilesoftware.com/TextExpander/) has been my go to Mac text expansion utility. There was a brief switch to [aText](https://itunes.apple.com/us/app/atext/id488566438?mt=12&uo=4&at=10l9vL); however, I came back to TextExpander because it has more polish and better community support. Recently a new version of TextExpander was released (version 5.0). Version 5 includes new features, most notably the ability to identify and create expansion snippets automatically. For me, this feature did not compel me to purchase the $19 upgrade.
 
-> **What is a text expansion utility?** It is a utility application that allows you to type a short string of text that automatically expands to a longer string. For instance, I type `itcc` and it expands to `Ivy Tech Community College`as soon as I type hit the space bar. Most text expansion utilities include additional features, but this is the primary use.
+> **What is a text expansion utility?** It is a utility application that allows you to type a short string of text that automatically expands to a longer string. For instance, I type `itcc` and it expands to `the paying gig` as soon as I type hit the space bar. Most text expansion utilities include additional features, but this is the primary use.
 
 There were three separate utilities installed on my Mac that include text expansion capabilities:
 

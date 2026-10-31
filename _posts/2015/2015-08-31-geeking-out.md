@@ -31,18 +31,18 @@ Below is the article in print layout followed by the full text. Be sure to visit
 ![](https://lh3.googleusercontent.com/YeKg1PHfVTTrWSG_QcZP6hrCMXomAEBJCzXm64ZhH9ly=w882-h1622-no)
 ![](https://lh3.googleusercontent.com/WBfVQdJRzcTETKGAl67ZnHExJuQRYpNI_4uDA_MJ9RgS=w931-h867-no)
 
-# Full Text: Ivy Tech President has a History of "Geeking Out"
+# Full Text: Leader at the Paying Gig has a History of "Geeking Out"
 By Julie Mcclure - The Republic (jmcclure@therepublic.com)
 Published: 8/30/15 7:51 pm EDT
 [[Original Link to Article](http://www.therepublic.com/view/local_story/Technology-drives-college-lead_1440978623)]
 
-The man who leads Ivy Tech Community College’s campus in Columbus describes himself as a geek at heart.
+The man who leads the paying gig describes himself as a geek at heart.
 
 By day, Steven B. Combs presides over 3,000 students and the staff members who guide them.
 
 In his free time, Combs also shares his knowledge with others through a blog he writes about technology, reviewing the newest in gadgets, electronics, apps and more.
 
-Combs suspects many of Ivy Tech’s students and staff would be surprised at the level of his explorations into how technology is changing everyday life, and the tips and advice he offers in the blog when test-driving some of the latest innovations.
+Combs suspects many of the students and staff at the paying gig would be surprised at the level of his explorations into how technology is changing everyday life, and the tips and advice he offers in the blog when test-driving some of the latest innovations.
 
 Most people find his blog through a simple Internet search while looking for tips on how to solve a technology issue, or figuring out what type of computer, tablet or app to buy, he said.
 
@@ -50,7 +50,7 @@ They will find a scrolling list of his latest posts, plus earlier ones listed un
 
 It was that childhood building block, which Combs said is much more than a toy for kids, that led to the current technology blog, he said.
 
-Combs began writing one of his first blogs while a department chair and advanced manufacturing technology professor at Ivy Tech — Evansville, where he would bring in a box of Legos and dump them out for his students to explore and create with.
+Combs began writing one of his first blogs while a department chair and advanced manufacturing technology professor at the paying gig, where he would bring in a box of Legos and dump them out for his students to explore and create with.
 
 He began writing about a group called Adult Fans of Lego and eventually became an ombudsman for it with the Lego company.
 
@@ -66,7 +66,7 @@ The 27-year military veteran, with stints in the Air Force and the Army, learned
 
 “There’s no ambiguity,” he said. “I’m direct.”
 
-It’s the same style that he uses to communicate with his colleagues at Ivy Tech, Combs said.
+It’s the same style that he uses to communicate with his colleagues at the paying gig, Combs said.
 
 Further advancing into the tech world, Combs this fall is teaching a course at Purdue Polytechnic Columbus — Tech 120, which is all about design and technology.
 
@@ -106,9 +106,9 @@ Combs is also on the hunt for the best pen ever, to accompany his selection for 
 
 ![](https://lh3.googleusercontent.com/7lqOIUygUDF8hOzr6089cfK-LOBr4xzKpgpOC29c6IUJ=w1434-h1002-no)
 
-He said such items are of use with the myriad of meetings a college president attends and the information he needs to retain.
+He said such items are of use with the myriad of meetings he attends at the paying gig and the information he needs to retain.
 
-Right now, he’s praising the Pilot Precise V5 RT, a pen that’s helped him start a new trend at Ivy Tech, sketch notes.
+Right now, he’s praising the Pilot Precise V5 RT, a pen that’s helped him start a new trend at the paying gig, sketch notes.
 
 ## Utilizing graphic design
 
