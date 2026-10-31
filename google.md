@@ -7,7 +7,7 @@ ads: light
 
 <img class="category" src="/images/design/google.svg" width="20%" />
 
-I use Google services and apps daily. I even have my own podcast about these services called the Pixel Power Podcast. You can learn about this podcast [here](https://www.pixelpowerpodcast.com). There are times when a blog post about Google services and applications are necessary. This page collects those posts.
+I use Google services and apps daily. There are times when a blog post about Google services and applications are necessary. This page collects those posts.
 
 Below are Google product tips and tricks.
 
