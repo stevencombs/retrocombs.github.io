@@ -43,7 +43,7 @@ The Pebble is first and foremost a watch and really a good one at that. Even wit
 
 ![Pebble celebrates Halloween](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/q83/s960x960/10620492_10152789719678839_828209333834264136_o.jpg)
 
-A design feature of the Pebble is the ability to modify the watchface to fit your mood, style or occasion. I took some time to create an [Ivy Tech Community College watchface theme](/pebble/2014/10/18/my-first-pebble-watchface.html) using an online tool. My design includes basic watchface features such as:
+A design feature of the Pebble is the ability to modify the watchface to fit your mood, style or occasion. I took some time to create a [watchface theme for the paying gig](/pebble/2014/10/18/my-first-pebble-watchface.html) using an online tool. My design includes basic watchface features such as:
 
 * Time
 * Date

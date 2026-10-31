@@ -28,7 +28,7 @@ image:
 kind: first-look
 ---
 
-I am privileged to have the opportunity to teach a course at our local Purdue Polytechnic Columbus campus. The course is _TECH 120: Design Thinking in Technology_. The focus of the course is to create solutions to modern problems, using software and hardware, while implementing the basics of design thinking.
+I am privileged to have the opportunity to teach a course at a local university. The course is _TECH 120: Design Thinking in Technology_. The focus of the course is to create solutions to modern problems, using software and hardware, while implementing the basics of design thinking.
 
 During an email exchange with the director of the program (my boss) during fall 2019, we discussed the need to integrate physical computing concepts into the course. I was intrigued. Physical computing basics will significantly enhance student prototypes. After much research, I integrated the inexpensive kit below into the curriculum:
 
