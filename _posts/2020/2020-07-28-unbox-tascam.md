@@ -20,9 +20,18 @@ image:
   height: 2268
   alt: 'Tilt foot storage'
 kind: review
+rating: 3
 ---
 
 I purchased another tool to add to my podcast and YouTube tool chest, the [TASCAM DR-40X audio recorder (#ad)](https://amzn.to/3jIDVE9). In the short video below, I open the box, share some accessories, and attempt to turn the unit on, and record for the first time. Along the way, there were a few hiccups; however, after a bit of trial and error (and some instruction manual time), I was able to record samples that I include in the video.
+
+{% include review-box.html
+   score="3"
+   price="$180"
+   where="(as of Jul 2020)"
+   summary="The built-in mics are good enough that I can barely tell them from my MXL mic, and with phantom power it sounds even better. Impressive for $180, if not Zoom H6 sturdy."
+   product="TASCAM DR-40X"
+   channel="tech" %}
 
 ## YouTube Video: _OPEN THE BOX: TASCAM DR-40X four track digital audio recorder (and an attempt at a first use)_
 
@@ -40,6 +49,8 @@ Below are the links (#ad) mentioned in the video:
 2. [retroCombs videos](https://www.youtube.com/playlist?list=PLRVBh2hjFTolfr0_s80Z_Z5bawxWkfRRW)
 
 ## Final Thoughts
+
+> **Update (Oct 2026):** Long term, my DR-40X didn't last.
 
 As I mention in the video, the TASCAM is not as well built as a [Zoom H6  (#ad)](https://amzn.to/30ULAqp); however, the TASCAM is half the price and as far as I can tell, the quality of the audio is equivalent for my use. And that's what is most important. This doesn't mean I might not go back and purchase a Zoom later, but for now, the TASCAM seems perfect.
 
