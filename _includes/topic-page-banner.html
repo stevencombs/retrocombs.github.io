@@ -1,0 +1,30 @@
+{% comment %}
+  Banner for a topic page. Matches this page to a topics.yml item by URL
+  (with or without .html) and, when that item has a banner slug, prints the
+  same wide/phone art used on /categories. Pages with no banner render nothing
+  so their category icon stays in place.
+{% endcomment %}
+{%- assign page_norm = page.url | replace: "index.html", "" | replace: ".html", "" | append: "#" | replace: "/#", "#" | remove: "#" -%}
+{%- assign matched_topic = nil -%}
+{%- for group in site.data.topics.groups -%}
+  {%- for topic in group.items -%}
+    {%- if topic.banner -%}
+      {%- assign topic_norm = topic.url | replace: "index.html", "" | replace: ".html", "" | append: "#" | replace: "/#", "#" | remove: "#" -%}
+      {%- assign topic_first = topic_norm | slice: 0, 1 -%}
+      {%- if topic_first != "/" -%}
+        {%- assign topic_norm = topic_norm | prepend: "/" -%}
+      {%- endif -%}
+      {%- if topic_norm == page_norm -%}
+        {%- assign matched_topic = topic -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- if matched_topic -%}
+{%- assign banner_phone = "/images/banners/retroCombs_topic-banner_" | append: matched_topic.banner | append: "_final_phone.png?v=" | append: site.github.build_revision -%}
+{%- assign banner_wide = "/images/banners/retroCombs_topic-banner_" | append: matched_topic.banner | append: "_final_wide.png?v=" | append: site.github.build_revision -%}
+<picture class="topic-page-banner">
+  <source media="(min-width: 761px)" srcset="{{ banner_wide | relative_url }}" width="2000" height="400">
+  <img src="{{ banner_phone | relative_url }}" alt="{{ matched_topic.name | escape }} topic banner" width="1200" height="500">
+</picture>
+{%- endif -%}

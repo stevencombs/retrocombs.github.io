@@ -637,6 +637,13 @@ header.site nav .dd > button.on:focus-visible{border-bottom-color:var(--st-yello
 .topic-card.has-banner .topic-card-main{grid-template-columns:minmax(0,1fr)}
 .topic-card.has-banner .topic-card-main > img{display:none}
 .topic-card-lead.has-banner .topic-card-banner{grid-column:1 / -1}
+/* Topic pages. Same art as the category cards, across the content card
+   (the page-body column the post grid already uses), with the card radius. */
+.topic-page-banner{display:block;width:100%;margin:0 0 18px;border-radius:12px;overflow:hidden;background:var(--rc-charcoal);line-height:0}
+.topic-page-banner img{display:block;width:100%;height:auto;max-width:none;margin:0;border-radius:0;aspect-ratio:1200/500}
+@media (min-width:761px){.topic-page-banner img{aspect-ratio:2000/400}}
+.page-body:has(> .topic-page-banner) img.category{display:none}
+.page-body:has(> .topic-page-banner) .prose > p:has(> img.category:only-child){display:none}
 .topic-card-name{font-weight:800;font-size:17px;line-height:1.25;color:var(--rc-ink)}
 .topic-card-name b{font-family:var(--font-retro);font-weight:400;font-size:26px;color:var(--rc-red);margin-left:6px;letter-spacing:0}
 .topic-card-blurb{display:block;font-size:13.5px;line-height:1.4;color:var(--rc-slate)}
