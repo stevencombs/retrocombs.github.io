@@ -642,6 +642,8 @@ header.site nav .dd > button.on:focus-visible{border-bottom-color:var(--st-yello
 .topic-page-banner{display:block;width:100%;margin:0 0 18px;border-radius:12px;overflow:hidden;background:var(--rc-charcoal);line-height:0}
 .topic-page-banner img{display:block;width:100%;height:auto;max-width:none;margin:0;border-radius:0;aspect-ratio:1200/500}
 @media (min-width:761px){.topic-page-banner img{aspect-ratio:2000/400}}
+/* About places the same banner inside the prose measure. Span the page column, like the post cards. */
+.page-body .prose:not(.prose-wide) > .topic-page-banner{width:100cqi;max-width:none}
 .page-body:has(> .topic-page-banner) img.category{display:none}
 .page-body:has(> .topic-page-banner) .prose > p:has(> img.category:only-child){display:none}
 .topic-card-name{font-weight:800;font-size:17px;line-height:1.25;color:var(--rc-ink)}
