@@ -12,10 +12,17 @@ image:
   width: 1120
   height: 1120
   alt: 'Box'
-kind: companion
+kind: review
+rating: 4
 ---
 
 During a 2022-08-07 live stream, I opened the first boxed software released for the MEGA65, PolyPlay's [Hibernated 1 - Director's Cut](https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1) by Stefan Vogt. To see what's included in the box, watch the companion video below. After the livestream, it became apparent I should create a companion blog post that provides background and a follow-up livestream to provide an example of game play.
+
+{% include review-box.html
+   score="4"
+   summary="A modern text adventure on my MEGA65. Save and restore hung at first, but a developer fixed it within a day. I had a blast playing a text adventure 30+ years later."
+   product="Hibernated 1: The Director's Cut (MEGA65)"
+   channel="retrocombs" %}
 
 ![Box](https://www.polyplay.xyz/media/image/product/1668/lg/hibernated-1-directors-cut-mega65.jpg)
 
@@ -166,6 +173,6 @@ There's more boxed software on the way. I reached out to PolyPlay and asked abou
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
-Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
+Let me know in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!
