@@ -23,7 +23,7 @@ On [@retroCombs-tech](https://www.youtube.com/@retroCombs-tech), launched in 202
 
 Before YouTube, there was writing. With Jay H. Zirbel, Steven co-authored 11 AutoCAD and 3D Studio [textbooks and workbooks](https://www.amazon.com/author/stevencombs) (more than 19 counting international editions and variations) for publishers including Que, Autodesk Press, and Prentice Hall. He has blogged since 2011, and his chapter-by-chapter [MEGA65 User's Guide series](/mega65-users-guide) pairs each written chapter with a companion video.
 
-He also co-hosted Brick in my Pocket (BimPCast), a podcast for adult LEGO fans, with The Lovely Accountant. He is now writing a novel: an '80s action story built on retro computing and alternative history. He'll be the first to admit he is his own worst editor.
+He also co-hosted Brick in my Pocket (BimPCast), a podcast for adult LEGO fans, with The Lovely Accountant, and later the Pixel Power Podcast on Google Pixel and Chromebooks. He is now writing a novel: an '80s action story built on retro computing and alternative history. He'll be the first to admit he is his own worst editor.
 
 All of it grows out of a long career in higher education. Steven spent many years teaching in the classroom and helping other faculty teach, and his doctoral research focused on faculty development and online curriculum design. Curriculum development is the part of education he loves most: breaking a big topic into clear, hands-on steps that build on each other. That's the same approach behind every video, guide, and post here. It just has more blinking cursors.
 
