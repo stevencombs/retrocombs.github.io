@@ -3,7 +3,18 @@
   (with or without .html) and, when that item has a banner slug, prints the
   same wide/phone art used on /categories. Pages with no banner render nothing
   so their category icon stays in place.
+
+  Pass banner (a slug such as personal) and alt to print that banner instead
+  of matching the page URL. Used by pages that are not topic pages.
 {% endcomment %}
+{%- if include.banner and include.banner != "" -%}
+{%- assign banner_phone = "/images/banners/retroCombs_topic-banner_" | append: include.banner | append: "_final_phone.png?v=" | append: site.github.build_revision -%}
+{%- assign banner_wide = "/images/banners/retroCombs_topic-banner_" | append: include.banner | append: "_final_wide.png?v=" | append: site.github.build_revision -%}
+<picture class="topic-page-banner">
+  <source media="(min-width: 761px)" srcset="{{ banner_wide | relative_url }}" width="2000" height="400">
+  <img src="{{ banner_phone | relative_url }}" alt="{{ include.alt | escape }}" width="1200" height="500">
+</picture>
+{%- else -%}
 {%- assign page_norm = page.url | replace: "index.html", "" | replace: ".html", "" | append: "#" | replace: "/#", "#" | remove: "#" -%}
 {%- assign matched_topic = nil -%}
 {%- for group in site.data.topics.groups -%}
@@ -27,4 +38,5 @@
   <source media="(min-width: 761px)" srcset="{{ banner_wide | relative_url }}" width="2000" height="400">
   <img src="{{ banner_phone | relative_url }}" alt="{{ matched_topic.name | escape }} topic banner" width="1200" height="500">
 </picture>
+{%- endif -%}
 {%- endif -%}
