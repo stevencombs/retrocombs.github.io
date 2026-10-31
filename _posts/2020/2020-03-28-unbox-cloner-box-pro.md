@@ -26,6 +26,12 @@ kind: first-look
 
 Time to open the box on a [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd); a device that promises to be the one device to capture them all (video that is). This post is not a full review, just a few thoughts and a short eight-minute YouTube video to show what's inside the box and talk about how I plan to use the device.
 
+{% include review-box.html
+   type="first-look"
+   summary="Not a review yet. I open the box, look over the design and cables, and list my plans: Chrome OS tutorials, TV menus and retro computer screens."
+   full_review="/cloner-alliance-box-pro-first-use"
+   channel="tech" %}
+
 ## YouTube video, _OPEN THE BOX: Cloner Alliance Box Pro_
 
 {% include youtube.html id="hUhrYNQCODY" title="YouTube video, _OPEN THE BOX: Cloner Alliance Box Pro" cta="false" %}

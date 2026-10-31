@@ -30,6 +30,13 @@ kind: how-to
 
 This blog post is a companion page to two YouTube videos and provides all the links and additional information necessary for you to install [Super RetroPie](https://mega.nz/folder/Ai5inYJa#mR2BXoPX9jnVCn42jqRjIQ) on a microSD card that will power a [RetroFlag GPi Case](https://amzn.to/2WAKn5q) for on the go retro gaming.
 
+{% include review-box.html
+   type="bench"
+   status="Working"
+   summary="I love this case! I put it together, flash Super RetroPie and add a Commodore emulator. Watch the odd power cable; it runs on batteries or the cord."
+   parts="Downloads and parts are linked in the post"
+   channel="retrocombs" %}
+
 My goal for this project was to focus on retro-gaming. When I say retro-gaming, I'm talking about 8-bit gaming prior to Nintendo's rise in popularity. I want to emulate classic systems such as:
 
 * Commodore VIC-20

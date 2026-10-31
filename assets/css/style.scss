@@ -760,7 +760,7 @@ article.post-card .post-card-body{padding-bottom:8px}
 .rc-review__price .amt{font-family:var(--font-mono,"JetBrains Mono",monospace);font-weight:600}
 .rc-review__summary{margin:0;font-size:15.5px;line-height:1.6;font-family:var(--font-sans,"Inter",system-ui,sans-serif)}
 .rc-review .rc-review__label{margin:0 0 5px;font-family:var(--font-accent,"Press Start 2P",monospace);font-size:11px;line-height:1.4;letter-spacing:.05em;color:#333333;white-space:nowrap}
-.rc-review .rc-review__rewind{display:inline-block;width:auto;height:.9em;margin:0 .45em 0 0;vertical-align:-.08em;border-radius:0}
+.rc-review .rc-review__rewind,.rc-review .rc-review__mark{display:inline-block;width:auto;height:.9em;margin:0 .45em 0 0;vertical-align:-.08em;border-radius:0}
 @media (min-width:760px){.rc-review .rc-review__label{font-size:12px}}
 .rc-review p{margin-bottom:0}
 @media (max-width:760px){.rc-review{padding:20px 16px 16px}.rc-review__name{font-size:12px}}
@@ -850,6 +850,34 @@ article.post-card .post-card-body{padding-bottom:8px}
 }
 /* Never on unscored variants (FIRST LOOK, BENCH, COMPARED, TAKE) */
 .rc-review.rc-review--unscored .rc-review__rater{display:none!important}
+
+/* Unscored types share the REWIND frame: cream card, stripe, badge, kicker, summary.
+   The score ladder is replaced by a chip, a facts row, or comparison items. */
+.rc-review .rc-review__chiprow{margin:4px 0 14px}
+.rc-review .rc-review__chip{display:inline-block;padding:8px 12px 8px 10px;border-radius:8px;background:var(--rv-ink);color:var(--rv-cream);box-shadow:inset 4px 0 0 var(--rv-red);font-family:var(--font-accent,"Press Start 2P",monospace);font-size:12px;line-height:1.5;letter-spacing:.04em}
+.rc-review .rc-review__facts{display:flex;flex-wrap:wrap;gap:12px 22px;margin:4px 0 16px;padding:0}
+.rc-review .rc-review__fact{margin:0;min-width:0;max-width:100%}
+.rc-review .rc-review__fact dt{margin:0 0 3px;font-family:var(--font-accent,"Press Start 2P",monospace);font-size:10px;line-height:1.5;letter-spacing:.04em;color:var(--rv-slate);text-transform:uppercase}
+.rc-review .rc-review__fact dd{margin:0;font-family:var(--font-mono,"JetBrains Mono",monospace);font-size:15px;font-weight:600;line-height:1.45;color:var(--rv-ink);overflow-wrap:anywhere}
+.rc-review .rc-review__picks{list-style:none;margin:4px 0 16px;padding:0;display:flex;flex-direction:column;gap:8px}
+.prose .rc-review .rc-review__picks,.prose .rc-review .rc-review__pick{margin-bottom:0}
+.rc-review .rc-review__pick{margin:0;padding:10px 12px;background:#fff;border:1px solid var(--rv-beige);border-radius:8px}
+.rc-review .rc-review__pick--mine{box-shadow:inset 4px 0 0 var(--rv-red)}
+.rc-review .rc-review__pick-name{display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;margin:0 0 4px;font-size:15.5px;line-height:1.4;color:var(--rv-ink)}
+.rc-review .rc-review__pick-name b{font-weight:700}
+.rc-review .rc-review__pick-text{margin:0;font-size:15px;line-height:1.55}
+.rc-review .rc-review__badge{display:inline-block;padding:5px 8px 5px 10px;border-radius:6px;background:var(--rv-ink);color:var(--rv-cream);box-shadow:inset 3px 0 0 var(--rv-red);font-family:var(--font-accent,"Press Start 2P",monospace);font-size:9px;line-height:1.4;letter-spacing:.04em;white-space:nowrap}
+.rc-review .rc-review__role{font-family:var(--font-sans,"Inter",system-ui,sans-serif);font-size:14px;font-weight:600;font-style:normal;letter-spacing:0;color:var(--rv-slate)}
+.rc-review .rc-review__more{margin:12px 0 0}
+.rc-review .rc-review__more a{font-weight:700}
+.rc-review .rc-review__more a:focus-visible{outline:2px solid var(--rv-red);outline-offset:3px;border-radius:2px}
+.rc-review .rc-review__parts{margin:12px 0 0;padding-top:10px;border-top:2px solid var(--rv-beige);font-size:14.5px;line-height:1.5;color:var(--rv-slate)}
+@media (max-width:760px){
+  .rc-review--unscored .rc-review__label{white-space:normal}
+  .rc-review .rc-review__facts{flex-direction:column;align-items:stretch;gap:10px}
+  .rc-review .rc-review__chip{font-size:11px}
+  .rc-review .rc-review__pick{padding:10px}
+}
 
 /* Explore sits in the bar without wrapping MEGA65 Guide or the tagline. */
 header.site .brand{flex:0 0 auto}

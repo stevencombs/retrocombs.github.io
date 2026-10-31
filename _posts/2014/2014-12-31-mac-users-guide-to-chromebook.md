@@ -26,6 +26,14 @@ During Black Friday 2014, Amazon sold the [Acer C720 Chromebook](http://www.amaz
 
 This blog post will not be a review of this particular Chromebook. That may come later. What this post provides is a look at Chrome OS from a Mac user's perspective. It will contain my observations as well as some tips and tricks to make the transition a bit easier for Mac users considering a purchase.
 
+{% include review-box.html
+   type="take"
+   chip="RECOMMENDED"
+   price="$150"
+   where="(as of Dec 2014)"
+   summary="A Mac user's tour of Chrome OS. My $150 Chromebook is the laptop I grab to type and browse, and I'd recommend one to anyone who mostly lives on the web."
+   channel="tech" %}
+
 **UPDATE:** Thanks to the folks in the [Google+ Chromebook Community!](https://plus.google.com/communities/105678482604512626671). Several of them helped me work out some technical issues and shared some new tips. Thanks to [their input](https://plus.google.com/118020098182159765872/posts/3Vs8v4q4cgg), I’ve added several new sections and additional information.
 
 In my post, I will cover the following high-level features:

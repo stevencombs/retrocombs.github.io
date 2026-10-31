@@ -26,6 +26,11 @@ Instead of sitting at my desk by myself trying to set up the ATEM Mini, I fired 
 
 Watch the livestream below and then return to the blog post for additional thoughts on the device and the livestream.
 
+{% include review-box.html
+   type="first-look"
+   summary="I set it up live with viewers coaching me. Without software, the buttons are simple to figure out. In hindsight, I should have spent $100 more for the Pro."
+   channel="tech" %}
+
 ## YouTube Video: _‌Unboxing and Installing the Blackmagic Design ATEM Mini_
 
 In the video below, I unbox and install the Blackmagic Design ATEM Mini

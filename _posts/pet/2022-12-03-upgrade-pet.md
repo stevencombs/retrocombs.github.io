@@ -17,6 +17,14 @@ kind: bench
 
 Followers know during Vintage Computer Festival Midwest 2022, I got a new to me Commodore PET. I will not rehash that memory, but if you want to relive it, check out my [My Vintage Computer Festival Midwest 2022 Experience and Commodore PET Purchase](https://retrocombs.com/vcfmw-2022) post. In this post, I want to explore the question, should I (or you) upgrade a stock Commodore PET? Purists may answer, "No way, retroCombs" while modern enthusiasts might disagree. I intend to find out if the cost and additions are a good ROI.
 
+{% include review-box.html
+   type="bench"
+   cost="$260 total: $100 + $85 + $20 + $55 (Dec 2022)"
+   status="Working"
+   summary="Four upgrades turn my PET from a show piece into a computer I use: SD card loading, 32 KB RAM and ROM 4, joysticks, sound and Wi-Fi. They all work together."
+   parts="Parts are linked in the post (TFW8B, BIT ZEAL)"
+   channel="retrocombs" %}
+
 ![Commodore PET Motherboard](/images/pet/pet-motherboard.jpg)
 
 ----

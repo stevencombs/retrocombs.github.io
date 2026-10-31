@@ -29,6 +29,13 @@ kind: first-look
 
 I've created a new OPEN THE BOX and FIRST USE video and it's a twofer! Last week I received two packages from Wyze Labs (makers of the insanely cool an inexpensive [Wyze Cams (#ad)](https://amzn.to/3em85KE) and [Plugs (#ad)](https://amzn.to/2wCdbS5)): A Wyze Scale and a Wyze Band. I left them in their packages until Easter weekend 2020. On Easter Day I opened them both under the camera, powered them up, and connected them to the Wyze app on my Pixel 4. How'd it go? Check out the video below to find out.
 
+{% include review-box.html
+   type="first-look"
+   price="$30 each"
+   where="(as of Apr 2020)"
+   summary="After 24 hours, both work as expected. The $30 band is beating my expectations with the battery still at 98%. The scale logs my weight in the app."
+   channel="tech" %}
+
 ## YouTube Video
 
 {% include youtube.html id="ZoBnLnDgv1Q" title="YouTube Video" cta="false" %}

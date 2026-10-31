@@ -27,6 +27,11 @@ After using these two devices extensively, I now have enough experience to share
 
 My focus is on major operating system features and I’ve organized my thoughts into the following categories below. You can use the table of contents below to jump to specific section:
 
+{% include review-box.html
+   type="take"
+   summary="After years on iPhone, I gave Android a real try. The two go toe-to-toe, but Android still lags on battery and stability, so research a device before buying."
+   channel="tech" %}
+
 1. [App availability][6]
 2. [User interface (UI)][7]
 3. [Customization][8]

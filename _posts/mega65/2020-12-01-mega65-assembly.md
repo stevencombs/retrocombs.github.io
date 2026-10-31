@@ -21,6 +21,12 @@ kind: bench
 
 I'm really excited! I mean, 15 year-old boy excited. That's how I felt while opening the box, unpacking, assembling, and turning on the new  developer's kit (DevKit) for the first time. Seriously, I've not been that excited about a package in some time; and this from the guy who has two brand new Mac minis (with M1 processors) set to arrive a few days before Christmas.
 
+{% include review-box.html
+   type="bench"
+   status="Working"
+   summary="I open, put together and power on the MEGA65 DevKit. Even in its acrylic case, it feels like a real Commodore. Note: the RTC clock battery isn't included."
+   channel="retrocombs" %}
+
 > **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
 With all their performance, memory, state-of-the-art ARM processor, and design, they just don't have that nostalgic feel of the  that takes me back to a time when computers were exciting and more than just a tool to be used every day. Don't believe I was excited? Check out my video below and then read on for some additional thoughts on the  DevKit.

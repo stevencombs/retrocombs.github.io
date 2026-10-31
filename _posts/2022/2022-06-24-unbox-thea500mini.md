@@ -17,6 +17,11 @@ kind: first-look
 
 On 2022-06-12, I fired up the ATEM mini Extreme Iso for an unboxing livestream of Retro Games' TheA500 Mini. I was hesitant because my device arrived long after those on the other side of the pond, and more popular YouTubers in the United States received their regular and complimentary shipments. What could I add to the conversation? I asked my viewers, and they were vocal, stream it and we will join. I did, and we had a blast. We even had a few new folks join the chat and one even became a new member. **Welcome, Neil!**
 
+{% include review-box.html
+   type="first-look"
+   summary="I unbox it and play for the first time. There's a lot to like, and I'd get TheMouse even on its own. The big miss: the keyboard doesn't work."
+   channel="retrocombs" %}
+
 ![TheA500 Mini](/images/c64mini-maxi-vic20/thea500mini.jpg)
 
 In this companion blog post, I'll share updates and two videos. The first video is a new edit that cuts about 50% of the livestream and adds extra content. The second link is to the entire livestream that's available, without ads, to my channel members at all levels and for a minimal fee for non-supporters.

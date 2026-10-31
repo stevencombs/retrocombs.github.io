@@ -31,6 +31,11 @@ I've waited for an outdoor web cam from Wyze for some time. I've even used [some
 
 Before I share additional thoughts, please take a few minutes to watch my YouTube video below. It includes an open the box, setup, and smile worthy squirrel moments. And who doesn't like funny squirrel videos?
 
+{% include review-box.html
+   type="first-look"
+   summary="It feels robust and weather resistant, and the magnet mount is strong. I didn't expect to need a base station wired to my router. First video was so-so."
+   channel="tech" %}
+
 ## YouTube Video: _OPEN THE BOX and SETUP: Wyze Cam Outdoor (Squirrel Cam One)_
 
 Watch the video below and then read on for my additional thoughts on this outdoor camera.

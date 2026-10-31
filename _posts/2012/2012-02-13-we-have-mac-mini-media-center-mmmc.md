@@ -20,6 +20,18 @@ I've been asked by a few, "What media center software do you use?" I've been qui
 
 Well today I am happy to go on record and make a decision. Hit the link below to find out which media center software I use on my MmMC. Keep in mind that this is not a formal review of all media center software, but I do hit some highlights from each as I qualify why I feel my selection is the best. Read my selection by hitting the link below:
 
+{% include review-box.html
+   type="compared"
+   summary="I tried Boxee, XBMC and Plex on my Mac mini media center. Plex wins: it streams to my iPad, Kindle Fire and Roku, and its add-ons actually work."
+   pick1_name="Plex"
+   pick1_badge="MY PICK"
+   pick1_text="Streams to my iPad, Kindle Fire and Roku, and its add-ons actually work."
+   pick2_name="XBMC"
+   pick2_text="Gorgeous and tweakable, but cumbersome, and it lacks features I want."
+   pick3_name="Boxee"
+   pick3_text="Buggy, hung my Mac mini, and dropping desktop support after 1.5."
+   channel="tech" %}
+
 First let me start by listing the three media center software that were under consideration and briefly talk about why two of them were dropped out of contention:
 
 ## Boxee

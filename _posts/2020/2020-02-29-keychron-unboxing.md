@@ -36,6 +36,11 @@ This is not a review of the Keychron K2 but an explanation of my purchase and in
 
 {% include member-cta.html channel="retrocombs" %}
 
+{% include review-box.html
+   type="first-look"
+   summary="Not a review yet, but I typed this post on it. The aluminum body has heft, the Gateron blue switches feel great, and it pairs with three Bluetooth devices."
+   channel="tech" %}
+
 Not only do I take the new Keychron K2 out of it's shipping package and box in the video, I also take a look at the design and features; including the very cool 15+ LED backlight effects package that I will likely never use. **Spoiler**, I do. Read on.
 
 ![K2 LEDs](/images/posts/2020-02-29-keychron-unboxing/keycron-k2-leds.jpg)
