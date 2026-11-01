@@ -23,8 +23,8 @@ tags:
 description: 'An archive of my Inspector Gadget spots on the Fox 7 AM Evansville morning show from 2006 and 2007: the original iPhone, the first Apple TV, LEGO Mindstorms NXT, Nike+iPod, Skype phones, and more, with notes on each.'
 image:
   path: /images/posts/2026-11-21-fox7-inspector-gadget-archive.jpg
-  width: 1280
-  height: 720
+  width: 480
+  height: 360
   alt: 'Inspector Gadget spot on the Fox 7 AM Evansville morning show'
 kind: editorial
 ---
