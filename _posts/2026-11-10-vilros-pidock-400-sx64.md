@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Can a Vilros PiDOCK 400 Recreate the Commodore SX-64?'
-date: '2026-10-31'
+date: '2026-11-10'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: vilros-pidock-400-sx64
@@ -21,7 +21,7 @@ tags:
   - review
   - video
 image:
-  path: /images/posts/2026-10-31-vilros-pidock-400-sx64.jpg
+  path: /images/posts/2026-11-10-vilros-pidock-400-sx64.jpg
   width: 1280
   height: 720
   alt: 'Raspberry Pi 400 in a Vilros PiDOCK 400 running Combian 64 in SX-64 mode'
@@ -32,7 +32,7 @@ An SX-64 is missing from my collection. I've always wanted one and haven't been 
 
 This post is the text companion to my video. It covers unboxing, assembly, first boot in SX-64 mode, configuration, copying a game with Midnight Commander, playing Operation Wolf, and my verdict. Let's dig in!
 
-![Raspberry Pi 400 in a Vilros PiDOCK 400 running Combian 64 in SX-64 mode](/images/posts/2026-10-31-vilros-pidock-400-sx64.jpg)
+![Raspberry Pi 400 in a Vilros PiDOCK 400 running Combian 64 in SX-64 mode](/images/posts/2026-11-10-vilros-pidock-400-sx64.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

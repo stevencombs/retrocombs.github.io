@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '8BitDo Retro Mechanical Keyboard C64 Edition: Commodore Looks, Modern Keyboard'
-date: '2026-10-31'
+date: '2026-11-03'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: 8bitdo-retro-mechanical-keyboard-c64
@@ -19,7 +19,7 @@ tags:
   - macos
   - video
 image:
-  path: /images/posts/2026-10-31-8bitdo-retro-mechanical-keyboard-c64.jpg
+  path: /images/posts/2026-11-03-8bitdo-retro-mechanical-keyboard-c64.jpg
   width: 1280
   height: 720
   alt: '8BitDo Retro Mechanical Keyboard C64 Edition with its joystick and two red buttons'
@@ -30,7 +30,7 @@ This is the 8BitDo Retro Mechanical Keyboard C64 Edition, and I love this thing.
 
 This post is the text companion to my short video on retroCombs Tech (@retroCombs-tech). It covers the features, the connection options, how I set it up on my Mac, the joystick, the battery, and the colors. Let's dig in!
 
-![8BitDo Retro Mechanical Keyboard C64 Edition with its joystick and two red buttons](/images/posts/2026-10-31-8bitdo-retro-mechanical-keyboard-c64.jpg)
+![8BitDo Retro Mechanical Keyboard C64 Edition with its joystick and two red buttons](/images/posts/2026-11-03-8bitdo-retro-mechanical-keyboard-c64.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

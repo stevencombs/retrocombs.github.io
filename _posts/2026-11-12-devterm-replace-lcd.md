@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to Replace the Clockwork DevTerm LCD Panel (and My Ribbon Cable Hack)'
-date: '2026-10-31'
+date: '2026-11-12'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: devterm-replace-lcd
@@ -19,7 +19,7 @@ tags:
   - howto
   - video
 image:
-  path: /images/posts/2026-10-31-devterm-replace-lcd.jpg
+  path: /images/posts/2026-11-12-devterm-replace-lcd.jpg
   width: 1280
   height: 720
   alt: 'Clockwork DevTerm A06 opened up with the replacement LCD panel next to it'
@@ -30,7 +30,7 @@ The backlight on my Clockwork DevTerm A06 stopped working because the LCD panel'
 
 This post is the text companion to my video, a 27-minute edit of a much longer livestream. It walks through the teardown, the panel swap, a quick tour of the modules inside, reassembly, and a look at VirtualT, the TRS-80 Model 100 emulator. Let's dig in!
 
-![Clockwork DevTerm A06 opened up with the replacement LCD panel next to it](/images/posts/2026-10-31-devterm-replace-lcd.jpg)
+![Clockwork DevTerm A06 opened up with the replacement LCD panel next to it](/images/posts/2026-11-12-devterm-replace-lcd.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

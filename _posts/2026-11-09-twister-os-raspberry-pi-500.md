@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Installing Twister OS on a Raspberry Pi 500, Using Only the Pi 500'
-date: '2026-10-31'
+date: '2026-11-09'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: twister-os-raspberry-pi-500
@@ -22,7 +22,7 @@ tags:
   - howto
   - video
 image:
-  path: /images/posts/2026-10-31-twister-os-raspberry-pi-500.jpg
+  path: /images/posts/2026-11-09-twister-os-raspberry-pi-500.jpg
   width: 1280
   height: 720
   alt: 'Twister OS desktop running on a Raspberry Pi 500'
@@ -35,7 +35,7 @@ I added a twist of my own. I didn't use my Mac to make the SD card. I did everyt
 
 This post is the text companion to that video on retroCombs Tech (@retroCombs-tech). It goes through the whole process step by step and points out what worked and what didn't. Let's dig in!
 
-![Twister OS desktop running on a Raspberry Pi 500](/images/posts/2026-10-31-twister-os-raspberry-pi-500.jpg)
+![Twister OS desktop running on a Raspberry Pi 500](/images/posts/2026-11-09-twister-os-raspberry-pi-500.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

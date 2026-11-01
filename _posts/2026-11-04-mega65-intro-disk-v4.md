@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The MEGA65 Intro Disk V4: What It Is and How to Run It'
-date: '2026-10-31'
+date: '2026-11-04'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: mega65-intro-disk-v4
@@ -18,7 +18,7 @@ tags:
   - type-in
   - video
 image:
-  path: /images/posts/2026-10-31-mega65-intro-disk-v4.jpg
+  path: /images/posts/2026-11-04-mega65-intro-disk-v4.jpg
   width: 1280
   height: 720
   alt: 'The new MEGA65 Intro Disk V4 menu on screen'
@@ -29,7 +29,7 @@ You've got mail! When I opened it, there was a new MEGA65 Intro Disk. The MEGA65
 
 This post is the text companion to my video. It covers what you need to run the disk on real hardware or in the XEMU emulator, the new menu features, the news section, the MEGAZine, and the type-in games. I don't spoil the demos and games here. I saved those for the livestream. Let's dig in!
 
-![The new MEGA65 Intro Disk V4 menu on screen](/images/posts/2026-10-31-mega65-intro-disk-v4.jpg)
+![The new MEGA65 Intro Disk V4 menu on screen](/images/posts/2026-11-04-mega65-intro-disk-v4.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

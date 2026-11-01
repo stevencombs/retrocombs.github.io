@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Can You Stream From the Clockwork uConsole? My OBS Studio Tests'
-date: '2026-10-31'
+date: '2026-11-11'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: uconsole-obs-streaming
@@ -18,7 +18,7 @@ tags:
   - linux
   - video
 image:
-  path: /images/posts/2026-10-31-uconsole-obs-streaming.jpg
+  path: /images/posts/2026-11-11-uconsole-obs-streaming.jpg
   width: 1280
   height: 720
   alt: 'Clockwork uConsole running OBS Studio with a USB webcam plugged in'
@@ -29,7 +29,7 @@ After my last Clockwork uConsole video, quite a few of you asked the same questi
 
 This post is the text companion to that video. It covers the fresh install, how I got OBS running, each stream test and what changed between them, and my verdict. Let's dig in!
 
-![Clockwork uConsole running OBS Studio with a USB webcam plugged in](/images/posts/2026-10-31-uconsole-obs-streaming.jpg)
+![Clockwork uConsole running OBS Studio with a USB webcam plugged in](/images/posts/2026-11-11-uconsole-obs-streaming.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roguecraft DX on the MEGA65: From 2.7KB to 240 Colors'
-date: '2026-10-31'
+date: '2026-11-08'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: roguecraft-dx-mega65
@@ -20,7 +20,7 @@ tags:
   - review
   - video
 image:
-  path: /images/posts/2026-10-31-roguecraft-dx-mega65.jpg
+  path: /images/posts/2026-11-08-roguecraft-dx-mega65.jpg
   width: 1280
   height: 720
   alt: 'Roguecraft DX running on the MEGA65 in 240 colors'
@@ -33,7 +33,7 @@ Thanks to Thalamus and RetroCogs for bringing this game to my attention and send
 
 This post is the text companion to my video. It covers the game's lineage, how it plays, why the MEGA65 and the Commodore 64 Ultimate aren't competing, how to play it today in the XEMU emulator, how to load it on real hardware, and my verdict. Let's dig in!
 
-![Roguecraft DX running on the MEGA65 in 240 colors](/images/posts/2026-10-31-roguecraft-dx-mega65.jpg)
+![Roguecraft DX running on the MEGA65 in 240 colors](/images/posts/2026-11-08-roguecraft-dx-mega65.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

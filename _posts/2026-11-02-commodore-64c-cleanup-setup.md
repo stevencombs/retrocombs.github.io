@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cleaning Up a Dirty Commodore 64C and Building My Four-Drive C64 Setup'
-date: '2026-10-31'
+date: '2026-11-02'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: commodore-64c-cleanup-setup
@@ -20,7 +20,7 @@ tags:
   - 3dprinting
   - video
 image:
-  path: /images/posts/2026-10-31-commodore-64c-cleanup-setup.jpg
+  path: /images/posts/2026-11-02-commodore-64c-cleanup-setup.jpg
   width: 1280
   height: 720
   alt: 'My cleaned-up Commodore 64C with a Bitbinders dual 1581 drive and an Eyoyo monitor'
@@ -31,7 +31,7 @@ Mr. Landfield, one of my supporters, handed me a dirty Commodore 64C at Vintage 
 
 This post is the text companion to that video. It follows the job in the order I did it, lists the tools and gear I used, and shows how I ended up with four drives on a single 64C. Let's dig in!
 
-![My cleaned-up Commodore 64C with a Bitbinders dual 1581 drive and an Eyoyo monitor](/images/posts/2026-10-31-commodore-64c-cleanup-setup.jpg)
+![My cleaned-up Commodore 64C with a Bitbinders dual 1581 drive and an Eyoyo monitor](/images/posts/2026-11-02-commodore-64c-cleanup-setup.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

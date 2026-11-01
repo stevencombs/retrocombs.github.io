@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '8BitDo Retro 18 Mechanical Numpad: The C64 Keyboard Gets a Sibling (and a Calculator)'
-date: '2026-10-31'
+date: '2026-11-05'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: 8bitdo-retro-mechanical-numpad-c64
@@ -20,7 +20,7 @@ tags:
   - macos
   - video
 image:
-  path: /images/posts/2026-10-31-8bitdo-retro-mechanical-numpad-c64.jpg
+  path: /images/posts/2026-11-05-8bitdo-retro-mechanical-numpad-c64.jpg
   width: 1280
   height: 720
   alt: '8BitDo Retro 18 Mechanical Numpad in C64 colors next to the matching keyboard'
@@ -31,7 +31,7 @@ You may remember how much I enjoyed the [8BitDo Retro Mechanical Keyboard C64 Ed
 
 This post is the text companion to my video on retroCombs Tech (@retroCombs-tech). It covers what's in the box, the build, the connection options, the calculator, every control on top, and a few tips for Mac and VICE users. Let's dig in!
 
-![8BitDo Retro 18 Mechanical Numpad in C64 colors next to the matching keyboard](/images/posts/2026-10-31-8bitdo-retro-mechanical-numpad-c64.jpg)
+![8BitDo Retro 18 Mechanical Numpad in C64 colors next to the matching keyboard](/images/posts/2026-11-05-8bitdo-retro-mechanical-numpad-c64.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

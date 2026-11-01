@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raspberry Pi 5 and an M.2 SSD Hat: From the Box to Booting From an SSD'
-date: '2026-10-31'
+date: '2026-11-07'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: raspberry-pi-5-m2-ssd-hat
@@ -19,7 +19,7 @@ tags:
   - howto
   - video
 image:
-  path: /images/posts/2026-10-31-raspberry-pi-5-m2-ssd-hat.jpg
+  path: /images/posts/2026-11-07-raspberry-pi-5-m2-ssd-hat.jpg
   width: 1280
   height: 720
   alt: 'Raspberry Pi 5 with the active cooler and a Waveshare M.2 SSD hat installed'
@@ -30,7 +30,7 @@ I have a Pi problem, and I mean that in a good way. I have Raspberry Pis all ove
 
 This took two livestreams and more than four hours, troubleshooting included. The video cuts all that down to about 18 minutes of setup. This post is the text companion to that video. It lists the parts, walks through the steps in order, and points out the spots that tripped me up. Let's dig in!
 
-![Raspberry Pi 5 with the active cooler and a Waveshare M.2 SSD hat installed](/images/posts/2026-10-31-raspberry-pi-5-m2-ssd-hat.jpg)
+![Raspberry Pi 5 with the active cooler and a Waveshare M.2 SSD hat installed](/images/posts/2026-11-07-raspberry-pi-5-m2-ssd-hat.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 

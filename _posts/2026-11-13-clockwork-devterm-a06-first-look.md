@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clockwork Pi DevTerm A06: Unboxing, Assembly, and First Look at a TRS-80 Model 100 Inspired Cyberdeck'
-date: '2026-10-31'
+date: '2026-11-13'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
 permalink: clockwork-devterm-a06-first-look
@@ -19,7 +19,7 @@ tags:
   - first-look
   - video
 image:
-  path: /images/posts/2026-10-31-clockwork-devterm-a06-first-look.jpg
+  path: /images/posts/2026-11-13-clockwork-devterm-a06-first-look.jpg
   width: 1280
   height: 720
   alt: 'Clockwork Pi DevTerm A06 parts on their plastic sprues next to the assembled DevTerm'
@@ -32,7 +32,7 @@ Clockwork Pi provided this unit to the channel for free. Thank you! I'm under no
 
 This post is the text companion to my video. It covers the specs, what's in the box, how the model-kit assembly goes, the LCD problem I hit on first boot and how I hacked around it, and my first impressions. This is a first look, not a review. Let's dig in!
 
-![Clockwork Pi DevTerm A06 parts on their plastic sprues next to the assembled DevTerm](/images/posts/2026-10-31-clockwork-devterm-a06-first-look.jpg)
+![Clockwork Pi DevTerm A06 parts on their plastic sprues next to the assembled DevTerm](/images/posts/2026-11-13-clockwork-devterm-a06-first-look.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 
