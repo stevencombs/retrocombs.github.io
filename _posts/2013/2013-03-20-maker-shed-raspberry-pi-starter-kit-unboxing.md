@@ -13,7 +13,7 @@ image:
   width: 720
   height: 720
   alt: 'OPENING THE BOX: Maker Shed Raspberry Pi Starter Kit'
-kind: review
+kind: first-look
 ---
 
 On the 14th of March 2013, which just so happened to be [Pi Day][2], I decided to take the plunge, unleash my Dave Ramsey enforced "blow money budget" and purchase a [Raspberry Pi microcontroller][3]. I didn't settle for just just the $35 model B. Oh no, that would be too easy, too inexpensive and too boring. After a bit of research, I decided to settle on the [Maker Shed Raspberry Pi Starter Kit][4].
@@ -35,6 +35,13 @@ I'm fascinated that this little "computer on a board" is designed to bring back 
 The wait for this box was two weeks. Add three more days because I simply didn't have the time to open it (work has a way of killing your free time). Like a kid in a candy store this morning, I broke out the utility knife and got started. Along the way, I decided to take several pictures of the unboxing.
 
 No this isn't the same level of excitement you see in unboxing blog posts of new Apple products, but you know, in many ways, it was more fulfilling. When you open an Apple product, you know you will begin using it immediately. Unboxing the Raspberry Pi Starter Kit returned me to a day I haven't had in some time. Now that I have this thing. What can I make it do? The ideas are flowing and I can't wait to get started.
+
+{% include review-box.html
+   type="first-look"
+   price="$130"
+   where="(as of Mar 2013)"
+   summary="Everything to start with the Pi arrives in one box. At $130 it's pricey, and you could build your own for less, but for a beginner it's worth it."
+   channel="retrocombs" %}
 
 # Unboxing images and commentary
 Commentary is beneath each image.

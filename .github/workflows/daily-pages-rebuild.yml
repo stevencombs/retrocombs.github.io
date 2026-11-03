@@ -1,0 +1,37 @@
+# Publishes that day's post. Pages for this repo is a legacy branch
+# build from master (build_type: legacy, source master:/), and future
+# is unset, so a post dated after the last build stays hidden until
+# something builds the site again. A push is the usual trigger. This
+# workflow asks GitHub to build master once a day instead.
+#
+# POST /repos/{owner}/{repo}/pages/builds is the rebuild endpoint for a
+# legacy branch site. It publishes the latest commit on the default
+# branch. It is not the Actions deployment API, which applies only when
+# Pages build_type is workflow.
+#
+# Schedules run from the default branch only, after this file is on
+# master. The job guard matches that: a dispatch from another branch
+# does not rebuild production.
+name: Daily Pages rebuild
+
+on:
+  schedule:
+    # 10:00 UTC. GitHub may start the run a few minutes later.
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  pages: write
+
+jobs:
+  rebuild:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request a Pages build
+        run: |
+          curl --fail --silent --show-error --request POST \
+            --header "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            --header "Accept: application/vnd.github+json" \
+            --header "X-GitHub-Api-Version: 2026-03-10" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds"

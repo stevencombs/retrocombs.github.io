@@ -17,7 +17,8 @@ image:
   width: 1280
   height: 720
   alt: '10 reasons THEVIC20 and THEC64 are great retro-computing gifts'
-kind: editorial
+kind: review
+rating: 5
 ---
 
 Have a retro-computing fan in your life and don’t know what to get them? Or maybe you are looking for a little something for yourself, or maybe, just maybe, you need a last-minute suggestion for Santa? Here are 10 reasons [RetroGames](https://retrogames.biz/) [THEVIC20](https://amzn.to/3mqqfOg) (and [THEC64](https://amzn.to/37qtT6H)) is the perfect holiday gift for all retro-computing fans.
@@ -25,6 +26,12 @@ Have a retro-computing fan in your life and don’t know what to get them? Or ma
 My list also applies to THEC64 and [THEC64 mini](https://amzn.to/2IX3Omj). I like modern devices that bring back that retro feeling. Check out [my channel](https://www.youtube.com/stevencombs) for more.
 
 THEVIC20 is a modern recreation of my first computer, the Commodore VIC-20. I absolutely had purchase one but they are like a unicorn; hard to find. Imagine my surprise when THEVIC20 popped up on the Amazon store in the United States. I immediately purchased and then spent the next four weeks wondering if it would actually arrive at my door. It did! Watch the video below and then continue to read this post to learn even more about THEVIC20.
+
+{% include review-box.html
+   score="5"
+   summary="THEVIC20 feels like the 1980s, with a real Commodore keyboard and both VIC-20 and C64 built in. My one nit: the 64-game carousel gets thin fast."
+   product="THEVIC20"
+   channel="retrocombs" %}
 
 ## YouTube Video: _10 reasons THEVIC20 and THEC64 are great retro-computing gifts_
 
@@ -87,6 +94,8 @@ In addition to my 10 reason above, below are some final thoughts.
 That's it for now. Check back for additions (which will have time stamps) as I continue to play with these devices.
 
 🎅 Wishing everyone a wonderful Christmas and Happy Holidays.
+
+Let me know in the comments below.
 
 🕹️ retroCombs, OUT!
 

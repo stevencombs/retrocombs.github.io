@@ -13,11 +13,22 @@ image:
   height: 720
   alt: 'Amazon Kindle Scribe Guide | A Perfect Retro Computing Companion'
 kind: review
+rating: 4
 ---
 
-I've used a Kindle since the release of the first version in 2007. I enjoyed that early device and followed it with several other models over the years. My use waned because of the small screen of current models. It might be my older eyes, but I appreciate the larger iPad screens; however, iPad screens are difficult on the eyes and disturb the lovely account if I want to read in bed.
+I've used a Kindle since the release of the first version in 2007. I enjoyed that early device and followed it with several other models over the years. My use waned because of the small screen of current models. It might be my older eyes, but I appreciate the larger iPad screens; however, iPad screens are difficult on the eyes and disturb The Lovely Accountant if I want to read in bed.
 
 When Amazon announced the $350 Kindle Scribe, I was excited. Not only would this new Kindle have a much larger screen for reading and reviewing PDF files, but now, with a pen, I can annotate e-Books and PDF files. I can even journal and create new content. I hypothesized this device would be a boon, not only for standard reading, but for my retro computing hobby. Let's if my hypothesis is correct.
+
+> **Update:** Since I wrote this post, new firmware fixed the occasional lockups I mention in the conclusion.
+
+{% include review-box.html
+   score="4"
+   price="$350"
+   where="(as of Jan 2023)"
+   summary="A crisp 300 PPI screen for my old magazine PDFs and BASIC65 guide, with a pen to mark them up. It locks up now and then and $350 is steep, but I still love it."
+   product="Amazon Kindle Scribe"
+   channel="tech" %}
 
 [SEND THIS ARTICLE TO YOUR KINDLE](https://www.amazon.com/sendtokindle/preview?article=1672359267761)
 
@@ -356,6 +367,6 @@ I'll keep a lookout for new additions. [Follow me on Twitter](https://www.twitte
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
 
-Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
+Let me know in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!

@@ -20,9 +20,16 @@ image:
   height: 720
   alt: 'Watch the Video: THEVIC20 and THEC64 VIC-20 Games (Part 1)'
 kind: review
+rating: 5
 ---
 
 THEVIC20(C64) it is a divisive Commodore emulator. There are those, like me, who love that the system is keeping the retro-computing alive, while other lament that the system is nothing more than a mere emulated shadow of the original. Which ever side of the campfire you sit, my goal for this short series of videos was to shine a light on the games included with these systems. As I stated on several social media posts, the games are a collection of winners, stinkers, surprises and questions.
+
+{% include review-box.html
+   score="5"
+   summary="The VIC-20 was my first computer, and THEVIC20 brought it back. Its real keyboard makes these built-in games playable, and my holidays with it made great retro memories."
+   product="VIC-20 games on THEVIC20"
+   channel="retrocombs" %}
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m back after a wonderful holiday. I had some time today to work through the first 13 VIC-20 games on my new <a href="https://twitter.com/THEC64_RGL?ref_src=twsrc%5Etfw">@THEC64_RGL</a> THEVIC20. A few winners, stinkers, surprises, and questions.<a href="https://t.co/3C9EEyCx9X">https://t.co/3C9EEyCx9X</a><a href="https://twitter.com/hashtag/C64Retweets?src=hash&ref_src=twsrc%5Etfw">#C64Retweets</a> <a href="https://twitter.com/hashtag/thec64?src=hash&ref_src=twsrc%5Etfw">#thec64</a> <a href="https://twitter.com/hashtag/commodore?src=hash&ref_src=twsrc%5Etfw">#commodore</a> <a href="https://twitter.com/hashtag/RETROGAMING?src=hash&ref_src=twsrc%5Etfw">#RETROGAMING</a></p>— Steven Combs (retroCombs) ❄️🌨️🕹️ (@StevenCombs) <a href="https://twitter.com/StevenCombs/status/1345952158211047424?ref_src=twsrc%5Etfw">January 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -120,7 +127,7 @@ Below are the list of games I demonstrate in part 2.
 
 You won't want to miss that fun, so make sure you <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs).
 
-Help make this series better! Post feedback, questions, and ideas. Leave your comments and thoughts in the comments below.
+Let me know in the comments below.
 
 Thanks for watching and if you are inclined, please let other Commodore fans know about the series by sharing my blog posts and videos using the hashtag, [#retroCombs](https://twitter.com/search?q=%23retrocombs&src=typed_query).
 
