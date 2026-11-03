@@ -173,7 +173,7 @@ The other big change is the ROM. My A500, if I remember right from 30-plus years
 
 ## FIRST BOOT: PIRATES! FROM FLOPPY {#first-boot}
 
-With a floppy in the drive, the A600 boots from the floppy first. The disk I had was MicroProse's *Pirates!*, so that's what came up. The stereo audio is perfect, and composite video through my capture card is not bad at all. I started a new career and named my family Combs. What else would it be?
+With a [floppy](https://amzn.to/3DrEOj1) in the drive, the A600 boots from the floppy first. The disk I had was MicroProse's *Pirates!*, so that's what came up. The stereo audio is perfect, and composite video through my capture card is not bad at all. I started a new career and named my family Combs. What else would it be?
 
 To get back to Workbench, I popped the floppy out and reset the machine with the three-key salute: hold `CTRL` and both `AMIGA` keys.
 
@@ -196,7 +196,7 @@ Dragging windows is a little slow on a 7 MHz 68000, and things aren't as respons
 
 The included mouse works, but it's not the best for dragging windows. I own a [Tank Mouse](https://tank-mouse.com/), a modern re-creation of the original Amiga tank mouse from a Kickstarter campaign. It's wireless, with a USB receiver, and it gets rid of the rollerball.
 
-1. Put batteries in the Tank Mouse.
+1. Put [batteries](https://amzn.to/49LycZc) in the Tank Mouse.
 2. Plug the wireless receiver into a USB-to-DB9 adapter, then plug the adapter into the A600's mouse port.
 3. Power on the computer.
 

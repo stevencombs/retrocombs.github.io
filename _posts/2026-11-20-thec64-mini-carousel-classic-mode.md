@@ -27,7 +27,7 @@ image:
 kind: how-to
 ---
 
-THEC64 Mini from Retro Games Ltd is a small Commodore 64 you can set on your desk, and I just love this device. It works for longtime Commodore fans like me (I've been around Commodore computers for almost 45 years) and for anyone new to the C64. This post is the text companion to my video. It walks through the Carousel, save states, the options menus, Classic Mode, firmware, and the USB drive features that open the door to far more software than the built-in games.
+[THEC64 Mini](https://amzn.to/44opkqo) from Retro Games Ltd is a small Commodore 64 you can set on your desk, and I just love this device. It works for longtime Commodore fans like me (I've been around Commodore computers for almost 45 years) and for anyone new to the C64. This post is the text companion to my video. It walks through the Carousel, save states, the options menus, Classic Mode, firmware, and the USB drive features that open the door to far more software than the built-in games.
 
 ![THEC64 Mini next to a full-size Commodore 64](/images/posts/2026-11-20-thec64-mini-carousel-classic-mode.jpg)
 
@@ -87,7 +87,7 @@ As of 2026-11-20, no errata. If you spot something, let me know in the comments 
 
 ## MINI VS. MAXI {#mini-vs-maxi}
 
-The Mini earns its name. Next to a full-size Commodore 64 it barely fills the frame. Retro Games Ltd also makes a full-size Maxi version. The C64 emulation is the same on both. The differences:
+The Mini earns its name. Next to a full-size Commodore 64 it barely fills the frame. Retro Games Ltd also makes a full-size [Maxi](https://amzn.to/3oN64kW) version. The C64 emulation is the same on both. The differences:
 
 - The Maxi has a working keyboard.
 - The Maxi adds a VIC-20 emulator.
@@ -99,7 +99,7 @@ Let's get this out of the way first: the keyboard on the Mini does not work. It'
 1. Use the on-screen virtual keyboard.
 2. Plug a real USB keyboard into one of the USB ports.
 
-One keyboard that does not work: the 8BitDo Retro Mechanical Keyboard C64 Edition. I tested it with THEC64 Mini and it doesn't work. Very disappointing. Use a different USB keyboard.
+One keyboard that does not work: the [8BitDo Retro Mechanical Keyboard C64 Edition](/8bitdo-retro-mechanical-keyboard-c64). I tested it with THEC64 Mini and it doesn't work. Very disappointing. Use a different USB keyboard.
 
 The Mini includes a retro-inspired joystick. It's okay. It's not the best, but it's not bad, and its extra buttons are how you move around the on-screen menus.
 
@@ -119,7 +119,7 @@ When a game asks you to press F1 for options, use the joystick's menu buttons to
 
 ## SAVE STATES {#save-states}
 
-From the in-game menu, choose save/load to save a state. You get up to four save states per game, so you can come back and retry that level. Save states work for the games on your USB drive too, not only the built-in ones.
+From the in-game menu, choose save/load to save a state. You get up to four save states per game, so you can come back and retry that level. Save states work for the games on your [USB drive](https://amzn.to/466QDVw) too, not only the built-in ones.
 
 ## THE OPTIONS MENUS {#options}
 
@@ -177,7 +177,7 @@ Classic Mode adds more media access options, including a virtual cartridge slot.
 
 ## CONCLUSION {#conclusion}
 
-THEC64 Mini is a small, fun way into the Commodore 64 for beginners, and the USB drive features give experienced users disk, tape, and cartridge images, plus Classic Mode for BASIC programming. Update the firmware, grab a USB drive, and add a USB keyboard if you plan to type. For more, check out my [ten TheC64 tips](/ten-thec64-tips).
+[THEC64 Mini](https://amzn.to/44opkqo) is a small, fun way into the Commodore 64 for beginners, and the USB drive features give experienced users disk, tape, and cartridge images, plus Classic Mode for BASIC programming. Update the firmware, grab a [USB drive](https://amzn.to/466QDVw), and add a USB keyboard if you plan to type. For more, check out my [ten TheC64 tips](/ten-thec64-tips).
 
 Are you a Carousel person or a Classic Mode person? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 

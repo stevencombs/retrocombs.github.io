@@ -66,6 +66,8 @@ This post is the text companion to that video on retroCombs Tech (@retroCombs-te
 - 🍓 Pi-Apps: <https://pi-apps.io/>
 - 📝 My Pi 5 SSD build, which also uses Raspberry Pi Imager: [Raspberry Pi 5 and an M.2 SSD Hat](/raspberry-pi-5-m2-ssd-hat)
 
+*Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
+
 ## SUPPORT THE BLOG AND CHANNEL {#support-the-blog-and-channel}
 
 Check out the [supporters page](/supporters) to learn about my supporters and how you can join our community. If this post saved you some time, you can also [leave a tip](https://paypal.me/stevencombs). And if you like this kind of tinkering, subscribe to @retroCombs-tech. Hooked on tech since '73.
@@ -86,12 +88,12 @@ Title: _🌪️ I Tried Twister OS On My Raspberry Pi 500 And WOW!_
 ## WHAT YOU NEED {#what-you-need}
 
 - A Raspberry Pi 500 running Raspberry Pi OS. I used the SD card that came with mine, after installing the updates.
-- A second microSD card for Twister OS. Mine was a 32GB SanDisk.
+- A second [microSD card](https://amzn.to/3IYL3Kn) for Twister OS. Mine was a 32GB SanDisk.
 - A USB SD card reader. Mine is an old Eye-Fi reader. It used to send photos from your camera to an online service over Wi-Fi, and I don't think that service still exists, but it still works as a card reader. If you remember Eye-Fi, let me know in the comments below.
 - A mouse. I almost bought the Raspberry Pi mouse, but I got one with LEDs you can change instead. It's a good mouse.
 - Paper and a pen to write down the default login.
 
-My one disappointment with the Pi 500: it doesn't support M.2 SSDs like the Pi 5 does. I think I saw online that somebody figured out how to solder on the connectors, but I'm not sure it would fit in the case. So we're using SD cards.
+My one disappointment with the Pi 500: it doesn't support M.2 SSDs like the [Pi 5](https://amzn.to/3VAq22x) does. I think I saw online that somebody figured out how to solder on the connectors, but I'm not sure it would fit in the case. So we're using SD cards.
 
 ## A QUICK LOOK AT ARMBIAN {#armbian}
 

@@ -189,7 +189,7 @@ Out went the 1541, and in came the Dual Drive 1581 from Bitbinders, another gift
 
 ### Ultimate II+ Cartridge {#ultimate-ii-plus}
 
-The Ultimate II+ cartridge has a lot of features I'll save for a future video. Loading games from virtual disks on its SD card was fast, so that's how I'll work with disk images from now on. Mine needed an update before I started.
+The Ultimate II+ cartridge has a lot of features I'll save for a future video. Loading games from virtual disks on its [SD card](https://amzn.to/3IYL3Kn) was fast, so that's how I'll work with disk images from now on. Mine needed an update before I started.
 
 ### Screen Capture With the ClonerAlliance ViewLite AV {#screen-capture}
 
