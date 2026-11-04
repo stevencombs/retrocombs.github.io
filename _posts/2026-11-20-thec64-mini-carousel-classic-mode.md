@@ -59,7 +59,7 @@ kind: how-to
 - 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
 - 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
 - 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
-- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
+- 💾 USB drive: <https://link.amazon/B05GEnTW6>
 - 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
 
 **Related Posts**
