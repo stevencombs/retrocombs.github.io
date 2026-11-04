@@ -61,12 +61,12 @@ The holidays are upon us again. If someone in your family loves retro computers,
 - 🕹️ Hyperkin Trooper Controller: <https://amzn.to/3l1CHXj>
 - 🖱️ Retro Games Ltd TheMouse: <https://amzn.to/3PiJ1JM>
 - 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
-- 🍓 Raspberry Pi Zero 2 W: <https://link.amazon/B01DPYAjZ>
+- 🍓 Raspberry Pi Zero 2 W: <https://link.amazon/B0h8gvupK>
 
 **Under the Tree**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
-- 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
 - 🥧 Raspberry Pi 5 8GB: <https://amzn.to/3VAq22x>
 - 💾 Kung Fu Flash (The Future Was 8 bit): <https://www.tfw8b.com/product/kung-fu-flash/>
 - 🐁 Tank Mouse: <https://tank-mouse.com/>
@@ -83,9 +83,9 @@ The holidays are upon us again. If someone in your family loves retro computers,
 
 **Extras**
 
-- 💾 Retro Games Ltd USB Drive: <https://amzn.to/466QDVw>
+- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
 - 💾 microSD cards: <https://amzn.to/3IYL3Kn>
-- 🚠 HDMI cables: <https://amzn.to/4c2vhM9>
+- 🚠 HDMI cables: <https://link.amazon/B0c7sAcRI>
 
 **Related Posts**
 

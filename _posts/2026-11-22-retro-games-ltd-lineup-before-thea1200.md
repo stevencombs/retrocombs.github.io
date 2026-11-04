@@ -55,8 +55,8 @@ You pre-ordered THEA1200 from Retro Games Ltd (RGL), and now you're waiting. Tha
 
 **Retro Games Ltd Computers**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
-- 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
 - 💻 Retro Games Ltd TheVIC20 (UK): <https://amzn.to/3CA7anp>
 - 💻 THEVIC20 at Retro Games Ltd: <https://retrogames.biz/products/thevic20/>
 - 💻 Retro Games Ltd TheA500 Mini: <https://amzn.to/3OVxJuD>

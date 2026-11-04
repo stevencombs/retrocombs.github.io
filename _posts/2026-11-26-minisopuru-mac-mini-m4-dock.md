@@ -64,7 +64,7 @@ This post is the text companion to my video on retroCombs Tech (@retroCombs-tech
 - 🖥️ Apple Mac mini M4: <https://amzn.to/4bnPdZO>
 - 🧩 Minisopuru iExpandMate MINI4PRO dock: <https://amzn.to/43j6Sjw>
 - 💽 PNY 2TB NVMe SSD (2280): <https://amzn.to/3Xn5Q20>
-- 🚠 HDMI Cables: <https://amzn.to/4c2vhM9>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
@@ -119,7 +119,7 @@ I really like having a headphone jack on the back. On the Mac mini M4, the headp
 > **Tip:** The front USB-A ports are USB 2.0. They're perfect for a keyboard, mouse, or joystick. Plug fast USB drives into the Mac mini's own USB-C ports instead. The card slots are rated up to 104MB/s.
 {: .tip}
 
-The HDMI port is a nice extra. With the dock's HDMI and the Mac mini's own HDMI port, you're ready for a dual-monitor setup. Grab a good [HDMI cable](https://amzn.to/4c2vhM9) if you plan to run a 4K display at 60Hz.
+The HDMI port is a nice extra. With the dock's HDMI and the Mac mini's own HDMI port, you're ready for a dual-monitor setup. Grab a good [HDMI cable](https://link.amazon/B0c7sAcRI) if you plan to run a 4K display at 60Hz.
 
 ## THE NOTCH {#the-notch}
 
