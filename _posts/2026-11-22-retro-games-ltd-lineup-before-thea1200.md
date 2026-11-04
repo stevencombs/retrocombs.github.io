@@ -62,6 +62,8 @@ You pre-ordered [THEA1200](https://amzn.to/4oeSG1F) from Retro Games Ltd (RGL), 
 - 💻 Retro Games Ltd TheA500 Mini: <https://amzn.to/3OVxJuD>
 - 💻 Retro Games Ltd The Atari 400 Mini: <https://amzn.to/3Ju6xiH>
 - 💻 The Spectrum at Retro Games Ltd: <https://retrogames.biz/products/thespectrum/>
+- 💻 Retro Games Ltd TheSpectrum: <https://link.amazon/B05ukTchg>
+- 🤍 Retro Games Ltd TheSpectrum White Edition: <https://link.amazon/B0e3Pz7Cr>
 - 💻 Retro Games Ltd THEC64 Mini Black: <https://amzn.to/4p4zzsv>
 - 🅰️ Retro Games Ltd A1200 (US preorder): <https://amzn.to/4oeSG1F>
 - 🅰️ THEA1200 at Retro Games Ltd: <https://retrogames.biz/products/thea1200/>
@@ -133,7 +135,7 @@ These are new-in-box prices I found on store listings as of November 1, 2026. Pr
 | [THEVIC20](https://amzn.to/3CA7anp) | 2020 | $120 to $140, hard to find | $204.99 (Rarewaves.com; power supply not included) |
 | [THEA500 Mini](https://amzn.to/3OVxJuD) | 2022 | $130 to $140 | $219.99 new (CaveGamers); $110 to $120 used (PayMore) |
 | [THE400 Mini](https://amzn.to/3Ju6xiH) | 2024 | Around $120 | $119.99 (atari.com, AtariAge) |
-| The Spectrum | 2024 | $120 to $140 | $104.99 plus shipping (Play-Asia) |
+| [The Spectrum](https://link.amazon/B05ukTchg) | 2024 | $120 to $140 | $104.99 plus shipping (Play-Asia) |
 | THEC64 Mini Black Edition | 2025 | Around $120 | $79.99 (Rarewaves.com) |
 | THEA1200 | Pre-order | Not yet released | See the [status update](#thea1200) |
 
@@ -231,7 +233,7 @@ I didn't grow up with the Spectrum, so my favorites might not be yours.
 4. Playing *Bobby Bearing*
 5. Playing *Phantis (Game Over II)*
 
-While I was recording, RGL announced a white collector's edition that pays tribute to the one millionth Spectrum. It comes with a matching white printer, a QuickShot II joystick, and a Microdrive-style USB stick. At the time, pre-orders were open only in Europe. As of November 1, 2026, I found White Edition listings from $151.99 to $178.
+While I was recording, RGL announced a [white collector's edition](https://link.amazon/B0e3Pz7Cr) that pays tribute to the one millionth Spectrum. It comes with a matching white printer, a QuickShot II joystick, and a Microdrive-style USB stick. At the time, pre-orders were open only in Europe. As of November 1, 2026, I found White Edition listings from $151.99 to $178.
 
 ## THEC64 MINI BLACK EDITION (2025) {#black-edition}
 
@@ -256,7 +258,7 @@ If you're a modern C64 fan, this is the Mini to get. If you just want 1980s nost
 | A Commodore fan who wants a full 8-bit keyboard | [THEC64 (Maxi)](https://amzn.to/3oN64kW), or [THEVIC20](https://amzn.to/3CA7anp) if you can find one |
 | A 16-bit Amiga fan | [THEA500 Mini](https://amzn.to/3OVxJuD), plus a [THEA1200 pre-order](https://amzn.to/4oeSG1F) |
 | An Atari fan | [THE400 Mini](https://amzn.to/3Ju6xiH) and a USB keyboard |
-| A British retro fan | The Spectrum, plus [THEGAMEPAD](https://amzn.to/43H7iNu) for easier carousel navigation |
+| A British retro fan | [The Spectrum](https://link.amazon/B05ukTchg), plus [THEGAMEPAD](https://amzn.to/43H7iNu) for easier carousel navigation |
 
 > **Tip:** These are also a low-cost way to try a computer you didn't own back in the day.
 {: .tip}

@@ -56,7 +56,7 @@ The holidays are upon us again. If someone in your family loves retro computers,
 - 👕 retroCombs shop: [retrocombs.com/shop](/shop)
 - 📰 ZZAP! 64 magazine (Fusion Retro Books): <https://fusionretrobooks.com/collections/zzap-64-magazine>
 - 🔌 8-Bit Classics cables: <https://www.8bitclassics.com/>
-- 🥧 Raspberry Pi Pico: <https://www.raspberrypi.com/products/raspberry-pi-pico/>
+- 🥧 [Raspberry Pi Pico](https://link.amazon/B0dSIO8qi) (Raspberry Pi): <https://www.raspberrypi.com/products/raspberry-pi-pico/>
 - 💾 Epyx FastLoad Reloaded (The Future Was 8 bit): <https://www.tfw8b.com/product/epyx-fastload-reloaded-disk-sd2iec-turbo-loader-cartridge-c64/>
 - 🕹️ Hyperkin Trooper Controller: <https://amzn.to/3l1CHXj>
 - 🖱️ Retro Games Ltd TheMouse: <https://amzn.to/3PiJ1JM>
@@ -68,10 +68,12 @@ The holidays are upon us again. If someone in your family loves retro computers,
 - 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
 - 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
 - 🥧 Raspberry Pi 5 8GB: <https://amzn.to/3VAq22x>
-- 💾 Kung Fu Flash (The Future Was 8 bit): <https://www.tfw8b.com/product/kung-fu-flash/>
+- 🥧 Raspberry Pi 4: <https://link.amazon/B0379LyFy>
+- 🔌 Raspberry Pi 27W USB-C power supply: <https://link.amazon/B0aI0jfzc>
+- 💾 [Kung Fu Flash](https://link.amazon/B0bDHYEvP) (The Future Was 8 bit): <https://www.tfw8b.com/product/kung-fu-flash/>
 - 🐁 Tank Mouse: <https://tank-mouse.com/>
-- 🖥️ Wimaxit 8-inch monitor
-- 🕹️ Hyperkin RetroN 77
+- 🖥️ Wimaxit 8-inch M818 monitor: <https://link.amazon/B0gioeh1N>
+- 🕹️ Hyperkin RetroN 77: <https://link.amazon/B08HHfZwY>
 - 💻 NABU (new old stock)
 - 🧱 Pantasy Retro 90s PC Building Set 85005: <https://amzn.to/3siGHsX>
 - ⚫ Atari 2600+ Console: <https://amzn.to/43KNriS>
@@ -126,23 +128,23 @@ Your stocking stuffing may vary.
 2. **The retroCombs shop.** Something you can actually shove in a stocking: logoed goodies you don't need but you want, at [the shop](/shop).
 3. **ZZAP! 64 magazine.** My European viewers know this one. Issues of ZZAP! 64 Micro Action are £4.99 each at Fusion Retro Books, or give a subscription and make them happy all year round.
 4. **Cables from 8-Bit Classics.** I learned about 8-Bit Classics at Vintage Computer Festival Midwest, where I bought some cables and thought, where have you been all my life? They're custom-built for retro computers: video cables, serial cables, and more. Cables are $11.99 to $13.99.
-5. **Raspberry Pi Pico.** Not the [Pi 5](https://amzn.to/3VAq22x), hold that thought. The Pico can do some interesting retro things, like running a BBC Micro emulator. About $4 (PiShop.us lists it at $3.95).
+5. **[Raspberry Pi Pico](https://link.amazon/B0dSIO8qi).** Not the [Pi 5](https://amzn.to/3VAq22x), hold that thought. The Pico can do some interesting retro things, like running a BBC Micro emulator. About $4 (PiShop.us lists it at $3.95).
 6. **Epyx FastLoad.** I couldn't live without this one. Plug it into the cartridge port of a Commodore 64 (or a Commodore 128 in 64 mode) and most of your software loads from a 1541 much faster. It's £18.99 from The Future Was 8 bit.
 7. **[Hyperkin Trooper](https://amzn.to/3l1CHXj).** My joystick of choice for livestreams. It's based on the Atari CX40 design, with some variation, and it has the all-important 9-pin connector. About $15 to $20 at US game shops.
 8. **[Retro Games Ltd TheMouse](https://amzn.to/3PiJ1JM).** From the company that makes TheC64. It looks like the Amiga tank mouse but it's USB, so it works on modern computers. I sometimes use it on my Mac. It's getting hard to find. I saw it at $36.49 on back order in the US.
 9. **[Retro Games Ltd TheGamePad](https://amzn.to/43H7iNu).** A USB game pad in the style of the Amiga CD32 game pad, not quite exactly like it, but it works and it gives you that retro Amiga feel. About $25 to $40, depending on the store.
-10. **A Raspberry Pi.** A Pi 4 or 5 makes anyone's stocking better. Memory costs pushed Pi prices up several times in 2026, but the 1GB Pi 4 still lists at $35 and the 1GB Pi 5 at $45. The [Raspberry Pi Zero 2 W](https://link.amazon/B01DPYAjZ) is $17.25 at PiShop.us. There are lots of kits. Build a game emulator, a computer emulator, or a home server.
+10. **A Raspberry Pi.** A [Pi 4](https://link.amazon/B0379LyFy) or 5 makes anyone's stocking better. Memory costs pushed Pi prices up several times in 2026, but the 1GB Pi 4 still lists at $35 and the 1GB Pi 5 at $45. The [Raspberry Pi Zero 2 W](https://link.amazon/B01DPYAjZ) is $17.25 at PiShop.us. There are lots of kits. Build a game emulator, a computer emulator, or a home server.
 
-> **Tip:** If you buy a Raspberry Pi as a gift, include a [microSD card](https://amzn.to/3IYL3Kn) and the right power supply so it works on the big day. The [Pi 5 8GB](https://amzn.to/3VAq22x) now lists at $175.
+> **Tip:** If you buy a Raspberry Pi as a gift, include a [microSD card](https://amzn.to/3IYL3Kn) and the [right power supply](https://link.amazon/B0aI0jfzc) so it works on the big day. The [Pi 5 8GB](https://amzn.to/3VAq22x) now lists at $175.
 {: .tip}
 
 ## UNDER THE TREE {#under-the-tree}
 
 1. **[TheC64 Mini](https://link.amazon/B0bMuridd) or [Maxi](https://amzn.to/3oN64kW).** The Mini was $45 in 2023 and comes with a joystick and a lot of built-in Commodore 64 games, plus you can add more games with a [USB stick](https://amzn.to/466QDVw). The full-size Maxi was being scalped at around $300 on Amazon, so I said to stay away until stock caught up. Today new Minis are hard to find in the US, and used ones run $40 to $50. A new Maxi is $355.99 at CaveGamers, so it's still pricey. For tips, see my [ten TheC64 tips](/ten-thec64-tips).
-2. **Kung Fu Flash.** A cartridge that lets you run Commodore 64 software from an SD card. Plug it into the cartridge port, reboot, and there you go. It's £28.99 to £34.99 from The Future Was 8 bit, which is also where I get the Epyx FastLoad.
+2. **[Kung Fu Flash](https://link.amazon/B0bDHYEvP).** A cartridge that lets you run Commodore 64 software from an SD card. Plug it into the cartridge port, reboot, and there you go. It's £28.99 to £34.99 from The Future Was 8 bit, which is also where I get the Epyx FastLoad.
 3. **Tank Mouse.** If you want a modern re-creation of the Amiga tank mouse, check out the [Tank Mouse](https://tank-mouse.com/). It has USB, a USB-to-9-pin adapter, and Bluetooth. Between the two buttons you can scroll on a modern computer like a Mac. It was about $63 in 2023. It's now sold out at tank-mouse.com (listed at €46). Sordan lists it at €39.99, so check stock before you plan on it.
-4. **Wimaxit 8-inch monitor.** It's a widescreen HD monitor, not 4:3, but it has composite, BNC, VGA, and HDMI inputs and a good stand, and it looks right next to an old computer. I use it in my studio with a Commodore and with my Apple IIc over composite. The current 8-inch model, the M818, is $82.99 at the Andycine store.
-5. **Hyperkin RetroN 77.** A re-creation of the Atari 2600 that plays your original cartridges and can also load software from an SD card. It comes with the Hyperkin joystick. Dig your old 2600 cartridges out of the closet. About $80 to $85.
+4. **[Wimaxit 8-inch monitor](https://link.amazon/B0gioeh1N).** It's a widescreen HD monitor, not 4:3, but it has composite, BNC, VGA, and HDMI inputs and a good stand, and it looks right next to an old computer. I use it in my studio with a Commodore and with my Apple IIc over composite. The current 8-inch model, the M818, is $82.99 at the Andycine store.
+5. **[Hyperkin RetroN 77](https://link.amazon/B08HHfZwY).** A re-creation of the Atari 2600 that plays your original cartridges and can also load software from an SD card. It comes with the Hyperkin joystick. Dig your old 2600 cartridges out of the closet. About $80 to $85.
 6. **[Pantasy 1990s Retro Computer building brick set](https://amzn.to/3siGHsX).** I did a whole video on this one. It's pretty cool. It was about $126 in 2023 and it's $122.99 from Pantasy now.
 7. **A NABU.** The NABU is a Canadian computer, and Santa has to go through Canada anyway. The ones I recommended were new old stock, still in the box, so the recipient gets to let that 1980s air out on Christmas morning. It won't work right out of the box, so they'll need to do some research and may need a Raspberry Pi or a couple of adapters. See my [NABU posts](/nabu-surprises). It was about $100 in 2023. Sealed new old stock still shows up on resale listings, but now it's $250 to $450.
 8. **[Atari 2600+](https://amzn.to/43KNriS).** A re-creation of the Atari 2600 that plays 2600 and 7800 cartridges and comes with a joystick. It's $129.99 from Atari.

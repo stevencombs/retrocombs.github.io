@@ -26,7 +26,7 @@ image:
 kind: how-to
 ---
 
-I have a Pi problem, and I mean that in a good way. I have Raspberry Pis all over the house, from an original Raspberry Pi 1 I found in a box to the Pi 4 that runs my Stream Deck companion server. What I didn't have was a Pi 5 that booted from an SSD. So I opened a brand-new [Raspberry Pi 5](https://amzn.to/3VAq22x), added the active cooler and a Waveshare M.2 hat with a small NVMe drive, and got it booting without an SD card.
+I have a Pi problem, and I mean that in a good way. I have Raspberry Pis all over the house, from an original Raspberry Pi 1 I found in a box to the [Pi 4](https://link.amazon/B0379LyFy) that runs my Stream Deck companion server. What I didn't have was a Pi 5 that booted from an SSD. So I opened a brand-new [Raspberry Pi 5](https://amzn.to/3VAq22x), added the active cooler and a Waveshare M.2 hat with a small NVMe drive, and got it booting without an SD card.
 
 This took two livestreams and more than four hours, troubleshooting included. The video cuts all that down to about 18 minutes of setup. This post is the text companion to that video. It lists the parts, walks through the steps in order, and points out the spots that tripped me up. Let's dig in!
 
@@ -83,7 +83,7 @@ Title: _🥧️ Raspberry Pi 5 with M.2 SSD HAT: Unboxing to First Boot ⏩️_
 
 - [Raspberry Pi 5](https://amzn.to/3VAq22x)
 - Raspberry Pi 5 Active Cooler. You really need it for the Pi 5.
-- Official 27W Raspberry Pi USB-C power supply
+- [Official 27W Raspberry Pi USB-C power supply](https://link.amazon/B0aI0jfzc)
 - Waveshare PCIe to M.2 hat. I picked it over the official hat because it was about $3 cheaper.
 - An M.2 NVMe SSD. The Waveshare hat supports 2230 (22 x 30 mm) and 2242 (22 x 42 mm) drives. I used a 2230 Kioxia drive, a Toshiba OEM brand that was relatively inexpensive.
 - A [microSD card](https://amzn.to/3IYL3Kn) for the first boot. I used a 32GB SanDisk.

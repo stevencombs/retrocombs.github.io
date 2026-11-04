@@ -53,6 +53,7 @@ This post is the text companion to my short video on retroCombs Tech (@retroComb
 
 - ⌨️ 8BitDo Retro Mechanical Keyboard C64 Edition: <https://amzn.to/47U88dL>
 - 🔢 The companion numpad: [8BitDo Retro Mechanical Numpad](/8bitdo-retro-mechanical-numpad-c64) (video: <https://youtu.be/bwqATwW56ZQ>)
+- 🔢 8BitDo Retro 18 Mechanical Numpad (C64 colors): <https://link.amazon/B0aVIrrZj>
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 

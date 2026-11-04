@@ -28,7 +28,7 @@ image:
 kind: review
 ---
 
-An SX-64 is missing from my collection. I've always wanted one and haven't been able to find one. If you have one, let me know. So I tried something else: I took my Combian pi/400 and put it in a Vilros PiDOCK 400 to see if I could create a spiritual successor to the SX-64. It's not the same form factor, but hold on, and you'll see what I mean.
+An SX-64 is missing from my collection. I've always wanted one and haven't been able to find one. If you have one, let me know. So I tried something else: I took my Combian pi/400 and put it in a [Vilros PiDOCK 400](https://link.amazon/A02H2q8rc) to see if I could create a spiritual successor to the SX-64. It's not the same form factor, but hold on, and you'll see what I mean.
 
 This post is the text companion to my video. It covers unboxing, assembly, first boot in SX-64 mode, configuration, copying a game with Midnight Commander, playing Operation Wolf, and my verdict. Let's dig in!
 
@@ -62,7 +62,9 @@ This post is the text companion to my video. It covers unboxing, assembly, first
 **Video Mention Links**
 
 - 💻 Vilros PiDOCK 400: <https://vilros.com/collections/vilros/products/pidock-400-raspberry-pi-400-compatible-dock-display>
+- 💻 Vilros PiDOCK 400 on Amazon: <https://link.amazon/A02H2q8rc>
 - 📼 Vilros's reply to this video: <https://youtu.be/Fd1PuYOL_Uc>
+- ⌨️ Raspberry Pi 400: <https://link.amazon/B0aWmnRVJ>
 - 📝 My Combian pi/400 project: [The Combian pi/400 Project](/combianpi400-1)
 
 **Retro Games Ltd Accessories**
@@ -93,11 +95,11 @@ Title: _Use a Vilros PiDOCK 400 to recreate the Commodore SX-64 experience_
 
 ## UPDATE: VILROS RESPONDED {#update}
 
-After this video went up, Vilros reached out. They weren't interested in a collaboration. They apologized for not getting back to me sooner, given their small size, and I appreciate the follow-up. Vilros also posted a [reply to this video](https://youtu.be/Fd1PuYOL_Uc), and they offered a 15% discount on the PiDOCK 400 with the code **retroCombs**.
+After this video went up, Vilros reached out. They weren't interested in a collaboration. They apologized for not getting back to me sooner, given their small size, and I appreciate the follow-up. Vilros also posted a [reply to this video](https://youtu.be/Fd1PuYOL_Uc).
 
 ## MY COMBIAN PI/400 RECAP {#recap}
 
-A while back, I turned a Raspberry Pi 400 into the [Combian pi/400](/combianpi400-1). It runs Combian 64: plug it in, turn it on, and it boots right into C64 mode. As part of that project, I made a Combian pi/400 label, added key covers that give us all the PETSCII characters we need, and created a serial number plate for the back. I didn't want to change much. I just wanted to make it more portable.
+A while back, I turned a [Raspberry Pi 400](https://link.amazon/B0aWmnRVJ) into the [Combian pi/400](/combianpi400-1). It runs Combian 64: plug it in, turn it on, and it boots right into C64 mode. As part of that project, I made a Combian pi/400 label, added key covers that give us all the PETSCII characters we need, and created a serial number plate for the back. I didn't want to change much. I just wanted to make it more portable.
 
 ## WHAT IS THE PIDOCK 400? {#what-is-it}
 

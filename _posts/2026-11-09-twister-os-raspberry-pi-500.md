@@ -31,7 +31,7 @@ kind: how-to
 
 Twister OS is an alternative operating system for the Raspberry Pi. What caught my eye is that it gives you more out of the box. It includes tools I always end up installing by hand on Raspberry Pi OS, and it lets you theme the desktop to look like other operating systems.
 
-I added a twist of my own. I didn't use my Mac to make the SD card. I did everything on the Raspberry Pi 500 itself: downloaded Twister OS in Raspberry Pi OS, wrote it to an SD card, and booted it. Then I tried the themes and loaded a Commodore 64 emulator and a ZX Spectrum emulator.
+I added a twist of my own. I didn't use my Mac to make the SD card. I did everything on the [Raspberry Pi 500](https://link.amazon/B0gdGnSDC) itself: downloaded Twister OS in Raspberry Pi OS, wrote it to an SD card, and booted it. Then I tried the themes and loaded a Commodore 64 emulator and a ZX Spectrum emulator.
 
 This post is the text companion to that video on retroCombs Tech (@retroCombs-tech). It goes through the whole process step by step and points out what worked and what didn't. Let's dig in!
 
@@ -64,6 +64,7 @@ This post is the text companion to that video on retroCombs Tech (@retroCombs-te
 
 - 🌪️ Twister OS: <https://twisteros.com/>
 - 🍓 Pi-Apps: <https://pi-apps.io/>
+- ⌨️ Raspberry Pi 500: <https://link.amazon/B0gdGnSDC>
 - 📝 My Pi 5 SSD build, which also uses Raspberry Pi Imager: [Raspberry Pi 5 and an M.2 SSD Hat](/raspberry-pi-5-m2-ssd-hat)
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
@@ -111,7 +112,7 @@ A big reason I wanted to try Twister OS is that it includes both, so I don't hav
 ## STEP 1: DOWNLOAD TWISTER OS {#download}
 
 1. In the browser on the Pi 500, go to [twisteros.com](https://twisteros.com/) and click **Download Now**. Twister OS works on other single-board computers too, not only the Raspberry Pi.
-2. Pick the version for your Pi. One image covers the Raspberry Pi 4, 400, 5, and 500.
+2. Pick the version for your Pi. One image covers the [Raspberry Pi 4](https://link.amazon/B0379LyFy), [400](https://link.amazon/B0aWmnRVJ), 5, and 500.
 3. Write down the default username and password shown on the download page. You'll need them if your Imager settings don't take.
 4. Use the direct link or a mirror. The direct link took me about a minute.
 

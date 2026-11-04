@@ -100,7 +100,7 @@ Before I cleaned anything, I wanted to know whether I had a working machine. The
 
 I powered it with the 64 Power from Bitbinders. Craig at Bitbinders sent it to me, so thank you, Craig. For video, I used my Wimaxit 10.1-inch monitor, which has all the connectors you need for retro computers, and a video cable with RCA plugs.
 
-To test a drive, I used an SD2IEC. Plug it into the IEC port first, then power it by plugging the blue plug into the user port. Make sure you get that orientation right. It powered up, and I loaded the directory from the SD card. We had a working C64!
+To test a drive, I used an [SD2IEC](https://link.amazon/B0i3pxXnb). Plug it into the IEC port first, then power it by plugging the blue plug into the user port. Make sure you get that orientation right. It powered up, and I loaded the directory from the SD card. We had a working C64!
 
 ## OPENING THE 64C CASE {#opening-the-case}
 
