@@ -55,7 +55,7 @@ You pre-ordered [THEA1200](https://amzn.to/4oeSG1F) from Retro Games Ltd (RGL), 
 
 **Retro Games Ltd Computers**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://amzn.to/44opkqo>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
 - 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
 - 💻 Retro Games Ltd TheVIC20 (UK): <https://amzn.to/3CA7anp>
 - 💻 THEVIC20 at Retro Games Ltd: <https://retrogames.biz/products/thevic20/>
@@ -128,7 +128,7 @@ These are new-in-box prices I found on store listings as of November 1, 2026. Pr
 
 | Computer | RGL release | Price in the video | Price as of November 1, 2026 |
 | --- | --- | --- | --- |
-| [THEC64 Mini](https://amzn.to/44opkqo) | 2018 | Launched around $80; as low as $40 | $54.99 new (True Believers); about $40 to $50 used |
+| [THEC64 Mini](https://link.amazon/B0bMuridd) | 2018 | Launched around $80; as low as $40 | $54.99 new (True Believers); about $40 to $50 used |
 | [THEC64 (Maxi)](https://amzn.to/3oN64kW) | 2019 | $120 to $140 | $355.99 new (CaveGamers) |
 | [THEVIC20](https://amzn.to/3CA7anp) | 2020 | $120 to $140, hard to find | $204.99 (Rarewaves.com; power supply not included) |
 | [THEA500 Mini](https://amzn.to/3OVxJuD) | 2022 | $130 to $140 | $219.99 new (CaveGamers); $110 to $120 used (PayMore) |
@@ -251,7 +251,7 @@ If you're a modern C64 fan, this is the Mini to get. If you just want 1980s nost
 
 | If you are... | Get |
 | --- | --- |
-| A 1980s C64 nostalgia fan | [THEC64 Mini](https://amzn.to/44opkqo) |
+| A 1980s C64 nostalgia fan | [THEC64 Mini](https://link.amazon/B0bMuridd) |
 | A modern C64 homebrew fan | [THEC64 Mini Black Edition](https://amzn.to/4p4zzsv) |
 | A Commodore fan who wants a full 8-bit keyboard | [THEC64 (Maxi)](https://amzn.to/3oN64kW), or [THEVIC20](https://amzn.to/3CA7anp) if you can find one |
 | A 16-bit Amiga fan | [THEA500 Mini](https://amzn.to/3OVxJuD), plus a [THEA1200 pre-order](https://amzn.to/4oeSG1F) |

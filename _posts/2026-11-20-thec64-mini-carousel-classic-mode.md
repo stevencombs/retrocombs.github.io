@@ -27,7 +27,7 @@ image:
 kind: how-to
 ---
 
-[THEC64 Mini](https://amzn.to/44opkqo) from Retro Games Ltd is a small Commodore 64 you can set on your desk, and I just love this device. It works for longtime Commodore fans like me (I've been around Commodore computers for almost 45 years) and for anyone new to the C64. This post is the text companion to my video. It walks through the Carousel, save states, the options menus, Classic Mode, firmware, and the USB drive features that open the door to far more software than the built-in games.
+[THEC64 Mini](https://link.amazon/B0bMuridd) from Retro Games Ltd is a small Commodore 64 you can set on your desk, and I just love this device. It works for longtime Commodore fans like me (I've been around Commodore computers for almost 45 years) and for anyone new to the C64. This post is the text companion to my video. It walks through the Carousel, save states, the options menus, Classic Mode, firmware, and the USB drive features that open the door to far more software than the built-in games.
 
 ![THEC64 Mini next to a full-size Commodore 64](/images/posts/2026-11-20-thec64-mini-carousel-classic-mode.jpg)
 
@@ -55,7 +55,7 @@ kind: how-to
 
 **THEC64 Family and Accessories**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://amzn.to/44opkqo>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
 - 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
 - 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
 - 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
@@ -177,7 +177,7 @@ Classic Mode adds more media access options, including a virtual cartridge slot.
 
 ## CONCLUSION {#conclusion}
 
-[THEC64 Mini](https://amzn.to/44opkqo) is a small, fun way into the Commodore 64 for beginners, and the USB drive features give experienced users disk, tape, and cartridge images, plus Classic Mode for BASIC programming. Update the firmware, grab a [USB drive](https://amzn.to/466QDVw), and add a USB keyboard if you plan to type. For more, check out my [ten TheC64 tips](/ten-thec64-tips).
+[THEC64 Mini](https://link.amazon/B0bMuridd) is a small, fun way into the Commodore 64 for beginners, and the USB drive features give experienced users disk, tape, and cartridge images, plus Classic Mode for BASIC programming. Update the firmware, grab a [USB drive](https://amzn.to/466QDVw), and add a USB keyboard if you plan to type. For more, check out my [ten TheC64 tips](/ten-thec64-tips).
 
 Are you a Carousel person or a Classic Mode person? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 

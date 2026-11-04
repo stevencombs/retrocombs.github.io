@@ -65,7 +65,7 @@ The holidays are upon us again. If someone in your family loves retro computers,
 
 **Under the Tree**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://amzn.to/44opkqo>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
 - 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
 - 🥧 Raspberry Pi 5 8GB: <https://amzn.to/3VAq22x>
 - 💾 Kung Fu Flash (The Future Was 8 bit): <https://www.tfw8b.com/product/kung-fu-flash/>
@@ -138,7 +138,7 @@ Your stocking stuffing may vary.
 
 ## UNDER THE TREE {#under-the-tree}
 
-1. **[TheC64 Mini](https://amzn.to/44opkqo) or [Maxi](https://amzn.to/3oN64kW).** The Mini was $45 in 2023 and comes with a joystick and a lot of built-in Commodore 64 games, plus you can add more games with a [USB stick](https://amzn.to/466QDVw). The full-size Maxi was being scalped at around $300 on Amazon, so I said to stay away until stock caught up. Today new Minis are hard to find in the US, and used ones run $40 to $50. A new Maxi is $355.99 at CaveGamers, so it's still pricey. For tips, see my [ten TheC64 tips](/ten-thec64-tips).
+1. **[TheC64 Mini](https://link.amazon/B0bMuridd) or [Maxi](https://amzn.to/3oN64kW).** The Mini was $45 in 2023 and comes with a joystick and a lot of built-in Commodore 64 games, plus you can add more games with a [USB stick](https://amzn.to/466QDVw). The full-size Maxi was being scalped at around $300 on Amazon, so I said to stay away until stock caught up. Today new Minis are hard to find in the US, and used ones run $40 to $50. A new Maxi is $355.99 at CaveGamers, so it's still pricey. For tips, see my [ten TheC64 tips](/ten-thec64-tips).
 2. **Kung Fu Flash.** A cartridge that lets you run Commodore 64 software from an SD card. Plug it into the cartridge port, reboot, and there you go. It's £28.99 to £34.99 from The Future Was 8 bit, which is also where I get the Epyx FastLoad.
 3. **Tank Mouse.** If you want a modern re-creation of the Amiga tank mouse, check out the [Tank Mouse](https://tank-mouse.com/). It has USB, a USB-to-9-pin adapter, and Bluetooth. Between the two buttons you can scroll on a modern computer like a Mac. It was about $63 in 2023. It's now sold out at tank-mouse.com (listed at €46). Sordan lists it at €39.99, so check stock before you plan on it.
 4. **Wimaxit 8-inch monitor.** It's a widescreen HD monitor, not 4:3, but it has composite, BNC, VGA, and HDMI inputs and a good stand, and it looks right next to an old computer. I use it in my studio with a Commodore and with my Apple IIc over composite. The current 8-inch model, the M818, is $82.99 at the Andycine store.
