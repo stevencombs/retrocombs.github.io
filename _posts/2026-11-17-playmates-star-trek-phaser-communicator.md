@@ -27,7 +27,7 @@ image:
 kind: first-look
 ---
 
-Halloween was coming up, and I needed a couple of accessories for a little costume I was working out. So I picked up two pieces of original series Star Trek gear from Playmates: the Classic Communicator and its companion, the Classic Phaser. Let me be clear up front: these are not studio-quality replicas. They're toys. But they're pretty good toys. This post is the text companion to my two short videos on retroCombs Tech (@retroCombs-tech).
+Halloween was coming up, and I needed a couple of accessories for a little costume I was working out. So I picked up two pieces of original series Star Trek gear from Playmates: the [Classic Communicator](https://link.amazon/B01dKGTPl) and its companion, the [Classic Phaser](https://link.amazon/B09HYWDxw). Let me be clear up front: these are not studio-quality replicas. They're toys. But they're pretty good toys. This post is the text companion to my two short videos on retroCombs Tech (@retroCombs-tech).
 
 ![Playmates Classic Star Trek phaser and communicator](/images/posts/2026-11-17-playmates-star-trek-phaser-communicator.jpg)
 
@@ -48,6 +48,8 @@ Halloween was coming up, and I needed a couple of accessories for a little costu
 ## LINKS {#links}
 
 - 🖖 Playmates Toys: <https://www.playmatestoys.com>
+- 📟 Playmates Classic Star Trek Communicator: <https://link.amazon/B01dKGTPl>
+- 🔫 Playmates Classic Star Trek Phaser: <https://link.amazon/B09HYWDxw>
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
@@ -133,7 +135,7 @@ Again, it's not a studio-level replica, but it's actually a pretty good toy. Now
 
 ## CONCLUSION {#conclusion}
 
-Neither of these will fool a prop collector, and they don't try to. For a Halloween costume or an affordable way to get the original series look, the Playmates communicator and phaser do the job, with sounds that put a smile on any Trek fan's face.
+Neither of these will fool a prop collector, and they don't try to. For a Halloween costume or an affordable way to get the original series look, the Playmates [communicator](https://link.amazon/B01dKGTPl) and [phaser](https://link.amazon/B09HYWDxw) do the job, with sounds that put a smile on any Trek fan's face.
 
 Which original series gadget would you want on your belt? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 

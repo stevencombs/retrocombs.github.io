@@ -105,7 +105,7 @@ The C64 core, ported to the MEGA65 by MJoergen and sy2002 and based on the MiSTe
 
 ## STEP 1: COPY THE GAME TO YOUR SD CARD {#step-1}
 
-1. Power off the MEGA65 and remove the microSD card.
+1. Power off the MEGA65 and remove the [microSD card](https://amzn.to/3IYL3Kn).
 2. Put the card in your computer.
 3. Download Sonic the Hedgehog from CSDb and unzip it. You'll find two `.d64` files.
 4. Copy both `.d64` files to the card. I keep my C64 titles in a `C64` folder on the card.
@@ -116,7 +116,7 @@ The C64 core, ported to the MEGA65 by MJoergen and sy2002 and based on the MiSTe
 1. Hold down `NO SCROLL` and switch on the MEGA65. The core selection menu appears (covered in Chapter 5 of the user's guide).
 2. Select the slot that holds the C64 core. Mine is in slot 2.
 
-For this demo I used the Atari CX40+ joystick.
+For this demo I used the [Atari CX40+ joystick](https://amzn.to/479CFmD).
 
 ## STEP 3: MOUNT THE DISK AND SIMULATE THE REU {#step-3}
 

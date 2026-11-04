@@ -73,6 +73,7 @@ This post is the text companion to that video. It follows the job in the order I
 ### Gear I Used {#gear-i-used}
 
 - 📀 ClonerAlliance ViewLite AV: <https://amzn.to/4gvGU14>
+- 🖥️ Eyoyo 8-inch 4:3 monitor (a smaller substitute with the same 4:3 shape; the Eyoyo I used is no longer sold): <https://link.amazon/B0jbplQQx>
 - 👚 Sew Ready Covers (tell Maggie retroCombs sent you!): <https://ebay.us/EFNZGp>
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
@@ -96,11 +97,11 @@ Title: _Transforming A Dirty Commodore 64C Into The Ultimate Retro Setup!_
 
 ## FIRST, DOES IT WORK? {#does-it-work}
 
-Before I cleaned anything, I wanted to know whether I had a working machine. The 64C arrived under a Sew Ready cover, and cosmetically it was in good shape. It just had a few spills, some dirt, and some grime.
+Before I cleaned anything, I wanted to know whether I had a working machine. The 64C arrived under a [Sew Ready cover](https://ebay.us/EFNZGp), and cosmetically it was in good shape. It just had a few spills, some dirt, and some grime.
 
 I powered it with the 64 Power from Bitbinders. Craig at Bitbinders sent it to me, so thank you, Craig. For video, I used my Wimaxit 10.1-inch monitor, which has all the connectors you need for retro computers, and a video cable with RCA plugs.
 
-To test a drive, I used an SD2IEC. Plug it into the IEC port first, then power it by plugging the blue plug into the user port. Make sure you get that orientation right. It powered up, and I loaded the directory from the SD card. We had a working C64!
+To test a drive, I used an [SD2IEC](https://link.amazon/B0i3pxXnb). Plug it into the IEC port first, then power it by plugging the blue plug into the user port. Make sure you get that orientation right. It powered up, and I loaded the directory from the SD card. We had a working C64!
 
 ## OPENING THE 64C CASE {#opening-the-case}
 
@@ -181,7 +182,7 @@ For the first test, I used my Competition Pro joystick, which stays with this ma
 
 ### A Bigger Monitor {#a-bigger-monitor}
 
-The Wimaxit is too small for a permanent setup, so I moved to an Eyoyo 4:3 monitor with a 1024 x 768 resolution and a remote. It has built-in sound, and the remote makes color, picture, and sound changes easy. I wish it were an IPS display. The viewing angles from the sides are tough, but when you sit right in front of a Commodore 64, the image is very good.
+The Wimaxit is too small for a permanent setup, so I moved to an Eyoyo 4:3 monitor with a 1024 x 768 resolution and a remote. It has built-in sound, and the remote makes color, picture, and sound changes easy. I wish it were an IPS display. The viewing angles from the sides are tough, but when you sit right in front of a Commodore 64, the image is very good. That Eyoyo monitor is no longer sold. The [Eyoyo 8-inch 4:3 monitor](https://link.amazon/B0jbplQQx) is smaller, but it has the same 4:3 shape.
 
 ### Bitbinders Dual 1581 {#bitbinders-dual-1581}
 
@@ -189,7 +190,7 @@ Out went the 1541, and in came the Dual Drive 1581 from Bitbinders, another gift
 
 ### Ultimate II+ Cartridge {#ultimate-ii-plus}
 
-The Ultimate II+ cartridge has a lot of features I'll save for a future video. Loading games from virtual disks on its SD card was fast, so that's how I'll work with disk images from now on. Mine needed an update before I started.
+The Ultimate II+ cartridge has a lot of features I'll save for a future video. Loading games from virtual disks on its [SD card](https://amzn.to/3IYL3Kn) was fast, so that's how I'll work with disk images from now on. Mine needed an update before I started.
 
 ### Screen Capture With the ClonerAlliance ViewLite AV {#screen-capture}
 
