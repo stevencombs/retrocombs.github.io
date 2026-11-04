@@ -61,12 +61,12 @@ The holidays are upon us again. If someone in your family loves retro computers,
 - 🕹️ Hyperkin Trooper Controller: <https://amzn.to/3l1CHXj>
 - 🖱️ Retro Games Ltd TheMouse: <https://amzn.to/3PiJ1JM>
 - 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
-- 🍓 Raspberry Pi Zero 2 W: <https://link.amazon/B01DPYAjZ>
+- 🍓 Raspberry Pi Zero 2 W: <https://link.amazon/B0h8gvupK>
 
 **Under the Tree**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
-- 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
 - 🥧 Raspberry Pi 5 8GB: <https://amzn.to/3VAq22x>
 - 🥧 Raspberry Pi 4: <https://link.amazon/B0379LyFy>
 - 🔌 Raspberry Pi 27W USB-C power supply: <https://link.amazon/B0aI0jfzc>
@@ -85,9 +85,9 @@ The holidays are upon us again. If someone in your family loves retro computers,
 
 **Extras**
 
-- 💾 Retro Games Ltd USB Drive: <https://amzn.to/466QDVw>
+- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
 - 💾 microSD cards: <https://amzn.to/3IYL3Kn>
-- 🚠 HDMI cables: <https://amzn.to/4c2vhM9>
+- 🚠 HDMI cables: <https://link.amazon/B0c7sAcRI>
 
 **Related Posts**
 
@@ -133,14 +133,14 @@ Your stocking stuffing may vary.
 7. **[Hyperkin Trooper](https://amzn.to/3l1CHXj).** My joystick of choice for livestreams. It's based on the Atari CX40 design, with some variation, and it has the all-important 9-pin connector. About $15 to $20 at US game shops.
 8. **[Retro Games Ltd TheMouse](https://amzn.to/3PiJ1JM).** From the company that makes TheC64. It looks like the Amiga tank mouse but it's USB, so it works on modern computers. I sometimes use it on my Mac. It's getting hard to find. I saw it at $36.49 on back order in the US.
 9. **[Retro Games Ltd TheGamePad](https://amzn.to/43H7iNu).** A USB game pad in the style of the Amiga CD32 game pad, not quite exactly like it, but it works and it gives you that retro Amiga feel. About $25 to $40, depending on the store.
-10. **A Raspberry Pi.** A [Pi 4](https://link.amazon/B0379LyFy) or 5 makes anyone's stocking better. Memory costs pushed Pi prices up several times in 2026, but the 1GB Pi 4 still lists at $35 and the 1GB Pi 5 at $45. The [Raspberry Pi Zero 2 W](https://link.amazon/B01DPYAjZ) is $17.25 at PiShop.us. There are lots of kits. Build a game emulator, a computer emulator, or a home server.
+10. **A Raspberry Pi.** A [Pi 4](https://link.amazon/B0379LyFy) or 5 makes anyone's stocking better. Memory costs pushed Pi prices up several times in 2026, but the 1GB Pi 4 still lists at $35 and the 1GB Pi 5 at $45. The [Raspberry Pi Zero 2 W](https://link.amazon/B0h8gvupK) is $17.25 at PiShop.us. There are lots of kits. Build a game emulator, a computer emulator, or a home server.
 
 > **Tip:** If you buy a Raspberry Pi as a gift, include a [microSD card](https://amzn.to/3IYL3Kn) and the [right power supply](https://link.amazon/B0aI0jfzc) so it works on the big day. The [Pi 5 8GB](https://amzn.to/3VAq22x) now lists at $175.
 {: .tip}
 
 ## UNDER THE TREE {#under-the-tree}
 
-1. **[TheC64 Mini](https://link.amazon/B0bMuridd) or [Maxi](https://amzn.to/3oN64kW).** The Mini was $45 in 2023 and comes with a joystick and a lot of built-in Commodore 64 games, plus you can add more games with a [USB stick](https://amzn.to/466QDVw). The full-size Maxi was being scalped at around $300 on Amazon, so I said to stay away until stock caught up. Today new Minis are hard to find in the US, and used ones run $40 to $50. A new Maxi is $355.99 at CaveGamers, so it's still pricey. For tips, see my [ten TheC64 tips](/ten-thec64-tips).
+1. **[TheC64 Mini](https://link.amazon/B019AnpPJ) or [Maxi](https://link.amazon/B0i8BtTtm).** The Mini was $45 in 2023 and comes with a joystick and a lot of built-in Commodore 64 games, plus you can add more games with a [USB stick](https://link.amazon/B05GEnTW6). The full-size Maxi was being scalped at around $300 on Amazon, so I said to stay away until stock caught up. Today new Minis are hard to find in the US, and used ones run $40 to $50. A new Maxi is $355.99 at CaveGamers, so it's still pricey. For tips, see my [ten TheC64 tips](/ten-thec64-tips).
 2. **[Kung Fu Flash](https://link.amazon/B0bDHYEvP).** A cartridge that lets you run Commodore 64 software from an SD card. Plug it into the cartridge port, reboot, and there you go. It's £28.99 to £34.99 from The Future Was 8 bit, which is also where I get the Epyx FastLoad.
 3. **Tank Mouse.** If you want a modern re-creation of the Amiga tank mouse, check out the [Tank Mouse](https://tank-mouse.com/). It has USB, a USB-to-9-pin adapter, and Bluetooth. Between the two buttons you can scroll on a modern computer like a Mac. It was about $63 in 2023. It's now sold out at tank-mouse.com (listed at €46). Sordan lists it at €39.99, so check stock before you plan on it.
 4. **[Wimaxit 8-inch monitor](https://link.amazon/B0gioeh1N).** It's a widescreen HD monitor, not 4:3, but it has composite, BNC, VGA, and HDMI inputs and a good stand, and it looks right next to an old computer. I use it in my studio with a Commodore and with my Apple IIc over composite. The current 8-inch model, the M818, is $82.99 at the Andycine store.
@@ -157,7 +157,7 @@ The video description also lists the **MEGA65** (from $700 in 2023; now $838.95 
 
 ## EXTRAS EVERY RETRO FAN NEEDS {#extras}
 
-Every retro computer fan needs SD cards and [USB sticks](https://amzn.to/466QDVw). Throw them in the stocking or under the tree. [HDMI cables](https://amzn.to/4c2vhM9) are always welcome too. See the links above.
+Every retro computer fan needs SD cards and [USB sticks](https://link.amazon/B05GEnTW6). Throw them in the stocking or under the tree. [HDMI cables](https://link.amazon/B0c7sAcRI) are always welcome too. See the links above.
 
 ## CONCLUSION {#conclusion}
 

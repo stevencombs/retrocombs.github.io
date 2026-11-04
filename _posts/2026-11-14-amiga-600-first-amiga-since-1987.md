@@ -158,7 +158,7 @@ Around the back you'll find:
 - External floppy drive port
 - Serial port
 - Parallel port
-- Left and right audio out, so I get stereo into my capture card
+- Left and right audio out, so I get stereo into my [capture card](https://amzn.to/4qAOn3A)
 - 23-pin RGB video out
 - Composite video out, which is what I use in the video
 - RF modulator out

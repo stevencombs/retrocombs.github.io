@@ -97,7 +97,7 @@ Title: _Transforming A Dirty Commodore 64C Into The Ultimate Retro Setup!_
 
 ## FIRST, DOES IT WORK? {#does-it-work}
 
-Before I cleaned anything, I wanted to know whether I had a working machine. The 64C arrived under a Sew Ready cover, and cosmetically it was in good shape. It just had a few spills, some dirt, and some grime.
+Before I cleaned anything, I wanted to know whether I had a working machine. The 64C arrived under a [Sew Ready cover](https://ebay.us/EFNZGp), and cosmetically it was in good shape. It just had a few spills, some dirt, and some grime.
 
 I powered it with the 64 Power from Bitbinders. Craig at Bitbinders sent it to me, so thank you, Craig. For video, I used my Wimaxit 10.1-inch monitor, which has all the connectors you need for retro computers, and a video cable with RCA plugs.
 

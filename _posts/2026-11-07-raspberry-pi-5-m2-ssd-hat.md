@@ -26,7 +26,7 @@ image:
 kind: how-to
 ---
 
-I have a Pi problem, and I mean that in a good way. I have Raspberry Pis all over the house, from an original Raspberry Pi 1 I found in a box to the [Pi 4](https://link.amazon/B0379LyFy) that runs my Stream Deck companion server. What I didn't have was a Pi 5 that booted from an SSD. So I opened a brand-new [Raspberry Pi 5](https://amzn.to/3VAq22x), added the active cooler and a Waveshare M.2 hat with a small NVMe drive, and got it booting without an SD card.
+I have a Pi problem, and I mean that in a good way. I have Raspberry Pis all over the house, from an original Raspberry Pi 1 I found in a box to the [Pi 4](https://link.amazon/B0379LyFy) that runs my [Stream Deck](https://amzn.to/47UsNOL) companion server. What I didn't have was a Pi 5 that booted from an SSD. So I opened a brand-new [Raspberry Pi 5](https://amzn.to/3VAq22x), added the active cooler and a Waveshare M.2 hat with a small NVMe drive, and got it booting without an SD card.
 
 This took two livestreams and more than four hours, troubleshooting included. The video cuts all that down to about 18 minutes of setup. This post is the text companion to that video. It lists the parts, walks through the steps in order, and points out the spots that tripped me up. Let's dig in!
 
@@ -132,7 +132,7 @@ With the standoffs and the active cooler in place, the hat goes on top and screw
 
 ## STEP 5: FIRST BOOT FROM THE SD CARD {#first-boot}
 
-I plugged in my 8BitDo keyboard, which has a switch to go from Bluetooth to 2.4G so I can share it between my Mac and the Pi, plus a cheap mouse, the SD card, the display, and power.
+I plugged in my [8BitDo keyboard](https://amzn.to/47U88dL), which has a switch to go from Bluetooth to 2.4G so I can share it between my Mac and the Pi, plus a cheap mouse, the SD card, the display, and power.
 
 The fan spun up, the first boot took a little time to set itself up, and the Pi connected to my Wi-Fi on its own thanks to the Imager settings. Chromium felt much quicker than on my Pi 4. One gotcha: my keyboard layout was set to Great Britain, so the @ symbol wasn't where I expected. I fixed that in the localization settings.
 

@@ -55,8 +55,8 @@ You pre-ordered [THEA1200](https://amzn.to/4oeSG1F) from Retro Games Ltd (RGL), 
 
 **Retro Games Ltd Computers**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
-- 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
 - 💻 Retro Games Ltd TheVIC20 (UK): <https://amzn.to/3CA7anp>
 - 💻 THEVIC20 at Retro Games Ltd: <https://retrogames.biz/products/thevic20/>
 - 💻 Retro Games Ltd TheA500 Mini: <https://amzn.to/3OVxJuD>
@@ -130,8 +130,8 @@ These are new-in-box prices I found on store listings as of November 1, 2026. Pr
 
 | Computer | RGL release | Price in the video | Price as of November 1, 2026 |
 | --- | --- | --- | --- |
-| [THEC64 Mini](https://link.amazon/B0bMuridd) | 2018 | Launched around $80; as low as $40 | $54.99 new (True Believers); about $40 to $50 used |
-| [THEC64 (Maxi)](https://amzn.to/3oN64kW) | 2019 | $120 to $140 | $355.99 new (CaveGamers) |
+| [THEC64 Mini](https://link.amazon/B019AnpPJ) | 2018 | Launched around $80; as low as $40 | $54.99 new (True Believers); about $40 to $50 used |
+| [THEC64 (Maxi)](https://link.amazon/B0i8BtTtm) | 2019 | $120 to $140 | $355.99 new (CaveGamers) |
 | [THEVIC20](https://amzn.to/3CA7anp) | 2020 | $120 to $140, hard to find | $204.99 (Rarewaves.com; power supply not included) |
 | [THEA500 Mini](https://amzn.to/3OVxJuD) | 2022 | $130 to $140 | $219.99 new (CaveGamers); $110 to $120 used (PayMore) |
 | [THE400 Mini](https://amzn.to/3Ju6xiH) | 2024 | Around $120 | $119.99 (atari.com, AtariAge) |
@@ -150,7 +150,7 @@ These are new-in-box prices I found on store listings as of November 1, 2026. Pr
 1. Plugging in a USB keyboard and booting to BASIC
 2. Hearing "Stay a while, stay forever!" from *Impossible Mission*
 3. Playing a modern homebrew like *Galencia*
-4. Loading your own games from a [USB stick](https://amzn.to/466QDVw)
+4. Loading your own games from a [USB stick](https://link.amazon/B05GEnTW6)
 5. Using save states to finally beat *Paradroid*
 
 It's readily available and the cheapest way into the RGL lineup.
@@ -253,9 +253,9 @@ If you're a modern C64 fan, this is the Mini to get. If you just want 1980s nost
 
 | If you are... | Get |
 | --- | --- |
-| A 1980s C64 nostalgia fan | [THEC64 Mini](https://link.amazon/B0bMuridd) |
+| A 1980s C64 nostalgia fan | [THEC64 Mini](https://link.amazon/B019AnpPJ) |
 | A modern C64 homebrew fan | [THEC64 Mini Black Edition](https://amzn.to/4p4zzsv) |
-| A Commodore fan who wants a full 8-bit keyboard | [THEC64 (Maxi)](https://amzn.to/3oN64kW), or [THEVIC20](https://amzn.to/3CA7anp) if you can find one |
+| A Commodore fan who wants a full 8-bit keyboard | [THEC64 (Maxi)](https://link.amazon/B0i8BtTtm), or [THEVIC20](https://amzn.to/3CA7anp) if you can find one |
 | A 16-bit Amiga fan | [THEA500 Mini](https://amzn.to/3OVxJuD), plus a [THEA1200 pre-order](https://amzn.to/4oeSG1F) |
 | An Atari fan | [THE400 Mini](https://amzn.to/3Ju6xiH) and a USB keyboard |
 | A British retro fan | [The Spectrum](https://link.amazon/B05ukTchg), plus [THEGAMEPAD](https://amzn.to/43H7iNu) for easier carousel navigation |

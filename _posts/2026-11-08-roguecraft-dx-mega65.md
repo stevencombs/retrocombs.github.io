@@ -72,7 +72,7 @@ This post is the text companion to my video. It covers the game's lineage, how i
 - 🕹️ Atari CX40+ Joystick: <https://amzn.to/479CFmD>
 - 🛜 Ethernet Network Cable: <https://amzn.to/4cEJyyB>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
-- 🚠 HDMI Cables: <https://amzn.to/4c2vhM9>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
 - 🔊 3.5mm Shielded Cables: <https://amzn.to/3VBsBPL>
 - 🔈 Edifier Speakers (BIG upgrade and I LOVE these things): <https://amzn.to/3vymO2G>
 - 🐁 Tank Mouse: <https://tank-mouse.com/>

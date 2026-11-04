@@ -72,7 +72,7 @@ This post is the text companion to my video. It covers unboxing, assembly, first
 - 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
 - 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
 - 🖱️ Retro Games Ltd TheMouse: <https://amzn.to/3PiJ1JM>
-- 💾 Retro Games Ltd USB Drive: <https://amzn.to/466QDVw>
+- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
@@ -158,7 +158,7 @@ One more thing: when you close the lid, nothing happens. The light stays on.
 
 ## COPYING A GAME WITH MIDNIGHT COMMANDER {#midnight-commander}
 
-I had my trusty C64 USB drive with me. Here's how I got a game onto the card:
+I had my trusty [C64 USB drive](https://link.amazon/B05GEnTW6) with me. Here's how I got a game onto the card:
 
 1. Plug in the USB drive. On the PiDOCK, it's a little awkward.
 2. Press **F10** to quit the emulator.

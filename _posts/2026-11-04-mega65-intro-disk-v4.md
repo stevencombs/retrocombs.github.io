@@ -81,7 +81,7 @@ This post is the text companion to my video. It covers what you need to run the 
 - 📺 Prison TVs on eBay: <https://ebay.us/jTv90O>
 - 🛜 Ethernet Network Cable: <https://amzn.to/4cEJyyB>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
-- 🚠 HDMI Cables: <https://amzn.to/4c2vhM9>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
 - 🔊 3.5mm Shielded Cables: <https://amzn.to/3VBsBPL>
 - 🔈 Edifier Speakers (BIG upgrade and I LOVE these things): <https://amzn.to/3vymO2G>
 - 🐁 Tank Mouse: <https://tank-mouse.com/>

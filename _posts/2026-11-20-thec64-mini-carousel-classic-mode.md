@@ -27,7 +27,7 @@ image:
 kind: how-to
 ---
 
-[THEC64 Mini](https://link.amazon/B0bMuridd) from Retro Games Ltd is a small Commodore 64 you can set on your desk, and I just love this device. It works for longtime Commodore fans like me (I've been around Commodore computers for almost 45 years) and for anyone new to the C64. This post is the text companion to my video. It walks through the Carousel, save states, the options menus, Classic Mode, firmware, and the USB drive features that open the door to far more software than the built-in games.
+[THEC64 Mini](https://link.amazon/B019AnpPJ) from Retro Games Ltd is a small Commodore 64 you can set on your desk, and I just love this device. It works for longtime Commodore fans like me (I've been around Commodore computers for almost 45 years) and for anyone new to the C64. This post is the text companion to my video. It walks through the Carousel, save states, the options menus, Classic Mode, firmware, and the USB drive features that open the door to far more software than the built-in games.
 
 ![THEC64 Mini next to a full-size Commodore 64](/images/posts/2026-11-20-thec64-mini-carousel-classic-mode.jpg)
 
@@ -55,12 +55,12 @@ kind: how-to
 
 **THEC64 Family and Accessories**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
-- 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
 - 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
 - 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
-- 💾 Retro Games Ltd USB Drive: <https://amzn.to/466QDVw>
-- 🚠 HDMI Cables: <https://amzn.to/4c2vhM9>
+- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
 
 **Related Posts**
 
@@ -87,7 +87,7 @@ As of 2026-11-20, no errata. If you spot something, let me know in the comments 
 
 ## MINI VS. MAXI {#mini-vs-maxi}
 
-The Mini earns its name. Next to a full-size Commodore 64 it barely fills the frame. Retro Games Ltd also makes a full-size [Maxi](https://amzn.to/3oN64kW) version. The C64 emulation is the same on both. The differences:
+The Mini earns its name. Next to a full-size Commodore 64 it barely fills the frame. Retro Games Ltd also makes a full-size [Maxi](https://link.amazon/B0i8BtTtm) version. The C64 emulation is the same on both. The differences:
 
 - The Maxi has a working keyboard.
 - The Maxi adds a VIC-20 emulator.
@@ -119,7 +119,7 @@ When a game asks you to press F1 for options, use the joystick's menu buttons to
 
 ## SAVE STATES {#save-states}
 
-From the in-game menu, choose save/load to save a state. You get up to four save states per game, so you can come back and retry that level. Save states work for the games on your [USB drive](https://amzn.to/466QDVw) too, not only the built-in ones.
+From the in-game menu, choose save/load to save a state. You get up to four save states per game, so you can come back and retry that level. Save states work for the games on your [USB drive](https://link.amazon/B05GEnTW6) too, not only the built-in ones.
 
 ## THE OPTIONS MENUS {#options}
 
@@ -177,7 +177,7 @@ Classic Mode adds more media access options, including a virtual cartridge slot.
 
 ## CONCLUSION {#conclusion}
 
-[THEC64 Mini](https://link.amazon/B0bMuridd) is a small, fun way into the Commodore 64 for beginners, and the USB drive features give experienced users disk, tape, and cartridge images, plus Classic Mode for BASIC programming. Update the firmware, grab a [USB drive](https://amzn.to/466QDVw), and add a USB keyboard if you plan to type. For more, check out my [ten TheC64 tips](/ten-thec64-tips).
+[THEC64 Mini](https://link.amazon/B019AnpPJ) is a small, fun way into the Commodore 64 for beginners, and the USB drive features give experienced users disk, tape, and cartridge images, plus Classic Mode for BASIC programming. Update the firmware, grab a [USB drive](https://link.amazon/B05GEnTW6), and add a USB keyboard if you plan to type. For more, check out my [ten TheC64 tips](/ten-thec64-tips).
 
 Are you a Carousel person or a Classic Mode person? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 

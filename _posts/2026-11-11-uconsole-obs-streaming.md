@@ -97,7 +97,7 @@ I tried two cameras:
 
 ## SETUP: A USB-C SURPRISE {#setup}
 
-I ran on wall power for the first test to be safe. I needed more USB ports, so I tried a USB-C hub in the USB-C port. It charged the uConsole, but my keyboard didn't work through it. That port was giving me power only. I switched to a powered hub on the USB 2.0 port, and the keyboard and trackpad came to life. I wanted the USB port for the Brio, but without enough ports, the camera went through the hub at first too.
+I ran on wall power for the first test to be safe. I needed more USB ports, so I tried a USB-C hub in the USB-C port. It charged the uConsole, but my keyboard didn't work through it. That port was giving me power only. I switched to a [powered hub](https://amzn.to/3JlryPK) on the USB 2.0 port, and the keyboard and trackpad came to life. I wanted the USB port for the Brio, but without enough ports, the camera went through the hub at first too.
 
 ## THE STREAM TESTS {#the-stream-tests}
 
