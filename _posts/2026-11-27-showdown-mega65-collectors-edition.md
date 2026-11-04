@@ -114,7 +114,7 @@ According to Poly.Play, the Collector's Edition includes:
 
 ![The 3.5-inch floppy disk in the Showdown box](/images/posts/2026-11-27-showdown-mega65-collectors-edition-2.jpg)
 
-There's also an old-fashioned registration card. I said I'd fill out the one from Hibernated and send it in, and I didn't. I don't want to mess this one up either. In the video, I said I kind of wanted it to be part of the package, so I'd see if there's a way to register online.
+There's also an old-fashioned registration card. I said I'd fill out the one from Hibernated and send it in, and I didn't. I don't want to mess this one up either. In the video, I said I kind of wanted it to be part of the package, so I'd see if there was a way to register online.
 
 When I checked on Nov 3, 2026, Poly.Play listed the Collector's Edition at €30, including VAT, and available immediately. Check the [Poly.Play page](https://www.polyplay.xyz/Showdown-Collectors-Edition-MEGA65_1) for the current price and stock.
 
