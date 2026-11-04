@@ -83,7 +83,7 @@ The holidays are upon us again. If someone in your family loves retro computers,
 
 **Extras**
 
-- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
+- 💾 USB drive: <https://link.amazon/B05GEnTW6>
 - 💾 microSD cards: <https://amzn.to/3IYL3Kn>
 - 🚠 HDMI cables: <https://link.amazon/B0c7sAcRI>
 

@@ -70,7 +70,7 @@ This post is the text companion to my video. It covers unboxing, assembly, first
 - 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
 - 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
 - 🖱️ Retro Games Ltd TheMouse: <https://amzn.to/3PiJ1JM>
-- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
+- 💾 USB drive: <https://link.amazon/B05GEnTW6>
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
