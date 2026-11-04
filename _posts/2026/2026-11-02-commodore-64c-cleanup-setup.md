@@ -27,7 +27,7 @@ image:
 kind: bench
 ---
 
-Mr. Landfield, one of my supporters, handed me a dirty Commodore 64C at Vintage Computer Festival Midwest. I'd never done one of these videos before: take a dirty computer, clean it up, and put it back to work. After a journey of several months, I finally tore it down, cleaned it inside and out, and turned it into the C64 setup I'm now using as my Commodore test bed.
+MrLandfield, one of my supporters, handed me a dirty Commodore 64C at Vintage Computer Festival Midwest. I'd never done one of these videos before: take a dirty computer, clean it up, and put it back to work. After a journey of several months, I finally tore it down, cleaned it inside and out, and turned it into the C64 setup I'm now using as my Commodore test bed.
 
 This post is the text companion to that video. It follows the job in the order I did it, lists the tools and gear I used, and shows how I ended up with four drives on a single 64C. Let's dig in!
 
@@ -202,7 +202,7 @@ Here's the surprise. I set the Ultimate II+ virtual drives to 8 and 9, the top B
 
 ## CONCLUSION {#conclusion}
 
-Thanks again to Mr. Landfield. This 64C went from dirty and grimy to my Commodore test bed. Whenever I find a new modern device or want to load an old game or application, this is where I'll try it first.
+Thanks again to MrLandfield. This 64C went from dirty and grimy to my Commodore test bed. Whenever I find a new modern device or want to load an old game or application, this is where I'll try it first.
 
 What are your favorite C64 accessories? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
