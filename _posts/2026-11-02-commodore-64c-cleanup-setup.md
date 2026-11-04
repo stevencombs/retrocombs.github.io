@@ -73,7 +73,7 @@ This post is the text companion to that video. It follows the job in the order I
 ### Gear I Used {#gear-i-used}
 
 - 📀 ClonerAlliance ViewLite AV: <https://amzn.to/4gvGU14>
-- 🖥️ Eyoyo 8-inch 4:3 monitor (a close substitute; the 14"/15" Eyoyo I used is no longer sold): <https://link.amazon/B0jbplQQx>
+- 🖥️ Eyoyo 8-inch 4:3 monitor (a smaller substitute with the same 4:3 shape; the Eyoyo I used is no longer sold): <https://link.amazon/B0jbplQQx>
 - 👚 Sew Ready Covers (tell Maggie retroCombs sent you!): <https://ebay.us/EFNZGp>
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
@@ -182,7 +182,7 @@ For the first test, I used my Competition Pro joystick, which stays with this ma
 
 ### A Bigger Monitor {#a-bigger-monitor}
 
-The Wimaxit is too small for a permanent setup, so I moved to an Eyoyo 4:3 monitor with a 1024 x 768 resolution and a remote. It has built-in sound, and the remote makes color, picture, and sound changes easy. I wish it were an IPS display. The viewing angles from the sides are tough, but when you sit right in front of a Commodore 64, the image is very good. That Eyoyo monitor is no longer sold; the [Eyoyo 8-inch 4:3 monitor](https://link.amazon/B0jbplQQx) is a close substitute.
+The Wimaxit is too small for a permanent setup, so I moved to an Eyoyo 4:3 monitor with a 1024 x 768 resolution and a remote. It has built-in sound, and the remote makes color, picture, and sound changes easy. I wish it were an IPS display. The viewing angles from the sides are tough, but when you sit right in front of a Commodore 64, the image is very good. That Eyoyo monitor is no longer sold. The [Eyoyo 8-inch 4:3 monitor](https://link.amazon/B0jbplQQx) is smaller, but it has the same 4:3 shape.
 
 ### Bitbinders Dual 1581 {#bitbinders-dual-1581}
 

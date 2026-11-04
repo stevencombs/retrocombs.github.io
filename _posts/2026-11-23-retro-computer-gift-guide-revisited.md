@@ -80,7 +80,7 @@ The holidays are upon us again. If someone in your family loves retro computers,
 - 💻 Retro Games Ltd TheA500 Mini: <https://amzn.to/3OVxJuD>
 - 💾 Ultimate II+: <https://ultimate64.com>
 - 🧱 LEGO Icons Atari 2600 (10306)
-- 💻 Book 8088 laptop (no longer sold). A similar option, a vintage-style MS-DOS 8086 mini PC: <https://link.amazon/B0iR7491H>
+- 💻 Book 8088 laptop (no longer sold). A similar option is a vintage-style MS-DOS 8086 mini PC (a small desktop, not a laptop): <https://link.amazon/B0iR7491H>
 - 💻 MEGA65 (Trenz Electronic): <https://shop.trenz-electronic.de/en/Products/MEGA65>
 
 **Extras**
@@ -151,7 +151,7 @@ Your stocking stuffing may vary.
 9. **[TheA500 Mini](https://amzn.to/3OVxJuD).** For the 16-bit fan. A tiny re-creation of the Amiga 500. It has no real keyboard, like TheC64 Mini, and plays built-in Amiga 500 games plus more from a USB stick. It was $80 to $130 in 2023. New ones are around $220 now, and used ones are about $110 to $120. See my [unboxing](/unbox-thea500mini).
 10. **Ultimate II+.** I fell in love with this one. It plugs into a Commodore 64 (it works on my 128 too) and basically replaces two 1541 drives with USB drives, and it recreates the drive sounds as it loads. It also adds network connectivity and a whole host of other features. The current version is the Ultimate-II+L, €147.95 at ultimate64.com (on back order when I checked).
 11. **LEGO Atari 2600 building set.** There's no computing in this one. It's a LEGO re-creation of the Atari 2600 that just sits there and looks cool, or in my case sits in its box, because I still haven't built mine. LEGO retired it at the end of 2024 (it was $239.99), so you'll find it on resale listings now, about $260 to $310 sealed.
-12. **A Retro 8088 XT laptop.** One I don't have. It's basically an IBM XT clone, and from what I've heard the LCD screen isn't great. I want one and I don't know why. It was about $230 in 2023. Used ones sell for around $135, if you're shopping for your friend retroCombs. The Book 8088 is no longer sold; a similar option today is this [vintage-style MS-DOS 8086 mini PC](https://link.amazon/B0iR7491H).
+12. **A Retro 8088 XT laptop.** One I don't have. It's basically an IBM XT clone, and from what I've heard the LCD screen isn't great. I want one and I don't know why. It was about $230 in 2023. Used ones sell for around $135, if you're shopping for your friend retroCombs. The Book 8088 is no longer sold. A similar option today is this [vintage-style MS-DOS 8086 mini PC](https://link.amazon/B0iR7491H), though it's a small desktop, not a laptop.
 
 The video description also lists the **MEGA65** (from $700 in 2023; now $838.95 from Trenz Electronic). It's the big one. If you're curious, start with my [MEGA65 User's Guide series](/mega65-users-guide).
 
