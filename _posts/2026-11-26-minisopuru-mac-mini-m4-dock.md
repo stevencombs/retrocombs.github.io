@@ -29,7 +29,7 @@ image:
 kind: review
 ---
 
-Sometimes things happen for a reason. I recently bought a [Mac mini M4](https://amzn.to/4bnPdZO), and as I used it, I noticed some limits. It doesn't have as many ports as the M2 Mac mini I owned before. Right about then, Minisopuru reached out and asked if I'd take a look at its new stand hub for the 2024 Mac mini M4 and M4 Pro. I said absolutely, and on top of more ports, it has a slot for an NVMe SSD inside. So I added 2TB to my Mac mini for less than Apple charges for a storage upgrade.
+Sometimes things happen for a reason. I recently bought a [Mac mini M4](https://amzn.to/4bnPdZO), and as I used it, I noticed some limits. It doesn't have as many ports as the M2 Mac mini I owned before. Right about then, Minisopuru reached out and asked if I'd take a look at its new [stand hub, the iExpandMate MINI4PRO,](https://amzn.to/43j6Sjw) for the 2024 Mac mini M4 and M4 Pro. I said absolutely, and on top of more ports, it has a slot for an NVMe SSD inside. So I added 2TB to my Mac mini for less than Apple charges for a storage upgrade.
 
 {% include review-channel.html channel="tech" %}
 
@@ -62,6 +62,8 @@ This post is the text companion to my video on retroCombs Tech (@retroCombs-tech
 **Mac mini Accessories**
 
 - 🖥️ Apple Mac mini M4: <https://amzn.to/4bnPdZO>
+- 🧩 Minisopuru iExpandMate MINI4PRO dock: <https://amzn.to/43j6Sjw>
+- 💽 PNY 2TB NVMe SSD (2280): <https://amzn.to/3Xn5Q20>
 - 🚠 HDMI Cables: <https://amzn.to/4c2vhM9>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
 
@@ -129,7 +131,7 @@ The Mac mini fits right in the top of the dock and doesn't slide back and forth.
 
 ## INSTALL AN SSD IN THE DOCK {#install-an-ssd}
 
-The dock accepts an M.2 NVMe SSD in 2230, 2242, 2260, or 2280 sizes. It does not support SATA M.2 drives. I used a PNY 2TB NVMe SSD in the full-length 2280 size. It was less than $100 on Amazon when I bought it.
+The dock accepts an M.2 NVMe SSD in 2230, 2242, 2260, or 2280 sizes. It does not support SATA M.2 drives. I used a [PNY 2TB NVMe SSD](https://amzn.to/3Xn5Q20) in the full-length 2280 size. It was less than $100 on Amazon when I bought it.
 
 1. **Remove the bottom cover** with the included screwdriver.
 2. **Find the right standoff position** for your SSD size. The adapters let you mount shorter drives.
