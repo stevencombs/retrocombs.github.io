@@ -175,7 +175,7 @@ The MechDIY list of games and emulators is a good start, and it shows off what t
 
 This is where the Brick shines for me:
 
-- **Atari 2600:** Gameplay is perfect. The games are a little tiny on the screen, but they look really good. What you miss is a real joystick. Steering Pac-Man with your thumb isn't the same as an [Atari CX40+ Joystick](https://amzn.to/479CFmD). I'll feature the CX40+ wireless joystick in a future video.
+- **Atari 2600:** Gameplay is perfect. The games are a little tiny on the screen, but they look really good. What you miss is a real joystick. Steering Pac-Man with your thumb isn't the same as an [Atari CX40+ Joystick](https://amzn.to/479CFmD). In the video, I said I'd feature the CX40+ wireless joystick in a future video.
 - **Atari 5200, Atari 7800, and Atari 800:** The 2600 follow-ups, with better visuals and sound, plus Atari 8-bit computer games.
 - **Commodore 64:** My favorite. There are quite a few great titles, and it's ripe for you to add your own.
 - **ZX Spectrum:** A great addition.
@@ -185,7 +185,7 @@ This is where the Brick shines for me:
 
 There are modern systems too. I'll leave those to other YouTubers. Just know the limits. Without analog sticks, I couldn't make selections in some PlayStation Portable games. PlayStation 1 games were difficult, and PSP games were impossible. Stick to 8-bit and 16-bit games that don't need analog controls. If you want the more advanced systems, look at the [TrimUI Smart Pro](/trimui-smart-pro-review).
 
-One notable miss: the Commodore VIC-20. It may be possible to set up. I'll try dropping some VIC-20 games on the card to see if that activates the emulator. It may also need a BIOS file.
+One notable miss: the Commodore VIC-20. It may be possible to set up. In the video, I said I'd try dropping some VIC-20 games on the card to see if that activates the emulator. It may also need a BIOS file.
 
 ## SURPRISE: STREAMING TV {#streaming-tv}
 
@@ -193,13 +193,13 @@ Not 8-bit, but very interesting. There's an area called Videos, and inside it is
 
 ![The Videos, TV English menu on the TrimUI Brick with Bloomberg and CBS News](/images/posts/2026-11-24-trimui-brick-first-look-4.jpg)
 
-I'm sure each channel is a standard file with a stream URL. Next, I'll connect to my computer and see what other stations I can add.
+I'm sure each channel is a standard file with a stream URL. In the video, I said next I'd connect to my computer and see what other stations I can add.
 
 ## MY FIRST IMPRESSIONS {#first-impressions}
 
 I'm enjoying the form factor more than I thought I would. My hands usually cramp when they're brought together like this, but it hasn't been a problem. I still prefer a wider handheld, but as a pocket device, the Brick is a lot of fun. It's solid, the screen is great, sleep mode works, and CrossMix OS makes it plug and play. If you mostly play 8-bit and 16-bit games, this is a great fit. If you want PS1 and PSP, get something with analog sticks.
 
-I'm thinking about a Brick vs. Smart Pro comparison video. Why might you choose one over the other? Let me know if you want to see it.
+In the video, I said I was thinking about a Brick vs. Smart Pro comparison video. Why might you choose one over the other? Let me know if you want to see it.
 
 ## CONCLUSION {#conclusion}
 
