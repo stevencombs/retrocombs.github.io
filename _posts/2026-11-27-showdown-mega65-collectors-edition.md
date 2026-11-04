@@ -114,7 +114,7 @@ According to Poly.Play, the Collector's Edition includes:
 
 ![The 3.5-inch floppy disk in the Showdown box](/images/posts/2026-11-27-showdown-mega65-collectors-edition-2.jpg)
 
-There's also an old-fashioned registration card. I said I'd fill out the one from Hibernated and send it in, and I didn't. I don't want to mess this one up either. I kind of want it to be part of the package, so I'll see if there's a way to register online.
+There's also an old-fashioned registration card. I said I'd fill out the one from Hibernated and send it in, and I didn't. I don't want to mess this one up either. In the video, I said I kind of wanted it to be part of the package, so I'd see if there was a way to register online.
 
 When I checked on Nov 3, 2026, Poly.Play listed the Collector's Edition at €30, including VAT, and available immediately. Check the [Poly.Play page](https://www.polyplay.xyz/Showdown-Collectors-Edition-MEGA65_1) for the current price and stock.
 
@@ -131,7 +131,7 @@ Here's how to fix it:
 > **Tip:** Don't overwrite the original floppy in your box copy. Keep it as a collectible, and write the updated image to a blank disk. Need blanks? Here are some [floppy disks](https://amzn.to/3DrEOj1) to start with.
 {: .tip}
 
-> **Note:** I haven't confirmed whether later boxed copies ship with the fixed floppy. If yours doesn't load or acts strange, use the updated disk image.
+> **Note:** Later boxed copies ship with the fixed v1.4 floppy. If yours doesn't load or acts strange, use the updated disk image.
 {: .note}
 
 ## HOW TO PLAY {#how-to-play}
