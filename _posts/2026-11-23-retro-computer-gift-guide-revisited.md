@@ -65,7 +65,7 @@ The holidays are upon us again. If someone in your family loves retro computers,
 
 **Under the Tree**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://amzn.to/44opkqo>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B0bMuridd>
 - 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
 - 🥧 Raspberry Pi 5 8GB: <https://amzn.to/3VAq22x>
 - 💾 Kung Fu Flash (The Future Was 8 bit): <https://www.tfw8b.com/product/kung-fu-flash/>
