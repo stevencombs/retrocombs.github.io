@@ -28,7 +28,7 @@ image:
 kind: review
 ---
 
-Here's the retro truth: the TrimUI Smart Pro is a fantastic handheld for anyone who loves 8-bit home computers and retro gaming in general, but also likes to dabble in some modern games. When I made the video in October 2024, it sold for about $100. And with 8-bit home computers like the Commodore 64, ZX Spectrum, Amstrad CPC, and Atari 8-bit, you get gameplay you can't get on other handhelds.
+Here's the retro truth: the TrimUI Smart Pro (available from [MechDIY's TrimUI store](https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy)) is a fantastic handheld for anyone who loves 8-bit home computers and retro gaming in general, but also likes to dabble in some modern games. When I made the video in October 2024, it sold for about $100. And with 8-bit home computers like the Commodore 64, ZX Spectrum, Amstrad CPC, and Atari 8-bit, you get gameplay you can't get on other handhelds.
 
 MechDIY provided this unit to the channel for free. Thank you! I'm under no obligation, they didn't ask me to say anything in particular, and these thoughts are my own.
 
@@ -68,6 +68,7 @@ This post is the text companion to my video. It covers what's in the box, the de
 **Handheld Accessories**
 
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
+- 🎮 TrimUI Smart Pro and carrying case: [MechDIY's TrimUI store](https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy) (code RETROCOMBS16 for 15% off)
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
@@ -88,7 +89,7 @@ Title: _🎮️ The RETRO Truth About TrimUI Smart Pro Handheld Console!_
 - **Weight (~1:30):** I say it weighs about 220 grams. TrimUI's spec sheet lists about 231 grams.
 - **Speakers (~2:40):** I say about 1.5 watts each. TrimUI lists the speakers at 1 watt each.
 - **Where CrossMix OS came from (~3:25):** I say CrossMix OS was originally developed for Surwish devices. CrossMix OS is an open-source project by cizia64, built for the TrimUI Smart Pro. Surwish is a seller that ships its own CrossMix build on preloaded cards.
-- **Discount code (~0:20 and ~14:30):** The code in the video and the codes in the video description don't match, and I couldn't confirm any of them still works, so I've left them out of this post.
+- **Discount code (~0:20 and ~14:30):** The code in the video and the codes in the video description don't match. The current code is in the [LINKS](#links) section.
 
 ## WHAT'S IN THE BOX {#whats-in-the-box}
 
