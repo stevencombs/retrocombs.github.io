@@ -194,6 +194,6 @@ I didn't connect the drive to a computer in this video. In the video I mention t
 
 The BitBinders 1581DV is a well-built, hand-assembled dual 1581, a drive Commodore never made, and the 64Power is a practical upgrade for any C64 owner. Thank you again to Craig Smith at BitBinders for sending these over. He didn't have to, and I know it's a significant outlay for a growing business. Support the people making new hardware for our hobby.
 
-Would you use a dual 1581, or do you stick with a 1541 and an SD2IEC? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
+Would you use a dual 1581, or do you stick with a 1541 and an [SD2IEC](https://link.amazon/B0i3pxXnb)? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
 That's it for me, folks. 🕹️ retroCombs, OUT!

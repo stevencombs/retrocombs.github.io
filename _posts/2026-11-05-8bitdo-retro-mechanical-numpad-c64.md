@@ -27,7 +27,7 @@ image:
 kind: first-look
 ---
 
-You may remember how much I enjoyed the [8BitDo Retro Mechanical Keyboard C64 Edition](/8bitdo-retro-mechanical-keyboard-c64) and its blend of modern features with the look of our beloved Commodore 64. Now it has a matching sibling: the 8BitDo Retro 18 Mechanical Numpad, in the same C64 color scheme. It's more than an add-on number pad. It's also a calculator with a red LED display.
+You may remember how much I enjoyed the [8BitDo Retro Mechanical Keyboard C64 Edition](https://amzn.to/47U88dL) and its blend of modern features with the look of our beloved Commodore 64. Now it has a matching sibling: the [8BitDo Retro 18 Mechanical Numpad](https://link.amazon/B0aVIrrZj), in the same C64 color scheme. It's more than an add-on number pad. It's also a calculator with a red LED display.
 
 This post is the text companion to my video on retroCombs Tech (@retroCombs-tech). It covers what's in the box, the build, the connection options, the calculator, every control on top, and a few tips for Mac and VICE users. Let's dig in!
 
@@ -54,6 +54,7 @@ This post is the text companion to my video on retroCombs Tech (@retroCombs-tech
 ## LINKS {#links}
 
 - ⌨️ 8BitDo Retro Mechanical Keyboard C64 Edition: <https://amzn.to/47U88dL>
+- 🔢 8BitDo Retro 18 Mechanical Numpad (C64 colors): <https://link.amazon/B0aVIrrZj>
 - ⌨️ My keyboard post: [8BitDo Retro Mechanical Keyboard C64 Edition](/8bitdo-retro-mechanical-keyboard-c64) (video: <https://youtu.be/a8bsIpTdP1o>)
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*

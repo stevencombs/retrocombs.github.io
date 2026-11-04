@@ -58,6 +58,8 @@ This post is the text companion to that video. It covers the fresh install, how 
 - 📺 My uConsole unboxing and assembly video: <https://youtu.be/pNG8KqZs_Fg>
 - 📺 My Clockwork DevTerm video: <https://youtu.be/I7StErCRl1Q>
 
+*Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
+
 ## SUPPORT THE BLOG AND CHANNEL {#support-the-blog-and-channel}
 
 Check out the [supporters page](/supporters) to learn about my supporters and how you can join our community. If this post saved you some time, you can also [leave a tip](https://paypal.me/stevencombs).
@@ -78,7 +80,7 @@ Title: _Can You Stream on the Clockwork uConsole? OBS Studio Goes Handheld!_
 
 ## A FRESH INSTALL {#a-fresh-install}
 
-I'd been tinkering with my uConsole a lot, and I didn't want anything weird in the OS getting in the way of OBS. So I started clean. Clockwork posts the image files on its [uConsole GitHub repo](https://github.com/clockworkpi/uConsole). My uConsole has the Raspberry Pi Compute Module 4, so I grabbed the image for that model and flashed it to an SD card with Etcher.
+I'd been tinkering with my uConsole a lot, and I didn't want anything weird in the OS getting in the way of OBS. So I started clean. Clockwork posts the image files on its [uConsole GitHub repo](https://github.com/clockworkpi/uConsole). My uConsole has the Raspberry Pi Compute Module 4, so I grabbed the image for that model and flashed it to an [SD card](https://amzn.to/3IYL3Kn) with Etcher.
 
 ## THE SECRET SAUCE: PI-APPS {#pi-apps}
 
@@ -95,7 +97,7 @@ I tried two cameras:
 
 ## SETUP: A USB-C SURPRISE {#setup}
 
-I ran on wall power for the first test to be safe. I needed more USB ports, so I tried a USB-C hub in the USB-C port. It charged the uConsole, but my keyboard didn't work through it. That port was giving me power only. I switched to a powered hub on the USB 2.0 port, and the keyboard and trackpad came to life. I wanted the USB port for the Brio, but without enough ports, the camera went through the hub at first too.
+I ran on wall power for the first test to be safe. I needed more USB ports, so I tried a USB-C hub in the USB-C port. It charged the uConsole, but my keyboard didn't work through it. That port was giving me power only. I switched to a [powered hub](https://amzn.to/3JlryPK) on the USB 2.0 port, and the keyboard and trackpad came to life. I wanted the USB port for the Brio, but without enough ports, the camera went through the hub at first too.
 
 ## THE STREAM TESTS {#the-stream-tests}
 

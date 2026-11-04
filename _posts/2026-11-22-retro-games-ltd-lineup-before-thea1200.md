@@ -26,7 +26,7 @@ image:
 kind: review
 ---
 
-You pre-ordered THEA1200 from Retro Games Ltd (RGL), and now you're waiting. That doesn't mean you're out of options for yourself or the retro computer fan on your gift list. I've bought almost every RGL computer, so in this post, the companion to my video, I go through the lineup in the order RGL released it. For each one, I match it to the original computer, share my five favorite experiences, and list what it costs today.
+You pre-ordered [THEA1200](https://amzn.to/4oeSG1F) from Retro Games Ltd (RGL), and now you're waiting. That doesn't mean you're out of options for yourself or the retro computer fan on your gift list. I've bought almost every RGL computer, so in this post, the companion to my video, I go through the lineup in the order RGL released it. For each one, I match it to the original computer, share my five favorite experiences, and list what it costs today.
 
 ![The Retro Games Ltd lineup of mini and full-size retro computers with the text Buy retro now!](/images/posts/2026-11-22-retro-games-ltd-lineup-before-thea1200.jpg)
 
@@ -55,13 +55,15 @@ You pre-ordered THEA1200 from Retro Games Ltd (RGL), and now you're waiting. Tha
 
 **Retro Games Ltd Computers**
 
-- 💻 Retro Games Ltd TheC64 Mini: <https://amzn.to/44opkqo>
-- 💻 Retro Games Ltd TheC64 Maxi: <https://amzn.to/3oN64kW>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
 - 💻 Retro Games Ltd TheVIC20 (UK): <https://amzn.to/3CA7anp>
 - 💻 THEVIC20 at Retro Games Ltd: <https://retrogames.biz/products/thevic20/>
 - 💻 Retro Games Ltd TheA500 Mini: <https://amzn.to/3OVxJuD>
 - 💻 Retro Games Ltd The Atari 400 Mini: <https://amzn.to/3Ju6xiH>
 - 💻 The Spectrum at Retro Games Ltd: <https://retrogames.biz/products/thespectrum/>
+- 💻 Retro Games Ltd TheSpectrum: <https://link.amazon/B05ukTchg>
+- 🤍 Retro Games Ltd TheSpectrum White Edition: <https://link.amazon/B0e3Pz7Cr>
 - 💻 Retro Games Ltd THEC64 Mini Black: <https://amzn.to/4p4zzsv>
 - 🅰️ Retro Games Ltd A1200 (US preorder): <https://amzn.to/4oeSG1F>
 - 🅰️ THEA1200 at Retro Games Ltd: <https://retrogames.biz/products/thea1200/>
@@ -109,7 +111,7 @@ As of 2026-11-22:
 - **VIC-20 dates.** I said the VIC-20 was from the 1970s. It launched in Japan in 1980 as the VIC-1001 and in the US and Europe in 1981. Commodore discontinued it in January 1985. It was the first computer of any kind to sell one million units.
 - **A1200 bits.** I called THEA1200 "the full 16-bit experience." The original A1200 has a 32-bit Motorola 68EC020 processor, a step up from the 16-bit-era A500.
 - **Spectrum game name.** The game I called "Fantas" is *Phantis (Game Over II)*.
-- **Prices.** The prices I quoted in the video have changed. The Black Edition, which I said was around $120, now costs less. See the [price table](#prices).
+- **Prices.** The prices I quoted in the video have changed. The [Black Edition](https://amzn.to/4p4zzsv), which I said was around $120, now costs less. See the [price table](#prices).
 
 ## THEA1200 STATUS UPDATE {#thea1200}
 
@@ -128,12 +130,12 @@ These are new-in-box prices I found on store listings as of November 1, 2026. Pr
 
 | Computer | RGL release | Price in the video | Price as of November 1, 2026 |
 | --- | --- | --- | --- |
-| THEC64 Mini | 2018 | Launched around $80; as low as $40 | $54.99 new (True Believers); about $40 to $50 used |
-| THEC64 (Maxi) | 2019 | $120 to $140 | $355.99 new (CaveGamers) |
-| THEVIC20 | 2020 | $120 to $140, hard to find | $204.99 (Rarewaves.com; power supply not included) |
-| THEA500 Mini | 2022 | $130 to $140 | $219.99 new (CaveGamers); $110 to $120 used (PayMore) |
-| THE400 Mini | 2024 | Around $120 | $119.99 (atari.com, AtariAge) |
-| The Spectrum | 2024 | $120 to $140 | $104.99 plus shipping (Play-Asia) |
+| [THEC64 Mini](https://link.amazon/B019AnpPJ) | 2018 | Launched around $80; as low as $40 | $54.99 new (True Believers); about $40 to $50 used |
+| [THEC64 (Maxi)](https://link.amazon/B0i8BtTtm) | 2019 | $120 to $140 | $355.99 new (CaveGamers) |
+| [THEVIC20](https://amzn.to/3CA7anp) | 2020 | $120 to $140, hard to find | $204.99 (Rarewaves.com; power supply not included) |
+| [THEA500 Mini](https://amzn.to/3OVxJuD) | 2022 | $130 to $140 | $219.99 new (CaveGamers); $110 to $120 used (PayMore) |
+| [THE400 Mini](https://amzn.to/3Ju6xiH) | 2024 | Around $120 | $119.99 (atari.com, AtariAge) |
+| [The Spectrum](https://link.amazon/B05ukTchg) | 2024 | $120 to $140 | $104.99 plus shipping (Play-Asia) |
 | THEC64 Mini Black Edition | 2025 | Around $120 | $79.99 (Rarewaves.com) |
 | THEA1200 | Pre-order | Not yet released | See the [status update](#thea1200) |
 
@@ -148,7 +150,7 @@ These are new-in-box prices I found on store listings as of November 1, 2026. Pr
 1. Plugging in a USB keyboard and booting to BASIC
 2. Hearing "Stay a while, stay forever!" from *Impossible Mission*
 3. Playing a modern homebrew like *Galencia*
-4. Loading your own games from a USB stick
+4. Loading your own games from a [USB stick](https://link.amazon/B05GEnTW6)
 5. Using save states to finally beat *Paradroid*
 
 It's readily available and the cheapest way into the RGL lineup.
@@ -189,12 +191,12 @@ It's for the true connoisseur, and it's hard to find. If your gift recipient eve
 
 **The original.** The Amiga 500 launched in 1987 and was light-years ahead of anything else on the market. The 500 series sold until about 1992.
 
-**The re-creation.** THEA500 Mini is a small-scale replica with a non-working keyboard, but it comes with two useful accessories: THEMOUSE, a replica of the Amiga tank mouse, and THEGAMEPAD. Both are also sold separately. It has 25 built-in Amiga games, and you can load your own over USB.
+**The re-creation.** THEA500 Mini is a small-scale replica with a non-working keyboard, but it comes with two useful accessories: [THEMOUSE](https://amzn.to/3PiJ1JM), a replica of the Amiga tank mouse, and [THEGAMEPAD](https://amzn.to/43H7iNu). Both are also sold separately. It has 25 built-in Amiga games, and you can load your own over USB.
 
 **My top five experiences:**
 
 1. Loading your Amiga library from a USB stick using ADF or WHDLoad files
-2. Using AMiNIMiga to get a full Workbench environment running
+2. Using [AMiNIMiga](https://www.amiga500mini.com/AMiNIMiga) to get a full Workbench environment running
 3. Using the clicky tank mouse replica
 4. Playing *Another World*
 5. Using save states to win a game of *Battle Chess*
@@ -205,7 +207,7 @@ My [A500 Mini unboxing post](/unbox-thea500mini) covers setup.
 
 **The original.** The Atari 400 sold from 1979 to 1983. It looked like a space-age typewriter and had an awful membrane keyboard, but it and its big brother, the 800, had a great game library.
 
-**The re-creation.** THE400 Mini is a half-scale model that emulates the 400 and the rest of the Atari 8-bit line, including the 800, XL, and XE. The keyboard is just for show, and that's fine here. It has 25 built-in games and comes with THECXSTICK, a re-creation of the Atari CX40 joystick with USB and extra buttons for the carousel. The joystick is the star of the show.
+**The re-creation.** THE400 Mini is a half-scale model that emulates the 400 and the rest of the Atari 8-bit line, including the 800, XL, and XE. The keyboard is just for show, and that's fine here. It has 25 built-in games and comes with [THECXSTICK](https://amzn.to/3UgLwgy), a re-creation of the Atari CX40 joystick with USB and extra buttons for the carousel. The joystick is the star of the show.
 
 **My top five experiences:**
 
@@ -231,7 +233,7 @@ I didn't grow up with the Spectrum, so my favorites might not be yours.
 4. Playing *Bobby Bearing*
 5. Playing *Phantis (Game Over II)*
 
-While I was recording, RGL announced a white collector's edition that pays tribute to the one millionth Spectrum. It comes with a matching white printer, a QuickShot II joystick, and a Microdrive-style USB stick. At the time, pre-orders were open only in Europe. As of November 1, 2026, I found White Edition listings from $151.99 to $178.
+While I was recording, RGL announced a [white collector's edition](https://link.amazon/B0e3Pz7Cr) that pays tribute to the one millionth Spectrum. It comes with a matching white printer, a QuickShot II joystick, and a Microdrive-style USB stick. At the time, pre-orders were open only in Europe. As of November 1, 2026, I found White Edition listings from $151.99 to $178.
 
 ## THEC64 MINI BLACK EDITION (2025) {#black-edition}
 
@@ -251,12 +253,12 @@ If you're a modern C64 fan, this is the Mini to get. If you just want 1980s nost
 
 | If you are... | Get |
 | --- | --- |
-| A 1980s C64 nostalgia fan | THEC64 Mini |
-| A modern C64 homebrew fan | THEC64 Mini Black Edition |
-| A Commodore fan who wants a full 8-bit keyboard | THEC64 (Maxi), or THEVIC20 if you can find one |
-| A 16-bit Amiga fan | THEA500 Mini, plus a THEA1200 pre-order |
-| An Atari fan | THE400 Mini and a USB keyboard |
-| A British retro fan | The Spectrum, plus THEGAMEPAD for easier carousel navigation |
+| A 1980s C64 nostalgia fan | [THEC64 Mini](https://link.amazon/B019AnpPJ) |
+| A modern C64 homebrew fan | [THEC64 Mini Black Edition](https://amzn.to/4p4zzsv) |
+| A Commodore fan who wants a full 8-bit keyboard | [THEC64 (Maxi)](https://link.amazon/B0i8BtTtm), or [THEVIC20](https://amzn.to/3CA7anp) if you can find one |
+| A 16-bit Amiga fan | [THEA500 Mini](https://amzn.to/3OVxJuD), plus a [THEA1200 pre-order](https://amzn.to/4oeSG1F) |
+| An Atari fan | [THE400 Mini](https://amzn.to/3Ju6xiH) and a USB keyboard |
+| A British retro fan | [The Spectrum](https://link.amazon/B05ukTchg), plus [THEGAMEPAD](https://amzn.to/43H7iNu) for easier carousel navigation |
 
 > **Tip:** These are also a low-cost way to try a computer you didn't own back in the day.
 {: .tip}
