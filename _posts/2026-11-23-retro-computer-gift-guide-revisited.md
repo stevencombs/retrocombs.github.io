@@ -55,7 +55,7 @@ The holidays are upon us again. If someone in your family loves retro computers,
 - ☕ retroCombs memberships: [supporters page](/supporters)
 - 👕 retroCombs shop: [retrocombs.com/shop](/shop)
 - 📰 ZZAP! 64 magazine (Fusion Retro Books): <https://fusionretrobooks.com/collections/zzap-64-magazine>
-- 🔌 8-Bit Classics cables: <https://www.8bitclassics.com/>
+- 🔌 8-Bit Classics (cables and parts store): <https://www.8bitclassics.com/?ref=2882>
 - 🥧 Raspberry Pi Pico: <https://www.raspberrypi.com/products/raspberry-pi-pico/>
 - 💾 Epyx FastLoad Reloaded (The Future Was 8 bit): <https://www.tfw8b.com/product/epyx-fastload-reloaded-disk-sd2iec-turbo-loader-cartridge-c64/>
 - 🕹️ Hyperkin Trooper Controller: <https://amzn.to/3l1CHXj>
@@ -125,7 +125,7 @@ Your stocking stuffing may vary.
 1. **A retroCombs membership.** Shameless self-promotion: you can support the channel by giving a membership to a loved one, or to yourself. Memberships started at $1 per month. See the [supporters page](/supporters).
 2. **The retroCombs shop.** Something you can actually shove in a stocking: logoed goodies you don't need but you want, at [the shop](/shop).
 3. **ZZAP! 64 magazine.** My European viewers know this one. Issues of ZZAP! 64 Micro Action are £4.99 each at Fusion Retro Books, or give a subscription and make them happy all year round.
-4. **Cables from 8-Bit Classics.** I learned about 8-Bit Classics at Vintage Computer Festival Midwest, where I bought some cables and thought, where have you been all my life? They're custom-built for retro computers: video cables, serial cables, and more. Cables are $11.99 to $13.99.
+4. **Cables from [8-Bit Classics](https://www.8bitclassics.com/?ref=2882).** I learned about 8-Bit Classics at Vintage Computer Festival Midwest, where I bought some cables and thought, where have you been all my life? They're custom-built for retro computers: video cables, serial cables, and more. Cables are $11.99 to $13.99.
 5. **Raspberry Pi Pico.** Not the Pi 5, hold that thought. The Pico can do some interesting retro things, like running a BBC Micro emulator. About $4 (PiShop.us lists it at $3.95).
 6. **Epyx FastLoad.** I couldn't live without this one. Plug it into the cartridge port of a Commodore 64 (or a Commodore 128 in 64 mode) and most of your software loads from a 1541 much faster. It's £18.99 from The Future Was 8 bit.
 7. **Hyperkin Trooper.** My joystick of choice for livestreams. It's based on the Atari CX40 design, with some variation, and it has the all-important 9-pin connector. About $15 to $20 at US game shops.
