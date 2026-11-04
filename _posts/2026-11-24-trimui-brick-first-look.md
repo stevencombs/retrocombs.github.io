@@ -28,7 +28,7 @@ image:
 kind: first-look
 ---
 
-The folks over at MechDIY sent me a new toy to play with. They sent me a brick. Yep, that's right, the TrimUI Brick. I'm not usually a fan of the Game Boy style, vertical form factor because it cramps my hands, so I didn't expect much. This little red handheld surprised me more than any handheld I've tried in a while.
+The folks over at MechDIY sent me a new toy to play with. They sent me a brick. Yep, that's right, the [TrimUI Brick](https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy). I'm not usually a fan of the Game Boy style, vertical form factor because it cramps my hands, so I didn't expect much. This little red handheld surprised me more than any handheld I've tried in a while.
 
 {% include review-channel.html channel="tech" %}
 
@@ -64,6 +64,7 @@ This post is the text companion to my video on retroCombs Tech (@retroCombs-tech
 
 - 🎮 My TrimUI Smart Pro review: [The RETRO Truth About the TrimUI Smart Pro](/trimui-smart-pro-review)
 - 💿 CrossMix OS (open source, by cizia64): <https://github.com/cizia64/CrossMix-OS>
+- 🧱 TrimUI Brick at MechDIY: <https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy> (the code RETROCOMBS16 takes 15% off)
 
 **Handheld Accessories**
 
