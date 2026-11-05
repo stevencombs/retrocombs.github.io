@@ -96,6 +96,7 @@ vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux me
 - 🛜 TP-Link Deco Mesh Wi-Fi: <https://link.amazon/B07RVoxIE>
 - 🛜 GL.iNet Slate 7 Travel Router: <https://link.amazon/B07jLMdOQ>
 - 🔌 3.5mm to RCA AV Cable: <https://amzn.to/4i3EHM4>
+- 💾 USB Flash Drive: <https://link.amazon/B0gCG6a06>
 
 *When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
@@ -231,7 +232,7 @@ Odd note: on that Sharp path the A/V settings screen showed a **31/12/2019** clo
 
 ## USB PLAYBACK: HEVC WORKS, AV1 DIDN'T {#usb-playback}
 
-Local media is the second half of this product after the built-in suite. I used my own USB stick.
+Local media is the second half of this product after the built-in suite. I used my own [USB stick](https://link.amazon/B0gCG6a06).
 
 - A **4K HEVC ~60 fps** sample played without a hitch.
 - A **1080p HEVC 10-bit** sample also played cleanly.
