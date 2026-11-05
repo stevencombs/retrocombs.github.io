@@ -128,8 +128,8 @@ This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.
 
 As of November 5, 2026 (same day as publish):
 
-1. **Ethernet misspoke (wins/misses close).** On camera I said the Ethernet "caps out at 100MB." The Speed Test result was about **94.5 Mbps down / 95 Mbps up**, which matches a **100 megabit** (10/100) port, not 100 megabytes. The official page lists RJ45 10M/100M. ([Official specs](https://vseeboxstream.com/products/vseebox-alpha1))
-2. **Boot race wording.** By my capture clock the α1 reached the home screen in roughly **15 seconds**. The V6 Max took much longer on the same power brick — on the order of the mid-40-second range in the shoot plan, so the α1 was roughly a third of that time. Treat the spoken "almost 5 seconds" for the V6 Max as a slip if you hear it that way; the useful takeaway is still "noticeably faster cold boot."
+1. **Ethernet misspoke (wins/misses close).** On camera I said the Ethernet "caps out at 100MB." The Speed Test result was about **94.5 Mbps down / 94.9 Mbps up**, which matches a **100 megabit** (10/100) port, not 100 megabytes. The official page lists RJ45 10M/100M. ([Official specs](https://vseeboxstream.com/products/vseebox-alpha1))
+2. **Boot race wording.** On camera I gave the V6 Max time as "almost 5 seconds." That was a slip. By my capture clock the α1 reached the home screen in roughly **15 seconds**, and the V6 Max took about three times as long. The takeaway stands: the α1 cold-boots noticeably faster.
 3. **"Linux" on the cardboard, not in System Information.** I say the box runs Linux. That claim is printed on the retail carton and the product page as **Linux 4.9**. The on-device System Information screen shows model, build time, and software version **1.00.14** — it does **not** print the OS name, RAM, storage, or SoC. ([Official page](https://vseeboxstream.com/products/vseebox-alpha1))
 4. **Vendor RAM/storage vs one teardown-style reading.** The product page lists **2GB DDR3** and **8GB eMMC**. An independent Aug 2026 hands-on (TORR3NT's Tech) estimated roughly **1 GB** RAM and **256 MB** flash from chip part numbers, and notes there is no terminal or diagnostics path on the locked launcher. I did not open my unit. Treat the page numbers as vendor claims and the chip reading as a second opinion, not as my measurement. ([Official page](https://vseeboxstream.com/products/vseebox-alpha1), [TORR3NT α1 review](https://torrentstech.com/reviews/vseebox-alpha1/))
 5. **AV1 and casting are firmware-dated.** Product marketing lists AV1 decode plus Miracast / DLNA / AirPlay. On **1.00.14** my two AV1 USB samples played **audio only**, and neither Miracast nor AirPlay found the box on my network. A later firmware may change that — check before you buy if those matter. ([Official page](https://vseeboxstream.com/products/vseebox-alpha1))
@@ -204,9 +204,9 @@ So if someone asks "what's inside?", the honest answer from the unit itself is: 
 
 ## NETWORK: ETHERNET AND 5 GHZ WI-FI {#network}
 
-![Built-in Speed Test on Ethernet showing about 94.5 Mbps down and 95 Mbps up](/images/posts/2026-11-05-vseebox-alpha1/ethernet-speed-test.jpg)
+![Built-in Speed Test on Ethernet showing about 94.5 Mbps down and 94.9 Mbps up](/images/posts/2026-11-05-vseebox-alpha1/ethernet-speed-test.jpg)
 
-Speed Test is built in. On a wired connection I saw about **94.53 Mbps down** and **94.91 Mbps up** to an Indianapolis server. That looks like a **100 Mbit** Ethernet port running at its ceiling. The official page lists **10M/100M** adaptive RJ45, not gigabit. For everyday streaming that is usually fine. For dragging large files across the LAN, that is your ceiling — and this box does not expose a general "send files to me" network share anyway.
+Speed Test is built in. On a wired connection I saw about **94.53 Mbps down** and **94.9 Mbps up** to an Indianapolis server. That looks like a **100 Mbit** Ethernet port running at its ceiling. The official page lists **10M/100M** adaptive RJ45, not gigabit. For everyday streaming that is usually fine. For dragging large files across the LAN, that is your ceiling — and this box does not expose a general "send files to me" network share anyway.
 
 Wi-Fi is listed as dual-band. I pointed the α1 at my **5 GHz** network and it connected. On 5 GHz the UI felt noticeably snappier. Subjective only; no Wi-Fi speed-test numbers in the video. Between Ethernet and 5 GHz you have workable options to get it online.
 
@@ -214,7 +214,7 @@ Wi-Fi is listed as dual-band. I pointed the α1 at my **5 GHz** network and it c
 
 This is where leaving Android TV OS should pay off. I unplugged the α1, counted to five, and plugged it back in. By my capture clock it was on the home screen in roughly **15 seconds**.
 
-Then I swapped in a V6 Max on the **same 5V supply**. The V6 Max took much longer — about three times the α1 on my count. If you hate waiting on a cold start, the α1 is faster than anything I have tried in this lineup.
+Then I swapped in a V6 Max on the **same 5V supply**. The V6 Max took much longer — about three times the α1 on my count. If you hate waiting on a cold start, the α1 beat the V6 Max easily in my test.
 
 ## 4K OUTPUT AND THE HDR MENU {#4k-and-hdr}
 
@@ -269,9 +269,6 @@ vSeeBox gave up flexibility to get there. For a lot of people, that is the right
 > **Tip:** Keep expectations honest on Ethernet: plan for **~100 Mbps**, not gigabit.
 {: .tip}
 
-> **Note:** Stay off touring the preloaded live / on-demand grids in demos and screenshots if you are posting publicly. Frame the α1 as a media player with a small built-in suite, USB local media, YouTube, networking, and hardware honesty.
-{: .note}
-
 ## BACKGROUND: WHAT "LINUX 4.9" MEANS HERE {#background-linux}
 
 "Linux" on a TV box is not "Ubuntu on your desk."
@@ -289,7 +286,7 @@ vSeeBox gave up flexibility to get there. For a lot of people, that is the right
 - Simple menus; six apps and done
 - Snappier feel on 5 GHz Wi-Fi
 - Front-panel channel number throwback
-- Cheapest vSeeBox in the current line (verify live pricing)
+- Lowest-priced vSeeBox I've tested ($319 list as of Nov 5, 2026)
 - 4K HEVC from USB that just works
 
 **Misses on my unit (1.00.14):**
@@ -323,3 +320,5 @@ Check the [current α1 price](https://vseeboxstream.com/products/vseebox-alpha1?
 The α1 is vSeeBox choosing simple over flexible. Linux 4.9 on the carton, six apps on the screen, no store, fast boot, honest limits on Ethernet, casting, and AV1 on the firmware I tested. If that sounds like the streamer you (or someone you buy for) actually wanted, the link is above. If you want to install apps next month, this is the wrong box.
 
 Would you miss Android TV OS, or do you know someone this appliance is perfect for? Tell me in the [comments below this post](#comments) — not on the YouTube page.
+
+That's it for me, retroCombs, out.
