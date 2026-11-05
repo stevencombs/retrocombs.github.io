@@ -28,17 +28,17 @@ image:
   height: 720
   alt: 'vSeeBox α1 retail box highlighting 4K Ultra HD, dual-band Wi-Fi, OTA updates, and Linux OS'
 kind: review
-rating: 3
+rating: 3.5
 ---
 
-vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux media player with six apps, no store, and a remote that still wants line of sight. I unboxed it, raced the cold boot against a V6 Max, checked wired and 5 GHz networking, played my own USB files, and tried casting. Here is what actually showed up on the tape.
+vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux media player with six apps, no store, and a remote that still wants line of sight. I unboxed it, raced the cold boot against a [V6 Max](https://vseeboxus.com/affiliate-program/sell-product?source_type=sales_plugin_af&slt=sales_plugin_af&productPage=1&referral_code=X973T43OZTN1), checked wired and 5 GHz networking, played my own USB files, and tried casting. Here is what actually showed up on the tape.
 
 ![vSeeBox α1 retail box highlighting 4K Ultra HD, dual-band Wi-Fi, OTA updates, and Linux OS](/images/posts/2026-11-05-vseebox-alpha1.jpg)
 
 *Full disclosure: vSeeBox provided this α1 free in exchange for an honest review. It was a product exchange with no payment, and vSeeBox did not see this post before it was published. Links in this post are affiliate links, so I may earn a commission if you buy through them. The official α1 link also includes an automatic $30 off at checkout (no code needed); verify the discount before you pay.*
 
 {% include review-box.html
-   score="3"
+   score="3.5"
    price="$319"
    where="at vseeboxstream.com (as of Nov 5, 2026; $30 off through my link)"
    summary="A locked Linux appliance: fast boot, six apps, no store. Great for someone who just wants to turn it on. Skip it if you want to install anything, cast to it, or play AV1 from USB on firmware 1.00.14."
@@ -89,8 +89,12 @@ vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux me
 
 ### Accessories Used in Testing {#accessories-used-in-testing}
 
-- 🔋 Amazon Basics Batteries: <https://amzn.to/49LycZc>
+- 🔋 AAA Batteries: <https://link.amazon/B0bbvUAlP>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
+- 📺 Sharp 4K TV: <https://link.amazon/B0a3lGZT5>
 - 🛜 Ethernet Network Cable: <https://amzn.to/4cEJyyB>
+- 🛜 TP-Link Deco Mesh Wi-Fi: <https://link.amazon/B07RVoxIE>
+- 🛜 GL.iNet Slate 7 Travel Router: <https://link.amazon/B07jLMdOQ>
 - 🔌 3.5mm to RCA AV Cable: <https://amzn.to/4i3EHM4>
 
 *When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
@@ -128,22 +132,21 @@ This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.
 
 As of November 5, 2026 (same day as publish):
 
-1. **Ethernet misspoke (wins/misses close).** On camera I said the Ethernet "caps out at 100MB." The Speed Test result was about **94.5 Mbps down / 94.9 Mbps up**, which matches a **100 megabit** (10/100) port, not 100 megabytes. The official page lists RJ45 10M/100M. ([Official specs](https://vseeboxstream.com/products/vseebox-alpha1))
-2. **Boot race wording.** On camera I gave the V6 Max time as "almost 5 seconds." That was a slip. By my capture clock the α1 reached the home screen in roughly **15 seconds**, and the V6 Max took about three times as long. The takeaway stands: the α1 cold-boots noticeably faster.
+1. **Ethernet misspoke (wins/misses close).** On camera I said the Ethernet "caps out at 100MB." The Speed Test result was about **94.5 Mbps down / 94.9 Mbps up** to an Indianapolis server, which matches a **100 megabit** (10/100) port, not 100 megabytes. The official page lists RJ45 10M/100M. ([Official specs](https://vseeboxstream.com/products/vseebox-alpha1))
+2. **Boot race wording.** The video's VO estimated **15–20 s** for the α1 and **45 s** for the V6 Max, but the stopwatch numbers are about **8 s** and about **38 s**, so the α1 is close to 5x faster.
 3. **"Linux" on the cardboard, not in System Information.** I say the box runs Linux. That claim is printed on the retail carton and the product page as **Linux 4.9**. The on-device System Information screen shows model, build time, and software version **1.00.14** — it does **not** print the OS name, RAM, storage, or SoC. ([Official page](https://vseeboxstream.com/products/vseebox-alpha1))
-4. **Vendor RAM/storage vs one teardown-style reading.** The product page lists **2GB DDR3** and **8GB eMMC**. An independent Aug 2026 hands-on (TORR3NT's Tech) estimated roughly **1 GB** RAM and **256 MB** flash from chip part numbers, and notes there is no terminal or diagnostics path on the locked launcher. I did not open my unit. Treat the page numbers as vendor claims and the chip reading as a second opinion, not as my measurement. ([Official page](https://vseeboxstream.com/products/vseebox-alpha1), [TORR3NT α1 review](https://torrentstech.com/reviews/vseebox-alpha1/))
-5. **AV1 and casting are firmware-dated.** Product marketing lists AV1 decode plus Miracast / DLNA / AirPlay. On **1.00.14** my two AV1 USB samples played **audio only**, and neither Miracast nor AirPlay found the box on my network. A later firmware may change that — check before you buy if those matter. ([Official page](https://vseeboxstream.com/products/vseebox-alpha1))
-6. **Wi-Fi "ax" on the sheet.** The page lists 802.11a/b/g/n/ac/**ax**. I confirmed a working **5 GHz** join and subjectively snappier UI on 5 GHz. I did **not** capture a link-rate screenshot proving Wi-Fi 6, so I am not calling it Wi-Fi 6 in this post.
-7. **A/V settings clock quirk.** When I opened Audio/Video output settings on the Sharp TV path, the on-screen clock showed a default-looking **31/12/2019** date even though other menus had the correct October 2026 date after setup. Harmless, but odd. See [4K output and the HDR menu](#4k-and-hdr).
-8. **No Bluetooth on the sheet.** The retail box and the product page do not list Bluetooth. I did not find a Bluetooth settings page. IR remote only, rated to 10 m on the carton.
+4. **AV1 and casting are firmware-dated.** Product marketing lists AV1 decode plus Miracast / DLNA / AirPlay. On **1.00.14** my two AV1 USB samples played **audio only**, and neither Miracast nor AirPlay found the box on my network. A later firmware may change that — check before you buy if those matter. ([Official page](https://vseeboxstream.com/products/vseebox-alpha1))
+5. **Wi-Fi "ax" on the sheet.** The page lists 802.11a/b/g/n/ac/**ax**. I confirmed a working **5 GHz** join and subjectively snappier UI on 5 GHz. I did **not** capture a link-rate screenshot proving Wi-Fi 6, so I am not calling it Wi-Fi 6 in this post.
+6. **A/V settings clock quirk.** When I opened Audio/Video output settings on the Sharp TV path, the on-screen clock showed a default-looking **31/12/2019** date even though other menus had the correct October 2026 date after setup. Harmless, but odd. See [4K output and the HDR menu](#4k-and-hdr).
+7. **No Bluetooth on the sheet.** The retail box and the product page do not list Bluetooth. I did not find a Bluetooth settings page. IR remote only, rated to 10 m on the carton.
 
 ## WHAT'S IN THE BOX {#whats-in-the-box}
 
 ![vSeeBox α1 retail box with Linux OS badge and dual-band Wi-Fi callouts](/images/posts/2026-11-05-vseebox-alpha1/retail-box-linux-os.jpg)
 
-The carton calls it a smart media player and prints the big claim in red: **Linux OS**. Inside you get the α1, an IR remote with an orange D-pad accent I actually like, an HDMI cable, a barrel-jack power supply, and a thicker-than-expected user guide.
+The carton calls it a smart media player and prints the big claim in red: **Linux OS**. Inside you get the α1, an IR remote with an orange D-pad accent I actually like, an [HDMI cable](https://link.amazon/B0c7sAcRI), a barrel-jack power supply, and a thicker-than-expected user guide.
 
-Two **AAA batteries are not included**. Buy a pack before you sit down to set it up.
+Two **[AAA batteries](https://link.amazon/B0bbvUAlP) are not included**. Buy a pack before you sit down to set it up.
 
 ![vSeeBox α1 unit with green power LED and IR remote on the desk](/images/posts/2026-11-05-vseebox-alpha1/unit-and-remote.jpg)
 
@@ -208,17 +211,17 @@ So if someone asks "what's inside?", the honest answer from the unit itself is: 
 
 Speed Test is built in. On a wired connection I saw about **94.53 Mbps down** and **94.9 Mbps up** to an Indianapolis server. That looks like a **100 Mbit** Ethernet port running at its ceiling. The official page lists **10M/100M** adaptive RJ45, not gigabit. For everyday streaming that is usually fine. For dragging large files across the LAN, that is your ceiling — and this box does not expose a general "send files to me" network share anyway.
 
-Wi-Fi is listed as dual-band. I pointed the α1 at my **5 GHz** network and it connected. On 5 GHz the UI felt noticeably snappier. Subjective only; no Wi-Fi speed-test numbers in the video. Between Ethernet and 5 GHz you have workable options to get it online.
+Wi-Fi is listed as dual-band. I pointed the α1 at [my **5 GHz** network](https://link.amazon/B07RVoxIE) and it connected. On 5 GHz the UI felt noticeably snappier. Subjective only; no Wi-Fi speed-test numbers in the video. Between Ethernet and 5 GHz you have workable options to get it online.
 
 ## BOOT RACE: α1 VS V6 MAX {#boot-race}
 
-This is where leaving Android TV OS should pay off. I unplugged the α1, counted to five, and plugged it back in. By my capture clock it was on the home screen in roughly **15 seconds**.
+This is where leaving Android TV OS should pay off. I unplugged the α1, counted to five, and plugged it back in. By my capture clock it was on the home screen in about **8 seconds**.
 
-Then I swapped in a V6 Max on the **same 5V supply**. The V6 Max took much longer — about three times the α1 on my count. If you hate waiting on a cold start, the α1 beat the V6 Max easily in my test.
+Then I swapped in a V6 Max on the **same 5V supply**. The V6 Max took about **38 seconds**. If you hate waiting on a cold start, the α1 beat the V6 Max easily in my test.
 
 ## 4K OUTPUT AND THE HDR MENU {#4k-and-hdr}
 
-Through my ClonerAlliance UHD Pro capture path the resolution list offered **2160p** and the picture came through in 4K. Plugged straight into a Sharp 4K TV, it also synced to 4K. Extra video options included HDMI CEC and an HDR menu with SDR, Dolby, HDR10, HLG, and Auto.
+Through my ClonerAlliance UHD Pro capture path the resolution list offered **2160p** and the picture came through in 4K. Plugged straight into a [Sharp 4K TV](https://link.amazon/B0a3lGZT5), it also synced to 4K. Extra video options included HDMI CEC and an HDR menu with SDR, Dolby, HDR10, HLG, and Auto.
 
 ![Audio/Video output settings showing HDMI output, CEC Enable, and HDR Auto](/images/posts/2026-11-05-vseebox-alpha1/hdmi-av-settings.jpg)
 
