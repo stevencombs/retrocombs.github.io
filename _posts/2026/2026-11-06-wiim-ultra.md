@@ -101,9 +101,9 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 
 ## COMPANION YOUTUBE VIDEO {#companion-youtube-video}
 
-Title: _🎶 I Set Up the WiiM Ultra on My Desk and I Was Shocked (So Good!)_
+Title: _🎼️ I Set Up the WiiM Ultra on My Desk and I Was Shocked (So Good!)_
 
-{% include youtube.html id="zY6Xu8XzEdg" title="🎶 I Set Up the WiiM Ultra on My Desk and I Was Shocked (So Good!)" upload_date="2026-11-06T22:56:42Z" duration="PT13M24S" cta="false" channel="tech" %}
+{% include youtube.html id="zY6Xu8XzEdg" title="🎼️ I Set Up the WiiM Ultra on My Desk and I Was Shocked (So Good!)" upload_date="2026-11-06T22:56:42Z" duration="PT13M24S" cta="false" channel="tech" %}
 
 This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.com/@retrocombs-tech?sub_confirmation=1). Tagline: Hooked on tech since '73.
 
@@ -200,7 +200,7 @@ You can also browse and tune radio stations directly on the unit — local FM vi
 
 ## EDIFIER R1280DB AND THE OPTICAL HOOKUP {#edifier}
 
-The permanent partners are a pair of white [Edifier R1280DB](https://link.amazon/B01Cfibzl) active bookshelf speakers. They take up a small footprint and they do not need a separate amplifier on the desk, which keeps the desk setup clean. The Ultra itself is a streamer and preamp, not an amp.
+The permanent partners are a pair of white Edifier R1280DB active bookshelf speakers. They take up a small footprint and they do not need a separate amplifier on the desk, which keeps the desk setup clean. The Ultra itself is a streamer and preamp, not an amp.
 
 On the back of the Edifiers you get dual RCA inputs plus optical and coaxial digital inputs. On the side: physical treble and bass dials, and a master volume that doubles as an input selector. I usually crank treble and bass all the way up, then use the Ultra's EQ to tailor the sound. For input I chose optical once and left it there.
 
