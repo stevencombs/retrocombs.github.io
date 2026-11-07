@@ -28,25 +28,21 @@ image:
   height: 720
   alt: 'WiiM Ultra centered between a pair of white Edifier R1280DB speakers on a shelf by my desk, with the voice remote nearby'
 kind: review
-# rating: ask Steven before publish — do not invent a score
+rating: 4.5
 ---
 
-I spend long days at a desk with thin, single-speaker audio, and I finally wanted something better. After more than a week with a [WiiM Ultra](https://link.amazon/B02NR2bha) and a pair of Edifier R1280DB speakers, the difference is not subtle. Stereo separation was the biggest win, RoomFit made the shelves sound brighter, and the setup flexes from local radio to YouTube Music to a SiriusXM workaround without making me pick up my phone every time.
+I spend long days at a desk with thin, single-speaker audio, and I finally wanted something better. After more than a week with a [WiiM Ultra](https://link.amazon/B02NR2bha) and a pair of [Edifier R1280DB](https://link.amazon/B01Cfibzl) speakers, the difference is not subtle. Stereo separation was the biggest win, RoomFit made the shelves sound brighter, and the setup flexes from local radio to YouTube Music to a SiriusXM workaround without making me pick up my phone every time.
 
 ![WiiM Ultra centered between a pair of white Edifier R1280DB speakers on a shelf by my desk, with the voice remote nearby](/images/posts/2026-11-06-wiim-ultra.jpg)
 
-*Full disclosure: I bought this WiiM Ultra with my own hard-earned cash. Nobody sent it over to me for free. Links in this post are affiliate links, so I may earn a commission if you buy through them.*
+*Full disclosure: I bought this WiiM Ultra with my own hard-earned cash. I picked it up during an Amazon sale and paid less than $450. Nobody sent it over to me for free. Links in this post are affiliate links, so I may earn a commission if you buy through them.*
 
-{% comment %}
-Steven: add review-box.html after you pick a score. Suggested fields:
-  score="?"
-  price="I said under $450 for my Ultra + R1280DB pair"
-  where="my own purchase (spoken claim in the video; not a verified current street price as of Nov 6, 2026)"
-  summary="A flexible desk streamer with a real touchscreen, RoomFit, and enough ports to grow. SiriusXM still needs the Alexa workaround."
-  note="I bought this myself. Not sponsored or gifted."
-  product="WiiM Ultra"
-  channel="tech"
-{% endcomment %}
+{% include review-box.html
+   score="4.5"
+   summary="A flexible desk streamer with a real touchscreen, RoomFit, and enough ports to grow. SiriusXM still needs the Alexa workaround."
+   note="I picked it up during an Amazon sale and paid less than $450. I bought this myself. Not sponsored or gifted."
+   product="WiiM Ultra"
+   channel="tech" %}
 
 ## TABLE OF CONTENTS {#table-of-contents}
 
@@ -79,6 +75,7 @@ Steven: add review-box.html after you pick a score. Suggested fields:
 ### Video Mention Links {#video-mention-links}
 
 - 🎵 WiiM Ultra: <https://link.amazon/B02NR2bha>
+- 🔊 Edifier R1280DB: <https://link.amazon/B01Cfibzl>
 - 🔊 Google Nest Audio (the single speaker I replaced): <https://amzn.to/3WaeYJs>
 
 ### Accessories Used in Testing {#accessories-used-in-testing}
@@ -104,9 +101,9 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 
 ## COMPANION YOUTUBE VIDEO {#companion-youtube-video}
 
-Title: _wiim ultra unboxing review_
+Title: _🎶 I Set Up the WiiM Ultra on My Desk and I Was Shocked (So Good!)_
 
-{% include youtube.html id="zY6Xu8XzEdg" title="wiim ultra unboxing review" upload_date="2026-11-06T22:56:42Z" duration="PT13M24S" cta="false" channel="tech" %}
+{% include youtube.html id="zY6Xu8XzEdg" title="🎶 I Set Up the WiiM Ultra on My Desk and I Was Shocked (So Good!)" upload_date="2026-11-06T22:56:42Z" duration="PT13M24S" cta="false" channel="tech" %}
 
 This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.com/@retrocombs-tech?sub_confirmation=1). Tagline: Hooked on tech since '73.
 
@@ -114,9 +111,8 @@ This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.
 
 As of November 6, 2026 (same day as publish):
 
-1. **"Under $450 total" is my build claim, not a shop-today price.** In the intro I said I put this high-fidelity setup together for under $450 total. That is what I spent on my Ultra plus the Edifier pair, not a verified current street price for either product. Prices move. Check the links (and the official pages) before you buy.
-2. **Optical output vs what the Edifiers officially accept.** On the bench I said I would set the Ultra's coaxial/optical output to **24-bit/192 kHz** once I moved it to my desk and used the optical cable. WiiM's official sheet does list optical out up to 192 kHz/24-bit. The official R1280DB manual, though, says optical and coaxial modes decode **only PCM at 44.1 kHz or 48 kHz**. I did not pause on the final sample-rate screen after the move, so I cannot show what I left it on. If you hook the same speakers up and get silence or dropouts, drop the Ultra's Optical/Coax output resolution to 48 kHz. ([WiiM Ultra specs](https://www.wiimhome.com/wiimultra/overview), [R1280DB manual](https://new-edifier-us-oss.edifier.com/files/20241120/8005e65e9af53427ab89ca6d4261e832.pdf))
-3. **"Tactical" at the wrap-up.** Near the end I called the pairing "intentional" and "tactical." I meant **tactile** — the knob, the glass, the remote presets — not a military briefing. Auto-captions copied what I said.
+1. **Optical output vs what the Edifiers officially accept.** On the bench I said I would set the Ultra's coaxial/optical output to **24-bit/192 kHz** once I moved it to my desk and used the optical cable. I did. After the move, my R1280DB accepted 24-bit/192 kHz over optical from the Ultra. In practice it worked at 24-bit/192 kHz, even though Edifier's manual lists optical and coaxial modes as PCM at 44.1 kHz or 48 kHz only. WiiM's sheet lists optical out up to 192 kHz/24-bit. If you hook the same speakers up and get silence or dropouts, drop the Ultra's Optical/Coax output resolution to 48 kHz. ([WiiM Ultra specs](https://www.wiimhome.com/wiimultra/overview), [R1280DB manual](https://new-edifier-us-oss.edifier.com/files/20241120/8005e65e9af53427ab89ca6d4261e832.pdf))
+2. **"Tactical" at the wrap-up.** Near the end I called the pairing "intentional" and "tactical." I meant **tactile** — the knob, the glass, the remote presets — not a military briefing. Auto-captions copied what I said.
 
 ## WHAT'S IN THE BOX {#whats-in-the-box}
 
@@ -167,7 +163,7 @@ The Android WiiM Home app is on the Play Store. It found the Ultra almost immedi
 
 Remote pairing is simple: Device Settings > Remote, then hold **Source** and **Mute** on the remote for two seconds.
 
-Audio settings let you set the coax/optical output. I left it alone for the RCA workbench hookup and said I would come back to **24-bit/192 kHz** for optical at the desk. See [Video Errata](#video-errata) before you copy that setting onto an R1280DB.
+Audio settings let you set the coax/optical output. I left it alone for the RCA workbench hookup and said I would come back to **24-bit/192 kHz** for optical at the desk. After the move I did set it there, and the R1280DB played it. See [Video Errata](#video-errata) for the manual's lower number, and for what to try if you get silence.
 
 The WiiM Home app is one of the most stable, feature-rich audio apps I have used. You can link Spotify, Tidal, Qobuz, Amazon Music, and more. I am a YouTube Music user, and the app linked to my account without a fight. WiiM added native YouTube Music support in firmware notes dated August 13, 2025, which matches what I saw. ([Firmware notes](https://faq.wiimhome.com/en/support/solutions/articles/72000631650-wiim-ultra-firmware-release-notes))
 
@@ -204,7 +200,7 @@ You can also browse and tune radio stations directly on the unit — local FM vi
 
 ## EDIFIER R1280DB AND THE OPTICAL HOOKUP {#edifier}
 
-The permanent partners are a pair of white Edifier R1280DB active bookshelf speakers. They take up a small footprint and they do not need a separate amplifier on the desk, which keeps the desk setup clean. The Ultra itself is a streamer and preamp, not an amp.
+The permanent partners are a pair of white [Edifier R1280DB](https://link.amazon/B01Cfibzl) active bookshelf speakers. They take up a small footprint and they do not need a separate amplifier on the desk, which keeps the desk setup clean. The Ultra itself is a streamer and preamp, not an amp.
 
 On the back of the Edifiers you get dual RCA inputs plus optical and coaxial digital inputs. On the side: physical treble and bass dials, and a master volume that doubles as an input selector. I usually crank treble and bass all the way up, then use the Ultra's EQ to tailor the sound. For input I chose optical once and left it there.
 
@@ -242,7 +238,7 @@ HDMI ARC, if you use the Ultra with a TV or monitor, officially supports stereo 
 > **Tip:** Pair the voice remote from Device Settings > Remote, then hold Source and Mute for two seconds.
 {: .tip}
 
-> **Tip:** If you use Edifier R1280DB speakers over optical, start at 44.1 or 48 kHz PCM — that is what Edifier's manual says those inputs decode — instead of assuming 24-bit/192 kHz will work.
+> **Tip:** My Edifier R1280DB played 24-bit/192 kHz over optical from the Ultra. Edifier's manual still lists those inputs as PCM at 44.1 or 48 kHz only. If you get silence or dropouts, drop the Ultra's Optical/Coax output to 48 kHz.
 {: .tip}
 
 > **Tip:** For RoomFit, hold the phone at ear height, rotate it so the bottom microphone faces the speakers, and take the case off first.
@@ -291,7 +287,7 @@ A few official details that did not get a close-up on camera, but help explain w
 - Voice control cannot launch presets yet
 - No AirPlay 2 if you live in Apple's world
 - Ethernet on the sheet is 10/100, not gigabit
-- My planned 24-bit/192 kHz optical setting may be higher than the R1280DB officially accepts
+- Edifier's manual lists optical and coax as 44.1 or 48 kHz PCM only. Mine played 24-bit/192 kHz from the Ultra; if yours is silent, drop to 48 kHz
 
 **Who should buy it:** someone who wants better-than-smart-speaker desk sound, a lot of music-service choices, and room to grow later.
 
@@ -300,8 +296,6 @@ A few official details that did not get a close-up on camera, but help explain w
 For me it comes down to three words I used on camera: flexibility, music choice, and options. I can jump from a local FM broadcast to a YouTube Music playlist, or use the Alexa workaround for SiriusXM, without the Ultra getting in the way. I can be picky with parametric EQ or just a guy who wants good tunes while he works. Moving it from the workbench to my desk without losing settings is the kind of reliability I look for.
 
 The WiiM Ultra and Edifier pairing is a thoughtful, tactile upgrade. It is the best thing I have done for my desk audio in years.
-
-<!-- rating: Steven, what score should this review-box get? -->
 
 ## SOURCES {#sources}
 
