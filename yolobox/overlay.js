@@ -1,4 +1,4 @@
-/* retroCombs YoloBox overlay. Options: ?slot=NAME  ?refresh=SECONDS (default 60, min 5)  ?fit=cover
+/* retroCombs YoloBox overlay. Options: ?slot=NAME  ?refresh=SECONDS (default 60, min 5)  ?fit=cover  ?sound=0 (mute entry cue)
    Reads slots.json (cache-busted) to learn each slot's file + version, preloads the image,
    and swaps only after a good load, so a failed fetch or mid-deploy keeps the current image. */
 (function () {
@@ -11,14 +11,32 @@
   var secs = Math.max(5, parseInt(q.get('refresh'), 10) || 60);
   var el = document.getElementById('t');
   if (q.get('fit') === 'cover') el.style.objectFit = 'cover';
-  var shown = '', failed = {};
+  var shown = '', requested = '', failed = {};
+  // Same file-backed HTML Audio approach and default volume (1) as Super Chat.
+  // Browser autoplay rejection is deliberately silent; images must never depend on audio.
+  var entry = null;
+  if (['gear', 'news', 'demo'].indexOf(slot) >= 0 && q.get('sound') !== '0') {
+    entry = new Audio(base + 'assets/' + slot + '-entry.mp3');
+    entry.preload = 'auto';
+    entry.addEventListener('error', function () {}, true);
+  }
+  function playEntry() {
+    if (!entry) return;
+    try {
+      entry.currentTime = 0;
+      var p = entry.play();
+      if (p && p.catch) p.catch(function () {});
+    } catch (err) {} // YoloBox Extreme web-overlay audio still needs hardware testing.
+  }
 
   function show(url) {
     if (url === shown) return;
+    requested = url;
     var img = new Image();
     img.onload = function () {
-      if (!img.naturalWidth) return;
+      if (!img.naturalWidth || url === shown || url !== requested) return;
       el.src = img.src; shown = url; el.style.visibility = 'visible';
+      playEntry();
     };
     img.onerror = function () {          // cached/broken copy: retry soon with a fresh URL
       failed[url] = (failed[url] || 0) + 1;
