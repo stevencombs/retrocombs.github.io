@@ -16,19 +16,19 @@ html, body { margin: 0; padding: 0; width: 1920px; height: 1080px; overflow: hid
 #fx { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; }
 .layer { position: absolute; visibility: hidden; will-change: transform, opacity; }
 /* ---- chat card (v3: 75% scale, 885x225) ---- */
-#card { left: 963px; top: 791px; width: 885px; height: 225px; box-sizing: border-box; border: 4px solid #2a2a2a;
-        border-radius: 14px; background: #e8dcc8; }
+#card { left: 963px; top: 791px; width: 885px; height: 225px; box-sizing: border-box; border: 4px solid #333333;
+        border-radius: 14px; background: #f5ecdd; }
 #stripe { position: absolute; left: 11px; top: 3px; width: 855px; height: 18px;
-          background: linear-gradient(to bottom, #f5a623 0 4.5px, #f5e642 4.5px 9px, #7cba3d 9px 13.5px, #4aa3d4 13.5px 18px); }
-#avatar { position: absolute; left: 14px; top: 30px; width: 57px; height: 57px; box-sizing: border-box; border: 3px solid #2a2a2a;
+          background: linear-gradient(to bottom, #ed230d 0 3.6px, #ff9400 3.6px 7.2px, #f8e131 7.2px 10.8px, #60d838 10.8px 14.4px, #00a5ff 14.4px 18px); }
+#avatar { position: absolute; left: 14px; top: 30px; width: 57px; height: 57px; box-sizing: border-box; border: 3px solid #333333;
           border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center; }
 #avatarLetter { font: 22.5px/22.5px 'PS2P', monospace; color: #fff; margin: 3px 0 0 3px;
-                text-shadow: 2px 2px 0 #2a2a2a, -1.5px -1.5px 0 #2a2a2a, 1.5px -1.5px 0 #2a2a2a, -1.5px 1.5px 0 #2a2a2a; }
-#name { position: absolute; left: 85px; top: 35px; font: 18px/21px 'PS2P', monospace; color: #3d3d36; white-space: pre; overflow: hidden; }
-#label { position: absolute; left: 85px; top: 60px; font: 22.5px/22.5px 'VT323', monospace; color: #3d3d36; white-space: pre; }
-#label b { color: #c62828; font-weight: normal; }
-#pill { position: absolute; right: 14px; top: 34px; height: 42px; box-sizing: border-box; padding: 0 16.5px; border: 3px solid #2a2a2a;
-        border-radius: 21px; background: #0000f0; color: #fff; font: 16.5px/36px 'PS2P', monospace; white-space: pre;
+                text-shadow: 2px 2px 0 #333333, -1.5px -1.5px 0 #333333, 1.5px -1.5px 0 #333333, -1.5px 1.5px 0 #333333; }
+#name { position: absolute; left: 85px; top: 35px; font: 18px/21px 'PS2P', monospace; color: #333333; white-space: pre; overflow: hidden; }
+#label { position: absolute; left: 85px; top: 60px; font: 22.5px/22.5px 'VT323', monospace; color: #333333; white-space: pre; }
+#label b { color: #b51e18; font-weight: normal; }
+#pill { position: absolute; right: 14px; top: 34px; height: 42px; box-sizing: border-box; padding: 0 16.5px; border: 3px solid #333333;
+        border-radius: 21px; background: #00a5ff; color: #333333; font: 16.5px/36px 'PS2P', monospace; white-space: pre;
         display: flex; align-items: center; transform-origin: 100% 50%; }
 #pillText { padding-top: 2px; }
 #field { position: absolute; left: 14px; top: 96px; width: 849px; height: 110px; }
@@ -103,7 +103,7 @@ function hash(i) { var x = Math.sin(i * 12.9898 + 4.1) * 43758.5453; return x - 
 function rngf(seed) { var a = seed >>> 0; return function () { a = (a + 0x6D2B79F5) >>> 0; var t = a;
   t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
 function $(id) { return document.getElementById(id); }
-var RB = ['#f5a623', '#f5e642', '#7cba3d', '#4aa3d4'];
+var RB = ['#ed230d', '#ff9400', '#f8e131', '#60d838', '#00a5ff'];
 var C64PAL = ['#000000','#ffffff','#883932','#67b6bd','#8b3f96','#55a049','#40318d','#bfce72',
               '#8b5429','#574200','#b86962','#505050','#787878','#94e089','#7869c4','#9f9f9f'];
 
@@ -129,18 +129,19 @@ nameEl.textContent = NAME;
 var initial = (Array.from(NAME).filter(function (ch) { return /[0-9A-Za-z\u00c0-\u024f]/.test(ch); })[0] || '');
 if (HAS_NAME && initial) {
   $('avatarLetter').textContent = initial.toUpperCase();
-  var cols = ['#f5a623', '#7cba3d', '#4aa3d4', '#0000f0', '#c62828'], hsum = 0;
+  var cols = ['#ff9400', '#60d838', '#00a5ff', '#00a5ff', '#b51e18'], hsum = 0;
   Array.from(NAME).forEach(function (ch) { hsum = (hsum * 31 + ch.codePointAt(0)) >>> 0; });
   avatarEl.style.background = cols[hsum % cols.length];
+  $('avatarLetter').style.color = cols[hsum % cols.length] === '#b51e18' ? '#ffffff' : '#333333';
 } else {
   $('avatarLetter').remove();
-  avatarEl.style.background = '#c62828';
+  avatarEl.style.background = '#b51e18';
   var hs = pixSvg(HEART, 3, { '#': '#ffffff' }); hs.style.marginTop = '3px'; avatarEl.appendChild(hs);
 }
 var coinEl = null;
 if (AMOUNT) { $('pillText').textContent = AMOUNT; }
 else { $('pillText').remove(); pillEl.style.padding = '0 15px';
-       coinEl = pixSvg(COIN, 3, { o: '#2a2a2a', y: '#f5e642', d: '#f5a623' }); pillEl.appendChild(coinEl); }
+       coinEl = pixSvg(COIN, 3, { o: '#333333', y: '#f8e131', d: '#ff9400' }); pillEl.appendChild(coinEl); }
 
 // message -> up to 2 lines of 40 cells (word wrap; hard wrap if words don't fit)
 var COLS = 40;
@@ -182,13 +183,13 @@ function mk(w, h) { var c = document.createElement('canvas'); c.width = w; c.hei
 var wc = mk(LW + 2 * LM, LH), wcx = wc.getContext('2d'), tr = mk(LW + 2 * LM, LH), tb = mk(LW + 2 * LM, LH);
 var r0 = rngf(1985), SPARKS = [];
 for (var i = 0; i < 48; i++) SPARKS.push({ a: r0() * Math.PI * 2, v: 165 + r0() * 255, s: [5, 7, 9, 11][Math.floor(r0() * 4)],
-  c: ['#f5a623', '#f5e642', '#7cba3d', '#4aa3d4', '#0000f0', '#c62828', '#ffffff'][Math.floor(r0() * 7)], plus: r0() < .45, tw: r0() * 6 });
+  c: ['#ff9400', '#f8e131', '#60d838', '#00a5ff', '#00a5ff', '#b51e18', '#ffffff'][Math.floor(r0() * 7)], plus: r0() < .45, tw: r0() * 6 });
 var BX = 1405, BY = 748;   // burst centre
 
 function drawField(t, fi) {
   var W = 849, H = 110, O = 2, B = 11, load = (t >= T_LOAD0 && t < T_LOAD1), burst = (t >= T_B && t < T_B + D_BURST);
   fcx.clearRect(0, 0, W, H);
-  fcx.fillStyle = '#2a2a2a'; fcx.fillRect(0, 0, W, H);
+  fcx.fillStyle = '#333333'; fcx.fillRect(0, 0, W, H);
   if (load || burst) {
     var r = rngf(fi * 7 + 1), y = O;
     while (y < H - O) { var h = 2 + Math.floor(r() * 8); fcx.fillStyle = C64PAL[1 + Math.floor(r() * 15)];
@@ -212,7 +213,7 @@ function drawSparks(t) {
     var a = clamp(1.4 - u / 0.95); if (a <= 0 || Math.floor((u + p.tw) * 14) % 3 === 0) return;
     var s = p.s; cx.globalAlpha = a; cx.fillStyle = p.c;
     if (p.plus) { cx.fillRect(x - s * 1.5, y - s / 2, s * 3, s); cx.fillRect(x - s / 2, y - s * 1.5, s, s * 3); }
-    else { cx.fillStyle = '#2a2a2a'; cx.fillRect(x - s, y - s, 2 * s, 2 * s); cx.fillStyle = p.c; cx.fillRect(x - s + 1.5, y - s + 1.5, 2 * s - 3, 2 * s - 3); }
+    else { cx.fillStyle = '#333333'; cx.fillRect(x - s, y - s, 2 * s, 2 * s); cx.fillStyle = p.c; cx.fillRect(x - s + 1.5, y - s + 1.5, 2 * s - 3, 2 * s - 3); }
   });
   cx.globalAlpha = 1;
 }
@@ -238,7 +239,7 @@ function drawLogo(t, fi) {
     var hh = Math.min(bh, LH - y); wcx.drawImage(LOGO, 0, y, LW, hh, LM + dx, y, LW, hh); y += bh; }
   if (g > 0.02) {
     var bu = (t - T_LOGO_IN) / 1.4; wcx.globalCompositeOperation = 'source-atop';
-    RB.forEach(function (col, k) { var cyb = ((bu * 1.6 + k * 0.25) % 1) * LH;
+    RB.forEach(function (col, k) { var cyb = ((bu * 1.6 + k / RB.length) % 1) * LH;
       var gr = wcx.createLinearGradient(0, cyb - 10.5, 0, cyb + 10.5); gr.addColorStop(0, 'rgba(0,0,0,0)'); gr.addColorStop(.5, col); gr.addColorStop(1, 'rgba(0,0,0,0)');
       wcx.globalAlpha = g * 0.85; wcx.fillStyle = gr; wcx.fillRect(0, cyb - 10.5, W2, 21); });
     wcx.globalAlpha = 0.65 * g; wcx.globalCompositeOperation = 'destination-out'; wcx.fillStyle = '#000';
@@ -246,7 +247,7 @@ function drawLogo(t, fi) {
     wcx.globalAlpha = 1; wcx.globalCompositeOperation = 'source-over';
   }
   var s = Math.round(g * 9);
-  if (s) { tint(tr, '#ff1e3c'); tint(tb, '#1e78ff'); cx.globalAlpha = alpha * 0.75;
+  if (s) { tint(tr, '#ed230d'); tint(tb, '#00a5ff'); cx.globalAlpha = alpha * 0.75;
     cx.drawImage(tr, LX - LM + s, ly); cx.drawImage(tb, LX - LM - s, ly); }
   cx.globalAlpha = alpha; cx.drawImage(wc, LX - LM, ly); cx.globalAlpha = 1;
 }
