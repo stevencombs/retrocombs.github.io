@@ -4,9 +4,9 @@ title: 'MEGA65 Resource Page (v3.0)'
 permalink: /mega65
 ads: light
 wide: true
-banner: mega65
-banner_alt: MEGA65
 ---
+
+<p class="m65-banner"><img src="/images/banners/retroCombs_topic-banner_mega65_final_phone.png" alt="MEGA65" width="1200" height="500"></p>
 
 This is my start page for the MEGA≡65. I keep the User's Guide series, the downloads I actually use, and the community links in one place. Bookmark it. If something here is wrong or missing, [send me an email](mailto:retrocombs@icloud.com).
 
@@ -37,7 +37,7 @@ The earlier update (2026-11-07) includes:
 </div>
 
 <div class="video-container video-wide">
-<video id="video-bg" autoplay muted loop playsinline><source src="/images/mega65/mega65-rotating.mp4" type="video/mp4">
+<video id="video-bg" autoplay muted loop playsinline poster="/images/mega65/mega65-rotating-poster.jpg" width="1920" height="1080"><source src="/images/mega65/mega65-rotating.mp4" type="video/mp4">
 </video>
 </div>
 <sup>Video courtesy of [MEGA≡65](https://mega65.org)</sup>

@@ -958,11 +958,17 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .archive-tile .archive-ribbon span{top:32px;right:-28px;width:140px;font-size:9px}
 }
 
-/* MEGA65 resource page. wide: true already fills the content column.
-   The shared video cap is 500px, which stops short of that column on desktop.
-   video-wide is used only on /mega65. toc-jump is the jump list on that page. */
+/* MEGA65 resource page only.
+   The shared topic banner forces 2000/400 on desktop. That 5:1 frame is the
+   wide file's own size, and it pulls the pixel lettering flat next to the
+   1200×500 art. This page uses the 1200×500 file at that ratio, full column.
+   The rotating clip is 1920×1080. Without a ratio, an unloaded video is the
+   browser's 300×150 box (about 150px of empty white under the jump list). */
+.prose .m65-banner{margin:0 0 18px;line-height:0}
+.prose .m65-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/500;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
+.prose .video-container.video-wide{width:100%;margin:0 0 .35em;background:var(--rc-charcoal);aspect-ratio:16/9;line-height:0}
 .prose .video-container.video-wide video,
-.prose .video-container.video-wide img{width:100%;max-width:none}
+.prose .video-container.video-wide img{width:100%;max-width:none;height:100%;aspect-ratio:16/9;object-fit:contain;background:var(--rc-charcoal)}
 .prose .toc-box.toc-jump ul{list-style:none;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px 18px}
 .prose .toc-box.toc-jump li{margin:0}
 @media (max-width:760px){
