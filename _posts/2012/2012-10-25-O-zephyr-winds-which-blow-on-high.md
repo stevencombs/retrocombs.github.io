@@ -59,9 +59,10 @@ Oh my...
 
 - Isis debuted on September 6, 1975, before Lynda Carter’s Wonder Woman and The Bionic Woman. She was the first live-action superheroine to lead a Saturday morning TV series.
 - That flying couplet wasn’t a one-off. Isis often called on her powers with a rhyming incantation.
+- According to [Comic Watch](https://comic-watch.com/television-shows/forgotten-television-the-secrets-of-isis), Andrea found the magic “Tutmose amulet” on an archaeological dig in Egypt. On the show, it had belonged to Queen Hatshepsut. Andrea also kept a pet bird named Tut.
 - Those end-of-episode lessons, with Isis talking straight to the camera, were removed from later versions of the show. The DVD set includes the surviving ones as extras.
 - Only 22 episodes were made.
-- That two-part finale, *Now You See It...* and *...Now You Don’t*, swapped the usual rescue-a-student story for espionage and a stolen government weather machine. It also introduced a trio of crime-fighting teens called the Super-Sleuths. According to [Saturday Mornings Forever](https://www.saturdaymorningsforever.com/2016/06/the-secrets-of-isis.html), Filmation hoped to spin them off into their own series, but it never happened.
+- That two-part finale, *Now You See It...* and *...Now You Don’t*, swapped the usual rescue-a-student story for espionage and a stolen government weather machine. It also introduced a trio of crime-fighting teens called the Super-Sleuths. According to [Saturday Mornings Forever](https://www.saturdaymorningsforever.com/2016/06/the-secrets-of-isis.html) and [Comic Watch](https://comic-watch.com/television-shows/forgotten-television-the-secrets-of-isis), Filmation meant it as a backdoor pilot for a Super-Sleuths series, but the series was never picked up.
 - According to [her New York Times obituary](https://www.nytimes.com/2021/11/05/arts/television/joanna-cameron-dead.html), the 1979 Guinness Book of World Records credited JoAnna Cameron with more than 100 national network TV commercials, more than anyone else in advertising history.
 - Sadly, JoAnna Cameron passed away on October 15, 2021.
 
