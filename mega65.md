@@ -23,6 +23,7 @@ The latest update (2026-11-08) includes:
 - The BASIC programs card is now My MEGA65 Coding
 - A note that the Xemu package holds many emulators, and that xmega65 is the MEGA65 one, plus two install videos
 - The museum sentence under Community is gone
+- Commodore computer cores as its own card, after Manuals and tools. The freezer note is in that Manuals and tools card
 
 The earlier update (2026-11-07) includes:
 
@@ -167,15 +168,20 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 <li><a href="https://files.mega65.org?id=658322fd-e586-4b4f-a991-89470b269b4a">Tools development build, Windows</a></li>
 <li><a href="https://files.mega65.org?id=2b7bd912-1181-447c-a489-223f16b764c1">Tools development build, Linux</a></li>
 </ul>
+<p>Release 0.97.2 includes Freezer 0.40. That is the freezer I use. A separate <a href="https://github.com/M3wP/MEGA65-Freezer">Freezer rework on GitHub</a> is still public. The last update there was 21 June 2022, so I treat it as a side project, not the current freezer.</p>
 </article>
-</div>
-
-### COMMODORE COMPUTER CORES {#commodore-cores}
-
+<style>
+.prose #commodore-cores li a{display:inline;padding:0;font-size:inherit;line-height:inherit;color:var(--rc-red);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.prose #commodore-cores li a:hover,.prose #commodore-cores li a:focus-visible{color:var(--rc-red);text-decoration-thickness:2px}
+.prose #commodore-cores li{margin:.45em 0}
+.prose .cols:has(#commodore-cores){align-items:start}
+</style>
+<article class="topic-card" id="commodore-cores">
+<span class="topic-card-name">Commodore computer cores</span>
 <div class="guide-actions">
 <a class="btn primary" href="https://cores.mega65.org">cores.mega65.org</a>
 </div>
-
+<div markdown="1">
 These community cores are among the most requested, and they are a big part of the MEGA65's value. Statuses below are as of 8 November 2026. The cores site says its own list was current through 19 October 2026. I checked each GitHub repository the same day.
 
 #### 8-Bit Computers
@@ -194,8 +200,9 @@ These community cores are among the most requested, and they are a big part of t
 - [Amiga 500 version 2](https://github.com/sy2002/AExp). Beta, and still in progress. The cores site lists "Amiga 500 (V2)" with the work-in-progress cores, says it is still in beta and wants more testing, and links a [B1 download](https://sy2002.de/dl/AExp-WIP-V2-B1.zip). The same repository has tag WIP-V2-B3, tagged 3 November 2026.
 - [Amiga 600 / 1200](https://github.com/johansmolinski/Megamiga). Work in progress. The cores site says this one is currently only for R6 machines and wants more testing. GitHub release 0.6.4 was published 19 October 2026. The repository calls it Megamiga and says it is a fork of AExp, not an official AExp release.
 - [PC10-III](https://github.com/johansmolinski/pc10-iii). Released version 0.1.1, published 6 November 2026. This one is from Commodore's PC-compatible era, and it is not on cores.mega65.org yet.
-
-Release 0.97.2 includes Freezer 0.40. That is the freezer I use. A separate [Freezer rework on GitHub](https://github.com/M3wP/MEGA65-Freezer) is still public. The last update there was 21 June 2022, so I treat it as a side project, not the current freezer.
+</div>
+</article>
+</div>
 
 ## EMULATION {#emulation}
 
