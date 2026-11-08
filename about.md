@@ -2,7 +2,6 @@
 layout: pages
 title: About Steven
 permalink: about
-ads: false
 wide: true
 ---
 
