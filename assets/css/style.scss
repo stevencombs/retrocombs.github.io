@@ -631,17 +631,17 @@ header.site nav .dd > button.on:focus-visible{border-bottom-color:var(--st-yello
 .prose .topic-card-main{text-decoration:none;color:inherit}
 .topic-card-main img{grid-row:1 / span 2;width:48px;height:48px;max-width:48px;object-fit:contain;border-radius:0}
 .topic-card .topic-card-banner{display:block;margin:-14px -16px 10px;border-radius:7px 7px 0 0;overflow:hidden;background:var(--rc-charcoal);line-height:0;text-decoration:none}
-.topic-card .topic-card-banner picture{display:block}
 .prose a.topic-card-banner,.prose a.topic-card-banner:hover{color:inherit;text-decoration:none;overflow-wrap:normal}
-.topic-card-banner img,.prose .topic-card-banner img{display:block;width:100%;height:auto;max-width:none;margin:0;border-radius:0}
+.topic-card-banner img,.prose .topic-card-banner img{display:block;width:100%;height:auto;max-width:none;margin:0;border-radius:0;aspect-ratio:1200/250;object-fit:contain}
 .topic-card.has-banner .topic-card-main{grid-template-columns:minmax(0,1fr)}
 .topic-card.has-banner .topic-card-main > img{display:none}
 .topic-card-lead.has-banner .topic-card-banner{grid-column:1 / -1}
-/* Topic pages. Same art as the category cards, across the content card
-   (the page-body column the post grid already uses), with the card radius. */
-.topic-page-banner{display:block;width:100%;margin:0 0 18px;border-radius:12px;overflow:hidden;background:var(--rc-charcoal);line-height:0}
-.topic-page-banner img{display:block;width:100%;height:auto;max-width:none;margin:0;border-radius:0;aspect-ratio:1200/500}
-@media (min-width:761px){.topic-page-banner img{aspect-ratio:2000/400}}
+/* Topic pages. Same 1200×250 art as the category cards, full width of the
+   content card (the page-body column the post grid already uses). */
+.topic-page-banner,
+.prose .topic-page-banner{display:block;width:100%;max-width:none;margin:0 0 18px;border-radius:12px;overflow:hidden;background:var(--rc-charcoal);line-height:0}
+.topic-page-banner img,
+.prose .topic-page-banner img{display:block;width:100%;height:auto;max-width:none;margin:0;border-radius:0;aspect-ratio:1200/250;object-fit:contain}
 /* About places the same banner inside the prose measure. Span the page column, like the post cards. */
 .page-body .prose:not(.prose-wide) > .topic-page-banner{width:100cqi;max-width:none}
 .page-body:has(> .topic-page-banner) img.category{display:none}
@@ -958,16 +958,14 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .archive-tile .archive-ribbon span{top:32px;right:-28px;width:140px;font-size:9px}
 }
 
-/* MEGA65 resource page only.
-   The shared topic banner forces 2000/400 on desktop. That 5:1 frame is the
-   wide file's own size, and it pulls the pixel lettering flat next to the
-   1200×500 art. This page uses the 1200×500 file at that ratio, full column.
+/* MEGA65 resource page, User's Guide series, and Plus/4 resource page.
+   Each banner is the 1200×250 file (2x is 2400×500), full column, at that ratio.
    The rotating clip is 1920×1080. Without a ratio, an unloaded video is the
    browser's 300×150 box (about 150px of empty white under the jump list). */
 .prose .ug-banner{margin:0 0 18px;line-height:0}
 .prose .ug-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/250;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
 .prose .m65-banner{margin:0 0 18px;line-height:0}
-.prose .m65-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/500;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
+.prose .m65-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/250;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
 /* Plus/4 banner only. 1200×250 art, full column, at its own ratio. */
 .prose .plus4-banner{margin:0 0 18px;line-height:0}
 .prose .plus4-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/250;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}

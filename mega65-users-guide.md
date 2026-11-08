@@ -5,7 +5,9 @@ permalink: mega65-users-guide
 wide: true
 ---
 
-<p class="ug-banner"><img src="{{ '/images/banners/retroCombs_topic-banner_mega65-users-guide_final_phone.png?v=' | append: site.github.build_revision | relative_url }}" alt="MEGA65 User's Guide" width="1200" height="250"></p>
+{%- assign ug_banner = "/images/banners/retroCombs_topic-banner_mega65-users-guide_final_phone.png?v=" | append: site.github.build_revision | relative_url -%}
+{%- assign ug_banner_2x = "/images/banners/retroCombs_topic-banner_mega65-users-guide_final_phone@2x.png?v=" | append: site.github.build_revision | relative_url -%}
+<p class="ug-banner"><img src="{{ ug_banner }}" srcset="{{ ug_banner }} 1x, {{ ug_banner_2x }} 2x" alt="MEGA65 User's Guide" width="1200" height="250"></p>
 
 ![MEGA65 User's Guide Series](/images/mega65-ug/mega65-users-guide.jpg)
 

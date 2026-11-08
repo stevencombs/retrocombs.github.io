@@ -6,7 +6,9 @@ ads: light
 wide: true
 ---
 
-<p class="m65-banner"><img src="/images/banners/retroCombs_topic-banner_mega65_final_phone.png" alt="MEGA65" width="1200" height="500"></p>
+{%- assign m65_banner = "/images/banners/retroCombs_topic-banner_mega65_final_phone.png?v=" | append: site.github.build_revision | relative_url -%}
+{%- assign m65_banner_2x = "/images/banners/retroCombs_topic-banner_mega65_final_phone@2x.png?v=" | append: site.github.build_revision | relative_url -%}
+<p class="m65-banner"><img src="{{ m65_banner }}" srcset="{{ m65_banner }} 1x, {{ m65_banner_2x }} 2x" alt="MEGA65" width="1200" height="250"></p>
 
 This is my start page for the MEGA≡65. I keep the User's Guide series, the downloads I actually use, and the community links in one place. Bookmark it. If something here is wrong or missing, [send me an email](mailto:retrocombs@icloud.com).
 

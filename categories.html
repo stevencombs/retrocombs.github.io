@@ -17,17 +17,10 @@ wide: true
     {% assign count = count | strip %}
     <article class="topic-card{% if forloop.parentloop.first and forloop.first %} topic-card-lead{% endif %}{% if topic.banner %} has-banner{% endif %}">
       {% if topic.banner %}
-      {% assign banner_phone = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_phone.png?v=" | append: site.github.build_revision %}
-      {% assign banner_wide = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_wide.png?v=" | append: site.github.build_revision %}
+      {% assign banner_1x = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_phone.png?v=" | append: site.github.build_revision %}
+      {% assign banner_2x = "/images/banners/retroCombs_topic-banner_" | append: topic.banner | append: "_final_phone@2x.png?v=" | append: site.github.build_revision %}
       <a class="topic-card-banner" href="{{ topic.url | relative_url }}" aria-hidden="true" tabindex="-1">
-        {% if forloop.parentloop.first and forloop.first %}
-        <picture>
-          <source media="(max-width: 760px)" srcset="{{ banner_phone | relative_url }}" width="1200" height="500">
-          <img src="{{ banner_wide | relative_url }}" alt="" width="2000" height="400">
-        </picture>
-        {% else %}
-        <img src="{{ banner_phone | relative_url }}" alt="" width="1200" height="500" loading="lazy">
-        {% endif %}
+        <img src="{{ banner_1x | relative_url }}" srcset="{{ banner_1x | relative_url }} 1x, {{ banner_2x | relative_url }} 2x" alt="" width="1200" height="250"{% unless forloop.parentloop.first and forloop.first %} loading="lazy"{% endunless %}>
       </a>
       {% endif %}
       <a class="topic-card-main" href="{{ topic.url | relative_url }}">
