@@ -17,8 +17,9 @@ tags:
   - manual
 ---
 
-<!-- BANNER SLOT: Brand Kit is designing a new small Plus/4 banner. Keep /plus4/images/retrocombs-plus4.png until that art is ready to drop in. -->
-<p class="plus4-banner"><img src="/plus4/images/retrocombs-plus4.png" alt="retroCombs Plus/4" width="1557" height="461"></p>
+{%- assign plus4_banner = "/images/banners/retroCombs_topic-banner_plus4_final_phone.png?v=" | append: site.github.build_revision | relative_url -%}
+{%- assign plus4_banner_2x = "/images/banners/retroCombs_topic-banner_plus4_final_phone@2x.png?v=" | append: site.github.build_revision | relative_url -%}
+<p class="plus4-banner"><img src="{{ plus4_banner }}" srcset="{{ plus4_banner }} 1x, {{ plus4_banner_2x }} 2x" alt="retroCombs Plus/4" width="1200" height="250"></p>
 
 This is my start page for the Commodore Plus/4. I keep the User's Guide series, the disk image, the manual scans, and the links I actually use in one place. Bookmark it. If something here is wrong or missing, [send me an email](mailto:retrocombs@icloud.com).
 
@@ -31,6 +32,7 @@ The latest update (2026-11-08) includes:
 - A pass on the resource list. Commodore4Ever is gone. Every link that remains was checked on 8 November 2026
 - Wording fixes in the disk image section, including the broken file-name example
 - The Key to Keys list, with a key cap for each Plus/4 key
+- The small Plus/4 banner across the top of the page
 
 <div class="toc-box toc-jump">
 <p><strong>Jump to</strong></p>

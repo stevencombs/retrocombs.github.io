@@ -966,11 +966,9 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
    browser's 300×150 box (about 150px of empty white under the jump list). */
 .prose .m65-banner{margin:0 0 18px;line-height:0}
 .prose .m65-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/500;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
-/* Plus/4 banner slot. Brand Kit is designing a small replacement.
-   The current file stays at its own ratio (1557×461), full column width.
-   No 1200/500 frame here. That ratio is what makes the phone topic banners tall. */
+/* Plus/4 banner only. 1200×250 art, full column, at its own ratio. */
 .prose .plus4-banner{margin:0 0 18px;line-height:0}
-.prose .plus4-banner img{display:block;width:100%;max-width:none;height:auto;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
+.prose .plus4-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/250;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
 .prose .video-container.video-wide{width:100%;margin:0 0 .35em;background:var(--rc-charcoal);aspect-ratio:16/9;line-height:0}
 .prose .video-container.video-wide video,
 .prose .video-container.video-wide img{width:100%;max-width:none;height:100%;aspect-ratio:16/9;object-fit:contain;background:var(--rc-charcoal)}
