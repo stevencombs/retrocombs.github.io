@@ -964,6 +964,9 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
    1200×500 art. This page uses the 1200×500 file at that ratio, full column.
    The rotating clip is 1920×1080. Without a ratio, an unloaded video is the
    browser's 300×150 box (about 150px of empty white under the jump list). */
+/* Reserved header on the User's Guide series page. Brand Kit supplies the art. */
+.prose .banner-slot{display:flex;align-items:center;justify-content:center;box-sizing:border-box;margin:0 0 18px;min-height:96px;padding:16px 18px;border:2px dashed var(--rc-slate);border-radius:12px;background:var(--rc-cream);color:var(--rc-ink);text-align:center}
+.prose .banner-slot p{margin:0;font-size:15px;font-weight:700;line-height:1.4;color:var(--rc-ink)}
 .prose .m65-banner{margin:0 0 18px;line-height:0}
 .prose .m65-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/500;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
 .prose .video-container.video-wide{width:100%;margin:0 0 .35em;background:var(--rc-charcoal);aspect-ratio:16/9;line-height:0}
