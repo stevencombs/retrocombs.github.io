@@ -964,6 +964,8 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
    1200×500 art. This page uses the 1200×500 file at that ratio, full column.
    The rotating clip is 1920×1080. Without a ratio, an unloaded video is the
    browser's 300×150 box (about 150px of empty white under the jump list). */
+.prose .ug-banner{margin:0 0 18px;line-height:0}
+.prose .ug-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/250;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
 .prose .m65-banner{margin:0 0 18px;line-height:0}
 .prose .m65-banner img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/500;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
 /* Plus/4 banner only. 1200×250 art, full column, at its own ratio. */

@@ -17,6 +17,10 @@ The latest update (2026-11-08) includes:
 - A full-width layout for this page, with a jump list and grouped sections
 - Current hardware, ROM, core, Xemu, and M65Connect notes, checked against the official pages
 - A link pass, including Bluesky. The Amazon and PayPal links are unchanged
+- Commodore computer cores, in place of Other cores and disks. Statuses checked on 8 November 2026 against cores.mega65.org and each core's GitHub repository
+- The BASIC programs card is now My MEGA65 Coding
+- A note that the Xemu package holds many emulators, and that xmega65 is the MEGA65 one, plus two install videos
+- The museum sentence under Community is gone
 
 The earlier update (2026-11-07) includes:
 
@@ -29,7 +33,9 @@ The earlier update (2026-11-07) includes:
 <ul>
 <li><a href="#get-a-mega65">Get a MEGA65</a></li>
 <li><a href="#learn">Learn</a></li>
+<li><a href="#my-mega65-coding">My MEGA65 Coding</a></li>
 <li><a href="#software">Software and downloads</a></li>
+<li><a href="#commodore-cores">Commodore computer cores</a></li>
 <li><a href="#emulation">Emulation</a></li>
 <li><a href="#community">Community</a></li>
 <li><a href="#support">Support the channel</a></li>
@@ -102,8 +108,8 @@ Work through the MEGA≡65 User's Guide, chapter by chapter. Each chapter has a 
 <li><a href="/mega65-intro-disk-v4">Intro Disk V4: what it is and how to run it</a></li>
 </ul>
 </article>
-<article class="topic-card">
-<span class="topic-card-name">BASIC programs</span>
+<article class="topic-card" id="my-mega65-coding">
+<span class="topic-card-name">My MEGA65 Coding</span>
 <span class="topic-card-blurb">Two small programs of mine on the file host.</span>
 <ul>
 <li><a href="https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b">MEGA65 Colors BASIC Demo. A short program, with sound effects, that shows the standard and extended colors.</a></li>
@@ -141,19 +147,6 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 </ul>
 </article>
 <article class="topic-card">
-<span class="topic-card-name">Other cores and disks</span>
-<span class="topic-card-blurb">Handy files that are still on the file host.</span>
-<ul>
-<li><a href="https://files.mega65.org?id=5e3baf05-c4cf-4118-8254-85de48797f89">ALL INTRO DISKS, public. Version 2.2, published 30 June 2026. Demos, games, music, and tools.</a></li>
-<li><a href="https://files.mega65.org?id=896a012f-59e4-456c-b91f-7e989b958241">C64 for MEGA65, version 5.2. Published 28 April 2025. This goes past the built-in C64 mode, with IEC, cartridge, and REU support.</a></li>
-<li><a href="https://files.mega65.org?id=d1b789c8-a1a9-4236-9796-81edebfa173b">GEOS on the C64 core</a></li>
-<li><a href="https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a">Game Boy for MEGA65. Game Boy and Game Boy Color. The file host copy was published 21 July 2026.</a></li>
-<li><a href="https://files.mega65.org?id=1672149c-66d3-4df7-9128-e9c83095c49a">Galaga for MEGA65 R6. Use a rotated monitor if you want the arcade view.</a></li>
-<li><a href="https://files.mega65.org?id=bdaeb7e0-9fc8-4185-99de-104d01229f27">ZX Spectrum for MEGA65 (ZX-Uno), version 1.3. Published 13 October 2024. It has been quiet since then, and it still runs.</a></li>
-<li><a href="https://sy2002.github.io/m65cores/">What are the alternative MEGA65 cores?</a></li>
-</ul>
-</article>
-<article class="topic-card">
 <span class="topic-card-name">Manuals and tools</span>
 <span class="topic-card-blurb">The official PDFs were version 1.2 on 20 October 2026. The stable tools package is version 1.00 from 10 August 2024. Newer development builds, dated 5 October 2026, are on the file host if you need a newer m65 or mega65_ftp.</span>
 <ul>
@@ -175,6 +168,31 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 </article>
 </div>
 
+### COMMODORE COMPUTER CORES {#commodore-cores}
+
+<div class="guide-actions">
+<a class="btn primary" href="https://cores.mega65.org">cores.mega65.org</a>
+</div>
+
+These community cores are among the most requested, and they are a big part of the MEGA65's value. Statuses below are as of 8 November 2026. The cores site says its own list was current through 19 October 2026. I checked each GitHub repository the same day.
+
+#### 8-Bit Computers
+
+- [C64](https://github.com/MJoergen/C64MEGA65). Released version 5.2, published 28 April 2025. The cores site lists it with the stable computer cores. The guide for this core is [c64.mega65.org](https://c64.mega65.org/).
+- [C64 version 6](https://kugelblitz360.github.io/C64MEGA65DOCS/alphasix.html). Beta, and still in progress. The cores site lists "C64 (V6 Beta)" with the work-in-progress cores and says it wants more testing. Those notes, updated 10 October 2026, say work has started on version 6.0, a release is planned for late 2026 or early 2027, and they describe Alpha 20. The same repository, [MJoergen/C64MEGA65](https://github.com/MJoergen/C64MEGA65), has tag WIP-V6-A24, tagged 7 November 2026.
+- [C128](https://github.com/eilers/c128Mega65). Beta, and still in progress. The cores site says it is very complete and wants some more testing. The repository has no GitHub Release. The newest tag is V2.0 Beta 1. The commit on 8 November 2026 says "This is V2.0 Beta 1."
+- [VIC-20](https://github.com/MJoergen/VIC20MEGA65). Work in progress. The cores site says it is fully functional, development is quiet, and only minor issues remain. The repository has no GitHub Releases.
+- [PET](https://github.com/Rhialto/MegaPET). Released version 1.3, published 24 May 2026. The cores site lists the Commodore PET series with the stable computer cores.
+- [C16 and Plus/4](https://github.com/piso77/C16-MEGA65). Released version 1.0, dated 17 April 2026 in the repository's VERSIONS file, which calls it a maintenance release. The cores site lists C16 and Plus/4 with the stable computer cores. The file host copy is [here](https://files.mega65.org?id=7a29a797-ae82-4455-8a27-f48cb856e524).
+- [C16 and Plus/4 extended](https://files.mega65.org?id=04585f68-14c0-43ae-8dd5-6448445ac926). Work in progress. The cores site says this build is only on the file host, and it has no proper documentation. That row does not link a GitHub repository.
+
+#### 16/32-Bit Computers
+
+- [Amiga 500](https://github.com/sy2002/AExp). Released version 1, published 22 July 2026. The cores site lists it with the stable computer cores. The guide for this core is [a500.mega65.org](https://a500.mega65.org/).
+- [Amiga 500 version 2](https://github.com/sy2002/AExp). Beta, and still in progress. The cores site lists "Amiga 500 (V2)" with the work-in-progress cores, says it is still in beta and wants more testing, and links a [B1 download](https://sy2002.de/dl/AExp-WIP-V2-B1.zip). The same repository has tag WIP-V2-B3, tagged 3 November 2026.
+- [Amiga 600 / 1200](https://github.com/johansmolinski/Megamiga). Work in progress. The cores site says this one is currently only for R6 machines and wants more testing. GitHub release 0.6.4 was published 19 October 2026. The repository calls it Megamiga and says it is a fork of AExp, not an official AExp release.
+- [PC10-III](https://github.com/johansmolinski/pc10-iii). Released version 0.1.1, published 6 November 2026. This one is from Commodore's PC-compatible era, and it is not on cores.mega65.org yet.
+
 Release 0.97.2 includes Freezer 0.40. That is the freezer I use. A separate [Freezer rework on GitHub](https://github.com/M3wP/MEGA65-Freezer) is still public. The last update there was 21 June 2022, so I treat it as a side project, not the current freezer.
 
 ## EMULATION {#emulation}
@@ -184,10 +202,12 @@ No MEGA≡65 yet? Xemu is how I tell people to start. It is free, and it runs on
 <div class="cols">
 <article class="topic-card">
 <span class="topic-card-name">Xemu</span>
-<span class="topic-card-blurb">The stable downloads on the Xemu page were stamped 29 January 2026 for Linux, Mac, and Windows. Use the stable (master) branch unless you are testing. The next branch is newer and less settled.</span>
+<span class="topic-card-blurb">The Xemu package contains many emulators. xmega65 is the one used for MEGA65 emulation. The stable downloads on the Xemu page were stamped 29 January 2026 for Linux, Mac, and Windows. Use the stable (master) branch unless you are testing. The next branch is newer and less settled.</span>
 <ul>
 <li><a href="https://github.lgb.hu/xemu/">Xemu download page</a></li>
 <li><a href="https://github.com/lgblgblgb/xemu/">Xemu source on GitHub</a></li>
+<li><a href="https://www.youtube.com/watch?v=8PbSxkYVD8I">Install and run the MEGA65 emulator, Xemu, on Mac OS X</a></li>
+<li><a href="https://www.youtube.com/watch?v=z65O6bxIkaY">Install the MEGA65 Emulator on a Chromebook!</a></li>
 </ul>
 </article>
 <article class="topic-card">
@@ -232,8 +252,6 @@ No MEGA≡65 yet? Xemu is how I tell people to start. It is free, and it runs on
 </ul>
 </article>
 </div>
-
-The museum is where the MEGA in MEGA≡65 comes from. It is the Museum of Electronic Games and Art, and it sponsors the project. Paul's blog is the long-running development diary.
 
 ## SUPPORT THE CHANNEL {#support}
 
