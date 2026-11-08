@@ -27,6 +27,7 @@ This is my start page for the Commodore Plus/4. I keep the User's Guide series, 
 
 The latest update (2026-11-08) includes:
 
+- The User's Guide chapter list, in chapter order. A row says Page + video only when that post has a YouTube video
 - A full-width layout for this page, with a jump list and grouped sections
 - The Plus/4 User's Guide playlist, with the channel support links above the posts
 - A pass on the resource list. Commodore4Ever is gone. Every link that remains was checked on 8 November 2026
@@ -52,10 +53,19 @@ The latest update (2026-11-08) includes:
 
 ## USER'S GUIDE {#users-guide}
 
-The [Plus/4 User's Guide playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTokz1IAmxM4ERr5ZJ-zTjFgn) follows the Commodore Plus/4 user's manual, chapter by chapter. Each video has a written page.
+### MY COMMODORE PLUS/4 USER'S GUIDE
+
+{% assign plus4_chapters = site.categories.plus4 | where_exp: "post", "post.title contains 'Manual'" | sort: "date" %}
+{% assign plus4_first = plus4_chapters | first %}
+
+Work through the Commodore Plus/4 User's Guide, chapter by chapter. The series follows the Plus/4 user's manual. Each chapter has a written page, and a video when the episode is on YouTube.
 
 <div class="guide-actions">
-<a class="btn primary" href="https://www.youtube.com/playlist?list=PLRVBh2hjFTokz1IAmxM4ERr5ZJ-zTjFgn">Watch the playlist</a><a class="btn ghost" href="{{ "/plus4-1" | relative_url }}">Read Chapter 0</a>
+<a class="btn primary" href="{{ plus4_first.url | relative_url }}">Start with Chapter 1</a><a class="btn ghost" href="https://www.youtube.com/playlist?list=PLRVBh2hjFTokz1IAmxM4ERr5ZJ-zTjFgn">Watch the playlist</a>
+</div>
+
+<div class="guide-series">
+{% include guide-list.html posts=plus4_chapters %}
 </div>
 
 ## SUPPORT THE CHANNEL {#support}
@@ -66,9 +76,9 @@ If the Plus/4 posts and videos are useful, the best help is a channel membership
 
 [Leave a tip](https://paypal.me/stevencombs)
 
-The cards are those written pages, plus the later Plus/4 posts.
+The cards are the later Plus/4 posts.
 
-{% include post-cards.html items=site.categories.plus4 %}
+{% include post-cards.html items=site.categories.plus4 skip_title="Manual" %}
 
 ## COMPANION DISK {#companion-disk}
 

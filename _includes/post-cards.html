@@ -4,6 +4,7 @@
 
   items: a list of posts (may be empty or nil).
   page_size: when set, only this many cards show until "Load more".
+  skip_title: when set, posts whose titles contain this text are left out.
 
   Thumbnail: the post's own image when it is not the sitewide social
   preview, otherwise the first real content photo, otherwise the charcoal tile.
@@ -18,6 +19,9 @@
 <div class="post-cards-block"{% if page_size > 0 and cards_left > 0 and include.with_meta != true %} data-post-cards{% endif %}>
   <div class="post-cards">
     {%- for post in cards -%}
+      {%- if include.skip_title != blank and post.title contains include.skip_title -%}
+        {%- continue -%}
+      {%- endif -%}
       {%- assign hide = false -%}
       {%- if page_size > 0 and forloop.index > page_size -%}
         {%- assign hide = true -%}

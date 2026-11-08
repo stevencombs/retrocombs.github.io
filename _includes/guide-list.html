@@ -1,3 +1,41 @@
+{%- comment -%}
+  Chapter list.
+  Default: site.data.guide chapters, or group="appendices".
+  posts: show these posts in the given order. The pill says
+  "Page + video" when the post embeds a YouTube video, and "Page" otherwise.
+{%- endcomment -%}
+{%- if include.posts -%}
+<div class="chlist">
+  <ol>
+    {% for post in include.posts %}
+    {%- assign label = post.title -%}
+    {%- assign n = "" -%}
+    {%- if post.title contains "Chapter " -%}
+      {%- assign after = post.title | split: "Chapter " | last | strip -%}
+      {%- assign n = after | split: " " | first | strip | split: "-" | first | strip -%}
+    {%- endif -%}
+    {%- if post.title contains " - " -%}
+      {%- assign label = post.title | split: " - " | last | strip -%}
+    {%- endif -%}
+    {%- if n == "" -%}
+      {%- assign n = forloop.index | minus: 1 | append: "" -%}
+    {%- endif -%}
+    {%- assign n = n | strip -%}
+    {%- if n.size == 1 -%}
+      {%- assign n = n | prepend: "0" -%}
+    {%- endif -%}
+    {%- assign has_video = false -%}
+    {%- if post.content contains "yt-lite" or post.content contains "youtube.html" or post.content contains "youtube-nocookie.com/embed" -%}
+      {%- assign has_video = true -%}
+    {%- endif -%}
+    <li>
+      <span><span class="n">{{ n }}</span><a href="{{ post.url | relative_url }}">{{ label }}</a></span>
+      {% if has_video %}<a class="st page" href="{{ post.url | relative_url }}">Page + video</a>{% else %}<a class="st page" href="{{ post.url | relative_url }}">Page</a>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</div>
+{%- else -%}
 {% if include.group == "appendices" %}
   {% assign entries = site.data.guide.appendices %}
   {% assign soon_label = "Coming soon" %}
@@ -21,3 +59,4 @@
     {% endfor %}
   </ol>
 </div>
+{% endif -%}
