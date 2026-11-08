@@ -1,4 +1,15 @@
-{%- assign mode  = page.ads | default: "full" -%}
+{%- comment -%}
+  In-article AdSense units. Posts and content pages share this include
+  and the in_article slot. mode defaults to page.ads, then "full".
+  The page layout passes mode="full" so ads: light still gets the post
+  pattern. ad.html renders nothing when page.ads is false.
+
+  Units go before a later h2 on long pages. They stay out of a block
+  that is still open: Key to Keys, a User's Guide chapter list
+  (guide-series / chlist), a topic board, a card row, or the Explore
+  catalog.
+{%- endcomment -%}
+{%- assign mode = include.mode | default: page.ads | default: "full" -%}
 {%- assign words = include.html | number_of_words -%}
 {%- assign parts = include.html | split: "<h2" -%}
 {%- assign n = parts.size | minus: 1 -%}
@@ -12,17 +23,32 @@
   {%- if a < 2 and a != -1 -%}{%- assign a = 2 -%}{%- endif -%}
 {%- endif -%}
 {%- assign placed_a = false -%}
+{%- assign so_far = "" -%}
+{%- assign block_markers = "key-to-keys|guide-series|chlist|topic-board|cols|explore" | split: "|" -%}
 {%- for part in parts -%}
-  {%- if forloop.first -%}{{ part }}{%- continue -%}{%- endif -%}
+  {%- if forloop.first -%}{{ part }}{%- assign so_far = part -%}{%- continue -%}{%- endif -%}
   {%- assign i = forloop.index0 -%}
   {%- assign prev_index = i | minus: 1 -%}
   {%- assign prev = parts[prev_index] -%}
   {%- assign risky = false -%}
   {%- if prev contains 'youtube' or prev contains '<iframe' or prev contains 'member-cta' or prev contains 'toc-box' -%}{%- assign risky = true -%}{%- endif -%}
-  {%- if placed_a == false and a != -1 and i >= a and risky == false -%}
+  {%- assign inside_block = false -%}
+  {%- for marker_name in block_markers -%}
+    {%- if inside_block == false -%}
+      {%- assign marker = 'class="' | append: marker_name | append: '"' -%}
+      {%- if so_far contains marker -%}
+        {%- assign tail = so_far | split: marker | last -%}
+        {%- assign open_divs = tail | split: '<div' | size | minus: 1 -%}
+        {%- assign close_divs = tail | split: '</div>' | size | minus: 1 -%}
+        {%- if open_divs >= close_divs -%}{%- assign inside_block = true -%}{%- endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if inside_block == false and placed_a == false and a != -1 and i >= a and risky == false -%}
     {% include ad.html slot="in_article" %}{%- assign placed_a = true -%}{%- assign min_b = i | plus: 2 -%}
-  {%- elsif placed_a and b != -1 and i >= b and i >= min_b and risky == false -%}
+  {%- elsif inside_block == false and placed_a and b != -1 and i >= b and i >= min_b and risky == false -%}
     {% include ad.html slot="in_article" %}{%- assign b = -1 -%}
   {%- endif -%}
   <h2{{ part }}
+  {%- assign so_far = so_far | append: "<h2" | append: part -%}
 {%- endfor -%}

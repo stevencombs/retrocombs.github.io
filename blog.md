@@ -2,7 +2,6 @@
 layout: pages
 title: Blog Posts
 permalink: blog
-ads: false
 wide: true
 ---
 

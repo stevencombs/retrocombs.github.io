@@ -65,7 +65,9 @@
     var rail = document.querySelector("aside.rail");
     if (!rail) {
       var mainCol = document.querySelector(".page-main");
-      if (mainCol) {
+      // wide: true pages (.prose-wide) stay one column. A manufactured
+      // 300px rail would shrink the full-width layout.
+      if (mainCol && !mainCol.querySelector(".prose-wide")) {
         var layout = document.createElement("div");
         layout.className = "layout";
         var col = document.createElement("div");
