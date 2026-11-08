@@ -3,6 +3,7 @@ layout: pages
 title: Linux
 permalink: linux
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/linux.svg" width="20%" />

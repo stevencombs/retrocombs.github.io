@@ -3,6 +3,7 @@ layout: pages
 title: About Steven
 permalink: about
 ads: false
+wide: true
 ---
 
 {% include topic-page-banner.html banner="personal" alt="About Steven banner" %}

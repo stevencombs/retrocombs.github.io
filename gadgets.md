@@ -3,6 +3,7 @@ layout: pages
 title: Gadgets
 permalink: /gadgets
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/gadgets.svg" width="20%" />

@@ -4,6 +4,7 @@ title: Commodore Plus/4 Resource Page
 permalink: plus4
 category: retro
 comments: false
+wide: true
 tags:
   - commodore
   - plus4
@@ -16,28 +17,35 @@ tags:
   - manual
 ---
 
-This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. I encourage you to contribute to this project by leaving a comment below any of the [blog posts](/retro).
+<!-- BANNER SLOT: Brand Kit is designing a new small Plus/4 banner. Keep /plus4/images/retrocombs-plus4.png until that art is ready to drop in. -->
+<p class="plus4-banner"><img src="/plus4/images/retrocombs-plus4.png" alt="retroCombs Plus/4" width="1557" height="461"></p>
 
-{% include member-cta.html channel="retrocombs" %}
+This is my start page for the Commodore Plus/4. I keep the User's Guide series, the disk image, the manual scans, and the links I actually use in one place. Bookmark it. If something here is wrong or missing, [send me an email](mailto:retrocombs@icloud.com).
 
-![retroCombs Plus/4](/plus4/images/retrocombs-plus4.png)
+## PAGE UPDATES {#page-updates}
 
-***
+The latest update (2026-11-08) includes:
 
-**Page Contents**
-<!-- TOC -->
+- A full-width layout for this page, with a jump list and grouped sections
+- The Plus/4 User's Guide playlist, with the channel support links above the posts
+- A pass on the resource list. Commodore4Ever is gone. Every link that remains was checked on 8 November 2026
+- Wording fixes in the disk image section, including the broken file-name example
 
-- [Key to Keys](#key-to-keys)
-- [Links to Posts](#links-to-posts)
-- [Companion Disk Image](#companion-disk-image)
-- [User's Manual](#users-manual)
-- [Plus/4 Resources](#plus4-resources)
+<div class="toc-box toc-jump">
+<p><strong>Jump to</strong></p>
+<ul>
+<li><a href="#key-to-keys">Key to Keys</a></li>
+<li><a href="#users-guide">User's Guide</a></li>
+<li><a href="#companion-disk">Companion disk</a></li>
+<li><a href="#users-manual">User's manual</a></li>
+<li><a href="#plus4-resources">Plus/4 resources</a></li>
+<li><a href="#support">Support the channel</a></li>
+</ul>
+</div>
 
-<!-- /TOC -->
+## KEY TO KEYS {#key-to-keys}
 
-***
-
-## Key to Keys
+<!-- REDESIGN: Brand Kit is designing a replacement for the Key to Keys description and table. Leave this copy in place until that design lands. -->
 
 Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
 
@@ -55,29 +63,44 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 | `↑`     | Cursor Up     | `↓`  | Cursor Down |
 | `→`     | Cursor Right  | `←`  | Cursor Left |
 
-## Links to Posts
+## USER'S GUIDE {#users-guide}
 
-Below is a link to each blog post in the series. Each blog post contains the companion YouTube video and most include links to items or sites.
+The [Plus/4 User's Guide playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTokz1IAmxM4ERr5ZJ-zTjFgn) follows the Commodore Plus/4 user's manual, chapter by chapter. Each video has a written page.
+
+<div class="guide-actions">
+<a class="btn primary" href="https://www.youtube.com/playlist?list=PLRVBh2hjFTokz1IAmxM4ERr5ZJ-zTjFgn">Watch the playlist</a><a class="btn ghost" href="{{ "/plus4-1" | relative_url }}">Read Chapter 0</a>
+</div>
+
+## SUPPORT THE CHANNEL {#support}
+
+If the Plus/4 posts and videos are useful, the best help is a channel membership. A tip helps too. The [supporters page](/supporters) is where I say thanks.
+
+{% include member-cta.html channel="retrocombs" lead=false %}
+
+[Leave a tip](https://paypal.me/stevencombs)
+
+The cards are those written pages, plus the later Plus/4 posts.
 
 {% include post-cards.html items=site.categories.plus4 %}
 
-## Companion Disk Image
+## COMPANION DISK {#companion-disk}
 
-As I progress through the user's manual, I enter and execute the sample programs. The link below is to a `.d81`.d64 image that below contains every program from each episode. **Currently, the image is not complete since we still have several chapters to go.**
+As I work through the user's manual, I type in the sample programs and run them. The file below is a `.d81` disk image of those programs. It is marked updated as of 2021-02-13. Later chapters may not be on this copy yet.
 
-[retroCombs User's Manual Disk Image](commodore-disk-images/plus4-users-manual.d81) - **UPDATED AS OF:** 2021-02-13
+[retroCombs User's Manual disk image](/commodore-disk-images/plus4-users-manual.d81)
 
-I use the following file name convention to make it easy to locate specific programs:
+I use this file name so a program is easy to find:
 
-<img src="/images/design/floppy-disk-small.png" align="right">Sample Program Name: `02 RCOMBS SCROLLC1P2-5RETROCOMBS.PRG`
+<img src="/images/design/floppy-disk-small.png" alt="" width="130" height="134">
 
-* `02C#` - where # is the chapter number
-* `RCOMBS SCROLL` - my self assigned name for the BASIC program which will be immediately identifiable if you follow along.P#` - where # is the page number where the program is first referenced in the user's manual
-* `NAME` - my self assigned name for the program
+Sample program name: `02 RCOMBS SCROLL.PRG`
 
-## User's Manual
+* `02` is the chapter number.
+* `RCOMBS SCROLL` is the self-assigned name of the BASIC program. It is easy to spot if you are following along.
 
-In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/4 user's manual. I've scanned each chapter and provide those below. I will post new chapters with each new video.
+## USER'S MANUAL {#users-manual}
+
+In the Plus/4 series I work through each chapter of the Plus/4 user's manual. The scans are below. The encyclopedia is the written companion that closes the series.
 
 1. [Front Matter](/plus4/users-manual/p4um-title-introduction.pdf)
 2. [Chapter 1 - Unpacking and Setting Up](/plus4/users-manual/p4um-chapter-1.pdf)
@@ -90,95 +113,48 @@ In the Commodore Plus/4 YouTube series, I work through each chapter of the Plus/
 9. [Chapter 8 - Making Sound and Music on the Plus/4](/plus4/users-manual/p4um-chapter-8.pdf)
 10. [Commodore Plus/4 User's Manual Series, Encyclopedia](/plus4-encyclopedia)
 
-## Plus/4 Resources
+## PLUS/4 RESOURCES {#plus4-resources}
 
-Below are links I've found to be most beneficial as I work through this series:
+These are the Plus/4 pages I send people to. I checked each one on 8 November 2026.
 
-1. ~~Commodore4Ever~~ - Sadly, the doors are closed on this business.
-2. [The Future was 8-bit](https://www.thefuturewas8bit.com/) - Source for parts and used to provide resources for the Tapuino project. U.K. based so allow some time for delivery if in the U.S.
-3. [RETRO Innovation](http://store.go4retro.com/) - Source for parts used for both the Tapuino and Pi1541 projects.
-3. [Plus/4 World](http://www.plus4world.com/) - The most incredible source of Plus/4 information and software available. I don't know how the team does it, but if you have a Commodore C16, Plus/4, or 264, this is the site you must visit.
-
-<!--
-1. [Commodore Plus/4 User's Manual, Chapter 0 - Open the Box](/plus4-1)
-
-    I share my first experience with a Commodore computer (it is not the Plus/4) and then open the box on my Commodore Plus/4 eBay purchase.
-
-    * [Commodore Plus/4 Computer Wikipedia Entry](https://en.wikipedia.org/wiki/Commodore_Plus/4)
-    * [Commodore Plus/4 Wiki](https://www.c64-wiki.com/wiki/Commodore_Plus/4)
-    * [My blog](/blog) (This site)
-    * [My Twitter feed](https://www.twitter.com/stevencombs)
-    * [My YouTube channel](https://www.youtube.com/stevencombs)
-
-2. [Commodore Plus/4 User's Manual, Chapter 1 - Unpacking and Setting Up](/plus4-2)
-
-    I open the Commodore Plus/4 manual for the first time and look at Chapter 1: Unpacking and Setting Up. Since the previous episode was an open the box, unpacking is already complete and this episode focuses on setting up the computer. Along the way I share a very cool tip.
-
-    * [Kenable 5 Pin Male Din Plug to 4 x RCA Phono Male Plugs Audio Cable 2m (~6 feet)](https://amzn.to/3cvSq9t)
-    * [Portable USB 2.0 AV/RCA Composite and S-Video Audio Video Capture Card Adapter VHS DVD](https://amzn.to/2Y0yKW3)
-    * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
-    * [RUN magazine](https://en.wikipedia.org/wiki/Run_(magazine))
-
-3. [Commodore Plus/4 User's Manual, Chapter 2 - Using the Keyboard and the Screen](/plus4-3)
-
-    I talk about the keyboard layout, using the keyboard, and then how keyboard combinations affect screen elements. This is really a "hands on" episode!
-
-    * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://www.ebay.com/itm/PiDRIVE-ZERO-Raspberry-Pi-HAT-pi1541-1581-Commodore-64-128-Vic-20-Emulator-OLED/333491606262?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
-    * [uxcell 6 pin connectors 4 pack](https://amzn.to/3fe4huQ)
-
-4. [Commodore Plus/4 User's Manual, Chapter 3 - Using Software](/plus4-4)
-
-    I cover each auxiliary storage device in detail; however, I add a modern spin and instead of the original devices; I use a new [264 diagnostic cartridge](https://www.thefuturewas8bit.com/diag-264.html), a [Tapuino](/tapuino-1), and a [Pi1541](/pi1541-1).
-
-    * [PiDRIVE ZERO Raspberry Pi HAT pi1541 1581 Commodore 64 128 Vic-20 Emulator OLED](https://commodore4ever.net/collections/drives/products/pidrive-zero-raspberry-pi-hat-1541-1581-commodore-64-128-vic-20-emulator-oled-pi1541)
-    * [Pi1541 Setup](/pi1541-1)
-    * [Create a Blank .d64 Disk Image](/pi1541-2)
-    * [Tapuino Project](/tapuino-1)
-    * [DIAG 264 Cartridge](https://www.thefuturewas8bit.com/diag-264.html)
-
-5. [Commodore Plus/4 User's Manual, Chapter 4 - Getting Started](/plus4-5)
-
-    It seems like we've been getting started over and over, but I guess now we really are since the manual told us so! In this chapter I look at keyboard colors, reverse printing, correcting mistakes, the screen, and even windows. Yes, that's right, I typed windows. See the blog post and video for more on that topic.
-
-    * [Pi1541 Setup](/pi1541-1)
-    * [Create a Blank .d64 Disk Image](/pi1541-2)
-    * [Tapuino Project](/tapuino-1)
-    * [Call out to Bil Herd for Information](https://twitter.com/StevenCombs/status/1299490942286811137?ref_src=twsrc%5Etfw)
-
-6. [Commodore Plus/4 User's Manual, Chapter 5 - Numbers and Calculations](/plus4-6)
-
-    In this chapter, _Number and Calculation_, I learn how to use the Plus/4 as a calculator in immediate mode, create a function, and learn more about working with numbers in Commodore BASIC 3.5. I even combine some things we learned in previous chapters to amp up our programs. It is a packed chapter and even though I'm no math teacher; I hope I do the concepts justice. This is one chapter where I find the User's Manual a bit lacking but adequate.
-
-    * [Commodore Plus/4 User's Manual Series](/plus4)
-    * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
-    * [The Tapuino Project](/tapuino-1)
-
-7. [Commodore Plus/4 User's Manual, Chapter 6 - Beginning BASIC Programming](/plus4-7)
-
-    In Chapter 6, _Beginning BASIC Programming_, of the Commodore Plus/4 user's manual, we begin where everyone should with their Commodore computer; learning the BASIC programming language. In previous chapters we have dabbled with BASIC; however, in this chapter, we dive in and learn the "basic" concepts you need to begin your BASIC programming journey.
-
-    * [Commodore Plus/4 User's Manual Series](/plus4)
-    * [TEDuino - A TED Series inspired Datasette powered by Tapuino](/teduino-1)
-    * [Pi1541 Assembly and First Use](/pi1541-1)
-    * [ Project](https://mega65.org/)
-    * [ Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
-    * [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
-    * [THEVIC20 - U.K. Listing](https://amzn.to/3l7hZlB)
-
-8. [Commodore Plus/4 User's Manual, Chapter 7 - Using Graphics and Color](/plus4-8)
-
-    Our first significant foray into custom graphics, besides PETSCII, on the Plus/4 begins in this chapter; _Using Graphics and Color_. The Plus/4 and its sibling, the C16 did not include sprites or other custom chips to enhance graphics; however, it did include a custom BASIC commands not found on the VIC-20 or C64. The extra graphics commands and additional graphics modes make the Plus/4 whole lotta fun if you want to draw on your computer using a command language.
-
-    * [Commodore Plus/4 User's Manual Series](/plus4)
-
-9. [Commodore Plus/4 User's Manual, Chapter 8 - Making Sound and Music on the Plus/4](/plus4-9)
-
-    This last chapter in the user's manual takes us on a musical and noise infused journey through Commodore Basic and the Plus/4 `SOUND` and `VOL` commands. The Plus/4 was not capable of the amazing sounds that come from it's older brother and sister, the Commodore 64 or the 128. Heck, it wasn't even as capable as the earlier VIC-20; however, with a little effort and creativity, you can put the two channels to use in business applications; the primary market for the Commodore TED series.
-
-    * [Pi1541 Setup](/pi1541-1)
-    * [Create a Blank .d64 Disk Image](/pi1541-2)
-
-10. [Commodore Plus/4 User's Manual Series, Encyclopedia](/plus4-encyclopedia)
-
-    Coming Soon.
--->
+<div class="cols">
+<article class="topic-card">
+<span class="topic-card-name">Plus/4 World</span>
+<span class="topic-card-blurb">The archive and the forum. If you have a Plus/4, C16, or 264, start here.</span>
+<ul>
+<li><a href="https://plus4world.powweb.com/">Plus/4 World. Games, tools, and documents for the Plus/4, C16, and 264.</a></li>
+<li><a href="https://plus4world.powweb.com/forum">Plus/4 World forum. The community board.</a></li>
+</ul>
+</article>
+<article class="topic-card">
+<span class="topic-card-name">Files and reference</span>
+<span class="topic-card-blurb">ROMs, software, the manual, and the written specs.</span>
+<ul>
+<li><a href="https://www.zimmers.net/anonftp/pub/cbm/plus4/index.html">Zimmers.net Plus/4 files. Software for the Plus/4, C16, and C116.</a></li>
+<li><a href="https://www.zimmers.net/anonftp/pub/cbm/firmware/computers/plus4/">Zimmers.net 264 firmware. Kernal, BASIC 3.5, and 3+1 ROMs.</a></li>
+<li><a href="https://www.zimmers.net/cbmpics/cplus4.html">Meet TED. Photo and specification page for the Plus/4.</a></li>
+<li><a href="https://archive.org/details/commodore-plus-4-users-manual">Plus/4 user's manual on the Internet Archive. A complete scan.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Commodore_Plus/4">Commodore Plus/4 on Wikipedia.</a></li>
+<li><a href="https://www.c64-wiki.com/wiki/Plus/4">Commodore Plus/4 on the C64-Wiki.</a></li>
+<li><a href="https://problemkaputt.de/pagezero.htm#c16plus4specs">Pagezero C16 and Plus/4 specifications.</a></li>
+<li><a href="https://github.com/mist64/cbmsrc">Original Commodore source on GitHub, including the TED BASIC and Kernal.</a></li>
+</ul>
+</article>
+<article class="topic-card">
+<span class="topic-card-name">Emulators</span>
+<span class="topic-card-blurb">Ways to run Plus/4 software without the machine on the desk.</span>
+<ul>
+<li><a href="http://yape.homeserver.hu/">YAPE. Plus/4 and C16 emulator. The site posted version 1.4.1 on 31 October 2026.</a></li>
+<li><a href="https://vice-emu.sourceforge.io/">VICE. Emulates the Plus/4 along with the other Commodore 8-bit computers.</a></li>
+<li><a href="https://plus4emu.sourceforge.net/">plus4emu. A portable Plus/4 and C16 emulator.</a></li>
+</ul>
+</article>
+<article class="topic-card">
+<span class="topic-card-name">Parts</span>
+<span class="topic-card-blurb">Shops I used while building the Tapuino and the Pi1541.</span>
+<ul>
+<li><a href="https://www.tfw8b.com/">The Future Was 8-bit. Parts, including Tapuino boards. The shop is in the U.K., so delivery to the U.S. takes some time.</a></li>
+<li><a href="https://store.go4retro.com/">RETRO Innovations. Parts I used for the Tapuino and the Pi1541.</a></li>
+</ul>
+</article>
+</div>

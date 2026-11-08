@@ -3,6 +3,7 @@ layout: pages
 title: Android
 permalink: android
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/android.svg" width="20%" />

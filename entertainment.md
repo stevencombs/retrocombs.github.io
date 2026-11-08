@@ -3,6 +3,7 @@ layout: pages
 title: Entertainment
 permalink: entertainment
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/entertainment.svg" width="20%" />
