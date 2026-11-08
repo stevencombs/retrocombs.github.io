@@ -958,6 +958,17 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .archive-tile .archive-ribbon span{top:32px;right:-28px;width:140px;font-size:9px}
 }
 
+/* MEGA65 resource page. wide: true already fills the content column.
+   The shared video cap is 500px, which stops short of that column on desktop.
+   video-wide is used only on /mega65. toc-jump is the jump list on that page. */
+.prose .video-container.video-wide video,
+.prose .video-container.video-wide img{width:100%;max-width:none}
+.prose .toc-box.toc-jump ul{list-style:none;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px 18px}
+.prose .toc-box.toc-jump li{margin:0}
+@media (max-width:760px){
+  .prose .toc-box.toc-jump ul{grid-template-columns:1fr}
+}
+
 @media (max-width:760px){
   .page-hero-explore h1{font-size:11px;letter-spacing:.04em;line-height:1.8}
   .explore-panel > summary{display:flex;align-items:center;min-height:44px;padding:0 14px;background:var(--rc-charcoal);color:var(--rc-cream);font-family:var(--font-sans);font-size:15px;font-weight:700;letter-spacing:0;cursor:pointer;list-style:none}

@@ -9,7 +9,7 @@ layout: default
 </section>
 <div class="wrap page-main">
   <div class="page-body">
-    {% include topic-page-banner.html %}
+    {% include topic-page-banner.html banner=page.banner alt=page.banner_alt %}
     <div class="prose{% if page.wide %} prose-wide{% endif %}">
       {{ content }}
     </div>
