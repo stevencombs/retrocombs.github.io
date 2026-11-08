@@ -3,11 +3,11 @@
 # hot: filled chip. rail: order in the post sidebar (omit to leave it out).
 # icon and blurb are used on /categories.
 # banner: optional slug. Images are
-# /images/banners/retroCombs_topic-banner_<slug>_final_{phone,wide}.png
+# /images/banners/retroCombs_topic-banner_<slug>_final_phone.png (1200×250)
+# and retroCombs_topic-banner_<slug>_final_phone@2x.png (2400×500),
 # with ?v={{ site.github.build_revision }}.
-# /categories shows the phone image; the lead card uses wide from 761px up.
-# The topic page whose url matches this item uses wide from 761px and phone
-# below. Omit banner and the card and the topic page keep their icon.
+# Topic pages and /categories use one img, srcset 1x/2x, at 1200/250.
+# Omit banner and the card and the topic page keep their icon.
 groups:
   - name: Retro computing
     items:
