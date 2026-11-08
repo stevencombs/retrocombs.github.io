@@ -5,12 +5,7 @@ permalink: mega65-users-guide
 wide: true
 ---
 
-<!-- Header banner slot. Brand Kit is designing the banner. Do not put an image here. -->
-<div class="banner-slot" role="note">
-<p>Header banner reserved. The Brand Kit is designing it.</p>
-</div>
-
-<img class="category" src="/images/design/mega65.svg" width="20%" />
+<p class="ug-banner"><img src="{{ '/images/banners/retroCombs_topic-banner_mega65-users-guide_final_phone.png?v=' | append: site.github.build_revision | relative_url }}" alt="MEGA65 User's Guide" width="1200" height="250"></p>
 
 ![MEGA65 User's Guide Series](/images/mega65-ug/mega65-users-guide.jpg)
 

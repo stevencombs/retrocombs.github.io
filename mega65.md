@@ -174,7 +174,9 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 <a class="btn primary" href="https://cores.mega65.org">cores.mega65.org</a>
 </div>
 
-These community cores are among the most requested, and they are a big part of the MEGA65's value. This is every Commodore 8-bit computer core on that list: C64, C128, VIC-20, PET, and the C16 and Plus/4. Statuses below are as of 8 November 2026. The cores site says its own list was current through 19 October 2026. I checked each GitHub repository the same day.
+These community cores are among the most requested, and they are a big part of the MEGA65's value. Statuses below are as of 8 November 2026. The cores site says its own list was current through 19 October 2026. I checked each GitHub repository the same day.
+
+#### 8-Bit Computers
 
 - [C64](https://github.com/MJoergen/C64MEGA65). Released version 5.2, published 28 April 2025. The cores site lists it with the stable computer cores. The guide for this core is [c64.mega65.org](https://c64.mega65.org/).
 - [C64 version 6](https://kugelblitz360.github.io/C64MEGA65DOCS/alphasix.html). Beta, and still in progress. The cores site lists "C64 (V6 Beta)" with the work-in-progress cores and says it wants more testing. Those notes, updated 10 October 2026, say work has started on version 6.0, a release is planned for late 2026 or early 2027, and they describe Alpha 20. The same repository, [MJoergen/C64MEGA65](https://github.com/MJoergen/C64MEGA65), has tag WIP-V6-A24, tagged 7 November 2026.
@@ -183,6 +185,13 @@ These community cores are among the most requested, and they are a big part of t
 - [PET](https://github.com/Rhialto/MegaPET). Released version 1.3, published 24 May 2026. The cores site lists the Commodore PET series with the stable computer cores.
 - [C16 and Plus/4](https://github.com/piso77/C16-MEGA65). Released version 1.0, dated 17 April 2026 in the repository's VERSIONS file, which calls it a maintenance release. The cores site lists C16 and Plus/4 with the stable computer cores. The file host copy is [here](https://files.mega65.org?id=7a29a797-ae82-4455-8a27-f48cb856e524).
 - [C16 and Plus/4 extended](https://files.mega65.org?id=04585f68-14c0-43ae-8dd5-6448445ac926). Work in progress. The cores site says this build is only on the file host, and it has no proper documentation. That row does not link a GitHub repository.
+
+#### 16/32-Bit Computers
+
+- [Amiga 500](https://github.com/sy2002/AExp). Released version 1, published 22 July 2026. The cores site lists it with the stable computer cores. The guide for this core is [a500.mega65.org](https://a500.mega65.org/).
+- [Amiga 500 version 2](https://github.com/sy2002/AExp). Beta, and still in progress. The cores site lists "Amiga 500 (V2)" with the work-in-progress cores, says it is still in beta and wants more testing, and links a [B1 download](https://sy2002.de/dl/AExp-WIP-V2-B1.zip). The same repository has tag WIP-V2-B3, tagged 3 November 2026.
+- [Amiga 600 / 1200](https://github.com/johansmolinski/Megamiga). Work in progress. The cores site says this one is currently only for R6 machines and wants more testing. GitHub release 0.6.4 was published 19 October 2026. The repository calls it Megamiga and says it is a fork of AExp, not an official AExp release.
+- [PC10-III](https://github.com/johansmolinski/pc10-iii). Released version 0.1.1, published 6 November 2026. This one is from Commodore's PC-compatible era, and it is not on cores.mega65.org yet.
 
 Release 0.97.2 includes Freezer 0.40. That is the freezer I use. A separate [Freezer rework on GitHub](https://github.com/M3wP/MEGA65-Freezer) is still public. The last update there was 21 June 2022, so I treat it as a side project, not the current freezer.
 
