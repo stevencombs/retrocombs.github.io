@@ -61,12 +61,11 @@ Oh my...
 - That flying couplet wasn’t a one-off. Isis often called on her powers with a rhyming incantation.
 - Those end-of-episode lessons, with Isis talking straight to the camera, were removed from later versions of the show. The DVD set includes the surviving ones as extras.
 - Only 22 episodes were made.
-- JoAnna Cameron also had a busy career in TV commercials.
+- JoAnna Cameron was the queen of TV commercials. The 1979 Guinness Book of World Records said she had appeared in more than 100 national network TV commercials, more than anyone else in advertising history. Merv Griffin once estimated that her commercials, strung together, would run for 150 hours.
 - Sadly, JoAnna Cameron passed away on October 15, 2021.
 
-**Rumor mill (unverified):** I haven’t confirmed these next two claims, so take them as speculation for now:
+**Rumor mill (unverified):** I haven’t confirmed this next claim, so take it as speculation for now:
 
 - The rumor is that the two-part finale, *Now You See It...* and *...Now You Don’t*, was meant as a backdoor pilot for a spin-off about a group of young detectives called the Super-Sleuths. The series never happened.
-- I’ve also seen a claim that JoAnna Cameron appeared in 105 TV commercials and earned a Guinness record. I haven’t verified the number, the record or its category.
 
-If you can confirm either one, let me know in the comments below.
+If you can confirm it, let me know in the comments below.
