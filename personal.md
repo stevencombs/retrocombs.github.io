@@ -3,6 +3,7 @@ layout: pages
 title: Personal
 permalink: personal
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/steven-square.svg" width="20%" />

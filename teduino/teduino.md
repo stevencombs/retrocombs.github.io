@@ -14,6 +14,7 @@ tags:
   - datasette
   - ted
   - tapuino
+wide: true
 ---
 
 This page is an ongoing resource for readers and watchers of my Commodore Plus/4 series. This page captures content from my TEDuino project. I encourage you to contribute to this project by leaving a comment below any of the [blog posts](/retro).

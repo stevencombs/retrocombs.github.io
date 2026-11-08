@@ -6,6 +6,7 @@ redirect_from:
   - /chrome.html
 
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/chromeos.svg" width="20%" />

@@ -3,6 +3,7 @@ layout: pages
 title: Wyze Products
 permalink: wyze
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/wyze.svg" width="20%" />

@@ -3,6 +3,7 @@ layout: pages
 title: Art and Supplies
 permalink: art
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/art.svg" width="20%" />
