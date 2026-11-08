@@ -25,6 +25,7 @@ image:
   height: 720
   alt: 'Roguecraft DX running on the MEGA65 in 240 colors'
 kind: review
+rating: 4.5
 ---
 
 A pitch-black dungeon, 15 levels of eldritch horror, one life, and a chicken that pecks like a demon. Roguecraft DX came out in February 2026, and I think it's the MEGA65's first true commercial killer game. If you thought 8-bit peaked in the 1980s, wait until you see 240 colors on screen at once in the Dungeons of Mordecoom.
