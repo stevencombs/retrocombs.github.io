@@ -30,6 +30,7 @@ The latest update (2026-11-08) includes:
 - The Plus/4 User's Guide playlist, with the channel support links above the posts
 - A pass on the resource list. Commodore4Ever is gone. Every link that remains was checked on 8 November 2026
 - Wording fixes in the disk image section, including the broken file-name example
+- The Key to Keys list, with a key cap for each Plus/4 key
 
 <div class="toc-box toc-jump">
 <p><strong>Jump to</strong></p>
@@ -45,23 +46,7 @@ The latest update (2026-11-08) includes:
 
 ## KEY TO KEYS {#key-to-keys}
 
-<!-- REDESIGN: Brand Kit is designing a replacement for the Key to Keys description and table. Leave this copy in place until that design lands. -->
-
-Because the Commodore Plus/4 keyboard is so different from modern keyboards, I devised a modern key nomenclature to identify keystroke combinations as shown in the table below:
-
-| Key     | Description   | Key  | Description |
-|:--------|:--------------|:-----|:------------|
-| `⇪`     | Caps Lock     | `F1` | Function 1  |
-| `[C=]`  | Commodore     | `F2` | Function 2  |
-| `⌃`     | Control       | `F3` | Function 3  |
-| `⎋`     | Escape        | `F4` | Function 4  |
-| `⌂`     | Clear/Home    | `F5` | Function 5  |
-| `⌫`     | Insert Delete | `F6` | Function 6  |
-| `⏎`     | Return        | `F7` | Function 7  |
-| `[R/S]` | Run/Stop      | `F8` | Help        |
-| `⇧`     | Shift         | `␣`  | Space       |
-| `↑`     | Cursor Up     | `↓`  | Cursor Down |
-| `→`     | Cursor Right  | `←`  | Cursor Left |
+{% include key-to-keys.html %}
 
 ## USER'S GUIDE {#users-guide}
 

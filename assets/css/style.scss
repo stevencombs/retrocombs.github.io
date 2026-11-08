@@ -992,3 +992,22 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .explore-tools{grid-template-columns:1fr}
   .explore .post-cards{grid-template-columns:1fr}
 }
+
+/* Key to Keys on /plus4. Site color variables only. The block is the full prose column. */
+.prose .key-to-keys{width:100%;max-width:none;box-sizing:border-box;background:var(--rc-cream);color:var(--rc-ink);border-radius:12px;padding:16px 20px 18px;margin:0 0 1.2em}
+.prose .key-to-keys-stripes{display:flex;height:6px;border-radius:2px;overflow:hidden;margin:0 0 14px}
+.prose .key-to-keys-stripes i{flex:1;display:block}
+.prose .key-to-keys-stripes i:nth-child(1){background:var(--st-red)}
+.prose .key-to-keys-stripes i:nth-child(2){background:var(--st-orange)}
+.prose .key-to-keys-stripes i:nth-child(3){background:var(--st-yellow)}
+.prose .key-to-keys-stripes i:nth-child(4){background:var(--st-green)}
+.prose .key-to-keys-stripes i:nth-child(5){background:var(--st-blue)}
+.prose .key-to-keys-lead{margin:0 0 14px;font-family:var(--font-sans);font-size:16px;line-height:1.6;color:var(--rc-ink)}
+.prose .key-to-keys-list{display:grid;grid-template-columns:1fr 1fr;gap:10px 22px;list-style:none;margin:0;padding:0}
+.prose .key-to-keys-list li{display:grid;grid-template-columns:minmax(5.6em,7.2em) 1fr;gap:12px;align-items:center;min-height:44px;margin:0}
+.prose .key-to-keys kbd{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:40px;padding:6px 8px;font-family:var(--font-mono);font-size:14px;font-weight:600;line-height:1.15;letter-spacing:0;text-transform:none;color:var(--rc-ink);background:var(--rc-beige);border:2px solid var(--rc-charcoal);border-bottom-width:4px;border-radius:6px;text-align:center}
+.prose .key-to-keys-list span{font-family:var(--font-sans);font-size:16px;line-height:1.35;color:var(--rc-ink)}
+@media (max-width:760px){
+  .prose .key-to-keys-list{grid-template-columns:1fr}
+  .prose .key-to-keys{padding:14px 14px 16px}
+}
