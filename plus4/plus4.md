@@ -76,7 +76,7 @@ If the Plus/4 posts and videos are useful, the best help is a channel membership
 
 [Leave a tip](https://paypal.me/stevencombs)
 
-The cards are the later Plus/4 posts.
+## My Other Plus/4 Posts
 
 {% include post-cards.html items=site.categories.plus4 skip_title="Manual" %}
 
