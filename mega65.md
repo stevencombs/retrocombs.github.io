@@ -24,6 +24,7 @@ The latest update (2026-11-08) includes:
 - A note that the Xemu package holds many emulators, and that xmega65 is the MEGA65 one, plus two install videos
 - The museum sentence under Community is gone
 - Commodore computer cores as its own card, after Manuals and tools. The freezer note is in that Manuals and tools card
+- Tiles use a short description, then a plain link list. Commodore computer cores follows that format, and the freezer note is a list link under Manuals and tools
 
 The earlier update (2026-11-07) includes:
 
@@ -65,7 +66,7 @@ The mainboard without the case is article TE0765-07-B. The same shop listed it a
 <span class="topic-card-blurb">The complete machine, the parts shop, and the bare mainboard.</span>
 <ul>
 <li><a href="https://www.trenz-electronic.de/en/MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer/TE0765-07-AK">Complete MEGA65 at Trenz (TE0765-07-AK)</a></li>
-<li><a href="https://www.trenz-electronic.de/en/Products/MEGA65/">MEGA65 shop: cases, drives, keyboards, and more</a></li>
+<li><a href="https://www.trenz-electronic.de/en/Products/MEGA65/">MEGA65 parts shop</a></li>
 <li><a href="https://www.trenz-electronic.de/en/MEGA65-Mainboard-without-housing/TE0765-07-B">Mainboard without the case (TE0765-07-B)</a></li>
 </ul>
 </article>
@@ -108,15 +109,15 @@ Work through the MEGA≡65 User's Guide, chapter by chapter. Each chapter has a 
 <ul>
 <li><a href="/mega65-blog">MEGA65 blog posts</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PLRVBh2hjFTomsrJnQdqFmoZUdT6qHocpo">MEGA65 YouTube playlist</a></li>
-<li><a href="/mega65-intro-disk-v4">Intro Disk V4: what it is and how to run it</a></li>
+<li><a href="/mega65-intro-disk-v4">Intro Disk V4</a></li>
 </ul>
 </article>
 <article class="topic-card" id="my-mega65-coding">
 <span class="topic-card-name">My MEGA65 Coding</span>
-<span class="topic-card-blurb">Two small programs of mine on the file host.</span>
+<span class="topic-card-blurb">Two small programs of mine on the file host. The colors demo has sound effects. The submarine demo recreates a program from the Commodore 128 Programmer's Reference Guide.</span>
 <ul>
-<li><a href="https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b">MEGA65 Colors BASIC Demo. A short program, with sound effects, that shows the standard and extended colors.</a></li>
-<li><a href="https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270">Submarine Tracking System Demo. My recreation of the submarine tracking program from the Commodore 128 Programmer's Reference Guide.</a></li>
+<li><a href="https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b">MEGA65 Colors BASIC demo</a></li>
+<li><a href="https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270">Submarine Tracking System demo</a></li>
 <li><a href="/basic65-sub-track-update">Submarine tracking write-up</a></li>
 </ul>
 </article>
@@ -129,29 +130,29 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 <div class="cols">
 <article class="topic-card">
 <span class="topic-card-name">Cores</span>
-<span class="topic-card-blurb">The newest numbered release is 0.97.2, published 28 September 2025. It is a compatibility patch for the R6A board. An earlier R6 board can stay on 0.97. Release 0.98 was not out when I checked. These downloads do not include the ROM. The R6 package also holds the freezer and the other SD card files.</span>
+<span class="topic-card-blurb">The newest numbered release is 0.97.2, published 28 September 2025. It is a compatibility patch for the R6A board. An earlier R6 board can stay on 0.97. Release 0.98 was not out when I checked. These downloads do not include the ROM. The R6 package also holds the freezer and the other SD card files. R3, R2, and the Nexys4DDR widget are release 0.97.</span>
 <ul>
-<li><a href="https://files.mega65.org?id=764642f7-83bc-4162-9911-99a0a6283d08">R6 core, release 0.97.2. Use this on an R6 or R6A board.</a></li>
-<li><a href="https://files.mega65.org?id=8d295d12-4422-4dc4-9553-64bf424e860e">R3 core, release 0.97. DevKit and MEGA65 R3a. Published 1 May 2025.</a></li>
-<li><a href="https://files.mega65.org?id=948f9d5a-cd8e-4d6a-b5ed-0285377e4c53">R2 core, release 0.97. Published 1 May 2025.</a></li>
-<li><a href="https://files.mega65.org?id=a2b3c6a2-be4c-4b98-9df4-2bc14df0f222">Nexys4DDR widget core, release 0.97</a></li>
-<li><a href="https://github.com/MEGA65/mega65-core/releases/tag/release-0.97.2">Release notes for 0.97.2</a></li>
+<li><a href="https://files.mega65.org?id=764642f7-83bc-4162-9911-99a0a6283d08">R6 and R6A core</a></li>
+<li><a href="https://files.mega65.org?id=8d295d12-4422-4dc4-9553-64bf424e860e">R3 core (DevKit and R3a)</a></li>
+<li><a href="https://files.mega65.org?id=948f9d5a-cd8e-4d6a-b5ed-0285377e4c53">R2 core</a></li>
+<li><a href="https://files.mega65.org?id=a2b3c6a2-be4c-4b98-9df4-2bc14df0f222">Nexys4DDR core</a></li>
+<li><a href="https://github.com/MEGA65/mega65-core/releases/tag/release-0.97.2">Release notes</a></li>
 </ul>
 </article>
 <article class="topic-card">
 <span class="topic-card-name">ROM</span>
-<span class="topic-card-blurb">Stable ROM 920413 shipped with release 0.97. The ROM changelog calls it stable as of 27 April 2025. It needs the 0.97 core, or Xemu from 23 April 2025 or later. Beta ROM 920423 is the testing build. The file host copy is dated 29 October 2026. I stay on the stable ROM unless I am testing.</span>
+<span class="topic-card-blurb">Stable ROM 920413 shipped with release 0.97. The ROM changelog calls it stable as of 27 April 2025. It needs the 0.97 core, or Xemu from 23 April 2025 or later. Beta ROM 920423 is the testing build. The file host copy is dated 29 October 2026. I stay on the stable ROM unless I am testing. SD Card Essentials is an old pack with no ROM, and I do not use it on a current machine.</span>
 <ul>
 <li><a href="https://files.mega65.org?ar=e9fdd71c-bf9f-4156-a728-8443c07bcceb">How to download closed ROM files</a></li>
-<li><a href="https://files.mega65.org?id=fd2c40b9-f337-41f7-8a81-0254b1e09fb5">Stable ROM diff, 920413</a></li>
-<li><a href="https://files.mega65.org?id=22f1eb6c-3df5-43c4-a584-e8212fc80b9d">Beta ROM diff, 920423</a></li>
+<li><a href="https://files.mega65.org?id=fd2c40b9-f337-41f7-8a81-0254b1e09fb5">Stable ROM diff</a></li>
+<li><a href="https://files.mega65.org?id=22f1eb6c-3df5-43c4-a584-e8212fc80b9d">Beta ROM diff</a></li>
 <li><a href="https://github.com/MEGA65/mega65-rom-public/blob/main/CHANGELOG.md">ROM changelog</a></li>
-<li><a href="https://files.mega65.org?id=0fb941fe-5c5f-4608-b0f1-32849d4a8dff">SD Card Essentials, no ROM. Version 1.2, from 18 June 2022. I do not use this for a current machine. Use the core release package instead.</a></li>
+<li><a href="https://files.mega65.org?id=0fb941fe-5c5f-4608-b0f1-32849d4a8dff">SD Card Essentials</a></li>
 </ul>
 </article>
 <article class="topic-card">
 <span class="topic-card-name">Manuals and tools</span>
-<span class="topic-card-blurb">The official PDFs were version 1.2 on 20 October 2026. The stable tools package is version 1.00 from 10 August 2024. Newer development builds, dated 5 October 2026, are on the file host if you need a newer m65 or mega65_ftp.</span>
+<span class="topic-card-blurb">The official PDFs were version 1.2 on 20 October 2026. The stable tools package is version 1.00 from 10 August 2024. Newer development builds, dated 5 October 2026, are on the file host if you need a newer m65 or mega65_ftp. Freezer 0.40 ships with release 0.97.2.</span>
 <ul>
 <li><a href="https://mega65.org/user-guide">User's Guide</a></li>
 <li><a href="https://mega65.org/developer-guide">Developer's Guide</a></li>
@@ -161,6 +162,7 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 <li><a href="https://mega65.org/wiki">MEGA65 Wiki</a></li>
 <li><a href="https://github.com/MEGA65/mega65-user-guide/blob/master/styleguide.tex">Style guide for writers</a></li>
 <li><a href="https://github.com/MEGA65">MEGA65 on GitHub</a></li>
+<li><a href="https://github.com/M3wP/MEGA65-Freezer">Freezer rework (M3wP, GitHub)</a></li>
 <li><a href="https://files.mega65.org?id=57f855b9-a758-49df-ba7c-d120c4d1241d">Tools release, Mac</a></li>
 <li><a href="https://files.mega65.org?id=06c55815-7826-4ad6-be0e-b8dc5e721b6d">Tools release, Windows</a></li>
 <li><a href="https://files.mega65.org?id=e3ec875c-ca31-44fc-a268-ab6f9990e004">Tools release, Linux</a></li>
@@ -168,39 +170,25 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 <li><a href="https://files.mega65.org?id=658322fd-e586-4b4f-a991-89470b269b4a">Tools development build, Windows</a></li>
 <li><a href="https://files.mega65.org?id=2b7bd912-1181-447c-a489-223f16b764c1">Tools development build, Linux</a></li>
 </ul>
-<p>Release 0.97.2 includes Freezer 0.40. That is the freezer I use. A separate <a href="https://github.com/M3wP/MEGA65-Freezer">Freezer rework on GitHub</a> is still public. The last update there was 21 June 2022, so I treat it as a side project, not the current freezer.</p>
 </article>
-<style>
-.prose #commodore-cores li a{display:inline;padding:0;font-size:inherit;line-height:inherit;color:var(--rc-red);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
-.prose #commodore-cores li a:hover,.prose #commodore-cores li a:focus-visible{color:var(--rc-red);text-decoration-thickness:2px}
-.prose #commodore-cores li{margin:.45em 0}
-.prose .cols:has(#commodore-cores){align-items:start}
-</style>
 <article class="topic-card" id="commodore-cores">
 <span class="topic-card-name">Commodore computer cores</span>
-<div class="guide-actions">
-<a class="btn primary" href="https://cores.mega65.org">cores.mega65.org</a>
-</div>
-<div markdown="1">
-These community cores are among the most requested, and they are a big part of the MEGA65's value. Statuses below are as of 8 November 2026. The cores site says its own list was current through 19 October 2026. I checked each GitHub repository the same day.
-
-#### 8-Bit Computers
-
-- [C64](https://github.com/MJoergen/C64MEGA65). Released version 5.2, published 28 April 2025. The cores site lists it with the stable computer cores. The guide for this core is [c64.mega65.org](https://c64.mega65.org/).
-- [C64 version 6](https://kugelblitz360.github.io/C64MEGA65DOCS/alphasix.html). Beta, and still in progress. The cores site lists "C64 (V6 Beta)" with the work-in-progress cores and says it wants more testing. Those notes, updated 10 October 2026, say work has started on version 6.0, a release is planned for late 2026 or early 2027, and they describe Alpha 20. The same repository, [MJoergen/C64MEGA65](https://github.com/MJoergen/C64MEGA65), has tag WIP-V6-A24, tagged 7 November 2026.
-- [C128](https://github.com/eilers/c128Mega65). Beta, and still in progress. The cores site says it is very complete and wants some more testing. The repository has no GitHub Release. The newest tag is V2.0 Beta 1. The commit on 8 November 2026 says "This is V2.0 Beta 1."
-- [VIC-20](https://github.com/MJoergen/VIC20MEGA65). Work in progress. The cores site says it is fully functional, development is quiet, and only minor issues remain. The repository has no GitHub Releases.
-- [PET](https://github.com/Rhialto/MegaPET). Released version 1.3, published 24 May 2026. The cores site lists the Commodore PET series with the stable computer cores.
-- [C16 and Plus/4](https://github.com/piso77/C16-MEGA65). Released version 1.0, dated 17 April 2026 in the repository's VERSIONS file, which calls it a maintenance release. The cores site lists C16 and Plus/4 with the stable computer cores. The file host copy is [here](https://files.mega65.org?id=7a29a797-ae82-4455-8a27-f48cb856e524).
-- [C16 and Plus/4 extended](https://files.mega65.org?id=04585f68-14c0-43ae-8dd5-6448445ac926). Work in progress. The cores site says this build is only on the file host, and it has no proper documentation. That row does not link a GitHub repository.
-
-#### 16/32-Bit Computers
-
-- [Amiga 500](https://github.com/sy2002/AExp). Released version 1, published 22 July 2026. The cores site lists it with the stable computer cores. The guide for this core is [a500.mega65.org](https://a500.mega65.org/).
-- [Amiga 500 version 2](https://github.com/sy2002/AExp). Beta, and still in progress. The cores site lists "Amiga 500 (V2)" with the work-in-progress cores, says it is still in beta and wants more testing, and links a [B1 download](https://sy2002.de/dl/AExp-WIP-V2-B1.zip). The same repository has tag WIP-V2-B3, tagged 3 November 2026.
-- [Amiga 600 / 1200](https://github.com/johansmolinski/Megamiga). Work in progress. The cores site says this one is currently only for R6 machines and wants more testing. GitHub release 0.6.4 was published 19 October 2026. The repository calls it Megamiga and says it is a fork of AExp, not an official AExp release.
-- [PC10-III](https://github.com/johansmolinski/pc10-iii). Released version 0.1.1, published 6 November 2026. This one is from Commodore's PC-compatible era, and it is not on cores.mega65.org yet.
-</div>
+<span class="topic-card-blurb">Community Commodore cores for the MEGA65. The shared list is at <a href="https://cores.mega65.org">cores.mega65.org</a>.</span>
+<h4>8-Bit Computers</h4>
+<ul>
+<li><a href="https://github.com/MJoergen/C64MEGA65">Commodore 64</a></li>
+<li><a href="https://github.com/eilers/c128Mega65">Commodore 128</a></li>
+<li><a href="https://github.com/MJoergen/VIC20MEGA65">Commodore VIC-20</a></li>
+<li><a href="https://github.com/Rhialto/MegaPET">Commodore PET</a></li>
+<li><a href="https://github.com/piso77/C16-MEGA65">Commodore 16 and Plus/4</a></li>
+<li><a href="https://files.mega65.org?id=04585f68-14c0-43ae-8dd5-6448445ac926">Commodore 16 and Plus/4 (extended)</a></li>
+</ul>
+<h4>16/32-Bit Computers</h4>
+<ul>
+<li><a href="https://github.com/sy2002/AExp">Commodore Amiga 500</a></li>
+<li><a href="https://github.com/johansmolinski/Megamiga">Commodore Amiga 600/1200 (MegAmiga)</a></li>
+<li><a href="https://github.com/johansmolinski/pc10-iii">Commodore PC10-III</a></li>
+</ul>
 </article>
 </div>
 
@@ -215,12 +203,12 @@ No MEGA≡65 yet? Xemu is how I tell people to start. It is free, and it runs on
 <ul>
 <li><a href="https://github.lgb.hu/xemu/">Xemu download page</a></li>
 <li><a href="https://github.com/lgblgblgb/xemu/">Xemu source on GitHub</a></li>
-<li><a href="https://www.youtube.com/watch?v=8PbSxkYVD8I">Install and run the MEGA65 emulator, Xemu, on Mac OS X</a></li>
-<li><a href="https://www.youtube.com/watch?v=z65O6bxIkaY">Install the MEGA65 Emulator on a Chromebook!</a></li>
+<li><a href="https://www.youtube.com/watch?v=8PbSxkYVD8I">Install Xemu on Mac</a></li>
+<li><a href="https://www.youtube.com/watch?v=z65O6bxIkaY">Install Xemu on a Chromebook</a></li>
 </ul>
 </article>
 <article class="topic-card">
-<span class="topic-card-name">M65Connect 2.5</span>
+<span class="topic-card-name">M65Connect</span>
 <span class="topic-card-blurb">This is the GUI I use to move files and talk to a real MEGA≡65 over the network or a JTAG adapter. Version 2.5 is the current download on the file host, published 9 November 2025.</span>
 <ul>
 <li><a href="https://files.mega65.org?id=5919a8b8-c23c-4616-9a52-37e077076638">Mac (Universal)</a></li>
