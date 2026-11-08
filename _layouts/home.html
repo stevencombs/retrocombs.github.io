@@ -1,15 +1,10 @@
 ---
 layout: default
 ---
-<section class="hero">
+<section class="hero hero-slim">
   <div class="wrap">
-    <div>
-      <div class="eyebrow">Series · MEGA65 User's Guide</div>
-      <h1>Work through the MEGA65 User's Guide, chapter by chapter.</h1>
-      <p>Each chapter gets a video, a written companion page, the commands from the episode, and links to the official manual.</p>
-      <a class="btn primary" href="{{ "/mega65-ug-1" | relative_url }}">Start with Chapter 1</a><a class="btn ghost" href="{{ site.data.guide.playlist }}">Watch the playlist</a>
-    </div>
-    {% include guide-list.html %}
+    <h1>Learning the MEGA65? Work through the User's Guide chapter by chapter.</h1>
+    <a class="btn primary" href="{{ "/mega65" | relative_url }}">Visit the MEGA65 page</a>
   </div>
 </section>
 
@@ -63,16 +58,36 @@ layout: default
   </div>
 </section>
 
-<section class="block">
+<section class="block" id="from-blog">
   <div class="wrap">
     <h2>From the blog</h2>
     <p class="sub">Written companions, how-tos, and notes from the workbench.</p>
-    <div class="posts">
+    <div class="posts" id="blog-row-1">
+      <article class="post archive-tile" id="archive-tile" hidden data-src="{{ "/archive-posts.json" | relative_url }}">
+        <p class="archive-ribbon"><span>From the Archives</span></p>
+        <div class="archive-mark">
+          <svg class="archive-icon" viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+            <rect x="8" y="6" width="48" height="52" rx="3" fill="var(--rc-charcoal)"/>
+            <rect x="14" y="6" width="28" height="18" fill="var(--rc-beige)"/>
+            <rect x="18" y="10" width="20" height="8" fill="var(--rc-slate)"/>
+            <rect x="44" y="8" width="6" height="5" fill="var(--st-blue)"/>
+            <rect x="16" y="32" width="32" height="18" rx="1" fill="var(--rc-cream)"/>
+            <rect x="28" y="36" width="8" height="8" fill="var(--rc-red)"/>
+            <rect x="18" y="50" width="10" height="2" fill="var(--st-yellow)"/>
+          </svg>
+          <span class="archive-year" aria-hidden="true"></span>
+        </div>
+        <img class="archive-photo" alt="" hidden>
+        <time datetime=""></time>
+        <h4><a href=""></a></h4>
+        <p class="archive-excerpt"></p>
+        <a class="pill" href="" hidden></a>
+      </article>
       {% for post in site.posts limit:8 %}
       {% if forloop.index == 5 %}
     </div>
     {% include ad.html slot="feed" %}
-    <div class="posts">
+    <div class="posts" id="blog-row-2">
       {% endif %}
       <div class="post">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
@@ -97,3 +112,4 @@ layout: default
     </div>
   </div>
 </section>
+<script src="{{ "/assets/js/archive-tile.js" | relative_url }}" defer></script>

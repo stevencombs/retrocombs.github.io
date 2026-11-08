@@ -912,6 +912,52 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
 @media (min-width:761px){
   .explore-panel > .explore-panel-body{display:block !important}
 }
+/* Slim home banner. Points at /mega65; the chapter list lives on that page. */
+.hero.hero-slim{padding:18px 0}
+.hero.hero-slim .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px 28px}
+.hero.hero-slim h1{margin:0;max-width:46rem;flex:1;min-width:0;color:#fff;font-size:18px;font-weight:700;letter-spacing:-.2px;line-height:1.35}
+.hero.hero-slim .btn{flex:none}
+@media (max-width:760px){
+  .hero.hero-slim{padding:16px 0}
+  .hero.hero-slim .wrap{flex-direction:column;align-items:flex-start;gap:12px}
+  .hero.hero-slim h1{font-size:16px}
+  .hero.hero-slim .btn{margin:0}
+}
+
+/* User's Guide actions and chapter list on the MEGA65 page. */
+.prose .guide-actions{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 1.1em}
+.prose .guide-actions .btn{text-decoration:none;overflow-wrap:normal}
+.prose .guide-actions .btn.primary{color:#222}
+.prose .guide-actions .btn.ghost{margin:0;border-color:var(--rc-charcoal);color:var(--rc-ink);background:transparent}
+.prose .guide-actions .btn.ghost:hover,.prose .guide-actions .btn.ghost:focus-visible{border-color:var(--rc-red);color:var(--rc-red);text-decoration:none}
+.prose .chlist a{overflow-wrap:normal}
+.page-body .prose:not(.prose-wide) .guide-series{width:100cqi;max-width:none}
+@media (max-width:760px){
+  .guide-series .chlist li{flex-wrap:wrap;align-items:flex-start}
+  .guide-series .chlist .st{margin-left:auto}
+}
+
+/* From the Archives tile. Other .post cards stay on #fff. */
+.post.archive-tile{position:relative;overflow:hidden;background:#F5ECDD;border-left-color:var(--rc-red)}
+.post.archive-tile[hidden]{display:none}
+.archive-tile .archive-ribbon{position:absolute;top:0;right:0;width:128px;height:128px;margin:0;overflow:hidden;pointer-events:none;background:transparent;color:inherit}
+.archive-tile .archive-ribbon span{position:absolute;top:34px;right:-24px;display:block;width:148px;margin:0;padding:5px 0;background:var(--rc-red);color:#fff;font-size:10px;font-weight:800;letter-spacing:.02em;line-height:1.2;text-align:center;text-transform:uppercase;transform:rotate(45deg)}
+.archive-mark{display:flex;align-items:center;gap:10px;min-height:48px;margin:0 72px 8px 0}
+.archive-icon{flex:none;width:46px;height:46px}
+.archive-photo{display:block;width:100%;height:88px;margin:0 0 8px;object-fit:cover;border:2px solid var(--rc-beige);background:var(--rc-charcoal)}
+.archive-photo[hidden]{display:none}
+.archive-year{font-family:var(--font-retro);font-size:48px;font-weight:400;line-height:.85;color:var(--rc-charcoal);letter-spacing:0}
+.archive-tile time{color:var(--rc-charcoal)}
+.archive-tile h4{padding-right:8px}
+.archive-tile h4 a{color:var(--rc-ink)}
+.archive-tile .archive-excerpt{color:var(--rc-slate)}
+.archive-tile .pill{color:var(--rc-ink)}
+@media (max-width:760px){
+  .archive-year{font-size:42px}
+  .archive-tile .archive-ribbon{width:116px;height:116px}
+  .archive-tile .archive-ribbon span{top:32px;right:-28px;width:140px;font-size:9px}
+}
+
 @media (max-width:760px){
   .page-hero-explore h1{font-size:11px;letter-spacing:.04em;line-height:1.8}
   .explore-panel > summary{display:flex;align-items:center;min-height:44px;padding:0 14px;background:var(--rc-charcoal);color:var(--rc-cream);font-family:var(--font-sans);font-size:15px;font-weight:700;letter-spacing:0;cursor:pointer;list-style:none}
