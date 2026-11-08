@@ -177,7 +177,6 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 <h4>8-Bit Computers</h4>
 <ul>
 <li><a href="https://github.com/MJoergen/C64MEGA65">Commodore 64</a></li>
-<li><a href="https://kugelblitz360.github.io/C64MEGA65DOCS/alphasix.html">Commodore 64 (version 6 beta)</a></li>
 <li><a href="https://github.com/eilers/c128Mega65">Commodore 128</a></li>
 <li><a href="https://github.com/MJoergen/VIC20MEGA65">Commodore VIC-20</a></li>
 <li><a href="https://github.com/Rhialto/MegaPET">Commodore PET</a></li>
@@ -187,7 +186,6 @@ The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files 
 <h4>16/32-Bit Computers</h4>
 <ul>
 <li><a href="https://github.com/sy2002/AExp">Commodore Amiga 500</a></li>
-<li><a href="https://github.com/sy2002/AExp">Commodore Amiga 500 (v2 beta)</a></li>
 <li><a href="https://github.com/johansmolinski/Megamiga">Commodore Amiga 600/1200 (MegAmiga)</a></li>
 <li><a href="https://github.com/johansmolinski/pc10-iii">Commodore PC10-III</a></li>
 </ul>
