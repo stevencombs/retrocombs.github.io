@@ -1,0 +1,36 @@
+{%- comment -%}
+  Kind label above the post title. Mockup.
+  Renders nothing when kind is blank or is not an id in _data/explore.yml.
+  strip drops stray whitespace and the trailing CR on one first-look post.
+  /explore?kind=<id> is the filter explore.js applies on load.
+{%- endcomment -%}
+{%- assign pk_id = include.kind | default: page.kind | append: "" | strip | downcase -%}
+{%- assign pk_label = "" -%}
+{%- for kind in site.data.explore.kinds -%}
+  {%- assign kind_check = kind.id | append: "" | strip | downcase -%}
+  {%- if kind_check == pk_id -%}
+    {%- assign pk_label = kind.label -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if pk_label != "" -%}
+<a class="post-kind" href="{{ '/explore' | relative_url }}?kind={{ pk_id | uri_escape }}">
+  {%- if pk_id == "review" -%}
+  <svg class="post-kind__icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><g transform="translate(0 3.556) scale(0.888889)"><path d="M8 0 0 5l8 5V0zm10 0L10 5l8 5V0z"/></g></svg>
+  {%- elsif pk_id == "first-look" -%}
+  <svg class="post-kind__icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><g transform="translate(0 3.556) scale(0.888889)"><path fill-rule="evenodd" d="M9 0C4.6 0 1.4 2.6 0 5c1.4 2.4 4.6 5 9 5s7.6-2.6 9-5C16.6 2.6 13.4 0 9 0zm0 7.2A2.2 2.2 0 1 0 9 2.8a2.2 2.2 0 0 0 0 4.4z"/></g></svg>
+  {%- elsif pk_id == "how-to" -%}
+  <svg class="post-kind__icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><path d="M3 1h3v3h4V1h3v6H3V1zM6 7h4v8H6V7z"/></svg>
+  {%- elsif pk_id == "companion" -%}
+  <svg class="post-kind__icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><path d="M2 1h4v4H2V1zM1 6h6v9H1V6zM10 1h4v4h-4V1zM9 6h6v9H9V6z"/></svg>
+  {%- elsif pk_id == "bench" -%}
+  <svg class="post-kind__icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><path d="M1 4h14v3H1V4zM3 7h3v6H3V7zm7 0h3v6h-3V7z"/></svg>
+  {%- elsif pk_id == "editorial" -%}
+  <svg class="post-kind__icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><path d="M1 5h10v6H1V5zM11 5h1l3 3-3 3h-1V5z"/></svg>
+  {%- elsif pk_id == "livestream" -%}
+  <svg class="post-kind__icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><path fill-rule="evenodd" d="M1 3h14v10H1V3zm5 2 6 3-6 3V5z"/></svg>
+  {%- elsif pk_id == "art" -%}
+  <svg class="post-kind__icon" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor"><path d="M1 6h7v4H1V6zM8 5h2v6H8V5zM10 4h5v8h-5V4z"/></svg>
+  {%- endif -%}
+  <span class="post-kind__label">{{ pk_label }}</span>
+</a>
+{%- endif -%}
