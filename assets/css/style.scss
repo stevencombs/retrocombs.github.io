@@ -191,6 +191,13 @@ footer.site .legal a{color:#F5ECDD;font-weight:inherit;text-decoration:underline
 /* ---------- Post layout ---------- */
 .post-head{padding:6px 0 4px;max-width:820px}
 .post-head .pill{margin:16px 0 0;text-decoration:none;color:var(--rc-ink)}
+/* Kind label above the title. Mockup from the Brand Kit draft. */
+.post-head .post-kind{display:inline-flex;align-items:center;gap:6px;margin:16px 0 0;font-family:var(--font-sans);font-size:14px;font-weight:700;letter-spacing:.02em;line-height:1.3;color:var(--rc-red);text-transform:uppercase;text-decoration:none}
+.post-head .pill + .post-kind{margin-top:10px}
+.post-kind__icon{width:16px;height:16px;flex:0 0 16px;display:block}
+.post-kind__label{font:inherit}
+.post-head .post-kind:hover{text-decoration:underline;text-underline-offset:3px}
+.post-head .post-kind:focus-visible{outline:2px solid var(--rc-red);outline-offset:3px}
 .post-head h1{font-size:38px;line-height:1.2;letter-spacing:-1px;font-weight:800;margin:10px 0 12px}
 .meta{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14.5px;color:#5b584f;align-items:center}
 .meta time{font-family:"JetBrains Mono",monospace;font-size:13.5px}
