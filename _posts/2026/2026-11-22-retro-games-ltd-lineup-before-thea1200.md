@@ -23,7 +23,7 @@ image:
   width: 1280
   height: 720
   alt: 'The Retro Games Ltd lineup of mini and full-size retro computers with the text Buy retro now!'
-kind: review
+kind: editorial
 ---
 
 You pre-ordered [THEA1200](https://amzn.to/4oeSG1F) from Retro Games Ltd (RGL), and now you're waiting. That doesn't mean you're out of options for yourself or the retro computer fan on your gift list. I've bought almost every RGL computer, so in this post, the companion to my video, I go through the lineup in the order RGL released it. For each one, I match it to the original computer, share my five favorite experiences, and list what it costs today.
