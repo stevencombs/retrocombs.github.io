@@ -26,6 +26,7 @@ image:
   height: 720
   alt: 'TrimUI Smart Pro running a Commodore 64 emulator in front of its MechDIY case'
 kind: review
+rating: 4
 ---
 
 Here's the retro truth: the TrimUI Smart Pro (available from [MechDIY's TrimUI store](https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy)) is a fantastic handheld for anyone who loves 8-bit home computers and retro gaming in general, but also likes to dabble in some modern games. When I made the video in October 2024, it sold for about $100. And with 8-bit home computers like the Commodore 64, ZX Spectrum, Amstrad CPC, and Atari 8-bit, you get gameplay you can't get on other handhelds.
@@ -33,6 +34,14 @@ Here's the retro truth: the TrimUI Smart Pro (available from [MechDIY's TrimUI s
 MechDIY provided this unit to the channel for free. Thank you! I'm under no obligation, they didn't ask me to say anything in particular, and these thoughts are my own.
 
 This post is the text companion to my video. It covers what's in the box, the design and controls, the screen, CrossMix OS, the 8-bit computer emulators, how to add your own games, and the built-in apps. Let's dig in!
+
+{% include review-box.html
+   score="4"
+   price="around $100"
+   where="(at time of video)"
+   summary="The TrimUI Smart Pro is a great handheld for 8-bit home computer fans: a sharp screen, a build that feels premium, and CrossMix OS with the 8-bit emulators set up with care. The dual analog sticks let you dabble in more modern games too."
+   product="TrimUI Smart Pro"
+   channel="retrocombs" %}
 
 ![TrimUI Smart Pro running a Commodore 64 emulator in front of its MechDIY case](/images/posts/2026-11-25-trimui-smart-pro-review.jpg)
 

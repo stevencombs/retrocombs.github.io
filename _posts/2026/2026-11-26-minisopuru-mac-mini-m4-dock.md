@@ -27,6 +27,7 @@ image:
   height: 720
   alt: 'Mac mini M4 sitting on the Minisopuru iExpandMate MINI4PRO dock'
 kind: review
+rating: 3.5
 ---
 
 Sometimes things happen for a reason. I recently bought a [Mac mini M4](https://amzn.to/4bnPdZO), and as I used it, I noticed some limits. It doesn't have as many ports as the M2 Mac mini I owned before. Right about then, Minisopuru reached out and asked if I'd take a look at its new [stand hub, the iExpandMate MINI4PRO,](https://amzn.to/43j6Sjw) for the 2024 Mac mini M4 and M4 Pro. I said absolutely, and on top of more ports, it has a slot for an NVMe SSD inside. So I added 2TB to my Mac mini for less than Apple charges for a storage upgrade.
@@ -36,6 +37,12 @@ Sometimes things happen for a reason. I recently bought a [Mac mini M4](https://
 Minisopuru provided this unit to the channel for free. Thank you! I'm under no obligation, they didn't ask me to say anything in particular, and these thoughts are my own.
 
 This post is the text companion to my video on retroCombs Tech (@retroCombs-tech). It covers the unboxing, the ports, how to install an NVMe SSD inside the dock, my desk setup, and formatting the new drive in Disk Utility. Let's dig in!
+
+{% include review-box.html
+   score="3.5"
+   summary="The MINI4PRO matches the mini's aluminum look, adds front USB and card slots, moves the headphone cable to the back, adds HDMI, leaves the power button reachable, and hides a 2TB SSD inside. Together with an SSD it costs far less than ordering a 2TB Mac mini from Apple, and if this works the way it has so far, I highly recommend it."
+   product="Minisopuru iExpandMate MINI4PRO"
+   channel="tech" %}
 
 ![Mac mini M4 sitting on the Minisopuru iExpandMate MINI4PRO dock](/images/posts/2026-11-26-minisopuru-mac-mini-m4-dock.jpg)
 

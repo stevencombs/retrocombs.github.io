@@ -34,6 +34,12 @@ Thanks to Thalamus and RetroCogs for bringing this game to my attention and send
 
 This post is the text companion to my video. It covers the game's lineage, how it plays, why the MEGA65 and the Commodore 64 Ultimate aren't competing, how to play it today in the XEMU emulator, how to load it on real hardware, and my verdict. Let's dig in!
 
+{% include review-box.html
+   score="4.5"
+   summary="The MEGA65's current crown jewel: an addictive roguelike loop, demon chickens, great music and sound, and visuals that stretch 8-bit limits. The killer app we've been waiting for."
+   product="Roguecraft DX (MEGA65)"
+   channel="retrocombs" %}
+
 ![Roguecraft DX running on the MEGA65 in 240 colors](/images/posts/2026-11-08-roguecraft-dx-mega65.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}

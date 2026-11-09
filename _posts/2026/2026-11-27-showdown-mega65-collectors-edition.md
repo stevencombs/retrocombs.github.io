@@ -24,6 +24,7 @@ image:
   height: 720
   alt: 'Showdown for the MEGA65 Collector''s Edition box from Poly.Play'
 kind: review
+rating: 4
 ---
 
 If you remember, I shared the boxed copy of Hibernated 1: The Director's Cut. Poly.Play is back with a boxed copy of the second MEGA65 packaged software release, Showdown from Badger Punch Games. It's a one or two player Wild West duel, and the box is packed with goodies. Yee haw!
@@ -31,6 +32,14 @@ If you remember, I shared the boxed copy of Hibernated 1: The Director's Cut. Po
 Poly.Play provided this copy to the channel for free. Thank you! I'm under no obligation, they didn't ask me to say anything in particular, and these thoughts are my own.
 
 This post is the text companion to my video. I edited it from my Halloween Eve livestream. It covers the unboxing, how the game plays, and what to do about the floppy disk in the first boxed copies. Let's dig in!
+
+{% include review-box.html
+   score="4"
+   price="€30, including VAT"
+   where="(at time of video)"
+   summary="Showdown is simple to learn, fun with a friend, and the Collector's Edition is packed with goodies. Poly.Play is knocking it out of the park with its packaging."
+   product="Showdown Collector's Edition (MEGA65)"
+   channel="retrocombs" %}
 
 ![Showdown for the MEGA65 Collector's Edition box from Poly.Play](/images/posts/2026-11-27-showdown-mega65-collectors-edition.jpg)
 

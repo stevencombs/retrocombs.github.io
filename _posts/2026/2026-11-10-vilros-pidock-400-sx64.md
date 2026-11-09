@@ -26,11 +26,20 @@ image:
   height: 720
   alt: 'Raspberry Pi 400 in a Vilros PiDOCK 400 running Combian 64 in SX-64 mode'
 kind: review
+rating: 2.5
 ---
 
 An SX-64 is missing from my collection. I've always wanted one and haven't been able to find one. If you have one, let me know. So I tried something else: I took my Combian pi/400 and put it in a [Vilros PiDOCK 400](https://link.amazon/A02H2q8rc) to see if I could create a spiritual successor to the SX-64. It's not the same form factor, but hold on, and you'll see what I mean.
 
 This post is the text companion to my video. It covers unboxing, assembly, first boot in SX-64 mode, configuration, copying a game with Midnight Commander, playing Operation Wolf, and my verdict. Let's dig in!
+
+{% include review-box.html
+   score="2.5"
+   price="around $240 to $250"
+   where="(at time of video)"
+   summary="I can't recommend the PiDOCK 400 right now. It feels like a hollow toy I've dropped my nice Pi 400 into: a great screen and something like an SX-64, but no speakers, no battery, and cable management that's a disaster."
+   product="Vilros PiDOCK 400"
+   channel="retrocombs" %}
 
 ![Raspberry Pi 400 in a Vilros PiDOCK 400 running Combian 64 in SX-64 mode](/images/posts/2026-11-10-vilros-pidock-400-sx64.jpg)
 
