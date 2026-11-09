@@ -213,6 +213,68 @@ article.card,.page-body{background:#fff;border-radius:14px;padding:38px 48px;box
 .prose li>ul,.prose li>ol{margin:.3em 0 .3em}
 .prose ol li::marker{font-family:"JetBrains Mono",monospace;font-weight:600;color:#7a7465}
 .prose img{max-width:100%;height:auto;border-radius:10px;display:block}
+/* A content image narrower than the column sits in the middle of it.
+   max-width: 100% is unchanged, so an image that fills the column has
+   no free space and these auto margins resolve to zero.
+   Markdown images, raw img, figures, and linked images are covered.
+   Review boxes, rating strips, banners, ads, video, post cards,
+   galleries, floats, and inline images are not. */
+.prose > img,
+.prose p > img,
+.prose li > img,
+.prose blockquote > img,
+.prose center img,
+.prose figure:not(.yt):not(.ca-banner):not(.rc-level):not([class*="gallery"]) > img,
+.prose > a > img,
+.prose p > a > img,
+.prose li > a > img,
+.prose blockquote > a > img,
+.prose center a > img,
+.prose figure:not(.yt):not(.ca-banner):not(.rc-level):not([class*="gallery"]) > a > img,
+.prose div:not([class]):not([class*="gallery"]) > img:only-child,
+.prose div:not([class]):not([class*="gallery"]) > a:only-child > img{
+  margin-left:auto;margin-right:auto}
+/* The link around a lone image has to be a block as wide as the column,
+   or the image's auto margins have nowhere to go. Floated images stay
+   in the inline link so the text beside them still wraps. */
+.prose > a:has(> img:only-child):not(:has(img[align="left"],img[align="right"],img[style*="float"])),
+.prose p > a:has(> img:only-child):not(:has(img[align="left"],img[align="right"],img[style*="float"])),
+.prose li > a:has(> img:only-child):not(:has(img[align="left"],img[align="right"],img[style*="float"])),
+.prose blockquote > a:has(> img:only-child):not(:has(img[align="left"],img[align="right"],img[style*="float"])),
+.prose center > a:has(> img:only-child):not(:has(img[align="left"],img[align="right"],img[style*="float"])),
+.prose figure:not(.yt):not(.ca-banner):not(.rc-level):not([class*="gallery"]) > a:has(> img:only-child):not(:has(img[align="left"],img[align="right"],img[style*="float"])),
+.prose div:not([class]):not([class*="gallery"]) > a:has(> img:only-child):not(:has(img[align="left"],img[align="right"],img[style*="float"])){
+  display:block}
+.prose img[align="left"],
+.prose img[align="right"],
+.prose img[align="top"],
+.prose img[align="middle"],
+.prose img[align="bottom"],
+.prose img[align="absmiddle"],
+.prose img[style*="float"],
+.prose img[style*="display:inline"],
+.prose img[style*="display: inline"],
+.prose img.rc-badge,
+.prose img.rc-badge-sm,
+.prose img.category,
+.prose .rc-review img,
+.prose .rc-channel img,
+.prose .yt img,
+.prose .ca-banner img,
+.prose .post-card img,
+.prose .post-card-media img,
+.prose .video-container img,
+.prose .topic-page-banner img,
+.prose .topic-card img,
+.prose .ug-banner img,
+.prose .m65-banner img,
+.prose .plus4-banner img,
+.prose .rc-ad img,
+.prose .ad-slot img,
+.prose .pa-gallery-player-widget img,
+.prose .pa-carousel-widget img,
+.prose [class*="gallery"] img{
+  margin-left:0;margin-right:0}
 .prose hr{border:0;height:1px;background:#e3d9c3;margin:2em 0}
 .prose code{font-family:"JetBrains Mono",monospace;font-size:.86em;background:#F1E9D8;border:1px solid #e3d9c3;border-radius:5px;padding:.08em .38em;color:#2b2b2b;white-space:nowrap}
 .prose pre{background:#2b2b2b;color:#f1f1f1;border-radius:10px;padding:18px 20px;overflow:auto;font-size:14px;line-height:1.55;border-top:5px solid var(--st-green);margin:0 0 1.2em}
