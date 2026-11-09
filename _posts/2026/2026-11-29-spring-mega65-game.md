@@ -88,7 +88,7 @@ As of 2026-11-29:
 
 - **Floppy size.** The auto-captions turn my "3½-inch floppy" into "3 and 12 inch." It's the MEGA65's 3½-inch drive.
 - **"Demo" in the title.** The video shows the menus, the source code and the title screens, but on purpose it doesn't show gameplay.
-- **Availability.** In the video (December 2025) I say limited physical copies are available. I don't state a price here; check [gurce.net/spring](https://gurce.net/spring/) for current availability.
+- **Availability.** In the video (December 2025) I say limited physical copies are available. Visit [gurce.net/spring](https://gurce.net/spring/) for current price and availability.
 
 ## WHAT'S IN THE BOX {#whats-in-the-box}
 

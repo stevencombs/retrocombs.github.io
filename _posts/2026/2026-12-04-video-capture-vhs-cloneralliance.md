@@ -189,6 +189,14 @@ From the three videos:
 - **Skip the watermark** unless you need it. It's permanent.
 - **Narrate as you go.** The mic inputs on the Pocket and View Pro let you add notes about a tape while it plays.
 
+From the archivists:
+
+- **Digitize sooner, not later.** The National Archives recommends reformatting video tape older than five years ([NARA, Machine-Readable Media](https://www.archives.gov/preservation/holdings-maintenance/machine-readable)). Most of our VHS tapes passed that mark decades ago.
+- **Keep the highest-quality file.** Save the best version of each video, with descriptive file names and a short written description of how your folders are organized ([Library of Congress, Personal Archiving: Video](https://www.digitalpreservation.gov/personalarchiving/video.html)).
+- **Make more than one copy.** The Library of Congress says at least two copies, on separate media, stored as far apart as practical. The National Archives recommends three copies on different media types, and not relying on the cloud as your only copy ([NARA, Video Guidance: Ensuring Future Usability](https://www.archives.gov/preservation/formats/video-future-usability.html)).
+- **Check and refresh.** Open your saved files at least once a year, and copy them to new media every five years or so ([Library of Congress](https://www.digitalpreservation.gov/personalarchiving/video.html)).
+- **Keep the tapes after you capture them.** Store them upright, off the floor, away from attics and garages, ideally at 55 to 70°F and 30 to 55% relative humidity ([NARA, Video Guidance: Storage of Materials](https://www.archives.gov/preservation/formats/video-storage.html)).
+
 ## CONCLUSION {#conclusion}
 
 All three boxes turn analog video into files without a computer in the middle. The ViewLite AV is the simplest, the Box Pro Pocket is the most portable, and the View Pro has the screen and scheduling.

@@ -54,7 +54,10 @@ You may know Gürçe from the [BASIC 65 primer](/mega65-primer) we made together
 
 **Video Mention Links**
 
-- 💾 The Silent Enigma on the MEGA65 Filehost: <https://files.mega65.org> (find the released demo there; the June 2024 video said it was coming "very soon").
+- 💾 The Silent Enigma on the MEGA65 Filehost: <https://files.mega65.org?id=4003af71-8f8d-48ff-a303-f0eac34dd465>
+- 🧑‍💻 The Silent Enigma source code (GitHub): <https://github.com/gurcei/silent>
+- 🛠️ Mega Assembler by grubi (MEGA65 Filehost): <https://files.mega65.org?id=3b101d41-5128-4a21-879c-0cf7988edfec>
+- 📈 MEGAPLOT library by grim-fandango (GitHub): <https://github.com/grim-fandango/megaplot>
 - 🎸 Anathema, "The Silent Enigma" (the song that inspired the demo): <https://youtu.be/CqsNCblUZPA>
 - 📺 Tom Snyder's Tomorrow Show opening: <https://www.youtube.com/watch?v=WEuo8n2KvyY>
 - 📖 Our BASIC 65 primer: [/mega65-primer](/mega65-primer)
@@ -92,8 +95,8 @@ As of 2026-11-30:
 
 - **This is a re-upload.** The video description notes it was reposted to remove a copyright flag.
 - **Dated news.** The opening updates are from June 2024: the next batch of MEGA65s arriving that summer, and Chapter 4 of my User's Guide series being delayed so I could premiere this demo. Both are long past. The whole [User's Guide series](/mega65-users-guide) is on the blog.
-- **Names in the captions.** The auto-captions garble several names in the toolbox section (native MEGA65 assembler, plotting library, and a paused project Gürçe mentioned).
-- **The BASIC book.** Gürçe holds up the Commodore introduction to BASIC book that came with the family C64. The captions say "Andrew Collins"; confirm the cover before naming the author.
+- **Names in the captions.** The auto-captions garble several names in the toolbox section. The native assembler is **Mega Assembler** by grubi, and the plotting library is **MEGAPLOT** by grim-fandango.
+- **The BASIC book.** Gürçe holds up the Commodore introduction to BASIC book that came with the family C64. The captions name an author, but I can't confirm the book's exact title or author.
 
 ## GÜRÇE'S FIRST COMMODORE {#first-commodore}
 
@@ -142,13 +145,13 @@ Gürçe said the demo pulls together ideas he'd collected for a year, and he fin
 For anyone who wants to start their own MEGA65 project, here's what Gürçe used (most of it is on the MEGA65 Filehost):
 
 - **Eleven**, the MEGA65 BASIC development environment, for the main program
-- **A native MEGA65 assembler** that runs on the machine itself
+- **[Mega Assembler](https://files.mega65.org?id=3b101d41-5128-4a21-879c-0cf7988edfec)** by grubi, an editor and assembler that runs natively on the MEGA65
 - **The ACME cross-assembler** on a PC, then bringing the code over to the MEGA65
-- **A plotting library** for drawing 4x4-pixel PETSCII-based blocks. Gürçe extended it to draw whole lines of blocks in assembly from a start point and an end point. That's what powers the quick lines and triangles in the demo.
+- **The [MEGAPLOT](https://github.com/grim-fandango/megaplot) library** by grim-fandango, for drawing 4x4-pixel PETSCII-based blocks. Gürçe extended it to draw whole lines of blocks in assembly from a start point and an end point. That's what powers the quick lines and triangles in the demo.
 
 ## WHAT'S NEXT FOR GÜRÇE {#whats-next}
 
-- **Release the demo** on the MEGA65 Filehost. Gürçe noted that it needs a specific development core and a ROM he tweaked, and that he'd update the demo once those tweaks reach the mainstream core and ROM.
+- **Release the demo** on the MEGA65 Filehost. Gürçe noted that it needs a specific development core and a ROM he tweaked, and that he'd update the demo once those tweaks reach the mainstream core and ROM. It's now [on the Filehost](https://files.mega65.org?id=4003af71-8f8d-48ff-a303-f0eac34dd465), and the README in its download explains the core and ROM it needs.
 - **Speed up Eleven.** This project pushed the limits of Eleven: when the source gets large, compiling takes a long time. His next project was to improve Eleven's compile speed so larger projects can iterate faster.
 - **Then something fun** that makes use of it, maybe the paused project he mentioned, which had stalled for the same reason.
 

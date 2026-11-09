@@ -55,6 +55,7 @@ I was on eBay the other day. You know how dangerous that is. I found a boxed Com
 
 - 📺 The full livestream this video was cut from: <https://youtube.com/live/9bX9j0Bm5U0>
 - 🕹️ Atari CX40+ Joystick: <https://amzn.to/479CFmD>
+- 💾 Penultimate +2/3 Cartridge (TFW8b): <https://www.tfw8b.com/product/penultimate/>
 
 **Commodore Parts and Alternatives**
 
@@ -79,9 +80,8 @@ Title: _📦️ Did I Overpay for This Commodore VIC-20? | eBay Unboxing_
 
 As of 2026-12-01:
 
-- **"Amiga" joystick (~15:55).** I start to call it the Amiga wireless joystick, then correct myself. It's an Atari wireless joystick.
-- **"A VIC runs about 10% faster than a C64" (~16:45).** That's an off-the-cuff remark, and the answer depends on the model and the video standard.
-- **The cartridge I want (~15:10).** I say "pen ultimate cartridge" in the video.
+- **"Amiga" joystick (~15:55).** I start to call it the Amiga wireless joystick, then correct myself and call it an Atari wireless joystick. It's the Atari CX40+ joystick.
+- **The cartridge I want (~15:10).** I say "pen ultimate cartridge" in the video. It's the [Penultimate +2/3 Cartridge from TFW8b](https://www.tfw8b.com/product/penultimate/).
 - **Livestream extras.** The end of the video covers channel memberships and Discord access as they stood in August 2025. Check the [supporters page](/supporters) for how that works today.
 
 ## WHAT I PAID {#what-i-paid}
@@ -135,7 +135,7 @@ With the video cable run through my capture card and set to 4:3, the picture loo
 
 ## THE CARTRIDGE PROBLEM {#cartridge-problem}
 
-This is where things went sideways. I plugged in my Atari wireless joystick (the VIC-20 has a single joystick port) and tried Gorf. It didn't start. Some VIC-20 cartridges need a `SYS` command, and I used to know them all by heart, but this one wasn't booting. I tried another cartridge: nothing. I tried the RAM cartridge to see if the free memory on the startup screen would go up. It didn't.
+This is where things went sideways. I plugged in my [Atari CX40+ joystick](https://amzn.to/479CFmD) (the VIC-20 has a single joystick port) and tried Gorf. It didn't start. Some VIC-20 cartridges need a `SYS` command, and I used to know them all by heart, but this one wasn't booting. I tried another cartridge: nothing. I tried the RAM cartridge to see if the free memory on the startup screen would go up. It didn't.
 
 So something is wrong with the cartridge port or the cartridges. In fairness, the seller never showed a cartridge running in the listing. The cartridges look clean, so my guess is the port. My plan:
 

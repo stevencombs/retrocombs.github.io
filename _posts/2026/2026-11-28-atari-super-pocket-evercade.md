@@ -88,9 +88,9 @@ Title: _🤔 Is the Atari Evercade the BEST $60 Retro Handheld?_
 As of 2026-11-28:
 
 - **Name.** The video title calls it the "Atari Evercade." The product is the Atari Edition Super Pocket by Hyper Mega Tech. It plays Evercade cartridges, but it isn't an Evercade-branded console.
-- **Price.** The title says $60, but the video never states a price.
+- **Price.** The title says $60, but the video never states a price. As of November 2026, it's $69.99.
 - **Lynx, not "Link."** When I load Dirty Larry I say it's from the "Link" system. It's the Atari Lynx.
-- **Website (~0:50).** The address on the box is for Hyper Mega Tech.
+- **Website (~0:50).** The address on the box is hypermegatech.com, for Hyper Mega Tech.
 - **Cartridge prices (~11:55).** I say Evercade cartridges run about $20 to $30. That was in April 2025. Check current prices before you buy.
 
 ## WHAT'S IN THE BOX {#whats-in-the-box}
