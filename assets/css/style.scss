@@ -937,11 +937,14 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .guide-series .chlist .st{margin-left:auto}
 }
 
-/* From the Archives tile. Other .post cards stay on #fff. */
-.post.archive-tile{position:relative;overflow:hidden;background:#F5ECDD;border-left-color:var(--rc-red)}
+/* From the Archives tile. Other .post cards keep the white face and left accent. */
+.post.archive-tile{position:relative;overflow:hidden;background:var(--rc-cream);border:5px solid var(--rc-red)}
 .post.archive-tile[hidden]{display:none}
-.archive-tile .archive-ribbon{position:absolute;top:0;right:0;width:128px;height:128px;margin:0;overflow:hidden;pointer-events:none;background:transparent;color:inherit}
-.archive-tile .archive-ribbon span{position:absolute;top:34px;right:-24px;display:block;width:148px;margin:0;padding:5px 0;background:var(--rc-red);color:#fff;font-size:10px;font-weight:800;letter-spacing:.02em;line-height:1.2;text-align:center;text-transform:uppercase;transform:rotate(45deg)}
+.archive-tile .archive-ribbon{position:absolute;z-index:1;top:0;right:0;width:12.8em;height:12.8em;margin:0;overflow:hidden;pointer-events:none;background:transparent;color:inherit;font-size:10px}
+/* The band is longer than the clip square and rotated about the same center as before.
+   Both ends cross the top and right edges; overflow on the ribbon and the tile
+   (including the rounded border) hides them so no square tip is left in view. */
+.archive-tile .archive-ribbon span{position:absolute;top:3.4em;right:-5em;display:block;width:20em;margin:0;padding:.5em 0;background:var(--rc-red);color:#fff;font-size:1em;font-weight:800;letter-spacing:.02em;line-height:1.2;text-align:center;text-transform:uppercase;white-space:nowrap;transform:rotate(45deg)}
 .archive-mark{display:flex;align-items:center;gap:10px;min-height:48px;margin:0 72px 8px 0}
 .archive-icon{flex:none;width:46px;height:46px}
 .archive-photo{display:block;width:100%;height:88px;margin:0 0 8px;object-fit:cover;border:2px solid var(--rc-beige);background:var(--rc-charcoal)}
@@ -954,8 +957,7 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
 .archive-tile .pill{color:var(--rc-ink)}
 @media (max-width:760px){
   .archive-year{font-size:42px}
-  .archive-tile .archive-ribbon{width:116px;height:116px}
-  .archive-tile .archive-ribbon span{top:32px;right:-28px;width:140px;font-size:9px}
+  .archive-tile .archive-ribbon{font-size:9px}
 }
 
 /* MEGA65 resource page, User's Guide series, and Plus/4 resource page.
