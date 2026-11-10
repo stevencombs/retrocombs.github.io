@@ -1083,3 +1083,39 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .prose .key-to-keys-list{grid-template-columns:1fr}
   .prose .key-to-keys{padding:14px 14px 16px}
 }
+
+/* Disk Mag landing page (/diskmag) and the Disk Mag bullet on /supporters. Site color variables only. Text blocks span their full container. */
+.prose .rc-diskmag-link{display:inline-flex;align-items:center;gap:6px}
+.prose .rc-diskmag-icon{display:inline-block;width:20px;height:20px;line-height:0;flex:none}
+.prose .rc-diskmag-icon img{display:block;width:20px;height:20px;margin:0;border-radius:0;box-shadow:none;image-rendering:pixelated}
+.prose img.diskmag-divider{display:block;width:100%;max-width:none;height:12px;margin:2em 0;border-radius:0;box-shadow:none}
+.prose .diskmag-cta{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px;margin:1em 0 1.4em}
+.prose .diskmag-cta .rc-join{margin:0}
+.prose a.diskmag-back{font-weight:700}
+.prose .diskmag-tiers{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:1em 0 1.2em}
+.prose .diskmag-tier{display:flex;gap:14px;align-items:flex-start;padding:14px 16px;border-radius:12px;background:var(--rc-cream);color:var(--rc-ink);border:1px solid var(--rc-beige);border-top:6px solid var(--st-green)}
+.prose .diskmag-tier--mega65{background:var(--rc-ink);color:var(--rc-cream);border-color:var(--rc-ink);border-top-color:var(--st-red)}
+.prose .diskmag-tier img{width:72px;height:auto;margin:0;flex:none;border-radius:0}
+.prose .diskmag-tier p{margin:0}
+.prose .diskmag-tier-name strong{display:block;font-size:16.5px;line-height:1.3}
+.prose .diskmag-tier-name span{font-size:14px}
+.prose .diskmag-tier-price{font-family:var(--font-mono);font-weight:700;font-size:13.5px;margin-top:2px}
+.prose .diskmag-tier--mega65 .diskmag-tier-price{color:var(--st-yellow)}
+.prose .diskmag-tier-step{margin-top:.5em !important;font-weight:700;font-size:15px}
+.prose .diskmag-tier ul{margin:.5em 0 0;padding-left:1.25em;font-size:15px}
+.prose .diskmag-note{width:100%;max-width:none;box-sizing:border-box;background:var(--rc-cream);color:var(--rc-ink);border-left:6px solid var(--st-orange);border-radius:0 10px 10px 0;padding:14px 18px;margin:0 0 1em}
+.prose .diskmag-note p{margin:0 0 .4em}
+.prose .diskmag-note ul{margin:0;padding-left:1.25em;font-size:15px}
+.prose .diskmag-callout{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,3fr);gap:18px;align-items:start;width:100%;max-width:none;box-sizing:border-box;background:var(--rc-cream);border:1px solid var(--rc-beige);border-top:6px solid var(--st-blue);border-radius:12px;padding:16px 18px;margin:0 0 1.4em}
+.prose .diskmag-callout p{margin:0 0 .75em}
+.prose .diskmag-callout p:last-child{margin-bottom:0}
+.prose .diskmag-callout-shot{display:block;line-height:0}
+.prose .diskmag-callout img,.prose .diskmag-gallery img{display:block;width:100%;height:auto;margin:0;border:1px solid var(--rc-beige);border-radius:0}
+.prose .diskmag-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:1em 0 1.4em}
+.prose .diskmag-gallery-item{margin:0}
+.prose .diskmag-gallery-item a{display:block;line-height:0}
+.prose .diskmag-gallery-item figcaption{margin-top:6px;font-size:14px;line-height:1.4;color:var(--rc-slate)}
+@media (max-width:760px){
+  .prose .diskmag-tiers,.prose .diskmag-callout,.prose .diskmag-gallery{grid-template-columns:1fr}
+  .prose .diskmag-cta .rc-join{display:block;width:100%;text-align:center;box-sizing:border-box}
+}
