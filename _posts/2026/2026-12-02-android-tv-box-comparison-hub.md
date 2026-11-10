@@ -29,7 +29,7 @@ image:
 kind: companion
 ---
 
-You all really seem to enjoy my Android TV box videos. Between November 2025 and October 2026, I unboxed and set up 11 of them on retroCombs Tech (@retroCombs-tech): five from vSeeBox, two from Colabox, and one each from Digibox, EVPad, SuperBOX and SeekBox. That's a lot of remotes, power bricks and HDMI cables. I could start an HDMI cable store.
+You all really seem to enjoy my Android TV box videos. Between November 2025 and October 2026, I unboxed and set up 11 of them on retroCombs Tech (@retroCombs-tech): five from vSeeBox, two from Colabox, and one each from Digibox, [EVPad](https://www.evpadpro.com/?DIST=T09OGg%3D%3D), SuperBOX and SeekBox. That's a lot of remotes, power bricks and HDMI cables. I could start an HDMI cable store.
 
 This post puts all 11 in one place: what each box says on the packaging, what I saw on screen, and who each one is for. Each section links to the full video.
 
@@ -70,6 +70,7 @@ This post puts all 11 in one place: what each box says on the packaging, what I 
 - 📺 Colabox L2 Plus: <https://colaboxtech.com/products/colabox-l2-plus?sca_ref=11724747.nhAgh62WOx7v> (code STEVEN for 18% off)
 - 🕹️ Colabox Colastick V1: <https://colaboxtech.com/products/colastick-v1-plus?sca_ref=11724747.nhAgh62WOx7v> (code STEVEN for 18% off)
 - 📺 Digibox D6 Max: <https://tidd.ly/4vU8SKt> (code retroCombs for 5% off, plus 2 free gifts)
+- 📺 EVPad 11P (EVPad Pro store): <https://www.evpadpro.com/?DIST=T09OGg%3D%3D>
 - ✨ SuperBOX S7 Pro: <https://mysuperbox.shop/> (code retrocombs saves $50)
 - 📺 SeekBox S3 Pro: <https://seekboxstore.com/?ref=RETROCOMBS> (code retroCombs saves $50)
 

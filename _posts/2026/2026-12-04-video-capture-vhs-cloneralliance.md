@@ -65,6 +65,7 @@ Got a shoebox of VHS tapes, or a Commodore that deserves better than a phone poi
 - 🎬 Blackmagic ATEM Mini Extreme ISO: <https://amzn.to/4ypHQuP>
 - 🔋 Amazon Basics Batteries: <https://amzn.to/49LycZc>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
+- 📺 USB HDMI capture device: <https://amzn.to/41iI9Kt>
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network. ClonerAlliance sent me all three devices; they had no input on the videos or this post.*
 
@@ -147,7 +148,7 @@ The [Box Pro Pocket](https://amzn.to/4wQgjlB) has no screen. It's a capture box 
 
 I captured an [Atari 2600+](https://amzn.to/43KNriS) over HDMI at 1080p60 and a Commodore 64 through the MMI cable. HDMI pass-through let me send the signal on to my [ATEM Mini Extreme ISO](https://amzn.to/4ypHQuP) at the same time. The menu also has scheduled recording, resolution and snapshot settings.
 
-> **Tip:** USB capture on my Mac showed only a black screen. The workaround: send HDMI out into an inexpensive USB HDMI capture dongle and record that in OBS. On Windows, the helper software captures over USB.
+> **Tip:** USB capture on my Mac showed only a black screen. The workaround: send HDMI out into an inexpensive [USB HDMI capture dongle](https://amzn.to/41iI9Kt) and record that in OBS. On Windows, the helper software captures over USB.
 {: .tip}
 
 ## CLONERALLIANCE VIEW PRO {#view-pro}
