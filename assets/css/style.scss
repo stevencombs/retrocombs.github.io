@@ -1119,3 +1119,21 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .prose .diskmag-tiers,.prose .diskmag-callout,.prose .diskmag-gallery{grid-template-columns:1fr}
   .prose .diskmag-cta .rc-join{display:block;width:100%;text-align:center;box-sizing:border-box}
 }
+
+/* Homepage Disk Mag CTA: slim cream band directly below From the blog. */
+.home-diskmag-cta{background:var(--rc-cream);border-top:5px solid var(--st-orange);padding:18px 0}
+.home footer.site{margin-top:0}
+.home-diskmag-cta-inner{display:flex;flex-wrap:wrap;align-items:center;gap:14px 20px;text-decoration:none;color:var(--rc-ink)}
+.home-diskmag-cta-icon{display:block;width:40px;height:40px;flex:none;image-rendering:pixelated}
+.home-diskmag-cta-copy{margin:0;flex:1 1 16em;font-size:18px;font-weight:600;line-height:1.35}
+.home-diskmag-load{display:inline-block;font-family:var(--font-retro);font-size:28px;font-weight:400;letter-spacing:.04em;line-height:1;color:var(--st-yellow);background:var(--rc-charcoal);padding:.08em .32em .02em;vertical-align:-2px}
+.home-diskmag-cta-inner .btn{flex:none}
+.home-diskmag-cta-inner:hover .btn.primary{filter:brightness(1.05)}
+.home-diskmag-cta-inner:focus-visible{outline:3px solid var(--st-blue);outline-offset:4px;border-radius:8px}
+@media (max-width:760px){
+  .home-diskmag-cta{padding:16px 0}
+  .home-diskmag-cta-inner{display:grid;grid-template-columns:40px minmax(0,1fr);align-items:center;gap:10px 14px}
+  .home-diskmag-cta-copy{flex:none;font-size:17px}
+  .home-diskmag-load{font-size:26px}
+  .home-diskmag-cta-inner .btn{grid-column:1 / -1;width:100%;text-align:center}
+}
