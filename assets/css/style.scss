@@ -1119,3 +1119,25 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .prose .diskmag-tiers,.prose .diskmag-callout,.prose .diskmag-gallery{grid-template-columns:1fr}
   .prose .diskmag-cta .rc-join{display:block;width:100%;text-align:center;box-sizing:border-box}
 }
+
+/* 404 page. Site color variables only. The BASIC panel is a playful Commodore error, not a real screen dump. */
+.prose .rc-404-art{margin:0 0 1.2em;line-height:0}
+.prose .rc-404-art img{display:block;width:100%;max-width:none;height:auto;aspect-ratio:1200/630;object-fit:contain;border-radius:12px;background:var(--rc-charcoal)}
+.prose .rc-404-art[hidden]{display:none}
+.prose .rc-404-basic{width:100%;max-width:none;box-sizing:border-box;margin:0 0 1.4em;padding:0 0 18px;background:var(--rc-charcoal);color:var(--rc-cream);border-radius:12px;overflow:hidden}
+.prose .rc-404-stripes{display:flex;height:6px}
+.prose .rc-404-stripes i{flex:1;display:block}
+.prose .rc-404-stripes i:nth-child(1){background:var(--st-red)}
+.prose .rc-404-stripes i:nth-child(2){background:var(--st-orange)}
+.prose .rc-404-stripes i:nth-child(3){background:var(--st-yellow)}
+.prose .rc-404-stripes i:nth-child(4){background:var(--st-green)}
+.prose .rc-404-stripes i:nth-child(5){background:var(--st-blue)}
+.prose .rc-404-basic pre{margin:0;padding:18px 22px 8px;background:transparent;color:var(--rc-cream);border:0;border-radius:0;font-family:var(--font-retro);font-size:26px;line-height:1.35;white-space:pre-wrap;overflow:visible}
+.prose .rc-404-cursor{display:inline-block;width:.55em;height:.9em;margin-left:.15em;background:var(--st-yellow);vertical-align:-.1em;animation:rc-404-blink 1.1s steps(1) infinite}
+@keyframes rc-404-blink{50%{opacity:0}}
+@media (max-width:760px){
+  .prose .rc-404-basic pre{font-size:22px;padding:16px 16px 6px}
+}
+@media (prefers-reduced-motion:reduce){
+  .prose .rc-404-cursor{animation:none}
+}
