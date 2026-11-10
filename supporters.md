@@ -59,7 +59,7 @@ Each level includes the perks of every level before it.
     <ul>
       <li>Producer Credit!</li>
       <li>Producer's Chat</li>
-      <li>retroCombs Disk Mag</li>
+      <li><a class="rc-diskmag-link" href="/diskmag/"><span class="rc-diskmag-icon" aria-hidden="true"><img src="/images/diskmag/retroCombs_diskmag-icon_brand.svg" alt="" width="20" height="20"></span>retroCombs Disk Mag</a></li>
     </ul>
   </li>
   <li><strong>MEGA≡65 (FPGA)</strong> <span class="rc-price">$24.99/month</span>
