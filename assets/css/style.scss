@@ -1159,3 +1159,9 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .home-diskmag-load{font-size:26px}
   .home-diskmag-cta-inner .btn{grid-column:1 / -1;width:100%;text-align:center}
 }
+
+.rc-404{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:32px;align-items:start}
+.rc-404-art{margin:0;position:sticky;top:24px}
+.prose .rc-404-art img{display:block;width:100%;height:auto;aspect-ratio:1/1;border-radius:12px;background:var(--rc-charcoal)}
+.rc-404-text > :first-child{margin-top:0}
+@media (max-width:760px){.rc-404{grid-template-columns:minmax(0,1fr);gap:18px}.rc-404-art{position:static}}
