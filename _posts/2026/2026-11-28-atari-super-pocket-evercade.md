@@ -30,7 +30,7 @@ image:
 kind: first-look
 ---
 
-Remember that satisfying clunk of an Atari cartridge going into the slot? The Atari Edition Super Pocket from Hyper Mega Tech promises to bring that feeling back to the palm of your hand. It ships with 50 Atari games built in, from the arcade, the 2600, the 5200, the 7800 and the Lynx, and it has a slot for Evercade cartridges. I wanted to know one thing: can a handheld with Atari on the front play Commodore 64 and Intellivision games?
+Remember that satisfying clunk of an Atari cartridge going into the slot? The [Atari Edition Super Pocket](https://link.amazon/B0cOXWWhR) from Hyper Mega Tech promises to bring that feeling back to the palm of your hand. It ships with 50 Atari games built in, from the arcade, the 2600, the 5200, the 7800 and the Lynx, and it has a slot for [Evercade cartridges](https://link.amazon/B0esnqj6V). I wanted to know one thing: can a handheld with Atari on the front play Commodore 64 and Intellivision games?
 
 {% include review-channel.html channel="tech" %}
 
@@ -63,7 +63,9 @@ This post is the text companion to my video on retroCombs Tech (@retroCombs-tech
 
 **Video Mention Links**
 
+- 🕹️ Atari Edition Super Pocket: <https://link.amazon/B0cOXWWhR>
 - 🕹️ Atari Edition Super Pocket (official page): <https://atari.com/products/super-pocket-atari-edition>
+- 🎮 Evercade Cartridges: <https://link.amazon/B0esnqj6V>
 - 🧱 My TrimUI Brick first look: [TrimUI Brick: The Handheld That Surprised Me Most](/trimui-brick-first-look)
 - 🎮 TrimUI Brick at MechDIY: <https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy> (the code RETROCOMBS16 takes 15% off)
 - ⚫ Atari 2600+ Console: <https://amzn.to/43KNriS>

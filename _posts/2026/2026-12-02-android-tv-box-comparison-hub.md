@@ -112,7 +112,7 @@ Specs are as printed on each box or shown on screen in my video. "ROM" on these 
 |---|---|---|---|---|---|
 | vSeeBox V5 Pro (Jan 2026) | 12 | 4GB / 32GB | 2.4 and 5 GHz Wi-Fi | Ethernet | $799 MSRP printed on the box; front clock |
 | vSeeBox V6 Plus (Nov 2025) | TV 14 | 4GB / 64GB | Wi-Fi 6, BT 5.0 | Ethernet, optical, USB 3.0 | HDMI 2.1; locked-down app selection |
-| vSeeBox V6 Max (Jan 2026) | TV 14 | 4GB / 64GB | Wi-Fi 6, BT 5.0 | Ethernet, AV out, USB 3.0 | Front display; HDMI 2.1; Amlogic 905Y4 |
+| vSeeBox V6 Max (Jan 2026) | TV 14 | 4GB / 64GB | Wi-Fi 6, BT 5.0 | Ethernet, AV out, USB 3.0 | Front display; HDMI 2.1; Amlogic S905Y4 |
 | vSeeBox Elite Ultra (Mar 2026) | 12 | 4GB / 128GB | Wi-Fi 6, BT 5 | Ethernet, optical, AV, USB 3.0 + 2.0 | Most storage; mini keyboard included |
 | Colabox L2 Plus (Apr 2026) | 14 | 4GB / 64GB | Wi-Fi 5, BT 5 | Ethernet, optical, AV, 2x USB-A | Clean launcher; my favorite of the group |
 | vSeeBox V6 Pro (Jun 2026) | 14 | 4GB / 32GB | 2.4 and 5 GHz Wi-Fi | Gigabit Ethernet, optical, USB 3.0 | LED display; external Wi-Fi antenna |
@@ -154,7 +154,7 @@ Title: _📺️ vSeeBox V6 Max: What's "MAX" versus the V6 Plus?_
 
 {% include youtube.html id="JwBvglyCMas" title="vSeeBox V6 Max: What's MAX versus the V6 Plus?" upload_date="2026-01-19T19:11:31Z" duration="PT28M8S" cta="false" channel="tech" %}
 
-The V6 Max has the same headline specs as the Plus: Android 14, 4GB of RAM, 64GB of storage, Wi-Fi 6, Bluetooth 5.0 and HDMI 2.1. Its About screen lists an Amlogic 905Y4 SoC with a quad-core ARM Cortex-A35 CPU, a Mali-G31 MP2 GPU, 4GB of DDR3 and 64GB of eMMC flash. The differences are on the outside. The Max swaps the Plus's optical out for a 3.5mm AV out, brings back a front screen, and has a smaller remote with a different layout. Over Ethernet, the Netflix speed test showed 83 megabits per second.
+The V6 Max has the same headline specs as the Plus: Android 14, 4GB of RAM, 64GB of storage, Wi-Fi 6, Bluetooth 5.0 and HDMI 2.1. Its About screen lists an Amlogic S905Y4 SoC with a quad-core ARM Cortex-A35 CPU, a Mali-G31 MP2 GPU, 4GB of DDR3 and 64GB of eMMC flash. The differences are on the outside. The Max swaps the Plus's optical out for a 3.5mm AV out, brings back a front screen, and has a smaller remote with a different layout. Over Ethernet, the Netflix speed test showed 83 megabits per second.
 
 I prefer the V6 Max over the Plus. I like the onboard screen, and it seems a little more responsive. Either way, it's a step down in storage from the Elite Ultra's 128GB.
 
@@ -307,7 +307,7 @@ As of 2026-12-02:
 - **V6 Pro chapter markers.** The chapter list in the V6 Pro video description (retro games, original hardware and so on) doesn't match the video. Use the section headings above instead.
 - **"V5 Ultra" (V6 Max video, ~27:10).** I say "V5 Ultra." I mean the Elite Ultra.
 - **RAM vs. storage.** In the Digibox and SeekBox videos I say "64 GB of RAM" once. Both have 4GB of RAM and 64GB of storage.
-- **V6 Max chipset.** I read the Amlogic chipset name on screen. The About screen lists the Amlogic 905Y4.
+- **V6 Max chipset.** I read the Amlogic chipset name on screen. The About screen lists the Amlogic S905Y4.
 - **Colastick Android version.** I say "I believe this is Android 12" early on. It runs Android 14.
 - **SeekBox Bluetooth.** The video description says 5.1. It's Bluetooth 5.0, as the box says.
 
