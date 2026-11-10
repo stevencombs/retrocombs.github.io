@@ -4,7 +4,7 @@ title: 'FAST LOAD: My Commodore 128 Comes Home, with a Keelog Power Supply'
 date: '2026-12-05'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
-permalink: c128-1
+permalink: commodore-128-keelog-power-supply
 comments: yes
 categories: [commodore]
 tags:
@@ -85,7 +85,7 @@ As of 2026-12-05:
 
 - **Datasette port.** When I describe the connectors, I call the Datasette connector the user port.
 - **The printer.** In the video I say my college printer was a Star Micronics "NX10, I think." My original 2021 post says NX-1000.
-- **The companion post link.** The video description points to stevencombs.com/c128-1. This post is that companion post, now at retrocombs.com/c128-1.
+- **The companion post link.** The video description points to stevencombs.com/c128-1. This post is that companion post, now at retrocombs.com/commodore-128-keelog-power-supply.
 
 ## MY COMMODORE 128 HISTORY {#history}
 
