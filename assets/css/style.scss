@@ -211,6 +211,11 @@ article.card,.page-body{background:#fff;border-radius:14px;padding:38px 48px;box
 
 /* Long-form typography */
 .prose{font-size:16px;line-height:1.7;color:var(--rc-ink);max-width:72ch}
+/* Post cards take both side margins from the card padding. Pages keep
+   the measure on .page-body .prose. The review box has its own 72ch
+   cap, so it has to drop that cap inside the card or the right gap stays. */
+article.card .prose,
+article.card .rc-review{max-width:none}
 .prose>*:first-child{margin-top:0}
 .prose p,.prose ul,.prose ol{margin:0 0 1.1em}
 .prose a{color:var(--rc-red);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;overflow-wrap:anywhere}
