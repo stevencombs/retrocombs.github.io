@@ -6,7 +6,7 @@ ads: false
 comments: false
 ---
 
-Last updated: November 8, 2026
+Last updated: November 10, 2026
 
 ## Who runs this site
 
