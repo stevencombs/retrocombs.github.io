@@ -9,12 +9,28 @@ layout: default
 </section>
 <div class="wrap page-main">
   <div class="page-body">
-    {% include topic-page-banner.html %}
+    {% include topic-page-banner.html banner=page.banner alt=page.banner_alt %}
     <div class="prose{% if page.wide %} prose-wide{% endif %}">
+      {% if page.ads == false %}
       {{ content }}
+      {% else %}
+      {% comment %}
+        Same in-article slot and thresholds as posts. ads: false is the
+        opt-out. Any other value, including light or unset, gets the post pattern.
+      {% endcomment %}
+      {% include content-with-ads.html html=content mode="full" %}
+      {% endif %}
     </div>
   </div>
-  {% if page.ads == "light" %}
+  {% unless page.ads == false %}
   {% include ad.html slot="end" %}
-  {% endif %}
+  {% comment %}
+    Sidebar slot matches posts. theme.js mounts it into a rail and, on
+    pages, wraps .page-main to make that rail. Skip it when wide: true
+    so the full-width column is not narrowed.
+  {% endcomment %}
+  {% unless page.wide %}
+  {% include ad.html slot="sidebar" %}
+  {% endunless %}
+  {% endunless %}
 </div>

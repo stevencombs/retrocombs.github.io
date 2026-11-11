@@ -1,122 +1,259 @@
 ---
 layout: pages
-title: 'MEGA65 Resource Page (v2.4)'
+title: 'MEGA65 Resource Page (v3.0)'
 permalink: /mega65
 ads: light
+wide: true
 ---
 
-<img class="category" src="/images/design/mega65.svg" width="20%" />
+{%- assign m65_banner = "/images/banners/retroCombs_topic-banner_mega65_final_phone.png?v=" | append: site.github.build_revision | relative_url -%}
+{%- assign m65_banner_2x = "/images/banners/retroCombs_topic-banner_mega65_final_phone@2x.png?v=" | append: site.github.build_revision | relative_url -%}
+<p class="m65-banner"><img src="{{ m65_banner }}" srcset="{{ m65_banner }} 1x, {{ m65_banner_2x }} 2x" alt="MEGA65" width="1200" height="250"></p>
 
-This page is a quick reference and start point for “all things MEGA≡65.” Bookmark/Favorite this page for quick access and I’ll keep the updates coming. [Send me an email](mailto:retrocombs@icloud.com) if you have an addition or correction.
+This is my start page for the MEGA≡65. I keep the User's Guide series, the downloads I actually use, and the community links in one place. Bookmark it. If something here is wrong or missing, [send me an email](mailto:retrocombs@icloud.com).
 
-**TABLE OF CONTENTS**
+## PAGE UPDATES {#page-updates}
 
-- [PAGE UPDATES](#page-updates)
-- [MY MEGA≡65 USER'S GUIDE SERIES](#my-mega65-users-guide-series)
-- [MY BLOG POSTS](#my-blog-posts)
-- [MY MEGA≡65 VIDEOS](#my-mega65-videos)
-- [MY MEGA≡65 BASIC PROGRAMS](#my-mega65-basic-programs)
-- [OFFICIAL INFORMATION](#official-information)
-- [ESSENTIALS](#essentials)
-- [CORES](#cores)
-- [TECHNICAL DOCUMENTS](#technical-documents)
-- [TOOLS](#tools)
-- [COMMUNITY](#community)
-- [GEAR](#gear)
+The latest update (2026-11-08) includes:
 
-## PAGE UPDATES
+- A full-width layout for this page, with a jump list and grouped sections
+- Current hardware, ROM, core, Xemu, and M65Connect notes, checked against the official pages
+- A link pass, including Bluesky. The Amazon and PayPal links are unchanged
+- Commodore computer cores, in place of Other cores and disks. Statuses checked on 8 November 2026 against cores.mega65.org and each core's GitHub repository
+- The BASIC programs card is now My MEGA65 Coding
+- A note that the Xemu package holds many emulators, and that xmega65 is the MEGA65 one, plus two install videos
+- The museum sentence under Community is gone
+- Commodore computer cores as its own card, after Manuals and tools. The freezer note is in that Manuals and tools card
+- Tiles use a short description, then a plain link list. Commodore computer cores follows that format, and the freezer note is a list link under Manuals and tools
 
-The latest update (2024-03-03) includes:
+The earlier update (2026-11-07) includes:
 
-- Links to all all books in the MEGA≡65 library
-- Link to the MEGA≡65 Wiki
+- The User's Guide chapter list, so the series starts from this page
+- Link repairs where a target had moved or gone (Discord, the style guide, file host files, the keychain, mouSTer, and the Trenz shop)
+- Typo and wording fixes
 
-<div class="video-container">
-<video width=500px id="video-bg" autoplay muted loop><source src="images/mega65/mega65-rotating.mp4" type="video/mp4">
+<div class="toc-box toc-jump">
+<p><strong>Jump to</strong></p>
+<ul>
+<li><a href="#get-a-mega65">Get a MEGA65</a></li>
+<li><a href="#learn">Learn</a></li>
+<li><a href="#my-mega65-coding">My MEGA65 Coding</a></li>
+<li><a href="#software">Software and downloads</a></li>
+<li><a href="#commodore-cores">Commodore computer cores</a></li>
+<li><a href="#emulation">Emulation</a></li>
+<li><a href="#community">Community</a></li>
+<li><a href="#support">Support the channel</a></li>
+</ul>
+</div>
+
+<div class="video-container video-wide">
+<video id="video-bg" autoplay muted loop playsinline poster="/images/mega65/mega65-rotating-poster.jpg" width="1920" height="1080"><source src="/images/mega65/mega65-rotating.mp4" type="video/mp4">
 </video>
 </div>
-<sup>Video Courtesy [MEGA≡65](https://mega65.org)</sup>
+<sup>Video courtesy of [MEGA≡65](https://mega65.org)</sup>
 
-## MY MEGA≡65 USER'S GUIDE SERIES
+## GET A MEGA65 {#get-a-mega65}
 
-Check out my [MEGA≡65 USER'S GUIDE SERIES](/mega65-users-guide), where I work through the MEGA≡65 User's Guide chapter-by-chapter. All seven chapters now have a video and a companion post, from [Chapter 1: Introduction](/mega65-ug-1) through [Chapter 7: Transferring Files](/mega65-ug-7).
+Trenz Electronic builds the MEGA≡65 in Germany. I checked the English shop on 8 November 2026.
 
-## MY BLOG POSTS
+The complete computer is article TE0765-07-AK. The shop listed it at US$838.95, VAT included, plus shipping. It showed 33 in stock and said it was ready to ship in about 1 to 3 workdays. That part number is the current board. The MEGA≡65 team calls this PCB revision R6A, and it uses the R6 core. An older R3 or R6 board still runs current MEGA≡65 software. You do not need a new board to keep up. Hold Restore for a second, let go, then press Help. MegaInfo shows the model.
 
-View all of my [MEGA≡65 blog posts](/mega65-blog).
+The mainboard without the case is article TE0765-07-B. The same shop listed it at US$528.36, VAT included, plus shipping. That page showed zero in stock. You can still preorder it, and the shop said delivery time is on request. Prices and stock move, so look at the shop again before you buy.
 
-## MY MEGA≡65 VIDEOS
+<div class="cols">
+<article class="topic-card">
+<span class="topic-card-name">Buy the computer</span>
+<span class="topic-card-blurb">The complete machine, the parts shop, and the bare mainboard.</span>
+<ul>
+<li><a href="https://www.trenz-electronic.de/en/MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer/TE0765-07-AK">Complete MEGA65 at Trenz (TE0765-07-AK)</a></li>
+<li><a href="https://www.trenz-electronic.de/en/Products/MEGA65/">MEGA65 parts shop</a></li>
+<li><a href="https://www.trenz-electronic.de/en/MEGA65-Mainboard-without-housing/TE0765-07-B">Mainboard without the case (TE0765-07-B)</a></li>
+</ul>
+</article>
+<article class="topic-card">
+<span class="topic-card-name">Desk gear</span>
+<span class="topic-card-blurb">Shirts, a keychain, and the sticks and mice I use with the machine.</span>
+<ul>
+<li><a href="https://commandshop.eu/">COMMAND webshop</a></li>
+<li><a href="https://commandshop.eu/mega65-keychain">MINI MEGA65 keychain</a></li>
+<li><a href="https://amzn.to/3l1CHXj">Hyperkin Trooper controller</a></li>
+<li><a href="https://sordan.ie/search/?q=tank+mouse">Tank Mouse</a></li>
+<li><a href="https://retrohax.net/shop/modulesandparts/mouster/">mouSTer USB mouse adapter</a></li>
+<li><a href="https://amzn.to/3PiJ1JM">TheMouse</a></li>
+</ul>
+</article>
+</div>
 
-View my [MEGA≡65 YouTube channel playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTomsrJnQdqFmoZUdT6qHocpo).
+The Hyperkin Trooper is a remake of the classic Atari joystick with a 9-pin plug. The Tank Mouse is a remake of the 1351, and it works on USB and on the 9-pin port. An original 1351 is hard to find. The mouSTer lets a USB mouse stand in for one, which is what I want for GEOS. [Here is my mouSTer write-up](/mouster). TheMouse is the inexpensive USB mouse I pair with a mouSTer.
 
-{% include member-cta.html channel="retrocombs" %}
+## LEARN {#learn}
 
-## MY MEGA≡65 BASIC PROGRAMS
+### MY MEGA≡65 USER'S GUIDE {#users-guide}
 
-Use the links below to view my MEGA≡65 BASIC programs:
+Work through the MEGA≡65 User's Guide, chapter by chapter. Each chapter has a video, a written companion page, the commands from the episode, and links to the official manual. The appendices live on the [User's Guide series page](/mega65-users-guide).
 
-- [MEGA≡65 Color Palette](https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b) - A small program, with sound effects, that displays the MEGA≡65 standard and extended color palette.
-- [Submarine Tracking Program](https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270) - This program is a recreation of the [submarine tracking program](/basic65-sub-track-update) found in the Commodore 128 Programmer’s Reference Guide.
+<div class="guide-actions">
+<a class="btn primary" href="{{ "/mega65-ug-1" | relative_url }}">Start with Chapter 1</a><a class="btn ghost" href="{{ site.data.guide.playlist }}">Watch the playlist</a>
+</div>
 
-## OFFICIAL INFORMATION
+<div class="guide-series">
+{% include guide-list.html %}
+</div>
 
-- [Making a C64/C65 compatible computer](https://c65gs.blogspot.com/) - Paul Gardner-Stephen’s MEGA≡65 blog.
-- [MEGA - Museum of Electronic Games & Art](https://www.m-e-g-a.org/) - Where’s MEGA come from? The MEGA≡65 sponsor organization, the Museum of Electronic Games & Art.
-- [MEGA≡65 File Host](https://files.mega65.org/) - Growing collection of titles and utilities for the MEGA65.
-- [MEGA≡65 Homepage](https://www.mega65.org) - The official MEGA≡65 page.
-- [MEGA≡65 on Facebook](https://www.facebook.com/MEGA65RetroComputer) - Still available but not up-do-date.
-- [MEGA≡65 on Twitter](https://twitter.com/MEGA65Retro) - Read the Tweets and Retweets.
-- [MEGA≡65 YouTube Channel](https://www.youtube.com/channel/UCEz3CQ343r4ssvIdmhDauMQ) - The latest update videos and development streams from the MEGA≡65 team. MUST WATCH!
-- [What is the MEGA≡65](https://mega65.org/assets/pdf/What_is_the_MEGA65.pdf) - PDF that explains the history and why of the MEGA65.
+### BLOG, VIDEOS, AND PROGRAMS {#more-learning}
 
-## ESSENTIALS
+<div class="cols">
+<article class="topic-card">
+<span class="topic-card-name">Read and watch</span>
+<span class="topic-card-blurb">My posts, the full MEGA≡65 playlist, and the Intro Disk V4 write-up.</span>
+<ul>
+<li><a href="/mega65-blog">MEGA65 blog posts</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLRVBh2hjFTomsrJnQdqFmoZUdT6qHocpo">MEGA65 YouTube playlist</a></li>
+<li><a href="/mega65-intro-disk-v4">Intro Disk V4</a></li>
+</ul>
+</article>
+<article class="topic-card" id="my-mega65-coding">
+<span class="topic-card-name">My MEGA65 Coding</span>
+<span class="topic-card-blurb">Two small programs of mine on the file host. The colors demo has sound effects. The submarine demo recreates a program from the Commodore 128 Programmer's Reference Guide.</span>
+<ul>
+<li><a href="https://files.mega65.org?id=1813f548-7280-4b73-9112-abc24b90892b">MEGA65 Colors BASIC demo</a></li>
+<li><a href="https://files.mega65.org?id=b3301095-87cf-4c9e-b954-b2922b7ee270">Submarine Tracking System demo</a></li>
+<li><a href="/basic65-sub-track-update">Submarine tracking write-up</a></li>
+</ul>
+</article>
+</div>
 
-- [Freezer V2](https://github.com/M3wP/MEGA65-Freezer) - Still in development next generation of the MEGA≡65 Freezer utility.
-- [GEOS 65](https://files.mega65.org?id=76448b22-bb44-49af-b816-3446e6497e40) - Beta version of GEOS for the MEGA65.
-- [MEGA65.ROM](https://files.mega65.org?id=54e69439-f25e-4124-8c78-22ea7ddc0f1c) - The latest `MEGA65.ROM` file.
-- [SD Card Essentials](https://files.mega65.org?id=0fb941fe-5c5f-4608-b0f1-32849d4a8dff) - All the files an SD Card needs to operate a MEGA65.
-- [SD Card Intro Disk Extras](https://files.mega65.org?id=2f99feed-edd3-430c-a71d-e5489f5d83ac) - All the fun demos and software that come with the MEGA≡65’s SD card.
+## SOFTWARE AND DOWNLOADS {#software}
 
-## CORES
+The [MEGA≡65 File Host](https://files.mega65.org/) is where the current files live. Owners redeem a code there for the closed ROM. If you do not own a MEGA≡65 yet, you build the ROM from a diff file and a Commodore 65 ROM. I cover both below.
 
-- [C64 Core](https://files.mega65.org?id=896a012f-59e4-456c-b91f-7e989b958241) - Amazing C64 core that brings features not found on the MEGA≡65 C64 mode. Turn your MEGA≡65 into a full featured Commodore 64 complete with IEC, cartridge, and REU support.
-- [Galaga Core](https://files.mega65.org?id=8bc248e3-c29c-4ba8-b8c3-6018a995a9ea) - The best shooter of the 80s, Galaga, on the MEGA≡65. Use with a rotated monitor for a true arcade experience.
-- [Game Boy](https://files.mega65.org?id=03b68172-d6ff-49f0-971e-15bea2c6ad9a) - Game Boy and Game Boy Color on your not as portable MEGA≡65.
-- [Release Core](https://files.mega65.org?id=a0276005-e71c-4b2d-8d17-2aa92e492c50) - Stable release ready to use.
-- [ZX Uno](https://files.mega65.org?id=bdaeb7e0-9fc8-4185-99de-104d01229f27) - ZX Spectrum that has not received updates in a while, but it works!
+<div class="cols">
+<article class="topic-card">
+<span class="topic-card-name">Cores</span>
+<span class="topic-card-blurb">The newest numbered release is 0.97.2, published 28 September 2025. It is a compatibility patch for the R6A board. An earlier R6 board can stay on 0.97. Release 0.98 was not out when I checked. These downloads do not include the ROM. The R6 package also holds the freezer and the other SD card files. R3, R2, and the Nexys4DDR widget are release 0.97.</span>
+<ul>
+<li><a href="https://files.mega65.org?id=764642f7-83bc-4162-9911-99a0a6283d08">R6 and R6A core</a></li>
+<li><a href="https://files.mega65.org?id=8d295d12-4422-4dc4-9553-64bf424e860e">R3 core (DevKit and R3a)</a></li>
+<li><a href="https://files.mega65.org?id=948f9d5a-cd8e-4d6a-b5ed-0285377e4c53">R2 core</a></li>
+<li><a href="https://files.mega65.org?id=a2b3c6a2-be4c-4b98-9df4-2bc14df0f222">Nexys4DDR core</a></li>
+<li><a href="https://github.com/MEGA65/mega65-core/releases/tag/release-0.97.2">Release notes</a></li>
+</ul>
+</article>
+<article class="topic-card">
+<span class="topic-card-name">ROM</span>
+<span class="topic-card-blurb">Stable ROM 920413 shipped with release 0.97. The ROM changelog calls it stable as of 27 April 2025. It needs the 0.97 core, or Xemu from 23 April 2025 or later. Beta ROM 920423 is the testing build. The file host copy is dated 29 October 2026. I stay on the stable ROM unless I am testing. SD Card Essentials is an old pack with no ROM, and I do not use it on a current machine.</span>
+<ul>
+<li><a href="https://files.mega65.org?ar=e9fdd71c-bf9f-4156-a728-8443c07bcceb">How to download closed ROM files</a></li>
+<li><a href="https://files.mega65.org?id=fd2c40b9-f337-41f7-8a81-0254b1e09fb5">Stable ROM diff</a></li>
+<li><a href="https://files.mega65.org?id=22f1eb6c-3df5-43c4-a584-e8212fc80b9d">Beta ROM diff</a></li>
+<li><a href="https://github.com/MEGA65/mega65-rom-public/blob/main/CHANGELOG.md">ROM changelog</a></li>
+<li><a href="https://files.mega65.org?id=0fb941fe-5c5f-4608-b0f1-32849d4a8dff">SD Card Essentials</a></li>
+</ul>
+</article>
+<article class="topic-card">
+<span class="topic-card-name">Manuals and tools</span>
+<span class="topic-card-blurb">The official PDFs were version 1.2 on 20 October 2026. The stable tools package is version 1.00 from 10 August 2024. Newer development builds, dated 5 October 2026, are on the file host if you need a newer m65 or mega65_ftp. Freezer 0.40 ships with release 0.97.2.</span>
+<ul>
+<li><a href="https://mega65.org/user-guide">User's Guide</a></li>
+<li><a href="https://mega65.org/developer-guide">Developer's Guide</a></li>
+<li><a href="https://mega65.org/basic65-ref">BASIC 65 Reference</a></li>
+<li><a href="https://mega65.org/chipset-ref">Chipset Reference</a></li>
+<li><a href="https://mega65.org/mega65-book">Complete compendium</a></li>
+<li><a href="https://mega65.org/wiki">MEGA65 Wiki</a></li>
+<li><a href="https://github.com/MEGA65/mega65-user-guide/blob/master/styleguide.tex">Style guide for writers</a></li>
+<li><a href="https://github.com/MEGA65">MEGA65 on GitHub</a></li>
+<li><a href="https://github.com/M3wP/MEGA65-Freezer">Freezer rework (M3wP, GitHub)</a></li>
+<li><a href="https://files.mega65.org?id=57f855b9-a758-49df-ba7c-d120c4d1241d">Tools release, Mac</a></li>
+<li><a href="https://files.mega65.org?id=06c55815-7826-4ad6-be0e-b8dc5e721b6d">Tools release, Windows</a></li>
+<li><a href="https://files.mega65.org?id=e3ec875c-ca31-44fc-a268-ab6f9990e004">Tools release, Linux</a></li>
+<li><a href="https://files.mega65.org?id=7d96641c-b306-49cf-80ff-ea1e5d00c9d1">Tools development build, Mac</a></li>
+<li><a href="https://files.mega65.org?id=658322fd-e586-4b4f-a991-89470b269b4a">Tools development build, Windows</a></li>
+<li><a href="https://files.mega65.org?id=2b7bd912-1181-447c-a489-223f16b764c1">Tools development build, Linux</a></li>
+</ul>
+</article>
+<article class="topic-card" id="commodore-cores">
+<span class="topic-card-name">Commodore computer cores</span>
+<span class="topic-card-blurb">Community Commodore cores for the MEGA65. The shared list is at <a href="https://cores.mega65.org">cores.mega65.org</a>.</span>
+<h4>8-Bit Computers</h4>
+<ul>
+<li><a href="https://github.com/MJoergen/C64MEGA65">Commodore 64</a></li>
+<li><a href="https://files.mega65.org?id=192560f2-60f6-4b51-be37-aabb8e896151">Commodore 128</a></li>
+<li><a href="https://github.com/MJoergen/VIC20MEGA65">Commodore VIC-20</a></li>
+<li><a href="https://github.com/Rhialto/MegaPET">Commodore PET</a></li>
+<li><a href="https://github.com/piso77/C16-MEGA65">Commodore 16 and Plus/4</a></li>
+<li><a href="https://files.mega65.org?id=04585f68-14c0-43ae-8dd5-6448445ac926">Commodore 16 and Plus/4 (extended)</a></li>
+</ul>
+<h4>16/32-Bit Computers</h4>
+<ul>
+<li><a href="https://github.com/sy2002/AExp">Commodore Amiga 500</a></li>
+<li><a href="https://github.com/johansmolinski/Megamiga">Commodore Amiga 600/1200 (MegAmiga)</a></li>
+<li><a href="https://github.com/johansmolinski/pc10-iii">Commodore PC10-III</a></li>
+</ul>
+</article>
+</div>
 
-## TECHNICAL DOCUMENTS
+## EMULATION {#emulation}
 
-- [MEGA≡65 User's Guide](https://mega65.org/user-guide) - PDF version of the user's guide that comes with the MEGA≡65.
-- [The MEGA≡65 Developer's Guide:](https://mega65.org/developer-guide) - Information to help you write programs for the MEGA65.
-- [The MEGA≡65 BASIC 65 Reference:](https://mega65.org/basic65-ref) - BASIC 65 commands, functions, and operations documentation.
-- [The MEGA≡65 Chipset Reference:](https://mega65.org/chipset-ref) - Information about the MEGA65's custom chips.
-- [The MEGA≡65 Complete Compendium:](https://mega65.org/mega65-book) - All volumes in a single PDF.
-- [MEGA≡65 Wiki](https://mega65.org/wiki) - Confluence Wiki with article and more.
-- [MEGA≡65 GitHub](https://github.com/MEGA65) - All the official repositories for the MEGA≡65 project. Highlights include the user’s guide, tools, and Xemu.
-- [What are “alternative” MEGA≡65 cores?](https://sy2002.github.io/m65cores/) - All the known cores that are available or in development.
-- [MEGA≡65 Style Guide](https://github.com/MEGA65/mega65-user-guide/blob/master/style-guide.md) - A GitHub GIST for writers, bloggers and those contributing to the official instruction manuals.
+No MEGA≡65 yet? Xemu is how I tell people to start. It is free, and it runs on Mac, Linux, and Windows. You still need a ROM.
 
-## TOOLS
+<div class="cols">
+<article class="topic-card">
+<span class="topic-card-name">Xemu</span>
+<span class="topic-card-blurb">The Xemu package contains many emulators. xmega65 is the one used for MEGA65 emulation. The stable downloads on the Xemu page were stamped 29 January 2026 for Linux, Mac, and Windows. Use the stable (master) branch unless you are testing. The next branch is newer and less settled.</span>
+<ul>
+<li><a href="https://github.lgb.hu/xemu/">Xemu download page</a></li>
+<li><a href="https://github.com/lgblgblgb/xemu/">Xemu source on GitHub</a></li>
+<li><a href="https://www.youtube.com/watch?v=8PbSxkYVD8I">Install Xemu on Mac</a></li>
+<li><a href="https://www.youtube.com/watch?v=z65O6bxIkaY">Install Xemu on a Chromebook</a></li>
+</ul>
+</article>
+<article class="topic-card">
+<span class="topic-card-name">M65Connect</span>
+<span class="topic-card-blurb">This is the GUI I use to move files and talk to a real MEGA≡65 over the network or a JTAG adapter. Version 2.5 is the current download on the file host, published 9 November 2025.</span>
+<ul>
+<li><a href="https://files.mega65.org?id=5919a8b8-c23c-4616-9a52-37e077076638">Mac (Universal)</a></li>
+<li><a href="https://files.mega65.org?id=d612d745-360e-4e86-8e15-14af525b6220">Windows (Intel)</a></li>
+<li><a href="https://files.mega65.org?id=1b849d0a-2ceb-44aa-beb4-a2cdfa51eb19">Windows (ARM)</a></li>
+<li><a href="https://files.mega65.org?id=c1dbc7fe-89ad-4f1d-9e72-ad3f55cf02a1">Linux (Intel)</a></li>
+<li><a href="https://mega65.atlassian.net/wiki/spaces/MEGA65/pages/48365569/M65Connect">M65Connect manual</a></li>
+<li><a href="https://github.com/MEGA65/m65connect">M65Connect source</a></li>
+</ul>
+</article>
+</div>
 
-- [Xemu](https://github.lgb.hu/xemu/) - Use this emulator on your Mac, Linux, or Windows PC to run a virtual MEGA≡65 environment. A great way to get started with zero cost.
-- [M65 Connect](https://files.mega65.org?id=5919a8b8-c23c-4616-9a52-37e077076638) - Available for Mac, Linux and Windows, this GUI connects your MEGA≡65 to your PC to manage files and your MEGA65.
-- [MEGA≡65 Tools Release Package (Mac)](https://files.mega65.org?id=57f855b9-a758-49df-ba7c-d120c4d1241d) - Includes *m65* and *mega65_ftp* to use your PC’s command line to manage your MEGA≡65.
+## COMMUNITY {#community}
 
-## COMMUNITY
+<div class="cols">
+<article class="topic-card">
+<span class="topic-card-name">Talk to people</span>
+<span class="topic-card-blurb">The Discord is the friendliest place I know for MEGA≡65 questions. It feels like an 8-bit BBS, without the wait.</span>
+<ul>
+<li><a href="https://discord.gg/tVpG4yx9Yu">MEGA65 Discord</a></li>
+<li><a href="https://www.forum64.de/index.php?board/457-mega65/&amp;l=2">MEGA65 on Forum64</a></li>
+<li><a href="https://m65digest.substack.com/p/keeping-up-with-the-mega65?showWelcome=true">Dan's MEGA65 newsletter</a></li>
+<li><a href="https://www.reddit.com/r/mega65/">MEGA65 on Reddit</a></li>
+</ul>
+</article>
+<article class="topic-card">
+<span class="topic-card-name">Official pages</span>
+<span class="topic-card-blurb">The project site, the handbook PDF, and the places the team posts.</span>
+<ul>
+<li><a href="https://mega65.org">MEGA65 homepage</a></li>
+<li><a href="https://mega65.org/assets/pdf/What_is_the_MEGA65.pdf">What is the MEGA65 (PDF)</a></li>
+<li><a href="https://www.youtube.com/channel/UCEz3CQ343r4ssvIdmhDauMQ">MEGA65 YouTube channel</a></li>
+<li><a href="https://bsky.app/profile/mega65.bsky.social">MEGA65 on Bluesky</a></li>
+<li><a href="https://x.com/MEGA65Retro">MEGA65 on X</a></li>
+<li><a href="https://www.facebook.com/MEGA65RetroComputer">MEGA65 on Facebook</a></li>
+<li><a href="https://c65gs.blogspot.com/">Paul Gardner-Stephen's MEGA65 blog</a></li>
+<li><a href="https://www.m-e-g-a.org/">Museum of Electronic Games &amp; Art</a></li>
+</ul>
+</article>
+</div>
 
-- [MEGA65 Discord channel](https://discord.gg/8zVbk2hK) - Home to the friendliest community of MEGA≡65 developers and users on Discord. Think 8-bit BBS level support without the communication delay.
-- [Leave a tip](https://paypal.me/stevencombs) - If the MEGA≡65 posts are useful, a tip helps keep them coming.
-- [MEGA65 - Forum64](https://www.forum64.de/index.php?board/457-mega65/&l=2) - Old school forum for MEGA≡65 content.
-- [Keeping up with the MEGA≡65](https://m65digest.substack.com/p/keeping-up-with-the-mega65?showWelcome=true) - Dan’s MEGA≡65 newsletter. Subscribe vial email or RSS.
-- [MEGA65 on Reddit](https://www.reddit.com/r/mega65/) - The Reddit location for all things MEGA65.
+## SUPPORT THE CHANNEL {#support}
 
-## GEAR
+If the MEGA≡65 posts and videos are useful, the best help is a channel membership. A tip helps too. The [supporters page](/supporters) is where I say thanks.
 
-- [COMMAND Webshop](https://commandshop.eu/) - Purchase MEGA≡65 gear such as; t-shirts, mugs, and USB drives.
-- [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj) - Remake of the classic Atari joystick with 9-pin DIN connector.
-- [MEGA≡65 Products Trenz Electronic GmbH Online Shop (EN)](https://shop.trenz-electronic.de/en/Products/MEGA65/) - Purchase your MEGA≡65 here.
-- [MINI MEGA≡65 Keychain](https://www.lavago.de/mini-mega65.html) - Show your MEGA≡65 support with a mini-MEGA65 keychain.
-- [mouSTer - Modern mouse adapter for retro computers](https://retrohax.net/shop/amiga/mouster/) - Finding an original 1351 mouse is tough, but this adapter will let you use any USB mouse. Perfect for GEOS.a Here’s [my experience with the MouSTer](/mouster).
-- [Tank Mouse](https://sordan.ie/search/?q=tank+mouse) - A remake of the famous 1351. Works with USB and 9-pin DIN.
-- [TheMouse](https://amzn.to/3PiJ1JM) - Use this with a mouSTer for an inexpensive and modern 1351 mouse. A must for GEOS on the MEGA≡65.
+{% include member-cta.html channel="retrocombs" lead=false %}
+
+[Leave a tip](https://paypal.me/stevencombs)

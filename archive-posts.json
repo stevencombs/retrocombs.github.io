@@ -1,0 +1,48 @@
+---
+layout: null
+permalink: /archive-posts.json
+sitemap: false
+---
+[
+{%- assign social_fallback = "/images/brand/social-preview.png" -%}
+{%- for post in site.posts -%}
+  {%- assign image_path = "" -%}
+  {%- assign image_alt = post.title -%}
+  {%- if post.image.path and post.image.path != "" and post.image.path != social_fallback -%}
+    {%- assign image_path = post.image.path -%}
+    {%- if post.image.alt and post.image.alt != "" -%}
+      {%- assign image_alt = post.image.alt -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- assign topic_name = "" -%}
+  {%- assign topic_url = "" -%}
+  {%- assign primary = post.categories | first -%}
+  {%- if primary -%}
+    {%- for group in site.data.topics.groups -%}
+      {%- for topic in group.items -%}
+        {%- if topic.categories contains primary -%}
+          {%- assign topic_name = topic.name -%}
+          {%- assign topic_url = topic.url -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endfor -%}
+  {%- endif -%}
+  {%- unless forloop.first -%},{%- endunless -%}
+  {
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
+    "year": {{ post.date | date: "%Y" | jsonify }},
+    "categories": {{ post.categories | jsonify }},
+    "excerpt": {{ post.excerpt | strip_html | normalize_whitespace | truncate: 160 | jsonify }}
+    {%- if image_path != "" -%}
+    ,"image": {{ image_path | relative_url | jsonify }},
+    "image_alt": {{ image_alt | jsonify }}
+    {%- endif -%}
+    {%- if topic_name != "" -%}
+    ,"topic": {{ topic_name | jsonify }},
+    "topic_url": {{ topic_url | relative_url | jsonify }}
+    {%- endif -%}
+  }
+{%- endfor -%}
+]

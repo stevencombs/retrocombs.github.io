@@ -3,6 +3,7 @@ layout: pages
 title: Writing
 permalink: writing
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/writing.svg" width="20%" />

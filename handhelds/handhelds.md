@@ -3,6 +3,7 @@ layout: pages
 title: Handhelds
 permalink: handhelds
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/place-holder.svg" width="20%" />

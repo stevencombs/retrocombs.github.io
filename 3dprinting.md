@@ -3,6 +3,7 @@ layout: pages
 title: 3D Printing
 permalink: 3dprinting
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/3dprinting.svg" width="20%" />

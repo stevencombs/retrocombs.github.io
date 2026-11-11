@@ -3,6 +3,7 @@ layout: pages
 title: Productivity
 permalink: productivity
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/productivity.svg" width="20%" />

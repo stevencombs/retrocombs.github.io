@@ -6,7 +6,7 @@ ads: false
 comments: false
 ---
 
-Last updated: October 21, 2026
+Last updated: November 8, 2026
 
 ## Who runs this site
 
@@ -42,7 +42,7 @@ This is what the site actually loads. It does not load Google Fonts. Typefaces (
 
 **Google Analytics.** Every page loads Google Analytics 4, measurement ID `G-GMC3C0FD4Z`, through [gtag.js](https://www.googletagmanager.com/gtag/js?id=G-GMC3C0FD4Z). Google uses cookies, including cookies named `_ga`, to recognize a browser and count visits. See the [Google Privacy Policy](https://policies.google.com/privacy).
 
-**Google AdSense.** On pages that do not turn ads off, the site loads the AdSense script `adsbygoogle.js` for publisher `ca-pub-4132959196132899`. Posts place units in the article, after the article, and in the desktop sidebar. The homepage places one unit between the blog rows. Topic pages place one unit after the page. Those units can set advertising cookies. This page turns ads off and does not load the script. See the [Google Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+**Google AdSense.** On pages that do not turn ads off, the site loads the AdSense script `adsbygoogle.js` for publisher `ca-pub-4132959196132899`. Posts place units in the article, after the article, and in the desktop sidebar. Content pages use those same positions: in the page, after the page, and in the desktop sidebar when the page is not a full-width layout. Full-width content pages place units in the page and after the page, and do not add a sidebar. The homepage places one unit between the blog rows. Those units can set advertising cookies. This page turns ads off and does not load the script. See the [Google Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
 **Comments.** Posts load [giscus](https://giscus.app) from `giscus.app`. If you comment, you sign in with GitHub, and the comment is stored in GitHub Discussions on the `stevencombs/retrocombs.github.io` repository under the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 

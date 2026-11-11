@@ -2,7 +2,7 @@
 layout: pages
 title: Blog Posts
 permalink: blog
-ads: false
+wide: true
 ---
 
 {% include topic-page-banner.html banner="blog" alt="Blog Posts banner" %}

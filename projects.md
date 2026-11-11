@@ -3,6 +3,7 @@ layout: pages
 title: Projects
 permalink: /projects
 ads: false
+wide: true
 ---
 
 Free Mac apps and tools I build. Each one has its own page with downloads and setup.

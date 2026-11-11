@@ -41,6 +41,20 @@
   url: https://www.youtube.com/@retroCombs-tech
   channel_id: UCm24j54Ur9uvYu2oskuP5PA
   videos:
+    - id: zY6Xu8XzEdg
+      title: "🎼️ I Set Up the WiiM Ultra on My Desk and I Was Shocked (So Good!)"
+      url: https://www.youtube.com/watch?v=zY6Xu8XzEdg
+      published: "2026-11-06"
+      thumbnail: https://i.ytimg.com/vi/zY6Xu8XzEdg/maxresdefault.jpg
+      width: 1280
+      height: 720
+    - id: 944c-XHpDtU
+      title: "📺️ I Tested The vSeeBox α1 And It Doesn't Run Android TV!"
+      url: https://www.youtube.com/watch?v=944c-XHpDtU
+      published: "2026-11-05"
+      thumbnail: https://i.ytimg.com/vi/944c-XHpDtU/maxresdefault.jpg
+      width: 1280
+      height: 720
     - id: YsWzZ2Nj1sY
       title: "📺️ SeekBox S3 Pro: The Android TV Box You've Been SEEKing?"
       url: https://www.youtube.com/watch?v=YsWzZ2Nj1sY
@@ -53,19 +67,5 @@
       url: https://www.youtube.com/watch?v=XCdeEKswxa8
       published: "2026-09-07"
       thumbnail: https://i.ytimg.com/vi/XCdeEKswxa8/maxresdefault.jpg
-      width: 1280
-      height: 720
-    - id: fE8jXDB06Fc
-      title: "📀️ Archive, Capture, and Stream with the ClonerAlliance UHD Pro"
-      url: https://www.youtube.com/watch?v=fE8jXDB06Fc
-      published: "2026-08-24"
-      thumbnail: https://i.ytimg.com/vi/fE8jXDB06Fc/maxresdefault.jpg
-      width: 1280
-      height: 720
-    - id: WVmw1CoG5fM
-      title: "📀️ Don't Buy a Streaming Box Until You Watch My SuperBOX S7 Pro Deep Dive"
-      url: https://www.youtube.com/watch?v=WVmw1CoG5fM
-      published: "2026-08-01"
-      thumbnail: https://i.ytimg.com/vi/WVmw1CoG5fM/maxresdefault.jpg
       width: 1280
       height: 720

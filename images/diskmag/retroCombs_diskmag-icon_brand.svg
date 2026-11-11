@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- retroCombs Disk Mag icon, brand colours, FINAL: ink body, beige shutter, charcoal label -->
+  <path fill-rule="evenodd" fill="#333333" d="M1 1h12l2 2v12H1V1z"/>
+  <path fill-rule="evenodd" fill="#D9CDAD" d="M4 1h7v5H4V1zM8 2h2v3H8V2z"/>
+  <path fill="#464646" d="M3 8h10v6H3V8z"/>
+</svg>

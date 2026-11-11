@@ -3,6 +3,7 @@ layout: pages
 title: Shows
 permalink: shows
 ads: light
+wide: true
 ---
 
 <img class="category" src="/images/design/place-holder.svg" width="20%" />
