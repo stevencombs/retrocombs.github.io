@@ -164,7 +164,7 @@ The [Commodore 1531](https://www.c64-wiki.com/wiki/Commodore_1531) and tapes are
 
     `PRESS PLAY ON TAPE`
 
-* Press the play button on the Datasette (or Tapuino) and the screen will will blank and then display:
+* Press the play button on the Datasette (or Tapuino) and the screen will blank and then display:
 
     `FOUND "PROGRAM NAME"`
 

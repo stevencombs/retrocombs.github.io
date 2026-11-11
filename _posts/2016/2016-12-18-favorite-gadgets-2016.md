@@ -43,7 +43,7 @@ This past year brought many gadgets into our home. As the year winds up, I decid
 	- [Hue Bulb Starter Kit][18]
 	- [GE Link Smart LED Light Bulb][19]
 - [Accessories][20]
-	- [Anker Anker PowerCore 10000][21]
+	- [Anker PowerCore 10000][21]
 	- [Anker 24W Dual USB Car Charger][22]
 	- [Logitech K400 Keyboard][23]
 	- [IKEA STORHÖGEN Battery Charger with Storage][24]
@@ -126,7 +126,7 @@ When the original Amazon Echo was released, [I wrote all about it][52]. The Echo
 [Get the Amazon Echo Dot][54] - $49.99
 
 ## WeMo Switch Smart Plug
-The WeMo Switch Smart Plug is one of the simplest and inexpensive ways to build a home automation system. Plug it into the wall, plug in a lamp, use the [WeMo app][55] to configure and you can now turn lamps, or other devices, on and off with your phone or tablet. Create rules to control devices at specific times. The WeMo switch is compatible with the Amazon Echo. Configure the the switch in the [Amazon Alexa app][56] to control devices using your voice. Welcome to the twenty first century!
+The WeMo Switch Smart Plug is one of the simplest and inexpensive ways to build a home automation system. Plug it into the wall, plug in a lamp, use the [WeMo app][55] to configure and you can now turn lamps, or other devices, on and off with your phone or tablet. Create rules to control devices at specific times. The WeMo switch is compatible with the Amazon Echo. Configure the switch in the [Amazon Alexa app][56] to control devices using your voice. Welcome to the twenty first century!
 
 [Get the WeMo Switch Smart Plug][57] - $39.99
 
@@ -143,10 +143,10 @@ If you own a Philips Hue system, save money and purchase the GE Smart White LED 
 # Accessories
 Any respectable gadget geek will tell you that it's all about the accessories. Below is a list of accessories that were necessities in 2016.
 
-## Anker Anker PowerCore 10000
-If you have a mobile device, you need an external battery in case of emergencies or after a long day of picture taking and tweeting. Once again, Anker comes to the rescue with their affordable and powerful PowerCore 10000 with high speed charging. The PowerCore will charge most smartphones three times before its needs a recharge.
+## Anker PowerCore 10000
+If you have a mobile device, you need an external battery in case of emergencies or after a long day of picture taking and tweeting. Once again, Anker comes to the rescue with their affordable and powerful PowerCore 10000 with high speed charging. The PowerCore will charge most smartphones three times before it needs a recharge.
 
-[Get the Anker Anker PowerCore 10000][60] - $23.99
+[Get the Anker PowerCore 10000][60] - $23.99
 
 ## Anker 24W Dual USB Car Charger
 This 2 port car charger by Anker is the best "cigarette lighter" adapter I've used. With 2.4 amps of power it can easily charge a power hungry smartphone in no time, or charge two devices simultaneously. The charger is compact and I keep it and appropriate cables (it comes with one micro USB cable) in my travel bag at all times.
@@ -159,7 +159,7 @@ The inexpensive Logitech K400 Keyboard is a wireless keyboard that includes an i
 [Get the Logitech K400 Keyboard][62] - $19.99
 
 ## IKEA STORHÖGEN Battery Charger with Storage
-During a 2016 stop to IKEA, and there were many last year due to a kitchen remodel, I purchased this battery charger. I was intrigued with the charger because it was relatively inexpensive, compatible with all rechargeable battery types, includes an LCD screen that displays charge status, and stores 16 batteries (AA, AAA or combination) at at a time. The included wall mount ensures rechargeable batteries are ready to go when you need them.
+During a 2016 stop to IKEA, and there were many last year due to a kitchen remodel, I purchased this battery charger. I was intrigued with the charger because it was relatively inexpensive, compatible with all rechargeable battery types, includes an LCD screen that displays charge status, and stores 16 batteries (AA, AAA or combination) at a time. The included wall mount ensures rechargeable batteries are ready to go when you need them.
 
 [Get the IKEA STORHÖGEN Battery Charger][63] - $34.99
 

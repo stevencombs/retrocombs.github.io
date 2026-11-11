@@ -8,6 +8,7 @@ category: ham
 comments: yes
 redirect_from:
   - /gadgets/2015/02/14/beofeng-gt3-unboxing.html
+  - /ham/2015/02/14/beofeng-gt3-unboxing.html
 
 image:
   path: 'https://lh4.googleusercontent.com/-s_PnXve79jI/VN_9dRwWjwI/AAAAAAABZU0/7UEaK0hna8o/w692-h519-no/baofenggt3-book.jpg'

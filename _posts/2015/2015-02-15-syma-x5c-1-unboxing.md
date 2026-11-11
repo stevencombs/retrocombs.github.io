@@ -14,7 +14,7 @@ image:
 kind: first-look
 ---
 
-It’s been a gadget kind of weekend. Yesterday I shared an [unboxing of a new Baofeng GT-3 radio](/ham/2015/02/14/beofeng-gt3-unboxing.html) and today I had time to unbox a new gadget that arrived last week from China – the [SYMA X5C-1 Quadcopter](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=stevenccom-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU).
+It’s been a gadget kind of weekend. Yesterday I shared an [unboxing of a new Baofeng GT-3 radio](/ham/2015/02/14/baofeng-gt3-unboxing.html) and today I had time to unbox a new gadget that arrived last week from China – the [SYMA X5C-1 Quadcopter](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=syma%20x5c-1&linkCode=ur2&sprefix=syma%20x5c-1%2Caps%2C183&tag=stevenccom-20&url=search-alias%3Daps&linkId=J3FYHC6IV22I3AGU).
 
 ![SYMA Quadcopter Box](https://lh5.googleusercontent.com/aq_R2phMyn6fIZdUmfOjtVU1P1ypfStXyggHyB2b92kv=w1088-h559-no)
 
@@ -37,4 +37,4 @@ For now, enjoy my unboxing gallery below to find out what’s in the box as well
 Scroll over image below to reveal gallery navigation tools. Fullscreen also available to view details.
 <style>.embed-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; max-width: 640px; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.flickr.com/photos/bimp/sets/72157650831810541/player/' frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
 
-If you have any questions, fill free to leave them in the comments below. I’ll try and answer them.
+If you have any questions, feel free to leave them in the comments below. I’ll try and answer them.

@@ -56,7 +56,7 @@ To be clear. I had nothing to do with this demo. Both developers reached out to 
 
 When Gürçe reached out, he shared the paraphrased information below:
 
-> This is the second MEGA65 demo to feature at a demo party, but the first to highlight the VIC4 capabilities. The BAS goal was to bring together a collective of creative coders to explore the capabilities and limits of the MEGA65. When one demo group or team sees this, the hope is that other demo teams will try to push push the hardware even more.
+> This is the second MEGA65 demo to feature at a demo party, but the first to highlight the VIC4 capabilities. The BAS goal was to bring together a collective of creative coders to explore the capabilities and limits of the MEGA65. When one demo group or team sees this, the hope is that other demo teams will try to push the hardware even more.
 
 SPOILER: There's another demo team hard at work with plans to reveal their work at an upcoming demo party. Hey team, let me know if I can help feature your work! We can't wait to see it.
 
@@ -64,7 +64,7 @@ Retro Computing fans shouldn't be surprised by this project. Even in 2022 demo g
 
 I hope you enjoyed this demo video. If you did, leave a comment below. Thanks to Gürçe and Deathy for this opportunity to share the BAS Demo Group's work. My wanna be programmer geek side has to wonder, am I now an honorary member of the BAS demo team?
 
-If you liked this demo, check out my [Part I: Playing the C64 demos from the MEGA65 on boarding SD Card](https://retrocombs.com/c64-on-mega65-livestream).
+If you liked this demo, check out my [Part I: Playing the C64 demos from the MEGA65 onboarding SD card](https://retrocombs.com/c64-on-mega65-livestream).
 
 If you want to learn more about the MEGA65, check out my [Introduction to the MEGA65](https://youtu.be/Vr9rLUQZgJI) video.
 

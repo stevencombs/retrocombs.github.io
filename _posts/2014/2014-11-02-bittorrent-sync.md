@@ -54,7 +54,7 @@ It really didn’t take long for me to figure out how to use BitTorrent Sync; ho
 
 ![BitTorrent Sync lan options](/images/posts/2014-11-02-bittorrent-sync/2014-11-02-bittorrent-sync-lan-preferences.png)
 
-* If you have large data to transfer, I highly recommend you copy the files from one device to another using a USB drive first. I had 120Gb of movie files and BitTorrent sync listed a transfer time of 88 days. I’m sure it wouldn’t have taken that long; however, I decided to copy the files first and then make the connection. Once the sync connection was made, the two directories where instantaneously in sync and subsequent syncs where much faster.
+* If you have large data to transfer, I highly recommend you copy the files from one device to another using a USB drive first. I had 120 GB of movie files and BitTorrent sync listed a transfer time of 88 days. I’m sure it wouldn’t have taken that long; however, I decided to copy the files first and then make the connection. Once the sync connection was made, the two directories were instantaneously in sync and subsequent syncs were much faster.
 * Make sure you choose the correct options at the beginning. There is no way that I have found where you can modify those after the connection is made.
 * BitTorrent sync does include a type of versioning, that is, if you make a change to a directory that is not what you wanted, you can access original files through the archives that are created. Handy for the those “Uh-Oh“ moments.
 * The more devices you have sharing data, the faster the data transfers.

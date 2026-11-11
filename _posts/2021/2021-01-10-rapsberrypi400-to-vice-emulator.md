@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'retroCombs: The Combian pi/400 Project. Use Combian 64 and a Raspberry Pi 400 to create the ulitmate Commodre computer emulator'
+title: 'retroCombs: The Combian pi/400 Project. Use Combian 64 and a Raspberry Pi 400 to create the ultimate Commodore computer emulator'
 date: '2021-01-10'
 author: 'Steven B. Combs, Ph.D.'
 permalink: combianpi400-1
@@ -169,11 +169,11 @@ This is the easiest step. Insert the Combian 64 micro SD card into the Raspberry
 2. Connect an [HDMI monitor](https://amzn.to/3aS4g0y).
 3. If you plan to play games, go ahead and plug in a [THEC64 Joystick](https://amzn.to/38tVELV). It works out of the box with Combian 64! No configuration necessary if the games conforms to the normal joystick port selection.
 
-That's it. We don't need a mouse since those weren't "really a thing" in the 1980s on Commodore computers." However, I do eventually plan to give GEOS a try and see if a USB mouse will work. If you know the answer, drop a comment below!
+That's it. We don't need a mouse since those weren't "really a thing" in the 1980s on Commodore computers. However, I do eventually plan to give GEOS a try and see if a USB mouse will work. If you know the answer, drop a comment below!
 
 ## Startup the Combian 64 computer
 
-1. Plug in the the [USB-C power cable](https://amzn.to/3nXz6Zk) to the wall. Depending on the power supply, you may need to flip a switch on the cable.
+1. Plug in the [USB-C power cable](https://amzn.to/3nXz6Zk) to the wall. Depending on the power supply, you may need to flip a switch on the cable.
 2. The Raspberry Pi will boot up the Combian 64 distribution and by default, into Commodore 64 mode. The first boot will take longer than subsequent boots. Afterward, Combian will boot in about 10-15 seconds.
 
 ## Configure Combian 64
@@ -196,7 +196,7 @@ See the PDF above for screenshots of the menu system.
 
 ## Keyboard Stickers
 
-I've explained that I want to the keyboard to resemble original Commodore computer keyboards; however, on the Raspberry Pi's modern keyboard, typing can be a bit frustrating as you try and remember which keys do what. That's where the [4Keyboard brand, Commodore 64 key cap stickers](https://amzn.to/38KRcHN) come into play. Available in white or black, I use the white to remind me which keys produce which [PETSCII](https://en.wikipedia.org/wiki/PETSCII#Commodore_64_control_characters) characters. Each sheet is about $4. I purchased two black sheets and two white sheets since I could get all for a standard shipping rate of $4. I'm really pleased with the keyboard and it looks pretty good, as shown in the image below:
+I've explained that I want the keyboard to resemble original Commodore computer keyboards; however, on the Raspberry Pi's modern keyboard, typing can be a bit frustrating as you try and remember which keys do what. That's where the [4Keyboard brand, Commodore 64 key cap stickers](https://amzn.to/38KRcHN) come into play. Available in white or black, I use the white to remind me which keys produce which [PETSCII](https://en.wikipedia.org/wiki/PETSCII#Commodore_64_control_characters) characters. Each sheet is about $4. I purchased two black sheets and two white sheets since I could get all for a standard shipping rate of $4. I'm really pleased with the keyboard and it looks pretty good, as shown in the image below:
 
 ![The PETSCII key caps on the Combian pi/400](/combianpi400/key-caps.jpg)
 
@@ -234,7 +234,7 @@ Good news! Plug in a THEC64(VIC-20) maxi or mini USB joystick and it just works!
 
 ## Game Demo
 
-To demo the new Combian Pi/400, I choose to play the the homebrew shooter, [Valkyrie 3 - The Night Witch](https://csdb.dk/release/?id=163108). I turn on the disk drive access emulation sounds (directions in configuration PDF above), mount the .d64 disk image in the VICE menu, boot the emulated C64, and the experience was awesome!
+To demo the new Combian Pi/400, I choose to play the homebrew shooter, [Valkyrie 3 - The Night Witch](https://csdb.dk/release/?id=163108). I turn on the disk drive access emulation sounds (directions in configuration PDF above), mount the .d64 disk image in the VICE menu, boot the emulated C64, and the experience was awesome!
 
 ![Valkyrie Screenshot](https://csdb.dk/gfx/releases/163000/163108.png)
 

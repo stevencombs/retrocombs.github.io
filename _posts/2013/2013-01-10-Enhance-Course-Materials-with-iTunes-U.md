@@ -40,7 +40,7 @@ In this post, you will find my presentation outline that includes all the links 
   * Books - search, purchase books to read in iBooks
   * Podcasts - search and subscribe to podcasts
   * iTunes U - search and subscribe to educational content (the main topic of today’s conversation)
-* Link to iTunes content to share online or within a course management system system such as Blackboard
+* Link to iTunes content to share online or within a course management system such as Blackboard
 * Locate and create a link demonstration - the secret sauce
 
 ### iTunes U

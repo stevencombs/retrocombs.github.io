@@ -42,7 +42,7 @@ Before a C.H.I.P. will work out of the box with a USB OTG connection, you need t
 * Use a microUSB cable and plug the micro connector into the C.H.I.P. and the standard USB connector into the Mac.
 * On the Flasher web page, click the image to flash. The C.H.I.P. Flasher application will load and begin the flash process as shown in the image below:
 	![Flashing the C.H.I.P.][image-3]
-	It will take awhile, so kick back and relax as you contemplate the wonderful things are are going to do with your $9 computer.
+	It will take awhile, so kick back and relax as you contemplate the wonderful things you are going to do with your $9 computer.
 * Once flashing is complete, click the *EXIT FLASHER* area at the bottom of the dialog box and unplug the chip from the USB cable.
 	![Flashing successful][image-4]
 

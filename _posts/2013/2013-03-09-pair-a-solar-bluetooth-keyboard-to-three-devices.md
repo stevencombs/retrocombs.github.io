@@ -44,7 +44,7 @@ To switch between devices, you simply hit one of the bluetooth keys at the top o
 Since the keyboard is always paired with my iPad mini, I like to throw the keyboard in [my shoulder bag][6] for use at the local coffee shop or to capture notes during meetings. I can't think of a more useful wireless keyboard. I've even found that I use my iPad mini more for "real work." This blog post began on the iPad mini with the Logitech keyboard.
 
 # The keyboard to end all keyboards?:
-There are two things I would like to see in a future iteration. The first is an an extended keyboard layout ([Logitech offers an extended keyboard in a solar and non-bluetooth keyboard][7]). Secondly it would very convenient to have a solar track pad or a companion solar mouse. I'll keep my fingers crossed for future versions/products that include these features.
+There are two things I would like to see in a future iteration. The first is an extended keyboard layout ([Logitech offers an extended keyboard in a solar and non-bluetooth keyboard][7]). Secondly it would very convenient to have a solar track pad or a companion solar mouse. I'll keep my fingers crossed for future versions/products that include these features.
 
 No keyboard works for everyone. Keyboard usage and feel are very personal decisions; however, if you are looking for a keyboard I believe to be more useful and productive than most, the [Logitech K760][2] may be it. Anyone else use the K760? Drop a comment and share your experiences and/or wish list.
 

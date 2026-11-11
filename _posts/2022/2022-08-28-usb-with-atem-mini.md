@@ -172,7 +172,7 @@ Replacing the top-down desk camera with the TAO 1tiny and the BRIO that is a hug
 
 I'll admit, the TAO 1tiny has an initial sticker shock; however, it does everything it says and as the time of this writing is the only device I've found that allows you to use a webcam with your ATEM Mini. This device includes support, but since mine worked, I can’t vouch for their customer service.
 
-However, if you have a specific reason, you need to connect a USB webcam to your ATEM mini, or have a decent quality webcam lying around the studio and want to incorporate it into your ATEM Mini setup or another other HDMI in source, this is the device for you! It's small, easy to set up, and receives firmware upgrades. What more could you ask for?
+However, if you have a specific reason you need to connect a USB webcam to your ATEM Mini, or you have a decent-quality webcam lying around the studio and want to incorporate it (or any other HDMI-in source) into your ATEM Mini setup, this is the device for you! It's small, easy to set up, and receives firmware upgrades. What more could you ask for?
 
 ## Join the Fun
 

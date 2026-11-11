@@ -26,7 +26,7 @@ image:
 kind: editorial
 ---
 
-I've walked the aisles of a lot of retro computer shows: Vintage Computer Festival Midwest, World of Commodore, and more. This time, the lovely accountant (TLA) and I were in Honolulu, and a nice surprise popped up in town: the Wiki Wiki One Day Vintage Collectibles & Hawaiiana Show at the Neal S. Blaisdell Center. Tickets were $6. Everything on the tables had to be 20 years old or older. My mission was simple. Could I find a retro computer in Hawaiʻi?
+I've walked the aisles of a lot of retro computer shows: Vintage Computer Festival Midwest, World of Commodore, and more. This time, The Lovely Accountant (TLA) and I were in Honolulu, and a nice surprise popped up in town: the Wiki Wiki One Day Vintage Collectibles & Hawaiiana Show at the Neal S. Blaisdell Center. Tickets were $6. Everything on the tables had to be 20 years old or older. My mission was simple. Could I find a retro computer in Hawaiʻi?
 
 This post is the text companion to my video. It follows the tour table by table, adds a few facts I checked after I got home, and collects every link from the video in one place. Let's dig in!
 

@@ -28,7 +28,7 @@ As stated, the main reason for the switch was to save money. I went into the Vir
 
 The difference between Virgin Mobile's non-contract plan and Verizon's contact plan is that you have to buy your phone at the unsubsidized rate. That means you pay more than the $150-200 subsidized phone cost from the other carriers. On the other hand, you own your phone immediately and are not locked into any contracts. There’s a sense of freedom with this approach.
 
-However, lets look the long term cost over two years for two phones and see how we fair. First we have to make a few assumptions and declarations:
+However, let’s look at the long-term cost over two years for two phones and see how we fare. First we have to make a few assumptions and declarations:
 
 * We will buy two iPhone 5s’
 * We will expense the service over two years since this is the period to pay off a subsidized iPhones on Verizon (apples to apples)

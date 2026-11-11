@@ -115,7 +115,7 @@ Our next step is to transfer the contents of the OCR file to a text editor in th
 
 > **Text Editors:** In my video, I use [iaWriter](https://ia.net/writer). It's not meant for coding, but for writing; however, it has all the tools I need to get this job done. For more sophisticated text editing including [regex](https://en.wikipedia.org/wiki/Regular_expression), advanced fine and replace, multiple cursors, syntax highlighting, and packages, I use [Atom](https://atom.io/). There's a learning curve, but it is worth the time. Atom is the tool I use to manage my blog on GitHub pages. It is a free application for Mac, Linux, and Windows. Other great options include [Sublime Text](https://www.sublimetext.com/) and [Visual Studio Code](https://code.visualstudio.com/). Alternatively, every computer OS includes a rudimentary text editor that you can use for this conversion.
 
-Once you've made edits and have a good copy of the the printed program, you are ready to move it over to the VICE emulator.
+Once you've made edits and have a good copy of the printed program, you are ready to move it over to the VICE emulator.
 
 ### Copy and Paste
 

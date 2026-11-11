@@ -74,7 +74,7 @@ Keyboard shortcuts are very different from the Mac. My muscle memory was confuse
 
 ![Keyboard overlay](https://lh5.googleusercontent.com/-SZVppzlGgxU/VKRrPhIbjlI/AAAAAAABXY4/dvEc4D5pdXM/w638-h359-no/chromebook-keyboard-shortcuts-screen.png)
 
-You activate they keyboard overlay using the *ctrl + alt + ?* keystroke.
+You activate the keyboard overlay using the *ctrl + alt + ?* keystroke.
 
 For keyboard shortcut users, this is a fabulous tool that I wish were integrated into OS X. I strongly recommend that Mac users take a good look at the options available. Most likely, any of the keyboard shortcuts you use on a Mac are available in another combination on the Chromebook.
 

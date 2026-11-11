@@ -248,7 +248,7 @@ There are two ways to determine the USB serial port that connects the MEGA65 to 
 5. Turn on the MEGA65 and wait for a complete boot.
 5. In the *Terminal* app, type `ls -l *usb*` and compare the new listing to the listing from step #2. Capture the name of the new device in this list that was not found in the previous list. In my use case, the device was listed as `/dev/cu.usbserial-251633005A3B1`.
 
-    > **TIP:** The `/dev` folder, know as the device folder, provides \*nix OSs, and users, a list of connected devices identified by devices files. This is a unique and valuable feature of \*nix OSs. Without a wildcard, `*usb*`, this list is long. [Read more](http://www.linux-databook.info/?page_id=5108).
+    > **TIP:** The `/dev` folder, known as the device folder, provides \*nix OSs, and users, a list of connected devices identified by device files. This is a unique and valuable feature of \*nix OSs. Without a wildcard, `*usb*`, this list is long. [Read more](http://www.linux-databook.info/?page_id=5108).
 
 6. Copy this device name and store it somewhere for later use. We will use it later to connect the Mac to the MEGA65 via the command line.
 
@@ -276,7 +276,7 @@ In the example below, you will use `mega65_ftp.osx` to view the contents of the 
 
 1. Ensure the MEGA65 USB cable is connected to the Mac.
 2. Turn on the MEGA65.
-3. Use the the terminal command below to connect the Mac to the MEGA65:
+3. Use the terminal command below to connect the Mac to the MEGA65:
 
     `./mega65_ftp.osx -l /dev/cu.usbserial-251633005A3B1`
 
