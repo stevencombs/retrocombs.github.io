@@ -25,7 +25,7 @@ image:
 * __6%__: Percentage of the __$1.7__ billion that will be distributed among those colleges and universities that meet certain performance goals. No, I have not seen these goals yet, but will be researching very soon.
 * __488,964__: Number of K–12 students in Indiana on free or reduced lunches.<sup>3</sup> That’s almost __50%__ of the students.
 
-Those are just few numbers that were discussed today during a recent regional academic officer’s meeting. There were others, as I found while perusing my notes, but these were the digits I found most interesting, striking, confusing or worrisome. I’ll keep my eyes open in the future for other numbers and when I do find more of interest, I’ll try and remember to consolidate them and add to a future post.
+Those are just a few numbers that were discussed today during a recent regional academic officer’s meeting. There were others, as I found while perusing my notes, but these were the digits I found most interesting, striking, confusing or worrisome. I’ll keep my eyes open in the future for other numbers and when I do find more of interest, I’ll try and remember to consolidate them and add to a future post.
 
 ---
 <sup>1</sup> [IndyStar](http://www.indystar.com/article/20120904/NEWS/120904020/Gov-Mitch-Daniels-halts-renovation-of-Purdue-president-s-office?odyssey=tab%7Cmostpopular%7Ctext%7CFRONTPAGE) ↩

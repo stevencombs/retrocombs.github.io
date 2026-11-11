@@ -242,7 +242,7 @@ The `GETKEY` input statement accepts a single key press and requires a string va
 ```
 **💾 On Disk:** `06 A THRU F`
 
-> **NOTE:** This code does not include *exception handling*. You can type in any letter and and the code will print an incorrect result. This is not the intent of the program. We will look at *exception handling* later.
+> **NOTE:** This code does not include *exception handling*. You can type in any letter and the code will print an incorrect result. This is not the intent of the program. We will look at *exception handling* later.
 
 The final INPUT statement(s) is `READ`/`DATA`. The `READ` statement is similar to the INPUT command; however, a program receives information from code rather than a user. Information is stored in code using `DATA` statements. Below is an example the reads the names of the [Marx Brothers](https://en.wikipedia.org/wiki/Marx_Brothers):
 
@@ -280,7 +280,7 @@ In previous chapters, I would demonstrate a program that continually displays a 
 20 GOTO 10
 ```
 
-This type of program is know as an infinite loop because it "loops indefinitely" until you tap the [R/S] key.
+This type of program is known as an infinite loop because it "loops indefinitely" until you tap the [R/S] key.
 
 The `GOTO` control statement was introduce as early as Chapter 1. It is one of the first basic program commands most learn when they create their first "Hello World!" program as shown in the code above.
 

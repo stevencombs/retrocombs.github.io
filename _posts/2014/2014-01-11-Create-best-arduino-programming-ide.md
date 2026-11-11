@@ -65,7 +65,7 @@ Those familiar with basic text editors will find Sublime Text 2 familiar. The la
 
 ## Install the Sublime Text Package Manager:
 
-Now that we have a functional Sublime Text 2 install, its time to make it Arduino aware. We utilize the package feature of Sublime Text 2 to do this. Natively, Sublime Text 2 does not include a package manager; however, the folk(s) over at <https://sublime.wbond.net> have created the standard in Sublime Text package managers.
+Now that we have a functional Sublime Text 2 install, it's time to make it Arduino aware. We utilize the package feature of Sublime Text 2 to do this. Natively, Sublime Text 2 does not include a package manager; however, the folk(s) over at <https://sublime.wbond.net> have created the standard in Sublime Text package managers.
 
 _Package Manager_ makes it easy to add other features to Sublime Text 2 as you become more comfortable with its use in other activities besides Arduino programming.
 
@@ -159,4 +159,4 @@ You are now ready to use the _Stino_ package to create an amazing new [physical 
 
 ## Conclusion
 
-New users to Linux have learned the basics of Linux software installation, Sublime Text 2 package management and Stino Arduino package use. In fact, if you “sorta/kinda” understood what were were doing, you have the skills to experiment with some other interesting installs and configurations. If nothing else, you now have installed on your Peppermint OS (or other Debian distro variant) what I consider to be the most powerful Arduino development platform available.
+New users to Linux have learned the basics of Linux software installation, Sublime Text 2 package management and Stino Arduino package use. In fact, if you “sorta/kinda” understood what you were doing, you have the skills to experiment with some other interesting installs and configurations. If nothing else, you now have installed on your Peppermint OS (or other Debian distro variant) what I consider to be the most powerful Arduino development platform available.

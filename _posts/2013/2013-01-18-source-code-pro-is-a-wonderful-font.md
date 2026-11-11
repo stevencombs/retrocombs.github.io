@@ -39,7 +39,7 @@ The font includes several weights and bold characters to provide usage flexibili
 
 ![][6]
 
-The blog post provides the a bit more background as to why they chose to provide a vector, rather than bitmapped font, as well as some other design considerations. It is an interesting read. While there you can find the [link to download][7]. I downloaded the font and added the font to all my Macs. Installation is simple:
+The blog post provides a bit more background as to why they chose to provide a vector, rather than bitmapped font, as well as some other design considerations. It is an interesting read. While there you can find the [link to download][7]. I downloaded the font and added the font to all my Macs. Installation is simple:
 
 1. [Download][7] the font package
 2. Locate the .zip download

@@ -28,7 +28,7 @@ image:
 kind: companion
 ---
 
-In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 7, *Using Graphics and Color*, of the Commodore Plus/4 user's manual. If you are eager to create images on your Commodore Plus/4, this is the chapter for you. Chapter 7 include information to PETSCII, colors, graphics modes, and other commands to create static images an animations. It's a fun chapter and one that took quite a bit of time to prepare.
+In this Commodore Plus/4 retroCombs episode and companion blog post, I cover Chapter 7, *Using Graphics and Color*, of the Commodore Plus/4 user's manual. If you are eager to create images on your Commodore Plus/4, this is the chapter for you. Chapter 7 includes information on PETSCII, colors, graphics modes, and other commands to create static images and animations. It's a fun chapter and one that took quite a bit of time to prepare.
 
 > **TIP:** If you enjoy this series, [leave a tip](https://paypal.me/stevencombs).
 
@@ -158,7 +158,7 @@ Because the Commodore Plus/4 keyboard is so different from modern keyboards, I d
 
 You will notice on the Plus/4 keyboard that not only does the keyboard allow for lower and upper case characters, but there's a whole host of graphic characters available on each letter key, `@`, `-`, and `*`.
 
-In upper-case mode, press and hold the `⇧` (right character) or `C=` (left character) key, followed by one of the keys listed above to place graphics characters on the screen. The characters are know as PETSCII (similar to ASCII on later computers) and each one can be displayed using the `PRINT CHR$()` command if you know the right address.
+In upper-case mode, press and hold the `⇧` (right character) or `C=` (left character) key, followed by one of the keys listed above to place graphics characters on the screen. The characters are known as PETSCII (similar to ASCII on later computers) and each one can be displayed using the `PRINT CHR$()` command if you know the right address.
 
 **PETSCII** (PET Standard Code of Information Interchange), known as CBM ASCII, is the character set used in Commodore Business Machines (CBM)'s 8-bit home computers, starting with the PET from 1977 and including the C16, C64, C116, C128[1], CBM-II, Plus/4, and VIC-20. - [Wikipedia](https://en.wikipedia.org/wiki/PETSCII).
 

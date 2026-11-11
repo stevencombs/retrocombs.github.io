@@ -13,7 +13,7 @@ tags:
   - decorations
   - st. patrick's day
   - holiday
-  - the lovely accountant
+  - The Lovely Accountant
   - aldi finds
 image:
   path: /images/posts/irish-gnomes/irish-gnomes.jpg

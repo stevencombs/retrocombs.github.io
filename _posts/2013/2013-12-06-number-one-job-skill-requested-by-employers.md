@@ -24,7 +24,7 @@ Earlier today, the employers present (Boeing being one) were given a list of abo
 2. Problem solving
 3. Leadership
 
-The selection of these three was not an epiphany. I've seen these bubble up to the top in other surveys. The employers want community colleges to teach these skills. “Got it!” I thought to myself. We are working on these and have been for quite some time. The discussion continued. There was another skill industry needed community college to teach to their students and this skill, not listed on the original twelve, was even more important than the top three. That skill?
+The selection of these three was not an epiphany. I've seen these bubble up to the top in other surveys. The employers want community colleges to teach these skills. “Got it!” I thought to myself. We are working on these and have been for quite some time. The discussion continued. There was another skill industry needed community colleges to teach their students and this skill, not listed on the original twelve, was even more important than the top three. That skill?
 
 ## Show up to work and show up on time!
 

@@ -60,4 +60,4 @@ This post is not a review of the Lenovo Smart Tab with Google Assistant, that wi
 
 The unboxing was a good experience and includes a few surprises. It wasn't the same premium unboxing experience you get with an Apple product but it was adequate and I didn't pay extra for a package experience. Before the video ends, I do turn on the device. Let me know your thoughts on the device in the comments below and whether this video helped anyone.
 
-Again, I hope to have a full review review online after I've had a chance to use it for an appropriate amount of time.
+Again, I hope to have a full review online after I've had a chance to use it for an appropriate amount of time.

@@ -61,7 +61,7 @@ The design, while reminiscent of a tablet, is unique because of the two small, b
 
 ### System
 
-Android 9, affectionately know as Pie, is the OS for this device. ~~I've had enough Pie and there's no way to upgrade to Android 10 or 11. This limits device features, such as swipe gestures, dark mode integration, and updated share sheets. It's not a deal breaker, but come-on, Lenovo. You kill the user's tablet longevity.~~ They eventually released an upgrade to Android 10.
+Android 9, affectionately known as Pie, is the OS for this device. ~~I've had enough Pie and there's no way to upgrade to Android 10 or 11. This limits device features, such as swipe gestures, dark mode integration, and updated share sheets. It's not a deal breaker, but come-on, Lenovo. You kill the user's tablet longevity.~~ They eventually released an upgrade to Android 10.
 
 ![](/images/posts/lenovo/system.jpg)
 

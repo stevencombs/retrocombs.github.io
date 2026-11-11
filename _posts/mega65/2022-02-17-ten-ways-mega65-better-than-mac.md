@@ -283,7 +283,7 @@ One of the three ports on my MacBook Pro is a headphone jack, there's that! But 
 
 ### 9. Built-in 3-½" Floppy Disk Drive
 
-While the MEGA65 supports .D81 disk images (and soon other disk image formats like .D64), the MEGA65 includes a 3-⅓" floppy drive. This is something an Apple computer will never have again. There's no room for it!
+While the MEGA65 supports .D81 disk images (and soon other disk image formats like .D64), the MEGA65 includes a 3½" floppy drive. This is something an Apple computer will never have again. There's no room for it!
 
 <!-- ☒ Image of MEGA65 floppy drive -->
 

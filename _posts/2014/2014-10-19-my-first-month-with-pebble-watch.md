@@ -168,7 +168,7 @@ This app requires two pieces, the free Smartwatch+ Pebble app and the $2.99 [Sma
 These two apps are currently the only two I use regularly. I reserve the last 6 slots for various watchfaces. I’m not going to include a section of my favorite watchfaces. Watchfaces are a personal choice and depend on your own style and need.
 
 # BONUS: 11 Geeky things you can do with your Pebble
-For the “tech geeks” reading this, below is a list of of geekier things you can do with your Pebble. I don’t show how to do these things or which apps you need as a google search will provide that information; however, this list is representative of the Pebble’s advance capabilities.
+For the “tech geeks” reading this, below is a list of geekier things you can do with your Pebble. I don’t show how to do these things or which apps you need as a google search will provide that information; however, this list is representative of the Pebble’s advance capabilities.
 
 * Pay for your Starbucks purchase
 * Snap an image with your camera

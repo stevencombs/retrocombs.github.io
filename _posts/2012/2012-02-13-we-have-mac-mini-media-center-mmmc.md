@@ -14,7 +14,7 @@ image:
 kind: review
 ---
 
-I've been asked by a few, "What media center software do you use?" I've been quite coy with my answer because up and until now, I've not been able to determine a clear and definite winner.
+I've been asked by a few, "What media center software do you use?" I've been quite coy with my answer because up until now, I've not been able to determine a clear and definite winner.
 
 ![][1]
 
@@ -35,7 +35,7 @@ Well today I am happy to go on record and make a decision. Hit the link below to
 First let me start by listing the three media center software that were under consideration and briefly talk about why two of them were dropped out of contention:
 
 ## Boxee
-Boxee [recently announced][3] that they were no longer going to support the PC platform past version 1.5. They will instead focus their development dollars on their [Boxee Box][4] and other set-top devices. While I spent several, and I mean several, hours configuring Boxee to work on the MmMC, I was never quite sure that this would be my software of choice. It was often buggy and on several occasions would cause the MmMC to hang and/or require a reboot. Since the PC platform is dead, I have have removed it from the MmMC and it is no longer in consideration. One down!
+Boxee [recently announced][3] that they were no longer going to support the PC platform past version 1.5. They will instead focus their development dollars on their [Boxee Box][4] and other set-top devices. While I spent several, and I mean several, hours configuring Boxee to work on the MmMC, I was never quite sure that this would be my software of choice. It was often buggy and on several occasions would cause the MmMC to hang and/or require a reboot. Since the PC platform is dead, I have removed it from the MmMC and it is no longer in consideration. One down!
 
 ## XBMC
 Up next for consideration is XBMC. XBMC is the original media center software for the Mac and has an extremely large and loyal Mac fan base. It has a beautiful interface that is very "tweakable" although cumbersome. The large user community means that you can easily find answers to your support questions. With the recent beta version release of [XBMC 11.0: Eden Beta 2][5], XBMC expands on its ease of use and configurability options.

@@ -79,7 +79,7 @@ In the video, I captured a couple of Plus/4 screens using the Cloner Alliance Bo
 
 ## Capture Caveats
 
-In the Plus/4 image above, you will note that the Cloner Alliance Box Pro interface is also captured. This is a limitation (not a deal killer). You need to be careful and ensure that that UI for the Cloner Alliance Box Pro is not displayed when you capture a screen.
+In the Plus/4 image above, you will note that the Cloner Alliance Box Pro interface is also captured. This is a limitation (not a deal killer). You need to be careful and ensure that the UI for the Cloner Alliance Box Pro is not displayed when you capture a screen.
 
 The real problem is with video. The Cloner Alliance Box Pro will always display _recording_ and _stop_ at the two ends of the video. To remove the UI display, you will need to leave some time on both ends and then trim the video on your computer. Not sure if Cloner Alliance could fix this flaw in a future firmware update. It seems to be inherent in the way the box operates.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Part III: Playing the C64 demos from the MEGA65 on boarding SD Card'
+title: 'Part III: Playing the C64 demos from the MEGA65 onboarding SD card'
 date: 2022-04-23
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
@@ -15,11 +15,11 @@ image:
   path: /images/posts/c64-on-mega65-livestream3/c64-on-mega65-livestream3.jpg
   width: 1280
   height: 720
-  alt: 'Part III: Playing the C64 demos from the MEGA65 on boarding SD Card'
+  alt: 'Part III: Playing the C64 demos from the MEGA65 onboarding SD card'
 kind: livestream
 ---
 
-This is the companion blog post for my 2022-04-03 live stream edit; _Part III: Playing the C64 demos from the MEGA65 on boarding SD Card_. This is a short edit of a much longer live stream where I continue my look at the "b-side" of the MEGA65 onboarding SD card that includes a C64 disk image full of games and demos to run on the MEGA65 in Commodore 64 mode. We've run through the games and this video is all demos! Before the demos, I unbox a few items that will appear in future content and a gift from one of my producers.
+This is the companion blog post for my 2022-04-03 live stream edit; _Part III: Playing the C64 demos from the MEGA65 onboarding SD card_. This is a short edit of a much longer live stream where I continue my look at the "b-side" of the MEGA65 onboarding SD card that includes a C64 disk image full of games and demos to run on the MEGA65 in Commodore 64 mode. We've run through the games and this video is all demos! Before the demos, I unbox a few items that will appear in future content and a gift from one of my producers.
 
 If you need to get caught up, be sure and check out parts I and II. Here are the details:
 
@@ -68,11 +68,11 @@ Thank you to these members for supporting me at the C128 level; making them retr
 
 ## Companion YouTube Video
 
-Title: _Part III: Playing the C64 demos from the MEGA65 on boarding SD Card_
+Title: _Part III: Playing the C64 demos from the MEGA65 onboarding SD card_
 
 In the video below, I continue my exploration of the C64 disk image included with the MEGA65 onboarding SD card.
 
-{% include youtube.html id="FUL_PdJUnyg" title="Part III: Playing the C64 demos from the MEGA65 on boarding SD Card" cta="false" %}
+{% include youtube.html id="FUL_PdJUnyg" title="Part III: Playing the C64 demos from the MEGA65 onboarding SD card" cta="false" %}
 
 {% include member-cta.html channel="retrocombs" %}
 

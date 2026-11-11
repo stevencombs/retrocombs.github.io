@@ -16,7 +16,7 @@ image:
 kind: first-look
 ---
 
-On the 14th of March 2013, which just so happened to be [Pi Day][2], I decided to take the plunge, unleash my Dave Ramsey enforced "blow money budget" and purchase a [Raspberry Pi microcontroller][3]. I didn't settle for just just the $35 model B. Oh no, that would be too easy, too inexpensive and too boring. After a bit of research, I decided to settle on the [Maker Shed Raspberry Pi Starter Kit][4].
+On the 14th of March 2013, which just so happened to be [Pi Day][2], I decided to take the plunge, unleash my Dave Ramsey enforced "blow money budget" and purchase a [Raspberry Pi microcontroller][3]. I didn't settle for just the $35 model B. Oh no, that would be too easy, too inexpensive and too boring. After a bit of research, I decided to settle on the [Maker Shed Raspberry Pi Starter Kit][4].
 
 ![][1]
 
@@ -88,7 +88,7 @@ Commentary is beneath each image.
 
 ![][31]And here's the breadboard we need to go with our Pi Cobbler Kit. I have several, but an additional one won't hurt.
 
-![][32]Wires. Lots of of 'em. I can add these to others I own. They are pre-tipped, in various sizes and ready to use. Great for prototyping.
+![][32]Wires. Lots of 'em. I can add these to others I own. They are pre-tipped, in various sizes and ready to use. Great for prototyping.
 
 ![][33]For those not aware, the Raspberry Pi does not have external storage for the operating system (OS). It uses SD cards as the "hard drive." In this case, a 4GB card is included by Maker Shed. 4GB will work for a single OS, but I will want to multi-boot my Raspberry Pi at some point, so I will probably grab a larger capacity later on.
 

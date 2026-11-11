@@ -342,7 +342,7 @@ Since the developer does not support Xemu on ChromeOS, you need to know about th
 
 4. If you are new to Commodore computer emulators, you may notice that several keys don't match their position on the ChromeOS keyboard and there are keyboard combinations that are unavailable. _Xmega65_ uses a positional keyboard configuration based on an extended PC keyboard layout. Unless you have an extended ChromeOS keyboard, you will find you can't enter certain symbols. Xemu can overcome this limitation by modifying a `keyboard.cfg` file. I'll continue to work on this file to create something that makes using the ChromeOS keyboard functional and enjoyable. If anyone else wants to get ahead of me on this project, let me know.
 
-I'll continue to research all these important quirks to make using the Xemu emulator, _xmega65, on Chrome OS easier, more productive, and fun. Make sure you [follow the blog](/blog) and and [subscribe to the channel](https://www.youtube.com/stevencombs).
+I'll continue to research all these important quirks to make using the Xemu emulator, _xmega65, on Chrome OS easier, more productive, and fun. Make sure you [follow the blog](/blog) and [subscribe to the channel](https://www.youtube.com/stevencombs).
 
 ## What's Next?
 

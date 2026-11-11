@@ -88,7 +88,7 @@ I was intrigued, researched the app, and said, "this would be awesome with DaVin
 
 DaVinci Resolve does not include a command palette. It does include a help function that searches available commands, but you need to mouse up to the menu select it and then type the name of the command. With Paletro, I activate the app, type a few letters, and BOOM! 
 
-Let me show you you how it works with these ten examples that supercharge my workflow:
+Let me show you how it works with these ten examples that supercharge my workflow:
 
 1. Freeze Frame - `freeze`
 2. Dual Display Views - `dual`
@@ -131,7 +131,7 @@ Paletro is valuable for content creator on a Mac beyond video editing. For insta
 
 ## Conclusion
 
-If you find Paletro useful for your workflow, post a comment below. If you are interested in another video tool I use, check out my [Use a USB Webcam with an ATEM Mini and the RBGLink TAO 1tiny](https://youtube.com/shorts/cWnIqotMvks?feature=share) video. If you need more of my retro-computing content, check out [Vintage Computer Festival Midwest 2022 video](https://youtu.be/cX16l84sp8k).
+If you find Paletro useful for your workflow, post a comment below. If you are interested in another video tool I use, check out my [Use a USB Webcam with an ATEM Mini and the RGBLink TAO 1tiny](https://youtube.com/shorts/cWnIqotMvks?feature=share) video. If you need more of my retro-computing content, check out [Vintage Computer Festival Midwest 2022 video](https://youtu.be/cX16l84sp8k).
 
 ## Join the Fun
 

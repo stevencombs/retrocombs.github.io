@@ -97,7 +97,7 @@ _"Alexa, what time is it?"_ or _"Alexa, what's the weather for tomorrow?"_
 
 I would previously say:
 
-_"Alexa [one one thousand, two one thousand], what time is is?"_
+_"Alexa [one one thousand, two one thousand], what time is it?"_
 
 Echo has a good track record. If no music is playing and I am within about 20 feet, Echo has about 100% accuracy. Now that's not to say that Echo's response is 100%, just that the Echo heard my command and translated was able to translate my voice to text. You may or may not get the response you expected. As you would suspect, accuracy decreases with distance or when there are loud background noises.
 
@@ -165,10 +165,10 @@ or...
 
 _"Alexa, Pandora song [song name]."_
 
-Echo will then ask if you want to add this station to your Pandora Radio list before playing. You won't be able to modify your station name or content using the Echo, but its a great way to create a new station.
+Echo will then ask if you want to add this station to your Pandora Radio list before playing. You won't be able to modify your station name or content using the Echo, but it's a great way to create a new station.
 
 ## TuneIn Radio
-I've been a [TuneIn Radio](http://tunein.com/) user for many years. TuneIn Radio's main focus is to provide access to to terrestrial radio but it also provides access to podcasts. If you want to listen to podcasts on the Echo, you will use TuneIn Radio. I haven't tried this as my podcast listening only occurs during my run or while traveling.
+I've been a [TuneIn Radio](http://tunein.com/) user for many years. TuneIn Radio's main focus is to provide access to terrestrial radio but it also provides access to podcasts. If you want to listen to podcasts on the Echo, you will use TuneIn Radio. I haven't tried this as my podcast listening only occurs during my run or while traveling.
 
 While you need an account to iHeartRadio, strangely, an account to TuneIn Radio does not matter. While this might be fine for those who don't use the service regularly, those of us with accounts can't access our favorites. It doesn't matter though because tuning to a radio station is as simple as knowing the station call letters.
 
@@ -316,7 +316,7 @@ An obvious exclusion from the list of WeMo devices supported is the [WeMo Maker]
 
 _"Alexa, turn the Bedroom Lights on"_
 
-All four lights immediately lit. I know sleep on the Starship Enterprise! Let's try and turn them off:
+All four lights immediately lit. I now sleep on the Starship Enterprise! Let's try and turn them off:
 
 _"Alexa, turn the Bedroom Lights off"_
 

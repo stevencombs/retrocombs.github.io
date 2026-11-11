@@ -16,7 +16,7 @@ kind: review
 rating: 2
 ---
 
-Today I present a pen review that quite probably no one saw coming. You can't purchase this pen at [JetPens](http://www.jetpens.com). You won't find it at your local discount store and you won't even find it at [Pen Chalet](http://www.penchalet.com). Nope, for this one, you need stop by the home of Swedish design; [IKEA](http://www.ikea.com).
+Today I present a pen review that quite probably no one saw coming. You can't purchase this pen at [JetPens](http://www.jetpens.com). You won't find it at your local discount store and you won't even find it at [Pen Chalet](http://www.penchalet.com). Nope, for this one, you need to stop by the home of Swedish design; [IKEA](http://www.ikea.com).
 
 {% include review-box.html
    score="2"

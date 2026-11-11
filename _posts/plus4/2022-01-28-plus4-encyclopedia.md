@@ -79,7 +79,7 @@ Before the blog post, I must add a HUGE thanks to [Robin](https://twitter.com/8B
 
 ## Series Information
 
-This blog post and companion video is part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
+This blog post and companion video are part of my larger Commodore Plus/4 series. You can read the entire series and view additional resources at:
 
 </plus4>
 
@@ -120,7 +120,7 @@ In the video below, I share highlights of the Plus/4 Encyclopedia.
 
 [2022-01-30] [LGB Gábor Lénárt](https://www.youtube.com/channel/UCUqfRe4JQYc4L8udsKPNEJA) shares in [the video](https://youtu.be/zWa1s4q4I0s) comments useful information regarding Commodore BASIC abbreviations. Check out his comment below:
 
-> BASIC abbreviations have no rules at least not in a way which many expects :). They are originally not even a designed/intended feature, it's just exploiting a quirk how the tokenizer work and actually was realized later (even by the authors of the ROM!) that they can be used and can be useful. In fact you can use any abbreviation which makes sense and means what you want (the problem when similar names have similar first characters). For example DI+shiftR can be written as DIR+shitE, etc etc.  It cannot be D+shiftI, but only because 'DIM' would match before DIRECTORY :) You can try, if you're not sure about an abbreviation, like writing a tiny BASIC program: 10 DI+shiftM then list it, so you can see what it will mean. This is also a problem, since these abbreviations are not consistent through different Commodore BASICs, as new keywords would match you don't expect from older BASICs. Like P+shiftO means POKE on C64 (V2 basic but also in V3.5) but it's POT on C128 (V7 BASIC), just because the tokenizer found match first with that. Surely you can try to use then PO+shiftK.
+> BASIC abbreviations have no rules at least not in a way which many expects :). They are originally not even a designed/intended feature, it's just exploiting a quirk how the tokenizer work and actually was realized later (even by the authors of the ROM!) that they can be used and can be useful. In fact you can use any abbreviation which makes sense and means what you want (the problem when similar names have similar first characters). For example DI+shiftR can be written as DIR+shiftE, etc etc.  It cannot be D+shiftI, but only because 'DIM' would match before DIRECTORY :) You can try, if you're not sure about an abbreviation, like writing a tiny BASIC program: 10 DI+shiftM then list it, so you can see what it will mean. This is also a problem, since these abbreviations are not consistent through different Commodore BASICs, as new keywords would match you don't expect from older BASICs. Like P+shiftO means POKE on C64 (V2 basic but also in V3.5) but it's POT on C128 (V7 BASIC), just because the tokenizer found match first with that. Surely you can try to use then PO+shiftK.
 
 [2022-01-30] [3vi1Jay](https://www.youtube.com/channel/UCuBoBVHYG1F5d2kuQTWsNdw) wanted to take a deeper dive in the `FRE(X)` function. Upon use of the `MONITOR` he found the following:
 

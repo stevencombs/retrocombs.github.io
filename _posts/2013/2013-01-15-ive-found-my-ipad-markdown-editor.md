@@ -57,13 +57,13 @@ Notice the asterisks around the words “text” and “Markdown.” An asterisk
 Markdown doesn't stop with simple font emphasis, it can also assist in the creation of lists. Take a look at the code below:
 
     1. First line in an ordered list
-    1. Second line an an ordered list
+    1. Second line in an ordered list
     1. Last line in an ordered list
 
 These lines will be generated as follows when exported:
 
 1. First line in an ordered list
-2. Second line an an ordered list
+2. Second line in an ordered list
 3. Last line in an ordered list
 
 The beauty of the ordered list code is that you never have to worry about the particular number or how your word-processor formats ordered lists. Markdown will figure this out for you when you export and preview.

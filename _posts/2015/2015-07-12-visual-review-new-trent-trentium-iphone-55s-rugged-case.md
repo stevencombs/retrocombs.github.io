@@ -157,4 +157,4 @@ The Trentium provides protection, good looks and functionality. iPhone screen to
 
 ***
 
-I highly recommend the [New Trent Trentium](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=new%20trent%20trentium&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=YGBHL3E3ZCRTXC53). At around $18 it offers affordability and style. I've used the Otterbox and quite frankly, the Trentium looks nicer, is easier to assemble and in my use, affords me the same level of protection. I remain a fan of New Trent iOS accessories and look forward to a review of there other products.
+I highly recommend the [New Trent Trentium](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=new%20trent%20trentium&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=YGBHL3E3ZCRTXC53). At around $18 it offers affordability and style. I've used the Otterbox and quite frankly, the Trentium looks nicer, is easier to assemble and in my use, affords me the same level of protection. I remain a fan of New Trent iOS accessories and look forward to a review of their other products.

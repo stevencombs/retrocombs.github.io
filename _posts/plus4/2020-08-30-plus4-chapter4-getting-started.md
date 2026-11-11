@@ -273,13 +273,13 @@ type the line of code below:
 
 Well, of course! Hit the `HELP` function key and the Plus/4 will display and flash the line of code with the error. This is a great way to step through lines of code that have errors (again, there will be many).
 
-Use the cursor keys to scroll up the the flashing line and replace the line with the one below:
+Use the cursor keys to scroll up to the flashing line and replace the line with the one below:
 
 ```realbasic
 10 COLOR 0,2
 ```
 
-Remember to the hit the `⏎` {Return} after you correct the line and `RUN` the program again. The background will turn white and `PLUS/4` will appear.
+Remember to hit the `⏎` {Return} after you correct the line and `RUN` the program again. The background will turn white and `PLUS/4` will appear.
 
 You can replace line 10 by typing over the command or creating a new line with the same line number. Type the line below:
 
@@ -335,7 +335,7 @@ Time to enter a longer program and use our editing skills along the way. Type th
 
 > **TIP:** `⇧` + `S` = `♥`
 
-Before you use the `RUN` command, anticipate the output. Now `RUN` the program. Character placement is different than before. Each new line of text begins next to the previous instead of on a new line thanks to the `;` character at the end of the each `PRINT` statement. We'll explore that more in just a bit.
+Before you use the `RUN` command, anticipate the output. Now `RUN` the program. Character placement is different than before. Each new line of text begins next to the previous instead of on a new line thanks to the `;` character at the end of each `PRINT` statement. We'll explore that more in just a bit.
 
 ## Introduction to the Plus/4 Text Screen
 

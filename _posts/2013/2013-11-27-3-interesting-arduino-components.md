@@ -7,6 +7,8 @@ email: 'retrocombs@icloud.com'
 comments: 'yes'
 categories:
   - arduino
+redirect_from:
+  - /arduino/2013/11/27/3-interesting-ardunio-components.html
 image:
   path: 'https://2.bp.blogspot.com/-a0seywxOMis/UpZ5wwPlPnI/AAAAAAABNDI/vpwKl5AyNoA/s1600/photo+1.JPG'
   width: 1493

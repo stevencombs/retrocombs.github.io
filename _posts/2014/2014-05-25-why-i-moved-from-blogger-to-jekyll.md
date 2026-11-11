@@ -76,7 +76,7 @@ Of course you need to ensure Jekyll is installed on your Mac and the [Jekyll ins
 # Flexibility
 Utilizing static pages rather than a database to manage content provides an amazing amount of flexibility not possible with Blogger. For instance, with Blogger, every post and page requires the use of the same site theme. With Jekyll, I can throw styles out the window and create unique pages that are different from my site theme.
 
-As an example, let's say I want to sell a car. I probably don't want that page associated with my blog on a long term basis. It is, hopefully, a short term need. With Jekyll I can create a simple HTML page that provides information about the car for sale and then spiff it up a bit with some HTML5 and CSS. This page can then have it's own unique landing point within my domain like `www.stevencombs.com/car-for-sale`. This is not possible using Blogger.
+As an example, let's say I want to sell a car. I probably don't want that page associated with my blog on a long term basis. It is, hopefully, a short term need. With Jekyll I can create a simple HTML page that provides information about the car for sale and then spiff it up a bit with some HTML5 and CSS. This page can then have its own unique landing point within my domain like `www.stevencombs.com/car-for-sale`. This is not possible using Blogger.
 
 Another flexibility example is the ability to have individual templates based on categories. If I have a post categorized _technology_, I can have a unique graphic for every post within this category. Again, not possible with Blogger.
 
@@ -90,6 +90,6 @@ For all of its strengths, there are a few drawbacks to Jekyll. Below is a bullet
 # Summing up
 Blogger served its purpose for a time and was a very good choice for someone who did not want to be saddled down with monthly hosting fees; however, Jekyll and GitHub together is a home run. If you want to maintain your blog on the cheap (free), have full control over your site design, and have availability to a whole slew of text/code editing tools, you will appreciate the switch.
 
-As I've warned, it does come with a learning curve; however, you've nothing to loose. You can keep your Blogger site and build your new site on the side. When you like your new site, just make it live! Porting content from your Blogger site to Jekyll is also pretty easy. The Jekyll site provides all the [tools you need](http://jekyllrb.com/docs/migrations/).
+As I've warned, it does come with a learning curve; however, you've nothing to lose. You can keep your Blogger site and build your new site on the side. When you like your new site, just make it live! Porting content from your Blogger site to Jekyll is also pretty easy. The Jekyll site provides all the [tools you need](http://jekyllrb.com/docs/migrations/).
 
 If you do make the switch, or you are already a Jekyll user, drop a comment below and share your site and experience. I would love to see what others are doing given that my site is, like my CSS and HTML5 skills, fairly rudimentary. Although I do like the custom images on the [home page](http://www.stevencombs.com) I created using [iDraw](https://itunes.apple.com/us/app/idraw/id404705039?mt=12&uo=4?at=10l9LR)!
