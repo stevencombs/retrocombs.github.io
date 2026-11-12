@@ -123,7 +123,11 @@ When I plugged in the USB-C cable, the screen showed a charging indicator, but n
 
 The manual explained the folder switch: the Freewrite holds three writing projects at once, and the switch moves between them. No file management required.
 
+![A thumb on the Freewrite folder switch, set among A, B, and C, with the Great Wave on the E Ink screen](/images/posts/freewrite-smart-typewriter-noir/folder-switch-abc.jpg)
+
 To join Wi-Fi, move the Wi-Fi switch to **new**, pick your network on the E Ink screen and enter the password. Then move it back to **on**. If you ever need to join a different network, switch to **new** again.
+
+![The Freewrite from above, red power button lit, with a list of choices on the E Ink screen and red New keys at both ends of the space bar](/images/posts/freewrite-smart-typewriter-noir/eink-settings-list.jpg)
 
 ## MOVING THE CURSOR: NEW PLUS WASD {#cursor-keys}
 
@@ -135,6 +139,8 @@ The Freewrite is built for drafting, not editing. Backspace works fine on the cu
 - **New + Shift + W or S:** move up or down one line
 
 It wasn't intuitive at first, but after a few uses it felt natural.
+
+![Hands on the Freewrite: one finger on the lower-left keys and another pointing at a paragraph on the E Ink screen](/images/posts/freewrite-smart-typewriter-noir/hands-on-keyboard.jpg)
 
 ## THE SPECIAL KEY AND THE SECOND DISPLAY {#special-key}
 
@@ -150,6 +156,8 @@ The screen has a soft light, enough to write in the evening, though you still ne
 ## STANDBY AND THE OPTIONS MENU {#options-menu}
 
 A short press of the power button puts the Freewrite in standby and shows a portrait of a famous writer. I got Edgar Allan Poe, then Isaac Asimov.
+
+![Freewrite in standby, with a black-and-white portrait of a writer in glasses on the E Ink screen and the line SET YOUR STORY FREE](/images/posts/freewrite-smart-typewriter-noir/standby-writer-portrait.jpg)
 
 Hold the power button for about two seconds for the options menu:
 
