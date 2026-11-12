@@ -97,7 +97,12 @@ I bought mine from Adafruit Industries because their Arduino Starter Pack includ
 
 - **The Arduino Diecimila**, in a green anti-static bag. It has a USB port for programming and power, and a barrel jack for external power.
 - **A 9-volt wall adapter**, for running the board away from your computer
+
+    ![A black wall power adapter held up to the camera during the Adafruit starter pack unboxing](/images/posts/arduino-starter-pack-unboxing/wall-adapter.jpg)
+
 - **A tiny breadboard**, about quarter size, designed to sit on top of the board
+
+    ![A small white solderless breadboard held between two hands, about the size of a large postage stamp](/images/posts/arduino-starter-pack-unboxing/mini-breadboard.jpg)
 - **A USB cable**, about 3 feet. I used a MacBook Pro, and the Arduino software also runs on Linux and Windows.
 - **A 9-volt battery adapter**, so the board can run where there's no outlet. Picture an Arduino riding on a LEGO robot around the house.
 - **A bag of electronic components**, listed below

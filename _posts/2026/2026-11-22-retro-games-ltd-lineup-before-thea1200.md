@@ -145,6 +145,8 @@ These are new-in-box prices I found on store listings as of November 1, 2026. Pr
 
 **The re-creation.** THEC64 Mini is a half-scale model. The keyboard is just for show, but it looks perfect. It comes with the first version of the joystick, which uses dome switches rather than microswitches. It has 64 built-in 1980s games and outputs 720p over HDMI. You can plug in a USB keyboard for a full C64 BASIC experience.
 
+![THEC64 game carousel with Thing on a Spring on screen and a row of game boxes along the bottom, including Tower Toppler and Paradroid](/images/posts/retro-games-ltd-lineup-before-thea1200/thec64-carousel-thing-on-a-spring.jpg)
+
 **My top five experiences:**
 
 1. Plugging in a USB keyboard and booting to BASIC
@@ -177,6 +179,8 @@ For more ideas, see my [ten THEC64 tips](/ten-thec64-tips).
 
 **The re-creation.** THEVIC20 uses the same full-size body as THEC64, in VIC-20 colors. It boots into VIC-20 mode, C64 mode, or the games carousel, and it includes 64 built-in titles that mix VIC-20 and C64 classics. The VIC-20 games are hit and miss, but you can load better ones from a USB drive.
 
+![THEVIC20 keyboard in cream and dark brown, with the rainbow THEVIC20 badge above the keys](/images/posts/retro-games-ltd-lineup-before-thea1200/thevic20-keyboard.jpg)
+
 **My top five experiences:**
 
 1. Reliving the 22-column screen
@@ -193,6 +197,8 @@ It's for the true connoisseur, and it's hard to find. If your gift recipient eve
 
 **The re-creation.** THEA500 Mini is a small-scale replica with a non-working keyboard, but it comes with two useful accessories: [THEMOUSE](https://amzn.to/3PiJ1JM), a replica of the Amiga tank mouse, and [THEGAMEPAD](https://amzn.to/43H7iNu). Both are also sold separately. It has 25 built-in Amiga games, and you can load your own over USB.
 
+![Hands holding the beige THEA500 Mini, showing the two mouse buttons on its top case](/images/posts/retro-games-ltd-lineup-before-thea1200/thea500-mini-in-hand.jpg)
+
 **My top five experiences:**
 
 1. Loading your Amiga library from a USB stick using ADF or WHDLoad files
@@ -208,6 +214,8 @@ My [A500 Mini unboxing post](/unbox-thea500mini) covers setup.
 **The original.** The Atari 400 sold from 1979 to 1983. It looked like a space-age typewriter and had an awful membrane keyboard, but it and its big brother, the 800, had a great game library.
 
 **The re-creation.** THE400 Mini is a half-scale model that emulates the 400 and the rest of the Atari 8-bit line, including the 800, XL, and XE. The keyboard is just for show, and that's fine here. It has 25 built-in games and comes with [THECXSTICK](https://amzn.to/3UgLwgy), a re-creation of the Atari CX40 joystick with USB and extra buttons for the carousel. The joystick is the star of the show.
+
+![THE400 Mini on a desk under a CRT showing a cockpit game, with both hands on the black THECXSTICK and an Atari patch beside the keyboard](/images/posts/retro-games-ltd-lineup-before-thea1200/the400-mini-cx-joystick.jpg)
 
 **My top five experiences:**
 

@@ -103,6 +103,8 @@ This new one was listed as working and looked lightly used. I wanted a VIC-20 th
 
 After a lot of static-charged packing peanuts (I hate those things), there it was: the original VIC-20 box. It still has a price tag from the original store: $239.99, about full price back in the day. The serial number is 713658. Considering its age, the box is in really good shape.
 
+![The front of the original VIC-20 box, rainbow logo and "The Friendly Computer," with a finger pointing at the upper left corner](/images/posts/vic20-ebay-unboxing/original-box-front.jpg)
+
 Then I found tape. Somebody taped the original box. My guess is the seller didn't know what they had, which is probably why it sat in their inventory and why my offer was just enough for them to say yes.
 
 This is probably the best VIC-20 box I have. I'm thinking about laminating it to protect it.
@@ -112,6 +114,8 @@ This is probably the best VIC-20 box I have. I'm thinking about laminating it to
 Some of the original inner packaging was missing, which I can understand. What was there surprised me:
 
 - **The Commodore price list** for VIC-20 system peripherals: the VIC modem, joysticks, game paddles, memory expansion cartridges, interfaces and recreational games on cartridge. I have the paddles and a VIC modem. If you'd like a scan, let me know in the comments.
+
+    ![Hands holding a fanfold Commodore price list over the bubble-wrapped VIC-20 on the bench](/images/posts/vic20-ebay-unboxing/commodore-price-list.jpg)
 - **Product shipping specifications**
 - **Printouts of type-in game listings** from the original owner's printer, including Space Intruders and Bowling Alley.
 - **The VIC-20 user's manual**, in great condition. The best computer manual ever written for a personal computer was the VIC-20's. Mine has the cover ripped off, so this one is a real upgrade.
@@ -130,6 +134,8 @@ It's an early model, not the cost-reduced version, and it looks like it sat in t
 ## FIRST BOOT {#first-boot}
 
 I used the original power supply. The big, chunky power switch was so stiff I thought I'd broken it. It went "chunk" and nothing happened. Then it came on. The switch is now very sensitive: sometimes the lightest push turns it on, and sometimes I can't get it to flip. I'll have to look at that.
+
+![A Commodore VIC-20 on a bamboo bench with the original black power supply above it and a hand resting by the red power switch](/images/posts/vic20-ebay-unboxing/power-switch-and-supply.jpg)
 
 With the video cable run through my capture card and set to 4:3, the picture looked good, with a little bit of jailbar. I typed a quick Hello World program, ran it, stopped it with RUN/STOP-RESTORE and listed it. The keyboard feels tight, and every key on every row worked.
 

@@ -91,9 +91,13 @@ The first thing I noticed was how light the box was. The communicator is light t
 - **A three-position switch:** off, so you don't accidentally press buttons; on; and demo. Demo mode plays the sounds without lighting the LEDs, probably to save the batteries while it sits on a store shelf.
 - **Two buttons on the side:** one to hail and one to answer.
 - **A belt snap** on the back, handy for a costume.
+
+    ![The back of the Playmates communicator with a black belt clip and a tan woven strap clipped to it](/images/posts/playmates-star-trek-phaser-communicator/communicator-belt-clip.jpg)
 - **The frequency spinner** on top. I'm pretty sure it doesn't actually spin.
 
 Flip it open and you get the original series sounds and lights. Hail and you hear "This is Captain James Kirk of the USS Enterprise," plus "energize" and the other classic lines.
+
+![The Playmates communicator flipped open, gold antenna grill up, with the green indicator lit and a thumb on the lower button](/images/posts/playmates-star-trek-phaser-communicator/communicator-open-green-led.jpg)
 
 ### Verdict
 
@@ -113,8 +117,12 @@ It's a good size, but a little lighter than I had hoped. A few things I noticed:
 - **The small pocket phaser section isn't removable.** In the original series, the little hand phaser could come out of the larger pistol. On this toy it's part of the body.
 - **Most of the controls are for show.** The extra knobs and details don't do anything.
 - **The trigger is different than I expected.** It's a cylindrical post sticking out of the unit, not a curved trigger.
+
+    ![A finger on the short cylindrical trigger post under the silver emitter of the Playmates phaser](/images/posts/playmates-star-trek-phaser-communicator/phaser-cylindrical-trigger.jpg)
 - **The switch has off, demo, and on.** Like the communicator, demo mode cycles through the three sounds without lighting the emitter, for in-store demos.
 - **The setting dial has three positions,** with a nice indicator on the dial. Blue is stun, and the dial also has an overload setting and a red setting.
+
+    ![The phaser setting dial turned to the blue mark, with a blue indicator light lit next to the thumb](/images/posts/playmates-star-trek-phaser-communicator/phaser-dial-blue-indicator.jpg)
 
 Turn it on, choose a setting, and pull the trigger. The beam emitter lights up and you get the sound for that setting.
 

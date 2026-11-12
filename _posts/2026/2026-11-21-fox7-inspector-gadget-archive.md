@@ -96,6 +96,8 @@ The format was simple. A host asked the questions most viewers would ask (What d
 
 The very first Inspector Gadget segment, with Sarah Brownlee. The Philips Senseo brews a single cup from a coffee pod. About $70 at the time.
 
+![On the Fox 7 set, the Philips Senseo sits between two white mugs while a coffee pod is held up to the camera](/images/posts/fox7-inspector-gadget-archive/senseo-two-mugs.jpg)
+
 - The water heats in a minute or two, so you go from cold water to hot coffee in about 3 minutes, with a little froth on top.
 - You aren't stuck with the Senseo brand. Other companies made pods too, including Target's Archer Farms, and there was even a tea pod.
 - The removable parts go in the dishwasher.
@@ -110,8 +112,14 @@ Sarah Brownlee and I break out the running shoes. The Nike+iPod kit links a smal
 
 - The kit was $29.99, and you needed an iPod nano (about $150).
 - It replaced my Garmin Forerunner 101 for tracking runs.
+
+    ![Hands holding a black Garmin Forerunner 101 GPS watch on the Fox 7 set](/images/posts/fox7-inspector-gadget-archive/garmin-forerunner-101.jpg)
 - Press the center button during a run and a human voice tells you your stats. You can also pick a power song for extra encouragement. Runs sync through iTunes to nike.com, which graphs them.
+
+    ![A printed nike.com page held up on Fox 7, with a yellow pace line for a 2.34 mile run](/images/posts/fox7-inspector-gadget-archive/nike-run-graph.jpg)
 - Myth debunked: Nike says you need new Nike shoes (about $100). You don't. I wrapped the sensor in plastic and laced it into the shoes I already had.
+
+    ![Hands lacing a black, gray, and red Nike running shoe on the Fox 7 desk, with a small iPod nano beside the shoe](/images/posts/fox7-inspector-gadget-archive/nike-shoe-laces.jpg)
 
 Title: _Fox 7 - Inspector Gadget Spot - Nike+iPod_
 

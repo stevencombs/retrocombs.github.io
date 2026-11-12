@@ -96,9 +96,13 @@ The package arrived wrapped like a Christmas present, with custom Spring ribbon 
 
 The hand-drawn box art is all by Moana. The little character on the box is, I assume, the hero of the game. Lift the lid and you'll find:
 
+![Hands holding the magenta Spring box, with a hand-drawn character and rainbow on the lid and the word SPRING on the front edge](/images/posts/spring-mega65-game/hand-drawn-spring-box.jpg)
+
 - **A key**
 - **Instructions**
 - **A handwritten note from Moana.** Mine says, "Thank you, retroCombs, for getting my game from Moana. I hope you enjoy it. I drew the rainbow carpet all by myself." She also drew the girl, the water bottle and the banana.
+
+    ![Moana's handwritten note, open like a card, with gem stickers and a drawing of a rainbow carpet, a girl, a water bottle, and a banana](/images/posts/spring-mega65-game/moana-handwritten-note.jpg)
 - **A cardboard piece** that looks like a little game board
 - **A Spring eraser** with the character on it
 - **A Spring crayon.** My first official MEGA65 crayon!
@@ -122,6 +126,8 @@ The brief instructions in the game guide:
 7. Use a joystick in port 2.
 
 The title screen reads "Spring, a game by Moana and her daddy," with four options: **Play game**, **About this game**, **Browse the source code** and **Exit**.
+
+![MEGA65 screen titled Spring, a game by Moana (and her daddy), 20th August 2025, with options to play, read about the game, browse the source code, or exit](/images/posts/spring-mega65-game/spring-title-menu.jpg)
 
 ## ABOUT THE GAME {#about-the-game}
 
@@ -151,6 +157,8 @@ The title song is Gürçe's cover of the Dungeon of the Algebra Dragons theme.
 ## THE ROM WARNING AND THE SLOW-MUSIC FIX {#rom-warning}
 
 Before the game starts, you'll see a core warning (the game was tested against a specific core) and then a ROM warning. My MEGA65 was on ROM version 920413. Spring offers to switch temporarily to an experimental ROM. If you don't switch, the music slows down, because older ROMs block the BASIC `PLAY` command while in `SYS` calls.
+
+![MEGA65 ROM warning for Spring, offering a temporary switch to experimental ROM v999999 from the installed v920413, and warning that music will slow down otherwise](/images/posts/spring-mega65-game/rom-warning-screen.jpg)
 
 I was curious, so the first time I chose to keep my own ROM. Spring also switches from NTSC to PAL, and my monitor went to 576p at 50 Hz on its own. The music on the title screen did sound slow.
 

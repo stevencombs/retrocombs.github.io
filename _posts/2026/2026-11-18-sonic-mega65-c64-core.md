@@ -111,10 +111,14 @@ The C64 core, ported to the MEGA65 by MJoergen and sy2002 and based on the MiSTe
 4. Copy both `.d64` files to the card. I keep my C64 titles in a `C64` folder on the card.
 5. Eject the card and put it back in the MEGA65.
 
+![Finder on a Mac, with two Sonic the Hedgehog disk images, Side A and Side B, highlighted next to the c64 folder on the MEGA65 card](/images/posts/sonic-mega65-c64-core/copy-d64-to-sd.jpg)
+
 ## STEP 2: BOOT THE C64 CORE {#step-2}
 
 1. Hold down `NO SCROLL` and switch on the MEGA65. The core selection menu appears (covered in Chapter 5 of the user's guide).
 2. Select the slot that holds the C64 core. Mine is in slot 2.
+
+![The MEGA65 core menu, with slot 2 selected: C64 for MEGA65 V5.1, and the factory core in slot 1](/images/posts/sonic-mega65-c64-core/c64-core-slot-2.jpg)
 
 For this demo I used the [Atari CX40+ joystick](https://amzn.to/479CFmD).
 
@@ -135,6 +139,8 @@ For this demo I used the [Atari CX40+ joystick](https://amzn.to/479CFmD).
 3. Choose to play the game rather than read the manual.
 4. After the "Sonic Team 64 presents" screen and a progress indicator, the game asks whether to **load the full game into the REU**.
 
+![The Sonic the Hedgehog SEGA title screen on the C64 core, Sonic in a winged badge and a 1991 copyright line](/images/posts/sonic-mega65-c64-core/sega-title-screen.jpg)
+
 ## FULL REU PRELOAD OR THE GAME'S FAST LOADER? {#fast-load}
 
 On my first run, I chose compatible load and said yes to loading the full game into the REU. That takes a long time, long enough that in the video I speed it up and show the total time on screen. Partway through, the game asks for the second disk:
@@ -146,6 +152,8 @@ On my first run, I chose compatible load and said yes to loading the full game i
 Back in the day on a real C64, this would have been "let me get it loading, then we'll go have dinner."
 
 On my second run, I chose **fast load** and said **no** to loading the full game into the REU. That got me playing much sooner. The game streams from the disk as you play, and at some point it asks for the second disk image.
+
+![Sonic running through Green Hill on the C64 core, with three palm trees, a ring, and three lives in the corner](/images/posts/sonic-mega65-c64-core/green-hill-running.jpg)
 
 > **Tip:** For a quick session, use the game's fast load option and skip the full REU preload.
 {: .tip}

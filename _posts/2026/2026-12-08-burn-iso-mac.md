@@ -82,8 +82,13 @@ As of 2026-12-08:
 Here's what I saw people do:
 
 1. Insert a blank CD-R. Finder asks what to do with it. Click OK.
+
+    ![Finder dialog on Mac OS X: "You inserted a blank CD" with the action set to Open Finder and the OK button highlighted](/images/posts/burn-iso-mac/blank-cd-open-finder-dialog.jpg)
+
 2. Open the blank disc in Finder and drag the .iso file onto it.
 3. Click Burn.
+
+    ![Finder window for an Untitled CD with ubuntu-6.10-desktop-i386.iso dropped onto the Recordable CD and the cursor on the Burn button](/images/posts/burn-iso-mac/iso-copied-onto-recordable-cd.jpg)
 
 That gives you a disc with one file on it, the .iso. It won't boot, and it isn't the disc the .iso describes. The .iso is an exact image of a whole disc, so it needs software that writes the image back out as a disc, with every file in its proper place.
 
@@ -93,8 +98,13 @@ That gives you a disc with one file on it, the .iso. It won't boot, and it isn't
 2. Don't drag the .iso into the **Data** area. That's the same mistake again.
 3. Click the **Copy** tab. It asks for a disk image.
 4. Browse to your .iso (mine was on the desktop) and click **Open**. Burn shows the image type and size.
+
+    ![Burn's Copy tab with ubuntu-6.10-desktop-i386.iso selected, listed as a Dvd/cd-master image of 698.4 MB, and the Mount button below](/images/posts/burn-iso-mac/copy-tab-ubuntu-iso-selected.jpg)
+
 5. Optional: click **Mount** to see what's inside. You'll see the files laid out the way they'll appear on the finished disc.
 6. Click **Burn**, insert the blank disc when asked, and click **Burn** again.
+
+    ![Burn writing track 1 to the MATSHITA DVD-R UJ-846 drive, with a progress bar over the Copy tab that still shows the 698.4 MB disc image](/images/posts/burn-iso-mac/burning-track-progress.jpg)
 7. When it finishes, eject the disc.
 
 In the video, that disc was an Ubuntu installer for a Windows machine.

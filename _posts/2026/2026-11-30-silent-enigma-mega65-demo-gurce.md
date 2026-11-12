@@ -107,6 +107,8 @@ His dad bought the family a Commodore 64 in 1986. He even traded in his pocket c
 His other day-one memories:
 
 - **The introduction to BASIC book** that came with the machine, and the test card demo that loaded from its cassette. The music, graphics and animation amazed them. He later learned the whole demo was written in BASIC, music included.
+
+    ![Gürçe holding a blue book titled An Introduction to BASIC, Part 1, for the Commodore 64, with a C64 and a monitor behind him](/images/posts/silent-enigma-mega65-demo-gurce/introduction-to-basic.jpg)
 - **The first cartridges**, including Sea Wolf and a set of paddle games such as Pinball Spectacular.
 - **Wizard of Wor.** His dad played it the whole night through, went to work the next morning without any sleep, and promised never to play computer games again.
 
@@ -126,13 +128,19 @@ The demo has core and ROM requirements, but instructions are provided and the st
 2. Type `DIR` to verify The Silent Enigma disk image is loaded.
 3. Run the program.
 4. From the menu, choose **About this demo** for the about screens, **Browse** to open any of the source files by number, or **Play** to run the demo.
+
+    ![The Silent Enigma about screen, page 1 of 2, crediting Eleven, Mega Assembler, ACME, and visuals that are 100% PETSCII](/images/posts/silent-enigma-mega65-demo-gurce/about-screen.jpg)
 5. Let the demo switch from NTSC to PAL. It does that in software, so there's no trip to the Freezer.
+
+    ![The demo's startup text on a black screen: this program requires switching from NTSC to PAL, then initializing, please wait a minute](/images/posts/silent-enigma-mega65-demo-gurce/ntsc-to-pal.jpg)
 6. Press any key, and give it a little while to initialize.
 
 > **Tip:** Browse the source files. Gürçe includes all of them, so you can see how each effect was done.
 {: .tip}
 
 The demo itself is something to watch, not read about, so press play on the video above. What stands out is that it's a program written primarily in BASIC. And yes, those call-outs to my channel put a smile on my face, as I'm sure the call-outs to the other developers and community members will on theirs.
+
+![A Silent Enigma effect: rainbow lines stretching across a black screen above the word grandeur in magenta PETSCII](/images/posts/silent-enigma-mega65-demo-gurce/rainbow-grandeur.jpg)
 
 ## WHAT INSPIRED THE DEMO {#inspiration}
 

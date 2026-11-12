@@ -98,6 +98,8 @@ The Lark M1 also helps when I have a guest in the studio: its receiver plugs int
 - The charging case, with the receiver and two mics inside
 - A carrying pouch for the case
 - Two windscreens. Most people call them dead cats. I call them tribbles.
+
+    ![Hands holding a small gray furry windscreen over the desk, with the Lark pouch and a Commodore keyboard behind it](/images/posts/hollyland-lark-m2-vs-m1/windscreen.jpg)
 - A connector cable that looks identical to the M1's
 - A USB to USB-C cable for charging
 - Magnetic clips, for clipping a mic to a shirt or pocket
@@ -110,10 +112,16 @@ The lanyards are a welcome addition. With the M1, I'd been wearing a mic on a la
 ## M2 VS. M1: WHAT CHANGED {#what-changed}
 
 - **The case.** I love the case design on both. The M2's is a little thicker.
+
+    ![The Lark M1 and M2 charging cases held side by side, the M2 a little thicker, both closed with the Hollyland logo on the front](/images/posts/hollyland-lark-m2-vs-m1/m1-and-m2-cases.jpg)
 - **The charging port.** The M2 case has its USB-C port on the back, so it charges sitting upright. The M1's port is on the bottom, so you charge it lying on its side.
+
+    ![The Lark M2 case sitting upright, with the USB-C port on the back edge](/images/posts/hollyland-lark-m2-vs-m1/m2-usbc-on-the-back.jpg)
 - **Out of the box.** The M2 case arrived fully charged. The mics and receiver were not.
 - **Magnets.** The M2 mics attach to a shirt magnetically, and they drop into the case magnetically, so you can't seat them wrong.
 - **Gain control.** The M2 receiver has a dial. The M1 uses click buttons. I like the dial.
+
+    ![A thumb on the Lark M2 receiver dial, marked plus and minus around the Hollyland logo, with the open charging case behind it](/images/posts/hollyland-lark-m2-vs-m1/receiver-dial.jpg)
 - **Size.** The M2 mics are tiny. Clipped on with the light pointing up, it's inconspicuous, and with a black sticker you'd hardly notice it.
 
 ## SETUP {#setup}

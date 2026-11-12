@@ -114,6 +114,8 @@ The Super Pocket is heavier than I expected. It's an officially licensed Atari p
 
 - **Sides:** speakers on the sides (maybe stereo), and a rocker switch for volume
 - **Back:** venting and two shoulder buttons
+
+    ![The back of the red Atari Super Pocket, with SUPER POCKET molded into the shell, a BLAZE panel, and black shoulder buttons](/images/posts/atari-super-pocket-evercade/shoulder-buttons.jpg)
 - **Bottom:** a headphone jack, the power button and the USB-C port
 - **Top:** the Evercade cartridge slot
 
@@ -143,6 +145,8 @@ Next to the [TrimUI Brick](https://mechdiy.com/collections/trimui/products/trimu
 
 I started with one of my favorites, Yars' Revenge. It looks just like the Atari 2600 version, right down to the intro screen with those offset colors.
 
+![Yars' Revenge on the Atari Edition Super Pocket: a cyan playfield, a rainbow barrier, and a yellow shape, with a red handheld on the desk beside it](/images/posts/atari-super-pocket-evercade/yars-revenge.jpg)
+
 The in-game menu lets you:
 
 - Save and load states
@@ -155,6 +159,8 @@ I finished level one, saved to slot one, and loaded it again. It worked. If you 
 > **Tip:** Turn on scan lines in the in-game display menu for a closer match to a CRT.
 {: .tip}
 
+![The Super Pocket display menu with Scanlines set to Strong, above the red D-pad and the Y, X, B, and A buttons](/images/posts/atari-super-pocket-evercade/scanlines-strong.jpg)
+
 ## A LYNX GAME: DIRTY LARRY {#dirty-larry}
 
 For a game with a little more graphical punch, I tried Dirty Larry from the Atari Lynx. It opens with an intro screen that sets up the story, then drops you into the action. I had never played it and had no idea what I was doing, but the graphics look good and the screen's viewing angles held up even with my studio lights shining on it.
@@ -162,6 +168,8 @@ For a game with a little more graphical punch, I tried Dirty Larry from the Atar
 ## THE EVERCADE ADVANTAGE: CARTRIDGES {#evercade-cartridges}
 
 The cartridge slot is what sets the Super Pocket apart. I picked up two cartridges because they had games I wanted: **C64 Collection 3** and **Intellivision Collection 2**.
+
+![An Evercade cartridge labeled THE C64 COLLECTION 3, held in front of its blue box](/images/posts/atari-super-pocket-evercade/c64-collection-3.jpg)
 
 Opening them reminded me of the Game Boy days. Each one comes in a case with a printed, full-color manual on good, thick paper, and the Intellivision cartridge adds game cards with tips. The C64 Collection 3 manual even explains the controls for Summer Games, which I always struggled to figure out. Back in the day, a C64 game on disk or cartridge came with a booklet just like this.
 

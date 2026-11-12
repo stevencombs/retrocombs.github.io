@@ -123,6 +123,8 @@ On top of the box sat the C128's RF and heat shields, with a little thermal past
 
 The seller packed the C128 carefully: bubble wrap, air pillows and foam. Out came a clean, dust-free machine with yellow protective tape still on the ports. Just as the seller advertised, it was in almost mint condition.
 
+![The side of the Commodore 128, with yellow protective tape still covering the ports, held above the desk](/images/posts/commodore-128-keelog-power-supply/yellow-tape-on-ports.jpg)
+
 > **Tip:** If a Commodore space bar feels loose after shipping, it has probably just popped off its connectors. Line it up over them and press until it clicks.
 {: .tip}
 
@@ -131,6 +133,8 @@ The seller packed the C128 carefully: bubble wrap, air pillows and foam. Out cam
 I connected the Keelog supply to the C128 and the wall. No smoke. For video, I ran a 5-pin DIN to RCA cable into my [ClonerAlliance Box Pro](https://amzn.to/4qAOn3A), which fed a portable HDMI display.
 
 I flipped the switch and got... nothing. While tapping keys earlier, I'd pressed the 40/80 DISPLAY key down, so the C128 started in 80-column mode. I turned it off, released the key, turned it back on, and there was the familiar BASIC 7.0 startup screen.
+
+![A finger on the Keelog's touch button, with its OLED showing a 00:00 timer and the power cable plugged into the side](/images/posts/commodore-128-keelog-power-supply/keelog-oled-timer.jpg)
 
 > **Tip:** The 40/80 DISPLAY key locks down. If your C128 shows a blank screen on a 40-column display, check that key first.
 {: .tip}
@@ -155,11 +159,15 @@ My original 2021 post flagged two things to research: the game sound was indisti
 
 Inside was as clean as the eBay photos. The seller had added heat sinks to the processors and major chips, which is why the RF and heat shields came off: the heat sinks are too tall for them. I put the small shield back on the RF modulator, because a little shielding there seemed like a good idea.
 
+![The open Commodore 128 board, silkscreened COMMODORE C128, with a finger pointing at the tall black heat sinks on the chips](/images/posts/commodore-128-keelog-power-supply/board-with-heatsinks.jpg)
+
 A wire runs across the board, and I don't know why it's there. If you know, tell me in the comments below.
 
 ## THE ONLY PIECE LEFT FROM MY ORIGINAL C128 {#remnants}
 
 One thing survived from my first C128: my copy of *Commodore 128 Troubleshooting and Repair* by John Heilborn. I bought it in 1989 in case my C128 ever needed repairs, and it never did. When I flipped through it, out fell a surprise: a geoDraw drawing I made comparing the size of the original starship Enterprise, the 1701, with The Next Generation's 1701-D. I don't have the file anymore, but I have the printout.
+
+![A geoDraw printout of the NCC-1701-D and the NCC-1701 held over the Commodore 128, with the troubleshooting manual open beside it](/images/posts/commodore-128-keelog-power-supply/geodraw-enterprise-printout.jpg)
 
 ## CONCLUSION {#conclusion}
 

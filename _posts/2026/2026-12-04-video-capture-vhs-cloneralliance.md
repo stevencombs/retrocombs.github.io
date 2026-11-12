@@ -140,7 +140,15 @@ The [Box Pro Pocket](https://amzn.to/4wQgjlB) has no screen. It's a capture box 
 
 **In the box:** a remote (bring your own batteries, such as [Amazon Basics](https://amzn.to/49LycZc)), a 12V 1A power supply, a 6-foot HDMI cable, a 90-degree HDMI adapter, a micro USB cable for computer capture, the MMI breakout cable (composite, component and VGA), and an NP-F550 rechargeable battery rated for 2.5 hours of recording, with a short USB cable to charge it.
 
+![Hands holding the Box Pro Pocket MMI cable, fanned into yellow, white, red, blue, and black RCA plugs plus an HDMI plug](/images/posts/video-capture-vhs-cloneralliance/mmi-breakout-cable.jpg)
+
+![A black NP-F550 style battery held over the open Box Pro Pocket box, with a USB plug in the other hand](/images/posts/video-capture-vhs-cloneralliance/npf550-battery.jpg)
+
 **Ports:** MMI in, HDMI in, 3.5mm audio in, audio out for headphones, a mic jack, HDMI out (pass-through), micro USB and 12V power. The right side holds a [microSD](https://amzn.to/3IYL3Kn) slot (Class 10 or faster) and a USB port.
+
+![The edge of the Box Pro Pocket, with HDMI ports and a row of round audio jacks, held above the cables that came in the box](/images/posts/video-capture-vhs-cloneralliance/hdmi-and-audio-jacks.jpg)
+
+![The storage end of the Box Pro Pocket, labeled STORAGE, with a TF card slot and a USB port](/images/posts/video-capture-vhs-cloneralliance/tf-and-usb-slots.jpg)
 
 **Storage formats:** NTFS, exFAT or FAT32. FAT32 splits recordings into 4GB chunks, so use exFAT or NTFS for long tapes.
 
