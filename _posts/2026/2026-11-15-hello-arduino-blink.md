@@ -115,8 +115,6 @@ In the video I number the parts of my board. Layouts vary by model, but you'll f
 
 Arduino programs are called sketches. The Blink example does exactly what we want: it turns an LED on, waits, turns it off, waits, and repeats. Here's the current version of the example:
 
-![The Blink sketch open in Arduino 0010 Alpha, with ledPin set to 13 and pinMode in setup](/images/posts/hello-arduino-blink/blink-sketch-arduino-0010.jpg)
-
 ```cpp
 // the setup function runs once when you press reset or power the board
 void setup() {
@@ -136,6 +134,8 @@ void loop() {
 What's going on:
 
 - `setup()` runs once. It sets the LED pin as an output. In 2008 the example named pin 13 directly. Today it uses `LED_BUILTIN`, which points to the onboard LED on whatever board you select (pin 13 on an Uno).
+
+    ![The Blink sketch open in Arduino 0010 Alpha, with ledPin set to 13 and pinMode in setup](/images/posts/hello-arduino-blink/blink-sketch-arduino-0010.jpg)
 - `loop()` runs over and over. It sets the pin HIGH (on), waits, sets it LOW (off), and waits again.
 - `delay()` counts in thousandths of a second, so `1000` is one second.
 
