@@ -114,6 +114,8 @@ The first box held the 64Power, a modern replacement power supply for the Commod
 What I like about it:
 
 - **Built-in meters.** It shows the voltage on both outputs and the current draw on the 5-volt side, so you can see what your C64 is pulling.
+
+    ![The 64Power switched on, with the 5V meter reading 5.0 V and 0.00 A and the 9V meter reading 10 VAC, above a BitBinders badge and the front power switch](/images/posts/bitbinders-1581dv-64power/64power-meters-on.jpg)
 - **A front power switch.** Turn the C64 off at the supply.
 - **Both cables out the back.** The power cord and the 7-pin DIN plug for the C64 both exit the rear, which keeps the desk tidy.
 - **The case.** It appears to be 3D printed, with a nice BitBinders logo.
@@ -133,6 +135,8 @@ BitBinders lists the 64Power for the Commodore 64. I own a Commodore Plus/4 adap
 ## THE 1581DV DUAL DRIVE {#the-1581dv}
 
 The second box held the drive, and it's gorgeous. BitBinders hand-assembles these drives. The styling mimics the original 1581, with a BitBinders logo where the Commodore logo used to be. Each mechanism has its own drive light, and there's a power light.
+
+![Hands holding the stacked BitBinders 1581DV, two 3.5-inch slots with eject buttons, a green power light, and a red drive light under the BitBinders badge](/images/posts/bitbinders-1581dv-64power/1581dv-front.jpg)
 
 I chose the stacked 1581DV because it takes up less desk space. BitBinders also makes a side-by-side model, and I'm told it's designed to hold a monitor on top.
 
@@ -154,6 +158,8 @@ I chose the stacked 1581DV because it takes up less desk space. BitBinders also 
 Around the back are switches for the top drive and switches for the bottom drive. Here's how I set it up:
 
 1. Set the unit number for each drive with its rear switches. Each drive can be unit 8 through 11. Give each drive a different number, and make sure neither conflicts with another device on your serial bus.
+
+    ![The back of the 1581DV: a device-number chart for units 8 through 11, top and bottom device switches, two IEC ports, a power jack, and the on/off switch](/images/posts/bitbinders-1581dv-64power/rear-device-switches.jpg)
 2. Connect the drive to your computer's serial (IEC) port with a Commodore serial cable.
 3. Plug the 9-volt adapter into the power jack.
 4. Flip the power switch. The power light comes on. With no computer connected, you won't hear any drive clicks.
@@ -171,6 +177,8 @@ The 1581DV behaves like two Commodore 1581 drives, so the same rules apply:
 - **Won't work:** Most commercial C64 games on disk, because they use fast loaders or copy protection written for the 1541. For those, you still want a 1541 or a 1541-compatible device.
 
 BitBinders includes two disks to get you started: the Commodore 1581 test and utilities disk and the 1581 Toolkit. I never owned a 1581, so I'm looking forward to digging into both.
+
+![A finger points at a blue 3.5-inch disk labeled COMMODORE 1581 3.5" DISK DRIVE, held in front of the stacked 1581DV](/images/posts/bitbinders-1581dv-64power/1581-utilities-disk.jpg)
 
 ## THE BITBINDERS DRIVE LINEUP AND PRICES {#prices}
 
