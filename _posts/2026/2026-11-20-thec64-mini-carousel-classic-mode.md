@@ -112,6 +112,8 @@ Hold the power button for about three seconds to start the Mini. It boots into t
 
 A couple of my picks:
 
+![Galencia-style shooter on the WIMAXIT monitor, with both hands on the THEC64 joystick's red ball and red menu buttons](/images/posts/thec64-mini-carousel-classic-mode/galencia-on-wimaxit.jpg)
+
 - **Galencia Mini**, a Galaga-style shooter and one of my personal favorites
 - **Impossible Mission** and **Impossible Mission II**
 
@@ -128,6 +130,8 @@ The options along the bottom of the Carousel cover:
 - **Display:** how the pixels are drawn, and optional scan lines for a CRT look
 - **Language:** the interface language
 - **Device settings:**
+
+    ![THEC64 device settings on the WIMAXIT monitor, with Switch to Classic mode highlighted](/images/posts/thec64-mini-carousel-classic-mode/device-settings-classic-mode.jpg)
   - Computer model: NTSC or PAL, to match the game or the machine you grew up with in North America or Europe
   - Boot mode: boot to the Carousel or to Classic Mode
   - USB keyboard layout
@@ -146,6 +150,8 @@ For the step-by-step process, see my post [FAST LOAD: Upgrade THEC64 mini firmwa
 ## CLASSIC MODE {#classic-mode}
 
 Classic Mode boots straight to the familiar screen: Commodore 64 BASIC V2 with 64K of RAM. From there, plug in a USB keyboard to write your own BASIC programs, or assembly language programs if you have an assembly language monitor. A virtual disk drive (next section) lets you save your work.
+
+![THEC64 Mini in Classic Mode, with the monitor showing COMMODORE 64 BASIC V2, 64K RAM, and the READY prompt](/images/posts/thec64-mini-carousel-classic-mode/classic-mode-basic-ready.jpg)
 
 ## LOADING SOFTWARE FROM A USB DRIVE {#usb-drive}
 
@@ -171,6 +177,8 @@ Classic Mode adds more media access options, including a virtual cartridge slot.
 1. Switch to Classic Mode and open the menu.
 2. Choose media access.
 3. Browse to the cartridge image on your USB drive. I keep mine in a folder named utilities. In the video I use the NTSC version 5.22 of the Super Snapshot cartridge.
+
+    ![THEC64 media access screen in the Utilities folder, with Super Snapshot v5.22 1990 NTSC highlighted and the cartridge slot still empty](/images/posts/thec64-mini-carousel-classic-mode/super-snapshot-media-access.jpg)
 4. Load it.
 5. To confirm it's loaded, open media access again. The cartridge slot shows the cartridge name.
 6. To remove it, go back to media access, select the cartridge item, and choose eject.
