@@ -91,6 +91,8 @@ As of 2026-12-03:
 
 When the need to sketch hits you while you're out and about, grab whatever you have: a cheap pencil, a sheet of paper, sticky notes, even a napkin. That's fine for a quick sketch on the go.
 
+![A Rotring drawing board with blank paper, metal dividers, a green mechanical pencil, a white stick eraser, and a black lead holder laid out on the sheet](/images/posts/technical-sketching-basics/rotring-board-and-tools.jpg)
+
 For a real sketching session, where you're after a more professional sketch, I recommend:
 
 - **A drawing board.** Mine is a Rotring board with a magnetic clip that holds the paper steady. It's an inexpensive way to keep things from sliding.
@@ -123,6 +125,8 @@ The workflow: use construction lines to map out your drawing. When you're ready 
 
 The big rule: **don't look at your pencil tip.** If you watch the tip, you'll track the pencil, and the line will waver. Instead:
 
+![Two horizontal pencil lines on the drawing board: a straight line ending in a small dot, and a wavy line below it](/images/posts/technical-sketching-basics/straight-line-versus-wavy-line.jpg)
+
 1. Put a light construction dot where you want the line to end.
 2. Put your pencil where you want to start.
 3. Look at the end point, not the pencil.
@@ -146,6 +150,8 @@ An angled line uses the same technique: start point, end point, look where you'r
 
 **A 45-degree line:**
 
+![A right angle in construction lines on the drawing board, with a finger pointing at the corner while the other hand holds a lead holder](/images/posts/technical-sketching-basics/splitting-a-right-angle.jpg)
+
 1. In construction lines, draw a horizontal line and a vertical line that meet at a right angle (90 degrees).
 2. Eyeball the line that cuts that angle in half, so both halves look equal. That's your 45-degree line.
 3. Darken it to the length you need.
@@ -155,6 +161,8 @@ An angled line uses the same technique: start point, end point, look where you'r
 You can also rotate your paper so the angled line becomes the horizontal or vertical line you're best at.
 
 **An isometric box,** when you don't have an isometric grid:
+
+![A finished isometric box on the drawing board, with the front face marked F, the top marked T, and the right side marked RS](/images/posts/technical-sketching-basics/isometric-box-front-top-side.jpg)
 
 1. In light construction lines, mark the front corner of the box with a horizontal line and a vertical line.
 2. Draw the two 30-degree lines off the horizontal, one to each side of the corner.

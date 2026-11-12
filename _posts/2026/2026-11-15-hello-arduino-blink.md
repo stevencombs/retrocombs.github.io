@@ -82,6 +82,8 @@ As of 2026-11-15:
 
 From my starter pack:
 
+![An Arduino Diecimila, a coiled USB cable, a red LED, and a 9-volt adapter laid out on a desk in front of a laptop](/images/posts/hello-arduino-blink/usb-cable-led-and-adapter.jpg)
+
 - An Arduino board
 - A USB cable to connect the board to your computer
 - A red LED
@@ -95,6 +97,8 @@ Before you plug in the board, install the Arduino software. The Arduino website 
 ## A TOUR OF THE BOARD {#board-tour}
 
 In the video I number the parts of my board. Layouts vary by model, but you'll find most of these on any Uno-style board:
+
+![Arduino Diecimila diagram with red numbered callouts 1 through 10, shown next to two US quarters for scale](/images/posts/hello-arduino-blink/diecimila-numbered-diagram.jpg)
 
 1. Digital pin headers, generally used for output
 2. The USB connector
@@ -110,6 +114,8 @@ In the video I number the parts of my board. Layouts vary by model, but you'll f
 ## THE BLINK SKETCH {#blink}
 
 Arduino programs are called sketches. The Blink example does exactly what we want: it turns an LED on, waits, turns it off, waits, and repeats. Here's the current version of the example:
+
+![The Blink sketch open in Arduino 0010 Alpha, with ledPin set to 13 and pinMode in setup](/images/posts/hello-arduino-blink/blink-sketch-arduino-0010.jpg)
 
 ```cpp
 // the setup function runs once when you press reset or power the board
@@ -136,6 +142,8 @@ What's going on:
 ## CONNECT AND UPLOAD {#upload}
 
 1. Plug the USB cable into the board, then into your computer. If it's connected properly, the green power light comes on.
+
+    ![USB cable plugged into an Arduino Diecimila, with the yellow TX LED and the green power LED lit](/images/posts/hello-arduino-blink/usb-plugged-in-tx-led.jpg)
 2. In the Arduino IDE, open **File > Examples > 01.Basics > Blink**. It's the same sketch as above.
 3. Select your board and port from the board selector at the top of the window, or from **Tools > Board** and **Tools > Port**.
 4. Click **Upload** (the right-arrow button).
