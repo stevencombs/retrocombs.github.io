@@ -35,9 +35,9 @@ retroCombs Channel Companion is a private tool that Steven B. Combs built for hi
 
 **YouTube and Google policies.** The app uses YouTube API Services. By using it, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). Google's handling of your data is described in the [Google Privacy Policy](https://policies.google.com/privacy).
 
-**Revoking access and deleting data.** You can revoke the app's access at any time in your [Google security settings](https://security.google.com/settings/security/permissions). After access is revoked, or after a deletion request to retrocombs@icloud.com, the app deletes the sign-in tokens and stored data for that account within 7 days (and in every case within 30 days). Deleting data held by this app does not delete anything on YouTube. To delete content on YouTube itself, use YouTube or YouTube Studio.
+**Revoking access and deleting data.** You can revoke the app's access at any time in your [Google security settings](https://security.google.com/settings/security/permissions). After access is revoked, or after a deletion request to steven@retrocombs.com, the app deletes the sign-in tokens and stored data for that account within 7 days (and in every case within 30 days). Deleting data held by this app does not delete anything on YouTube. To delete content on YouTube itself, use YouTube or YouTube Studio.
 
-**Questions.** Email retrocombs@icloud.com.
+**Questions.** Email steven@retrocombs.com.
 
 ## What this website uses
 
@@ -69,4 +69,4 @@ Steven may update this policy. The date at the top of this page will change when
 
 ## Contact
 
-Email [retrocombs@icloud.com](mailto:retrocombs@icloud.com).
+Email [steven@retrocombs.com](mailto:steven@retrocombs.com).

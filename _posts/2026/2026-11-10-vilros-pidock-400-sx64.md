@@ -3,7 +3,7 @@ layout: post
 title: 'Can a Vilros PiDOCK 400 Recreate the Commodore SX-64?'
 date: '2026-11-10'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: vilros-pidock-400-sx64
 comments: yes
 categories: [commodore, raspberrypi]

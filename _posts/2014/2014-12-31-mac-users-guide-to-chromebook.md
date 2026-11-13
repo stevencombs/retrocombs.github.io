@@ -2,7 +2,7 @@
 layout: post
 title: 'A Mac user’s guide to the Chromebook'
 author: Steven B. Combs, Ph.D.
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2014-12-31
 category: chromeos
 comments: yes

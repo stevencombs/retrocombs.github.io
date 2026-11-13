@@ -3,7 +3,7 @@ layout: post
 title: 'Spring for the MEGA65: Unboxing a Family-Made Game, With the BASIC Source Code Inside'
 date: '2026-11-29'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: spring-mega65-game
 comments: yes
 categories: [mega65]

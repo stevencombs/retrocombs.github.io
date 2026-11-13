@@ -3,7 +3,7 @@ layout: post
 title: 'ClonerAlliance UHD Pro Review: A Standalone HDMI Recorder for Android TV Boxes'
 date: 2026-08-24 17:11:06 -0400
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: cloneralliance-uhd-pro
 comments: yes
 channel: tech

@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Sync without the costly cloud'
 author: Steven B. Combs, Ph.D.
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2014-11-02 18:10
 category: apple
 comments: yes

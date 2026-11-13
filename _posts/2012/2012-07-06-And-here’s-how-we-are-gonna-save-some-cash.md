@@ -3,7 +3,7 @@ layout: post
 title: 'And here’s how we are gonna save some cash'
 date: 2012-07-06 20:20:57 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: true
 category: higher-education
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: 'TEAR DOWN: Baofeng GT-3 Mark II'
 author: Steven B. Combs, Ph.D.
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2015-03-22 15:18
 category: ham
 comments: yes

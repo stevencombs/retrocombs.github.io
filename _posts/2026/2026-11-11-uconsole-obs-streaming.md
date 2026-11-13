@@ -3,7 +3,7 @@ layout: post
 title: 'Can You Stream From the Clockwork uConsole? My OBS Studio Tests'
 date: '2026-11-11'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: uconsole-obs-streaming
 comments: yes
 categories: [handhelds]

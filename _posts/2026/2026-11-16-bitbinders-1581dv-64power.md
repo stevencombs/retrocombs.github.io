@@ -3,7 +3,7 @@ layout: post
 title: 'BitBinders 1581DV Dual Disk Drive and 64Power Unboxing'
 date: '2026-11-16'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: bitbinders-1581dv-64power
 comments: yes
 categories: [c64]

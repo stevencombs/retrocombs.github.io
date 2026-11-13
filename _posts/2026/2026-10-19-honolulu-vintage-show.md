@@ -3,7 +3,7 @@ layout: post
 title: 'I Spent $6 at a Honolulu Vintage Show: Here’s What I Found!'
 date: '2026-10-19'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: honolulu-vintage-show
 comments: yes
 categories: [shows, personal]

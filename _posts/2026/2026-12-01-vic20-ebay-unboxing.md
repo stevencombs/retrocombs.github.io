@@ -3,7 +3,7 @@ layout: post
 title: 'Did I Overpay for This Commodore VIC-20? An eBay Unboxing'
 date: '2026-12-01'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: vic20-ebay-unboxing
 comments: yes
 categories: [commodore, vic20]

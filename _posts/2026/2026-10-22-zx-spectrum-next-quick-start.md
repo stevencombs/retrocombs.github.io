@@ -3,7 +3,7 @@ layout: post
 title: 'ZX Spectrum Next Quick Start Guide: Tips for New Issue 3 Owners'
 date: '2026-10-22'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: zx-spectrum-next-quick-start
 comments: yes
 categories: [zxspectrum]

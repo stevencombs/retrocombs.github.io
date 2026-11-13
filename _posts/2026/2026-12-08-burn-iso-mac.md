@@ -3,7 +3,7 @@ layout: post
 title: 'How To: Burn an .iso Image on a Mac (the Burn App Way, and the Modern macOS Way)'
 date: '2026-12-08'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: burn-iso-mac
 comments: yes
 categories: [apple]

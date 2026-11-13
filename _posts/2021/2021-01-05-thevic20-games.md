@@ -4,7 +4,7 @@ title: 'retroCombs: A review of the Commodore VIC-20 Games on the THEVIC20 and T
 date: '2021-01-16'
 author: 'Steven B. Combs, Ph.D.'
 permalink: thevic20-2
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 category: vic20
 tags:

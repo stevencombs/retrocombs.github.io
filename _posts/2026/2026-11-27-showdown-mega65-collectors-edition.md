@@ -3,7 +3,7 @@ layout: post
 title: 'Showdown for the MEGA65 Computer: Rootin'' Tootin'' Shoot ''em!'
 date: '2026-11-27'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: showdown-mega65-collectors-edition
 comments: yes
 categories: [mega65]

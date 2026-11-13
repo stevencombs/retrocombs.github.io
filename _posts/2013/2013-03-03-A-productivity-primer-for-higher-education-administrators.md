@@ -3,7 +3,7 @@ layout: post
 title: A productivity primer for higher education administrators
 date: 2013-03-03 23:49:23 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: true
 category: higher-education
 explore: false
@@ -26,7 +26,7 @@ The title of my presentation is <em>Productivity Tools Primer</em>. The focus of
 
 As a primer, I quickly provide a bunch of tools I find useful day-in and day-out. I have many other tools I would love to share, but with only 30 minutes, I focus on the obvious and then discuss a couple of concepts that most likely none of the cabinet will use. My intention is not to encourage them to use these tools, but rather to consider other advanced options.
 
-Obviously, a review of the slides and the links below are not enough for readers of this blog post to glean all concepts. For that you need to hear the entire presentation. If you are interested in an expanded presentation [let me know](mailto:steven.combs@gmail.com).
+Obviously, a review of the slides and the links below are not enough for readers of this blog post to glean all concepts. For that you need to hear the entire presentation. If you are interested in an expanded presentation [let me know](mailto:steven@retrocombs.com).
 
 <center><iframe allowfullscreen="true" frameborder="0" height="389" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/1al8NGIUJwU_KPH0Zu72V5ie38ahYqqvWHC3YGGGNVcw/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="480"></iframe></center>
 

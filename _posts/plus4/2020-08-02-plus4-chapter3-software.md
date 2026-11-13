@@ -4,7 +4,7 @@ title: 'Commodore Plus/4 User’s Manual, Chapter 3 - Using Software'
 date: '2020-08-02'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-4
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 category: plus4
 tags:

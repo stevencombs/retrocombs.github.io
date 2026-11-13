@@ -3,7 +3,7 @@ layout: post
 title: 'Ten cool things you will do with a MEGA65 | Includes 2 bonus items!'
 date: '2021-07-26'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 permalink: 'mega65-3'
 category: mega65
@@ -394,7 +394,7 @@ Paul Gardner-Stephen was kind enough to share exclusive video the MEGAPhone. In 
 
 ## Conclusion
 
-That's it for parts 1 and 2 of this MEGA65 10 cool things series. I hope you enjoyed the ten things and the two bonus items for a "cool dozen!" Did I miss something? Let me know via email at <retrocombs@icloud.com> or drop a comment below. If I receive enough "things," it might persuade me to produce a part 3! And I'd have a whole lot of fun researching those "things."
+That's it for parts 1 and 2 of this MEGA65 10 cool things series. I hope you enjoyed the ten things and the two bonus items for a "cool dozen!" Did I miss something? Let me know via email at <steven@retrocombs.com> or drop a comment below. If I receive enough "things," it might persuade me to produce a part 3! And I'd have a whole lot of fun researching those "things."
 
 ## Join the Fun
 

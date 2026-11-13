@@ -4,7 +4,7 @@ title: 'Commodore Plus/4 User’s Manual, Chapter 2 - Using the Keyboard and the
 date: '2020-06-10'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-3
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 category: plus4
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: 'Hollyland Lark M2 vs. Lark M1: Unboxing and a Side-by-Side Mic Test'
 date: '2026-12-09'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: hollyland-lark-m2-vs-m1
 channel: tech
 comments: yes

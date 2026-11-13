@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Install Super Retroboy on the Retroflag GPi Case'
 date: '2020-05-16'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 category: handhelds
 permalink: /gpicase

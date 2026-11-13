@@ -3,7 +3,7 @@ layout: post
 title: 'Part III: Playing the C64 demos from the MEGA65 onboarding SD card'
 date: 2022-04-23
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 permalink: c64-on-mega65-livestream3
 category: mega65
@@ -177,6 +177,6 @@ The C64 disk image is a nice addition to the MEGA65. It is my understanding that
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
-Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [steven@retrocombs.com](mailto:steven@retrocombs.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!

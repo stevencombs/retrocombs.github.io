@@ -3,7 +3,7 @@ layout: post
 title: 'Clockwork Pi DevTerm A06: Unboxing, Assembly, and First Look at a TRS-80 Model 100 Inspired Cyberdeck'
 date: '2026-11-13'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: clockwork-devterm-a06-first-look
 comments: yes
 categories: [handhelds]

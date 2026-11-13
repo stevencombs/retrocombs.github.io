@@ -3,7 +3,7 @@ layout: "post"
 title: "What's in my technology travel bag?"
 date: "2020-02-02"
 author: "Steven B. Combs, Ph.D."
-email: "steven.combs@gmail.com"
+email: "steven@retrocombs.com"
 category:
   - gadgets
 tags:

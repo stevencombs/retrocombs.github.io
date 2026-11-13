@@ -3,7 +3,7 @@ layout: post
 title: 'Why a Dock Belongs Under Every Mac mini M4: The Minisopuru iExpandMate MINI4PRO'
 date: '2026-11-26'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: minisopuru-mac-mini-m4-dock
 channel: tech
 comments: yes

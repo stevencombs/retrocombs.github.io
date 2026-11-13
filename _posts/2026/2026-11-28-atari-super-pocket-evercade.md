@@ -3,7 +3,7 @@ layout: post
 title: 'Atari Edition Super Pocket: 50 Atari Games and an Evercade Cartridge Slot'
 date: '2026-11-28'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: atari-super-pocket-evercade
 channel: tech
 comments: yes

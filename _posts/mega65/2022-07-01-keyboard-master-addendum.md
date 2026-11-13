@@ -3,7 +3,7 @@ layout: post
 title: 'Master the MEGA65 Keyboard Addendum'
 date: 2022-07-01
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 permalink: master-mega65-keyboard-addendum
 category: mega65
@@ -19,7 +19,7 @@ My [Master the MEGA65 Keyboard](/master-mega65-keyboard) created a lot of conver
 
 ![MEGA65 Dev Kit Keyboard](/images/mega65/dev-kit-keyboard.jpg)
 
-I want to thank everyone who contributed to this addendum and I've done my best to give proper attribution and with a first name or handle. If you'd like your entire name listed, along with a link, or if I missed a recommendation, please drop me an [email](mailto:retrocombs@icloud.com) and I'll correct on this blog post.
+I want to thank everyone who contributed to this addendum and I've done my best to give proper attribution and with a first name or handle. If you'd like your entire name listed, along with a link, or if I missed a recommendation, please drop me an [email](mailto:steven@retrocombs.com) and I'll correct on this blog post.
 
 ----
 
@@ -203,6 +203,6 @@ I suspect there are other things I missed. If there are, post them in the commen
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
-Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [steven@retrocombs.com](mailto:steven@retrocombs.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!

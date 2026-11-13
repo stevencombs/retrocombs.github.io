@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Apple TV in the classroom'
 date: 2013-01-14 19:51:19 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: true
 categories: presentations higher-education apple
 image:

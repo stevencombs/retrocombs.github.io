@@ -3,7 +3,7 @@ layout: post
 title: 'Raspberry Pi 5 and an M.2 SSD Hat: From the Box to Booting From an SSD'
 date: '2026-11-07'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: raspberry-pi-5-m2-ssd-hat
 comments: yes
 categories: [raspberrypi]

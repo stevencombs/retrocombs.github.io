@@ -2,7 +2,7 @@
 layout: post
 title: 'SKETCHNOTE: Exhibit Columbus'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 'October 3, 2016'
 comments: 'yes'
 categories:

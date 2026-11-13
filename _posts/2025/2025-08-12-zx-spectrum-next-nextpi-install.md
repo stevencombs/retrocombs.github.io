@@ -3,7 +3,7 @@ layout: post
 title: 'ZX Spectrum Next NextPi Install Guide: Add a Raspberry Pi Zero Accelerator'
 date: '2025-08-12'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: zx-spectrum-next-nextpi-install
 comments: yes
 categories: [zxspectrum]

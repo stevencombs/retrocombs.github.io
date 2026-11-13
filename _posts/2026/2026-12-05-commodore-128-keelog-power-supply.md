@@ -3,7 +3,7 @@ layout: post
 title: 'FAST LOAD: My Commodore 128 Comes Home, with a Keelog Power Supply'
 date: '2026-12-05'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: commodore-128-keelog-power-supply
 comments: yes
 categories: [commodore]

@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Make a Mac to C.H.I.P. USB OTG serial connection'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 'August 7, 2016'
 comments: 'yes'
 categories:

@@ -44,4 +44,4 @@ Steven may update these terms. The date at the top of this page will change when
 
 ## Contact
 
-Email [retrocombs@icloud.com](mailto:retrocombs@icloud.com).
+Email [steven@retrocombs.com](mailto:steven@retrocombs.com).

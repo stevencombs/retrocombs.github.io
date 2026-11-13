@@ -4,7 +4,7 @@ title: 'COBI M60 Patton Tank and a COBI versus LEGO comparison'
 date: '2021-01-21'
 author: 'Steven B. Combs, Ph.D.'
 permalink: cobi-m60-patton
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 category: lego
 tags:

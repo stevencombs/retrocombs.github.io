@@ -4,7 +4,7 @@ title: 'Commodore Plus/4 User’s Manual Chapter 7 - Using Graphics and Color'
 date: '2021-04-30'
 author: 'Steven B. Combs, Ph.D.'
 permalink: plus4-8
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 category: plus4
 tags:

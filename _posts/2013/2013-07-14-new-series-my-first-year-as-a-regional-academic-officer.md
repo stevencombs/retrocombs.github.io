@@ -3,7 +3,7 @@ layout: post
 title: 'My first year as a regional academic officer'
 date: 2013-07-14 18:51:27 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: true
 category: higher-education
 explore: false

@@ -3,7 +3,7 @@ layout: post
 title: 'Installing Twister OS on a Raspberry Pi 500, Using Only the Pi 500'
 date: '2026-11-09'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: twister-os-raspberry-pi-500
 comments: yes
 channel: tech

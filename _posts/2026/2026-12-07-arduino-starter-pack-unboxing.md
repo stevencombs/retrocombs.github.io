@@ -3,7 +3,7 @@ layout: post
 title: 'OPEN THE BOX: The 2008 Adafruit Arduino Starter Pack, and What Replaced It'
 date: '2026-12-07'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: arduino-starter-pack-unboxing
 channel: tech
 comments: yes

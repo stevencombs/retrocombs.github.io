@@ -4,7 +4,7 @@ title: 'retroCombs: THEVIC20, THEC64 (maxi and mini) Firmware 1-5-2 Update'
 date: '2021-02-06'
 author: 'Steven B. Combs, Ph.D.'
 permalink: 'thevic20-3'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 category: vic20
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: 'Roguecraft DX on the MEGA65: From 2.7KB to 240 Colors'
 date: '2026-11-08'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: roguecraft-dx-mega65
 comments: yes
 categories: [mega65]

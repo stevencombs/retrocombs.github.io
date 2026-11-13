@@ -23,4 +23,4 @@ As I work with new writing tools, and as I begin my foray into fiction, this pag
 ## A note to literary agents
 If you are a literary agent looking for a motivated, experienced writer with an intriguing genre story, why not get in touch with me now and learn more? You can send inquires to:
 
-<steven.combs@gmail.com>
+<steven@retrocombs.com>

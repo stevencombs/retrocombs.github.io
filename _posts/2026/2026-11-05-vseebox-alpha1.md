@@ -3,7 +3,7 @@ layout: post
 title: 'vSeeBox α1 Review: A Linux Media Player That Walks Away From Android TV OS'
 date: 2026-11-05 16:08:43 -0500
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: vseebox-alpha1
 comments: yes
 channel: tech

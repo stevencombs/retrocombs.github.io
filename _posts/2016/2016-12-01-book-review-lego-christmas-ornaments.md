@@ -2,7 +2,7 @@
 layout: post
 title: 'BOOK REVIEW: The LEGO Christmas Ornaments Book'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 'December 1, 2016'
 comments: 'yes'
 categories:

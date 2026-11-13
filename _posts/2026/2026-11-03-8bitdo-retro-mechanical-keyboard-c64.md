@@ -3,7 +3,7 @@ layout: post
 title: '8BitDo Retro Mechanical Keyboard C64 Edition: Commodore Looks, Modern Keyboard'
 date: '2026-11-03'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: 8bitdo-retro-mechanical-keyboard-c64
 comments: yes
 channel: tech

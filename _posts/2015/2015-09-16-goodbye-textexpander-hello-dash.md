@@ -3,7 +3,7 @@ layout: post
 title: 'HOWTO: Say goodbye to TextExpander and hello to Dash'
 date: '2015-09-16'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 categories:
   - apple
@@ -88,7 +88,7 @@ Snippets don't have to be lines of code though. When Dash is running, expansion 
 | Abbr.   | Expansion                                              |
 |:--------|:-------------------------------------------------------|
 | wsc     | <http://www.stevencombs.com>                           |
-| @@g     | <steven.combs@gmail.com>                               |
+| @@g     | <steven@retrocombs.com>                               |
 | ,,date  | inserts the current date                               |
 | ,,apple |  : because I can never remember the keyboard shortcut |
 

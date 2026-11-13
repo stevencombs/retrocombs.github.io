@@ -3,7 +3,7 @@ layout: post
 title: 'Every Retro Games Ltd Computer You Can Buy While You Wait for THEA1200'
 date: '2026-11-22'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: retro-games-ltd-lineup-before-thea1200
 comments: yes
 categories: [commodore]
