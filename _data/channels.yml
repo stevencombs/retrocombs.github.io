@@ -7,6 +7,13 @@
   url: https://www.youtube.com/@retroCombs
   channel_id: UCjdKGdIl5leQfhJZiHUYFbQ
   videos:
+    - id: 9ThGnhYXRjY
+      title: "🔴 🚀️ LIVE: C128 Core on MEGA65 Hands-On Tests & Retro News"
+      url: https://www.youtube.com/watch?v=9ThGnhYXRjY
+      published: "2026-11-14"
+      thumbnail: https://i.ytimg.com/vi/9ThGnhYXRjY/maxresdefault.jpg
+      width: 1280
+      height: 720
     - id: RkOF3pAsjNU
       title: "🌺 I Spent $6 at a Honolulu Vintage Show: Here’s What I Found!"
       url: https://www.youtube.com/watch?v=RkOF3pAsjNU
@@ -26,13 +33,6 @@
       url: https://www.youtube.com/watch?v=572EpWpkCBo
       published: "2026-10-05"
       thumbnail: https://i.ytimg.com/vi/572EpWpkCBo/maxresdefault.jpg
-      width: 1280
-      height: 720
-    - id: BkdqBhWYdbU
-      title: "‼️️ LIVE: You Won't Believe What I Found at VCF-MW 2026"
-      url: https://www.youtube.com/watch?v=BkdqBhWYdbU
-      published: "2026-09-28"
-      thumbnail: https://i.ytimg.com/vi/BkdqBhWYdbU/maxresdefault.jpg
       width: 1280
       height: 720
 - name: "@retroCombs-tech"
