@@ -298,6 +298,7 @@ article.card .rc-review{max-width:none}
 .prose blockquote p{margin:0}
 .prose blockquote.warn{border-left-color:var(--st-red);background:#FDF0EE}
 .prose blockquote.tip{border-left-color:var(--st-green);background:#F2F8EE}
+.prose blockquote.warning{border-left-color:var(--st-red);background:#F2F8EE}
 .prose blockquote.note{border-left-color:var(--st-orange);background:#FFF6E8}
 .prose blockquote p+p{margin-top:.75em}
 .prose .ca-banner{max-width:none;width:100%;margin:1.4em 0}

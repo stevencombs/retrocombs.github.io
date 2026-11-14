@@ -43,6 +43,8 @@ I enjoy both Android TV devices and use them along with two Roku devices and an 
 
 Would the new Chromecast with Google TV change my mind? Let's find out after we watch my lunchtime OPEN THE BOX and FIRST USE video posted to [my YouTube Channel](https://www.youtube.com/stevencombs) the evening after the device's arrival.
 
+Later streaming-box write-ups are in one place: the [Android TV boxes I've tested](/android-tv-box-comparison), and the [vSeeBox α1](/vseebox-alpha1), a Linux player that leaves Android TV OS behind.
+
 ## YouTube Video: _OPEN THE BOX and FIRST USE: Chromecast with Google TV (and the Google TV Android app_
 
 Watch the video below and then read on for my additional thoughts on this device. In the video, you will see me open the box, connect, fire up, and use the device for the first time. I also take a look at the new Google TV app that works along side the Chromecast with Google TV.

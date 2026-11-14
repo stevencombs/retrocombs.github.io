@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZX Spectrum Next Quick Start Guide: Tips for New Issue 3 Owners'
+title: 'ZX Spectrum Next Quick Start for the KS3 Issue 5 Board'
 date: '2026-10-22'
 author: 'Steven B. Combs, Ph.D.'
 email: 'retrocombs@icloud.com'
@@ -18,6 +18,7 @@ tags:
   - raspberrypi
   - howto
   - video
+description: 'Set up a ZX Spectrum Next KS3 Issue 5 board: FAT32 SD card, Raspberry Pi Imager for the Pi accelerator, first boot, Wi-Fi, and NextBASIC.'
 image:
   path: /images/posts/2026-10-22-zx-spectrum-next-quick-start.jpg
   width: 1280
@@ -28,7 +29,9 @@ kind: how-to
 
 My ZX Spectrum Next arrived in February 2024 after a three-year wait. I [unboxed it live](https://www.youtube.com/watch?v=yuD-Q8eZbBQ), and then I didn't touch it. When folks asked how I liked it, I had to admit I had no earthly idea. So I went live again with the little Quick Start Guide card that comes in the box and worked through it on camera, tiny print and all.
 
-Issue 3 machines are on their way to backers, so a lot of you are about to have the same "now what?" moment I did. This post is the text companion to that video. It follows the Quick Start card step by step and adds what I've learned since: the confusing "Issue" naming, SD card prep, video modes, Wi-Fi, the keyboard shortcuts, the NextBASIC type-in program, downloading games, the Raspberry Pi Zero accelerator, and what Issue 3 owners should know. I've also corrected the things I got wrong on camera. Let's dig in!
+KS3 machines use the Issue 5 board. If yours is on the desk, this is the "now what?" I had with mine. This post is the text companion to that video. It follows the Quick Start card step by step and adds what I've learned since: the confusing "Issue" naming, SD card prep for an Issue 5 board, video modes, Wi-Fi, the keyboard shortcuts, the NextBASIC type-in program, downloading games, and writing the Pi accelerator card with Raspberry Pi Imager. Soldering the header and opening the case are in my [NextPi install guide](/zx-spectrum-next-nextpi-install). I've also corrected the things I got wrong on camera. Let's dig in!
+
+> **Updated Nov 2026:** The official distribution is System/Next 26.11a. The SD card steps below follow the KS3 Issue 5 instructions on specnext.com, and the Pi accelerator image is written with Raspberry Pi Imager.
 
 ![ZX Spectrum Next on my desk next to its Quick Start Guide card](/images/posts/2026-10-22-zx-spectrum-next-quick-start.jpg)
 
@@ -56,7 +59,7 @@ Issue 3 machines are on their way to backers, so a lot of you are about to have 
 - [DOWNLOADING GAMES WITH ZXDB-DL](#downloading-games-with-zxdb-dl)
   - [Joysticks](#joysticks)
 - [ADD A RASPBERRY PI ZERO](#add-a-raspberry-pi-zero)
-- [ISSUE 3: WHAT NEW OWNERS SHOULD KNOW](#issue-3-what-new-owners-should-know)
+- [ISSUE 3 / KS3: THE ISSUE 5 BOARD](#issue-3-what-new-owners-should-know)
 - [EXTRA TIPS AND TRICKS](#extra-tips-and-tricks)
 - [SOURCES](#sources)
 - [CONCLUSION](#conclusion)
@@ -71,9 +74,11 @@ Below are the links you need to get the most out of your ZX Spectrum Next.
 
 - 📘 ZX Spectrum Next User Manual, first edition (official page): <https://www.specnext.com/zx-spectrum-next-user-manual-first-edition/>
 - 💾 Latest System/Next distribution (official): <https://www.specnext.com/latestdistro/>
+- 💾 Raspberry Pi Imager (official install guide): <https://www.raspberrypi.com/documentation/computers/getting-started.html#install-using-imager>
 - 🎮 ZXDB downloader by em00k: <https://github.com/em00k/next-zxdb-downloader>
 - 📺 My live unboxing of the ZX Spectrum Next: <https://www.youtube.com/watch?v=yuD-Q8eZbBQ>
 - 📺 My NextPi Zero accelerator install video: <https://www.youtube.com/watch?v=06S6ZSgc-w0>
+- 📘 My NextPi install write-up (header, case, and the 2025 NextPi2 video): [/zx-spectrum-next-nextpi-install](/zx-spectrum-next-nextpi-install)
 
 ### ZX Spectrum Next Accessories {#zx-spectrum-next-accessories}
 
@@ -129,10 +134,10 @@ As of 2026-10-22:
 
 ## UPDATES SINCE THE VIDEO {#updates-since-the-video}
 
-- **Firmware and software:** The video shows firmware 1.44 and core 3.02.00. My Next now runs System/Next 24.11, which is NextZXOS 2.09 with core 3.02.01 for Issue 4 boards and 3.02.00 for Issue 2 boards. You can't install 24.11 from the built-in update menu, so it takes a full SD card rebuild. See [SD card prep](#sd-card-prep). ([Latest distro](https://www.specnext.com/latestdistro/))
-- **Issue 3 happened:** The third Kickstarter ran from July 19 to August 18, 2025, and 7,524 backers pledged £2,612,335. ([Kickstarter](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-3-0)) By late August 2026, finished machines were on boats heading to regional distribution hubs. They hadn't shipped to individual backers yet. ([SpriteFountain, Aug 31 2026](https://www.spritefountain.com/zx-spectrum-next-issue-3-shipping-moves-to-sea-transit/))
-- **I wondered about a C64 core (~24:17), and here it is:** Issue 3 adds fully licensed Sinclair QL and Commodore 64 cores. In SpecNext's words, "the Next Issue 3 can run all the software for the Sinclair QL and the C64 straight out of the box." ([SpecNext announcement](https://www.specnext.com/the-sinclair-zx-spectrum-next-issue-3-is-coming-to-kickstarter-this-saturday/))
-- **I installed a Pi Zero after all:** In August 2025 I added the Raspberry Pi Zero accelerator. ([my NextPi video](https://www.youtube.com/watch?v=06S6ZSgc-w0))
+- **Firmware and software:** The video shows firmware 1.44 and core 3.02.00. When I first published this post, the distro I was using was System/Next 24.11 (NextZXOS 2.09). As of November 2026 the [latest distro page](https://www.specnext.com/latestdistro/) is System/Next 26.11a: NextZXOS v2.10a, core 3.03.03 for Issues 2, 4, and 5, and firmware 1.46. Distributions are named by year and month (24.11 was November 2024). The differential updater is back, so the Update menu works again. KS3 Issue 5 machines use a different file set than a full card rebuild. See [SD card prep](#sd-card-prep).
+- **Issue 3 is the KS3 campaign, and the board is Issue 5:** The third Kickstarter ran from July 19 to August 18, 2025, and 7,524 backers pledged £2,612,335. ([Kickstarter](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-3-0)) The current distro page addresses those machines as "KS3 (Issue 5)." A 31 August 2026 distributor note said finished machines were in sea transit and had not yet shipped to individual backers. ([SpriteFountain](https://www.spritefountain.com/zx-spectrum-next-issue-3-shipping-moves-to-sea-transit/)) specnext.com does not publish a date when every backer received one.
+- **I wondered about a C64 core (~24:17), and here it is:** Issue 3 adds fully licensed Sinclair QL and Commodore 64 cores. In SpecNext's words, "the Next Issue 3 can run all the software for the Sinclair QL and the C64 straight out of the box." ([SpecNext announcement](https://www.specnext.com/the-sinclair-zx-spectrum-next-issue-3-is-coming-to-kickstarter-this-saturday/)) 26.11a also updates the official extra cores for Issues 2, 4, and 5, including Fat32 drivers in the QL core. ([Latest distro](https://www.specnext.com/latestdistro/))
+- **I installed a Pi Zero after all:** In August 2025 I added the Raspberry Pi Zero accelerator with NextPi2. The current accelerator download on the distro page is AlpineNext, written with Raspberry Pi Imager. ([my NextPi video](https://www.youtube.com/watch?v=06S6ZSgc-w0); [latest distro](https://www.specnext.com/latestdistro/))
 
 ## WHICH "ISSUE" DO I HAVE? {#which-issue-do-i-have}
 
@@ -161,12 +166,14 @@ Sources: [Explorer registers](https://explorer.specnext.dev/registers) (board ID
 
 ## BEFORE YOU POWER ON: SD CARD PREP {#sd-card-prep}
 
-This isn't in the video, but it's the first thing I'd tell a new owner.
+This isn't in the video, but it's the first thing I'd tell a new owner. The Next's own card is a FAT32 card you copy files onto. Raspberry Pi Imager is only for the separate Pi accelerator card, in [Add a Raspberry Pi Zero](#add-a-raspberry-pi-zero).
 
-- **FAT32 only (or FAT16/FAT12).** The Next does not read exFAT or NTFS. Windows' GUI formatter and the SD Association formatter force exFAT on cards of 32GB or larger. On Windows, format from the command line instead: `format X: /FS:FAT32`, where `X:` is your card. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
-- **Rebuilding the card for 24.11.** The official steps are to start with an empty card, copy `QXL.WIN` first, copy all the remaining files, and then eject the card properly. ([Latest distro](https://www.specnext.com/latestdistro/))
-- **Core updates.** The latest-distro page explains what to do if your core is older than the distro expects: press U at power-up, type Y to confirm, and then power off and disconnect *all* cables. ([Latest distro](https://www.specnext.com/latestdistro/))
-- **Check version numbers, not post dates.** The FAQ points out that the distro page's WordPress date doesn't change when the page is edited. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
+- **FAT32 only (or FAT16/FAT12).** The Next does not read exFAT or NTFS. Windows' GUI formatter and the SD Association formatter force exFAT on cards of 32GB or larger. On Windows, format from the command line instead: `format X: /FS:FAT32`, where `X:` is your card. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ)) The current distro page also says to use a fresh FAT32 card, and it recommends a new SDHC card at a minimum. ([Latest distro](https://www.specnext.com/latestdistro/))
+- **KS3 (Issue 5), the short path.** Download three files from the [latest distro page](https://www.specnext.com/latestdistro/) onto a new card: `sn-update-26.11a.dsu`, `install.bas`, and `updater.bas`. Copy them into the root of the card. SpecNext says this card should not already be a System/Next card, and the longer instructions say it should not have `TBBLUE.FW` in the root. Eject the card on the computer before you remove it.
+- **On the Next.** Turn it on, open the Browser, press D to change drive, select `install.bas`, press ENTER, press Y, then press C and wait. Reboot while pressing U, answer Y, and wait until the core flash finishes. The machine resets to the testcard screen. ([Latest distro](https://www.specnext.com/latestdistro/))
+- **KS3 with the internal card removed.** The same page treats that machine like a KS2: copy `sn-update-26.11a.dsu` onto the boot card, or copy an unzipped full distribution onto a newly formatted card. Then use **Tools > Updater**, or launch the DSU from the Browser.
+- **Full distribution zips are file archives.** `sn-complete-26.11a.zip`, `sn-nosrc-26.11a.zip`, and `sn-lite-26.11a.zip` unzip onto a newly formatted SD card. Raspberry Pi Imager is for the AlpineNext accelerator download, which is the disk image on that page.
+- **What 26.11a reports.** NextZXOS v2.10a, core 3.03.03 for Issues 2, 4, and 5, and firmware 1.46. The boot process also adds an INFO screen for the card readers, partition types, ESP, RTC, RPi0, core, and NextZXOS version. Check the filenames on the distro page when you download. The FAQ notes that the page's WordPress date doesn't change every time the page is edited. ([Latest distro](https://www.specnext.com/latestdistro/); [SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
 
 > **Warning:** Some TVs keep the Next powered through the HDMI cable. After a firmware or core update, remove ALL cables so the Next fully powers off. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
 {: .warn}
@@ -177,7 +184,7 @@ There's no power button. The power supply has an inline switch, which was a Kick
 
 ![Boot screen showing Firmware v1.44 and Core v3.02.00 with video mode options](/images/posts/2026-10-22-zx-spectrum-next-quick-start/boot-screen-firmware.jpg)
 
-The boot screen shows your firmware and core versions. It also lists the keys you can press: SPACEBAR for the menu, C for extra cores, and A, D, V, or R to pick a video mode (All, Digital, VGA, or RGB).
+The boot screen in the video shows firmware 1.44 and core 3.02.00. It also lists the keys you can press: SPACEBAR for the menu, C for extra cores, and A, D, V, or R to pick a video mode (All, Digital, VGA, or RGB). System/Next 26.11a lists firmware 1.46 and core 3.03.03, and it adds the INFO screen described above. ([Latest distro](https://www.specnext.com/latestdistro/))
 
 - **Choosing a video mode:** On first boot, the Next shows a test screen so you can pick the mode your display handles. It also plays a tone. If your display locks onto more than one mode, choose the one where you can hear the tone. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
 - **VGA:** Hold V at boot. VGA0 is the preferred mode because its timing is the most accurate. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
@@ -303,18 +310,22 @@ In ZXDB-dl, the arrow keys did the work and my joystick didn't. In games, the Ne
 
 ## ADD A RASPBERRY PI ZERO {#add-a-raspberry-pi-zero}
 
-In the video I said I didn't know that I'd ever add the Pi Zero accelerator. In August 2025 I did, and it's what loads TZX files, runs extra dot commands, and plays more music formats. Watch [⚡ Supercharge Your ZX Spectrum Next! NextPi Zero Install Guide](https://www.youtube.com/watch?v=06S6ZSgc-w0) for the full install.
+In the video I said I didn't know that I'd ever add the Pi Zero accelerator. In August 2025 I did, with NextPi2. That install is what loads TZX files, runs extra dot commands, and plays more music formats. The current file on the distro page is AlpineNext, not the NextPi2 image from the video.
 
-- **Which Pi:** The Raspberry Pi Zero v1.2, v1.3, and Zero W work. NextPi disables the Zero W's wireless. **The Pi Zero 2 is not supported**, and neither are other Pi models or clones. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
+{% include youtube.html id="06S6ZSgc-w0" title="Supercharge Your ZX Spectrum Next! NextPi Zero Install Guide" upload_date="2025-08-12T22:13:52Z" duration="PT22M29S" cta="false" %}
+
+- **Which Pi:** The Raspberry Pi Zero v1.2, v1.3, and Zero W work with NextPi. NextPi disables the Zero W's wireless. **The Pi Zero 2 is not supported**, and neither are other Pi models or clones. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ)) The current AlpineNext download says the same limit in fewer words: Pi Zero or Pi Zero W, not the Pi Zero 2 W. ([Latest distro](https://www.specnext.com/latestdistro/))
 - **The header:** The Pi needs a 40-pin (2x20) female header, soldered from the component side so it faces downwards. ([User Manual, 3rd ed., p. 221](https://explorer.specnext.dev/documentation/manual/rev3/page/221))
-- **The SD card:** The NextPi2 image needs a 16GB card. ([Latest distro](https://www.specnext.com/latestdistro/); [SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
-- **Quick test:** At the command line, type `.term`. When Terminex appears, press SYM+CAPS+B (Symbol Shift + Caps Shift + B) to switch to 115,200 baud and press ENTER. If you see `SUP>`, your Pi is ready. Press Symbol Shift+Q to quit. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ))
+- **The accelerator card is a disk image.** AlpineNext on the distro page (the file listed in November 2026 is `alpinenext-0.5.8-2026-11-09.xz`) needs a 16GB microSD card and the official Raspberry Pi Imager. SpecNext calls it a must-update for Issue 2 and Issue 4 machines, and for anyone who is just adding a Pi Zero or Pi Zero W or rebuilding that card. 26.11a adds AlpineNext support on the Next, including SPI mode and pause, play, and rewind for TZX files. ([Latest distro](https://www.specnext.com/latestdistro/))
+- **Write it with Raspberry Pi Imager.** Download Imager from the Raspberry Pi website on Windows or Mac, or run `sudo apt install rpi-imager` on Raspberry Pi OS. In the Device tab, select the Pi Zero model, not a Pi Zero 2. In the OS tab, choose **Use Custom** and select the AlpineNext file you downloaded. Connect the 16GB card, and in the Storage tab select that card. If more than one drive is plugged in, unplug the others until the size matches the card you mean. Leave **Exclude system drives** selected. Writing erases the card you pick. Select **Write**, then **I understand, erase and write**, and let Imager finish its verify step. ([Raspberry Pi docs: Install using Imager](https://www.raspberrypi.com/documentation/computers/getting-started.html#install-using-imager))
+- **If Imager opens Customisation.** Raspberry Pi OS, and some other images, ask for a hostname, user, and Wi-Fi before the write. SpecNext's AlpineNext notes don't ask for any of that. The docs' way to decline it is **Skip customisation**.
+- **NextPi quick test, from the video.** At the command line, type `.term`. When Terminex appears, press SYM+CAPS+B (Symbol Shift + Caps Shift + B) to switch to 115,200 baud and press ENTER. If you see `SUP>`, the NextPi install from the video is ready. Press Symbol Shift+Q to quit. ([SpecNext wiki FAQ](https://wiki.specnext.dev/FAQ)) That is the FAQ's NextPi test. The 26.11a page describes AlpineNext's TZX pause, play, and rewind, and leaves this `.term` check in the FAQ.
 
-For every step, command, and tip, read my full [ZX Spectrum Next NextPi Install Guide](/zx-spectrum-next-nextpi-install).
+Soldering the header, opening the case, and the commands I used are in the [ZX Spectrum Next NextPi install guide](/zx-spectrum-next-nextpi-install). That post's flash steps are the NextPi2 and balenaEtcher process from the video. For a card you are writing now, use Imager and AlpineNext above.
 
-## ISSUE 3: WHAT NEW OWNERS SHOULD KNOW {#issue-3-what-new-owners-should-know}
+## ISSUE 3 / KS3: THE ISSUE 5 BOARD {#issue-3-what-new-owners-should-know}
 
-Most of the Quick Start card applies to every Next, so the tips above work on Issue 3 too. Here's what the official [Issue 3 Kickstarter FAQ](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-3-0/faqs) says is new:
+The KS3 campaign was called Issue 3. The board in those machines is Issue 5, which is the name on the current distro's KS3 steps, and core 3.03.03 is listed for Issues 2, 4, and 5. ([Latest distro](https://www.specnext.com/latestdistro/)) Most of the Quick Start card applies to every Next, so the tips above work on a KS3 machine too. Here's what the official [Issue 3 Kickstarter FAQ](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-3-0/faqs) says is new:
 
 - A larger FPGA, "almost 3X the size of the Issue 2 Next."
 - An extra SD card slot, populated, "so the Issue 3 has two drives available to the OS."
@@ -340,9 +351,10 @@ I backed the ZX Spectrum Next Upgrade Board (the board plus daughterboard tier t
 
 ## SOURCES {#sources}
 
-Everything in this post was checked on 2026-10-22 against these sources:
+The KS3 Issue 5 steps, AlpineNext, and Raspberry Pi Imager notes were checked on 2026-11-14. The rest of this post was checked on 2026-10-22. Sources:
 
-- SpecNext, Latest distro: <https://www.specnext.com/latestdistro/>
+- SpecNext, Latest distro (System/Next 26.11a): <https://www.specnext.com/latestdistro/>
+- Raspberry Pi docs, Install using Imager: <https://www.raspberrypi.com/documentation/computers/getting-started.html#install-using-imager>
 - SpecNext, User Manual first edition page: <https://www.specnext.com/zx-spectrum-next-user-manual-first-edition/>
 - SpecNext, PS/2 keyboard: <https://www.specnext.com/ps2-keyboard/>
 - SpecNext, Issue 3 Kickstarter announcement: <https://www.specnext.com/the-sinclair-zx-spectrum-next-issue-3-is-coming-to-kickstarter-this-saturday/>
@@ -362,6 +374,6 @@ Everything in this post was checked on 2026-10-22 against these sources:
 
 That's the Quick Start card, start to finish: power, video modes, ports, clock, Wi-Fi, keyboard shortcuts, a first NextBASIC program, and a game download over Wi-Fi. It took me two livestreams to get through that tiny print. I hope this post gets you there in one sitting.
 
-Issue 3 owners, welcome to the Next! Let me know in the comments below which core you'll try first: the Next, the QL, or the C64. If this post helped, [leave a tip](https://paypal.me/stevencombs).
+KS3 owners, your board is the Issue 5, and the current card steps are the three-file update above. Let me know in the comments below which core you'll try first: the Next, the QL, or the C64. If this post helped, [leave a tip](https://paypal.me/stevencombs). Questions can go to steven@retrocombs.com.
 
 That's it for me, folks. 🕹️ retroCombs, OUT!
