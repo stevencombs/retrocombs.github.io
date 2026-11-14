@@ -3,7 +3,7 @@ layout: post
 title: 'Ten ways the MEGA65 is better than my M1 MacBook Pro'
 date: 2022-02-17
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 permalink: ten-mega65-vs-mac
 category: mega65
@@ -316,7 +316,7 @@ As I stated earlier, this post and companion video was a fun exercise to help yo
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel][20] and check out [my other posts][21].
 
-Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com][22]. Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [steven@retrocombs.com][22]. Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!
 
@@ -342,4 +342,4 @@ Help make this content better! Leave your comments, corrections, additions, and 
 [19]: https://en.wikipedia.org/wiki/KERNAL
 [20]: https://www.youtube.com/stevencombs
 [21]: 
-[22]: mailto:retrocombs@icloud.com
+[22]: mailto:steven@retrocombs.com

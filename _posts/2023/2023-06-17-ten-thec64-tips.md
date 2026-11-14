@@ -3,7 +3,7 @@ layout: post
 title: 'Ten No Hack TheC64 Tips To Upgrade your Retro Computing Experience'
 date: 2023-06-17
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 permalink: ten-thec64-tips
 category: c64
@@ -213,6 +213,6 @@ I hope you learned a tip or two about your TheC64 that brings more value to your
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](https://www.stevencombs.com).
 
-Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [steven@retrocombs.com](mailto:steven@retrocombs.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!

@@ -3,7 +3,7 @@ layout: post
 title: 'Sonic the Hedgehog on the MEGA65 with the Commodore 64 Core'
 date: '2026-11-18'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: sonic-mega65-c64-core
 comments: yes
 categories: [mega65]

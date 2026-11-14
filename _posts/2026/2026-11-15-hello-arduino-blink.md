@@ -3,7 +3,7 @@ layout: post
 title: 'Hello Arduino! Your First Blink Sketch, Then and Now'
 date: '2026-11-15'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: hello-arduino-blink
 comments: yes
 categories: [arduino]

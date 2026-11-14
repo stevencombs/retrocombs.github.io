@@ -158,7 +158,7 @@ Below are the ways you can support and/or become a member.
 2. Click the **♡THANKS** button underneath one of my videos.
 3. Click the **SUPER CHAT** option during a livestream.
 4. [Leave a tip](https://paypal.me/stevencombs).
-5. Send me a piece of retro or retro-related tech. [Send me an email](mailto:retrocombs@icloud.com) to discuss where to send.
+5. Send me a piece of retro or retro-related tech. [Send me an email](mailto:steven@retrocombs.com) to discuss where to send.
 
 Members appear on this page at their membership level!
 

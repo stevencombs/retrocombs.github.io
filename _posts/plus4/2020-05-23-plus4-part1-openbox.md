@@ -3,7 +3,7 @@ layout: post
 title: 'Commodore Plus/4 User’s Manual, Chapter 0 - Open the Box'
 date: '2020-05-23'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: plus4-1
 comments: yes
 category: plus4

@@ -3,7 +3,7 @@ layout: post
 title: 'The MEGA65 Intro Disk V4: What It Is and How to Run It'
 date: '2026-11-04'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: mega65-intro-disk-v4
 comments: yes
 categories: [mega65]

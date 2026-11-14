@@ -3,7 +3,7 @@ layout: post
 title: 'Commodore Plus/4 User’s Manual - Plus/4 Encyclopedia'
 date: '2022-01-28'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 permalink: plus4-encyclopedia
 category: plus4

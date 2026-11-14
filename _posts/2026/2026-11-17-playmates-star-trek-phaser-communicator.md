@@ -3,7 +3,7 @@ layout: post
 title: 'Playmates Classic Star Trek Phaser and Communicator: Original Series Toys, Up Close'
 date: '2026-11-17'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: playmates-star-trek-phaser-communicator
 comments: yes
 channel: tech

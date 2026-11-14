@@ -3,7 +3,7 @@ layout: post
 title: 'PicoCalc Out-of-Box Tutorial: Assembly, BASIC, GPIO & Firmware'
 date: '2025-05-24'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: picocalc-tutorial
 comments: yes
 categories: [handhelds, raspberrypi]

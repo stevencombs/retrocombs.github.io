@@ -3,7 +3,7 @@ layout: post
 title: 'Unboxing an Amiga 600: My First Amiga Purchase Since 1987'
 date: '2026-11-14'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: amiga-600-first-amiga-since-1987
 comments: yes
 categories: [commodore]

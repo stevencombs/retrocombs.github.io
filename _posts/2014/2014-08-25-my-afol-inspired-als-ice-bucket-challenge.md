@@ -2,7 +2,7 @@
 layout: post
 title: 'My AFOL inspired ALS ice bucket challenge'
 author: Steven B. Combs, Ph.D.
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2014-08-25 09:09
 copyright: © Steven B. Combs, Ph.D. 2014
 category: lego

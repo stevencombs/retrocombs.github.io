@@ -4,7 +4,7 @@ title: 'MEGA65 DevKit Open the box, assembly, and first use'
 date: '2020-12-01'
 author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-1
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 category: mega65
 tags:

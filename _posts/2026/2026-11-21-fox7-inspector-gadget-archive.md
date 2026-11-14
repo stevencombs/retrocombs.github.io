@@ -3,7 +3,7 @@ layout: post
 title: 'Inspector Gadget: My Fox 7 TV Gadget Spots from 2006 and 2007'
 date: '2026-11-21'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: fox7-inspector-gadget-archive
 channel: tech
 comments: yes

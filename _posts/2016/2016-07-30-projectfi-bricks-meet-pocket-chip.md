@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Project Fi bricks meet Pocket C.H.I.P.'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 'July 30, 2016'
 comments: 'yes'
 categories:

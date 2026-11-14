@@ -3,7 +3,7 @@ layout: post
 title: 'The Silent Enigma: Gürçe''s MEGA65 Demo and a Tomorrow Show-Style Interview'
 date: '2026-11-30'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: silent-enigma-mega65-demo-gurce
 comments: yes
 categories: [mega65]

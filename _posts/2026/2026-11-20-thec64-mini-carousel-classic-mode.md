@@ -3,7 +3,7 @@ layout: post
 title: 'THEC64 Mini: Carousel, Classic Mode, and USB Drives Explained'
 date: '2026-11-20'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: thec64-mini-carousel-classic-mode
 comments: yes
 categories: [c64]

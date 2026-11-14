@@ -2,7 +2,7 @@
 layout: post
 title: 'HOWTO: Use Gist to archive and share code snippets'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2016-04-04T00:00:00.000Z
 comments: 'yes'
 categories:

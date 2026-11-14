@@ -2,7 +2,7 @@
 layout: post
 title: 'REVIEW: Field Notes Sweet Tooth memo books'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 'October 09, 2016'
 comments: 'yes'
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: 'How to Replace the Clockwork DevTerm LCD Panel (and My Ribbon Cable Hack)'
 date: '2026-11-12'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: devterm-replace-lcd
 comments: yes
 categories: [handhelds]

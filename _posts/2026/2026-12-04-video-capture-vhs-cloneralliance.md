@@ -3,7 +3,7 @@ layout: post
 title: 'Digitize Your Tapes and Retro Gameplay: ClonerAlliance ViewLite AV, Box Pro Pocket and View Pro Compared'
 date: '2026-12-04'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: video-capture-vhs-cloneralliance
 comments: yes
 channel: tech

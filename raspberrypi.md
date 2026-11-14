@@ -63,4 +63,4 @@ Discussing the 8-bit days of computing during the presentation
 
 ## Feedback
 
-Have a question or want to send feedback? You can [send me email](mailto:steven.combs@gmail.com) or use the [Support](/supporters) link.
+Have a question or want to send feedback? You can [send me email](mailto:steven@retrocombs.com) or use the [Support](/supporters) link.

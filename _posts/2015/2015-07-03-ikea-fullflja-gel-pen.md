@@ -3,7 +3,7 @@ layout: post
 title: 'REVIEW: IKEA FULLFÖLJA gel pen'
 date: '2015-07-03 11:00'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 categories:
   - art

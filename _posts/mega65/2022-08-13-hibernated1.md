@@ -3,7 +3,7 @@ layout: post
 title: 'Hibernated 1: The Director’s Cut for MEGA65'
 date: 2022-08-13
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 permalink: hibernated1
 category: mega65
@@ -173,6 +173,6 @@ There's more boxed software on the way. I reached out to PolyPlay and asked abou
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other posts](/blog).
 
-Let me know in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
+Let me know in the comments below. You can email me at [steven@retrocombs.com](mailto:steven@retrocombs.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!

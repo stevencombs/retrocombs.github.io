@@ -3,7 +3,7 @@ layout: post
 title: 'Cleaning Up a Dirty Commodore 64C and Building My Four-Drive C64 Setup'
 date: '2026-11-02'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: commodore-64c-cleanup-setup
 comments: yes
 categories: [commodore, c64]

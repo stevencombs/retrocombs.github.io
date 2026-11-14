@@ -3,7 +3,7 @@ layout: post
 title: 'What is the number one job skill requested by employers?'
 date: 2013-12-06 04:24:30 UTC
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: true
 category: higher-education
 explore: false

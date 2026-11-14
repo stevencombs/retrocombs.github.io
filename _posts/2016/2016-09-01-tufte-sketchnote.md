@@ -2,7 +2,7 @@
 layout: post
 title: 'SKETCHNOTE: Edward Tufte seminar'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 'September 1, 2016'
 comments: 'yes'
 categories:

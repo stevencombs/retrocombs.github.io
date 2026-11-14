@@ -3,7 +3,7 @@ layout: post
 title: 'I’ve found my iPad Markdown Editor!'
 date: '2013-01-15'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 category: apple
 image:
   path: 'https://2.bp.blogspot.com/-VRg3RIlqLfY/UPXRTgRpkmI/AAAAAAABFso/dO1eDulWZW4/s400/markdown+editors.png'

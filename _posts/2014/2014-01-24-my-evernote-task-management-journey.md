@@ -2,10 +2,10 @@
 layout: post
 title: 'My Evernote task management journey'
 author: Steven B. Combs, Ph.D.
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2015-01-24 12:04
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 category: productivity
 comments: yes
 redirect_from:

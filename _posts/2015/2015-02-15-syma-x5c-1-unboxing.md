@@ -2,7 +2,7 @@
 layout: post
 title: 'OPEN THE BOX: SYMA X5C1 Quadcopter Unboxing'
 author: Steven B. Combs, Ph.D.
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2015-02-15 18:38
 category: gadgets
 comments: yes

@@ -2,7 +2,7 @@
 layout: post
 title: 'An iOS user talks Android'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2016-04-30
 comments: yes
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: 'WiiM Ultra Review: Desk Audio With Edifier R1280DB Speakers'
 date: 2026-11-06 17:56:42 -0500
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: wiim-ultra
 comments: yes
 channel: tech

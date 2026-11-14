@@ -3,7 +3,7 @@ layout: post
 title: 'Atari 2600 My Play Watch: Unboxing and Setup at VCFMW 2025'
 date: '2026-12-06'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: atari-2600-my-play-watch
 channel: tech
 comments: yes

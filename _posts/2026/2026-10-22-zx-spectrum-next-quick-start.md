@@ -3,7 +3,7 @@ layout: post
 title: 'ZX Spectrum Next Quick Start for the KS3 Issue 5 Board'
 date: '2026-10-22'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: zx-spectrum-next-quick-start
 comments: yes
 categories: [zxspectrum]

@@ -3,7 +3,7 @@ layout: post
 title: 'The Case of the Freewrite Smart Typewriter: A Film Noir Unboxing'
 date: '2026-12-10'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: freewrite-smart-typewriter
 channel: tech
 comments: yes

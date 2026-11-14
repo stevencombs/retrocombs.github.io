@@ -3,7 +3,7 @@ layout: post
 title: 'Desktop backgrounds for 2015 MacBook'
 date: '2015-05-10 11:19'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 categories:
   - apple
 comments: true

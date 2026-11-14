@@ -2,7 +2,7 @@
 layout: "post"
 title: "Raspberry Pi presentation page now available"
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: "2016-06-18 13:21"
 comments: no
 categories:
@@ -24,7 +24,7 @@ A companion page is available that includes my electronic presentation and links
 
 [/raspberrypi.html](/raspberrypi.html)
 
-The page also includes a comments area if you have questions. If you would like me to present this information, or a modified version, to your group, [send me an email](mailto:steven.combs@gmail.com).
+The page also includes a comments area if you have questions. If you would like me to present this information, or a modified version, to your group, [send me an email](mailto:steven@retrocombs.com).
 
 Shout out and huge thanks to the [Columbus Area Chamber](http://www.columbusareachamber.com/) and the [Fish Tank Co-working Space](http://www.columbusareachamber.com/spotlight/fishtank) for inviting me to present.
 

@@ -3,7 +3,7 @@ layout: post
 title: '8BitDo Retro 18 Mechanical Numpad: The C64 Keyboard Gets a Sibling (and a Calculator)'
 date: '2026-11-05'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: 8bitdo-retro-mechanical-numpad-c64
 comments: yes
 channel: tech

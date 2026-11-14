@@ -3,7 +3,7 @@ layout: post
 title: 'Android TV Boxes I''ve Tested: vSeeBox, Colabox, Digibox, EVPad, SuperBOX and SeekBox Compared'
 date: '2026-12-02'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: android-tv-box-comparison
 channel: tech
 comments: yes

@@ -3,7 +3,7 @@ layout: post
 title: 'TrimUI Brick: The Handheld That Surprised Me Most'
 date: '2026-11-24'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: trimui-brick-first-look
 channel: tech
 comments: yes

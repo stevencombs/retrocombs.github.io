@@ -3,7 +3,7 @@ layout: post
 title: 'Install the MEGA≡65 Emulator on the Clockwork uConsole'
 date: 2023-10-14
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 permalink: mega65-uconsole
 categories: [mega65, handhelds]
@@ -130,6 +130,6 @@ Would you like to see more of the MEGA≡65 emulator running on the uConsole? Po
 
 Don't miss the retro-computing fun. <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other MEGA≡65 posts](https://www.retrocombs.com/mega65).
 
-Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if so inclined, please let others know about the blog using the hashtag #retroCombs.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can email me at [steven@retrocombs.com](mailto:steven@retrocombs.com). Thanks for reading and if so inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!

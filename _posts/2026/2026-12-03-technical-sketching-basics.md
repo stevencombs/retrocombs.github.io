@@ -3,7 +3,7 @@ layout: post
 title: 'Introduction to Technical Sketching: Tools, Line Quality, Straight Lines and Angles'
 date: '2026-12-03'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: technical-sketching-basics
 comments: yes
 categories: [art]

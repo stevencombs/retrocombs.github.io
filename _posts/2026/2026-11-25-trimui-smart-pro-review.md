@@ -3,7 +3,7 @@ layout: post
 title: 'The RETRO Truth About the TrimUI Smart Pro Handheld Console'
 date: '2026-11-25'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: trimui-smart-pro-review
 comments: yes
 categories: [handhelds]

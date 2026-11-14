@@ -3,7 +3,7 @@ layout: post
 title: 'Retro Computer Gift Guide: My 2023 List, Revisited for 2026'
 date: '2026-11-23'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 permalink: retro-computer-gift-guide-revisited
 comments: yes
 categories: [gadgets]

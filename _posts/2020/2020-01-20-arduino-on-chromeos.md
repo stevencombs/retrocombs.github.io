@@ -3,7 +3,7 @@ layout: post
 title: 'Install Arduino IDE on Chrome OS - now with device support!'
 date: 2020-01-20
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: 'yes'
 categories: 
   - arduino

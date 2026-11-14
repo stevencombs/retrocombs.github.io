@@ -2,7 +2,7 @@
 layout: post
 title: 'Evernote Task Management – Introduction'
 author: Steven B. Combs, Ph.D.
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 2015-02-23 17:26
 category: productivity
 comments: yes

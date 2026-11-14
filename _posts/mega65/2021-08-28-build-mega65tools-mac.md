@@ -4,7 +4,7 @@ title: 'Build MEGA65 Tools on Mac OS X (Intel and M1) | And an intro to the MEGA
 date: '2021-08-28'
 author: 'Steven B. Combs, Ph.D.'
 permalink: mega65-tools
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 comments: yes
 category: mega65
 tags:
@@ -411,6 +411,6 @@ Interacting with the community to write this post, and the writing itself, was a
 
 Don't miss the MEGA fun, <font color="red">SUBSCRIBE</font> to my [YouTube channel](https://www.youtube.com/stevencombs) and check out [my other MEGA65 related posts](/mega65).
 
-Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can also email me at [retrocombs@icloud.com](mailto:retrocombs@icloud.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
+Help make this content better! Leave your comments, corrections, additions, and thoughts in the comments below. You can also email me at [steven@retrocombs.com](mailto:steven@retrocombs.com). Thanks for reading and if you are inclined, please let others know about the blog using the hashtag #retroCombs.
 
 🕹️ retroCombs, OUT!

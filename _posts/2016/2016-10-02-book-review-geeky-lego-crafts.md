@@ -2,7 +2,7 @@
 layout: post
 title: 'BOOK REVIEW: Geeky LEGO Crafts'
 author: 'Steven B. Combs, Ph.D.'
-email: 'retrocombs@icloud.com'
+email: 'steven@retrocombs.com'
 date: 'October 2, 2016'
 comments: 'yes'
 categories:
