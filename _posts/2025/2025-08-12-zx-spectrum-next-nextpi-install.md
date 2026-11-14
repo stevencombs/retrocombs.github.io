@@ -165,6 +165,8 @@ The wiki's feature list goes further: TZX loading at "up-to x8 speed," text to s
 
 ## PREPARE THE NEXTPI SD CARD {#prepare-the-sd-card}
 
+> **Updated Nov 2026:** The [latest distro page](https://www.specnext.com/latestdistro/) now lists AlpineNext (`alpinenext-0.5.8-2026-11-09.xz`) and says to write it with Raspberry Pi Imager onto a 16GB card, for a Pi Zero or Pi Zero W, not a Pi Zero 2 W. Those steps are in the [Quick Start guide](/zx-spectrum-next-quick-start#add-a-raspberry-pi-zero). The video and the steps below are the NextPi2 card I wrote with balenaEtcher.
+
 Start the flash first. It runs while you solder.
 
 1. Download the latest NextPi2 release from the [official NextPi2 site](https://zx.xalior.com/NextPi2/). The current file is a 5.4GB `.tar.gz` (NextPi-1_93D) that holds the `.img` file and a `docs` folder with install notes. An `.md5` checksum file sits next to it on the download page.

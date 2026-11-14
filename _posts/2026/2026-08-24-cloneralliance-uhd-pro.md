@@ -116,6 +116,7 @@ These are the boxes I use when the source is analog. See [Better Boxes for VHS a
 - View Pro: [This Gadget Records TV Like Magic!](https://www.youtube.com/watch?v=nnl47mjZGM0)
 - View Pro short: [The #1 Video Capture Solution You Need!](https://www.youtube.com/watch?v=OxLZrzia2Bo)
 - vSeeBox Elite Ultra: [Is vSeeBox Elite Ultra Worth It in 2026? Full Unboxing!](https://youtu.be/7am4edtfZiA)
+- vSeeBox α1: [I Tested The vSeeBox α1 And It Doesn't Run Android TV!](https://www.youtube.com/watch?v=944c-XHpDtU) and the post [/vseebox-alpha1](/vseebox-alpha1)
 - Digibox D6 Max: [Digibox D6 Max Has a Feature Nobody is Talking About \| Full Unboxing](https://youtu.be/k542cIXHi48)
 
 ### Resources {#resources}

@@ -9,6 +9,9 @@ categories:
   - arduino
   - chromeos
 permalink: arduino-on-chromeos
+redirect_from:
+  - /chromeos/2015/01/04/program-arduino-on-chromebook-using-chromeduino.html
+  - /chrome/arduino/2015/01/04/program-arduino-on-chromebook-using-chromeduino.html
 tags:
   - howto
   - arduino
@@ -37,6 +40,8 @@ I was dubious about hardware connectivity; however, with the IDE installed I cou
 > **NOTE 3:** I used the Linux guide available at <https://www.arduino.cc/en/guide/linux> as a basis for these instructions.
 
 > **NOTE 4:** This post assumes you have the Crostini VM enabled on your device. If not, visit *Settings* / *Enable Linux beta*.
+
+> **Updated Nov 2026:** The 2015 ChromeDuino guide now redirects to this post. ChromeDuino was a Chrome app that compiled sketches on a remote server. The steps below are the Arduino IDE inside Chrome OS Linux. Notes from that older testing are in [Earlier: ChromeDuino on a Chromebook](#chromeduino-2015).
 
 Before I share the process, here's a video showing the Arduino IDE uploading code from my Pixel Slate to an Arduino Uno.
 
@@ -197,6 +202,46 @@ Let's see if the Arduino IDE has access to the USB device using the following st
 5. Select the _Port:_ menu and you will see one available device.
 
 Load or code a program, upload the program to the Arduino, and test!
+
+### A sketch to test the connection
+
+This is the blink sketch from my 2015 ChromeDuino testing, with the delay set to two seconds and a serial message at 115200. After the upload, open the Serial Monitor and set the baud rate to 115200. The onboard LED is on pin 13 on the Uno and the Diecimila.
+
+```c
+/*
+  Blink
+  Turns an LED on for two seconds, then off for two seconds, repeatedly.
+
+  This example code is in the public domain.
+*/
+
+// Pin 13 has an LED connected on most Arduino boards.
+int led = 13;
+
+void setup() {
+  pinMode(led, OUTPUT);
+  Serial.begin(115200);
+}
+
+void loop() {
+  Serial.println("Setting LED to HIGH");
+  digitalWrite(led, HIGH);
+  delay(2000);
+  Serial.println("Setting LED to LOW");
+  digitalWrite(led, LOW);
+  delay(2000);
+}
+```
+
+## Earlier: ChromeDuino on a Chromebook (2015) {#chromeduino-2015}
+
+Before Chrome OS could hand a USB device to Linux, I programmed an Arduino from a Chromebook with ChromeDuino 1.2, a Chrome Web Store app. That write-up is the page that now redirects here. A few results from it are still worth keeping, and the app is not the path I use now:
+
+- Connect the board before you open the programming tool. ChromeDuino only listed a serial port when the Arduino was already plugged in. The same order still matters for the Linux USB permission above: connect the board before you flip that toggle.
+- ChromeDuino sent the sketch to an online server to compile, then sent the result back for upload, so it needed an internet connection. The developer did not publish where that server was. I could not get its serial monitor to work on a Chromebook or a Mac. It had syntax highlighting and no code completion.
+- On that version, an Arduino Uno ran this blink sketch. An Arduino Diecimila showed TX and RX activity and never ran the program. I have not retested that Diecimila on the current IDE.
+- On a Mac, the same app showed more serial-port choices, because the Mac already had serial drivers, and it showed an upload status bar that the Chromebook build did not.
+- I had hoped Codebender, a web IDE, would work in the browser on a Chromebook. It did not. By the end of 2016 I noted that Codebender was gone, which left ChromeDuino as the Chromebook option in that year's [most-read posts](/personal/2016/12/31/2016-top-post.html).
 
 ## What this means
 

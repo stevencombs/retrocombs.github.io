@@ -21,7 +21,7 @@ tags:
   - airplay
   - av1
   - hevc
-description: "Hands-on with the vSeeBox α1: a locked Linux 4.9 media player with six apps, no app store, fast boot, 100 Mbit Ethernet, USB HEVC that works, and AV1 and casting that didn't on firmware 1.00.14."
+description: "Hands-on with the vSeeBox α1: six apps, no store, fast boot, 100 Mbit Ethernet, USB playback, and casting on firmware 1.00.14."
 image:
   path: /images/posts/2026-11-05-vseebox-alpha1.jpg
   width: 1280
@@ -53,6 +53,7 @@ vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux me
   - [Video Mention Links](#video-mention-links)
   - [Accessories Used in Testing](#accessories-used-in-testing)
   - [My Related Videos](#my-related-videos)
+  - [Related posts](#related-posts)
   - [Resources](#resources)
 - [SUPPORT THE BLOG AND CHANNEL](#support-the-blog-and-channel)
 - [COMPANION YOUTUBE VIDEO](#companion-youtube-video)
@@ -105,6 +106,13 @@ vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux me
 - ClonerAlliance UHD Pro: [Archive, Capture, and Stream with the ClonerAlliance UHD Pro](https://www.youtube.com/watch?v=fE8jXDB06Fc) and the post [/cloneralliance-uhd-pro](/cloneralliance-uhd-pro)
 - vSeeBox Elite Ultra: [Is vSeeBox Elite Ultra Worth It in 2026? Full Unboxing!](https://youtu.be/7am4edtfZiA)
 - Digibox D6 Max: [Digibox D6 Max Has a Feature Nobody is Talking About \| Full Unboxing](https://youtu.be/k542cIXHi48)
+
+### Related posts {#related-posts}
+
+- [Android TV boxes I've tested](/android-tv-box-comparison) collects the Android TV OS boxes, including the other vSeeBox models.
+- [Chromecast with Google TV](/chromecast-googletv-unbox) is the 2020 Google streamer I was using before these boxes.
+- [Xfinity Flex unboxing](/xfinity-flex-unboxing) and [Xfinity Flex first use](/xfinity-flex-first-use) are the earlier locked-down streamer, with a curated app list and no store.
+- [ClonerAlliance UHD Pro](/cloneralliance-uhd-pro) is the HDMI recorder I put in front of living-room boxes.
 
 ### Resources {#resources}
 
