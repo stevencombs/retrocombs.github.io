@@ -41,7 +41,7 @@ vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux me
    score="3.5"
    price="$319"
    where="at vseeboxstream.com (as of Nov 5, 2026; $30 off through my link)"
-   summary="A locked Linux appliance: fast boot, six apps, no store. Great for someone who just wants to turn it on. Skip it if you want to install anything, cast to it, or play AV1 from USB on firmware 1.00.14."
+   summary="A locked Linux appliance: fast boot, six apps, no store. Great for someone who just wants to turn it on. Skip it if you want to install anything, cast to it, or play AV1 from USB on firmware 1.00.14. Includes vSeeBox's HEAT Live and HEAT VOD apps; see the warning below."
    note="Rated on firmware 1.00.14 (build dated 2026-09-29). Casting and AV1 may change with a later update."
    product="vSeeBox α1"
    channel="tech" %}
@@ -181,9 +181,20 @@ System Information later confirmed **SW version 1.00.14** and a build timestamp 
 
 ## SIX APPS, NO STORE {#six-apps-no-store}
 
-The home screen is the product. You get **YouTube**, a **media player**, **Weather**, **Speed Test**, plus vSeeBox's own **preloaded live app** and **preloaded on-demand app**. That is the whole launcher. There is no app store and no path I found to install anything else.
+The home screen is the product. You get **YouTube**, a **media player**, **Weather**, **Speed Test**, plus vSeeBox's own two apps, **HEAT Live** and **HEAT VOD**. That is the whole launcher. There is no app store and no path I found to install anything else.
 
-That is not a bug. That is what walking away from Android TV OS looks like on this box: no store, no sideloading story, nothing to manage.
+> **Heads up:** HEAT Live and HEAT VOD are vSeeBox's own streaming services, not licensed apps from the networks or studios whose content they carry. I can't verify the licensing behind them, and whether it is legal to use them depends on where you live. You are responsible for what you watch. I cover them here because they are a big part of why people buy this box, not as an endorsement. If that makes you uneasy, the α1 still works as a simple YouTube and USB media player.
+{: .warning}
+
+### HEAT Live
+
+HEAT Live is the live TV side: a channel guide you flip through like an old cable box, with channels grouped by category. A third-party review counted about 1,890 channels on the α1, slightly fewer than on the Android vSeeBox models. When HEAT Live is running, the box's front display shows the channel number (more on that [below](#the-front-panel-channel-number)).
+
+### HEAT VOD
+
+HEAT VOD is the on-demand side: a library of movies and shows you browse and play whenever you want, with no schedule. The Android models also offer an extra on-demand app that the α1 does not include.
+
+That is not a bug. That is what walking away from Android TV OS looks like on this box: two streaming apps, a few utilities, no store, no sideloading story, nothing to manage.
 
 > **Tip:** YouTube wants a sign-in. On a locked living-room box, use a secondary Google account, not your main personal one.
 {: .tip}
@@ -206,7 +217,7 @@ Text entry is an on-screen keyboard driven by the remote. It works. It is not fa
 
 ## THE FRONT-PANEL CHANNEL NUMBER {#the-front-panel-channel-number}
 
-When the preloaded live app is running, the front-panel display shows the **channel number** as you flip channels — cable-box energy from the 90s. Because the number is on the box, not as a banner on the TV, you can glance over without covering the picture. Rapid presses kept up on my unit. I did not expect to want that on a streaming appliance. I kind of do.
+When HEAT Live is running, the front-panel display shows the **channel number** as you flip channels — cable-box energy from the 90s. Because the number is on the box, not as a banner on the TV, you can glance over without covering the picture. Rapid presses kept up on my unit. I did not expect to want that on a streaming appliance. I kind of do.
 
 ## SYSTEM INFORMATION THAT WON'T NAME THE HARDWARE {#system-information}
 
