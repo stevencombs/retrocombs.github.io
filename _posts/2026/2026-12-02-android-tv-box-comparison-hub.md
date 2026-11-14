@@ -31,7 +31,7 @@ kind: companion
 
 You all really seem to enjoy my Android TV box videos. Between November 2025 and October 2026, I unboxed and set up 11 of them on retroCombs Tech (@retroCombs-tech): five from vSeeBox, two from Colabox, and one each from Digibox, [EVPad](https://www.evpadpro.com/?DIST=T09OGg%3D%3D), SuperBOX and SeekBox. That's a lot of remotes, power bricks and HDMI cables. I could start an HDMI cable store.
 
-This post puts all 11 in one place: what each box says on the packaging, what I saw on screen, and who each one is for. Each section links to the full video.
+This post puts all 11 in one place: what each box says on the packaging, what I saw on screen, and who each one is for. Each section links to the full video. The [vSeeBox α1](/vseebox-alpha1) is the one that isn't in that set. It runs a locked Linux launcher instead of Android TV OS, so it has its own review.
 
 ![vSeeBox V6 Plus retail box](/images/posts/2026-12-02-android-tv-box-comparison.jpg)
 

@@ -71,3 +71,5 @@ Now that the box is open, I look forward to a FIRST USE video where I will conne
 At first glance, the only real advantage of this device seems to be in the free access to the streaming Peacock (NBC) premium channel. Not sure if this membership extends to other devices, but will try and find out for the next post.
 
 Are you a Xfinity Flex user? What do you think about the device? Drop a comment and let me know. I’d also love to read about any hacks and exploits users have found before I record the FIRST USE video.
+
+Later streaming-box notes on the site: the [vSeeBox α1](/vseebox-alpha1) is a Linux player rather than Android TV, and the [Android TV boxes I've tested](/android-tv-box-comparison) gathers the Android TV OS boxes.
