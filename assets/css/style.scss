@@ -1016,7 +1016,7 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
 }
 
 /* From the Archives tile. Other .post cards keep the white face and left accent. */
-.post.archive-tile{position:relative;overflow:hidden;background:var(--rc-cream);border:5px solid var(--rc-red)}
+.post.archive-tile{position:relative;display:flex;flex-direction:column;overflow:hidden;background:var(--rc-cream);border:5px solid var(--rc-red)}
 .post.archive-tile[hidden]{display:none}
 .archive-tile .archive-ribbon{position:absolute;z-index:1;top:0;right:0;width:12.8em;height:12.8em;margin:0;overflow:hidden;pointer-events:none;background:transparent;color:inherit;font-size:10px}
 /* The band is longer than the clip square and rotated about the same center as before.
@@ -1032,7 +1032,16 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
 .archive-tile h4{padding-right:8px}
 .archive-tile h4 a{color:var(--rc-ink)}
 .archive-tile .archive-excerpt{color:var(--rc-slate)}
-.archive-tile .pill{color:var(--rc-ink)}
+.archive-tile .pill{align-self:flex-start;color:var(--rc-ink)}
+.archive-tile .pill[hidden]{display:none}
+.archive-tile .archive-nav{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:auto;padding-top:12px}
+.archive-tile .archive-nav button{display:inline-flex;align-items:center;justify-content:center;flex:none;width:44px;height:44px;min-width:44px;min-height:44px;padding:0;border:2px solid var(--rc-charcoal);border-radius:8px;background:var(--rc-beige);color:var(--rc-ink);font-family:var(--font-sans);line-height:0;cursor:pointer;touch-action:manipulation}
+.archive-tile .archive-nav button svg{display:block;width:22px;height:22px}
+.archive-tile .archive-nav button:focus-visible{outline:3px solid var(--st-blue);outline-offset:2px}
+@media (hover:hover){
+  .archive-tile .archive-nav button:hover:not(:disabled){border-color:var(--rc-red);background:var(--rc-red);color:#fff}
+}
+.archive-tile .archive-nav button:disabled{opacity:.38;cursor:default}
 @media (max-width:760px){
   .archive-year{font-size:42px}
   .archive-tile .archive-ribbon{font-size:9px}

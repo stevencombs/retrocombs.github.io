@@ -8,12 +8,23 @@
   if (!src) return;
 
   var photo = tile.querySelector(".archive-photo");
+  var prevBtn = tile.querySelector(".archive-prev");
+  var nextBtn = tile.querySelector(".archive-next");
+  var status = tile.querySelector("[data-archive-status]");
+  var session = [];
+  var index = 0;
+  var warmed = {};
+
   if (photo) {
     photo.addEventListener("error", function () {
+      if (!photo.getAttribute("src")) return;
       photo.hidden = true;
       photo.removeAttribute("src");
     });
   }
+
+  if (prevBtn) prevBtn.addEventListener("click", function () { step(-1); });
+  if (nextBtn) nextBtn.addEventListener("click", function () { step(1); });
 
   fetch(src, { credentials: "same-origin" })
     .then(function (res) {
@@ -39,11 +50,78 @@
         eligible.push(post);
       }
       if (!eligible.length) return;
-      fill(tile, eligible[Math.floor(Math.random() * eligible.length)]);
+      var featured = eligible[Math.floor(Math.random() * eligible.length)];
+      var built = buildSession(eligible, featured);
+      session = built.posts;
+      index = built.index;
+      fill(tile, session[index]);
+      syncButtons();
+      preloadAround();
       balanceRows(row1, row2);
       tile.hidden = false;
     })
     .catch(function () {});
+
+  function step(delta) {
+    var next = index + delta;
+    if (next < 0 || next >= session.length) return;
+    index = next;
+    fill(tile, session[index]);
+    syncButtons();
+    preloadAround();
+    if (status) status.textContent = session[index].title || "";
+  }
+
+  function syncButtons() {
+    if (prevBtn) prevBtn.disabled = index <= 0;
+    if (nextBtn) nextBtn.disabled = index >= session.length - 1;
+  }
+
+  function preloadAround() {
+    preload(session[index - 1]);
+    preload(session[index + 1]);
+  }
+
+  function preload(post) {
+    if (!post || !post.image || warmed[post.image]) return;
+    warmed[post.image] = true;
+    var img = new Image();
+    img.decoding = "async";
+    img.src = post.image;
+  }
+
+  // Featured post stays the one random pick. Up to five other posts sit on
+  // each side. A shorter archive uses whatever distinct posts are left.
+  function buildSession(eligible, featured) {
+    var pool = [];
+    var used = {};
+    used[featured.url] = true;
+    for (var i = 0; i < eligible.length; i++) {
+      var post = eligible[i];
+      if (!post.url || used[post.url]) continue;
+      used[post.url] = true;
+      pool.push(post);
+    }
+    shuffle(pool);
+    var leftCount = Math.min(5, Math.floor(pool.length / 2));
+    var rightCount = Math.min(5, pool.length - leftCount);
+    var posts = [];
+    for (var L = leftCount - 1; L >= 0; L--) posts.push(pool[L]);
+    var at = posts.length;
+    posts.push(featured);
+    for (var R = 0; R < rightCount; R++) posts.push(pool[leftCount + R]);
+    return { posts: posts, index: at };
+  }
+
+  function shuffle(list) {
+    for (var i = list.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var tmp = list[i];
+      list[i] = list[j];
+      list[j] = tmp;
+    }
+    return list;
+  }
 
   function olderThan(iso, cutoff) {
     var parts = String(iso).slice(0, 10).split("-");
@@ -73,10 +151,17 @@
     }
     var excerpt = node.querySelector(".archive-excerpt");
     if (excerpt) excerpt.textContent = post.excerpt || "";
-    if (photo && post.image) {
-      photo.alt = post.image_alt || post.title;
-      photo.src = post.image;
-      photo.hidden = false;
+    var img = node.querySelector(".archive-photo");
+    if (img) {
+      if (post.image) {
+        img.alt = post.image_alt || post.title || "";
+        if (img.getAttribute("src") !== post.image) img.src = post.image;
+        img.hidden = false;
+      } else {
+        img.hidden = true;
+        img.alt = "";
+        img.removeAttribute("src");
+      }
     }
     var pill = node.querySelector(".pill");
     if (!pill) return;
@@ -88,6 +173,10 @@
       pill.href = "/categories";
       pill.textContent = String(post.categories[0]);
       pill.hidden = false;
+    } else {
+      pill.hidden = true;
+      pill.removeAttribute("href");
+      pill.textContent = "";
     }
   }
 
