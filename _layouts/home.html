@@ -65,6 +65,7 @@ layout: default
     <div class="posts" id="blog-row-1">
       <article class="post archive-tile" id="archive-tile" hidden data-src="{{ "/archive-posts.json" | relative_url }}">
         <p class="archive-ribbon"><span>From the Archives</span></p>
+        <div class="archive-body">
         <div class="archive-mark">
           <svg class="archive-icon" viewBox="0 0 64 64" aria-hidden="true" focusable="false">
             <rect x="8" y="6" width="48" height="52" rx="3" fill="var(--rc-charcoal)"/>
@@ -77,11 +78,16 @@ layout: default
           </svg>
           <span class="archive-year" aria-hidden="true"></span>
         </div>
-        <img class="archive-photo" alt="" hidden>
+        <div class="archive-frame">
+          <img class="archive-photo" alt="" hidden>
+        </div>
         <time datetime=""></time>
         <h4><a href=""></a></h4>
         <p class="archive-excerpt"></p>
-        <a class="pill" href="" hidden></a>
+        <div class="archive-topic">
+          <a class="pill" href="" hidden></a>
+        </div>
+        </div>
         <div class="archive-nav">
           <button type="button" class="archive-prev" aria-label="Previous archive post" disabled>
             <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">

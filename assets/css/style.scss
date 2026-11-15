@@ -1023,18 +1023,26 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
    Both ends cross the top and right edges; overflow on the ribbon and the tile
    (including the rounded border) hides them so no square tip is left in view. */
 .archive-tile .archive-ribbon span{position:absolute;top:3.4em;right:-5em;display:block;width:20em;margin:0;padding:.5em 0;background:var(--rc-red);color:#fff;font-size:1em;font-weight:800;letter-spacing:.02em;line-height:1.2;text-align:center;text-transform:uppercase;white-space:nowrap;transform:rotate(45deg)}
-.archive-mark{display:flex;align-items:center;gap:10px;min-height:48px;margin:0 72px 8px 0}
+/* The body is a fixed height: year row, 88px photo frame (kept when there is
+   no photo), one date line, three title lines, the excerpt, and one topic line.
+   Excerpt is six lines on the desktop grid and four on one column, which is
+   where a 160-character blurb wraps. Short titles and excerpts leave the spare
+   room above the arrows, so the arrows and the tile stay put. */
+.archive-body{flex:none;overflow:hidden;height:calc(48px + 8px + 88px + 8px + (12.5px * 1.55) + 6px + (16px * 1.35 * 3) + 8px + (14px * 1.55 * 6) + 10px + (11.5px * 1.55 + 4px))}
+.archive-mark{display:flex;align-items:center;gap:10px;height:48px;margin:0 72px 8px 0;overflow:hidden}
 .archive-icon{flex:none;width:46px;height:46px}
-.archive-photo{display:block;width:100%;height:88px;margin:0 0 8px;object-fit:cover;border:2px solid var(--rc-beige);background:var(--rc-charcoal)}
+.archive-frame{height:88px;margin:0 0 8px;overflow:hidden;border:2px solid var(--rc-beige);background:var(--rc-charcoal)}
+.archive-photo{display:block;width:100%;height:100%;margin:0;object-fit:cover;border:0;background:transparent}
 .archive-photo[hidden]{display:none}
-.archive-year{font-family:var(--font-retro);font-size:48px;font-weight:400;line-height:.85;color:var(--rc-charcoal);letter-spacing:0}
-.archive-tile time{color:var(--rc-charcoal)}
-.archive-tile h4{padding-right:8px}
-.archive-tile h4 a{color:var(--rc-ink)}
-.archive-tile .archive-excerpt{color:var(--rc-slate)}
-.archive-tile .pill{align-self:flex-start;color:var(--rc-ink)}
+.archive-year{font-family:var(--font-retro);font-size:48px;font-weight:400;line-height:.85;color:var(--rc-charcoal);letter-spacing:0;white-space:nowrap}
+.archive-tile time{display:block;height:calc(12.5px * 1.55);overflow:hidden;color:var(--rc-charcoal);white-space:nowrap}
+.archive-tile h4{max-height:calc(1.35em * 3);margin:6px 0 8px;padding-right:8px;overflow:hidden}
+.archive-tile h4 a{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;line-clamp:3;overflow:hidden;overflow-wrap:break-word;color:var(--rc-ink)}
+.archive-tile .archive-excerpt{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:6;line-clamp:6;max-height:calc(1.55em * 6);overflow:hidden;overflow-wrap:break-word;line-height:1.55;color:var(--rc-slate)}
+.archive-tile .archive-topic{height:calc(11.5px * 1.55 + 4px);margin:10px 0 0;overflow:hidden}
+.archive-tile .pill{display:inline-block;max-width:100%;margin-top:0;overflow:hidden;color:var(--rc-ink);text-overflow:ellipsis;white-space:nowrap;vertical-align:top}
 .archive-tile .pill[hidden]{display:none}
-.archive-tile .archive-nav{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:auto;padding-top:12px}
+.archive-tile .archive-nav{display:flex;justify-content:space-between;align-items:center;gap:12px;flex:none;height:calc(12px + 44px);margin-top:0;padding-top:12px}
 .archive-tile .archive-nav button{display:inline-flex;align-items:center;justify-content:center;flex:none;width:44px;height:44px;min-width:44px;min-height:44px;padding:0;border:2px solid var(--rc-charcoal);border-radius:8px;background:var(--rc-beige);color:var(--rc-ink);font-family:var(--font-sans);line-height:0;cursor:pointer;touch-action:manipulation}
 .archive-tile .archive-nav button svg{display:block;width:22px;height:22px}
 .archive-tile .archive-nav button:focus-visible{outline:3px solid var(--st-blue);outline-offset:2px}
@@ -1045,6 +1053,8 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
 @media (max-width:760px){
   .archive-year{font-size:42px}
   .archive-tile .archive-ribbon{font-size:9px}
+  .archive-body{height:calc(48px + 8px + 88px + 8px + (12.5px * 1.55) + 6px + (16px * 1.35 * 3) + 8px + (14px * 1.55 * 4) + 10px + (11.5px * 1.55 + 4px))}
+  .archive-tile .archive-excerpt{max-height:calc(1.55em * 4);-webkit-line-clamp:4;line-clamp:4}
 }
 
 /* MEGA65 resource page, User's Guide series, and Plus/4 resource page.
