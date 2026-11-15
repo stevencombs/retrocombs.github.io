@@ -82,6 +82,19 @@ layout: default
         <h4><a href=""></a></h4>
         <p class="archive-excerpt"></p>
         <a class="pill" href="" hidden></a>
+        <div class="archive-nav">
+          <button type="button" class="archive-prev" aria-label="Previous archive post" disabled>
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M14.5 6.5 9 12l5.5 5.5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+          <button type="button" class="archive-next" aria-label="Next archive post" disabled>
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M9.5 6.5 15 12l-5.5 5.5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+        </div>
+        <p class="sr-only" data-archive-status aria-live="polite"></p>
       </article>
       {% for post in site.posts limit:8 %}
       {% if forloop.index == 5 %}
