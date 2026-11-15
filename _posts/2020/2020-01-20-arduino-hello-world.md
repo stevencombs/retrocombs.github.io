@@ -94,7 +94,7 @@ Below is a Fritzing image that serves as instructions for project assembly. Watc
 
 Once the components are placed and wired, code the project in the [Arduino IDE](https://www.arduino.cc/en/main/software). Below is the code for this project. Do not copy and paste. Type the code and include your own comments (`//`) to explain each line. These comments will remind you later what each line accomplishes.
 
-<script src="https://gist.github.com/stevencombs/b988f757c5ffd8cc99d3177b56b62118.js"></script>
+<script src="https://gist.github.com/stevencombs/b988f757c5ffd8cc99d3177b56b62118.js?file=toggle-led-pushbutton.ino"></script>
 
 [Download the code](/images/posts/2020-01-20-adruino-switch-led/mega-toggled-led.ino).
 
