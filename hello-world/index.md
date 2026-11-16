@@ -423,7 +423,7 @@ console.log("Hello, World!");
 
 **About the language:** John McCarthy designed Lisp at MIT in 1958. It was built for symbolic computation and early artificial intelligence work. The first implementation ran on an IBM 704.
 
-**About the machine:** DEC introduced the PDP-10 in 1967. It is a 36-bit timesharing computer. A lot of Lisp work in the 1970s ran on PDP-10s.
+**About the machine:** DEC announced the PDP-10 in 1966. It is a 36-bit timesharing computer. A lot of Lisp work in the 1970s ran on PDP-10s.
 
 **Comments:** This is Common Lisp. `write-line` prints the text and a newline, without the quotes that `print` would add. Save it as `hello.lisp` and run `sbcl --script hello.lisp`.
 
@@ -530,7 +530,7 @@ START:  RESET
 
 **About the language:** MACRO-10 is DEC's assembler for the PDP-10. Programs written in it ran under TOPS-10, which this listing does. The computer stores data in 36-bit words.
 
-**About the machine:** DEC introduced the PDP-10 in 1967. The first processor in the line was the KA10. Several people could use one machine from their own terminals.
+**About the machine:** DEC announced the PDP-10 in 1966. The first processor in the line was the KA10. Several people could use one machine from their own terminals.
 
 **Comments:** MACRO-10 under TOPS-10. `SEARCH UUOSYM` makes the monitor-call names available. `OUTSTR` types the ASCIZ string, which includes a carriage return and line feed before the null, and `MONRT.` returns to the monitor. Save it as `HELLO.MAC`, then `.COMPILE HELLO.MAC`, `.LOAD HELLO`, and `.RUN`.
 
