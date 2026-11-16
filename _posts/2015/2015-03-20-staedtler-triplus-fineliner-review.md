@@ -48,7 +48,7 @@ The next pens I chose were the [Sanford Sharpie Fine Point Pen Stylo, Assorted C
 ![][image-2]
 A red Sanford Sharpie Fine Point Pen Stylo
 
-I decided it was time to go to the experts. I’m a new listener to the [PenAddict podcast][4]. During a recent episode, the hosts, Brad Dowdy and Myke Hurley mentioned their Slack channel. I sent a tweet to join over to [Brad Dowdy][5]. Within a few hours, I was a Slack PenAddict team member. I posted my need to the online community and received several recommendations.
+I decided it was time to go to the experts. I’m a new listener to the [PenAddict podcast][4]. During a recent episode, the hosts, Brad Dowdy and Myke Hurley mentioned their Slack channel. I sent a tweet to join over to Brad Dowdy. Within a few hours, I was a Slack PenAddict team member. I posted my need to the online community and received several recommendations.
 
 The pen set that caught my attention was the [Staedtler Triplus Fineliner][6] pack of 20. Admittedly, the first thing that caught my eye was the included flat case (you can see a complete set of unboxing images at the end of this post); however, upon reading several reviews, it was obvious I should make the $25 purchase and give them a try.
 
@@ -137,7 +137,6 @@ Have any questions or comments? Drop them in the comments below. I am also inter
 [2]:	http://www.amazon.com/gp/product/8883701151/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=8883701151&linkCode=as2&tag=stevenccom-20&linkId=JHUFGM4S5JKSGLYZ
 [3]:	http://www.amazon.com/gp/product/B005LU2QAQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005LU2QAQ&linkCode=as2&tag=stevenccom-20&linkId=UHQOVLE6PZS6CN32
 [4]:	http://5by5.tv/penaddict
-[5]:	https://twitter.com/dowdyism
 [6]:	http://www.amazon.com/gp/product/B0007OEE7E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0007OEE7E&linkCode=as2&tag=stevenccom-20&linkId=OJGJASM2USUU3LHZ
 [7]:	http://www.amazon.com/gp/product/B0007OEE7E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0007OEE7E&linkCode=as2&tag=stevenccom-20&linkId=OJGJASM2USUU3LHZ
 [8]:	http://www.amazon.com/gp/product/B001E6A9M8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E6A9M8&linkCode=as2&tag=stevenccom-20&linkId=5JXJPJNC37I5EJFL

@@ -228,6 +228,8 @@ article.card .rc-review{max-width:none}
 .prose li>ul,.prose li>ol{margin:.3em 0 .3em}
 .prose ol li::marker{font-family:"JetBrains Mono",monospace;font-weight:600;color:#7a7465}
 .prose img{max-width:100%;height:auto;border-radius:10px;display:block}
+.prose figure.hw-machine{margin:0 0 1.1em}
+.prose figure.hw-machine figcaption{margin-top:6px;font-size:13px;line-height:1.4;color:var(--rc-slate)}
 /* A content image narrower than the column sits in the middle of it.
    max-width: 100% is unchanged, so an image that fills the column has
    no free space and these auto margins resolve to zero.

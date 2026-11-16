@@ -114,9 +114,7 @@ The Pixel does not have this problem. A double push of the power button and the 
 
 I took this shot in a rush and afterwards, was surprised at the quality of the image. The only touchup was to add the vignette shadow around the image.
 
-Video is impressive. As you will see, in this video also taken during Halloween 2016, software based video stabilization is good. I've never been able to shoot video this smooth from a hand-held camera.
-
-{% include youtube.html id="sb6APIGDfIk" title="Three week thoughts on the Google Pixel" %}
+Video is impressive. In a clip also taken during Halloween 2016, software based video stabilization is good. I've never been able to shoot video this smooth from a hand-held camera.
 
 > Interestingly, when I uploaded the video to YouTube, it announced that my video was shaky and offered to stabilize it for me!
 

@@ -17,9 +17,7 @@ kind: how-to
 
 The Lovely Accountant and I are done paying $150/month for mobile phone service on two iPhones. We both have an iPhone 4s and we are ready for an upgrade to the phones and the service. After some research and use by other family members, we chose to go the [Virgin Mobile](https://refer.virginmobileusa.com/3wVpu2Z) route. Part of the switch will involve an upgrade from our iPhone 4s to iPhone 5s.
 
-I've written about the [iPhone 5s](/apple/2014/08/25/upgrade-from-iphone-4s-to-5s.html), so in this post I will share why we chose to switch from Verizon to [Virgin Mobile](https://refer.virginmobileusa.com/3wVpu2Z). I also provide some concerns you must consider should you want to join us in the mobile phone money saving revolution as described in the video below hosted by Sir Richard Branson.
-
-{% include youtube.html id="0spDpIQND9I" title="HOWTO: Save money with Virgin Mobile" %}
+I've written about the [iPhone 5s](/apple/2014/08/25/upgrade-from-iphone-4s-to-5s.html), so in this post I will share why we chose to switch from Verizon to [Virgin Mobile](https://refer.virginmobileusa.com/3wVpu2Z). I also provide some concerns you must consider should you want to join us in the mobile phone money saving revolution.
 
 The choice seems obvious. So why isn't everyone using Virgin Mobile? Two main reasons, the initial cost of ownership and the service coverage. I'll first discuss the initial cost and then demonstrate how much money I will save over a two year period. Finally, I'll dive into a discussion of the service and a few additional features and tips to maximize your value.
 
