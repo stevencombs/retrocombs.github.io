@@ -15,6 +15,14 @@ There are numerous programming languages here, along with those four machines. T
 
 Use the list below to jump to an example:
 
+<div class="hw-sort">
+<p id="hw-sort-label" class="hw-sort-label">List order</p>
+<div class="hw-sort-options" role="radiogroup" aria-labelledby="hw-sort-label">
+<label class="hw-sort-option"><input type="radio" name="hw-order" value="alpha" checked><span>Alphabetical</span></label>
+<label class="hw-sort-option"><input type="radio" name="hw-order" value="year"><span>By year</span></label>
+</div>
+</div>
+
 * [6502 assembly](#6502-assembly)
 * [Ada](#ada)
 * [ALGOL 68](#algol-68)
@@ -40,11 +48,16 @@ Use the list below to jump to an example:
 * [Processing](#processing)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Swift](#swift)
 * [TI BASIC](#ti-basic)
 * [ZX Spectrum BASIC](#zx-spectrum-basic)
+{: #hw-jump .hw-jump}
+
+<div class="hw-entry" data-name="6502 assembly" data-year="1975" markdown="1">
 
 ## 6502 assembly
+{: id="6502-assembly"}
 
 <figure class="hw-machine">
 <img src="/images/hello-world/c64.jpg" alt="A Commodore 64 home computer." width="1200" height="760" loading="lazy">
@@ -84,6 +97,9 @@ msg
 **About the machine:** Commodore released the Commodore 64 in 1982. Its processor is the 6510, a close relative of the 6502. The machine is known for the SID sound chip and the VIC-II video chip.
 
 **Comments:** This is a Commodore 64 program. The bytes at `$0801` are a one-line BASIC program, `10 SYS 2064`, so `RUN` starts the routine. Save it as `hello.asm` and assemble with `acme hello.asm`, which writes `hello.prg`. Then `LOAD "HELLO.PRG",8` and `RUN`. The text is uppercase because those PETSCII codes match ASCII.
+</div>
+
+<div class="hw-entry" data-name="Ada" data-year="1983" markdown="1">
 
 ## Ada
 
@@ -99,6 +115,9 @@ end Hello;
 **About the language:** Ada was designed for the U.S. Department of Defense. Jean Ichbiah led the team at CII Honeywell Bull, and the first standard was published in 1983. The language is named for Ada Lovelace.
 
 **Comments:** Save this as `hello.adb`. The file name has to match the procedure name. `gnatmake hello.adb` compiles it, and `./hello` runs it. `Put_Line` writes the text and a newline.
+</div>
+
+<div class="hw-entry" data-name="ALGOL 68" data-year="1968" markdown="1">
 
 ## ALGOL 68
 
@@ -111,6 +130,9 @@ END
 **About the language:** ALGOL 68 came from IFIP Working Group 2.1. Adriaan van Wijngaarden edited the report, which is from 1968. It was meant to follow ALGOL 60, and it was known for a definition that was exact and very hard to read.
 
 **Comments:** ALGOL 60 never defined a standard way to print text, so this is ALGOL 68. `print` writes the string. Algol 68 Genie runs the file with `a68g hello.a68`.
+</div>
+
+<div class="hw-entry" data-name="Altair 8800" data-year="1975" markdown="1">
 
 ## Altair 8800
 
@@ -189,6 +211,9 @@ A switch up is a 1 and a switch down is a 0. Read each octal digit as a group of
 
 **Comments:** The first two `OUT` instructions reset the 6850 and then select 8 data bits, no parity, 1 stop bit, and a clock divided by 16, which is the usual 88-2SIO strap. Before each character the program reads the status port and waits until bit 1 is set. That bit is TDRE, transmit data register empty. The message ends with a carriage return (015), a line feed (012), and a 000 that stops the loop.
 
+</div>
+
+<div class="hw-entry" data-name="Applescript" data-year="1993" markdown="1">
 
 ## Applescript
 
@@ -206,6 +231,9 @@ display dialog "Hello, World!"
 **About the machine:** Apple introduced the Macintosh 128K in January 1984. It was the first Macintosh, with a built-in black-and-white screen, a mouse, and 128 KB of memory. The processor is a Motorola 68000.
 
 **Comments:** AppleScript ships with macOS. Paste this into Script Editor and press Run, or save it and run `osascript hello.scpt`. `display dialog` opens a small window with the message and an OK button.
+</div>
+
+<div class="hw-entry" data-name="Applesoft BASIC" data-year="1979" markdown="1">
 
 ## Applesoft BASIC
 
@@ -223,6 +251,9 @@ display dialog "Hello, World!"
 **About the machine:** Apple released the Apple II Plus in 1979. It is an Apple II with Applesoft BASIC in ROM. The original Apple II, from 1977, started up in Wozniak's Integer BASIC.
 
 **Comments:** Type this at the `]` prompt on an Apple II and enter `RUN`. Applesoft programs use line numbers, and the original Apple II character set is uppercase.
+</div>
+
+<div class="hw-entry" data-name="Arduino" data-year="2005" markdown="1">
 
 ## Arduino
 
@@ -246,6 +277,9 @@ void loop() {
 **About the machine:** Arduino released the Uno in 2010. The name means "one" in Italian, and this became the board people mean when they say Arduino. It uses an ATmega328, and you program it over a USB cable.
 
 **Comments:** This is an Arduino sketch, written in C++. Upload it from the Arduino IDE and open the Serial Monitor at 9600 baud. Many boards reset when the monitor opens, so `setup` runs again and the line shows up. `loop` is empty because the greeting only needs to print once.
+</div>
+
+<div class="hw-entry" data-name="BASIC 65" data-year="2022" markdown="1">
 
 ## BASIC 65
 
@@ -263,6 +297,9 @@ void loop() {
 **About the machine:** The MEGA65 is a new computer based on the unreleased Commodore 65. Paul Gardner-Stephen started the project. It has a Commodore-style keyboard, a built-in 3.5-inch floppy drive, and an HDMI video output.
 
 **Comments:** Type this at the `READY` prompt on a MEGA65 and enter `RUN`. BASIC 65 is the MEGA65's Commodore-style BASIC. A saved program uses line numbers, and this uppercase line matches the startup screen.
+</div>
+
+<div class="hw-entry" data-name="BBC BASIC" data-year="1981" markdown="1">
 
 ## BBC BASIC
 
@@ -280,6 +317,9 @@ void loop() {
 **About the machine:** Acorn released the BBC Micro in December 1981 for the BBC Computer Literacy Project. The processor is a 6502 running at 2 MHz. The Model B includes 32 KB of RAM.
 
 **Comments:** Type this on a BBC Micro and enter `RUN`. The line number stores it as a program. `PRINT` writes the text and moves to the next line.
+</div>
+
+<div class="hw-entry" data-name="C" data-year="1972" markdown="1">
 
 ## C
 
@@ -302,6 +342,9 @@ int main(void) {
 **About the machine:** DEC introduced the PDP-11/20 in 1970. It was the first PDP-11, a 16-bit minicomputer. C was written on this line of machines.
 
 **Comments:** Save this as `hello.c`. `cc hello.c -o hello` compiles it, and `./hello` runs it. `\n` is the newline. `main` is where the program starts, and `return 0` tells the system it finished cleanly.
+</div>
+
+<div class="hw-entry" data-name="COBOL" data-year="1960" markdown="1">
 
 ## COBOL
 
@@ -323,6 +366,9 @@ int main(void) {
 **About the machine:** IBM announced the System/360 in 1964. Fred Brooks and Gene Amdahl were lead architects. It was a family of computers that could run the same programs, from small machines to large ones.
 
 **Comments:** This is fixed-format COBOL. Division headers start in column 8, and the statements start in column 12. Save it as `hello.cob`. GnuCOBOL builds it with `cobc -x hello.cob`, which writes a program you can run.
+</div>
+
+<div class="hw-entry" data-name="Commodore BASIC V2" data-year="1980" markdown="1">
 
 ## Commodore BASIC V2
 
@@ -340,6 +386,9 @@ int main(void) {
 **About the machine:** Commodore released the Commodore 64 in 1982. It starts up in this BASIC. The SID chip handles sound, and the VIC-II handles video.
 
 **Comments:** Type this at the `READY` prompt on a Commodore 64 and enter `RUN`. V2 is the BASIC built into the C64. The line number is required, and uppercase matches the computer's default character set.
+</div>
+
+<div class="hw-entry" data-name="Forth" data-year="1970" markdown="1">
 
 ## Forth
 
@@ -359,6 +408,9 @@ bye
 **About the machine:** IBM announced the 1130 in 1965. It is a small 16-bit computer aimed at engineers and colleges. Moore's first Forth system ran on one.
 
 **Comments:** The space after `."` is required, and so is the space before `;`. Save this as `hello.fs` and run `gforth hello.fs`. The colon definition prints the text, `CR` starts a new line, and `bye` leaves the interpreter.
+</div>
+
+<div class="hw-entry" data-name="Fortran" data-year="1957" markdown="1">
 
 ## Fortran
 
@@ -378,6 +430,9 @@ end program hello
 **About the machine:** IBM introduced the 704 in 1954. It is a vacuum-tube computer for scientific work, with hardware floating-point arithmetic. The first Fortran compiler targeted this machine.
 
 **Comments:** This is free-form Fortran, the form used since Fortran 90. Save it as `hello.f90`. The `.f90` ending tells the compiler not to use fixed columns. `gfortran hello.f90 -o hello` compiles it, and `./hello` runs it. List-directed `print` writes a space before the text.
+</div>
+
+<div class="hw-entry" data-name="Java" data-year="1995" markdown="1">
 
 ## Java
 
@@ -399,6 +454,9 @@ public class HelloWorld {
 **About the machine:** Sun sold the SPARCstation 5 in 1994. It is a desktop SPARC workstation running Sun's Unix. The Java team at Sun did their work on SPARC workstations.
 
 **Comments:** Save this as `HelloWorld.java`. The public class name has to match the file name. `javac HelloWorld.java` compiles it, and `java HelloWorld` runs it.
+</div>
+
+<div class="hw-entry" data-name="Javascript" data-year="1995" markdown="1">
 
 ## Javascript
 
@@ -409,6 +467,9 @@ console.log("Hello, World!");
 **About the language:** Brendan Eich wrote JavaScript at Netscape in 1995. The early names were Mocha and LiveScript. It was made so a page in Netscape could respond to the reader, and it is separate from Java.
 
 **Comments:** Run this in a browser's console, or save it as `hello.js` and run `node hello.js`. `console.log` prints the line.
+</div>
+
+<div class="hw-entry" data-name="Lisp" data-year="1958" markdown="1">
 
 ## Lisp
 
@@ -426,6 +487,9 @@ console.log("Hello, World!");
 **About the machine:** DEC announced the PDP-10 in 1966. It is a 36-bit timesharing computer. A lot of Lisp work in the 1970s ran on PDP-10s.
 
 **Comments:** This is Common Lisp. `write-line` prints the text and a newline, without the quotes that `print` would add. Save it as `hello.lisp` and run `sbcl --script hello.lisp`.
+</div>
+
+<div class="hw-entry" data-name="Logo" data-year="1967" markdown="1">
 
 ## Logo
 
@@ -443,6 +507,9 @@ PRINT [Hello, World!]
 **About the machine:** Dave Catlin designed the Valiant Turtle in 1983, and Valiant Technology in the UK built it. The computer sends Logo commands over an infrared link. A pen in the base can draw on paper as it moves.
 
 **Comments:** In UCBLogo and most other Logos, `PRINT` takes a list and prints the words with a space between them. Paste this into the listener and press Enter.
+</div>
+
+<div class="hw-entry" data-name="Pascal" data-year="1970" markdown="1">
 
 ## Pascal
 
@@ -463,6 +530,9 @@ end.
 **About the machine:** Seymour Cray designed the CDC 6600 for Control Data Corporation. Deliveries began in 1964, and it was the fastest computer then available. Wirth developed Pascal on the CDC 6000 series, the family this machine belongs to.
 
 **Comments:** Save this as `hello.pas`. The period after `end` is required. Free Pascal compiles it with `fpc hello.pas`, and `./hello` runs it.
+</div>
+
+<div class="hw-entry" data-name="PDP-8" data-year="1965" markdown="1">
 
 ## PDP-8
 
@@ -507,6 +577,9 @@ $
 **About the machine:** DEC introduced the PDP-8 in 1965. It is a 12-bit minicomputer, small enough for a single lab to own. The lamps and switches on the front panel are how you examine memory and start the program.
 
 **Comments:** PAL-III, with no disk operating system. The console is the Teletype on the standard TTY device codes. `TLS` (6046) prints the character in the accumulator and clears the flag. `TSF` (6041) skips when the printer is ready for another character. The octal words are 7-bit ASCII for `HELLO WORLD`, then a carriage return, a line feed, and a zero that stops the loop. Assemble it, load it at 0200, and start at 0200.
+</div>
+
+<div class="hw-entry" data-name="PDP-10" data-year="1966" markdown="1">
 
 ## PDP-10
 
@@ -533,6 +606,9 @@ START:  RESET
 **About the machine:** DEC announced the PDP-10 in 1966. The first processor in the line was the KA10. Several people could use one machine from their own terminals.
 
 **Comments:** MACRO-10 under TOPS-10. `SEARCH UUOSYM` makes the monitor-call names available. `OUTSTR` types the ASCIZ string, which includes a carriage return and line feed before the null, and `MONRT.` returns to the monitor. Save it as `HELLO.MAC`, then `.COMPILE HELLO.MAC`, `.LOAD HELLO`, and `.RUN`.
+</div>
+
+<div class="hw-entry" data-name="PDP-11" data-year="1970" markdown="1">
 
 ## PDP-11
 
@@ -558,6 +634,9 @@ MSG:    .ASCII  /Hello, World!/
 
 **Comments:** MACRO-11 under RT-11. `.PRINT` writes the string to the console, and `.EXIT` returns to the monitor. The bytes after the text are a carriage return, a line feed, and the null that ends the string.
 
+</div>
+
+<div class="hw-entry" data-name="Processing" data-year="2001" markdown="1">
 
 ## Processing
 
@@ -570,6 +649,9 @@ void setup() {
 **About the language:** Ben Fry and Casey Reas started Processing in 2001 at the MIT Media Lab. They made it so artists and designers could write programs that draw. This Java mode is Java underneath, with a simpler setup.
 
 **Comments:** Paste this into the Processing editor and press Run. `println` writes the line to the console under the sketch window. This is Processing's Java mode.
+</div>
+
+<div class="hw-entry" data-name="Python" data-year="1991" markdown="1">
 
 ## Python
 
@@ -584,6 +666,9 @@ print("Hello, World!")
 **About the language:** Guido van Rossum released Python in 1991. He named it after Monty Python. Indentation is part of the syntax, so the layout of the code changes what the program means.
 
 **Comments:** Save this as `hello.py` and run `python3 hello.py`. macOS no longer ships Python. `python3` comes with the Xcode Command Line Tools, or from python.org or Homebrew.
+</div>
+
+<div class="hw-entry" data-name="Ruby" data-year="1995" markdown="1">
 
 ## Ruby
 
@@ -594,6 +679,28 @@ puts "Hello, World!"
 **About the language:** Yukihiro Matsumoto released Ruby in 1995. He was working in Japan, and he drew on Perl, Smalltalk, and Lisp. He wanted the language to be comfortable to read and write.
 
 **Comments:** Save this as `hello.rb` and run `ruby hello.rb`. `puts` prints the text and a newline.
+</div>
+
+<div class="hw-entry" data-name="Rust" data-year="2015" markdown="1">
+
+## Rust
+
+```rust
+// Hello World
+// Rust
+// Dr. Steven B. Combs
+
+fn main() {
+    println!("Hello, World!");
+}
+```
+
+**About the language:** Graydon Hoare started Rust as a personal project around 2006, and Mozilla later sponsored the work. Rust 1.0 was released in May 2015. The language is known for memory safety without a garbage collector, using ownership and borrowing.
+
+**Comments:** Install Rust with rustup. Save this as `main.rs`. `rustc main.rs` compiles it, and `./main` runs it. `cargo new hello` starts a small project, and `cargo run` builds and runs it.
+</div>
+
+<div class="hw-entry" data-name="Swift" data-year="2014" markdown="1">
 
 ## Swift
 
@@ -611,6 +718,9 @@ print("Hello, World!")
 **About the machine:** This photo is Apple's 13-inch MacBook Pro from 2019. It is an Intel laptop running macOS. The Touch Bar is the strip above the keyboard.
 
 **Comments:** Save this as `hello.swift` and run `swift hello.swift`. `print` writes the line.
+</div>
+
+<div class="hw-entry" data-name="TI BASIC" data-year="1979" markdown="1">
 
 ## TI BASIC
 
@@ -628,6 +738,9 @@ print("Hello, World!")
 **About the machine:** Texas Instruments released the TI-99/4A in 1981. The processor is the 16-bit TMS9900. The 4A replaced the TI-99/4 and brought a full-travel keyboard.
 
 **Comments:** On a TI-99/4A, choose TI BASIC from the menu, type this at the `>` prompt, and enter `RUN`.
+</div>
+
+<div class="hw-entry" data-name="ZX Spectrum BASIC" data-year="1982" markdown="1">
 
 ## ZX Spectrum BASIC
 
@@ -645,3 +758,6 @@ print("Hello, World!")
 **About the machine:** Sinclair Research released the ZX Spectrum in 1982. Clive Sinclair's company sold it as a small color computer. The 48K model has 48 KB of RAM, a Z80 processor, and the rubber-key keyboard.
 
 **Comments:** Type this at the Spectrum's cursor and enter `RUN`. `PRINT` is a single keyword on the Spectrum keyboard. The string itself can be mixed case.
+</div>
+
+<script src="{{ '/assets/js/hello-world.js' | relative_url }}"></script>
