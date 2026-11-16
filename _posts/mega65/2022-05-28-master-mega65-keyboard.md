@@ -126,7 +126,7 @@ This is handy when you need quick info on these settings.
 
 ## Keyboard Layout
 
-The layout of the keys on the MEGA65 keyboard is true to the layout found on the proposed Commodore 65 and therefore is a natural evolution of the keyboards around on the PET, VIC-20, C64, Plus/4, and C128. It includes popular keys in familiar locations found on these previous computers along with additional keys that functionality to both the MEGA65 hardware and software. Below is an image of the keyboard layout.
+The layout of the keys on the MEGA65 keyboard is true to the layout found on the proposed Commodore 65 and therefore is a natural evolution of the keyboards around on the PET, VIC-20, C64, Plus/4, and C128. It includes popular keys in familiar locations found on these previous computers along with additional keys that functionality to both the MEGA65 hardware and software.
 
 The first thing you will notice, if you are new to Commodore computers, is the location for many common keys such as `( ) " ' @ *` and others are not the same as a modern Mac or PC keyboards. These changes will throw off your muscle memory. But don't despair, your fingers will get use to the arrangement and after a while, even swapping back and forth isn't confusing. Your brain will adjust. If you were an original Commodore computer users, you'll be surprised how familiar and nostalgic the MEGA65 keyboard feels.
 

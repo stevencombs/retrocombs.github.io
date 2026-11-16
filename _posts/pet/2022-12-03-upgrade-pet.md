@@ -213,7 +213,7 @@ The next upgrade was TFW8B's Commodore PET RAM/ROM unit. Installation is simple:
 4. Set the DIP switches to activate a ROM version and set memory expansion.
 5. Turn on the PET.
 
-DIP switches control the configuration of the RAM/ROM expansion. With the PET turned off, configure the PET using the DIP settings for ROM and RAM options, as shown in the image below.
+DIP switches control the configuration of the RAM/ROM expansion. With the PET turned off, configure the PET using the DIP settings for ROM and RAM options.
 
 > **NOTE:** You must use version 2 or 4 of the ROM in order to use the IEEE-488 user port.
 

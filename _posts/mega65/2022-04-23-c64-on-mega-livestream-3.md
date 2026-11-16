@@ -94,7 +94,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 ## RRRPs
 
-I unbox three items purchased from AliExpress and I'm likely never to purchase from them again. Long arrival times make me forget what I ordered! I'm using Amazon links below for faster shipping.
+I unbox purchases from AliExpress and I'm likely never to purchase from them again. Long arrival times make me forget what I ordered!
 
 ## B-Side Commodore C64 Demos Continued
 
