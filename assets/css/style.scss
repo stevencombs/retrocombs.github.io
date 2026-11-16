@@ -1033,6 +1033,19 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
   .guide-series .chlist .st{margin-left:auto}
 }
 
+/* Homepage blog previews. Same 88px cover slot as the archive photo, under the
+   date and title, so a row stays even when the picture loads. 8px corners match
+   the button and card radius. */
+#from-blog .post-photo{display:block;position:relative;height:88px;margin:0 0 8px;overflow:hidden;border:2px solid var(--rc-beige);border-radius:8px;background:var(--rc-charcoal);line-height:0;text-decoration:none}
+#from-blog .post-photo img{display:block;width:100%;height:100%;max-width:none;margin:0;object-fit:cover;border:0;border-radius:0;background:transparent}
+/* Date is one line and the title reserves three, the same title budget as the
+   archive tile, so the 88px photo starts at the same place on every card. */
+@media (min-width:761px){
+  #from-blog .post:not(.archive-tile) time{display:block;height:calc(12.5px * 1.55);overflow:hidden;white-space:nowrap}
+  #from-blog .post:not(.archive-tile) h4{height:calc(1.35em * 3);overflow:hidden}
+  #from-blog .post:not(.archive-tile) h4 a{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;line-clamp:3;overflow:hidden;overflow-wrap:break-word}
+}
+
 /* From the Archives tile. Other .post cards keep the white face and left accent. */
 .post.archive-tile{position:relative;display:flex;flex-direction:column;overflow:hidden;background:var(--rc-cream);border:5px solid var(--rc-red)}
 .post.archive-tile[hidden]{display:none}

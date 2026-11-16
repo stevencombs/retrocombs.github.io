@@ -6,10 +6,11 @@
   page_size: when set, only this many cards show until "Load more".
   skip_title: when set, posts whose titles contain this text are left out.
 
-  Thumbnail: the post's own image when it is not the sitewide social
-  preview, otherwise the first real content photo, otherwise the charcoal tile.
-  Icons, badges, logos, rating strips, affiliate banners, and brand art are
-  skipped. A missing file does not hide a later photo.
+  Thumbnail: post-thumb.html prints the URL. The post's own image when it
+  is not the sitewide social preview, otherwise the first real content
+  photo, otherwise the charcoal tile. Icons, badges, logos, rating strips,
+  affiliate banners, and brand art are skipped. A missing file does not
+  hide a later photo.
 {%- endcomment -%}
 {%- assign cards = include.items -%}
 {%- assign page_size = include.page_size | default: 0 | plus: 0 -%}
@@ -26,140 +27,9 @@
       {%- if page_size > 0 and forloop.index > page_size -%}
         {%- assign hide = true -%}
       {%- endif -%}
-      {%- assign thumb = "" -%}
-      {%- if post.image.path -%}
-        {%- assign candidate = post.image.path | strip -%}
-        {%- unless candidate == "/images/brand/social-preview.png" or candidate == "images/brand/social-preview.png" -%}
-          {%- assign thumb = candidate -%}
-        {%- endunless -%}
-      {%- elsif post.image -%}
-        {%- assign candidate = post.image | strip -%}
-        {%- if candidate contains "/" -%}
-          {%- unless candidate contains "social-preview" -%}
-            {%- assign thumb = candidate -%}
-          {%- endunless -%}
-        {%- endif -%}
-      {%- endif -%}
-      {%- if thumb != "" -%}
-        {%- assign fm_try = thumb | replace: "&amp;amp;", "&" | replace: "&amp;", "&" | replace: "&#38;", "&" -%}
-        {%- assign fm_head = fm_try | slice: 0, 2 -%}
-        {%- if fm_head == "./" -%}
-          {%- assign fm_try = fm_try | remove_first: "./" -%}
-        {%- endif -%}
-        {%- assign fm_head = fm_try | slice: 0, 1 -%}
-        {%- unless fm_try contains "://" or fm_head == "/" or fm_head == "." -%}
-          {%- assign fm_try = fm_try | prepend: "/" -%}
-        {%- endunless -%}
-        {%- assign fm_check = "" -%}
-        {%- if fm_try contains "://retrocombs.com" or fm_try contains "://www.retrocombs.com" -%}
-          {%- assign fm_check = fm_try | split: "retrocombs.com" | last | split: "?" | first | split: "#" | first -%}
-        {%- elsif fm_try contains "://" -%}
-          {%- assign fm_check = "" -%}
-        {%- else -%}
-          {%- assign fm_check = fm_try | split: "?" | first | split: "#" | first -%}
-          {%- assign fm_chead = fm_check | slice: 0, 1 -%}
-          {%- unless fm_chead == "/" -%}
-            {%- assign fm_check = fm_check | prepend: "/" -%}
-          {%- endunless -%}
-        {%- endif -%}
-        {%- if fm_check != "" -%}
-          {%- assign fm_mark = "||" | append: fm_check | append: "||" -%}
-          {%- unless static_index contains fm_mark -%}
-            {%- assign thumb = "" -%}
-          {%- endunless -%}
-        {%- endif -%}
-      {%- endif -%}
-      {%- if thumb == "" -%}
-        {%- assign img_chunks = post.content | split: "<img" -%}
-        {%- for chunk in img_chunks offset:1 -%}
-          {%- assign tag = chunk | split: ">" | first -%}
-          {%- assign src = "" -%}
-          {%- if tag contains 'src="' -%}
-            {%- assign src = tag | split: 'src="' | last | split: '"' | first | strip -%}
-          {%- elsif tag contains "src='" -%}
-            {%- assign src = tag | split: "src='" | last | split: "'" | first | strip -%}
-          {%- endif -%}
-          {%- assign skip = false -%}
-          {%- if src == blank or src contains "/images/design/" or src contains "/images/brand/" or src contains "/images/ratings/" or src contains "/images/icons/" or src contains "/assets/images/banners/" or src contains "social-preview" or src contains "favicon" or src contains "logo.svg" or src contains "logo.png" or src contains "data:image" or tag contains 'width="1"' or tag contains 'height="1"' or tag contains "rc-review" or tag contains "rc-channel" or tag contains 'class="ptr"' -%}
-            {%- assign skip = true -%}
-          {%- endif -%}
-          {%- unless skip -%}
-            {%- assign dim_w = 0 -%}
-            {%- assign dim_h = 0 -%}
-            {%- if tag contains 'width="' -%}
-              {%- assign dim_w = tag | split: 'width="' | last | split: '"' | first | plus: 0 -%}
-            {%- elsif tag contains "width='" -%}
-              {%- assign dim_w = tag | split: "width='" | last | split: "'" | first | plus: 0 -%}
-            {%- endif -%}
-            {%- if tag contains 'height="' -%}
-              {%- assign dim_h = tag | split: 'height="' | last | split: '"' | first | plus: 0 -%}
-            {%- elsif tag contains "height='" -%}
-              {%- assign dim_h = tag | split: "height='" | last | split: "'" | first | plus: 0 -%}
-            {%- endif -%}
-            {%- if dim_w > 0 and dim_h > 0 -%}
-              {%- if dim_w < 180 or dim_h < 100 -%}
-                {%- assign skip = true -%}
-              {%- endif -%}
-            {%- endif -%}
-          {%- endunless -%}
-          {%- unless skip -%}
-            {%- assign candidate = src | replace: "&amp;amp;", "&" | replace: "&amp;", "&" | replace: "&#38;", "&" -%}
-            {%- assign chead = candidate | slice: 0, 2 -%}
-            {%- if chead == "./" -%}
-              {%- assign candidate = candidate | remove_first: "./" -%}
-            {%- endif -%}
-            {%- if candidate contains "://" -%}
-              {%- unless candidate contains "://retrocombs.com" or candidate contains "://www.retrocombs.com" -%}
-                {%- assign thumb = candidate -%}
-                {%- break -%}
-              {%- endunless -%}
-              {%- assign candidate = candidate | split: "retrocombs.com" | last -%}
-            {%- endif -%}
-            {%- assign c0 = candidate | slice: 0, 1 -%}
-            {%- unless c0 == "/" -%}
-              {%- assign candidate = candidate | prepend: "/" -%}
-            {%- endunless -%}
-            {%- assign candidate = candidate | split: "?" | first | split: "#" | first -%}
-            {%- assign cmark = "||" | append: candidate | append: "||" -%}
-            {%- if static_index contains cmark -%}
-              {%- assign thumb = candidate -%}
-              {%- break -%}
-            {%- endif -%}
-          {%- endunless -%}
-        {%- endfor -%}
-      {%- endif -%}
-      {%- if thumb != "" -%}
-        {%- assign thumb = thumb | replace: "&amp;amp;", "&" | replace: "&amp;", "&" | replace: "&#38;", "&" -%}
-        {%- assign thumb_head = thumb | slice: 0, 1 -%}
-        {%- unless thumb contains "://" or thumb_head == "/" or thumb_head == "." -%}
-          {%- assign thumb = thumb | prepend: "/" -%}
-        {%- endunless -%}
-        {%- assign thumb_check = "" -%}
-        {%- if thumb contains "://retrocombs.com" or thumb contains "://www.retrocombs.com" -%}
-          {%- assign thumb_check = thumb | split: "retrocombs.com" | last | split: "?" | first | split: "#" | first -%}
-        {%- elsif thumb contains "://" -%}
-          {%- assign thumb_check = "" -%}
-        {%- else -%}
-          {%- assign thumb_check = thumb | split: "?" | first | split: "#" | first -%}
-          {%- assign check_head = thumb_check | slice: 0, 1 -%}
-          {%- unless check_head == "/" -%}
-            {%- assign thumb_check = thumb_check | prepend: "/" -%}
-          {%- endunless -%}
-        {%- endif -%}
-        {%- if thumb_check != "" -%}
-          {%- assign thumb_mark = "||" | append: thumb_check | append: "||" -%}
-          {%- unless static_index contains thumb_mark -%}
-            {%- assign thumb = "" -%}
-          {%- endunless -%}
-        {%- endif -%}
-        {%- if thumb != "" -%}
-          {%- if thumb contains "://" -%}
-            {%- assign thumb_url = thumb -%}
-          {%- else -%}
-            {%- assign thumb_url = thumb | relative_url -%}
-          {%- endif -%}
-        {%- endif -%}
-      {%- endif -%}
+      {%- capture thumb_url -%}{%- include post-thumb.html post=post -%}{%- endcapture -%}
+      {%- assign thumb_url = thumb_url | strip -%}
+      {%- assign thumb = thumb_url -%}
       {%- assign card_band = "" -%}
       {%- assign card_band_name = "" -%}
       {%- assign card_kind_label = "" -%}
