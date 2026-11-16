@@ -17,7 +17,7 @@ rating: 3.5
 
 ![An original Amazon Echo speaker](/images/posts/amazon-echo-review/amazon-echo.jpg)
 
-It's been about a month since the [unboxing](/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://amzn.to/21dvBwS). Since the unboxing, we've put the [Amazon Echo](http://amzn.to/21dvBwS) through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren't familiar with the [Amazon Echo](http://amzn.to/21dvBwS), watch the video below before you read the rest of the post.
+It's been about a month since the [unboxing](/gadgets/2015/02/03/amazon-echo-unboxing.html) of our new [Amazon Echo](http://amzn.to/21dvBwS). Since the unboxing, we've put the [Amazon Echo](http://amzn.to/21dvBwS) through its paces and it's finally time to provide a review of this music playing, information delivering device. If you aren't familiar with the [Amazon Echo](http://amzn.to/21dvBwS), read the rest of the post.
 
 {% include review-box.html
    score="3.5"
@@ -26,8 +26,6 @@ It's been about a month since the [unboxing](/gadgets/2015/02/03/amazon-echo-unb
    summary="I really like our Echo, but I often repeat commands and can't change my Hue bulb colors. At $200 it's your call; at $99 it's easier to say yes."
    product="Amazon Echo"
    channel="tech" %}
-
-{% include youtube.html id="KkOCeAtKHIc" title="REVIEW: Amazon Echo is Siri in a Pringle® can" %}
 
 Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and plugged it into a 110v outlet (required). Initial tests were conducted in this location. I would quickly learn that this was not to be the permanent home for the Echo.
 <hr>
