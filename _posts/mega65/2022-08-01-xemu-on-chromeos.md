@@ -85,7 +85,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 - [Google Pixel Slate - ARM](https://amzn.to/3o6S8hL)
 - [Xemu page](https://github.lgb.hu/xemu/)
 - [MEGA65 FilesHost](https://files.mega65.org)
-- [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](/mega65/2021-12-17-patch-c65-rom.md)
+- [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](/patch-c65-rom)
 - [TheC64 Joystick](https://amzn.to/3d0UITW)
 - [Hyperkin Tropper II Joystick](https://amzn.to/3zqN90p)
 

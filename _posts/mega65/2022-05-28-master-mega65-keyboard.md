@@ -21,7 +21,7 @@ kind: how-to
 
 I love a good keyboard shortcut and consider myself a Mac shortcut connoisseur. One of the fun features of the MEGA65 is the keyboard; both the hardware and the functionality. In this blog post and companion video, I cover the keyboard layout, functions, and shortcuts you need to master the MEGA65 keyboard. Time to learn how to be a keyboard NINJA on the MEGA65.
 
-While you might think advanced keyboard combinations started with the MEGA65, many of them have their routes back to the original PET, refined as part of the [Plus/4](/plus4) and [C128](/c128-1), and optimized by the MEGA65 team. There's a fun keyboard history that I won't cover, that you should not ignore. I've used a Commodore keyboard since the early 1980s and it was fun to revisit those keystrokes with my MEGA65 DevKit.
+While you might think advanced keyboard combinations started with the MEGA65, many of them have their routes back to the original PET, refined as part of the [Plus/4](/plus4) and C128, and optimized by the MEGA65 team. There's a fun keyboard history that I won't cover, that you should not ignore. I've used a Commodore keyboard since the early 1980s and it was fun to revisit those keystrokes with my MEGA65 DevKit.
 
 ----
 
@@ -127,8 +127,6 @@ This is handy when you need quick info on these settings.
 ## Keyboard Layout
 
 The layout of the keys on the MEGA65 keyboard is true to the layout found on the proposed Commodore 65 and therefore is a natural evolution of the keyboards around on the PET, VIC-20, C64, Plus/4, and C128. It includes popular keys in familiar locations found on these previous computers along with additional keys that functionality to both the MEGA65 hardware and software. Below is an image of the keyboard layout.
-
-![MEGA65 Keyboard Layout](link)
 
 The first thing you will notice, if you are new to Commodore computers, is the location for many common keys such as `( ) " ' @ *` and others are not the same as a modern Mac or PC keyboards. These changes will throw off your muscle memory. But don't despair, your fingers will get use to the arrangement and after a while, even swapping back and forth isn't confusing. Your brain will adjust. If you were an original Commodore computer users, you'll be surprised how familiar and nostalgic the MEGA65 keyboard feels.
 

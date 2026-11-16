@@ -215,8 +215,6 @@ The next upgrade was TFW8B's Commodore PET RAM/ROM unit. Installation is simple:
 
 DIP switches control the configuration of the RAM/ROM expansion. With the PET turned off, configure the PET using the DIP settings for ROM and RAM options, as shown in the image below.
 
-![DIP Switch Settings](link)
-
 > **NOTE:** You must use version 2 or 4 of the ROM in order to use the IEEE-488 user port.
 
 When I first used the SD2PET Future, I became frustrated with the long commands necessary to access disk images and program files. But after reading the RAM/ROM instructions, I discovered the ROM includes Nils Eilers DOS Wedge. Enter `SYS 36864` and new DOS commands are available like `/` to load software. I use this shortcut keystroke on the MEGA65! I will not cover these features in this video, but if there's interest, drop a comment below to let me know.

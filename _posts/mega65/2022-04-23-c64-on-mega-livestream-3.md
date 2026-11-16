@@ -96,8 +96,6 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 I unbox three items purchased from AliExpress and I'm likely never to purchase from them again. Long arrival times make me forget what I ordered! I'm using Amazon links below for faster shipping.
 
-1. $10 [ITEM](link) - To use with OBS studio but these work to capture the MEGA65.
-
 ## B-Side Commodore C64 Demos Continued
 
 Below is a list of the demos I share along with thoughts and links. We'll start with the games (the programs on the disk image above the line).
