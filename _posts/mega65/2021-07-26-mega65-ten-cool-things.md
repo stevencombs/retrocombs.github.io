@@ -223,7 +223,7 @@ Luckily, we live in a world where microcontrollers are a dime a dozen and tinker
 
 > Check out [my full mouSTer post][1ccf40a2] for complete information and video.
 
-  [1ccf40a2]: /mouster-1 "Use the Retrohax.net mouSTer on the MEGA65"
+  [1ccf40a2]: /mouster "Use the Retrohax.net mouSTer on the MEGA65"
 
 Since I published this article, the folks over at mouSTer have even provided the MEGA65 team with [a 1351 firmware file](https://files.mega65.org?id=436416b6-fa73-4721-8b41-61a284e18faf) ready for emulation.
 
@@ -243,7 +243,7 @@ The MEGA65 includes an Ethernet port. We will use this for many things; however,
 
 > If you have an interest in this topic, I recommend you check out my [Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem][0c050ad4] post and video. In this video, I discuss how to access a BBS using Telnet and a Wi-Fi modem.
 
-  [0c050ad4]: /plus4bbs "Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem"
+  [0c050ad4]: /plus4-bbs "Connect a Commodore Plus/4 to a BBS using a Wi-Fi modem"
 
 During the [MEGA65 May 2021 update video](https://www.youtube.com/watch?v=KDwIMwlIcb0&t=1153s), they connected the MEGA65 to the [Boar's Head Tavern BBS](https://www.telnetbbsguide.com/bbs/boars-head-tavern/).
 

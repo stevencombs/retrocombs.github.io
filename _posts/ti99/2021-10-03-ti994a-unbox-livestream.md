@@ -63,7 +63,7 @@ Below are additional thoughts from and after the livestream.
 1. I had issues using the [AdaFruit MacroPad](/adabox-019) to switch OBS Studio screens during the livestream. I need more practice to make it seamless and I'm sure this will come with time.
 2. I love the new [IPEVO Document Camera](/ipevo-vz-r)! The autofocus is impressive and the on base controls make zooms and other adjustments easy.
 3. For reasons unknown to me, my capture device for the TI computer would sometimes lose audio and I had to switch to another source and back again to get the audio to play during the livestream. I'll work with it but at least I know how to quickly correct the issue.
-4. I tried the [Hyperkin Ranger](https://amzn.to/3orPuEv) again on the TI and it would not work. The competition pro worked with every game that supported a joystick. It is odd. I love the Ranger and it works with my MEGA65, [Commodore Plus/4](/plus4) (with adapter), and [Commodore 128](/c128-1). I'll give the Trooper a try later, but I suspect the Ranger has a compatibility issue because of the built-in paddle controller.
+4. I tried the [Hyperkin Ranger](https://amzn.to/3orPuEv) again on the TI and it would not work. The competition pro worked with every game that supported a joystick. It is odd. I love the Ranger and it works with my MEGA65, [Commodore Plus/4](/plus4) (with adapter), and Commodore 128. I'll give the Trooper a try later, but I suspect the Ranger has a compatibility issue because of the built-in paddle controller.
 
 ### Content Comments
 

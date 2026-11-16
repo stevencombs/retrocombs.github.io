@@ -56,7 +56,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 2. I was happy when two developers (Deft and Oliver) joined and were active in the live stream chat. It gave me the opportunity to focus on the live stream, the YoloBox Pro, and the MEGA65 while they answered questions from both me and other viewers.
 3. As I stated, you should rush now to download you own copy of the [MEGA65 book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d). It's a great resource that I will continue to dig into for more great MEGA65 tips and tricks.
 3. The core flasher update we experienced was amazing. Flashing the core went from a ten to fifteen minute process to ninety seconds! I'll soon document the process to use the new core flasher and plan to share it in a follow up video or blog post.
-4. As we discovered, using BASIC on the MEGA65 is a better experience than it was on any previous Commodore 8 bit computer, including the [Plus/4](/plus4) and the [C128](/c128-1) that included enhanced BASIC tools, because of advanced editing tools such as:
+4. As we discovered, using BASIC on the MEGA65 is a better experience than it was on any previous Commodore 8 bit computer, including the [Plus/4](/plus4) and the C128 that included enhanced BASIC tools, because of advanced editing tools such as:
 
     - `LIST P` - pause a list of BASIC commands after each complete page and then top space to see scroll to the next page
     - `DIR W` - list disk contents in columns to fill screen
