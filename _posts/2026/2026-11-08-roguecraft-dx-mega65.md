@@ -166,7 +166,7 @@ Boom, you're exploring Mordecoom.
 1. Hold the **RESTORE** key for a couple of seconds to open the Freezer.
 2. Mount the Roguecraft DX .D81 file.
 3. Return to BASIC 65.
-4. Use a wedge command to load the game. Thanks to the MEGA≡65's fast loading, it loads almost instantly.
+4. Use the ↑ (up-arrow) wedge command to load the game. Thanks to the MEGA≡65's fast loading, it loads almost instantly.
 
 ## THE AUDIO, TLA APPROVED {#audio}
 
