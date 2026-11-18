@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How to Replace the Clockwork DevTerm LCD Panel (and My Ribbon Cable Hack)'
+title: 'How to Replace a Clockwork DevTerm LCD, Plus My Ribbon Hack'
 date: '2026-11-12'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -155,7 +155,7 @@ The DevTerm's screen is 1,280 x 480, so I understand people love it for PICO-8: 
 
 The 65 percent keyboard is definitely usable, and there are enough USB ports to add an external keyboard and mouse. With micro HDMI, you can plug it into a full-size monitor at your desk and then take it on the go. It also charges its batteries while it runs on USB-C.
 
-The DevTerm runs a version of Ubuntu, and there's a MEGA65 emulator available as a Debian package. If I can get it running, maybe with the game controls, this could be a take-and-go MEGA65. I'm also going to check out VICE and EmulationStation. If I can get HDMI capture working, we may play some retro games on it during a livestream.
+The DevTerm runs a version of Ubuntu, and there's a MEGA≡65 emulator available as a Debian package. If I can get it running, maybe with the game controls, this could be a take-and-go MEGA≡65. I'm also going to check out VICE and EmulationStation. If I can get HDMI capture working, we may play some retro games on it during a livestream.
 
 ## CONCLUSION {#conclusion}
 
@@ -163,4 +163,4 @@ A split ribbon cable, a soldered jumper, and finally a new panel, and the DevTer
 
 Would you watch a livestream of retro games on the DevTerm? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

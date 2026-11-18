@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Installing Twister OS on a Raspberry Pi 500, Using Only the Pi 500'
+title: 'Twister OS on a Raspberry Pi 500, Using Only the Pi 500'
 date: '2026-11-09'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -199,4 +199,4 @@ I loaded Twister OS from Raspberry Pi OS using nothing but the Raspberry Pi 500,
 
 Are you running Twister OS or sticking with Raspberry Pi OS? Where do you fall on light mode versus dark mode? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, retroCombs, out.
+That's it for me. retroCombs, OUT!
