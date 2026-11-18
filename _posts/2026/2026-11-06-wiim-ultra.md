@@ -82,7 +82,7 @@ I spend long days at a desk with thin, single-speaker audio, and I finally wante
 
 The Ultra box already includes RCA, optical, and HDMI cables, plus a power cable and a phono ground adapter. I used the included optical cable for the permanent desk hookup and IKEA rechargeable batteries in the voice remote. I did not add a separate accessory purchase for this review.
 
-*When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
+*Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
 ### Resources {#resources}
 
@@ -317,4 +317,4 @@ If you already live with SiriusXM all day, go in knowing you will use Alexa or G
 
 Would you wait for native SiriusXM, or is the Alexa workaround good enough? Tell me in the [comments below this post](#comments) — not on the YouTube page.
 
-That's it for me, retroCombs, out.
+That's it for me. retroCombs, OUT!

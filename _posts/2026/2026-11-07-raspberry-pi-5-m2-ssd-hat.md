@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Raspberry Pi 5 and an M.2 SSD Hat: From the Box to Booting From an SSD'
+title: 'Raspberry Pi 5 and an M.2 SSD Hat: From Box to SSD Boot'
 date: '2026-11-07'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -175,4 +175,4 @@ Cooler, hat, drive, ribbon cable, and a bootloader update. Once you know the ord
 
 Are you booting your Pi 5 from an SSD yet? Which drive and hat did you use? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

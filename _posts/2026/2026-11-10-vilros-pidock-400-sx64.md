@@ -139,7 +139,7 @@ There's no battery. At this point, I was dubious and wondering whether I should 
 1. Connect the HDMI cable and the USB-C power cable to the PiDOCK's video and power-out ports. They're inside the case.
 2. **Important:** make sure the SD card is in the Raspberry Pi 400 before you insert it.
 3. Slide the cables through the slot in the back and keep them flat. There's a lot of flex in the plastic there.
-4. Drop the Pi 400 into the slot. There are magnets, but the Pi 400 doesn't sit stable. It rocks back and forth.
+4. Drop the Pi 400 into the slot. There are magnets, but the Pi 400 doesn't sit firmly. It rocks back and forth.
 5. Close the screen, then connect the cables to the Pi 400: power to the USB-C port, HDMI to the second micro HDMI port, and the USB cable to any USB port.
 
 The cable management is horrid. The instructions don't say how to hide the cables, and some stick out beyond the edge of the case. You can push some of them down. On the plus side, you can still reach the SD card, the GPIO pins, and the network port.
@@ -216,4 +216,4 @@ The Vilros PiDOCK 400 turned my Combian pi/400 into something like an SX-64: plu
 
 Do you own an SX-64, or have you found a better way to make a portable C64? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

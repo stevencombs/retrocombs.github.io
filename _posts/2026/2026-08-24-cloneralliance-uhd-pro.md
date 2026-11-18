@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ClonerAlliance UHD Pro Review: A Standalone HDMI Recorder for Android TV Boxes'
+title: 'ClonerAlliance UHD Pro Review: A Standalone HDMI Recorder'
 date: 2026-08-24 17:11:06 -0400
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -105,7 +105,7 @@ These are the boxes I use when the source is analog. See [Better Boxes for VHS a
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
 - 🔌 USB-C to Micro USB Adapter: <https://amzn.to/3Wkxxrr>
 
-*When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
+*Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
 ### My Related Videos {#my-related-videos}
 
@@ -324,8 +324,6 @@ On October 24, 2026, the official store listed it at $278.50, down from a $349.9
 ## UHD HALO: COMING SOON {#uhd-halo-coming-soon}
 
 > **Coming soon: ClonerAlliance UHD Halo.** ClonerAlliance's UHD Halo is a separate standalone recorder that lists 4K60 recording, an HDMI 2.0 input, a USB-C DisplayPort Alt Mode input for phones, tablets, and laptops, and 65W pass-through charging for the connected device ([ClonerAlliance specs](https://www.cloner-alliance.com/help/knowledgebase/technical-specifications-of-cloneralliance-uhd-halo)). My video on it is coming soon to @retroCombs-tech.
->
-> <!-- TODO: add UHD Halo video link when published -->
 {: .note}
 
 ## SOURCES {#sources}
@@ -354,4 +352,4 @@ That's the UHD Pro I have: one button, a USB drive, and an HDMI path from an And
 
 If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

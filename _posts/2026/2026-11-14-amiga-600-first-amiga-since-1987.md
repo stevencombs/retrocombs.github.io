@@ -222,4 +222,4 @@ This Amiga 600 is a well-restored machine with a hard drive, 2 MB of chip RAM, a
 
 Do you think the A600 is better than the A500, or the other way around? What pitfalls are ahead for me as I learn the Amiga 600? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

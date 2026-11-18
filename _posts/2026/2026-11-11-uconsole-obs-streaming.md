@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Can You Stream From the Clockwork uConsole? My OBS Studio Tests'
+title: 'Can You Stream From the Clockwork uConsole? OBS Studio Tests'
 date: '2026-11-11'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -105,7 +105,7 @@ Each test streamed over Wi-Fi from OBS on the uConsole to YouTube.
 
 1. **Brio through the hub at 1280 x 720:** I added the Brio as a video source and the Brio mic as an audio capture device. The audio worked, but the preview froze, and the stream was frozen and nasty.
 2. **Brio at 24 frames per second:** I dropped the frame rate to 24 fps, closed everything else to free up resources, and restarted OBS. OBS reported an excellent connection, so the uConsole was getting the data to YouTube. The video was still very herky-jerky. I started to think the Brio was more camera than this setup could handle.
-3. **Generic webcam through the hub:** The cheaper camera has a much wider field of view, and the video didn't break up in the preview. On the live stream, though, Mr. Landfield, who is always one of the first to show up, confirmed the audio was 5x5 but the video was very flaky.
+3. **Generic webcam through the hub:** The cheaper camera has a much wider field of view, and the video didn't break up in the preview. On the live stream, though, MrLandPhill, who is always one of the first to show up, confirmed the audio was 5x5 but the video was very flaky.
 4. **Generic webcam plugged straight into the uConsole:** I took the hub out of the mix, which meant doing everything on the uConsole's own keyboard. I tried Motion JPEG and set the resolution to 720p. Audio and video were solid, and I'd guess we hit about 12 frames per second. Still herky-jerky, but much better. We were streaming from a uConsole and a camera, nothing else, and it didn't lock up or tear.
 5. **Brio plugged straight in:** The frame rate seemed better, and the audio seemed more in sync, but the Brio still had that odd glitching and striping. I saw it through the hub too. I think there's a compatibility problem between the Brio and the uConsole.
 
@@ -121,7 +121,7 @@ With the generic webcam, the browser stream ran at what I'd guess was 15 to 20 f
 
 Can you livestream from the Clockwork uConsole? Yes. Can you stream with OBS? I think there's still too much overhead for OBS on the Compute Module 4.
 
-When I filmed in February 2024, the Clockwork folks hoped to offer a Compute Module 5 for the uConsole. When we can swap the CM4 for a CM5, I think streaming on the go from a uConsole is something you'll want to try. For now, it's a fun experiment. I'm still a little bummed the Brio didn't work, but I'm pleased we found a decent way to stream.
+When I filmed in February 2024, the Clockwork folks hoped to offer a Compute Module 5 for the uConsole. I have a CM5 and hope to upgrade it soon. When we can swap the CM4 for a CM5, I think streaming on the go from a uConsole is something you'll want to try. For now, it's a fun experiment. I'm still a little bummed the Brio didn't work, but I'm pleased we found a decent way to stream.
 
 ## ONE MORE USE CASE {#one-more-use-case}
 
@@ -133,4 +133,4 @@ Five OBS tests, one browser test, and a clear answer: the uConsole can stream, t
 
 Many of you have tweaked OBS beyond all recognition. If you have tips for better OBS performance on the uConsole, let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

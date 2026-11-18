@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmates Classic Star Trek Phaser and Communicator: Original Series Toys, Up Close'
+title: 'Playmates Classic Star Trek Phaser and Communicator Up Close'
 date: '2026-11-17'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -147,4 +147,4 @@ Neither of these will fool a prop collector, and they don't try to. For a Hallow
 
 Which original series gadget would you want on your belt? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, retroCombs, out.
+That's it for me. retroCombs, OUT!

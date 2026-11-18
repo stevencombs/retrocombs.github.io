@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '8BitDo Retro 18 Mechanical Numpad: The C64 Keyboard Gets a Sibling (and a Calculator)'
+title: '8BitDo Retro 18 Numpad: C64 Keyboard Sibling and Calculator'
 date: '2026-11-05'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -83,7 +83,7 @@ Out of the box, the Retro 18 looks the part. It's big and bulky, and like the ke
 
 It also sits right next to the keyboard thanks to magnets. That's a physical magnetic attraction, not a romantic one. It keeps the numpad close to its big brother.
 
-Like the keyboard, it uses Kailh Box switches with the same tactile feedback, clicky and noisy, just the way I like my keys. The keycaps are PBT plastic, so they'll resist wear and keep that look for years. The keys are identical to the keyboard's, with that concave face that hugs your fingertips. Besides the 18 number keys, there are a few extra controls on top. More on those below.
+Like the keyboard, it uses Kailh Box switches with the same tactile feedback, clicky and noisy, just the way I like my keys. The keycaps are PBT plastic, so they'll resist wear and keep that look for years. The keys are identical to the keyboard's, with that concave face that hugs your fingertips. Besides the 18 keys, there are a few extra controls on top. More on those below.
 
 ## CONNECTING IT {#connecting}
 
@@ -132,4 +132,4 @@ The colors, the build quality, and the extra features make the Retro 18 a good w
 
 Would you use the calculator, or map those keys to macros? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, retroCombs, out.
+That's it for me. retroCombs, OUT!

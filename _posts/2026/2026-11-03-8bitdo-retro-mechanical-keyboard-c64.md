@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '8BitDo Retro Mechanical Keyboard C64 Edition: Commodore Looks, Modern Keyboard'
+title: '8BitDo C64 Retro Keyboard: Commodore Looks, Modern Keys'
 date: '2026-11-03'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -121,4 +121,4 @@ If you like retro looks but don't want to give up modern features, the [8BitDo R
 
 Are you typing on one of these, and have you found a use for the joystick and red buttons? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, retroCombs, out.
+That's it for me. retroCombs, OUT!

@@ -62,7 +62,7 @@ A box too big for my bench showed up from BitBinders. Inside were a dual Commodo
 
 **Related Posts**
 
-- [MEGA65 User's Guide Chapter 6 - Using Disks and Disk Images](/mega65-ug-6) (the dual drive connected to a MEGA65)
+- [MEGA≡65 User's Guide Chapter 6 - Using Disks and Disk Images](/mega65-ug-6) (the dual drive connected to a MEGA≡65)
 - [Ten No Hack TheC64 Tips To Upgrade your Retro Computing Experience](/ten-thec64-tips)
 
 *Full disclosure: Craig Smith at BitBinders sent me the 1581DV dual drive and the 64Power supply free to review. The BitBinders links in this post are plain links, not affiliate links.*
@@ -196,7 +196,7 @@ If you only need a replacement for a single 1581, the single-drive model is the 
 
 ## WHERE YOU'LL SEE IT NEXT {#next}
 
-I didn't connect the drive to a computer in this video. In the video I mention trying it on the MEGA65. My [MEGA65 User's Guide Chapter 6 post](/mega65-ug-6) covers unit numbers and external drives on the MEGA65's IEC port, and it links to the BitBinders drives. I also planned to pair the drive and the 64Power with a Commodore 64 project I'm working on.
+I didn't connect the drive to a computer in this video. In the video I mention trying it on the MEGA≡65. My [MEGA≡65 User's Guide Chapter 6 post](/mega65-ug-6) covers unit numbers and external drives on the MEGA≡65's IEC port, and it links to the BitBinders drives. I also planned to pair the drive and the 64Power with a Commodore 64 project I'm working on.
 
 ## CONCLUSION {#conclusion}
 
@@ -204,4 +204,4 @@ The BitBinders 1581DV is a well-built, hand-assembled dual 1581, a drive Commodo
 
 Would you use a dual 1581, or do you stick with a 1541 and an [SD2IEC](https://link.amazon/B0i3pxXnb)? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cleaning Up a Dirty Commodore 64C and Building My Four-Drive C64 Setup'
+title: 'Cleaning a Dirty Commodore 64C and My Four-Drive C64 Setup'
 date: '2026-11-02'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -23,15 +23,15 @@ image:
   path: /images/posts/2026-11-02-commodore-64c-cleanup-setup.jpg
   width: 1280
   height: 720
-  alt: 'My cleaned-up Commodore 64C with a Bitbinders dual 1581 drive and an Eyoyo monitor'
+  alt: 'My cleaned-up Commodore 64C with a BitBinders dual 1581 drive and an Eyoyo monitor'
 kind: bench
 ---
 
-MrLandfield, one of my supporters, handed me a dirty Commodore 64C at Vintage Computer Festival Midwest. I'd never done one of these videos before: take a dirty computer, clean it up, and put it back to work. After a journey of several months, I finally tore it down, cleaned it inside and out, and turned it into the C64 setup I'm now using as my Commodore test bed.
+MrLandPhill, one of my supporters, handed me a dirty Commodore 64C at Vintage Computer Festival Midwest. I'd never done one of these videos before: take a dirty computer, clean it up, and put it back to work. After a journey of several months, I finally tore it down, cleaned it inside and out, and turned it into the C64 setup I'm now using as my Commodore test bed.
 
 This post is the text companion to that video. It follows the job in the order I did it, lists the tools and gear I used, and shows how I ended up with four drives on a single 64C. Let's dig in!
 
-![My cleaned-up Commodore 64C with a Bitbinders dual 1581 drive and an Eyoyo monitor](/images/posts/2026-11-02-commodore-64c-cleanup-setup.jpg)
+![My cleaned-up Commodore 64C with a BitBinders dual 1581 drive and an Eyoyo monitor](/images/posts/2026-11-02-commodore-64c-cleanup-setup.jpg)
 
 ## TABLE OF CONTENTS {#table-of-contents}
 
@@ -54,7 +54,7 @@ This post is the text companion to that video. It follows the job in the order I
 - [REASSEMBLY AND THE FIRST TEST](#reassembly)
 - [BUILDING THE SETUP](#building-the-setup)
   - [A Bigger Monitor](#a-bigger-monitor)
-  - [Bitbinders Dual 1581](#bitbinders-dual-1581)
+  - [BitBinders Dual 1581](#bitbinders-dual-1581)
   - [Ultimate II+ Cartridge](#ultimate-ii-plus)
   - [Screen Capture With the ClonerAlliance ViewLite AV](#screen-capture)
   - [Four Drives on One 64C](#four-drives)
@@ -68,7 +68,7 @@ This post is the text companion to that video. It follows the job in the order I
 
 - 🖨️ Commodore 64C keyboard brackets STL file (Thingiverse): <https://www.thingiverse.com/thing:1561772>
 - 💾 Ultimate II+ cartridge: <https://ultimate64.com/Main_products>
-- 🔌 Bitbinders (64 Power and the dual 1581 drive): <https://bitbinders.com/>
+- 🔌 BitBinders (64Power and the dual 1581 drive): <https://bitbinders.com/>
 
 ### Gear I Used {#gear-i-used}
 
@@ -99,7 +99,7 @@ Title: _Transforming A Dirty Commodore 64C Into The Ultimate Retro Setup!_
 
 Before I cleaned anything, I wanted to know whether I had a working machine. The 64C arrived under a [Sew Ready cover](https://ebay.us/EFNZGp), and cosmetically it was in good shape. It just had a few spills, some dirt, and some grime.
 
-I powered it with the 64 Power from Bitbinders. Craig at Bitbinders sent it to me, so thank you, Craig. For video, I used my Wimaxit 10.1-inch monitor, which has all the connectors you need for retro computers, and a video cable with RCA plugs.
+I powered it with the 64Power from BitBinders. Craig at BitBinders sent it to me, so thank you, Craig. For video, I used my Wimaxit 10.1-inch monitor, which has all the connectors you need for retro computers, and a video cable with RCA plugs.
 
 To test a drive, I used an [SD2IEC](https://link.amazon/B0i3pxXnb). Plug it into the IEC port first, then power it by plugging the blue plug into the user port. Make sure you get that orientation right. It powered up, and I loaded the directory from the SD card. We had a working C64!
 
@@ -184,9 +184,9 @@ For the first test, I used my Competition Pro joystick, which stays with this ma
 
 The Wimaxit is too small for a permanent setup, so I moved to an Eyoyo 4:3 monitor with a 1024 x 768 resolution and a remote. It has built-in sound, and the remote makes color, picture, and sound changes easy. I wish it were an IPS display. The viewing angles from the sides are tough, but when you sit right in front of a Commodore 64, the image is very good. That Eyoyo monitor is no longer sold. The [Eyoyo 8-inch 4:3 monitor](https://link.amazon/B0jbplQQx) is smaller, but it has the same 4:3 shape.
 
-### Bitbinders Dual 1581 {#bitbinders-dual-1581}
+### BitBinders Dual 1581 {#bitbinders-dual-1581}
 
-Out went the 1541, and in came the Dual Drive 1581 from Bitbinders, another gift from Craig. It comes with utility disks. I first set it up as drives 8 and 10 and loaded a directory with no trouble.
+Out went the 1541, and in came the Dual Drive 1581 from BitBinders, another gift from Craig. It comes with utility disks. I first set it up as drives 8 and 10 and loaded a directory with no trouble.
 
 ### Ultimate II+ Cartridge {#ultimate-ii-plus}
 
@@ -198,12 +198,12 @@ This is the secret to my setup. The [ClonerAlliance ViewLite AV](https://amzn.to
 
 ### Four Drives on One 64C {#four-drives}
 
-Here's the surprise. I set the Ultimate II+ virtual drives to 8 and 9, the top Bitbinders drive to 10, and the bottom drive to 11. That's four drives on a single 64C: two virtual and two physical, and I can use any of them at any time. I believe four is the max. If I'm wrong, tell me in the comments below.
+Here's the surprise. I set the Ultimate II+ virtual drives to 8 and 9, the top BitBinders drive to 10, and the bottom drive to 11. That's four drives on a single 64C: two virtual and two physical, and I can use any of them at any time. I believe four is the max. If I'm wrong, tell me in the comments below.
 
 ## CONCLUSION {#conclusion}
 
-Thanks again to MrLandfield. This 64C went from dirty and grimy to my Commodore test bed. Whenever I find a new modern device or want to load an old game or application, this is where I'll try it first.
+Thanks again to MrLandPhill. This 64C went from dirty and grimy to my Commodore test bed. Whenever I find a new modern device or want to load an old game or application, this is where I'll try it first.
 
 What are your favorite C64 accessories? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

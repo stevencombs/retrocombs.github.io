@@ -92,7 +92,7 @@ Below are the links you need to get the most out of your ZX Spectrum Next.
 - 📺 Prison TVs on eBay (small CRTs for VGA or RGB setups): <https://ebay.us/jTv90O>
 - 👚 Sew Ready Covers (tell Maggie retroCombs sent you!): <https://ebay.us/EFNZGp>
 
-*When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
+*Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
 ### ZX Spectrum Next Resources {#zx-spectrum-next-resources}
 
@@ -135,7 +135,7 @@ As of 2026-10-22:
 ## UPDATES SINCE THE VIDEO {#updates-since-the-video}
 
 - **Firmware and software:** The video shows firmware 1.44 and core 3.02.00. When I first published this post, the distro I was using was System/Next 24.11 (NextZXOS 2.09). As of November 2026 the [latest distro page](https://www.specnext.com/latestdistro/) is System/Next 26.11a: NextZXOS v2.10a, core 3.03.03 for Issues 2, 4, and 5, and firmware 1.46. Distributions are named by year and month (24.11 was November 2024). The differential updater is back, so the Update menu works again. KS3 Issue 5 machines use a different file set than a full card rebuild. See [SD card prep](#sd-card-prep).
-- **Issue 3 is the KS3 campaign, and the board is Issue 5:** The third Kickstarter ran from July 19 to August 18, 2025, and 7,524 backers pledged £2,612,335. ([Kickstarter](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-3-0)) The current distro page addresses those machines as "KS3 (Issue 5)." A 31 August 2026 distributor note said finished machines were in sea transit and had not yet shipped to individual backers. ([SpriteFountain](https://www.spritefountain.com/zx-spectrum-next-issue-3-shipping-moves-to-sea-transit/)) specnext.com does not publish a date when every backer received one.
+- **Issue 3 is the KS3 campaign, and the board is Issue 5:** The third Kickstarter ran from July 19 to August 18, 2025, and 7,524 backers pledged £2,612,335. ([Kickstarter](https://www.kickstarter.com/projects/spectrumnext/zx-spectrum-next-issue-3-0)) The current distro page addresses those machines as "KS3 (Issue 5)." A 31 August 2026 distributor note said finished machines were in sea transit and had not yet shipped to individual backers. ([SpriteFountain](https://www.spritefountain.com/zx-spectrum-next-issue-3-shipping-moves-to-sea-transit/)) The SpecNext site does not publish a date when every backer received one.
 - **I wondered about a C64 core (~24:17), and here it is:** Issue 3 adds fully licensed Sinclair QL and Commodore 64 cores. In SpecNext's words, "the Next Issue 3 can run all the software for the Sinclair QL and the C64 straight out of the box." ([SpecNext announcement](https://www.specnext.com/the-sinclair-zx-spectrum-next-issue-3-is-coming-to-kickstarter-this-saturday/)) 26.11a also updates the official extra cores for Issues 2, 4, and 5, including Fat32 drivers in the QL core. ([Latest distro](https://www.specnext.com/latestdistro/))
 - **I installed a Pi Zero after all:** In August 2025 I added the Raspberry Pi Zero accelerator with NextPi2. The current accelerator download on the distro page is AlpineNext, written with Raspberry Pi Imager. ([my NextPi video](https://www.youtube.com/watch?v=06S6ZSgc-w0); [latest distro](https://www.specnext.com/latestdistro/))
 
@@ -229,7 +229,7 @@ Wi-Fi setup is also under **More > Tools**. Option 5 scans for networks (I had t
 
 ![My hands on the Next's keyboard with the Quick Start card](/images/posts/2026-10-22-zx-spectrum-next-quick-start/keyboard-and-quick-start-card.jpg)
 
-The keyboard isn't a MEGA65 keyboard, but as we say in Kentucky, it ain't bad. The concave keys feel good. The layout is the hard part: there's no colon where my pinky expects one, and the symbols hide behind Symbol Shift. You'll find Break, True Video, Inv Video, Graph, Caps Shift, Extend, and Symbol Shift.
+The keyboard isn't a MEGA≡65 keyboard, but as we say in Kentucky, it ain't bad. The concave keys feel good. The layout is the hard part: there's no colon where my pinky expects one, and the symbols hide behind Symbol Shift. You'll find Break, True Video, Inv Video, Graph, Caps Shift, Extend, and Symbol Shift.
 
 - **BREAK works like Escape.** A viewer taught me this live: when you're stuck in the browser, BREAK gets you back to the menu.
 - **Typing symbols:** Hold Symbol Shift. In the video, `=` and `-` (Symbol Shift+J) were the ones I hunted for.
@@ -376,4 +376,4 @@ That's the Quick Start card, start to finish: power, video modes, ports, clock, 
 
 KS3 owners, your board is the Issue 5, and the current card steps are the three-file update above. Let me know in the comments below which core you'll try first: the Next, the QL, or the C64. If this post helped, [leave a tip](https://paypal.me/stevencombs). Questions can go to steven@retrocombs.com.
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

@@ -77,7 +77,7 @@ Here are the links from the video, plus a few I used to check my facts.
 - 🎥 Xtra Edge Xtra Muse Vlogging Camera: <https://amzn.to/4y1qYua>
 - 🎙️ DJI Mic Mini: <https://amzn.to/4yPaV41>
 
-*When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
+*Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
 ## SUPPORT THE BLOG AND CHANNEL
 
@@ -103,7 +103,7 @@ As of 2026-10-22:
 
 *Wiki wiki* means quick in Hawaiian, and the name fits. The show runs for one day and then it's gone. We went to the fall show on Sunday, October 4, 2026. A $6 ticket got us in at 11 AM. If you want first crack at the good deals, $25 gets you in an hour early.
 
-The poster promised two big rooms and more than 100 tables with dealers from Oahu, the neighboring islands, and the mainland. They delivered, filling both the Galleria and the Hawaii Suites at the Blaisdell Center, 777 Ward Avenue. According to the show's website, vendors also come from Japan, and they promise not to pre-shop.
+The poster promised two big rooms and more than 100 tables with dealers from Oʻahu, the neighboring islands, and the mainland. They delivered, filling both the Galleria and the Hawaii Suites at the Blaisdell Center, 777 Ward Avenue. According to the show's website, vendors also come from Japan, and they promise not to pre-shop.
 
 There was a map right on the door. Did I use it? No. Browsing is always the way to go. Attendees were hunting for vintage aloha shirts, jewelry, comics, and records. Then there was me, a guy from Indiana looking for anything with a power cord.
 
@@ -211,7 +211,7 @@ Absolutely.
 
 Did I find any retro computers? Unfortunately, no. Not a single one. What I did find was a pile of retro electronics, games, and pop culture: the things those of us who love retro computers also love. I also came home with a few postcards I'll treasure.
 
-If you're on Oahu, check the [official Wiki Wiki show site](https://www.ukulele.com/wikiwiki.html) for upcoming dates. As I write this, the next one is the Holiday show on November 22, 2026, which the organizers say will be their 66th Wiki Wiki show.
+If you're on Oʻahu, check the [official Wiki Wiki show site](https://www.ukulele.com/wikiwiki.html) for upcoming dates. As I write this, the next one is the Holiday show on November 22, 2026, which the organizers say will be their 66th Wiki Wiki show.
 
 This isn't my only video about the retro scene in Honolulu. In an upcoming video, I head out around town to see whether I can find any vintage computers in Honolulu. Subscribe so you don't miss it.
 
@@ -221,6 +221,6 @@ I expected to come home empty-handed on the computer front, and I did. But I fou
 
 What would you have bought? Let me know in the comments below. If you came for retro computers and left disappointed, check out my [vintage and retro show playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTonVDnSU4DqDl7pruBHnwEd9), where I find plenty of them.
 
-If you like hanging out with folks who love talking about this stuff, join our Discord. It's a perk of becoming a [channel member](https://www.youtube.com/@retrocombs/join), with levels that run from the Commodore PET all the way up to the MEGA65. If this post helped, you can also [leave a tip](https://paypal.me/stevencombs).
+If you like hanging out with folks who love talking about this stuff, join our Discord. It's a perk of becoming a [channel member](https://www.youtube.com/@retrocombs/join), with levels that run from the Commodore PET all the way up to the MEGA≡65. If this post helped, you can also [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!
