@@ -181,4 +181,4 @@ Install the software, open the Blink example, upload it, add an LED, and unplug 
 
 What was the first thing you made blink? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!

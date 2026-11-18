@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clockwork Pi DevTerm A06: Unboxing, Assembly, and First Look at a TRS-80 Model 100 Inspired Cyberdeck'
+title: 'Clockwork Pi DevTerm A06 First Look: TRS-80 Model 100 Style'
 date: '2026-11-13'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -186,4 +186,4 @@ A model kit you snap together, a thermal printer, a Model 100 look, and a backli
 
 Do you have a Clockwork Pi DevTerm? How are you using it? I'd love your ideas, so let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
-That's it for me, folks. 🕹️ retroCombs, OUT!
+That's it for me. retroCombs, OUT!
