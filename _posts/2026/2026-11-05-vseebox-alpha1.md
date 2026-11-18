@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'vSeeBox α1 Review: A Linux Media Player That Walks Away From Android TV OS'
+title: 'vSeeBox α1 Review: A Linux Media Player, Not Android TV OS'
 date: 2026-11-05 16:08:43 -0500
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -99,7 +99,7 @@ vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux me
 - 🔌 3.5mm to RCA AV Cable: <https://amzn.to/4i3EHM4>
 - 💾 USB Flash Drive: <https://link.amazon/B0gCG6a06>
 
-*When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
+*Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
 ### My Related Videos {#my-related-videos}
 
@@ -344,4 +344,4 @@ The α1 is vSeeBox choosing simple over flexible. Linux 4.9 on the carton, six a
 
 Would you miss Android TV OS, or do you know someone this appliance is perfect for? Tell me in the [comments below this post](#comments) — not on the YouTube page.
 
-That's it for me, retroCombs, out.
+That's it for me. retroCombs, OUT!
