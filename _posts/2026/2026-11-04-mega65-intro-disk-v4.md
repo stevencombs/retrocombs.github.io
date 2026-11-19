@@ -114,6 +114,8 @@ Title: _💾️ This New MEGA≡65 Intro Disk Will Blow Your Mind!_
 - A larger news section and the new MEGAZine
 - A PDF of four type-in BASIC games (on the all-intros disk)
 
+  ![The Intro Disk 4 menu browsing the Application category, with titles like BASIC Tracker, EasyAsm, and QR Generator for Sprites](/images/posts/2026-11-04-mega65-intro-disk-v4-menu.jpg)
+
 Gürçe, a developer on the MEGA≡65 team, gave me a first look. He and Mirage have been hard at work with the rest of the team. As Gürçe put it, it's a Christmas release with a slight delay.
 
 ## BEFORE YOU LOAD IT {#before-you-load}
@@ -140,6 +142,8 @@ Mirage completely rewrote the menu system in C with some assembly. Here's what's
 - **The I key:** returns you to the intro selector so you can view previous years' intro disk entries.
 - **QR codes:** a QR code generator lets you jump from the MEGA≡65 to a URL on your phone, so you can rate programs and leave feedback for developers. I'll show this on a livestream.
 
+  ![The MEGA≡65 keyboard with a caption explaining that the left arrow and forward slash keys return to the previous menu](/images/posts/2026-11-04-mega65-intro-disk-v4-keyboard-navigation.jpg)
+
 Gürçe emphasized how important your feedback is to MEGA≡65 developers. Tell them what you like, what could be better, and what features you'd like to see.
 
 A big thank you to Mirage for a polished, elegant menu, and for ironing out so many differences between the hardware and the emulator. I hear that really tested his patience.
@@ -148,15 +152,23 @@ A big thank you to Mirage for a polished, elegant menu, and for ironing out so m
 
 The news section is packed with information about developer activities, new tools, and resources. Gürçe noted it's much larger than on earlier intro disks, which let the team promote more developer activity: PC tools, alternative cores, and resources for new users and developers.
 
+![The news section on Intro Disk 4 announcing the Big Easteregg Hunt for the MEGA≡65 10th anniversary](/images/posts/2026-11-04-mega65-intro-disk-v4-news-section.jpg)
+
 Then there's the MEGAZine, an electronic MEGA≡65 magazine now on the intro disk. I love that it offers a delayed-gratification experience, a different flavor from the instant fun of the rest of the disk.
+
+![The cover of MEGAZine issue 1, with a pixel-art cactus and a MEGA≡65](/images/posts/2026-11-04-mega65-intro-disk-v4-megazine.jpg)
 
 ## TYPE-IN GAMES {#type-ins}
 
 The all-intros disk includes a PDF of four type-in BASIC games. Type them in and save them to the **intro4.d81** disk image, and you can run them straight from the intro disk menu. It's a great keyboard workout, and it takes me back to when type-in programs from magazines were how we found software and, more importantly, learned to program.
 
+![A type-in BASIC program listing for a game called Bounce, next to colorful artwork of a ball and bricks](/images/posts/2026-11-04-mega65-intro-disk-v4-type-in-games.jpg)
+
 ## THE SCREENFUL OF BASIC COMPETITION {#screenful}
 
 The MEGA≡65 community isn't just about intro disks. The [Screenful of BASIC 2025](https://itch.io/jam/screenful-of-basic-2025) competition challenges developers to see what they can do within the limits of BASIC, fitting a whole program on one screen. Not long after the results are announced, you'll be able to add the entries to your SD card and run them from the new intro menu.
+
+![The itch.io page for the MEGA65 Screenful of BASIC 2025 competition](/images/posts/2026-11-04-mega65-intro-disk-v4-screenful-of-basic.jpg)
 
 ## THE LIVESTREAM {#livestream}
 
