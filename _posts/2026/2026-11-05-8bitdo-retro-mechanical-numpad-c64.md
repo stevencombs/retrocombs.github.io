@@ -77,11 +77,15 @@ Title: _🔢️ 8BitDo Retro Mechanical Numpad: Complete Your C64-Inspired Setup
 
 Not much, as I suspected: a USB-C to USB-A cable, an inspection slip, the instruction manual in a couple of languages, and the numpad.
 
+![The 8BitDo Retro 18 Mechanical Numpad box next to a joystick on the desk](/images/posts/2026-11-05-8bitdo-retro-mechanical-numpad-c64-box.jpg)
+
 ## DESIGN AND BUILD {#design-and-build}
 
 Out of the box, the Retro 18 looks the part. It's big and bulky, and like the keyboard, it looks right at home next to my real Commodore 64. The beige and brown match the keyboard perfectly.
 
 It also sits right next to the keyboard thanks to magnets. That's a physical magnetic attraction, not a romantic one. It keeps the numpad close to its big brother.
+
+![The Retro 18 numpad snapped magnetically next to the 8BitDo Retro Mechanical Keyboard C64 Edition](/images/posts/2026-11-05-8bitdo-retro-mechanical-numpad-c64-with-keyboard.jpg)
 
 Like the keyboard, it uses Kailh Box switches with the same tactile feedback, clicky and noisy, just the way I like my keys. The keycaps are PBT plastic, so they'll resist wear and keep that look for years. The keys are identical to the keyboard's, with that concave face that hugs your fingertips. Besides the 18 keys, there are a few extra controls on top. More on those below.
 
@@ -95,9 +99,13 @@ One catch: the keyboard and the numpad can't share a dongle. Each dongle works o
 
 The USB-C port on the back is for a wired connection, and it's also how you charge the internal battery. On a full charge, you should get weeks of battery life, depending on use. The LED display includes a battery power indicator.
 
+![Plugging a USB-C cable into the port on the back of the numpad](/images/posts/2026-11-05-8bitdo-retro-mechanical-numpad-c64-usb-c-port.jpg)
+
 ## IT'S A CALCULATOR, TOO {#calculator}
 
 That red LED display takes me back to the late '70s and early '80s and my very first LED calculator. I wish more devices would bring back these displays.
+
+![The red LED display on the numpad showing the number 32789](/images/posts/2026-11-05-8bitdo-retro-mechanical-numpad-c64-led-display.jpg)
 
 It's not just a display. The numpad has a built-in basic calculator. (I felt like Ron Popeil selling the Pocket Fisherman.) Press the big red CAL button to use the numpad as a calculator. Press it again, and it's back to being an input device for your computer. It's handy for quick math without pulling out my phone or opening an app.
 
@@ -113,6 +121,8 @@ Across the top, from left to right:
 4. **The CAL button:** toggles calculator mode on and off.
 
 Above the buttons, LED indicators show Bluetooth pairing status and when the calculator is in use. Below them is a power LED. If the battery indicator isn't showing on the display, switch the dial from your connection to off and back again.
+
+![Pressing a button in the row of controls across the top of the numpad, next to the connection dial and the red CAL button](/images/posts/2026-11-05-8bitdo-retro-mechanical-numpad-c64-controls.jpg)
 
 ## TIPS FOR MAC AND VICE USERS {#tips}
 
