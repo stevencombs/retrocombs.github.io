@@ -145,13 +145,19 @@ Bonus Life packed it well. Inside the box I found:
 - **A thank-you gift.** A copy of *Amiga for Beginners: A Complete Guide to Learning and Applying the Amiga*, with a note from the staff. I can't wait to dig into it.
 - **A service checklist.** Disassemble the case, clean the motherboards, check the capacitors for bulging or leaking, clean the floppy heads, lubricate the drive, and more. They even replaced the rubber feet. For the mouse, they replaced the microswitches.
 - **The mouse.** I expected a tank mouse. It's a Commodore-branded mouse in a form factor I didn't know Commodore made.
+
+  ![The Commodore-branded two-button mouse from the Amiga 600 box](/images/posts/2026-11-14-amiga-600-first-amiga-since-1987-mouse.jpg)
 - **A composite cable.** There's no HDMI out on this machine.
 - **A power supply.** It's huge, and it has a Mean Well conversion inside, which is good news for an old supply.
 - **The Amiga 600.** It looks and feels brand new, with one slight blemish. Serial number 5031, with a "do not remove" warranty seal on the bottom that I left alone.
 
+  ![Top view of the Amiga 600, its compact 78-key keyboard without a numeric keypad](/images/posts/2026-11-14-amiga-600-first-amiga-since-1987-a600.jpg)
+
 ## A TOUR OF THE PORTS {#ports}
 
 On the right side are the two DE9 ports, labeled 1 (mouse) and 2 (game port). On the left side is the PCMCIA slot, which is unique to this machine and the A1200.
+
+![The right side of the Amiga 600 with the floppy drive slot and the two DE9 mouse and game ports](/images/posts/2026-11-14-amiga-600-first-amiga-since-1987-side-ports.jpg)
 
 Around the back you'll find:
 
@@ -163,11 +169,15 @@ Around the back you'll find:
 - Composite video out, which is what I use in the video
 - RF modulator out
 
+  ![The back of the Amiga 600 with the external floppy, serial, parallel, audio, RGB, composite, and RF ports](/images/posts/2026-11-14-amiga-600-first-amiga-since-1987-rear-ports.jpg)
+
 I'd like to get better video than composite out of this machine. If you know a good path from the 23-pin RGB port to HDMI, tell me in the comments.
 
 ## A600 VERSUS MY OLD A500 {#versus-a500}
 
 The form factor is the first thing you notice. The A500 was much longer and had a numeric keypad on the right. The A600 drops the keypad. That could be a reason not to buy an A600, because some games, especially flight simulators, use the keypad. The keyboard itself feels good, and the A600 sits at a steeper tilt than I remember on my A500.
+
+![Close-up of the Amiga 600 keyboard next to the Commodore mouse](/images/posts/2026-11-14-amiga-600-first-amiga-since-1987-keyboard.jpg)
 
 The other big change is the ROM. My A500, if I remember right from 30-plus years ago, came with Kickstart 1.3. This A600 has Kickstart 2.05, and that's a different experience. My A500 also had no hard drive and only one floppy drive, so I spent a lot of time doing the disk shuffle. Booting from internal storage is a treat.
 
@@ -201,6 +211,8 @@ The included mouse works, but it's not the best for dragging windows. I own a [T
 3. Power on the computer.
 
 It worked right away in Amiga mode. It was too sensitive at first, so I opened the Input preferences, lowered the mouse speed to 2, tested a double-click, and saved. The A600 with the Tank Mouse looks fabulous, and it's a much better experience.
+
+![Plugging the Tank Mouse wireless receiver and USB-to-DB9 adapter into the Amiga 600](/images/posts/2026-11-14-amiga-600-first-amiga-since-1987-tank-mouse.jpg)
 
 ## UPGRADES TO CONSIDER {#upgrades}
 

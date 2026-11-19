@@ -102,6 +102,8 @@ There are several DevTerm models. Mine is the A06:
 
 Working around the DevTerm, there is a USB port, USB-C, micro HDMI for video out, and a headphone jack. The front has the power button with a built-in LED and the SD card slot. The right side has two more USB ports. The expansion port on the back is used by the thermal printer.
 
+![The front edge of the DevTerm with the power button and its built-in LED](/images/posts/2026-11-13-clockwork-devterm-a06-first-look-power-button.jpg)
+
 ## WHAT'S IN THE BOX {#whats-in-the-box}
 
 My box looked like it had a rough trip, with bruised corners. The QR code on the front didn't take me to a website. When I shook it, it sounded like there was dirt inside. It turned out to be plastic bits from a crushed corner.
@@ -111,12 +113,16 @@ Inside, the parts look just like a model kit from a hobby store, complete with p
 - **Tray one:** the battery cover, two port covers labeled with their ports, a cover for the printer slot, and a small bag of three machine screws. Don't lose those.
 - **Tray two:** the IPS panel (mine had a dent), the rechargeable battery module, the expansion board (cooling fan, camera ribbon connector, printer ribbon connector, micro USB, and two USB ports), the display ribbon cable, the microSD card with the OS, the mainboard, the A06 core, a Wi-Fi and Bluetooth antenna, two small rectangular speakers, the thermal printer module, and the 65 keyboard.
 
+  ![The DevTerm parts tray with the keyboard, mainboard, screen, and modules in clear plastic](/images/posts/2026-11-13-clockwork-devterm-a06-first-look-parts-tray.jpg)
+
 ## ASSEMBLY {#assembly}
 
 Assembly is supposed to be as much fun as using the DevTerm, and it's all snap fit. I followed the black-and-white instructions closely. They're quite good.
 
 1. **Mount the screen.** It clicks into its plastic holder. Make sure the connector is aligned correctly. I left the screen protector on until the end.
 2. **Mount the mainboard.** Its connectors hold it in place, and the fit is solid.
+
+   ![The DevTerm mainboard mounted in the orange inner frame, next to plastic sprues and the instruction manual](/images/posts/2026-11-13-clockwork-devterm-a06-first-look-mainboard.jpg)
 3. **Connect the screen ribbon cable.** This one worried me. The cable is tiny and delicate, and the manual has a strong warning about it.
 4. **Mount the core.** Like a memory module, slide it in at an angle and lower it until it clicks under the holders. You need a small Phillips screwdriver for this step. Take off the gold plastic screw receiver covers first.
 5. **Install the antenna.** Click its connector onto the mainboard, remove the adhesive backing, and stick it to the side of the inner mounting plate.
@@ -139,9 +145,13 @@ The DevTerm doesn't use AA or AAA batteries, and batteries aren't included. You 
 
 Below the spacebar are three mouse buttons: left, center, and right. The trackball moves the cursor, and pressing it down is a left click. There's a game control pad with controller buttons, regular cursor keys, and function keys along the number row. Hold Fn and tap a number to get a function key.
 
+![The assembled DevTerm showing the Clockwork 65 keyboard, trackball, game pad, and mouse buttons](/images/posts/2026-11-13-clockwork-devterm-a06-first-look-keyboard.jpg)
+
 ## LOADING THE THERMAL PRINTER {#thermal-printer}
 
 One thing I love about thermal printers: no ink. Drop the port cover you assembled earlier, take off the paper cover, and drop the roll right in. There's no bar to thread it on. The printer shows which side goes up, so the paper rolls outward. Pull a little out, clip the cover in, and you're ready to print.
+
+![Loading a roll of thermal paper into the DevTerm's orange printer module](/images/posts/2026-11-13-clockwork-devterm-a06-first-look-thermal-paper.jpg)
 
 ## MY FIRST STARTUP AND THE LCD FIX {#lcd-fix}
 
@@ -164,6 +174,8 @@ The wire was almost thicker than the whole assembly, so I had to leave one of th
 On batteries, it boots through a little terminal action into a GUI that will look very familiar if you've used Ubuntu with Xfce. The cursor is tiny, and it takes several swipes of the trackball to cross the screen. You can change the setting to make it faster.
 
 I opened Chromium, visited my website, and pressed F11 for full screen. Then I opened an image in a new tab and printed it. The DevTerm printer shows up right in the print dialog with a preview. You hear that familiar thermal printer sound, like a little dot matrix printer from the '80s. It's not fast, so give yourself plenty of time. Tear the paper off with the built-in bar. The print was about what you'd expect from a thermal printer, and I've had better prints. With some time, I'm sure I'll figure it out. I understand you can get thermal paper as sticker material too.
+
+![A thermal printout from the DevTerm showing the retroCombs joystick logo](/images/posts/2026-11-13-clockwork-devterm-a06-first-look-thermal-print.jpg)
 
 The DevTerm was fairly responsive, without much lag. The wide screen might seem constricting, but there are good reasons for it that we'll explore later.
 
