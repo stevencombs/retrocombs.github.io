@@ -146,6 +146,8 @@ Part of the fun of the PicoCalc is putting it together. Follow Clockwork's assem
 4. **Leave the screen film on.** Ignore the directions to remove the screen's protective layer at the start. It keeps fingerprints off the screen while you build. Just make sure its little pull tab is pointing out so you can remove it later.
 5. **Keycaps.** Mine were already in place when I took the keyboard out of the box, and yours should be too. If any aren't, drop them into place using the guide.
 6. **Mount the Pico carefully.** Make sure every pin sits on top of the headers before you apply a firm press. The Pico's micro USB port should point up, in line with the USB-C port on the motherboard. You'll use both ports, more on that below.
+
+   ![Lining up the Raspberry Pi Pico over the headers on the PicoCalc motherboard during assembly](/images/posts/2025-05-24-picocalc-tutorial-mount-pico.jpg)
 7. **The screen ribbon cable is the most fragile part.** Open the connector slowly. I used a very small screwdriver to gently lift the locking bar. Insert the cable until the line printed on the ribbon matches the line on the motherboard, then snap the connector closed.
 8. **Seat the motherboard.** Make sure the outer holes sit over the screw posts, then give each post a gentle push so it seats against the board.
 9. **The SD card can wait.** The instructions say to insert it during assembly, but there's an easy-access opening after the case is closed.
@@ -155,6 +157,8 @@ Part of the fun of the PicoCalc is putting it together. Follow Clockwork's assem
 ## BATTERIES AND PICO UPGRADES
 
 The PicoCalc runs on 18650 lithium cells, and it works with just one. Clockwork designed the battery holder for cells 18 mm (±0.5 mm) in diameter and 65 to 69 mm long, so both flat-top and button-top cells fit. Check the polarity every time you insert a cell. The front LED shows yellow while charging over USB-C and turns off when charging finishes. ([ClockworkPi](https://www.clockworkpi.com/picocalc), [GitHub issue #6](https://github.com/clockworkpi/PicoCalc/issues/6))
+
+![Two 18650 lithium cells in the PicoCalc battery holder under the clear back panel](/images/posts/2025-05-24-picocalc-tutorial-18650-batteries.jpg)
 
 You can also swap the included Raspberry Pi Pico for a newer model like the Pico W or Pico 2. That opens the door to Wi-Fi (Pico W), more flash storage, and more processing power (Pico 2). I don't cover the swap in the video. Just remember that each Pico needs firmware built for it: there are separate PicoMite builds for the Pico, Pico 2, and the WebMite versions for the W boards.
 
@@ -187,6 +191,8 @@ The simplest thing you can do is use the PicoCalc as a calculator:
 ```basic
 PRINT 5 + 10
 ```
+
+![The PicoCalc MMBasic prompt showing print 5+10 and the answer 15](/images/posts/2025-05-24-picocalc-tutorial-mmbasic-calculator.jpg)
 
 Do we really have to type `PRINT` every time? Nope. The old Commodore shortcut works, so the question mark stands in for `PRINT`:
 
@@ -255,6 +261,8 @@ Then copy the file to the SD card and load it:
 LOAD IMAGE "LOGO.BMP"
 ```
 
+![A 320x320 bitmap of the retroCombs joystick logo displayed on the PicoCalc screen](/images/posts/2025-05-24-picocalc-tutorial-bmp-image.jpg)
+
 ## WHERE TO LEARN MORE MMBASIC
 
 Once you've seen the basics, you'll want to write your own programs. Here's where I'd start:
@@ -310,6 +318,8 @@ For this demonstration, I blink an LED on pin **GP21**. The circuit:
 - The LED's **cathode** (negative, shorter leg) to **GND** on the PicoCalc.
 
 A small breadboard makes this plug and play. The resistor limits the current so you don't burn out the LED, or worse, the Pico.
+
+![A red LED on a small blue breadboard wired to the PicoCalc, with SetPin GP21 typed at the MMBasic prompt](/images/posts/2025-05-24-picocalc-tutorial-gpio-led.jpg)
 
 ### Direct Mode
 

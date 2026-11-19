@@ -94,6 +94,8 @@ Title: _🥧️ Raspberry Pi 5 with M.2 SSD HAT: Unboxing to First Boot ⏩️_
 
 A lot of folks use Etcher, but Raspberry Pi Imager does a few things that make setup much easier. I used version 1.8.5 on my Mac.
 
+![Raspberry Pi Imager 1.8.5 on a Mac with the Choose Device, Choose OS, and Choose Storage buttons](/images/posts/2026-11-07-raspberry-pi-5-m2-ssd-hat-imager.jpg)
+
 1. Choose your device: **Raspberry Pi 5**.
 2. Choose the OS: **Raspberry Pi OS (64-bit)**, the stock version.
 3. Choose your storage. Be careful to select the right card!
@@ -118,6 +120,8 @@ In the box, you get the Pi 5, a small card about temperature, and the safety and
 - Micro HDMI out. The analog audio jack is gone, so sound goes out over HDMI.
 - USB-C for power
 
+  ![Holding the bare Raspberry Pi 5 board out of its box](/images/posts/2026-11-07-raspberry-pi-5-m2-ssd-hat-pi5-board.jpg)
+
 ## STEP 3: INSTALL THE ACTIVE COOLER {#install-the-active-cooler}
 
 The fan header is the little white connector to the right of the 40-pin header. It has a cap on it. Pull the cap off and put it in the box.
@@ -126,9 +130,13 @@ The cooler uses thermal pads, not paste. Peel the backing, line it up (the notch
 
 The fan cable was too tricky to plug in with the cooler in place, so I popped the cooler back off, removed one standoff, plugged in the cable, and put everything back. Thanks to the folks at Linkmicro for the microscope they sent to the channel. I'm not sure I ever would have gotten that cable in without it.
 
+![The Raspberry Pi 5 with the Active Cooler heat sink and fan installed](/images/posts/2026-11-07-raspberry-pi-5-m2-ssd-hat-active-cooler.jpg)
+
 ## STEP 4: MOUNT THE M.2 HAT {#mount-the-hat}
 
 With the standoffs and the active cooler in place, the hat goes on top and screws down. It's a slick little system. Don't connect the PCIe ribbon cable yet. I wanted to boot once without it to make sure everything worked.
+
+![The Raspberry Pi 5 with the Waveshare M.2 hat mounted on top, next to a microSD card](/images/posts/2026-11-07-raspberry-pi-5-m2-ssd-hat-m2-hat.jpg)
 
 ## STEP 5: FIRST BOOT FROM THE SD CARD {#first-boot}
 
@@ -152,7 +160,11 @@ I looked at the boot order setting too, but I didn't change it for this build. T
 
 Unplug everything first. The 2230 drive slides into the M.2 slot, and a screw from the bottom of the hat holds it down.
 
+![Screwing the 2230 NVMe SSD into the M.2 slot from the bottom of the hat](/images/posts/2026-11-07-raspberry-pi-5-m2-ssd-hat-ssd.jpg)
+
 The ribbon cable is the part to take slowly. The instructions say to make sure both triangles are on the same side when you connect the cable. My cable didn't have a triangle, only a dot. So I matched the picture of the assembled board instead: the side marked "40 mm" on the cable lined up with the "40 mm" mark on the hat. Lock down both connectors.
+
+![Connecting the PCIe ribbon cable between the M.2 hat and the Raspberry Pi 5](/images/posts/2026-11-07-raspberry-pi-5-m2-ssd-hat-ribbon-cable.jpg)
 
 ## STEP 8: WRITE THE OS TO THE SSD {#write-the-os-to-the-ssd}
 

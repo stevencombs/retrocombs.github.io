@@ -79,11 +79,15 @@ Title: _⌨️️ Watch This 8BitDo C64 Keyboard Bring Computing History to Life
 
 I really like how these keys look, feel, and, more importantly, sound.
 
+![Top view of the 8BitDo Retro Mechanical Keyboard C64 Edition showing its brown PBT keycaps and the rainbow badge](/images/posts/2026-11-03-8bitdo-retro-mechanical-keyboard-c64-keyboard.jpg)
+
 ## THREE WAYS TO CONNECT {#connect}
 
 1. **Bluetooth.** This is how I connect to my Mac. The connection has been rock solid, with no lag and no issues.
 2. **2.4 GHz wireless.** It uses the included USB receiver, which sits in a magnetic compartment on the keyboard.
 3. **USB-C cable.** Not exactly old school, but it's a cable.
+
+   ![Pulling the 2.4 GHz USB receiver out of its magnetic compartment on the bottom of the keyboard](/images/posts/2026-11-03-8bitdo-retro-mechanical-keyboard-c64-usb-receiver.jpg)
 
 ## DIALS, BUTTONS, AND INDICATORS {#dials-and-buttons}
 
@@ -94,6 +98,8 @@ A rotary dial toggles through the connection modes, and it sits next to a volume
 - a **profile** button to switch between key configurations
 
 There are indicators for connection status, key mapping, and the active profile, along with programmable keys for custom functions.
+
+![Close-up of the connection mode dial, volume dial, and the pair, mapping, and profile buttons](/images/posts/2026-11-03-8bitdo-retro-mechanical-keyboard-c64-dials.jpg)
 
 ## USING IT ON A MAC {#mac}
 
@@ -107,6 +113,8 @@ The most unusual part of this keyboard is the separate joystick and two very lar
 
 I'm still figuring out how to use them, especially on my Mac without the software. When the software is available, I'll try to get them working with VICE, the Commodore emulator.
 
+![Playing with the separate joystick and two big red buttons in front of the keyboard](/images/posts/2026-11-03-8bitdo-retro-mechanical-keyboard-c64-joystick.jpg)
+
 ## BATTERY AND CHARGING {#battery}
 
 A built-in rechargeable battery powers the keyboard. On a full charge, you can expect several weeks of use, depending on how much you type. When it gets low, plug it into your computer with the included USB-C cable.
@@ -114,6 +122,8 @@ A built-in rechargeable battery powers the keyboard. On a full charge, you can e
 ## THOSE C64 COLORS {#colors}
 
 One thing I really love is how closely it matches the original Commodore 64's colors. The beige and brown are nearly identical, which brings back that classic feel even when I'm working in modern applications. Even the badge is a nod to the original C64 badge. Commodore fans will notice details like that.
+
+![The 8BitDo keyboard below an original Commodore 64, showing how closely the beige and brown colors match](/images/posts/2026-11-03-8bitdo-retro-mechanical-keyboard-c64-c64-colors.jpg)
 
 ## CONCLUSION {#conclusion}
 

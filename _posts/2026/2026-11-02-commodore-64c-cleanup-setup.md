@@ -113,6 +113,8 @@ Be careful with the power LED. It's attached to the top half of the case, so unp
 
 Inside, it was cleanup on aisle three. I started with a household vacuum and an adapter to get the big stuff out before the detail work.
 
+![Opening the dirty Commodore 64C case to reveal the keyboard and the motherboard under its RF shield](/images/posts/2026-11-02-commodore-64c-cleanup-setup-inside.jpg)
+
 ## REMOVING THE KEYBOARD AND RF SHIELD {#keyboard-and-shield}
 
 Store your screws as you go. I promise you'll lose them if you don't.
@@ -120,6 +122,8 @@ Store your screws as you go. I promise you'll lose them if you don't.
 The keyboard comes off with a handful of screws. They're easy to tell apart, so you'll know where they go when you put them back. The keyboard connects with a plug, not a ribbon cable, which is a nice touch.
 
 You need a Phillips screwdriver and the Torx to remove the metal plates that hold the keyboard and the aluminum RF shield. Every time I thought I had all the shield screws out, there was another one. I counted seven. That's one reason I decided not to put the shield back.
+
+![Lifting the aluminum RF shield off the Commodore 64C motherboard](/images/posts/2026-11-02-commodore-64c-cleanup-setup-rf-shield.jpg)
 
 The board itself was in good shape, so I didn't replace any capacitors. I kept the metal shield on the bottom because it helps support and protect the motherboard in the case. I did find a little rust inside, which tells me some liquid or moisture got in there at some point.
 
@@ -137,6 +141,8 @@ Under the keycaps was 40 years of dirt. I lightly sprayed the bare keyboard with
 
 I sorted the keycaps from the springs. The keycaps went in a container with lukewarm water and Dawn, and then I gave them a good shake. A big thank you to retroPup for the use of her kibble bowl. We went from kibbles to keys. I found one broken spring with rust on it, more evidence of water damage.
 
+![Clean Commodore 64C keycaps drying on a checkered towel](/images/posts/2026-11-02-commodore-64c-cleanup-setup-keycaps.jpg)
+
 I didn't retrobrite anything. The keys didn't need it, and I'm just not interested in retrobriting this machine.
 
 ## CONNECTORS AND MOTHERBOARD {#connectors-and-motherboard}
@@ -148,6 +154,8 @@ I put the bottom shield back, then the motherboard and its screws. Don't forget 
 ## HEAT SINKS INSTEAD OF THE SHIELD {#heat-sinks}
 
 I removed the old thermal paste from the chips that touched the RF shield. Then, as a stopgap, I put small stick-on heat sinks on those three chips, about three heat sinks per chip. After some research, I added a few to the PLA too, since it can generate some heat.
+
+![Small stick-on heat sinks on the chips of the Commodore 64C motherboard as it goes back into the case](/images/posts/2026-11-02-commodore-64c-cleanup-setup-heat-sinks.jpg)
 
 This isn't the best scenario. The best one would be heat sinks matched to these particular chips, and I'll swap them when I find larger ones that fit.
 
@@ -165,6 +173,8 @@ Two keys need extra care:
 Without the RF shield, I also lost the brackets that hold the top of the keyboard in place. The upper-left corner moved when I pressed it, and I didn't like that.
 
 On Thingiverse, I found C64C keyboard mounts by Flower King. Thank you, Flower King! The download includes three STL files. One holds both brackets, but they weren't grounded at the bottom where I needed them, so I imported the two separate bracket files into the slicer for my AnkerMake 3D printer, put them at the same Z height, added the automatic supports, and printed.
+
+![The C64C keyboard bracket in the AnkerMake slicer with automatic supports added](/images/posts/2026-11-02-commodore-64c-cleanup-setup-keyboard-brackets.jpg)
 
 Is it just me, or does anyone else find removing support material satisfying? Let me know in the comments below.
 
@@ -187,6 +197,8 @@ The Wimaxit is too small for a permanent setup, so I moved to an Eyoyo 4:3 monit
 ### BitBinders Dual 1581 {#bitbinders-dual-1581}
 
 Out went the 1541, and in came the Dual Drive 1581 from BitBinders, another gift from Craig. It comes with utility disks. I first set it up as drives 8 and 10 and loaded a directory with no trouble.
+
+![The BitBinders Dual Drive 1581 next to the Commodore 64C](/images/posts/2026-11-02-commodore-64c-cleanup-setup-bitbinders-1581.jpg)
 
 ### Ultimate II+ Cartridge {#ultimate-ii-plus}
 

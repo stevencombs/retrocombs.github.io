@@ -85,6 +85,8 @@ Take care with the new panel. After some reading online, I learned that a few ot
 5. **Lift the assembly out of the bottom case.** Everything lifts right out.
 6. **Remove the keyboard.** It seats on pogo pins, so there's no cable. It just pops out.
 7. **Flip it over and remove the battery module.** It connects with pogo pins too.
+
+   ![The DevTerm assembly out of its case with the battery module and two 18650 cells in the orange frame](/images/posts/2026-11-12-devterm-replace-lcd-battery-module.jpg)
 8. **Disconnect the LCD ribbon cable.** Open the latch with a fingernail and lift the cable out. It takes some tucking to get it back in later, so go slowly.
 9. **Flip it back and lift out the old panel.** Be very careful not to break the holders.
 
@@ -93,6 +95,8 @@ Take care with the new panel. After some reading online, I learned that a few ot
 My old screen was working. If you held a flashlight right up to it, you could see the text and follow the mouse around. Only the backlight was dead.
 
 To fix it, I took the panel down to its bare components. Under the frame is a plastic diffuser, with the LEDs along the edge glowing through it to light the screen. The ribbon cable that powers the backlight had a split. I scraped off enough of the cable's coating to reach the metal and soldered a small jumper across the break. I'd never tried to repair a ribbon cable before. I had to leave one piece out to make everything fit with the wire in place, but it worked, and the screen was bright. Jamie from Jamie's Hack Shack called it a nice hack in the chat, so thank you, my good hacky friend.
+
+![The old DevTerm LCD panel with its orange backlight ribbon cable exposed](/images/posts/2026-11-12-devterm-replace-lcd-old-panel.jpg)
 
 ## INSTALL THE NEW LCD PANEL {#install-the-new-panel}
 
@@ -106,11 +110,17 @@ While it's open, here's what's inside:
 
 - **Thermal printer:** The cartridge holds the paper. Pull off the cover, connect it, and you have a thermal printer. The OS comes with the printer driver installed. I'm still figuring out the best ways to use it.
 - **External accessory board:** This board is designed to be swapped for other boards that other folks design. Mine provides a couple of USB ports, the printer connection, a camera connector (I think a Raspberry Pi camera will work), and a cooling fan.
+
+  ![The back of the DevTerm assembly with the thermal printer module, the orange frame, and the main board](/images/posts/2026-11-12-devterm-replace-lcd-modules.jpg)
 - **Core module:** My A06 core is a Rockchip system on a chip. It plugs in like a DIMM: slide it in, push it down, and it clicks into place.
+
+  ![The Clockwork A-06 core module with its Rockchip chip and cooling fan on the DevTerm main board](/images/posts/2026-11-12-devterm-replace-lcd-core-module.jpg)
 
 ## TEST BEFORE YOU CLOSE IT UP {#test}
 
 With the battery module in, you can power it on outside the case with the power switch next to the SD card. Don't panic during the first few seconds; it takes a while for the screen to come up. The power light came on, and then the screen. It's alive!
+
+![The DevTerm running outside its case with the new LCD panel lit up above the keyboard](/images/posts/2026-11-12-devterm-replace-lcd-first-power-on.jpg)
 
 The keyboard was still off, and I needed the trackball to shut down properly. I'd never tried seating the keyboard with the DevTerm running, but it worked. Then I peeled off the protective film. That's the satisfying moment when it's real.
 
@@ -142,6 +152,8 @@ I typed a short program on the DevTerm's tiny 65 percent keyboard:
 10 PRINT "RETROCOMBS  ";
 20 GOTO 10
 ```
+
+![VirtualT on the DevTerm filling the Model 100 screen with retroCombs from a two-line BASIC program](/images/posts/2026-11-12-devterm-replace-lcd-virtualt.jpg)
 
 A few tips from my session:
 

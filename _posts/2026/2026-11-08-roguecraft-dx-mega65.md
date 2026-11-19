@@ -115,6 +115,8 @@ Roguecraft has an interesting lineage:
 3. **Roguecraft:** the Amiga version. It won the Retro World Award at the 2025 Debug Indie Game Awards.
 4. **Roguecraft DX:** the expanded edition, now on the MEGA≡65, ported by RetroCogs for Thalamus Digital. It's a big leap: 240 colors on screen at once, sharper resolution, smoother animations, and five extra levels that start in a new wilderness area.
 
+   ![Rogue4K on the Commodore 64, a single PETSCII room with the hero, a monster, and a map](/images/posts/2026-11-08-roguecraft-dx-mega65-rogue4k.jpg)
+
 ## HOW IT PLAYS {#how-it-plays}
 
 Roguecraft DX is an award-winning, turn-based roguelike. You have to survive 15 procedurally generated levels in the Dungeons of Mordecoom. The gameplay is intuitive, but it can be punishing:
@@ -126,6 +128,8 @@ Roguecraft DX is an award-winning, turn-based roguelike. You have to survive 15 
 
 I had never played a roguelike before, and this one was a blast to learn.
 
+![An isometric Roguecraft DX dungeon room with lava, a pentagram floor, and red banners in 240 colors](/images/posts/2026-11-08-roguecraft-dx-mega65-dungeon.jpg)
+
 ## THREE HEROES, THREE DIFFICULTIES {#heroes}
 
 The three hero modes are the game's difficulty settings:
@@ -133,6 +137,8 @@ The three hero modes are the game's difficulty settings:
 - **Warrior (easy):** high health and a heavy hitter, with no real special abilities.
 - **Rogue (medium):** a teleportation skill that sets up a backstab buff for extra damage.
 - **Wizard (hard):** a fragile spellcaster with low health who relies on ranged magic missiles to pick off enemies from a distance.
+
+  ![The Roguecraft DX Choose Your Hero screen with the Warrior selected on Easy difficulty](/images/posts/2026-11-08-roguecraft-dx-mega65-choose-your-hero.jpg)
 
 ## START WITH ROGUE4K AND ROGUE64 {#primer}
 
@@ -168,6 +174,8 @@ Boom, you're exploring Mordecoom.
 3. Return to BASIC 65.
 4. Use the ↑ (up-arrow) wedge command to load the game. Thanks to the MEGA≡65's fast loading, it loads almost instantly.
 
+   ![The BASIC 65 ready screen with loading stripes in the border as Roguecraft DX loads on the MEGA≡65](/images/posts/2026-11-08-roguecraft-dx-mega65-loading.jpg)
+
 ## THE AUDIO, TLA APPROVED {#audio}
 
 The audio is where the polish really shows. New music builds a chilling mood as you go deeper, paired with dual-SID music and sound effects. While I was testing the game in emulation from my lounge chair, The Lovely Accountant (TLA) looked over and said, "That game sounds fun." When a non-gamer notices the sound from across the room, you know the developers spent time on it.
@@ -175,6 +183,8 @@ The audio is where the polish really shows. New music builds a chilling mood as 
 ## MY VERDICT {#verdict}
 
 **9 out of 10 clucks.** Roguecraft DX is the MEGA≡65's current crown jewel. It has an addictive roguelike loop, funny touches like those demon chickens, great music and sound, and visual effects that stretch 8-bit limits. It's the killer app we've been waiting for on the MEGA≡65, and I can't wait to spend more time with it.
+
+![The Roguecraft DX Game Over screen showing the score and Killed By: Chick Un](/images/posts/2026-11-08-roguecraft-dx-mega65-game-over.jpg)
 
 Try all three versions: Rogue4K, Rogue64, and Roguecraft DX. The MEGA≡65 is the only machine where you can play all three. I think this game will inspire more great games and apps for the MEGA≡65.
 
