@@ -82,11 +82,15 @@ Title: _Can You Stream on the Clockwork uConsole? OBS Studio Goes Handheld!_
 
 I'd been tinkering with my uConsole a lot, and I didn't want anything weird in the OS getting in the way of OBS. So I started clean. Clockwork posts the image files on its [uConsole GitHub repo](https://github.com/clockworkpi/uConsole). My uConsole has the Raspberry Pi Compute Module 4, so I grabbed the image for that model and flashed it to an [SD card](https://amzn.to/3IYL3Kn) with Etcher.
 
+![The uConsole OS Images list on Clockwork's uConsole GitHub repo, with the CM4 image link highlighted](/images/posts/2026-11-11-uconsole-obs-streaming-github-images.jpg)
+
 ## THE SECRET SAUCE: PI-APPS {#pi-apps}
 
 I tried installing OBS with the regular package manager, and it didn't work out. [Pi-Apps](https://pi-apps.io/) saved the day. It handles the dependencies for you, so OBS just works. That's a big win for anyone with a uConsole who isn't familiar with Raspberry Pi OS.
 
 One note: Pi-Apps installed OBS Studio version 27, not the newest version (30 when I filmed). It worked for my tests.
+
+![The Pi-Apps website and the Pi-Apps app store window open in Chromium](/images/posts/2026-11-11-uconsole-obs-streaming-pi-apps.jpg)
 
 ## THE CAMERAS {#the-cameras}
 
@@ -95,15 +99,21 @@ I tried two cameras:
 - **Logitech Brio:** a 4K camera with a lot of smarts inside
 - **A generic HD webcam:** a full HD 1080p USB camera I picked up during the pandemic for about $40
 
+  ![Holding the generic Full HD 1080p USB webcam](/images/posts/2026-11-11-uconsole-obs-streaming-webcam.jpg)
+
 ## SETUP: A USB-C SURPRISE {#setup}
 
 I ran on wall power for the first test to be safe. I needed more USB ports, so I tried a USB-C hub in the USB-C port. It charged the uConsole, but my keyboard didn't work through it. That port was giving me power only. I switched to a [powered hub](https://amzn.to/3JlryPK) on the USB 2.0 port, and the keyboard and trackpad came to life. I wanted the USB port for the Brio, but without enough ports, the camera went through the hub at first too.
+
+![The uConsole on my desk connected to a powered USB hub with a wireless keyboard and trackpad](/images/posts/2026-11-11-uconsole-obs-streaming-usb-hub.jpg)
 
 ## THE STREAM TESTS {#the-stream-tests}
 
 Each test streamed over Wi-Fi from OBS on the uConsole to YouTube.
 
 1. **Brio through the hub at 1280 x 720:** I added the Brio as a video source and the Brio mic as an audio capture device. The audio worked, but the preview froze, and the stream was frozen and nasty.
+
+   ![Setting up a video capture device in OBS Studio on the uConsole screen](/images/posts/2026-11-11-uconsole-obs-streaming-obs.jpg)
 2. **Brio at 24 frames per second:** I dropped the frame rate to 24 fps, closed everything else to free up resources, and restarted OBS. OBS reported an excellent connection, so the uConsole was getting the data to YouTube. The video was still very herky-jerky. I started to think the Brio was more camera than this setup could handle.
 3. **Generic webcam through the hub:** The cheaper camera has a much wider field of view, and the video didn't break up in the preview. On the live stream, though, MrLandPhill, who is always one of the first to show up, confirmed the audio was 5x5 but the video was very flaky.
 4. **Generic webcam plugged straight into the uConsole:** I took the hub out of the mix, which meant doing everything on the uConsole's own keyboard. I tried Motion JPEG and set the resolution to 720p. Audio and video were solid, and I'd guess we hit about 12 frames per second. Still herky-jerky, but much better. We were streaming from a uConsole and a camera, nothing else, and it didn't lock up or tear.
@@ -126,6 +136,8 @@ When I filmed in February 2024, the Clockwork folks hoped to offer a Compute Mod
 ## ONE MORE USE CASE {#one-more-use-case}
 
 Hold the uConsole in one hand with the camera attached, and you've got a battery-powered handheld streamer you can walk around the house with. Sure, your phone would do a better job, but that gives me some ideas.
+
+![Holding the uConsole with OBS Studio showing a live webcam preview](/images/posts/2026-11-11-uconsole-obs-streaming-handheld.jpg)
 
 ## CONCLUSION {#conclusion}
 

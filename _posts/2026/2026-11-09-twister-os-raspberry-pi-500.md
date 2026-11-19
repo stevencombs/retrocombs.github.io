@@ -91,6 +91,8 @@ Title: _🌪️ I Tried Twister OS On My Raspberry Pi 500 And WOW!_
 - A Raspberry Pi 500 running Raspberry Pi OS. I used the SD card that came with mine, after installing the updates.
 - A second [microSD card](https://amzn.to/3IYL3Kn) for Twister OS. Mine was a 32GB SanDisk.
 - A USB SD card reader. Mine is an old Eye-Fi reader. It used to send photos from your camera to an online service over Wi-Fi, and I don't think that service still exists, but it still works as a card reader. If you remember Eye-Fi, let me know in the comments below.
+
+  ![Holding the old Eye-Fi USB card reader with a microSD card](/images/posts/2026-11-09-twister-os-raspberry-pi-500-card-reader.jpg)
 - A mouse. I almost bought the Raspberry Pi mouse, but I got one with LEDs you can change instead. It's a good mouse.
 - Paper and a pen to write down the default login.
 
@@ -116,6 +118,8 @@ A big reason I wanted to try Twister OS is that it includes both, so I don't hav
 3. Write down the default username and password shown on the download page. You'll need them if your Imager settings don't take.
 4. Use the direct link or a mirror. The direct link took me about a minute.
 
+   ![The Twister OS download page for the Raspberry Pi 4, 400, 5, and 500 with the image file and mirror links](/images/posts/2026-11-09-twister-os-raspberry-pi-500-download-page.jpg)
+
 ## STEP 2: WRITE THE SD CARD WITH RASPBERRY PI IMAGER {#imager}
 
 Raspberry Pi Imager is already on Raspberry Pi OS under **Accessories**. It's also available for Mac, Windows, and Linux.
@@ -123,6 +127,8 @@ Raspberry Pi Imager is already on Raspberry Pi OS under **Accessories**. It's al
 1. Plug the card reader with your microSD card into the Pi 500.
 2. Open **Raspberry Pi Imager** and choose your device: **Raspberry Pi 500**. Imager narrows the OS list to what runs on the Pi 5, Pi 500, and Compute Module 5.
 3. Click **Choose OS**. It's worth a look even if you won't use it today. Besides Raspberry Pi OS, you'll find general-purpose OSes like Armbian (that's where I got it) and Alpine Linux, media players like Volumio, emulation OSes like Recalbox, and specific-purpose OSes for VEX robotics tournaments, digital signage, Kali Linux, Moodle, Home Assistant, and 3D printing, including OctoPi, which I used before I got my Anker 3D printer. RISC OS isn't available for the Pi 500 yet, but you can run it on the 400 and the 4. Twister OS isn't in the list, so:
+
+   ![The Raspberry Pi Imager operating system list showing media players like LibreELEC and Volumio](/images/posts/2026-11-09-twister-os-raspberry-pi-500-imager-os-list.jpg)
 4. Scroll down and choose **Use Custom**. Imager opened my Downloads folder automatically. Select the Twister OS image.
 5. Click **Choose Storage**. Be careful here. Leave **Exclude system drives** checked, and you're almost always safe. Mine showed only the card in the reader.
 6. Click **Next**. When it asks about OS customization settings, click **Edit Settings**. You can set the host name, username and password, wireless LAN, country, and time zone. Imager remembers what you used last time, so my host name still said Armbian. I changed it to Twister OS.
@@ -149,6 +155,8 @@ I already like this setup better than Raspberry Pi OS. It's more modern and feel
 
 It feels faster than Raspberry Pi OS, though I don't know why it would.
 
+![The Twister OS desktop with the Pi-Apps window open over the welcome screen](/images/posts/2026-11-09-twister-os-raspberry-pi-500-desktop.jpg)
+
 ## THE WELCOME MENU {#welcome-menu}
 
 The welcome menu walks you through:
@@ -165,6 +173,8 @@ Each theme has a light mode and a dark mode, and changing themes means logging b
 
 - **Twister 95:** It even has the Start button. It's horrid, and it's actually pretty cool. If you love Windows 95, this is for you. I needed some overscan work with this one.
 - **Twister XP:** It even has the sidebar. XP was my favorite Windows interface, but not one I'd want to use again. I skipped the Windows 7 theme for fear it would crash my machine. (Little Windows dig there.) There are Windows 10 and 11 themes too.
+
+  ![The Twister XP theme with its Start menu open over the green hills wallpaper](/images/posts/2026-11-09-twister-os-raspberry-pi-500-twister-xp-theme.jpg)
 - **Twister X:** This is the macOS look, my favorite. The menu bar is usually what other skins get wrong, and Twister OS even moves the app menus to the top of the screen. It's like an older version of the Mac. There's no genie effect, a running app doesn't show an indicator in the dock, Chromium's skin had a small break, and the About screen didn't register my memory. Still, I could see myself using it because it's close to what I use every day.
 - **Plasma (dark):** I liked this one at first, but some menus opened below the panel instead of above it. I went back to the first theme in dark mode. Everything worked a little better there.
 
@@ -188,6 +198,8 @@ I installed it from the terminal with `sudo apt install`, and the instructions s
 ## RETRO EMULATORS WITH PIKISS {#emulators}
 
 **Commodore 64:** In PiKISS, open the emulators section and pick VICE. Because PiKISS does the install, it grabs the ROMs for you, which I couldn't do with a manual install on the Pi. It runs a demo game right away. Press **Fn+F12** on the Pi 500 for the VICE menu. There's no GUI menu, but you can change video and sound settings. I turned off the CRT emulation, and the picture was cleaner. Save your settings if you want them to stick. Afterward, VICE shows up in the **Games** menu next to DOSBox.
+
+![The VICE Commodore 64 emulator running on Twister OS with the BASIC V2 ready screen](/images/posts/2026-11-09-twister-os-raspberry-pi-500-vice.jpg)
 
 **Other emulators:** PiKISS also offers Amiga, Amstrad, Box64, Dolphin, OpenMSX, an old AT-class PC emulator, PS1 (I'd love to play the whole Medal of Honor series on the PS1 again), RetroArch, and a ZX Spectrum emulator.
 

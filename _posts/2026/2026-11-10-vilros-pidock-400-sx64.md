@@ -132,6 +132,8 @@ In the box:
 
 The PiDOCK itself is all white and very light. The guts come from the Raspberry Pi 400. Around the outside, you'll find the barrel jack, a headphone port (which you don't find on many newer computers), the Vilros name on the back, and some heat vents. It's hard to open. Inside, there's an LCD panel, a cavity where the Pi 400 drops in, and a touchpad. Peel off the protective plastic from the touchpad and the screen.
 
+![The open, empty PiDOCK 400 shell with its LCD panel, the cavity for the Pi 400, and the touchpad](/images/posts/2026-11-10-vilros-pidock-400-sx64-inside.jpg)
+
 There's no battery. At this point, I was dubious and wondering whether I should have spent the money.
 
 ## CONNECTING EVERYTHING {#connecting}
@@ -144,11 +146,15 @@ There's no battery. At this point, I was dubious and wondering whether I should 
 
 The cable management is horrid. The instructions don't say how to hide the cables, and some stick out beyond the edge of the case. You can push some of them down. On the plus side, you can still reach the SD card, the GPIO pins, and the network port.
 
+![The back of the PiDOCK 400 with the Pi 400 installed and its cables looped across the rear edge](/images/posts/2026-11-10-vilros-pidock-400-sx64-cables.jpg)
+
 ## FIRST BOOT IN SX-64 MODE {#first-boot}
 
 I plugged in the power adapter, opened the lid, and turned it on. There's a power light. The Commodore 64 screen came up on the PiDOCK's display. It's not the best screen, but it works for this.
 
 In Combian 64, I changed the model to the SX-64, since this is meant to be its spiritual successor. Kind of. Sort of. Maybe. That gave me Commodore SX-64 BASIC V2.0.
+
+![The PiDOCK 400 showing the SX-64 BASIC V2.0 startup screen with a speaker beside it](/images/posts/2026-11-10-vilros-pidock-400-sx64-sx64-basic.jpg)
 
 ## CONFIGURING COMBIAN 64 {#configuring}
 
@@ -165,6 +171,8 @@ Then reboot. That took care of the black border around the screen. The terminal 
 
 One more thing: when you close the lid, nothing happens. The light stays on.
 
+![Running raspi-config on the PiDOCK 400 to configure Combian 64](/images/posts/2026-11-10-vilros-pidock-400-sx64-raspi-config.jpg)
+
 ## COPYING A GAME WITH MIDNIGHT COMMANDER {#midnight-commander}
 
 I had my trusty [USB drive](https://link.amazon/B05GEnTW6) with me. Here's how I got a game onto the card:
@@ -179,6 +187,8 @@ I had my trusty [USB drive](https://link.amazon/B05GEnTW6) with me. Here's how I
 8. Press **F10** to quit Midnight Commander, then exit the terminal to return to the emulator.
 9. In the emulator, press **F10**, attach the image to **drive 8** from the Combian games folder, and autostart it.
 
+   ![Midnight Commander on the PiDOCK 400 with the USB drive in the left pane and the Combian 64 folders in the right](/images/posts/2026-11-10-vilros-pidock-400-sx64-midnight-commander.jpg)
+
 ## DOES THIS THING HAVE SPEAKERS? {#speakers}
 
 The screen looked great. Honestly, I was more impressed with the screen than anything else. But I heard no sound. I plugged my handy-dandy Realistic speaker into the headphone jack with an adapter, and the sound came through. I checked: there are no onboard speakers. No speakers, no battery, no cable management. I'm confused about who this is for.
@@ -186,6 +196,8 @@ The screen looked great. Honestly, I was more impressed with the screen than any
 ## PLAYING OPERATION WOLF {#operation-wolf}
 
 Press **F3**, put the joystick in port 2, press fire, and go. My [TheJoystick](https://amzn.to/43lVHUh), a USB C64 joystick, worked perfectly. The volume was already at 100%, so that's the best I could get from the Realistic speaker. Headphones would be much better.
+
+![Playing Operation Wolf on the PiDOCK 400 with a USB C64 joystick](/images/posts/2026-11-10-vilros-pidock-400-sx64-operation-wolf.jpg)
 
 ## SUMMARY AND RECOMMENDATIONS {#summary}
 
