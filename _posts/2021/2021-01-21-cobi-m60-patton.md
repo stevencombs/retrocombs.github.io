@@ -141,6 +141,9 @@ Before we build the model, let's take a look at the packaging:
 3. The number of pieces for this model is 605 elements and 2 figurines; an "American Officer" and an "American Soldier".
 4. No stickers is a huge win for me. I've not purchased LEGO sets because they include stickers. It always seems like a "cheap out" instead of being "pad printed" as COBI highlights on their box.
 5. We even get technical information for not only the M60, but the included M16. This is the only place you find this information. Unfortunately, COBI doesn't include any additional details in the building instructions.
+
+   ![The back of the COBI M60 Patton box, showing the technical information panel with an officer figure and M16 rifle artwork](/images/posts/2021-01-21-cobi-m60-patton-box-back.jpg)
+
 6. Scan the QR code with your phones camera and it takes you directly to the COBI model page, not their main page. That's a nice feature because on their model page you'll find a complete description and history of the M60, model specifications, a virtual instruction manual, owner comments, and related products.
 
 ### View COBI Build Images
@@ -257,6 +260,9 @@ No model is any good if you can't put it together; and LEGO has the best instruc
 
 1. Paper quality is on par with LEGO. Pages are thick and paper is high quality glossy stock.
 2. Looking inside we find themed background pages, numbered steps, a parts list for each step, and a parts placement with previous layers grayed out to highlight part placement for the current step.
+
+   ![An open COBI building instructions booklet showing a numbered step with a parts list and grayed-out earlier layers](/images/posts/2021-01-21-cobi-m60-patton-instructions.jpg)
+
 3. In the back of the instructions is a complete bill of materials elements parts listing. The inclusion of what page you will find what pieces would be nice and is not something found in LEGO instructions either.
 4. I appreciate the listing of models I might like after building this one. It does make me want to visit their website and explore what they have to offer.
 
@@ -265,6 +271,9 @@ No model is any good if you can't put it together; and LEGO has the best instruc
 All elements are organized in larger and then smaller bags in similar fashion to LEGO models:
 
 1. Parts come in numbered bags that coincide with the building instructions (which we will talk about later). The numbers are black letters on a white background and easy to find and sort.
+
+   ![A clear COBI parts bag labeled with a black number 1 on a white tag](/images/posts/2021-01-21-cobi-m60-patton-bags.jpg)
+
 2. Instead of the "crinkly" plastic bags used by LEGO, the larger bags are more consistent with the plastic used by zip lock baggies; albeit a thinner polymer.
 3. The smaller bags inside are more consistent with LEGO bags and are almost identical is quality, sound, and appearance.
 4. LEGO will soon ship bricks in [environmentally friendly paper bags](https://www.lego.com/en-us/aboutus/sustainable-packaging/) and we can expect others such as COBI to follow the industry leader.
@@ -289,6 +298,8 @@ As I was building, I noticed an interesting variety of building elements:
 5. Let's talk action figures, or in LEGO parlance, minifigs. COBI minifigs are "more" anatomically correct, if there can be such a thing in a building block action figure.
 6. This set includes an American officer and soldier. I will say, I love the armored cavalry hat and sunglasses on the officer and the helmet and vest on the soldier. The included M16 rifle is an element you will never find in a LEGO set (but Star Wars blasters are okay, I guess) and the set appropriately includes binoculars.
 
+   ![The COBI American soldier in a helmet and vest and the American officer in a cavalry hat and sunglasses, both holding M16 rifles](/images/posts/2021-01-21-cobi-m60-patton-minifigures.jpg)
+
 ### Quality
 
 What about COBI quality control?
@@ -302,6 +313,8 @@ What about COBI quality control?
 7. Here's an element where an engineer made the unfortunate decision to locate the sprue right on top of a stud. Thankfully, this part is embedded within the model and not seen after the build, but if you want to use for your own builds on a top layer or studs not on top (SNOT) build, this would be annoying.
 8. Earlier I mention my disdain for stickers. I love that COBI stamps all their elements. Other brands include stickers to drive down the cost of their models. Even LEGO does this for some sets. I can't stand stickers!
 9. One part of the build that concerned me was the tracks. Would they be realistic and work? I'm happy to report that the construction and operation of the tracks is excellent. The tracks have a center guide (a real thing as you can see by this center guide I keep in my office), good fit across the rollers, and even sound good when you push the model across a table.
+
+   ![Close-up of the finished M60 tracks wrapped around the road wheels and rollers](/images/posts/2021-01-21-cobi-m60-patton-tracks.jpg)
 
 ### Cost
 
@@ -320,6 +333,9 @@ The final words should be my recommendations and here's what I think about COBI 
 
 1. The build was at times a fun challenge and I would not recommend this model for those younger than 9 or 10.
 2. This model is an accurate recreation of the M60 with enough detail touches to make any military modeler, or armor soldier, happy.
+
+   ![The finished COBI M60 Patton tank with its two figures and an ammo box on a white table](/images/posts/2021-01-21-cobi-m60-patton-finished-model.jpg)
+
 3. Proportions feel correct with a main gun that moves up and down.
 4. The turret and the copula both rotate and the driver's hatch even opens!
 5. The tracks look and feel great when rolling the model.
