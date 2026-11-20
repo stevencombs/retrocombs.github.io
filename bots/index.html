@@ -1,0 +1,469 @@
+---
+layout: null
+permalink: /bots/
+sitemap: false
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>retroCombs bot team · how a day flows</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+<style>
+:root{
+  --cream:#F5ECDD; --beige:#D9CDAD; --slate:#636054; --charcoal:#464646; --ink:#333333; --red:#B51E18;
+  --st-red:#ED230D; --st-orange:#FF9400; --st-yellow:#F8E131; --st-green:#60D838; --st-blue:#00A5FF;
+  --W:980px;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--cream);color:var(--ink);font-family:Inter,system-ui,sans-serif}
+body{background-image:linear-gradient(rgba(99,96,84,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(99,96,84,.06) 1px,transparent 1px);background-size:24px 24px}
+#stage{width:var(--W);margin:0 auto;padding:22px 0 30px;transform-origin:top left}
+.mono{font-family:VT323,monospace}
+.px{font-family:"Press Start 2P",monospace}
+.ex{display:inline-block;font:600 9px/1 Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);background:var(--st-yellow);border:1px solid var(--ink);border-radius:3px;padding:3px 5px;vertical-align:middle}
+.real{display:inline-block;font:600 9px/1 Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);background:var(--st-green);border:1px solid var(--ink);border-radius:3px;padding:3px 5px;vertical-align:middle}
+.card{background:var(--cream);border:2px solid var(--beige);border-radius:12px;box-shadow:0 2px 0 var(--beige),0 6px 18px rgba(70,70,70,.08)}
+/* header */
+header{display:flex;gap:18px;align-items:center}
+.logo{width:84px;height:84px;border-radius:18px;background:var(--charcoal);display:grid;place-items:center;font-size:46px;box-shadow:0 4px 0 var(--ink)}
+.brand small{font-size:12px;color:var(--slate);letter-spacing:.04em}
+.brand h1{margin:6px 0 8px;font-family:"Press Start 2P",monospace;font-size:24px;line-height:1.2}
+.ribbon{display:flex;height:6px;width:210px;border-radius:3px;overflow:hidden}
+.ribbon i{flex:1}
+.stats{margin-left:auto;display:flex;gap:10px}
+.stat{width:118px;padding:9px 11px 6px;position:relative;overflow:hidden}
+.stat:before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--c)}
+.stat .k{font-size:11px;color:var(--slate)}
+.stat .v{font-family:VT323,monospace;font-size:46px;line-height:.95;color:var(--ink)}
+.stat .ex{position:absolute;right:6px;bottom:7px;font-size:7px;padding:2px 3px}
+.realbar{margin:12px 0 0;display:flex;gap:16px;align-items:center;font-size:12.5px;color:var(--ink);padding:8px 12px;background:rgba(96,216,56,.12);border:1px dashed var(--slate);border-radius:10px}
+.realbar b{font-family:VT323,monospace;font-size:22px;font-weight:400}
+.realbar span.sep{color:var(--beige)}
+/* timeline */
+.tl{display:flex;align-items:center;gap:14px;margin:14px 0 12px}
+.live{font-size:12px;padding:5px 10px;border-radius:20px;border:2px solid var(--beige);background:var(--cream)}
+.live:before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--st-green);margin-right:6px;animation:blink 1.2s infinite}
+@keyframes blink{50%{opacity:.25}}
+.clock{font-family:VT323,monospace;font-size:34px;width:78px}
+.track{flex:1;position:relative;height:34px}
+.rail{position:absolute;left:0;right:0;top:9px;height:6px;border-radius:3px;background:var(--beige)}
+.fill{position:absolute;left:0;top:9px;height:6px;border-radius:3px;background:var(--charcoal);width:0}
+.night{position:absolute;top:6px;height:12px;background:repeating-linear-gradient(45deg,rgba(99,96,84,.18) 0 4px,transparent 4px 8px);border-radius:3px}
+.tick{position:absolute;top:4px;width:2px;height:16px;border-radius:1px}
+.knob{position:absolute;top:3px;width:18px;height:18px;margin-left:-9px;border-radius:50%;background:var(--cream);border:4px solid var(--ink);box-shadow:0 0 0 5px rgba(0,165,255,.25)}
+.tlabels{position:absolute;left:0;right:0;top:22px;font-size:10px;color:var(--slate)}
+.tlabels span{position:absolute}
+/* main */
+main.card{padding:16px 18px 14px;position:relative}
+.cap{font-size:13px;margin-bottom:10px}
+.sect{font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--slate);font-weight:600;margin-bottom:8px}
+.sect:before{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--c,var(--st-orange));margin-right:6px}
+.flow{display:grid;grid-template-columns:200px 1fr 404px;gap:0;position:relative;min-height:520px}
+#wires{position:absolute;inset:0;pointer-events:none;overflow:visible}
+.srcs{display:flex;flex-direction:column;gap:12px;padding-top:6px;z-index:2}
+.src{display:flex;align-items:center;gap:9px;padding:8px 10px;position:relative;transition:box-shadow .3s,border-color .3s}
+.src .ic{width:30px;height:30px;border-radius:8px;display:grid;place-items:center;font-size:16px;background:var(--beige)}
+.src b{font-size:12.5px;display:block}
+.src small{font-size:10.5px;color:var(--slate)}
+.src.on{border-color:var(--ink);box-shadow:0 2px 0 var(--ink),0 0 0 4px rgba(0,165,255,.2)}
+.hubcol{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;padding-top:4px;z-index:2}
+.q{font-size:12px;padding:6px 12px;border:2px solid var(--beige);border-radius:16px;background:var(--cream);white-space:nowrap}
+.q em{font-style:normal;color:var(--slate)}
+.q .ans{font-weight:700}
+.hub{position:relative;width:210px;height:210px;margin:26px 0 14px}
+.ring{position:absolute;inset:0;border-radius:50%;border:3px dashed var(--slate);opacity:.45;animation:spin 18s linear infinite}
+.ring2{position:absolute;inset:16px;border-radius:50%;border:3px solid var(--st-green);opacity:.55}
+.prog{position:absolute;inset:-8px;transform:rotate(-90deg)}
+@keyframes spin{to{transform:rotate(360deg)}}
+.core{position:absolute;inset:38px;border-radius:30px;background:var(--charcoal);box-shadow:0 6px 0 var(--ink);display:grid;place-items:center;color:#fff;text-align:center}
+.core .e{font-size:56px;line-height:1}
+.core .n{font:700 11px/1.2 Inter;margin-top:4px}
+.hub.pulse .core{animation:pop .5s}
+@keyframes pop{40%{transform:scale(1.06)}}
+.pipe{font-size:12px;color:var(--ink);text-align:center;background:var(--cream);border-radius:10px;padding:4px 8px;position:relative;z-index:3}
+.pipe b{color:var(--red)}
+.pipe small{display:block;margin-top:5px;color:var(--slate);font-size:11px}
+.team{z-index:2}
+.team .sect{--c:var(--red)}
+.bots{display:grid;grid-template-columns:1fr 1fr;gap:7px}
+.bot{padding:6px 8px 6px 9px;position:relative;display:flex;gap:8px;align-items:center;border-left:6px solid var(--g);transition:box-shadow .3s,border-color .3s,transform .3s}
+.bot .em{font-size:20px;width:24px;text-align:center}
+.bot b{font-size:12px;display:block;white-space:nowrap}
+.bot small{font-size:10px;color:var(--slate);display:block;line-height:1.2}
+.bot .ct{position:absolute;right:6px;top:5px;font-family:VT323,monospace;font-size:17px;line-height:1;min-width:20px;text-align:center;border-radius:5px;padding:1px 4px;background:var(--beige)}
+.bot.on{border-color:var(--ink);border-left-color:var(--g);box-shadow:0 2px 0 var(--ink),0 0 0 4px rgba(0,165,255,.2);transform:translateX(-2px)}
+.legend{display:flex;gap:10px;flex-wrap:wrap;font-size:10px;color:var(--slate);margin-top:8px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:4px;vertical-align:-1px}
+/* gate row */
+.row2{display:grid;grid-template-columns:250px 1fr;gap:14px;margin-top:14px}
+.panel{padding:12px 14px}
+.held .big{font-family:VT323,monospace;font-size:52px;line-height:.9}
+.held small{display:block;font-size:11px;color:var(--slate)}
+.held{display:flex;align-items:center;justify-content:space-between}
+.donut{width:78px;height:78px}
+.gate .top{display:flex;justify-content:space-between;align-items:center}
+.gate .rule{font-size:12px;color:var(--red);font-weight:600}
+.boxes{display:flex;gap:6px;margin:10px 0 8px;align-items:center}
+.box{width:30px;height:30px;border-radius:7px;border:2px solid var(--beige);display:grid;place-items:center;font:700 15px/1 Inter;transition:all .3s}
+.box.ok{background:var(--st-green);border-color:var(--ink);color:var(--ink)}
+.box.no{background:var(--red);border-color:var(--ink);color:#fff}
+.box.wait{border-color:var(--st-orange);border-style:dashed}
+.today{margin-left:auto;font-size:12px;color:var(--slate);white-space:nowrap}
+.today b{font-family:VT323,monospace;font-size:22px;color:var(--ink);font-weight:400}
+.steps{font-size:11px;color:var(--slate)}
+.steps b{color:var(--ink)}
+.howok{font-size:11px;margin-top:6px}
+/* chart */
+.chartrow{display:grid;grid-template-columns:200px 1fr 170px;gap:14px;margin-top:16px;align-items:center;border-top:1px solid var(--beige);padding-top:12px}
+.chartrow .lbl div{font-size:13px;font-weight:700;margin:8px 0}
+#chart{width:100%;height:120px;background:rgba(217,205,173,.25);border-radius:10px}
+.nums div{font-family:VT323,monospace;font-size:30px;text-align:right;line-height:1}
+.nums small{font-family:Inter;font-size:10px;color:var(--slate)}
+/* log */
+.log{margin-top:14px;padding:12px 16px}
+.log .top{display:flex;justify-content:space-between;align-items:center}
+.log .top small{font-size:11px;color:var(--slate)}
+#rows{height:170px;overflow:hidden;position:relative}
+.lr{display:grid;grid-template-columns:52px 92px 12px 1fr;gap:8px;align-items:center;height:34px;font-size:12.5px;border-bottom:1px dashed var(--beige)}
+.lr.new{animation:in .45s ease-out}
+@keyframes in{from{opacity:0;transform:translateY(10px)}}
+.lr .t{font-family:VT323,monospace;font-size:20px;color:var(--slate)}
+.tag{font-size:10.5px;font-weight:700;text-align:center;border-radius:10px;padding:3px 0;border:1px solid var(--ink)}
+.tag.shipped{background:var(--st-green)}
+.tag.held{background:var(--red);color:#fff}
+.tag.waiting{background:var(--st-yellow)}
+.tag.done{background:var(--beige)}
+.tag.routed{background:var(--cream)}
+.dot{width:9px;height:9px;border-radius:50%}
+/* recap */
+#recap{position:absolute;inset:0;background:var(--cream);border-radius:10px;padding:18px 22px;display:none;z-index:5}
+#recap.show{display:block;animation:in .5s}
+#recap h2{font-family:"Press Start 2P";font-size:15px;margin:2px 0 6px}
+.rgrid{display:grid;grid-template-columns:1.25fr 1fr;gap:16px;margin-top:12px}
+.rbig{font-family:VT323,monospace;font-size:86px;line-height:.9}
+.rk{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:10px}
+.rk div{padding:10px}
+.rk b{font-family:VT323;font-size:40px;font-weight:400;display:block;line-height:1}
+.rk small{font-size:11px;color:var(--slate)}
+.realbox{background:var(--charcoal);color:#fff;border-radius:12px;padding:16px 18px}
+.realbox h3{margin:0 0 10px;font-size:13px;letter-spacing:.06em}
+.realbox li{margin:7px 0;font-size:13px;line-height:1.35}
+.realbox b{font-family:VT323;font-size:24px;font-weight:400;color:var(--st-yellow)}
+.realbox small{color:var(--beige);font-size:11px}
+.bars{display:flex;gap:6px;align-items:flex-end;height:120px;margin-top:12px}
+.bars div{flex:1;text-align:center;font-size:9px;color:var(--slate)}
+.bars span{display:block;border-radius:4px 4px 0 0;border:1px solid var(--ink);margin-bottom:3px}
+footer{margin-top:14px;font-size:11.5px;color:var(--slate);line-height:1.5}
+.ctl{position:fixed;right:14px;bottom:14px;z-index:9;font:600 12px Inter;background:var(--charcoal);color:#fff;border:0;border-radius:18px;padding:8px 14px;cursor:pointer}
+</style>
+</head>
+<body>
+<div id="stage">
+<header>
+  <div class="logo" aria-hidden="true">🧭</div>
+  <div class="brand">
+    <small>retroCombs bot team · 14 bots · 1 chief of staff</small>
+    <h1>retroCombs<br>Bot Team</h1>
+    <div class="ribbon"><i style="background:var(--st-red)"></i><i style="background:var(--st-orange)"></i><i style="background:var(--st-yellow)"></i><i style="background:var(--st-green)"></i><i style="background:var(--st-blue)"></i></div>
+  </div>
+  <div class="stats">
+    <div class="stat card" style="--c:var(--st-orange)"><span class="ex">example</span><div class="k">jobs in</div><div class="v" id="sJobs">0</div></div>
+    <div class="stat card" style="--c:var(--st-blue)"><span class="ex">example</span><div class="k">done, no OK needed</div><div class="v" id="sDone">0</div></div>
+    <div class="stat card" style="--c:var(--st-green)"><span class="ex">example</span><div class="k">shipped with OK</div><div class="v" id="sShip">0</div></div>
+    <div class="stat card" style="--c:var(--red)"><span class="ex">example</span><div class="k">held at the gate</div><div class="v" id="sHeld">0</div></div>
+  </div>
+</header>
+
+<div class="realbar">
+  <span class="real">real</span>
+  <span><b>14</b> bots on the new roster</span><span class="sep">|</span>
+  <span><b>4</b> items open on APPROVALS.md</span><span class="sep">|</span>
+  <span><b>57</b> retrocombs.com PRs merged in Nov (#58–#115)</span>
+  <span style="margin-left:auto;font-size:10.5px;color:var(--slate)">as of Nov 20, 2026, 4:40 AM ET</span>
+</div>
+
+<div class="tl">
+  <span class="live">a day in the team</span>
+  <span class="clock" id="clock">00:00</span>
+  <div class="track" id="track">
+    <div class="rail"></div>
+    <div class="night" style="left:0;width:29.17%"></div>
+    <div class="fill" id="fill"></div>
+    <div id="ticks"></div>
+    <div class="knob" id="knob"></div>
+    <div class="tlabels"><span style="left:0">00:00</span><span style="left:9%">overnight · work queues, nothing ships</span><span style="right:0">24:00</span></div>
+  </div>
+</div>
+
+<main class="card" id="main">
+  <div class="cap"><b>1 chief of staff</b> · 14 bots · <b>nothing ships without Steven's OK</b> <span class="ex" style="margin-left:6px">example day · simulated</span></div>
+  <div class="flow" id="flow">
+    <svg id="wires"></svg>
+    <div class="srcs">
+      <div class="sect" style="--c:var(--st-orange)">sources</div>
+      <div id="srcList"></div>
+    </div>
+    <div class="hubcol">
+      <div class="sect" style="--c:var(--st-blue)">chief of staff</div>
+      <div class="q" id="q"><em>whose job is this?</em> <span class="ans" id="qa">→ route</span></div>
+      <div class="hub" id="hub">
+        <svg class="prog" viewBox="0 0 226 226"><circle cx="113" cy="113" r="108" fill="none" stroke="var(--beige)" stroke-width="5"/><circle id="arc" cx="113" cy="113" r="108" fill="none" stroke="var(--ink)" stroke-width="5" stroke-linecap="round" stroke-dasharray="0 999"/></svg>
+        <div class="ring"></div><div class="ring2"></div>
+        <div class="core"><div><div class="e">🧭</div><div class="n">Chief of Staff</div></div></div>
+      </div>
+      <div class="pipe">request <b>›</b> route <b>›</b> draft <b>›</b> check <b>›</b> Steven's OK <b>›</b> ship
+        <small>routes work · runs the Workspace calendar · catches wrong-bot requests</small></div>
+    </div>
+    <div class="team">
+      <div class="sect">team · 14 bots</div>
+      <div class="bots" id="bots"></div>
+      <div class="legend" id="legend"></div>
+    </div>
+  </div>
+
+  <div class="row2">
+    <div class="card panel held">
+      <div><div class="sect" style="--c:var(--red)">held for Steven <span class="ex">example</span></div>
+        <div class="big" id="hBig">0</div><small id="hSub">of 0 that needed an OK</small><small>no OK yet = it waits</small></div>
+      <svg class="donut" viewBox="0 0 42 42"><circle cx="21" cy="21" r="15.9" fill="none" stroke="var(--beige)" stroke-width="6"/><circle id="dn" cx="21" cy="21" r="15.9" fill="none" stroke="var(--st-green)" stroke-width="6" stroke-dasharray="0 100" transform="rotate(-90 21 21)"/><text id="dnt" x="21" y="24" text-anchor="middle" font-family="VT323" font-size="9" fill="#333333">0%</text></svg>
+    </div>
+    <div class="card panel gate">
+      <div class="top"><div class="sect" style="--c:var(--st-green)">approval gate <span class="ex">example</span></div><div class="rule">nothing ships without your approval</div></div>
+      <div class="boxes" id="boxes"><span class="today">needed an OK today <b id="gN">0</b> / 12</span></div>
+      <div class="steps">lane check › house rules › brand &amp; facts › <b>Steven's OK</b> › ship</div>
+      <div class="howok">Only Steven's own tick ✅ on APPROVALS.md, his 👍 on that proposal, or an explicit yes counts. Another bot's say-so never does.</div>
+    </div>
+  </div>
+
+  <div class="chartrow">
+    <div class="lbl"><div class="sect" style="--c:var(--st-blue)">jobs through the day <span class="ex">example</span></div>
+      <div style="color:var(--charcoal)">— jobs in</div><div style="color:#2e8a14">— shipped with Steven's OK</div></div>
+    <svg id="chart" viewBox="0 0 560 120" preserveAspectRatio="none"></svg>
+    <div class="nums"><div id="cIn">0</div><small>jobs in so far</small><div id="cOk" style="color:#2e8a14">0</div><small>shipped with OK</small></div>
+  </div>
+
+  <div id="recap">
+    <div class="sect" style="--c:var(--st-orange)">24h recap · 00:00 → 23:59</div>
+    <h2>How the example day went</h2>
+    <div style="font-size:12.5px;color:var(--slate)">Simulated day to show the flow. <span class="ex">example data</span> on the left; the dark box is real.</div>
+    <div class="rgrid">
+      <div>
+        <div style="font-size:13px;font-weight:700">jobs the team picked up</div>
+        <div class="rbig" id="rJobs">0</div>
+        <div class="rk">
+          <div class="card"><b id="rDone">0</b><small>done, no OK needed</small></div>
+          <div class="card"><b id="rShip">0</b><small>shipped with OK</small></div>
+          <div class="card"><b id="rHeld">0</b><small>held for Steven</small></div>
+          <div class="card"><b>0</b><small>shipped without OK</small></div>
+        </div>
+        <div style="font-size:12px;font-weight:700;margin-top:14px">jobs by bot <span class="ex">example</span></div>
+        <div class="bars" id="rBars"></div>
+      </div>
+      <div>
+        <div class="realbox">
+          <h3><span class="real">real</span> &nbsp;where things actually stand</h3>
+          <ul style="padding-left:16px;margin:0">
+            <li><b>14</b> bots on the new roster, 1 chief of staff routing them <small>(roster, Nov 12–13)</small></li>
+            <li><b>4</b> items open on APPROVALS.md: style guide v02, Christmas Eve livestream gift, Silverbird decisions, KS2 fit print (on hold) <small>(vault, last edited Nov 18)</small></li>
+            <li><b>57</b> retrocombs.com pull requests merged in November, #58 to #115 <small>(GitHub, Nov 20)</small></li>
+            <li>Latest: <b>#115</b> COBI M60 Patton stills, merged after Steven's “Approve” <small>(Nov 20)</small></li>
+          </ul>
+        </div>
+        <div class="card" style="margin-top:12px;padding:14px 16px;background:var(--cream)">
+          <div class="px" style="font-size:10px;line-height:1.9">request › route › draft<br>› check › your OK › ship</div>
+          <div style="font-size:11.5px;color:var(--slate);margin-top:6px">Every job gets checked. Only work with Steven's OK goes live.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<section class="card log">
+  <div class="top"><div class="sect" style="--c:var(--st-blue)">activity log <span class="ex">example entries</span></div><small>every job checked · only work with Steven's OK goes live</small></div>
+  <div id="rows"></div>
+</section>
+
+<footer>
+  <b>About the numbers.</b> Everything tagged <span class="ex">example</span> is a simulated day that shows how work flows through the team. Those counters, the chart and the log are not real activity. Figures tagged <span class="real">real</span> come from the bot roster, APPROVALS.md in the vault, and the stevencombs/retrocombs.github.io pull request list, checked Nov 20, 2026. No view or reach numbers are shown.
+  Sources are the places the team actually works from. Bot lanes come from the vault's HOME.md roster.
+</footer>
+</div>
+<button class="ctl" id="ctl">❚❚ pause</button>
+
+<script>
+(function(){
+const G={cmd:"var(--st-orange)",biz:"var(--st-green)",cre:"var(--st-red)",aud:"var(--st-yellow)",bld:"var(--st-blue)"};
+const GN={cmd:"Command",biz:"Business",cre:"Create",aud:"Audience",bld:"Build"};
+const SRC=[
+ ["✉️","Workspace inbox","brand mail you forward"],
+ ["🗓️","Production schedule","the video schedule Sheet"],
+ ["📺","YouTube + analytics","Studio, GA4, Search Console"],
+ ["🗂️","Obsidian vault","on the Workspace Drive"],
+ ["🐙","GitHub repos","retrocombs.com and apps"],
+ ["💬","Discord + your chats","@mentions and requests"]
+];
+const BOTS=[
+ ["✅","Librarian","vault, Drive, APPROVALS.md","cmd"],
+ ["🔍","Auditor","bots, access, rule drift","cmd"],
+ ["🤝","Partnerships","brand mail, deals, media kit","biz"],
+ ["💰","Revenue","revenue, affiliates, tax prep","biz"],
+ ["🕹️","Retro Producer","main channel, livestreams, Disk Mag","cre"],
+ ["🔌","Tech Producer","@retroCombs-tech","cre"],
+ ["🎬","Video Editor","post-production, XML timelines","cre"],
+ ["✍️","Editor","style and tone for channel writing","cre"],
+ ["📖","Author's Desk","Silverbird and long-form writing","cre"],
+ ["🎨","Brand Kit","logos, colors, fonts, graphics","aud"],
+ ["📣","Audience","YouTube, schedule, Discord, socials","aud"],
+ ["🤖","retroBot","Discord voice in #water-cooler","aud"],
+ ["💻","Developer","website, blog, apps, Mac tools","bld"],
+ ["🛠️","Workbench Tech","retro computers, CAD, 3D printing","bld"]
+];
+// Example events: [hour, source, bot, text, outcome]  outcome: done | ok | held | wait(->later ok)
+const EV=[
+ [0.6,5,11,"retroBot · answered a #water-cooler mention","done"],
+ [1.4,3,0,"Librarian · nightly vault tidy, dry run only","done"],
+ [2.3,4,12,"Developer · site fix ready as a PR, queued for Steven","gate"],
+ [3.2,2,10,"Audience · fresh upload check","done"],
+ [4.1,3,1,"Auditor · access check, no drift found","done"],
+ [5.0,0,2,"Partnerships · reply draft for a brand email","gate"],
+ [6.2,1,4,"Retro Producer · filming package draft","done"],
+ [7.1,4,12,"Developer · Steven's 👍 → PR merged","okprev"],
+ [7.6,3,7,"Editor · style pass on a blog post","done"],
+ [8.3,0,2,"Partnerships · Steven: “yes, send it”","okprev"],
+ [8.9,2,5,"Tech Producer · title and description options","gate"],
+ [9.6,3,9,"Brand Kit · thumbnail draft for review","gate"],
+ [10.2,5,4,"Retro Producer · livestream run sheet","done"],
+ [10.9,2,5,"Tech Producer · Steven picked option 2","okprev"],
+ [11.5,3,6,"Video Editor · cut list and XML timeline","done"],
+ [12.2,1,10,"Audience · Discord post draft","gate"],
+ [12.8,3,9,"Brand Kit · no OK yet, thumbnail waits","heldprev"],
+ [13.4,4,13,"Workbench Tech · KS2 case notes","done"],
+ [14.1,0,3,"Revenue · affiliate link check","done"],
+ [14.7,1,10,"Audience · Steven ticked ✅ → posted","okprev"],
+ [15.3,3,8,"Author's Desk · chapter consistency pass","done"],
+ [16.0,4,12,"Developer · companion blog post as a PR","gate"],
+ [16.6,2,10,"Audience · weekly numbers to the vault","done"],
+ [17.2,3,1,"Auditor · flagged a rule conflict","gate"],
+ [17.9,4,12,"Developer · Steven: “approve, merge it”","okprev"],
+ [18.5,5,11,"retroBot · answered a #water-cooler mention","done"],
+ [19.2,3,0,"Librarian · approvals routed to bots","done"],
+ [19.8,1,4,"Retro Producer · Disk Mag page refresh","gate"],
+ [20.5,3,1,"Auditor · fix held, Steven wants to talk first","heldprev"],
+ [21.1,0,2,"Partnerships · media kit update","gate"],
+ [21.7,1,4,"Retro Producer · Steven's 👍 → live","okprev"],
+ [22.4,3,7,"Editor · script tone notes","done"],
+ [23.0,0,2,"Partnerships · no reply yet, waits for tomorrow","heldprev"],
+ [23.5,2,3,"Revenue · monthly trend note","done"]
+];
+const DAY=24000, RECAP=6500, LOOP=DAY+RECAP;
+const $=id=>document.getElementById(id);
+// build
+const sl=$("srcList");
+SRC.forEach((s,i)=>{const d=document.createElement("div");d.className="card src";d.id="src"+i;d.style.marginBottom="12px";d.innerHTML=`<div class="ic">${s[0]}</div><div><b>${s[1]}</b><small>${s[2]}</small></div>`;sl.appendChild(d)});
+const bl=$("bots");
+BOTS.forEach((b,i)=>{const d=document.createElement("div");d.className="card bot";d.id="bot"+i;d.style.setProperty("--g",G[b[3]]);d.innerHTML=`<div class="em">${b[0]}</div><div><b>${b[1]}</b><small>${b[2]}</small></div><span class="ct" id="ct${i}">0</span>`;bl.appendChild(d)});
+$("legend").innerHTML=Object.keys(G).map(k=>`<span><i style="background:${G[k]}"></i>${GN[k]}</span>`).join("")+`<span style="margin-left:auto">counters: <span class="ex">example</span></span>`;
+const bx=$("boxes"), today=bx.querySelector(".today");
+for(let i=0;i<12;i++){const d=document.createElement("div");d.className="box";d.id="bx"+i;bx.insertBefore(d,today)}
+const tk=$("ticks");
+EV.forEach(e=>{if(e[4]==="okprev"||e[4]==="heldprev"){const t=document.createElement("div");t.className="tick";t.style.left=(e[0]/24*100)+"%";t.style.background=e[4]==="okprev"?"var(--st-green)":"var(--red)";tk.appendChild(t)}});
+// wires
+const svg=$("wires"), NS="http://www.w3.org/2000/svg";
+let paths={};
+function rel(el){const f=$("flow").getBoundingClientRect(),r=el.getBoundingClientRect(),s=f.width/$("flow").offsetWidth;return{l:(r.left-f.left)/s,t:(r.top-f.top)/s,w:r.width/s,h:r.height/s}}
+function wire(){
+  svg.innerHTML="";paths={};
+  const h=rel($("hub")), cx=h.l+h.w/2, cy=h.t+h.h/2, R=h.w/2+6;
+  SRC.forEach((s,i)=>{const r=rel($("src"+i)),x1=r.l+r.w,y1=r.t+r.h/2,x2=cx-R,y2=cy;
+    mk("s"+i,`M${x1},${y1} C${x1+50},${y1} ${x2-60},${y2} ${x2},${y2}`,"var(--slate)")});
+  BOTS.forEach((b,i)=>{const r=rel($("bot"+i)),x2=i%2?rel($("bot"+(i-1))).l:r.l,y2=r.t+r.h/2,x1=cx+R,y1=cy;
+    mk("b"+i,`M${x1},${y1} C${x1+40},${y1} ${x2-50},${y2} ${x2},${y2}`,G[b[3]])});
+  ["l","r"].forEach(k=>{const c=document.createElementNS(NS,"circle");c.setAttribute("cx",k=="l"?cx-R:cx+R);c.setAttribute("cy",cy);c.setAttribute("r",5);c.setAttribute("fill","#F5ECDD");c.setAttribute("stroke","#333333");c.setAttribute("stroke-width",2);svg.appendChild(c)});
+  pulse=document.createElementNS(NS,"circle");pulse.setAttribute("r",6);pulse.setAttribute("fill","#00A5FF");pulse.setAttribute("stroke","#333333");pulse.setAttribute("stroke-width",2);pulse.style.opacity=0;svg.appendChild(pulse);
+}
+let pulse;
+function mk(id,d,col){const p=document.createElementNS(NS,"path");p.setAttribute("d",d);p.setAttribute("fill","none");p.setAttribute("stroke",col);p.setAttribute("stroke-width",1.6);p.setAttribute("opacity",.45);svg.appendChild(p);paths[id]=p}
+// scale to viewport
+function fit(){const st=$("stage"),w=980,vw=document.documentElement.clientWidth,s=Math.min(1,(vw-16)/w);st.style.transform=s<1?`scale(${s})`:"none";st.style.marginLeft=s<1?"8px":"auto";document.body.style.height=s<1?(st.offsetHeight*s+20)+"px":"auto";}
+// state render
+const fmt=h=>{const m=Math.min(1439,Math.floor(h*60));return String(Math.floor(m/60)).padStart(2,"0")+":"+String(m%60).padStart(2,"0")};
+let lastN=-1;
+function render(ms){
+  const recap=ms>=DAY, h=recap?23.999:ms/1000;
+  $("clock").textContent=fmt(h);
+  const pct=h/24*100;$("fill").style.width=pct+"%";$("knob").style.left=pct+"%";
+  $("arc").setAttribute("stroke-dasharray",`${(h/24)*678.6} 999`);
+  const past=EV.filter(e=>e[0]<=h);
+  let done=0,ship=0,held=0,gated=0,jobs=0,cnt=BOTS.map(()=>0),gateSeq=[];
+  past.forEach(e=>{cnt[e[2]]++;
+    if(e[4]==="done"){done++;jobs++}
+    else if(e[4]==="gate"){gated++;jobs++;gateSeq.push("wait")}
+    else if(e[4]==="okprev"){ship++;const k=gateSeq.indexOf("wait");if(k>=0)gateSeq[k]="ok"}
+    else if(e[4]==="heldprev"){held++;const k=gateSeq.indexOf("wait");if(k>=0)gateSeq[k]="no"}
+  });
+  const waiting=gateSeq.filter(x=>x==="wait").length;
+  $("sJobs").textContent=jobs;$("sDone").textContent=done;$("sShip").textContent=ship;$("sHeld").textContent=held+waiting;
+  cnt.forEach((c,i)=>$("ct"+i).textContent=c);
+  $("hBig").textContent=held+waiting;$("hSub").textContent=`of ${gated} that needed an OK`;
+  const okp=gated?Math.round(ship/gated*100):0;$("dn").setAttribute("stroke-dasharray",`${okp} ${100-okp}`);$("dnt").textContent=okp+"% OK";
+  for(let i=0;i<12;i++){const b=$("bx"+i),s=gateSeq[i];b.className="box"+(s?" "+s:"");b.textContent=s==="ok"?"✓":s==="no"?"✕":s==="wait"?"…":""}
+  $("gN").textContent=gated;
+  // active event
+  const cur=past[past.length-1], age=cur?h-cur[0]:9;
+  document.querySelectorAll(".src.on,.bot.on").forEach(x=>x.classList.remove("on"));
+  Object.values(paths).forEach(p=>{p.setAttribute("opacity",.45);p.setAttribute("stroke-width",1.6)});
+  if(cur&&age<0.55&&!recap){
+    $("src"+cur[1]).classList.add("on");$("bot"+cur[2]).classList.add("on");
+    const ps=paths["s"+cur[1]],pb=paths["b"+cur[2]];[ps,pb].forEach(p=>{p.setAttribute("opacity",1);p.setAttribute("stroke-width",3)});
+    const f=age/0.55, p=f<.5?ps:pb, ff=f<.5?f*2:(f-.5)*2, L=p.getTotalLength(), pt=p.getPointAtLength(L*ff);
+    pulse.setAttribute("cx",pt.x);pulse.setAttribute("cy",pt.y);pulse.style.opacity=1;
+    $("qa").textContent="→ "+BOTS[cur[2]][1];
+  } else {pulse.style.opacity=0;$("qa").textContent="→ route";}
+  if(past.length!==lastN){if(past.length>lastN&&lastN>=0)$("hub").classList.remove("pulse"),void $("hub").offsetWidth,$("hub").classList.add("pulse");logs(past);lastN=past.length}
+  chart(h);
+  $("recap").classList.toggle("show",recap);
+  if(recap){$("rJobs").textContent=jobs;$("rDone").textContent=done;$("rShip").textContent=ship;$("rHeld").textContent=held+waiting;bars(cnt)}
+}
+function logs(past){
+  const rows=$("rows");rows.innerHTML="";
+  const sl5=past.slice(-5);sl5.forEach((e,j)=>{const o=e[4],tag=o==="done"?"done":o==="gate"?"waiting":o==="okprev"?"shipped":"held";
+    const lab=tag==="waiting"?"needs OK":tag;
+    const d=document.createElement("div");d.className="lr"+(j===sl5.length-1?" new":"");
+    d.innerHTML=`<span class="t">${fmt(e[0])}</span><span class="tag ${tag}">${lab}</span><span class="dot" style="background:${G[BOTS[e[2]][3]]};border:1px solid #333333"></span><span>${BOTS[e[2]][0]} ${e[3]}</span>`;rows.appendChild(d)});
+}
+function chart(h){
+  const c=$("chart");let a="",b="",n=0,k=0,pa=[],pb=[];
+  for(let x=0;x<=Math.min(h,24)+0.001;x+=0.25){
+    n=EV.filter(e=>e[0]<=x&&(e[4]==="done"||e[4]==="gate")).length;k=EV.filter(e=>e[0]<=x&&e[4]==="okprev").length;
+    const X=x/24*560;pa.push(`${X.toFixed(1)},${(112-n*4.2).toFixed(1)}`);pb.push(`${X.toFixed(1)},${(112-k*4.2).toFixed(1)}`);}
+  const last=pa[pa.length-1].split(",");
+  c.innerHTML=`<line x1="0" y1="112" x2="560" y2="112" stroke="#D9CDAD"/>`+
+   `<polygon points="0,112 ${pa.join(" ")} ${last[0]},112" fill="rgba(0,165,255,.12)"/>`+
+   `<polyline points="${pa.join(" ")}" fill="none" stroke="#464646" stroke-width="2.5"/>`+
+   `<polyline points="${pb.join(" ")}" fill="none" stroke="#2e8a14" stroke-width="2.5"/>`+
+   `<circle cx="${last[0]}" cy="${last[1]}" r="5" fill="#ED230D" stroke="#333333" stroke-width="1.5"/>`+
+   [6,12,18].map(t=>`<text x="${t/24*560}" y="10" font-size="9" fill="#636054" text-anchor="middle" font-family="Inter">${t}:00</text>`).join("");
+  $("cIn").textContent=n;$("cOk").textContent=k;
+}
+function bars(cnt){const m=Math.max(...cnt);$("rBars").innerHTML=cnt.map((c,i)=>`<div><b style="font-size:11px;color:#333333">${c}</b><span style="height:${Math.max(4,c/m*86)}px;background:${G[BOTS[i][3]]}"></span>${BOTS[i][0]}</div>`).join("")}
+// loop
+const qs=new URLSearchParams(location.search);
+let t0=performance.now(), paused=false, pauseAt=0, fixed=qs.has("t")?parseFloat(qs.get("t"))*1000:null;
+if(qs.has("recap"))fixed=DAY+1000;
+if(fixed!==null){const st=document.createElement("style");st.textContent="*{animation:none!important;transition:none!important}";document.head.appendChild(st)}
+function frame(now){let ms;if(fixed!==null)ms=fixed;else if(paused)ms=pauseAt;else ms=(now-t0)%LOOP;
+  if(!paused&&fixed===null&&ms<200&&lastN>0)lastN=-1;
+  render(ms);requestAnimationFrame(frame)}
+$("ctl").onclick=()=>{if(paused){t0=performance.now()-pauseAt;paused=false;$("ctl").textContent="❚❚ pause"}else{pauseAt=(performance.now()-t0)%LOOP;paused=true;$("ctl").textContent="▶ play"}};
+function init(){fit();wire();requestAnimationFrame(frame)}
+window.addEventListener("resize",()=>{fit();wire()});
+(document.fonts&&document.fonts.ready?document.fonts.ready:Promise.resolve()).then(init);
+})();
+</script>
+</body>
+</html>
