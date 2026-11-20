@@ -128,8 +128,9 @@ main.card{padding:16px 18px 14px;position:relative}
 .log{margin-top:14px;padding:12px 16px}
 .log .top{display:flex;justify-content:space-between;align-items:center}
 .log .top small{font-size:11px;color:var(--slate)}
-#rows{height:170px;overflow:hidden;position:relative}
-.lr{display:grid;grid-template-columns:52px 92px 12px 1fr;gap:8px;align-items:center;height:34px;font-size:12.5px;border-bottom:1px dashed var(--beige)}
+#rows{height:238px;overflow-y:auto;position:relative;overscroll-behavior:contain}
+.lr{display:grid;grid-template-columns:52px 92px 12px 1fr;gap:8px;align-items:center;height:34px;font-size:12.5px;border-bottom:1px dashed var(--beige);cursor:pointer;border-radius:6px;padding:0 4px;outline:none}
+.lr:hover,.lr:focus-visible{background:rgba(0,165,255,.12);box-shadow:inset 0 0 0 2px var(--st-blue)}
 .lr.new{animation:in .45s ease-out}
 @keyframes in{from{opacity:0;transform:translateY(10px)}}
 .lr .t{font-family:VT323,monospace;font-size:20px;color:var(--slate)}
@@ -159,7 +160,70 @@ main.card{padding:16px 18px 14px;position:relative}
 .bars div{flex:1;text-align:center;font-size:9px;color:var(--slate)}
 .bars span{display:block;border-radius:4px 4px 0 0;border:1px solid var(--ink);margin-bottom:3px}
 footer{margin-top:14px;font-size:11.5px;color:var(--slate);line-height:1.5}
-.ctl{position:fixed;right:14px;bottom:14px;z-index:9;font:600 12px Inter;background:var(--charcoal);color:#fff;border:0;border-radius:18px;padding:8px 14px;cursor:pointer}
+.ctl{font:600 12px Inter;background:var(--charcoal);color:#fff;border:0;border-radius:18px;padding:8px 14px;cursor:pointer;white-space:nowrap}
+button{font-family:Inter,sans-serif}
+button:focus-visible,select:focus-visible,.bot:focus-visible,.hub:focus-visible,.track:focus-visible,.mtrack:focus-visible{outline:3px solid var(--st-blue);outline-offset:2px}
+/* interactive: timeline controls */
+.track{cursor:pointer;touch-action:none;outline:none;border-radius:6px}
+.track:before{content:"";position:absolute;left:-10px;right:-10px;top:-10px;bottom:-6px}
+.track.drag .knob,.mtrack.drag .knob{box-shadow:0 0 0 8px rgba(0,165,255,.35)}
+.tctl{display:flex;gap:6px;align-items:center}
+.tbtn{font:600 11px Inter;background:var(--cream);color:var(--ink);border:2px solid var(--beige);border-radius:14px;padding:4px 9px;cursor:pointer;white-space:nowrap}
+.tbtn:hover{border-color:var(--slate)}
+.tbtn[aria-pressed="true"]{background:var(--charcoal);color:#fff;border-color:var(--ink)}
+.tbtn.play{background:var(--charcoal);color:#fff;border-color:var(--ink);min-width:66px}
+.spd{display:flex;gap:3px}
+.hint{font-size:10.5px;color:var(--slate);margin:-6px 0 10px 0}
+/* dock (bottom-right on desktop, full control bar on phones) */
+.dock{position:fixed;right:14px;bottom:14px;z-index:9;display:flex;gap:8px;align-items:center}
+.dock .mob{display:none}
+.mtrack{position:relative;flex:1;height:30px;touch-action:none;cursor:pointer;outline:none}
+.mtrack .rail,.mtrack .fill{top:12px}
+.mtrack .knob{top:6px}
+.dclock{font-family:VT323,monospace;font-size:26px;color:var(--ink);min-width:52px}
+@media (max-width:700px){
+  .dock{left:0;right:0;bottom:0;background:var(--cream);border-top:2px solid var(--beige);padding:8px 10px calc(8px + env(safe-area-inset-bottom));box-shadow:0 -4px 14px rgba(70,70,70,.12);flex-wrap:wrap}
+  .dock .mob{display:flex}
+  .dock .mtrack.mob{display:block;flex:1 1 100%;order:-1}
+  .dock .ctl{padding:9px 14px}
+  .dock .tbtn{padding:7px 10px;font-size:12px}
+}
+/* bot cards are buttons */
+.bot{cursor:pointer}
+.bot:hover{border-color:var(--slate)}
+.bot.hl,.src.hl{border-color:var(--st-blue);box-shadow:0 2px 0 var(--ink),0 0 0 4px rgba(0,165,255,.35)}
+.flow.dim .bot:not(.hl),.flow.dim .src:not(.hl){opacity:.38}
+.hub{cursor:pointer;border-radius:50%}
+/* log filters */
+.filters{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:8px 0 6px;font-size:11px;color:var(--slate)}
+.filters select{font:600 11.5px Inter;color:var(--ink);background:var(--cream);border:2px solid var(--beige);border-radius:10px;padding:4px 8px}
+.chips{display:flex;gap:4px;flex-wrap:wrap}
+.chip{font:700 10.5px Inter;border:1px solid var(--ink);border-radius:10px;padding:4px 9px;cursor:pointer;background:var(--cream);color:var(--ink);opacity:.6}
+.chip[aria-pressed="true"]{opacity:1;box-shadow:0 0 0 2px var(--ink)}
+.chip.done{background:var(--beige)}.chip.waiting{background:var(--st-yellow)}.chip.shipped{background:var(--st-green)}.chip.held{background:var(--red);color:#fff}
+.lcount{margin-left:auto}
+.empty{font-size:12.5px;color:var(--slate);padding:14px 4px}
+/* detail panel */
+.dlgwrap{position:fixed;inset:0;z-index:20}
+.dlgwrap[hidden]{display:none}
+.dlgbg{position:absolute;inset:0;background:rgba(51,51,51,.45)}
+#dlg{position:absolute;top:0;right:0;bottom:0;width:min(420px,100%);background:var(--cream);border-left:4px solid var(--g,var(--ink));box-shadow:-8px 0 30px rgba(51,51,51,.25);padding:20px 22px 28px;overflow-y:auto;animation:slide .25s ease-out;outline:none}
+@keyframes slide{from{transform:translateX(30px);opacity:0}}
+.dclose{position:absolute;top:12px;right:12px;width:36px;height:36px;border-radius:50%;border:2px solid var(--ink);background:var(--cream);font:700 16px Inter;cursor:pointer;color:var(--ink)}
+.dhead{display:flex;gap:12px;align-items:center;margin:4px 40px 12px 0}
+.dhead .em{font-size:38px;width:58px;height:58px;border-radius:14px;background:var(--charcoal);display:grid;place-items:center;box-shadow:0 3px 0 var(--ink)}
+.dhead h2{font-family:"Press Start 2P",monospace;font-size:14px;line-height:1.4;margin:0 0 6px}
+.grp{display:inline-block;font:700 10px Inter;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--ink);border-radius:8px;padding:3px 7px;background:var(--g)}
+#dlg h3{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--slate);margin:18px 0 8px}
+#dlg p,#dlg li{font-size:13px;line-height:1.45}
+#dlg ul{margin:0;padding-left:18px}
+.jobs{list-style:none;padding:0!important}
+.jobs li{display:grid;grid-template-columns:46px 78px 1fr;gap:8px;align-items:center;border-bottom:1px dashed var(--beige);padding:5px 0}
+.jobs .t{font-family:VT323,monospace;font-size:19px;color:var(--slate)}
+.dfoot{margin-top:18px;display:flex;gap:8px;flex-wrap:wrap}
+@media (prefers-reduced-motion:reduce){
+  *,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+}
 </style>
 </head>
 <body>
@@ -189,16 +253,22 @@ footer{margin-top:14px;font-size:11.5px;color:var(--slate);line-height:1.5}
 
 <div class="tl">
   <span class="live">a day in the team</span>
-  <span class="clock" id="clock">00:00</span>
-  <div class="track" id="track">
+  <span class="clock" id="clock" aria-hidden="true">00:00</span>
+  <div class="track" id="track" role="slider" tabindex="0" aria-label="Time of the example day" aria-valuemin="0" aria-valuemax="1439" aria-valuenow="0" aria-valuetext="00:00">
     <div class="rail"></div>
     <div class="night" style="left:0;width:29.17%"></div>
     <div class="fill" id="fill"></div>
     <div id="ticks"></div>
     <div class="knob" id="knob"></div>
-    <div class="tlabels"><span style="left:0">00:00</span><span style="left:9%">overnight · work queues, nothing ships</span><span style="right:0">24:00</span></div>
+    <div class="tlabels"><span style="left:0">00:00</span><span style="left:9%">overnight · work queues, nothing ships</span><span style="right:0">23:59</span></div>
+  </div>
+  <div class="tctl">
+    <button class="tbtn play" id="play2" type="button" aria-label="Pause">❚❚ pause</button>
+    <span class="spd" role="group" aria-label="Playback speed"><button class="tbtn" type="button" data-s="0.5">0.5x</button><button class="tbtn" type="button" data-s="1">1x</button><button class="tbtn" type="button" data-s="2">2x</button><button class="tbtn" type="button" data-s="4">4x</button></span>
+    <button class="tbtn" id="recapBtn" type="button">recap</button>
   </div>
 </div>
+<div class="hint">Drag the playhead (or use ← → on it) to replay the example day. Click a bot for its lane and recent jobs. Hover a log entry to see who handled it.</div>
 
 <main class="card" id="main">
   <div class="cap"><b>1 chief of staff</b> · 14 bots · <b>nothing ships without Steven's OK</b> <span class="ex" style="margin-left:6px">example day · simulated</span></div>
@@ -211,7 +281,7 @@ footer{margin-top:14px;font-size:11.5px;color:var(--slate);line-height:1.5}
     <div class="hubcol">
       <div class="sect" style="--c:var(--st-blue)">chief of staff</div>
       <div class="q" id="q"><em>whose job is this?</em> <span class="ans" id="qa">→ route</span></div>
-      <div class="hub" id="hub">
+      <div class="hub" id="hub" role="button" tabindex="0" aria-haspopup="dialog" aria-label="Chief of Staff details">
         <svg class="prog" viewBox="0 0 226 226"><circle cx="113" cy="113" r="108" fill="none" stroke="var(--beige)" stroke-width="5"/><circle id="arc" cx="113" cy="113" r="108" fill="none" stroke="var(--ink)" stroke-width="5" stroke-linecap="round" stroke-dasharray="0 999"/></svg>
         <div class="ring"></div><div class="ring2"></div>
         <div class="core"><div><div class="e">🧭</div><div class="n">Chief of Staff</div></div></div>
@@ -285,15 +355,37 @@ footer{margin-top:14px;font-size:11.5px;color:var(--slate);line-height:1.5}
 
 <section class="card log">
   <div class="top"><div class="sect" style="--c:var(--st-blue)">activity log <span class="ex">example entries</span></div><small>every job checked · only work with Steven's OK goes live</small></div>
-  <div id="rows"></div>
+  <div class="filters">
+    <label for="fBot">bot</label><select id="fBot"><option value="all">All bots</option></select>
+    <span>status</span><span class="chips" role="group" aria-label="Filter by status">
+      <button type="button" class="chip" data-f="all" aria-pressed="true">All</button>
+      <button type="button" class="chip done" data-f="done" aria-pressed="false">done</button>
+      <button type="button" class="chip waiting" data-f="waiting" aria-pressed="false">needs OK</button>
+      <button type="button" class="chip shipped" data-f="shipped" aria-pressed="false">shipped</button>
+      <button type="button" class="chip held" data-f="held" aria-pressed="false">held</button></span>
+    <span class="lcount" id="lcount" aria-live="polite"></span>
+  </div>
+  <div id="rows" role="list" aria-label="Activity log, newest first"></div>
 </section>
 
 <footer>
   <b>About the numbers.</b> Everything tagged <span class="ex">example</span> is a simulated day that shows how work flows through the team. Those counters, the chart and the log are not real activity. Figures tagged <span class="real">real</span> come from the bot roster, APPROVALS.md in the vault, and the stevencombs/retrocombs.github.io pull request list, checked Nov 20, 2026. No view or reach numbers are shown.
-  Sources are the places the team actually works from. Bot lanes come from the vault's HOME.md roster.
+  Sources are the places the team actually works from. Bot lanes come from the vault's HOME.md roster. The timeline, speed controls, bot details and log filters only replay the example day; recent jobs in a bot's panel are example entries unless tagged <span class="real">real</span>.
 </footer>
 </div>
-<button class="ctl" id="ctl">❚❚ pause</button>
+<div class="dock" id="dock">
+  <div class="mtrack mob" id="mtrack" role="slider" tabindex="0" aria-label="Time of the example day" aria-valuemin="0" aria-valuemax="1439" aria-valuenow="0"><div class="rail"></div><div class="fill" id="mfill"></div><div class="knob" id="mknob"></div></div>
+  <span class="dclock mob" id="dclock">00:00</span>
+  <span class="spd mob" role="group" aria-label="Playback speed"><button class="tbtn" type="button" data-s="0.5">0.5x</button><button class="tbtn" type="button" data-s="1">1x</button><button class="tbtn" type="button" data-s="2">2x</button><button class="tbtn" type="button" data-s="4">4x</button></span>
+  <button class="ctl" id="ctl" type="button">❚❚ pause</button>
+</div>
+<div class="dlgwrap" id="dlgWrap" hidden>
+  <div class="dlgbg" data-close></div>
+  <aside id="dlg" role="dialog" aria-modal="true" aria-labelledby="dTitle" tabindex="-1">
+    <button class="dclose" type="button" data-close aria-label="Close details">✕</button>
+    <div id="dBody"></div>
+  </aside>
+</div>
 
 <script>
 (function(){
@@ -366,7 +458,7 @@ const $=id=>document.getElementById(id);
 const sl=$("srcList");
 SRC.forEach((s,i)=>{const d=document.createElement("div");d.className="card src";d.id="src"+i;d.style.marginBottom="12px";d.innerHTML=`<div class="ic">${s[0]}</div><div><b>${s[1]}</b><small>${s[2]}</small></div>`;sl.appendChild(d)});
 const bl=$("bots");
-BOTS.forEach((b,i)=>{const d=document.createElement("div");d.className="card bot";d.id="bot"+i;d.style.setProperty("--g",G[b[3]]);d.innerHTML=`<div class="em">${b[0]}</div><div><b>${b[1]}</b><small>${b[2]}</small></div><span class="ct" id="ct${i}">0</span>`;bl.appendChild(d)});
+BOTS.forEach((b,i)=>{const d=document.createElement("div");d.className="card bot";d.id="bot"+i;d.tabIndex=0;d.setAttribute("role","button");d.setAttribute("aria-haspopup","dialog");d.setAttribute("aria-label",b[1]+" details");d.style.setProperty("--g",G[b[3]]);d.innerHTML=`<div class="em">${b[0]}</div><div><b>${b[1]}</b><small>${b[2]}</small></div><span class="ct" id="ct${i}">0</span>`;bl.appendChild(d)});
 $("legend").innerHTML=Object.keys(G).map(k=>`<span><i style="background:${G[k]}"></i>${GN[k]}</span>`).join("")+`<span style="margin-left:auto">counters: <span class="ex">example</span></span>`;
 const bx=$("boxes"), today=bx.querySelector(".today");
 for(let i=0;i<12;i++){const d=document.createElement("div");d.className="box";d.id="bx"+i;bx.insertBefore(d,today)}
@@ -389,13 +481,13 @@ function wire(){
 let pulse;
 function mk(id,d,col){const p=document.createElementNS(NS,"path");p.setAttribute("d",d);p.setAttribute("fill","none");p.setAttribute("stroke",col);p.setAttribute("stroke-width",1.6);p.setAttribute("opacity",.45);svg.appendChild(p);paths[id]=p}
 // scale to viewport
-function fit(){const st=$("stage"),w=980,vw=document.documentElement.clientWidth,s=Math.min(1,(vw-16)/w);st.style.transform=s<1?`scale(${s})`:"none";st.style.marginLeft=s<1?"8px":"auto";document.body.style.height=s<1?(st.offsetHeight*s+20)+"px":"auto";}
+function fit(){const st=$("stage"),w=980,vw=document.documentElement.clientWidth,s=Math.min(1,(vw-16)/w);st.style.transform=s<1?`scale(${s})`:"none";st.style.marginLeft=s<1?"8px":"auto";document.body.style.height=s<1?(st.offsetHeight*s+(vw<=700?130:20))+"px":"auto";}
 // state render
 const fmt=h=>{const m=Math.min(1439,Math.floor(h*60));return String(Math.floor(m/60)).padStart(2,"0")+":"+String(m%60).padStart(2,"0")};
 let lastN=-1;
 function render(ms){
   const recap=ms>=DAY, h=recap?23.999:ms/1000;
-  $("clock").textContent=fmt(h);
+  $("clock").textContent=fmt(h);curH=h;
   const pct=h/24*100;$("fill").style.width=pct+"%";$("knob").style.left=pct+"%";
   $("arc").setAttribute("stroke-dasharray",`${(h/24)*678.6} 999`);
   const past=EV.filter(e=>e[0]<=h);
@@ -424,17 +516,27 @@ function render(ms){
     pulse.setAttribute("cx",pt.x);pulse.setAttribute("cy",pt.y);pulse.style.opacity=1;
     $("qa").textContent="→ "+BOTS[cur[2]][1];
   } else {pulse.style.opacity=0;$("qa").textContent="→ route";}
-  if(past.length!==lastN){if(past.length>lastN&&lastN>=0)$("hub").classList.remove("pulse"),void $("hub").offsetWidth,$("hub").classList.add("pulse");logs(past);lastN=past.length}
+  if(past.length!==lastN||logDirty){const grew=playing&&!dragging&&lastN>=0&&past.length===lastN+1;
+    if(grew){$("hub").classList.remove("pulse");void $("hub").offsetWidth;$("hub").classList.add("pulse")}
+    logs(past,grew,h);lastN=past.length;logDirty=false;if(openIdx!==null)fillDlg()}
+  ui(h,recap);
   chart(h);
   $("recap").classList.toggle("show",recap);
   if(recap){$("rJobs").textContent=jobs;$("rDone").textContent=done;$("rShip").textContent=ship;$("rHeld").textContent=held+waiting;bars(cnt)}
 }
-function logs(past){
+const tagOf=e=>{const o=e[4];return o==="done"?"done":o==="gate"?"waiting":o==="okprev"?"shipped":"held"};
+const labOf=t=>t==="waiting"?"needs OK":t;
+let fBot="all", fStat="all", logDirty=false, curH=0;
+function logs(past,grew,h){
   const rows=$("rows");rows.innerHTML="";
-  const sl5=past.slice(-5);sl5.forEach((e,j)=>{const o=e[4],tag=o==="done"?"done":o==="gate"?"waiting":o==="okprev"?"shipped":"held";
-    const lab=tag==="waiting"?"needs OK":tag;
-    const d=document.createElement("div");d.className="lr"+(j===sl5.length-1?" new":"");
-    d.innerHTML=`<span class="t">${fmt(e[0])}</span><span class="tag ${tag}">${lab}</span><span class="dot" style="background:${G[BOTS[e[2]][3]]};border:1px solid #333333"></span><span>${BOTS[e[2]][0]} ${e[3]}</span>`;rows.appendChild(d)});
+  const list=past.filter(e=>(fBot==="all"||+fBot===e[2])&&(fStat==="all"||tagOf(e)===fStat)).slice().reverse();
+  list.forEach((e,j)=>{const tag=tagOf(e);
+    const d=document.createElement("div");d.className="lr"+(j===0&&grew?" new":"");d.tabIndex=0;d.setAttribute("role","listitem");
+    d.dataset.bot=e[2];d.dataset.src=e[1];
+    d.setAttribute("aria-label",`${fmt(e[0])}, ${labOf(tag)}, ${e[3]}. Press Enter for ${BOTS[e[2]][1]} details`);
+    d.innerHTML=`<span class="t">${fmt(e[0])}</span><span class="tag ${tag}">${labOf(tag)}</span><span class="dot" style="background:${G[BOTS[e[2]][3]]};border:1px solid #333333"></span><span>${BOTS[e[2]][0]} ${e[3]}</span>`;rows.appendChild(d)});
+  if(!list.length){const d=document.createElement("div");d.className="empty";d.textContent=past.length?"No example entries match these filters yet. Try All, or drag the playhead later in the day.":"No entries yet. Press play or drag the playhead.";rows.appendChild(d)}
+  $("lcount").textContent=`showing ${list.length} of ${past.length} example entries up to ${fmt(h)}`;
 }
 function chart(h){
   const c=$("chart");let a="",b="",n=0,k=0,pa=[],pb=[];
@@ -451,16 +553,100 @@ function chart(h){
   $("cIn").textContent=n;$("cOk").textContent=k;
 }
 function bars(cnt){const m=Math.max(...cnt);$("rBars").innerHTML=cnt.map((c,i)=>`<div><b style="font-size:11px;color:#333333">${c}</b><span style="height:${Math.max(4,c/m*86)}px;background:${G[BOTS[i][3]]}"></span>${BOTS[i][0]}</div>`).join("")}
-// loop
+// ---- playback state
 const qs=new URLSearchParams(location.search);
-let t0=performance.now(), paused=false, pauseAt=0, fixed=qs.has("t")?parseFloat(qs.get("t"))*1000:null;
-if(qs.has("recap"))fixed=DAY+1000;
-if(fixed!==null){const st=document.createElement("style");st.textContent="*{animation:none!important;transition:none!important}";document.head.appendChild(st)}
-function frame(now){let ms;if(fixed!==null)ms=fixed;else if(paused)ms=pauseAt;else ms=(now-t0)%LOOP;
-  if(!paused&&fixed===null&&ms<200&&lastN>0)lastN=-1;
+const RM=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+let ms=0, playing=true, speed=1, last=performance.now(), dragging=false, frozen=false;
+if(qs.has("t")){const v=parseFloat(qs.get("t"));ms=Math.max(0,Math.min(23.999,isNaN(v)?0:v))*1000;playing=false;frozen=true}
+if(qs.has("recap")){ms=DAY+1000;playing=false;frozen=true}
+if(frozen){const st=document.createElement("style");st.textContent="*{animation:none!important;transition:none!important}";document.head.appendChild(st)}
+else if(RM){playing=false;ms=12*1000} // reduced motion: start paused at mid-day, user can press play
+function frame(now){const dt=Math.max(0,Math.min(250,now-last));last=now;
+  if(playing&&!dragging){ms+=dt*speed;if(ms>=LOOP){ms%=LOOP;lastN=-1}}
   render(ms);requestAnimationFrame(frame)}
-$("ctl").onclick=()=>{if(paused){t0=performance.now()-pauseAt;paused=false;$("ctl").textContent="❚❚ pause"}else{pauseAt=(performance.now()-t0)%LOOP;paused=true;$("ctl").textContent="▶ play"}};
-function init(){fit();wire();requestAnimationFrame(frame)}
+function setPlaying(p){playing=p;last=performance.now();
+  ["ctl","play2"].forEach(id=>{$(id).textContent=p?"❚❚ pause":"▶ play";$(id).setAttribute("aria-label",p?"Pause":"Play")})}
+$("ctl").onclick=()=>setPlaying(!playing);
+$("play2").onclick=()=>setPlaying(!playing);
+document.querySelectorAll("[data-s]").forEach(b=>b.onclick=()=>{speed=parseFloat(b.dataset.s);syncSpeed();if(!playing)setPlaying(true)});
+function syncSpeed(){document.querySelectorAll("[data-s]").forEach(b=>b.setAttribute("aria-pressed",String(parseFloat(b.dataset.s)===speed)))}
+$("recapBtn").onclick=()=>{ms=DAY+10;lastN=-1;logDirty=true};
+function setHour(hh){ms=Math.max(0,Math.min(23.999,hh))*1000;logDirty=true}
+function ui(h,recap){const m=Math.min(1439,Math.floor(h*60)),pct=h/24*100,vt=fmt(h)+(recap?" (recap)":"");
+  $("mfill").style.width=pct+"%";$("mknob").style.left=pct+"%";$("dclock").textContent=fmt(h);
+  ["track","mtrack"].forEach(id=>{const t=$(id);if(t.getAttribute("aria-valuenow")!=m){t.setAttribute("aria-valuenow",m);t.setAttribute("aria-valuetext",vt)}})}
+// drag / touch scrubbing (pointer events cover mouse, pen and touch)
+function scrub(el){
+  const at=ev=>{const r=el.getBoundingClientRect();setHour((ev.clientX-r.left)/r.width*24)};
+  el.addEventListener("pointerdown",ev=>{dragging=true;el.classList.add("drag");try{el.setPointerCapture(ev.pointerId)}catch(_){}at(ev);ev.preventDefault()});
+  el.addEventListener("pointermove",ev=>{if(dragging)at(ev)});
+  const end=()=>{if(!dragging)return;dragging=false;el.classList.remove("drag");last=performance.now()};
+  el.addEventListener("pointerup",end);el.addEventListener("pointercancel",end);el.addEventListener("lostpointercapture",end);
+  el.addEventListener("keydown",ev=>{const h=Math.min(ms,23999)/1000,k=ev.key;let n=null;
+    if(k==="ArrowRight"||k==="ArrowUp")n=h+0.25;else if(k==="ArrowLeft"||k==="ArrowDown")n=h-0.25;
+    else if(k==="PageUp")n=h+1;else if(k==="PageDown")n=h-1;else if(k==="Home")n=0;else if(k==="End")n=23.999;
+    else if(k===" "){ev.preventDefault();setPlaying(!playing);return}
+    if(n!==null){ev.preventDefault();setHour(n)}});
+}
+scrub($("track"));scrub($("mtrack"));
+// log filters
+const fb=$("fBot");BOTS.forEach((b,i)=>{const o=document.createElement("option");o.value=i;o.textContent=b[0]+" "+b[1];fb.appendChild(o)});
+fb.onchange=()=>{fBot=fb.value;logDirty=true};
+document.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{fStat=c.dataset.f;document.querySelectorAll(".chip").forEach(x=>x.setAttribute("aria-pressed",String(x===c)));logDirty=true});
+// hover / focus a log entry -> highlight the bot (and source) involved
+const rowsEl=$("rows");
+function hl(row){document.querySelectorAll(".hl").forEach(x=>x.classList.remove("hl"));
+  if(row){$("bot"+row.dataset.bot).classList.add("hl");$("src"+row.dataset.src).classList.add("hl");$("flow").classList.add("dim")}else $("flow").classList.remove("dim")}
+rowsEl.addEventListener("mouseover",ev=>{const r=ev.target.closest(".lr");if(r)hl(r)});
+rowsEl.addEventListener("mouseleave",()=>hl(null));
+rowsEl.addEventListener("focusin",ev=>{const r=ev.target.closest(".lr");if(r)hl(r)});
+rowsEl.addEventListener("focusout",ev=>{if(!rowsEl.contains(ev.relatedTarget))hl(null)});
+rowsEl.addEventListener("click",ev=>{const r=ev.target.closest(".lr");if(r)openDlg(+r.dataset.bot,r)});
+rowsEl.addEventListener("keydown",ev=>{const r=ev.target.closest(".lr");if(r&&(ev.key==="Enter"||ev.key===" ")){ev.preventDefault();openDlg(+r.dataset.bot,r)}});
+// ---- bot detail panel
+// Lanes: BOTS[i][2] mirrors the vault's HOME.md roster (same text as the cards).
+// NOTES are lane rules already stated by the bots themselves; keep generic otherwise.
+// VERIFY: lane wording against HOME.md if the roster changes after Nov 20, 2026.
+const NOTES={
+ 3:["Affiliate links belong to Revenue."],
+ 12:["Code changes go through branches and pull requests.","No merge without Steven's OK."]
+};
+// Real, sourced work (GitHub pull requests, stevencombs/retrocombs.github.io). Only add items that can be checked.
+const REAL={12:[["#116","bot team dashboard at retrocombs.com/bots","merged Nov 20"],["#115","COBI M60 Patton post stills","merged Nov 20"],["#114","video stills for 14 older posts","merged Nov 20"]]};
+let openIdx=null, opener=null;
+function fillDlg(){const i=openIdx,h=curH,body=$("dBody"),dlg=$("dlg");
+  if(i===-1){dlg.style.setProperty("--g","var(--st-blue)");
+    const n=EV.filter(e=>e[0]<=h).length;
+    body.innerHTML=`<div class="dhead"><div class="em">🧭</div><div><h2 id="dTitle">Chief of Staff</h2><span class="grp" style="--g:var(--st-blue)">routes the team</span></div></div>
+    <h3>lane</h3><p>Routes work · runs the Workspace calendar · catches wrong-bot requests.</p>
+    <h3>house rules</h3><ul><li>Every job is routed to the bot whose lane it is.</li><li>Nothing ships without Steven's OK. Another bot's say-so never counts.</li></ul>
+    <h3>routed so far <span class="ex">example</span></h3><p><b class="mono" style="font-size:26px;font-weight:400">${n}</b> example jobs routed by ${fmt(h)}.</p>`;return}
+  const b=BOTS[i];dlg.style.setProperty("--g",G[b[3]]);
+  const mine=EV.filter(e=>e[2]===i&&e[0]<=h).slice().reverse(), all=EV.filter(e=>e[2]===i).length;
+  const jobs=mine.slice(0,6).map(e=>{const t=tagOf(e);return `<li><span class="t">${fmt(e[0])}</span><span class="tag ${t}">${labOf(t)}</span><span>${e[3].replace(b[1]+" · ","")}</span></li>`}).join("");
+  const notes=(NOTES[i]||[]).map(x=>`<li>${x}</li>`).join("");
+  const real=(REAL[i]||[]).map(r=>`<li><b>${r[0]}</b> ${r[1]} <small style="color:var(--slate)">(${r[2]})</small></li>`).join("");
+  body.innerHTML=`<div class="dhead"><div class="em">${b[0]}</div><div><h2 id="dTitle">${b[1]}</h2><span class="grp">${GN[b[3]]}</span></div></div>
+   <h3>lane <small style="text-transform:none;letter-spacing:0">(from the HOME.md roster)</small></h3><p>${b[2][0].toUpperCase()+b[2].slice(1)}.</p>
+   <h3>house rules</h3><ul>${notes}<li>Works in this lane only; wrong-bot requests go back to the Chief of Staff.</li><li>Nothing ships without Steven's OK.</li></ul>
+   ${real?`<h3>recent work <span class="real">real</span></h3><ul>${real}</ul><p style="font-size:11px;color:var(--slate)">Source: retrocombs.com pull requests on GitHub.</p>`:""}
+   <h3>recent jobs <span class="ex">example</span></h3>
+   ${jobs?`<ul class="jobs">${jobs}</ul>`:`<p style="color:var(--slate)">No example jobs yet at ${fmt(h)}. Drag the playhead later in the day.</p>`}
+   <p style="font-size:11px;color:var(--slate)">From the simulated day: ${mine.length} of ${all} example jobs by ${fmt(h)}. Not real activity.</p>
+   <div class="dfoot"><button class="tbtn" type="button" id="dFilter">show only ${b[1]} in the log</button></div>`;
+  $("dFilter").onclick=()=>{fBot=String(i);fb.value=fBot;logDirty=true;closeDlg();$("rows").scrollIntoView({block:"center",behavior:RM?"auto":"smooth"})};
+}
+function openDlg(i,from){openIdx=i;opener=from||document.activeElement;fillDlg();$("dlgWrap").hidden=false;document.body.style.overflow="hidden";$("dlg").querySelector(".dclose").focus()}
+function closeDlg(){if(openIdx===null)return;openIdx=null;$("dlgWrap").hidden=true;document.body.style.overflow="";if(opener&&opener.focus)opener.focus()}
+$("dlgWrap").addEventListener("click",ev=>{if(ev.target.closest("[data-close]"))closeDlg()});
+document.addEventListener("keydown",ev=>{if(openIdx===null)return;
+  if(ev.key==="Escape"){ev.preventDefault();closeDlg();return}
+  if(ev.key==="Tab"){const f=[...$("dlg").querySelectorAll("button,[href],select,[tabindex]:not([tabindex='-1'])")];if(!f.length)return;
+    const a=f[0],z=f[f.length-1];if(ev.shiftKey&&document.activeElement===a){ev.preventDefault();z.focus()}else if(!ev.shiftKey&&document.activeElement===z){ev.preventDefault();a.focus()}}});
+BOTS.forEach((b,i)=>{const c=$("bot"+i);c.onclick=()=>openDlg(i,c);c.onkeydown=ev=>{if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();openDlg(i,c)}}});
+$("hub").onclick=()=>openDlg(-1,$("hub"));$("hub").onkeydown=ev=>{if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();openDlg(-1,$("hub"))}};
+syncSpeed();setPlaying(playing);
+function init(){fit();wire();last=performance.now();requestAnimationFrame(frame)}
 window.addEventListener("resize",()=>{fit();wire()});
 (document.fonts&&document.fonts.ready?document.fonts.ready:Promise.resolve()).then(init);
 })();
