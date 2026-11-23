@@ -49,6 +49,7 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
       {% if page.author %}<span>by {{ page.author }}</span>{% endif %}
       {% if pill_name != "" %}<span>Topic: <a href="{{ pill_url | relative_url }}">{{ pill_name }}</a></span>{% endif %}
+      <span><a href="{{ "/feed.xml" | relative_url }}">Subscribe via RSS</a></span>
     </div>
   </header>
   <div class="layout">

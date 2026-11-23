@@ -1,0 +1,6 @@
+# Extra author fields for jekyll-seo-tag. Posts set `author` to a name.
+# The matching entry here supplies author.url in the page JSON-LD.
+"Steven B. Combs, Ph.D.":
+  url: https://retrocombs.com/about
+"Steven B. Combs":
+  url: https://retrocombs.com/about

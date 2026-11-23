@@ -35,10 +35,22 @@
 {%- if yt_uploaded.size == 10 -%}
   {%- assign yt_uploaded = yt_uploaded | append: "T12:00:00-05:00" -%}
 {%- endif -%}
+{%- comment -%}
+  The first facade on a page is a likely LCP image, so it is not lazy.
+  maxresdefault 404s on older uploads (the Fox 7 archive). A few videos
+  instead return a 120px placeholder with status 200, which does not
+  fire onerror. Both cases fall back to hqdefault.
+{%- endcomment -%}
+{%- if yt_eager_used -%}
+  {%- assign yt_loading = "lazy" -%}
+{%- else -%}
+  {%- assign yt_loading = "" -%}
+  {%- assign yt_eager_used = true -%}
+{%- endif -%}
 <figure class="yt">
   <a class="yt-lite" href="https://www.youtube.com/watch?v={{ yt_id }}{% if yt_start.size > 0 %}&amp;t={{ yt_start }}s{% endif %}" data-id="{{ yt_id }}" data-title="{{ yt_title | escape }}"{% if yt_start.size > 0 %} data-start="{{ yt_start }}"{% endif %}>
     <span class="frame">
-      <img src="https://i.ytimg.com/vi/{{ yt_id }}/maxresdefault.jpg" alt="{{ yt_title | escape }}" width="1280" height="720" loading="lazy" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/{{ yt_id }}/hqdefault.jpg';">
+      <img src="https://i.ytimg.com/vi/{{ yt_id }}/maxresdefault.jpg" alt="{{ yt_title | escape }}" width="1280" height="720"{% if yt_loading != "" %} loading="{{ yt_loading }}"{% endif %} onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/{{ yt_id }}/hqdefault.jpg';" onload="if(this.naturalWidth&&this.naturalWidth<=120&&this.src.indexOf('hqdefault')===-1){this.onerror=null;this.src='https://i.ytimg.com/vi/{{ yt_id }}/hqdefault.jpg';}">
       <span class="play" aria-hidden="true"><span></span></span>
     </span>
     <span class="yt-title">{{ yt_title | escape }}</span>
