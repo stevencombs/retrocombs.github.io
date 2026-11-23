@@ -80,18 +80,18 @@ In the video below, I demonstrate the process to convert a Raspi 400 into a full
 Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [Combian 64](https://cmaiolino.wordpress.com/)
-2. [Raspberry Pi 400](https://amzn.to/3aMwMR9)
-3. [Raspberry Pi 4](https://amzn.to/2MSRQvx)
-4. [Raspberry Pi USB-C Power Adapter](https://amzn.to/3nuRPdN)
-5. [Micro HDMI to HDMI Cable](https://amzn.to/38w44Ti)
-6. [Lepow Portable HDMI monitor](https://amzn.to/3aS4g0y)
-7. [SanDisk Ultra for only $5](https://amzn.to/3aPFrTa)
-8. [X-Acto Knife](https://amzn.to/39nv1aK)
-9. [Straight Cutter](https://amzn.to/35rq5kf)
-10. [Cutting Mat](https://amzn.to/35vuJxo)
-11. [4Keyboard brand, Commodore 64 keyboard stickers](https://amzn.to/38KRcHN)
-12. [AVIA Vinyl Laser Printer Sheets](https://amzn.to/39hck8I)
-13. [THEC64 Joystick](https://amzn.to/38tVELV)
+2. [Raspberry Pi 400](https://link.amazon/B0aWmnRVJ)
+3. [Raspberry Pi 4](https://link.amazon/B0379LyFy)
+4. Raspberry Pi 15W USB-C Power Supply
+5. Micro HDMI to HDMI Cable
+6. Lepow Portable HDMI monitor
+7. SanDisk Ultra
+8. X-Acto Knife
+9. Straight Cutter
+10. Cutting Mat
+11. 4Keyboard brand, Commodore 64 keyboard stickers
+12. AVIA Vinyl Laser Printer Sheets
+13. [THEC64 Joystick](https://amzn.to/43lVHUh)
 
 Did I miss one? Drop a comment and let me know.
 
@@ -122,7 +122,7 @@ Within each of those emulators are more settings and models of each machine incl
 
 The Combian 64 image is compressed using [(7-Zip)](https://www.7-zip.org/). Depending on the OS, you may or may not need additional software to extract the archive. Check out the [7-Zip downloads page](https://www.7-zip.org/download.html).
 
-Once you extract the image file, install it on a [micro SD card](https://amzn.to/37UjMXW). Anything larger than an 8GBs will suffice; however, currently 16Gb is the most affordable and available like this [SanDisk Ultra for only $5](https://amzn.to/3aPFrTa).
+Once you extract the image file, install it on a [micro SD card](https://amzn.to/3IYL3Kn). Anything larger than an 8GBs will suffice; however, currently 16Gb is the most affordable and available like this SanDisk Ultra.
 
 ## Install Combian 64 on an SD Card
 
@@ -134,16 +134,16 @@ The hardest part of this process is selecting proper drive. **<font color="red">
 
 ## Upgrade Combian 64 on another Raspberry Pi
 
-Unfortunately, the Combian 64 image does not include the hardware support necessary for the Raspberry Pi 400 (Carmelo plans to include these in future versions). The good news is the image is ready for a Raspberry Pi 4. Grab yours or a friends. Honestly, if you don't have one, you should [go ahead and get one](https://amzn.to/2L2DLum). You are sure to use it for other projects.
+Unfortunately, the Combian 64 image does not include the hardware support necessary for the Raspberry Pi 400 (Carmelo plans to include these in future versions). The good news is the image is ready for a Raspberry Pi 4. Grab yours or a friends. Honestly, if you don't have one, you should [go ahead and get one](https://link.amazon/B0379LyFy). You are sure to use it for other projects.
 
-Grab a [$100 4GB model](https://amzn.to/3rBtGp1) if you have some light computing projects such as emulators and browsing; however, grab a [$120 8GB model](https://amzn.to/3rBtGp1) if you want to replace a computer in the home, set up a light PC for a child, or build media server.
+Grab a [4GB model](https://link.amazon/B0379LyFy) if you have some light computing projects such as emulators and browsing; however, grab an [8GB model](https://link.amazon/B0379LyFy) if you want to replace a computer in the home, set up a light PC for a child, or build media server.
 
 Time to upgrade the Combian 64 distribution.
 
-1. Setup the Raspberry Pi 4 with a [keyboard/mouse combination](https://amzn.to/2JqR8UR).
-2. Connect an [HDMI monitor](https://amzn.to/3aS4g0y).
+1. Setup the Raspberry Pi 4 with a keyboard/mouse combination.
+2. Connect an HDMI monitor.
 3. Plug in the prepared micro Combian 64 SD card.
-4. Plug in the Raspberry Pi 4 to the [USB-C power cable](https://amzn.to/3nXz6Zk).
+4. Plug in the Raspberry Pi 4 to the Raspberry Pi 15W USB-C Power Supply.
 5. Once the Raspberry Pi boots, load the *Terminal* and type the following commands:
 
    `sudo apt update` / A password prompt will appear. It is `raspberry`
@@ -157,7 +157,7 @@ It's now time to grab the Raspberry Pi 400.
 
 ## Raspberry Pi 400 Open the Box
 
-There are two boxes you can purchase that include a Raspberry Pi 400. The $100 complete starter kit or the $70 Raspberry Pi 400 only. I choose the later since I didn't need an SD card, mouse, HDMI cable, manual, or cables. My open the box in the video is short and sweet (for once!), but I do cover the basics included with the $70 box; which isn't much.
+There are two boxes you can purchase that include a Raspberry Pi 400: the complete starter kit or the Raspberry Pi 400 only. I choose the later since I didn't need an SD card, mouse, HDMI cable, manual, or cables. My open the box in the video is short and sweet (for once!), but I do cover the basics included with the Raspberry Pi 400 only box; which isn't much.
 
 ## Install the Combian 64 micro SD Card
 
@@ -165,15 +165,15 @@ This is the easiest step. Insert the Combian 64 micro SD card into the Raspberry
 
 ## Plug in the Raspberry Pi 400
 
-1. Connect the Raspberry Pi 400 to the [USB-C power cable](https://amzn.to/3nXz6Zk) but do not plug it into the wall yet.
-2. Connect an [HDMI monitor](https://amzn.to/3aS4g0y).
-3. If you plan to play games, go ahead and plug in a [THEC64 Joystick](https://amzn.to/38tVELV). It works out of the box with Combian 64! No configuration necessary if the games conforms to the normal joystick port selection.
+1. Connect the Raspberry Pi 400 to the Raspberry Pi 15W USB-C Power Supply but do not plug it into the wall yet.
+2. Connect an HDMI monitor.
+3. If you plan to play games, go ahead and plug in a [THEC64 Joystick](https://amzn.to/43lVHUh). It works out of the box with Combian 64! No configuration necessary if the games conforms to the normal joystick port selection.
 
 That's it. We don't need a mouse since those weren't "really a thing" in the 1980s on Commodore computers. However, I do eventually plan to give GEOS a try and see if a USB mouse will work. If you know the answer, drop a comment below!
 
 ## Startup the Combian 64 computer
 
-1. Plug in the [USB-C power cable](https://amzn.to/3nXz6Zk) to the wall. Depending on the power supply, you may need to flip a switch on the cable.
+1. Plug in the Raspberry Pi 15W USB-C Power Supply to the wall. Depending on the power supply, you may need to flip a switch on the cable.
 2. The Raspberry Pi will boot up the Combian 64 distribution and by default, into Commodore 64 mode. The first boot will take longer than subsequent boots. Afterward, Combian will boot in about 10-15 seconds.
 
 ## Configure Combian 64
@@ -196,7 +196,7 @@ See the PDF above for screenshots of the menu system.
 
 ## Keyboard Stickers
 
-I've explained that I want the keyboard to resemble original Commodore computer keyboards; however, on the Raspberry Pi's modern keyboard, typing can be a bit frustrating as you try and remember which keys do what. That's where the [4Keyboard brand, Commodore 64 key cap stickers](https://amzn.to/38KRcHN) come into play. Available in white or black, I use the white to remind me which keys produce which [PETSCII](https://en.wikipedia.org/wiki/PETSCII#Commodore_64_control_characters) characters. Each sheet is about $4. I purchased two black sheets and two white sheets since I could get all for a standard shipping rate of $4. I'm really pleased with the keyboard and it looks pretty good, as shown in the image below:
+I've explained that I want the keyboard to resemble original Commodore computer keyboards; however, on the Raspberry Pi's modern keyboard, typing can be a bit frustrating as you try and remember which keys do what. That's where the 4Keyboard brand, Commodore 64 key cap stickers come into play. Available in white or black, I use the white to remind me which keys produce which [PETSCII](https://en.wikipedia.org/wiki/PETSCII#Commodore_64_control_characters) characters. I purchased two black sheets and two white sheets since I could get all for a standard shipping rate. I'm really pleased with the keyboard and it looks pretty good, as shown in the image below:
 
 ![The PETSCII key caps on the Combian pi/400](/combianpi400/key-caps.jpg)
 
@@ -214,11 +214,11 @@ Another feature of Slides is the ability to share and collaborate; as is evidenc
 
 All I ask is that you link back to this post, or [the YouTube video](https://youtu.be/P0EaHOGvtS0), and provide attribution. If you share your build online, please tag it with [#retrocombs](https://twitter.com/search?q=%23retrocombs&src=typed_query).
 
-With the design complete and a single sheet with multiple and properly sized logos and serial number labels prepared, it was time to print. I found [Aiva Printable Vinyl Sticker Paper for Laser Printer](https://amzn.to/3rK0r3B) and I was anxious to try these in a new [Brother HL-L8360CDW Color Laser printer](https://amzn.to/3pE06O3) (which are hard to find due to the pandemic). I sent the print job from my Mac and used the Mac print dialog box, rather than the Chrome print controls, since they provide more refined printer control. The logos and serial number plate were beautiful and the colors brighter on vinyl than they were on a piece of paper.
+With the design complete and a single sheet with multiple and properly sized logos and serial number labels prepared, it was time to print. I found Aiva Printable Vinyl Sticker Paper for Laser Printer and I was anxious to try these in a new Brother HL-L8360CDW Color Laser printer (which are hard to find due to the pandemic). I sent the print job from my Mac and used the Mac print dialog box, rather than the Chrome print controls, since they provide more refined printer control. The logos and serial number plate were beautiful and the colors brighter on vinyl than they were on a piece of paper.
 
 ![Cutting the logo and serial number prototypes](/combianpi400/cutting-logo-serial-number.jpg)
 
-Cutting out the logo and serial number plate was the final step before application. I print a paper sheet first to practice my technique before I commit to vinyl. The final vinyl sheet includes many copies so I can recover from eventual cut mistakes, and there were many. Finally, with a good logo and serial number plate vinyl cut, I use my [X-Acto knife](https://amzn.to/39nv1aK) to place each one; being careful not to touch them directly and soil the vinyl with the oils from my skin.
+Cutting out the logo and serial number plate was the final step before application. I print a paper sheet first to practice my technique before I commit to vinyl. The final vinyl sheet includes many copies so I can recover from eventual cut mistakes, and there were many. Finally, with a good logo and serial number plate vinyl cut, I use my X-Acto knife to place each one; being careful not to touch them directly and soil the vinyl with the oils from my skin.
 
 I'm thrilled with the results, as shown in the images below:
 
@@ -230,7 +230,7 @@ I had some fun with verbiage on the serial number and FCC plate. Notice anything
 
 ## Configure the joystick from THEC64 maxi or mini
 
-Good news! Plug in a THEC64(VIC-20) maxi or mini USB joystick and it just works! No configuration necessary. You can [purchase these joysticks individually](https://amzn.to/2WZ797H) for around $30. They make the perfect VICE joystick for an old school gaming experience.
+Good news! Plug in a THEC64(VIC-20) maxi or mini USB joystick and it just works! No configuration necessary. You can [purchase these joysticks individually](https://amzn.to/43lVHUh). They make the perfect VICE joystick for an old school gaming experience.
 
 ## Game Demo
 
@@ -247,6 +247,13 @@ I demonstrate playing this game in the video and am using THEC64 joystick. It re
 3. There are several things I plan to do with the Combian pi/400. I hope to find time to document them here and in video. I mention GEOS, but I'm also interested in performance. What about you? Have something you think I should try with the Combian pi/400? Drop a comment and let me know. If I can scrape up the time, I'll see what I can do.
 4. {UPDATE: 2021-01-11} There's been some, and when I write some I mean a couple of individuals, controversy about whether Combian V3.0 should be behind a support/tip me firewall. Carmelo was quick to react and has now made V3.0 available as [a direct download](https://drive.google.com/file/d/16bMQoql3vJVtV03zzCbo-j61Aj4UIbj-/view?usp=sharing); however, I still contend that you should "tip" Carmelo for his work to package everything up and create the wonderful menu.
 5. {2021-01-11} This is one of my most viewed videos within a 24-hour video (~~350+~~ 420+). While that's not impressive for YouTubers, it's just fine for me! I love this hobby and that small group who continues to support my journey as I reconnect with my Commodore computing roots. I can say this without hesitation; Commodore computers changed my life-path and allowed me to become who I am today. If you think back, you will probably agree.
+
+## Gear Mentioned
+
+- ⌨️ Raspberry Pi 400: <https://link.amazon/B0aWmnRVJ>
+- 🥧 Raspberry Pi 4: <https://link.amazon/B0379LyFy>
+- 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
+- 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
 
 ## Join the Fun
 

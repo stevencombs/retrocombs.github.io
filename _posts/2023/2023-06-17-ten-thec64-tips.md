@@ -66,17 +66,17 @@ None as of 2023-06-17.
 
 **Disclosure Statement:** When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations may include, but are not limited to Amazon and the eBay Partner Network.
 
-- TheC64 Maxi [UK](https://amzn.to/3PeBzPL) [US](https://amzn.to/3oN64kW)
-- TheC64 Mini [UK](https://amzn.to/3NaAFkB) [US](https://amzn.to/3OSykx0)
-- The VIC20 [UK](https://amzn.to/3CA7anp)
-- TheA500 Mini UK (https://amzn.to/3p7PJY7) [US](https://amzn.to/3OVxJuD)
-- TheJoystick [UK](https://amzn.to/43NKiNk) [US](https://amzn.to/43lVHUh)
-- TheMouse [UK](https://amzn.to/3qNoVwP) [US](https://amzn.to/3PiJ1JM)
-- TheGamePad [UK](https://amzn.to/46byPZu) [US](https://amzn.to/43H7iNu)
-- Logitech F310 (Wired) [UK](https://amzn.to/46a4GcL) [US](https://amzn.to/3NexXMk)
-- Logitech G F710 (Wireless) [UK]() [UK](https://amzn.to/45MaUzt)
-- Kindle Scribe [UK](https://amzn.to/43ZD8VI) [US](https://amzn.to/3qTVUzt)
-- Kindle Paperwhite [UK](https://amzn.to/3JiS5uc) [US](https://amzn.to/3NbSLCI)
+- [TheC64 Maxi](https://link.amazon/B0i8BtTtm)
+- [TheC64 Mini](https://link.amazon/B019AnpPJ)
+- [TheVIC20 (UK)](https://amzn.to/3CA7anp)
+- [TheA500 Mini](https://amzn.to/3OVxJuD)
+- [TheJoystick](https://amzn.to/43lVHUh)
+- [TheMouse](https://amzn.to/3PiJ1JM)
+- [TheGamePad](https://amzn.to/43H7iNu)
+- Logitech F310 (Wired)
+- Logitech G F710 (Wireless)
+- Kindle Scribe
+- Kindle Paperwhite
 
 ## Ten Things
 
@@ -86,7 +86,7 @@ Within the headings, I provide the page number in [TheC64 User's Manual](https:/
 
 You are not constrained to the joystick that comes with TheC64. While the Maxi joystick is better than the mini thanks to a micro-switch upgrade, the form factor may not be everyone's cup of tea.
 
-A quick caveat, not all controllers work. Results have been mixed with two modern controllers such as the wired [Logitech F310](https://amzn.to/3NexXMk) (doesn't work) and a wireless [Logitech G F710](https://amzn.to/45MaUzt) (works). Gamepad controllers seem to work including one of my favorites, also from RetroGames, [TheGamePad](https://amzn.to/43H7iNu). If a Nintendo/Sega style controller makes you happy, it might work! Plug it in and give it a try.
+A quick caveat, not all controllers work. Results have been mixed with two modern controllers such as the wired Logitech F310 (doesn't work) and a wireless Logitech G F710 (works). Gamepad controllers seem to work including one of my favorites, also from RetroGames, [TheGamePad](https://amzn.to/43H7iNu). If a Nintendo/Sega style controller makes you happy, it might work! Plug it in and give it a try.
 
 But I bet you didn't know a controller is not necessary to navigate in carousel mode.
 
@@ -128,7 +128,7 @@ Here's what's so exciting about classic mode; **B**eginner's **A**ll-Purpose **S
 
 If you want the authentic experience, head over to Archive.org and download the original [Commodore 64](https://archive.org/details/commodore-64-user-guide) or [VIC-20](https://archive.org/details/Personal_Computing_On_The_VIC-20_1982_Commodore/page/n39/mode/2up) (recommended) user's guide and work through them chapter by chapter like I did with the Plus/4 and documented in my [Plus/4 User's Manual series](https://www.retrocombs.com/plus4).
 
-> **TIP:** Download and send to a [Kindle](https://amzn.to/3NbSLCI) or other e-book reader and take them with you everywhere you go. With the [Kindle Scribe](https://amzn.to/3qTVUzt) you can mark them up and set bookmarks.
+> **TIP:** Download and send to a Kindle or other e-book reader and take them with you everywhere you go. With the Kindle Scribe you can mark them up and set bookmarks.
 
 To get you started, load classic mode and type the following two line program that will work in C64 or VIC-20 mode.
 
@@ -208,6 +208,16 @@ To activate the virtual keyboard press the ☰ button in a game and select the '
 ## Conclusion
 
 I hope you learned a tip or two about your TheC64 that brings more value to your purchase. There are many more tips and I hope you will share them in the comments below.
+
+## Gear Mentioned
+
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheVIC20 (UK): <https://amzn.to/3CA7anp>
+- 💻 Retro Games Ltd TheA500 Mini: <https://amzn.to/3OVxJuD>
+- 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
+- 🖱️ Retro Games Ltd TheMouse: <https://amzn.to/3PiJ1JM>
+- 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
 
 ## Join the Fun
 

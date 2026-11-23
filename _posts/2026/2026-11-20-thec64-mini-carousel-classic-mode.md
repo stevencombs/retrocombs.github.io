@@ -187,6 +187,15 @@ Classic Mode adds more media access options, including a virtual cartridge slot.
 
 [THEC64 Mini](https://link.amazon/B019AnpPJ) is a small, fun way into the Commodore 64 for beginners, and the USB drive features give experienced users disk, tape, and cartridge images, plus Classic Mode for BASIC programming. Update the firmware, grab a [USB drive](https://link.amazon/B05GEnTW6), and add a USB keyboard if you plan to type. For more, check out my [ten TheC64 tips](/ten-thec64-tips).
 
+## Gear Mentioned
+
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
+- 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
+- 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
+- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
+
 Are you a Carousel person or a Classic Mode person? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
 That's it for me, folks. 🕹️ retroCombs, OUT!

@@ -140,6 +140,11 @@ If you don't have the keyboard, it stands on its own as a retro-inspired accesso
 
 The colors, the build quality, and the extra features make the Retro 18 a good way to complete a retro desk setup. If you haven't read about the keyboard yet, start with my [8BitDo Retro Mechanical Keyboard C64 Edition](/8bitdo-retro-mechanical-keyboard-c64) post.
 
+## Gear Mentioned
+
+- ⌨️ 8BitDo Retro Mechanical Keyboard C64 Edition: <https://amzn.to/47U88dL>
+- 🔢 8BitDo Retro 18 Mechanical Numpad (C64 colors): <https://link.amazon/B0aVIrrZj>
+
 Would you use the calculator, or map those keys to macros? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
 That's it for me. retroCombs, OUT!

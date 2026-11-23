@@ -129,6 +129,11 @@ One thing I really love is how closely it matches the original Commodore 64's co
 
 If you like retro looks but don't want to give up modern features, the [8BitDo Retro Mechanical Keyboard C64 Edition](https://amzn.to/47U88dL) is worth a look. Want to complete the setup? Check out my post on the matching [8BitDo Retro Mechanical Numpad](/8bitdo-retro-mechanical-numpad-c64).
 
+## Gear Mentioned
+
+- ⌨️ 8BitDo Retro Mechanical Keyboard C64 Edition: <https://amzn.to/47U88dL>
+- 🔢 8BitDo Retro 18 Mechanical Numpad (C64 colors): <https://link.amazon/B0aVIrrZj>
+
 Are you typing on one of these, and have you found a use for the joystick and red buttons? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
 That's it for me. retroCombs, OUT!
