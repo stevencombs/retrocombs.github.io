@@ -6,6 +6,10 @@
   strips, affiliate banners, and brand art are skipped. A missing file
   does not hide a later photo.
 
+  Listing cards use a resized file under /images/thumbs/ when one exists
+  (max 1280px, JPEG, or PNG when the picture needs transparency).
+  The original URL is left in place for the post itself.
+
   The caller assigns static_index before this include: site.static_files
   paths joined with ||. This include reads that variable and does not
   print anything except the URL.
@@ -141,6 +145,24 @@
     {%- endunless -%}
   {%- endif -%}
   {%- if thumb != "" -%}
+    {%- assign thumb_root = thumb_check | slice: 0, 8 -%}
+    {%- if thumb_root == "/images/" -%}
+      {%- assign thumb_ext = thumb_check | split: "." | last -%}
+      {%- assign thumb_ext_len = thumb_ext | size -%}
+      {%- assign thumb_path_len = thumb_check | size -%}
+      {%- assign thumb_stem_len = thumb_path_len | minus: thumb_ext_len -%}
+      {%- assign thumb_stem = thumb_check | slice: 0, thumb_stem_len -%}
+      {%- assign thumb_stem = thumb_stem | replace_first: "/images/", "/images/thumbs/" -%}
+      {%- assign thumb_jpg = thumb_stem | append: "jpg" -%}
+      {%- assign thumb_png = thumb_stem | append: "png" -%}
+      {%- assign thumb_jpg_mark = "||" | append: thumb_jpg | append: "||" -%}
+      {%- assign thumb_png_mark = "||" | append: thumb_png | append: "||" -%}
+      {%- if static_index contains thumb_jpg_mark -%}
+        {%- assign thumb = thumb_jpg -%}
+      {%- elsif static_index contains thumb_png_mark -%}
+        {%- assign thumb = thumb_png -%}
+      {%- endif -%}
+    {%- endif -%}
     {%- if thumb contains "://" -%}
       {%- assign thumb_url = thumb -%}
     {%- else -%}

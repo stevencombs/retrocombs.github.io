@@ -6,9 +6,10 @@
   page_size: when set, only this many cards show until "Load more".
   skip_title: when set, posts whose titles contain this text are left out.
 
-  Thumbnail: post-thumb.html prints the URL. The post's own image when it
-  is not the sitewide social preview, otherwise the first real content
-  photo, otherwise the charcoal tile. Icons, badges, logos, rating strips,
+  Thumbnail: post-thumb.html prints the URL. A resized file under
+  /images/thumbs/ is used when one exists. Otherwise the post's own
+  image when it is not the sitewide social preview, otherwise the first
+  real content photo, otherwise the charcoal tile. Icons, badges, logos, rating strips,
   affiliate banners, and brand art are skipped. A missing file does not
   hide a later photo.
 {%- endcomment -%}
