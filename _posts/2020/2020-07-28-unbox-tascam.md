@@ -70,7 +70,10 @@ Additional tips:
 
 2. Don't forget. You can tilt out the built-in microphones to enhance stereo separation in recordings. This is great for capturing natural sounds. If you do use the mics in this configuration, be sure and change the menu settings from X-Y position to A-B position. Here's the cool part. When you manually move the microphones, the menu option automatically appears.
 
-    ![Switching microphone orientation menu](/images/posts/2020-07-28-tascam/mic-menu.gif)
+    <video autoplay loop muted playsinline width="720" height="720" poster="/images/posts/2020-07-28-tascam/mic-menu.jpg">
+      <source src="/images/posts/2020-07-28-tascam/mic-menu.webm" type="video/webm">
+      <source src="/images/posts/2020-07-28-tascam/mic-menu.mp4" type="video/mp4">
+    </video>
 
 3. Be careful with the 48v phantom power setting. You can wreck microphones and equipment if you activate with the wrong devices. The good news is that the TASCAM provides a warning and a way out before activating. Nice touch!
 
@@ -80,7 +83,7 @@ Additional tips:
 5. Referring to number 4, I much prefer just removing the SD card and plugging it into a reader on my Mac mini.
 6. My unit was on Firmware v1.01 and there was an update to v1.02. You can [find that information here](https://tascam.com/us/product/dr-40x/download). Instructions are provided and my upgrade went off without a hitch.
 
-    ![TASCAM updating](/images/posts/2020-07-28-tascam/tascam update.jpg)
+    ![TASCAM updating](/images/posts/2020-07-28-tascam/tascam-update.jpg)
 
 That's it for now. I'm sure as I use the device, I will add other tips and tricks.
 

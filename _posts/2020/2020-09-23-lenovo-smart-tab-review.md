@@ -81,7 +81,10 @@ Graphics are the work of the built-in Adreno 505. This GPU is three years-old an
 
 Many low end tablets stick you with 2 Gb of onboard RAM. Thankfully, Lenovo added two additional gigabytes (for a total of 4 Gb) that helps the tablet perform admirably. I've never felt the tablet drag.
 
-![microSD card location](/images/posts/lenovo/microSD.gif)
+<video autoplay loop muted playsinline width="360" height="240" poster="/images/posts/lenovo/microSD.jpg">
+  <source src="/images/posts/lenovo/microSD.webm" type="video/webm">
+  <source src="/images/posts/lenovo/microSD.mp4" type="video/mp4">
+</video>
 
 Internal storage comes from a suitable, but not massive, 64 Gb eMMC Flash Drive. About 50 Gb is available to the user. Add more storage (but no offloading of apps) using the microSD card expansion under the built-in stand (see video above). 64 Gb is plenty for my use, but you might need more if you want to carry around a bunch of video with you or play a lot of games, but remember that games gotcha!
 

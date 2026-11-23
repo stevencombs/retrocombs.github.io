@@ -21,7 +21,7 @@ redirect_from:
   - /arduino/2020/01/20/arduino-hello-world.html
 
 image:
-  path: /images/posts/2020-01-20-adruino-switch-led/led-switch-demo.gif
+  path: /images/posts/2020-01-20-adruino-switch-led/led-switch-demo.jpg
   width: 418
   height: 418
   alt: 'Animated GIF of objective'
@@ -38,7 +38,10 @@ This post includes the components, files, images, video, resources, and steps ne
 
 Using an [Elegoo branded Arduino MEGA 2560 (MEGA) (#ad)](https://amzn.to/362vn2V) and various electronic components, create a hardware and software solution that will turn on an LED when a momentary button is pressed and then turn off the LED when the button is pressed again (see video below).
 
-![Animated GIF of objective](/images/posts/2020-01-20-adruino-switch-led/led-switch-demo.gif)
+<video autoplay loop muted playsinline width="418" height="418" poster="/images/posts/2020-01-20-adruino-switch-led/led-switch-demo.jpg">
+  <source src="/images/posts/2020-01-20-adruino-switch-led/led-switch-demo.webm" type="video/webm">
+  <source src="/images/posts/2020-01-20-adruino-switch-led/led-switch-demo.mp4" type="video/mp4">
+</video>
 
 ## Video
 
