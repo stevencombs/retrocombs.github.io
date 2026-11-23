@@ -12,6 +12,12 @@ tagline: 'Retro computing with a touch of modern'
 url: 'https://retrocombs.com'
 lang: en-US
 
+# Used when a page does not set author. Posts that set a name pick up
+# the same url from _data/authors.yml.
+author:
+  name: Steven B. Combs, Ph.D.
+  url: https://retrocombs.com/about
+
 # Posts for @retroCombs-tech set `channel: tech` in front matter.
 # That channel does not offer memberships yet, so the end-of-post
 # "Join the channel" strip stays hidden. Set this to true to show it
