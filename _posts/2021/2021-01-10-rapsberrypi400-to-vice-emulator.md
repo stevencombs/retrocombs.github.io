@@ -128,7 +128,7 @@ Once you extract the image file, install it on a [micro SD card](https://amzn.to
 
 [Etcher](https://www.balena.io/etcher/) is the best way to flash an image to an SD card and it's available for Linux, Mac, and Windows. Download, install, and then follow the steps as shown in the animated GIF below. First select the image. Second, select the SD card. And third, flash the SD card.
 
-![Select image, select drive, and flash](https://www.balena.io/static/steps-8006dca57323756b1b84fb9408742409.gif)
+![Select image, select drive, and flash](https://web.archive.org/web/20230116234656id_/https://www.balena.io/static/steps-8006dca57323756b1b84fb9408742409.gif)
 
 The hardest part of this process is selecting proper drive. **<font color="red">WARNING!!!</font>** Check it once, check it twice, to ensure you flash the correct drive.
 

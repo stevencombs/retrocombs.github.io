@@ -142,7 +142,7 @@ There's a lot to like, but is has drawbacks.
 3. No fast charging; however, see my notes above and in reality, it's not that big a deal.
 4. If you want a tablet that's flat, like 15th century earth, this form factor ain't it.
 5. Not all Android apps are optimized for tablets. Many don't rotate or scale properly and several don't work period. This is where Apple has a leg up on Android. Apple's curated tablet store ensures excellent app quality whether on phone or tablet. I think we will soon see Chrome OS as the predominant tablet OS. Heck, I'm writing this blog post on the ultimate Chrome OS tablet, a Pixel Slate.
-6. Skip the built-in Lenovo Launcher and use a third party. I like the [Rootless Launcher](https://play.google.com/store/apps/details?id=amirz.rootless.nexuslauncher). It doesn't pack a bunch of features, but does a great job mimicking the Pixel Launcher which keeps things consistent across my tablet and my Pixel phones.
+6. Skip the built-in Lenovo Launcher and use a third party. I like the Rootless Launcher. It doesn't pack a bunch of features, but does a great job mimicking the Pixel Launcher which keeps things consistent across my tablet and my Pixel phones.
 
 ## Final Thoughts
 

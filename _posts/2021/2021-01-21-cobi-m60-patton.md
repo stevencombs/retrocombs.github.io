@@ -118,7 +118,7 @@ Who is COBI? Where's their country of origin? And what else do they do? Let's fi
 
 1. You have to respect their four letter name.
 
-2. Per their [website](https://cobi.pl/en/about-us/cobi-sa/):
+2. Per their [website](https://web.archive.org/web/20240530063516/https://cobi.pl/en/about-us/cobi-sa/):
 
    > COBI is a Polish manufacturer of high quality construction blocks manufactured in its own production facility  in the Special Economic Zone in Mielec (Sub-Carpathian region, Poland, European Union).
 

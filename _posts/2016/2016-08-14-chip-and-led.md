@@ -215,7 +215,7 @@ In other words, you now have the basics necessary to begin experiments with Pyth
 [19]:	https://try.github.io/levels/1/challenges/1
 [20]:	https://github.com/xtacocorex/CHIP_IO
 [21]:	/chip/2016/08/13/fish-and-chips.html
-[22]:	https://bbs.nextthing.co/t/hello-world-control-a-gpio-connected-led-using-python-on-the-c-h-i-p/8421/6?u=stevencombs
+[22]:	https://web.archive.org/web/20180919060818/https://bbs.nextthing.co/t/hello-world-control-a-gpio-connected-led-using-python-on-the-c-h-i-p/8421/6
 [23]:	http://amzn.to/2bq6e7w
 [24]:	#turn-the-led-on
 

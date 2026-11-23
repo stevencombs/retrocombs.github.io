@@ -63,7 +63,7 @@ All equipment for this project, with Amazon links (#ad), is listed below:
 
 1 - [Arduino IDE](https://www.arduino.cc/en/main/software): Use the link to the left and follow the instructions to download and install the IDE on your computer.
 
-> **NOTE:** If you use Ubuntu or Ubuntu Mate might I recommend [my install instructions](/arduino/2019/12/31/install-arduino-ubuntu.html).
+> **NOTE:** If you use Ubuntu or Ubuntu Mate might I recommend my install instructions.
 
 1 - [Elegoo Breadboard](https://amzn.to/377CB7e): Use the breadboard to prototype the project.
 
@@ -126,6 +126,6 @@ Hopefully this project was a great way to learn more about the MEGA, the Elegoo 
 
 Below are the references for this project:
 
-1. [Arduino button tutorial](https://www.arduino.cc/en/tutorial/button)
+1. [Arduino button tutorial](https://docs.arduino.cc/built-in-examples/digital/Button/)
 2. [LED resistor calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor?_ga=2.47531951.968511582.1579365631-286915608.1579365631&_gac=1.181821269.1579365633.Cj0KCQiA9orxBRD0ARIsAK9JDxTauk9R4xTKrslBCN1JgI0T9SqCEZ2rH3MH9jL-MBPtQopC1jNAoK4aAiXiEALw_wcB)
 3. [Resistor color code calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band)

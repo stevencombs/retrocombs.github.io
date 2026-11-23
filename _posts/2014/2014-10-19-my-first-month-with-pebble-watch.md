@@ -43,7 +43,7 @@ The Pebble is first and foremost a watch and really a good one at that. Even wit
 
 ![Pebble celebrates Halloween](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/q83/s960x960/10620492_10152789719678839_828209333834264136_o.jpg)
 
-A design feature of the Pebble is the ability to modify the watchface to fit your mood, style or occasion. I took some time to create a [watchface theme for the paying gig](/pebble/2014/10/18/my-first-pebble-watchface.html) using an online tool. My design includes basic watchface features such as:
+A design feature of the Pebble is the ability to modify the watchface to fit your mood, style or occasion. I took some time to create a watchface theme for the paying gig using an online tool. My design includes basic watchface features such as:
 
 * Time
 * Date
@@ -194,8 +194,8 @@ The [Pebble Steel](http://www.amazon.com/gp/product/B00IVX0XGO/ref=as_li_ss_tl?i
 
 In conclusion, if the thought of a smart watch appeals to you, my guess is the Pebble is your best choice. At its current price point and capabilities, it is a great way to determine if a smart watch fits your lifestyle. I would even suggest that if you aren’t interested in the advanced features of the watch, the Pebble as a watch isn’t a bad choice. Changing watchfaces on a whim and having quick access to notifications alone make this device a win. For those of us that are bit more technologically sophisticated, read…"geeky", the apps and feature rich watchfaces are just icing on the cake.
 
-Want a Pebble of your own or as a gift for the holidays? Check Amazon for both the [Pebble](http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=stevenccom-20) and [Pebble Steel](http://www.amazon.com/gp/product/B00IVX0XGO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IVX0XGO&linkCode=as2&tag=stevenccom-20)? Have a cool [Pebble App](https://play.google.com/store/apps/details?id=com.getpebble.android&hl=en) to share or a tip/trick/hack? Leave it in the comments section below.
+Want a Pebble of your own or as a gift for the holidays? Check Amazon for both the [Pebble](http://www.amazon.com/gp/product/B00BKEQBI0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BKEQBI0&linkCode=as2&tag=stevenccom-20) and [Pebble Steel](http://www.amazon.com/gp/product/B00IVX0XGO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IVX0XGO&linkCode=as2&tag=stevenccom-20)? Have a cool Pebble App to share or a tip/trick/hack? Leave it in the comments section below.
 
-**Post Sketchnote:** [/sketchnotes/2014/10/19/sketchnote-pebble-blog-post.html](/sketchnotes/2014/10/19/sketchnote-pebble-blog-post.html)
+**Post Sketchnote:** [/art/2014/10/19/pebble-blog-post-sketchnote.html](/art/2014/10/19/pebble-blog-post-sketchnote.html)
 
 *Image: [Pebble Technology press photo](https://commons.wikimedia.org/wiki/File:Pebble_watch_trio_group_04.png), [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0/), via Wikimedia Commons.*

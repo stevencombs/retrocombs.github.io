@@ -57,7 +57,7 @@ Model difficulty ranges from beginner, *Wreath*, to expert, *Camera*. My persona
 
 ![][image-4]
 
-Chris includes a retro *Computer* model that is reminiscent of a 1980s IBM PC. It is shown in the collage below. As a 1980s Commodore and [Apple][10] fan, my only wish from Santa is the inclusion of a model from those brands.
+Chris includes a retro *Computer* model that is reminiscent of a 1980s IBM PC. It is shown in the collage below. As a 1980s Commodore and Apple fan, my only wish from Santa is the inclusion of a model from those brands.
 
 ![][image-5]
 
@@ -80,10 +80,9 @@ Finally, the models themselves make become wonderful gifts for the LEGO fan on y
 [4]:	http://amzn.to/2dyyHKt
 [5]:	/lego/2016/10/02/book-review-geeky-lego-crafts.html
 [6]:	http://www.chrismcveigh.com
-[7]:	https://www.chrismcveigh.com/cm/brick_sketches.html
+[7]:	https://web.archive.org/web/20171011135256/http://chrismcveigh.com/cm/brick_sketches.html
 [8]:	http://www.chrismcveigh.com
 [9]:	http://amzn.to/2dyyHKt
-[10]:	https://powerpig.ecwid.com/#!/My-First-Computer-Byte-Edition-v3-0/p/56661865/category=15326690
 [11]:	http://www.chrismcveigh.com
 [12]:	http://amzn.to/2dyyHKt
 [13]:	http://chrismcveigh.com/cm/blog.html

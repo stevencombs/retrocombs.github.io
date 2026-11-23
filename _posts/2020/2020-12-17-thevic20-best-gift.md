@@ -87,8 +87,8 @@ In addition to my 10 reason above, below are some final thoughts.
 * It is a shame these are so rare. Both THEVIC20 and THEC64 are rare and hard to find, especially around the holidays.
 * There's not much I don't like about these devices. If I had to pick a nit-noid, it would be the lack of games in the carousel. 64 games will keep you interested for a day or two; however, it would also be nice to add games to the carousel. You can do this, but it's a hack that requires some work.
 * I still find myself going back to [THEC64 mini](https://amzn.to/3mn3v1P) to hack around on this device. I don't believe I'll ever take THEVIC20 apart. Taking the mini apart is only a $35 mistake that is easily replaceable. I do plan to hack around more on it and find out how we can push these little devices to do even more. I just wish the mini came with VIC-20 emulation.
-* I just found a [File Loader page](https://retrogames.biz/thec64/support/file-loader) on the RetroGames web site. I'll need to explore that page more. Looks interesting.
-* Oh, and here's a [Loading Tips page](https://retrogames.biz/thec64/support/loading-tips). I'm impressed by the resources available. Nicely done, RetroGames!
+* I just found a [File Loader page](https://web.archive.org/web/20211016201230/https://retrogames.biz/thec64/support/file-loader) on the RetroGames web site. I'll need to explore that page more. Looks interesting.
+* Oh, and here's a [Loading Tips page](https://web.archive.org/web/20211016213027/https://retrogames.biz/thec64/support/loading-tips). I'm impressed by the resources available. Nicely done, RetroGames!
 * Here's the [whole support shebang](https://retrogames.biz/thec64/support)!
 
 That's it for now. Check back for additions (which will have time stamps) as I continue to play with these devices.

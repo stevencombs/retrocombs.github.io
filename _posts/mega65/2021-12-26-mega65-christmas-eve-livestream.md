@@ -73,7 +73,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 2. [MEGA65 Files Host](https://files.mega65.org)
 3. [MEGA65 Mini Box Art](https://files.mega65.org/html/filedetail.php?id=e1dfd237-cc9f-411f-be15-dbe7c2dfd40a)
 4. [YoloBox Pro](https://amzn.to/3z7FTGj)
-5. [GitHub - MEGA65/mega65-release-prep: Preparations for MEGA65 final release](https://github.com/MEGA65/mega65-release-prep)
+5. GitHub - MEGA65/mega65-release-prep: Preparations for MEGA65 final release
 6. [Hyperkin Trooper Joystick](https://amzn.to/3yZkdw1)
 7. [Competition Pro Joystick](https://ebay.us/ETPFaq)
 8. [Install the MEGA65 on a Nexys4 or A7 FPGA \| Build your own MEGA65!](/mega65-nexys4)

@@ -100,7 +100,7 @@ Below are the links I mention in the videos. All Amazon links are affiliate link
 6. [Pi 1541](/pi1541)
 7. [IEC Cable](https://amzn.to/3vl2N9I)
 8. [Competition Pro Joystick](https://retromash.com/galleries/competition-pro/)
-9. [Competition Pro](https://icomp.de/shop-icomp/en/shop/product/competition-pro-retro.html)
+9. [Competition Pro](https://web.archive.org/web/20211004142026/https://icomp.de/shop-icomp/en/shop/product/competition-pro-retro.html)
 10. [Hyperkin Trooper](https://amzn.to/3iVpE9j)
 11. [Hyperkin Ranger](https://amzn.to/2TVS3kU)
 12. [Hyperkin Ranger Adapter for Multiple Paddles](https://amzn.to/35Gbvov).
@@ -212,7 +212,7 @@ BASIC is great; however, in development is a wonderful MEGA65 mode development e
 
 ### 5. Use a wired/wireless USB mouse or joystick
 
-Unfortunately, many input devices from the 1980s didn’t last and finding devices that work can be a futile or expensive proposition. Game controllers were abundant by many manufactures and the MEGA65 uses the standard DB9 connector found on other systems such as the Atari 2600. The MEGA65 includes two DB9 connectors so you can use those early controllers or recent recreations such as the [Competition Pro](https://icomp.de/shop-icomp/en/shop/product/competition-pro-retro.html) or the Hyperkin [Trooper](https://amzn.to/3iVpE9j) or [Ranger](https://amzn.to/2TVS3kU) which includes a paddle controller. Hyperkin produces the [Ranger Adapter for Multiple Paddles](https://amzn.to/35Gbvov). In the future, it may be possible to play four person paddle controller games on the MEGA65.
+Unfortunately, many input devices from the 1980s didn’t last and finding devices that work can be a futile or expensive proposition. Game controllers were abundant by many manufactures and the MEGA65 uses the standard DB9 connector found on other systems such as the Atari 2600. The MEGA65 includes two DB9 connectors so you can use those early controllers or recent recreations such as the [Competition Pro](https://web.archive.org/web/20211004142026/https://icomp.de/shop-icomp/en/shop/product/competition-pro-retro.html) or the Hyperkin [Trooper](https://amzn.to/3iVpE9j) or [Ranger](https://amzn.to/2TVS3kU) which includes a paddle controller. Hyperkin produces the [Ranger Adapter for Multiple Paddles](https://amzn.to/35Gbvov). In the future, it may be possible to play four person paddle controller games on the MEGA65.
 
 Commodore produced the 1351 mouse; however, to my knowledge, no one makes a modern recreation of a Commodore 1351 mouse and these are now hard to find and when you do, very expensive. Many titles made use of the mouse (one of which we will discuss later) and not having a mouse for the MEGA65 limits usability of older and newer titles such as [M3wP Solitaire](https://files.mega65.org?id=693fa82c-ef25-483d-a221-a303a6e6229f). Made with a mouse in mind; what are you to do if you don't have one for things like Art Studio for the Commodore 64?
 

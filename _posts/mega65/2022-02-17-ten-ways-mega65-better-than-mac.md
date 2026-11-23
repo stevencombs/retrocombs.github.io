@@ -329,7 +329,7 @@ Help make this content better! Leave your comments, corrections, additions, and 
 [6]: https://amzn.to/3G3ZkCq
 [7]: /combianpi400-1
 [8]: https://www.m-e-g-a.org/mega65-keyboards/?fbclid=IwAR0568QaSSrBabLtrFsS90CGJFvzGjdORnqt7ys121I8nL5jpedsH8cQw_I
-[9]: https://www.gmk-electronic-design.de/en.html
+[9]: https://www.gmk.net/
 [10]: https://www.wikiwand.com/en/Commodore_65
 [11]: https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1
 [12]: https://www.polyplay.xyz
