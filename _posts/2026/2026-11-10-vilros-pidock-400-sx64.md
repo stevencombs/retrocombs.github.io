@@ -35,8 +35,6 @@ This post is the text companion to my video. It covers unboxing, assembly, first
 
 {% include review-box.html
    score="2.5"
-   price="around $240 to $250"
-   where="(at time of video)"
    summary="I can't recommend the PiDOCK 400 right now. It feels like a hollow toy I've dropped my nice Pi 400 into: a great screen and something like an SX-64, but no speakers, no battery, and cable management that's a disaster."
    product="Vilros PiDOCK 400"
    channel="retrocombs" %}
@@ -54,7 +52,7 @@ This post is the text companion to my video. It covers unboxing, assembly, first
 - [MY COMBIAN PI/400 RECAP](#recap)
 - [WHAT IS THE PIDOCK 400?](#what-is-it)
 - [MY VILROS EXPERIENCE](#vilros-experience)
-- [WHAT YOU GET FOR ABOUT $250](#what-you-get)
+- [WHAT YOU GET](#what-you-get)
 - [CONNECTING EVERYTHING](#connecting)
 - [FIRST BOOT IN SX-64 MODE](#first-boot)
 - [CONFIGURING COMBIAN 64](#configuring)
@@ -99,7 +97,7 @@ Title: _Use a Vilros PiDOCK 400 to recreate the Commodore SX-64 experience_
 
 ## VIDEO ERRATA {#video-errata}
 
-- **$250 or $240?** I say "about 250 dollars" early on, then "240 bucks" in my summary. Either way, it's pricey for what you get. Check the current price on the Vilros page.
+- **Price in the video.** I quoted two slightly different prices in the video. Either way, it's pricey for what you get. Check the current price on the Vilros page.
 - **"C64SX" (~9:30):** The machine is the SX-64.
 
 ## UPDATE: VILROS RESPONDED {#update}
@@ -120,7 +118,7 @@ I reached out to Vilros to see if they might sponsor the PiDOCK 400 and this epi
 
 To be clear, Vilros had nothing to do with this video. This was my own purchase. We get what we get, and I say what I'm going to say.
 
-## WHAT YOU GET FOR ABOUT $250 {#what-you-get}
+## WHAT YOU GET {#what-you-get}
 
 In the box:
 
@@ -218,13 +216,22 @@ Press **F3**, put the joystick in port 2, press fire, and go. My [TheJoystick](h
 - Some pieces don't sit flush, and it looks a little cheesy.
 - It needs the 12-volt adapter to power the screen and the Pi 400, and there's no battery, so it's not really portable. A laptop? No way. A spiritual successor to the SX-64? Sure. You still have to plug it in and lug it around.
 
-**My recommendation:** I can't recommend it right now. For about $240, it feels like a hollow toy I've dropped my nice Pi 400 into. If you want a case and screen for your Pi 400, you don't mind keeping it plugged in, and you'll use an external speaker, it's a purchase, but it's not worth $240. Maybe some of us can figure out how to hack in a battery, but should we have to?
+**My recommendation:** I can't recommend it right now. It feels like a hollow toy I've dropped my nice Pi 400 into. If you want a case and screen for your Pi 400, you don't mind keeping it plugged in, and you'll use an external speaker, it's a purchase, but it's hard to recommend at the current price. Maybe some of us can figure out how to hack in a battery, but should we have to?
 
 I'm keeping mine. I might hack on it, or use it for another project. Vilros, if you release a version 2, send it my way, and I'll take a fair look.
 
 ## CONCLUSION {#conclusion}
 
-The Vilros PiDOCK 400 turned my Combian pi/400 into something like an SX-64: plugged in, heavy, and with a great screen. It's missing speakers, a battery, and cable management, and at around $240 to $250, that's a hard sell. Now you know the limitations before you buy one and have to send it back.
+The Vilros PiDOCK 400 turned my Combian pi/400 into something like an SX-64: plugged in, heavy, and with a great screen. It's missing speakers, a battery, and cable management, and at the current price, that's a hard sell. Now you know the limitations before you buy one and have to send it back.
+
+## Gear Mentioned
+
+- 🧩 Vilros PiDOCK 400: <https://link.amazon/A02H2q8rc>
+- ⌨️ Raspberry Pi 400: <https://link.amazon/B0aWmnRVJ>
+- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
+- 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
+- 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
+- 🖱️ Retro Games Ltd TheMouse: <https://amzn.to/3PiJ1JM>
 
 Do you own an SX-64, or have you found a better way to make a portable C64? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
