@@ -30,7 +30,7 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    {% seo %}
+    {% if page.seo_title %}{% include seo-head.html %}{% else %}{% seo %}{% endif %}
     {% feed_meta %}
     <link rel="icon" href="{{ site.favicon | default: "/favicon.ico" | relative_url }}" sizes="any">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.favicon_png | default: "/favicon-32.png" | relative_url }}">

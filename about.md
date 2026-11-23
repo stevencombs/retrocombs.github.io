@@ -1,6 +1,8 @@
 ---
 layout: pages
 title: About Steven
+seo_title: "About Steven Combs, Ph.D."
+description: "Biography of Steven B. Combs, Ph.D., creator of the retroCombs YouTube channels and blog, plus posts that give insight into his personal interests."
 permalink: about
 wide: true
 ---

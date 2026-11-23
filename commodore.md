@@ -1,6 +1,8 @@
 ---
 layout: pages
 title: Commodore Business Machines (CBM)
+seo_title: "Commodore Posts and User Guides"
+description: "Commodore posts from retroCombs, grouped by accessories, PET, VIC-20, Commodore 64, Plus/4, and Commodore 128. The VIC-20 was Steven’s first computer."
 permalink: commodore
 ads: light
 wide: true
