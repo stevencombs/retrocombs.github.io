@@ -1,6 +1,8 @@
 ---
 layout: pages
 title: 'MEGA65 User’s Guide Series'
+seo_title: "MEGA≡65 User’s Guide, Chapters 1-7"
+description: "MEGA≡65 User’s Guide from retroCombs, with a page and video for each of seven chapters, from introduction through file transfers. Appendices coming soon."
 permalink: mega65-users-guide
 wide: true
 ---

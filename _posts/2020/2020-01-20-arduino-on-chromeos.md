@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Install Arduino IDE on Chrome OS - now with device support!'
+seo_title: "Arduino IDE on Chrome OS: Install and Upload"
+description: "Install the Arduino IDE on Chrome OS with Crostini Linux and upload a sketch to an Arduino board. Tested on a Pixelbook and Pixel Slate, with reader tips."
 date: 2020-01-20
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
