@@ -17,7 +17,7 @@ tags:
   - thea1200
   - gift-guide
   - video
-description: 'A tour of the Retro Games Ltd lineup, from THEC64 Mini to THEC64 Mini Black Edition, with five favorite experiences for each, a dated price table, and an update on THEA1200 launch date.'
+description: 'A tour of the Retro Games Ltd lineup, from THEC64 Mini to THEC64 Mini Black Edition, with five favorite experiences for each, and an update on THEA1200 launch date.'
 image:
   path: /images/posts/2026-11-22-retro-games-ltd-lineup-before-thea1200.jpg
   width: 1280
@@ -38,7 +38,7 @@ You pre-ordered [THEA1200](https://amzn.to/4oeSG1F) from Retro Games Ltd (RGL), 
 - [COMPANION YOUTUBE VIDEO](#companion-youtube-video)
 - [VIDEO ERRATA](#video-errata)
 - [THEA1200 STATUS UPDATE](#thea1200)
-- [PRICES AT A GLANCE](#prices)
+- [THE LINEUP AT A GLANCE](#lineup)
 - [THEC64 MINI (2018)](#thec64-mini)
 - [THEC64, THE "MAXI" (2019)](#thec64)
 - [THEVIC20 (2020)](#thevic20)
@@ -111,7 +111,7 @@ As of 2026-11-22:
 - **VIC-20 dates.** I said the VIC-20 was from the 1970s. It launched in Japan in 1980 as the VIC-1001 and in the US and Europe in 1981. Commodore discontinued it in January 1985. It was the first computer of any kind to sell one million units.
 - **A1200 bits.** I called THEA1200 "the full 16-bit experience." The original A1200 has a 32-bit Motorola 68EC020 processor, a step up from the 16-bit-era A500.
 - **Spectrum game name.** The game I called "Fantas" is *Phantis (Game Over II)*.
-- **Prices.** The prices I quoted in the video have changed. The [Black Edition](https://amzn.to/4p4zzsv), which I said was around $120, now costs less. See the [price table](#prices).
+- **Prices.** The prices I quoted in the video have changed.
 
 ## THEA1200 STATUS UPDATE {#thea1200}
 
@@ -122,22 +122,20 @@ According to [RGL's THEA1200 page](https://retrogames.biz/products/thea1200/), c
 - **Included:** 25 games, a Workbench installation, an original-style two-button mouse, and a new eight-button gamepad.
 - **Load your own:** USB loading with WHDLoad support, plus save and resume.
 
-UK listings I found were £164.95 at Hit and £169.99 at Argos. Some retailer pages still show the old June 2026 date, so go by RGL's page. In the US, Rarewaves.com lists a pre-order at $284.99.
+Some retailer pages still show the old June 2026 date, so go by RGL's page.
 
-## PRICES AT A GLANCE {#prices}
+## THE LINEUP AT A GLANCE {#lineup}
 
-These are new-in-box prices I found on store listings as of November 1, 2026. Prices change often, and stock comes and goes.
-
-| Computer | RGL release | Price in the video | Price as of November 1, 2026 |
-| --- | --- | --- | --- |
-| [THEC64 Mini](https://link.amazon/B019AnpPJ) | 2018 | Launched around $80; as low as $40 | $54.99 new (True Believers); about $40 to $50 used |
-| [THEC64 (Maxi)](https://link.amazon/B0i8BtTtm) | 2019 | $120 to $140 | $355.99 new (CaveGamers) |
-| [THEVIC20](https://amzn.to/3CA7anp) | 2020 | $120 to $140, hard to find | $204.99 (Rarewaves.com; power supply not included) |
-| [THEA500 Mini](https://amzn.to/3OVxJuD) | 2022 | $130 to $140 | $219.99 new (CaveGamers); $110 to $120 used (PayMore) |
-| [THE400 Mini](https://amzn.to/3Ju6xiH) | 2024 | Around $120 | $119.99 (atari.com, AtariAge) |
-| [The Spectrum](https://link.amazon/B05ukTchg) | 2024 | $120 to $140 | $104.99 plus shipping (Play-Asia) |
-| THEC64 Mini Black Edition | 2025 | Around $120 | $79.99 (Rarewaves.com) |
-| THEA1200 | Pre-order | Not yet released | See the [status update](#thea1200) |
+| Computer | RGL release |
+| --- | --- |
+| [THEC64 Mini](https://link.amazon/B019AnpPJ) | 2018 |
+| [THEC64 (Maxi)](https://link.amazon/B0i8BtTtm) | 2019 |
+| [THEVIC20](https://amzn.to/3CA7anp) | 2020 |
+| [THEA500 Mini](https://amzn.to/3OVxJuD) | 2022 |
+| [THE400 Mini](https://amzn.to/3Ju6xiH) | 2024 |
+| [The Spectrum](https://link.amazon/B05ukTchg) | 2024 |
+| [THEC64 Mini Black Edition](https://amzn.to/4p4zzsv) | 2025 |
+| [THEA1200](https://amzn.to/4oeSG1F) | Pre-order |
 
 ## THEC64 MINI (2018) {#thec64-mini}
 
@@ -241,7 +239,7 @@ I didn't grow up with the Spectrum, so my favorites might not be yours.
 4. Playing *Bobby Bearing*
 5. Playing *Phantis (Game Over II)*
 
-While I was recording, RGL announced a [white collector's edition](https://link.amazon/B0e3Pz7Cr) that pays tribute to the one millionth Spectrum. It comes with a matching white printer, a QuickShot II joystick, and a Microdrive-style USB stick. At the time, pre-orders were open only in Europe. As of November 1, 2026, I found White Edition listings from $151.99 to $178.
+While I was recording, RGL announced a [white collector's edition](https://link.amazon/B0e3Pz7Cr) that pays tribute to the one millionth Spectrum. It comes with a matching white printer, a QuickShot II joystick, and a Microdrive-style USB stick. At the time, pre-orders were open only in Europe.
 
 ## THEC64 MINI BLACK EDITION (2025) {#black-edition}
 
@@ -273,7 +271,26 @@ If you're a modern C64 fan, this is the Mini to get. If you just want 1980s nost
 
 ## CONCLUSION {#conclusion}
 
-You can't go wrong with any of these. They're well made and they scratch the nostalgia itch. THEA1200 is now set for December 4, 2026, and until then, the rest of the lineup is ready to play today. Check the price table before you buy, because prices have moved since I made the video.
+You can't go wrong with any of these. They're well made and they scratch the nostalgia itch. THEA1200 is now set for December 4, 2026, and until then, the rest of the lineup is ready to play today. Prices have moved since I made the video.
+
+## Gear Mentioned
+
+- 🅰️ Retro Games Ltd A1200 (US preorder): <https://amzn.to/4oeSG1F>
+- 💻 Retro Games Ltd TheC64 Mini: <https://link.amazon/B019AnpPJ>
+- 💻 Retro Games Ltd TheC64 Maxi: <https://link.amazon/B0i8BtTtm>
+- 💻 Retro Games Ltd TheVIC20 (UK): <https://amzn.to/3CA7anp>
+- 💻 Retro Games Ltd TheA500 Mini: <https://amzn.to/3OVxJuD>
+- 🖱️ Retro Games Ltd TheMouse: <https://amzn.to/3PiJ1JM>
+- 🎮 Retro Games Ltd TheGamePad: <https://amzn.to/43H7iNu>
+- 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
+- 💻 Retro Games Ltd The Atari 400 Mini: <https://amzn.to/3Ju6xiH>
+- 🕹️ Retro Games Ltd THECXSTICK: <https://amzn.to/3UgLwgy>
+- 💻 Retro Games Ltd TheSpectrum: <https://link.amazon/B05ukTchg>
+- 🤍 Retro Games Ltd TheSpectrum White Edition: <https://link.amazon/B0e3Pz7Cr>
+- 💻 Retro Games Ltd THEC64 Mini Black: <https://amzn.to/4p4zzsv>
+- 💾 Retro Games Ltd USB Drive: <https://link.amazon/B05GEnTW6>
+- 📕 A Hobbyist's Guide to The A500 Mini: <https://amzn.to/41HIUMZ>
+- 💾 AMiNIMiga: <https://www.amiga500mini.com/AMiNIMiga>
 
 Did I miss a classic game or experience for one of these? Let me know in the comments below. If this post helped, [leave a tip](https://paypal.me/stevencombs).
 
