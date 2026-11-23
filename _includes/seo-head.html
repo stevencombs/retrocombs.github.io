@@ -1,0 +1,9 @@
+{% comment %}
+  When a page sets seo_title, reuse jekyll-seo-tag output but swap the document
+  title in <title>, og:title, twitter:title, and JSON-LD headline. Visible H1s
+  and breadcrumbs still use page.title. Pages without seo_title never reach here.
+{% endcomment %}
+{% capture seo_head %}{% seo %}{% endcapture %}
+{% assign seo_from = page.title | markdownify | strip_html | normalize_whitespace | escape_once %}
+{% assign seo_to = page.seo_title | markdownify | strip_html | normalize_whitespace | escape_once %}
+{{ seo_head | replace: seo_from, seo_to -}}
