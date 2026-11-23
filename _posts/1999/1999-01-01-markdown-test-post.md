@@ -6,6 +6,8 @@ author: "{{ site.name }}"
 email: "{{ site.email }}"
 comments: false
 search: false
+sitemap: false
+robots: noindex
 category: web
 tags:
  - code
