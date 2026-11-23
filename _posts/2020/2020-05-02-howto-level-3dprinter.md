@@ -45,7 +45,7 @@ Once I level the bed, I am going to test the surface by printing a key plunger f
 
 This is a perfect part to test the leveling on the Ender 3 because it is small and only connects to the print surface at two points (disregard my four point comments in the video) and those two points are small areas. If the bed isn't level and the heat set just properly, the print will fail miserably, and usually dramatically, with a mess of PLA.
 
-![Commodore VIC-20 key plunger printed](/images/posts/2020-05-02-keycap-old-new copy.jpg)
+![Commodore VIC-20 key plunger printed](/images/posts/2020-05-02-keycap-old-new.jpg)
 
 You can [grab the VIC-20 key plunger STL file](https://www.thingiverse.com/thing:2677332) on Thingiverse. Thanks to Manuel Straub,
 [mannesahne](https://www.thingiverse.com/mannesahne/about), for creating this part.
