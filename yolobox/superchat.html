@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<!-- YoloBox slot wrapper: all relative URLs (fonts, images, audio) resolve inside superchat/. Query string is untouched. -->
+<!-- YoloBox slot wrapper. Fonts, images, and audio are root-absolute under /yolobox/superchat/assets/ so they load even if a client ignores <base>. The base tag stays so any relative URL still resolves inside superchat/ and does not inherit the page query string. -->
 <base href="superchat/">
 <meta name="robots" content="noindex">
 <link rel="icon" href="data:,">
 <meta name="viewport" content="width=1920, height=1080">
 <title>retroCombs Super Chat overlay</title>
 <style>
-@font-face { font-family: 'PS2P'; src: url('assets/PressStart2P-Regular.woff2') format('woff2'); font-display: block; }
-@font-face { font-family: 'VT323'; src: url('assets/VT323-Regular.woff2') format('woff2'); font-display: block; }
+@font-face { font-family: 'PS2P'; src: url('/yolobox/superchat/assets/PressStart2P-Regular.woff2') format('woff2'); font-display: block; }
+@font-face { font-family: 'VT323'; src: url('/yolobox/superchat/assets/VT323-Regular.woff2') format('woff2'); font-display: block; }
 html, body { margin: 0; padding: 0; width: 1920px; height: 1080px; overflow: hidden; background: transparent !important; }
 #stage { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; overflow: hidden; background: transparent !important; }
 #fx { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; }
@@ -60,10 +60,10 @@ svg.px { display: block; shape-rendering: crispEdges; }
       <div class="line" id="line1"><span></span></div>
     </div>
   </div>
-  <img id="headline" class="layer" src="assets/superchat-headline.png" alt="">
-  <img id="banner" class="layer" src="assets/thanks-banner.png" alt="">
+  <img id="headline" class="layer" src="/yolobox/superchat/assets/superchat-headline.png" alt="">
+  <img id="banner" class="layer" src="/yolobox/superchat/assets/thanks-banner.png" alt="">
 </div>
-<audio id="sfx" src="assets/superchat-bed.mp3" preload="auto"></audio>
+<audio id="sfx" src="/yolobox/superchat/assets/superchat-bed.mp3" preload="auto"></audio>
 <script>
 (function () {
 'use strict';
@@ -177,7 +177,7 @@ function fit() {
 
 // ======================= canvases =======================
 var fx = $('fx'), cx = fx.getContext('2d'), fc = $('fieldCanvas'), fcx = fc.getContext('2d');
-var LOGO = new Image(); LOGO.src = 'assets/logo-card.png';
+var LOGO = new Image(); LOGO.src = '/yolobox/superchat/assets/logo-card.png';
 var LW = 300, LH = 228, LM = 112, LX = 1920 - 60 - LW, LY = 60;   // upper-right corner badge
 function mk(w, h) { var c = document.createElement('canvas'); c.width = w; c.height = h; return c; }
 var wc = mk(LW + 2 * LM, LH), wcx = wc.getContext('2d'), tr = mk(LW + 2 * LM, LH), tb = mk(LW + 2 * LM, LH);
@@ -310,7 +310,7 @@ function render(t) {
 
 // ======================= audio (always fails silently) =======================
 var sfx = $('sfx'), audioOK = true, KEYPOOL = [];
-for (var q = 0; q < 4; q++) { var ka = document.createElement('audio'); ka.src = 'assets/key.mp3'; ka.preload = 'auto'; KEYPOOL.push(ka); }
+for (var q = 0; q < 4; q++) { var ka = document.createElement('audio'); ka.src = '/yolobox/superchat/assets/key.mp3'; ka.preload = 'auto'; KEYPOOL.push(ka); }
 var kp = 0;
 function tryPlay(a) { try { a.currentTime = 0; var p = a.play(); if (p && p.catch) p.catch(function () { audioOK = false; }); } catch (e) { audioOK = false; } }
 function blip() { if (!audioOK) return; tryPlay(KEYPOOL[kp]); kp = (kp + 1) % KEYPOOL.length; }
