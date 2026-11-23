@@ -39,6 +39,18 @@ defaults:
       path: "google88a0db31e40e0904.html"
     values:
       sitemap: false
+  # YoloBox pages are on-stream overlays. They already send noindex.
+  # Keep the whole directory out of sitemap.xml, including alerts.html,
+  # which YoloBox may still load.
+  - scope:
+      path: "yolobox"
+    values:
+      sitemap: false
+  # /shop.html is a redirect to the Spreadshop store, not a page to index.
+  - scope:
+      path: "shop.html"
+    values:
+      sitemap: false
 
 # Giscus. Comments render only when category_id is set and the page
 # does not set comments: false.
