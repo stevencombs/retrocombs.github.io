@@ -1,0 +1,34 @@
+{%- comment -%}
+  Marks existing affiliate anchors with rel="sponsored noopener".
+  PayPal tip links are never marked. Href values are left as written.
+  Sets has_affiliate_links for affiliate-note.html.
+{%- endcomment -%}
+{%- assign has_affiliate_links = false -%}
+{%- assign aff_parts = include.html | split: "<a " -%}
+{%- for aff_part in aff_parts -%}
+  {%- if forloop.first -%}
+    {{- aff_part -}}
+  {%- else -%}
+    {%- assign aff_head = aff_part | split: ">" | first | downcase -%}
+    {%- assign aff_hit = false -%}
+    {%- unless aff_head contains "paypal.me" or aff_head contains "paypal.com" -%}
+      {%- if aff_head contains "amzn.to" or aff_head contains "ebay.us" or aff_head contains "tidd.ly" or aff_head contains "link.amazon" or aff_head contains "surfshark.club" or aff_head contains "shareasale.com" or aff_head contains "assoc-amazon.com" or aff_head contains "sca_ref=" or aff_head contains "referral_code=" or aff_head contains "sales_plugin_af" or aff_head contains "vidiq.com" or aff_head contains "refersion.com" or aff_head contains "seekboxstore.com" or aff_head contains "evpadpro.com" or aff_head contains "mysuperbox.shop" -%}
+        {%- assign aff_hit = true -%}
+      {%- elsif aff_head contains "amazon." and aff_head contains "tag=" -%}
+        {%- assign aff_hit = true -%}
+      {%- elsif aff_head contains "apple.com" and aff_head contains "at=" -%}
+        {%- assign aff_hit = true -%}
+      {%- endif -%}
+    {%- endunless -%}
+    {%- if aff_hit -%}
+      {%- assign has_affiliate_links = true -%}
+      {%- if aff_head contains 'rel="' -%}
+<a {{ aff_part }}
+      {%- else -%}
+<a rel="sponsored noopener" {{ aff_part }}
+      {%- endif -%}
+    {%- else -%}
+<a {{ aff_part }}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}

@@ -11,14 +11,16 @@ layout: default
   <div class="page-body">
     {% include topic-page-banner.html banner=page.banner alt=page.banner_alt %}
     <div class="prose{% if page.wide %} prose-wide{% endif %}">
+      {% capture body %}{% include affiliate-links.html html=content %}{% endcapture %}
+      {% include affiliate-note.html %}
       {% if page.ads == false %}
-      {{ content }}
+      {{ body }}
       {% else %}
       {% comment %}
         Same in-article slot and thresholds as posts. ads: false is the
         opt-out. Any other value, including light or unset, gets the post pattern.
       {% endcomment %}
-      {% include content-with-ads.html html=content mode="full" %}
+      {% include content-with-ads.html html=body mode="full" %}
       {% endif %}
     </div>
   </div>

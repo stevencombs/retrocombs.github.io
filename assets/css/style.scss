@@ -318,6 +318,9 @@ article.card .rc-review{max-width:none}
 .prose blockquote.tip{border-left-color:var(--st-green);background:#F2F8EE}
 .prose blockquote.warning{border-left-color:var(--st-red);background:#F2F8EE}
 .prose blockquote.note{border-left-color:var(--st-orange);background:#FFF6E8}
+.prose .affiliate-note,.prose .affiliate-disclosure{margin:0 0 1.2em;padding:10px 14px;background:#FFF6E8;border-left:4px solid var(--st-orange);font-size:15px;line-height:1.5}
+.prose .affiliate-note,.prose .affiliate-disclosure{max-width:none}
+.prose .affiliate-disclosure strong{font-weight:700}
 .prose blockquote p+p{margin-top:.75em}
 .prose .ca-banner{max-width:none;width:100%;margin:1.4em 0}
 .prose .ca-banner a{display:block;line-height:0;text-decoration:none}
