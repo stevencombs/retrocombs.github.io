@@ -68,7 +68,7 @@ None as of 2023-06-17.
 
 - [TheC64 Maxi](https://link.amazon/B0i8BtTtm)
 - [TheC64 Mini](https://link.amazon/B019AnpPJ)
-- [The VIC20 (UK)](https://amzn.to/3CA7anp)
+- [TheVIC20 (UK)](https://amzn.to/3CA7anp)
 - [TheA500 Mini](https://amzn.to/3OVxJuD)
 - [TheJoystick](https://amzn.to/43lVHUh)
 - [TheMouse](https://amzn.to/3PiJ1JM)

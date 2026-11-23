@@ -216,13 +216,13 @@ Press **F3**, put the joystick in port 2, press fire, and go. My [TheJoystick](h
 - Some pieces don't sit flush, and it looks a little cheesy.
 - It needs the 12-volt adapter to power the screen and the Pi 400, and there's no battery, so it's not really portable. A laptop? No way. A spiritual successor to the SX-64? Sure. You still have to plug it in and lug it around.
 
-**My recommendation:** I can't recommend it right now. It feels like a hollow toy I've dropped my nice Pi 400 into. If you want a case and screen for your Pi 400, you don't mind keeping it plugged in, and you'll use an external speaker, it's a purchase, but it's hard to recommend at the current price. Maybe some of us can figure out how to hack in a battery, but should we have to?
+**My recommendation:** I can't recommend it right now. It feels like a hollow toy I've dropped my nice Pi 400 into. If you want a case and screen for your Pi 400, you don't mind keeping it plugged in, and you'll use an external speaker, it's a purchase, but it's hard to recommend at the price when I reviewed it. Maybe some of us can figure out how to hack in a battery, but should we have to?
 
 I'm keeping mine. I might hack on it, or use it for another project. Vilros, if you release a version 2, send it my way, and I'll take a fair look.
 
 ## CONCLUSION {#conclusion}
 
-The Vilros PiDOCK 400 turned my Combian pi/400 into something like an SX-64: plugged in, heavy, and with a great screen. It's missing speakers, a battery, and cable management, and at the current price, that's a hard sell. Now you know the limitations before you buy one and have to send it back.
+The Vilros PiDOCK 400 turned my Combian pi/400 into something like an SX-64: plugged in, heavy, and with a great screen. It's missing speakers, a battery, and cable management, and at that price, that's a hard sell. Now you know the limitations before you buy one and have to send it back.
 
 ## Gear Mentioned
 

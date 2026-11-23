@@ -82,7 +82,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 1. [Combian 64](https://cmaiolino.wordpress.com/)
 2. [Raspberry Pi 400](https://link.amazon/B0aWmnRVJ)
 3. [Raspberry Pi 4](https://link.amazon/B0379LyFy)
-4. [Raspberry Pi 27W Power Supply](https://link.amazon/B0aI0jfzc)
+4. Raspberry Pi 15W USB-C Power Supply
 5. Micro HDMI to HDMI Cable
 6. Lepow Portable HDMI monitor
 7. SanDisk Ultra
@@ -143,7 +143,7 @@ Time to upgrade the Combian 64 distribution.
 1. Setup the Raspberry Pi 4 with a keyboard/mouse combination.
 2. Connect an HDMI monitor.
 3. Plug in the prepared micro Combian 64 SD card.
-4. Plug in the Raspberry Pi 4 to the [USB-C power cable](https://link.amazon/B0aI0jfzc).
+4. Plug in the Raspberry Pi 4 to the Raspberry Pi 15W USB-C Power Supply.
 5. Once the Raspberry Pi boots, load the *Terminal* and type the following commands:
 
    `sudo apt update` / A password prompt will appear. It is `raspberry`
@@ -165,7 +165,7 @@ This is the easiest step. Insert the Combian 64 micro SD card into the Raspberry
 
 ## Plug in the Raspberry Pi 400
 
-1. Connect the Raspberry Pi 400 to the [USB-C power cable](https://link.amazon/B0aI0jfzc) but do not plug it into the wall yet.
+1. Connect the Raspberry Pi 400 to the Raspberry Pi 15W USB-C Power Supply but do not plug it into the wall yet.
 2. Connect an HDMI monitor.
 3. If you plan to play games, go ahead and plug in a [THEC64 Joystick](https://amzn.to/43lVHUh). It works out of the box with Combian 64! No configuration necessary if the games conforms to the normal joystick port selection.
 
@@ -173,7 +173,7 @@ That's it. We don't need a mouse since those weren't "really a thing" in the 198
 
 ## Startup the Combian 64 computer
 
-1. Plug in the [USB-C power cable](https://link.amazon/B0aI0jfzc) to the wall. Depending on the power supply, you may need to flip a switch on the cable.
+1. Plug in the Raspberry Pi 15W USB-C Power Supply to the wall. Depending on the power supply, you may need to flip a switch on the cable.
 2. The Raspberry Pi will boot up the Combian 64 distribution and by default, into Commodore 64 mode. The first boot will take longer than subsequent boots. Afterward, Combian will boot in about 10-15 seconds.
 
 ## Configure Combian 64
@@ -252,7 +252,6 @@ I demonstrate playing this game in the video and am using THEC64 joystick. It re
 
 - ⌨️ Raspberry Pi 400: <https://link.amazon/B0aWmnRVJ>
 - 🥧 Raspberry Pi 4: <https://link.amazon/B0379LyFy>
-- 🔌 Raspberry Pi 27W Power Supply: <https://link.amazon/B0aI0jfzc>
 - 🕹️ Retro Games Ltd TheJoystick: <https://amzn.to/43lVHUh>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
 
