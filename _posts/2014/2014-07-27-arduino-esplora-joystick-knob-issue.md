@@ -20,7 +20,7 @@ I recently purchased an [Arduino Esplora](http://www.amazon.com/gp/product/B00CM
 
 As Arduino Forum member [roundhouselabs](http://forum.arduino.cc/index.php?action=profile;u=68073) explained, there are two types of knob connections and the folks at Arduino made a mistake while packing some units. As an example of the two knob types, he shared the image below:
 
-![Two knob types](https://lh4.googleusercontent.com/-gq4S5B0u8Ps/UQQ8dg8ZKgI/AAAAAAAAHIQ/cCsPAbdWYLo/s288/IMG_20130126_151311.jpg)
+![Two knob types](https://web.archive.org/web/20171102191726id_/https://lh4.googleusercontent.com/-gq4S5B0u8Ps/UQQ8dg8ZKgI/AAAAAAAAHIQ/cCsPAbdWYLo/s288/IMG_20130126_151311.jpg)
 
 There is no way the Arduino Esplora joystick post will fit into the small rectangular hole on the knob I received. So what's a guy to do? Take it back to the Shack? Nope. Time to break out the power hand drill. I began using small bits to ream out the square until I had a small circle leading up to a 5/32” bit. That seemed to be the perfect size diameter and once I placed the knob on the post, it worked well, except for one small issue. I drilled the hole too deep.
 

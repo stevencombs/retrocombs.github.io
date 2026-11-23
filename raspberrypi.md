@@ -35,8 +35,8 @@ Below are links referenced during my presentation or links that supplement quest
 
 ### Arduino
 * [Purchase an inexpensive physical computing device, the Arduino](http://amzn.to/269vWTI) - At $10 (cable included!), you can't go wrong.
-* [Program the Arduino using Codebender](https://codebender.cc/home) - You will need to use the [Chrome browser](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0ahUKEwiJh_uk97HNAhUYV1IKHbrLB2AQ0EMIJA&url=https%3A%2F%2Fwww.google.com%2Fchrome%2Fbrowser%2F&usg=AFQjCNG19iEVK3TZqhAHQwzOx8ulYv7V8g&sig2=kEIz916WjSGpoOSkZnZV7g&bvm=bv.124817099,d.aXo), but this is by far the easiest interactive development environment (IDE) to use and my go to IDE for Arduino programming.
-* [My Codebender page](https://codebender.cc/user/stevencombs) - My Codebender projects and samples. Updated regularly as projects appear on my workbench.
+* Program the Arduino using Codebender - You will need to use the [Chrome browser](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0ahUKEwiJh_uk97HNAhUYV1IKHbrLB2AQ0EMIJA&url=https%3A%2F%2Fwww.google.com%2Fchrome%2Fbrowser%2F&usg=AFQjCNG19iEVK3TZqhAHQwzOx8ulYv7V8g&sig2=kEIz916WjSGpoOSkZnZV7g&bvm=bv.124817099,d.aXo), but this is by far the easiest interactive development environment (IDE) to use and my go to IDE for Arduino programming.
+* My Codebender page - My Codebender projects and samples. Updated regularly as projects appear on my workbench.
 
 ### Get Inspired
 * [Raspberry Pi Foundation](https://www.raspberrypi.org/) - Home of all things Raspberry Pi.

@@ -211,11 +211,11 @@ There you have it; my favorite gadgets of 2016. There were many gadgets released
 [44]:	http://amzn.to/2hW97mE
 [45]:	http://amzn.to/2hTEsGD
 [46]:	http://amzn.to/2i3kyFf
-[47]:	https://www.nextthing.co/
-[48]:	https://www.nextthing.co/pages/store
-[49]:	https://bbs.nextthing.co/
+[47]:	https://web.archive.org/web/20180422053938/http://www.nextthing.co/
+[48]:	https://web.archive.org/web/20170212065801/https://nextthing.co/pages/store
+[49]:	https://web.archive.org/web/20180919072325/https://bbs.nextthing.co/
 [50]:	/chip/2016/06/28/ten-things-about-pocket-chip.html
-[51]:	https://www.nextthing.co/pages/store
+[51]:	https://web.archive.org/web/20170212065801/https://nextthing.co/pages/store
 [52]:	/gadgets/2015/02/21/amazon-echo-review.html
 [53]:	http://amzn.to/2i1mTQS
 [54]:	http://amzn.to/2gDLNbW

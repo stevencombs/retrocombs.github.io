@@ -121,7 +121,7 @@ Obviously, a review of the slides and the links below are not enough for readers
 * [nvALT for Mac](http://brettterpstra.com/projects/nvalt/)
 * [Notepad++ for Windows](http://notepad-plus-plus.org/)
 * [Elements for iOS](http://www.secondgearsoftware.com/elements/)
-* [Epistle for Android](https://play.google.com/store/apps/details?id=com.kooklab.epistle&amp;hl=en)
+* Epistle for Android
 
 ## Slide 20 - Markdown
 

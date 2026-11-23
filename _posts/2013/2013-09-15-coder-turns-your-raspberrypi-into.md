@@ -30,7 +30,7 @@ In this post, you will learn a bit more about my experience with this new develo
 
 {% include youtube.html id="wH24YwdayFg" title="HOWTO: Turn your RaspberryPi into a development platform with Coder" %}
 
-The developer claims that you can setup Coder on a RaspberryPi in less than 10 minutes. These minutes do not account for the time needed to burn the OS image to an SD card. Coder made this process simple though by providing a Mac installer in the download package. No need to use my [popular, but lengthy, Terminal instructions][3]. Took about 7 minutes for my iMac to transfer the OS to the SD card.
+The developer claims that you can setup Coder on a RaspberryPi in less than 10 minutes. These minutes do not account for the time needed to burn the OS image to an SD card. Coder made this process simple though by providing a Mac installer in the download package. No need to use my popular, but lengthy, Terminal instructions. Took about 7 minutes for my iMac to transfer the OS to the SD card.
 
 After the SD card preparation, it took me less than 5 minutes to:
 
@@ -87,6 +87,5 @@ Time to get back to my [Codecademy](http://www.codecademy.com/doccombs) lessons!
 
 [1]: http://goo.gl/coder
 [2]: /images/posts/2013-09-15-coder-welcome-video.png
-[3]: /apple/2009/05/28/create-bootable-usb-drive-osx.html
 [4]: /images/posts/2013-09-15-coder.png
 [5]: /images/posts/2013-09-15-coder-wifi-install.png

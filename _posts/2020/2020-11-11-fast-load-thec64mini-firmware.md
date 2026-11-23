@@ -55,7 +55,7 @@ Now that you've seen the video, below is an overview of the steps:
 
 1. Power down THEC64 mini.
 
-2. Visit <https://retrogames.biz/support/upgrade-thec64-mini>.
+2. Visit <https://retrogames.biz/support/thec64-mini/upgrade/>.
 
 3. Download the latest firmware, in this case v1.4.2, to a FAT32 formatted USB drive.
 

@@ -69,7 +69,7 @@ If you are looking to customize your phone or tablet’s user interface, use wid
 # Launcher
 iOS forces you to use the Apple application launcher called Springboard. Android also includes a launcher and depending on the phone manufacturer, it may not be the same. If you don’t like the default launcher on Android, you simply download another from the Google Play App store.
 
-Currently I’m a fan of the [Google Now launcher][23] – Google’s own custom launcher that includes Google Now, Google Now cards and Google On Tap. This launcher provides voice commands (similar, but better than Siri) and contextual information based on the current time of day, your calendar and your search interests. It’s amazing how accurate Google Now cards have become at anticipating my digital assistant needs. One of my favorite features is the automatic display on a map where I have last parked my car.
+Currently I’m a fan of the Google Now launcher – Google’s own custom launcher that includes Google Now, Google Now cards and Google On Tap. This launcher provides voice commands (similar, but better than Siri) and contextual information based on the current time of day, your calendar and your search interests. It’s amazing how accurate Google Now cards have become at anticipating my digital assistant needs. One of my favorite features is the automatic display on a map where I have last parked my car.
 
 # Battery life
 While Android shines in the sections above, Android battery life is abysmal. I have yet to own a device that can match an iOS device’s battery life. Android, even with the new Doze feature included in version 6.0, can’t match an iOS device.
@@ -180,7 +180,6 @@ While I will recommend Android devices now to my family and friends, I will alwa
 [20]:	http://play.google.com
 [21]:	https://www.google.com/design/spec/material-design/introduction.html
 [22]:	http://docs.google.com
-[23]:	https://play.google.com/store/apps/details?id=com.google.android.launcher&hl=en
 [24]:	http://www.tomsguide.com/us/fastest-smartphone,review-2881.html
 [25]:	http://www.amazon.com/gp/product/B0171BS9CG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0171BS9CG&linkCode=as2&tag=stevenccom-20
 [26]:	http://amzn.to/21dy0rr

@@ -128,7 +128,7 @@ My iPhone 5s includes a fingerprint scanner in the lower front of the phone to w
 Google adds a nice trick to the fingerprint scanner. A swipe down over the scanner reveals notifications and then back up to hide them. With a single hand I can pick up the phone, unlock it and view notifications. It is brilliant and I hope Google adds other gestures to the fingerprint sensor.
 
 # Pixel launcher
-The Pixel uses the new [Pixel Launcher][25] (exclusive to the Pixel).  This an upgrade to the [Google Now Launcher][26] used on the Nexus 6. Features include:
+The Pixel uses the new Pixel Launcher (exclusive to the Pixel).  This an upgrade to the Google Now Launcher used on the Nexus 6. Features include:
 
 * Round icons
 * Swipe up to access apps
@@ -209,8 +209,6 @@ If you have any questions, find errors, or would like to leave a thought, please
 [22]:	#ports
 [23]:	/android/2016/04/30/ios-user-talks-android.html#camera
 [24]:	https://photos.google.com
-[25]:	https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher&hl=en
-[26]:	https://play.google.com/store/apps/details?id=com.google.android.launcher&hl=en
 [27]:	#google-assistant
 [28]:	https://hangouts.google.com
 [29]:	#pixel-launcher

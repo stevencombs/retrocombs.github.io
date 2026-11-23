@@ -108,7 +108,7 @@ I use Balena Etcher to burn images to USB drives and SD cards. It's available fo
 1. Visit the [Balena Etcher site](https://www.balena.io/etcher/).
 2. Click the Download for [Your Platform] button underneath the cycling Etcher image as shown below:
 
-    ![Etcher steps](https://www.balena.io/static/steps-8006dca57323756b1b84fb9408742409.gif)
+    ![Etcher steps](https://web.archive.org/web/20230116234656id_/https://www.balena.io/static/steps-8006dca57323756b1b84fb9408742409.gif)
 
 3. Once the download is complete, install per your computer OS's normal process.
 
@@ -136,7 +136,7 @@ Make sure you can easily locate these files. You will need them for the next sec
 
 With the Super RetroPie image downloaded, it's time to write it to the microSD card. We can use our animated image and instructions below to help guide us:
 
-![Etcher steps](https://www.balena.io/static/steps-8006dca57323756b1b84fb9408742409.gif)
+![Etcher steps](https://web.archive.org/web/20230116234656id_/https://www.balena.io/static/steps-8006dca57323756b1b84fb9408742409.gif)
 
 1. Load Etcher ([See above](#install-balena-etcher))
 2. Locate and then drag the _SuperRetroBoyRevE(5-5-20).img_ file to the _Select Image_ button (you can also use the file selector if you click the button).

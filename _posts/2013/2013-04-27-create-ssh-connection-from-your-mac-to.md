@@ -70,7 +70,7 @@ It's that last line that makes this distro perfect for our project. I'll explain
 
 ## Install an OS on an SD card
 
-We have a distro identified and we now need to install it on an SD card. There are many ways to do this. One of the more popular ways is to use Terminal commands. I have a very [popular post that describes this process][7] in detail but it can be quite daunting for someone new to Linux and terminal commands.
+We have a distro identified and we now need to install it on an SD card. There are many ways to do this. One of the more popular ways is to use Terminal commands. I have a very popular post that describes this process in detail but it can be quite daunting for someone new to Linux and terminal commands.
 
 To make this task easier, we are going to use the [RPi-sd card builder v1.2][8]. This application makes it easy to install a distro (in .img format) on an SD. Let's get started:
 
@@ -193,14 +193,13 @@ Let's stop there for now, but this is just the beginning of the fun and exciting
 
 See, getting a Raspberry Pi running headless isn't as painful as you might have thought and I guarantee is was more fun than you thought it would be. If you were like me, you got a warm fuzzy feeling the first time you realized you were actually connected to your little Raspberry Pi and that you could control the device without a physical keyboard or mouse connected.
 
-I think this may win the prize for my longest blog post, although my blog post [Create a bootable USB drive][7] is awfully close. Given the length, and my inability to edit my own writing, please drop a comment below if you find errors. I would also love to read about your experiences, so drop those too. Happy ssh'ing!
+I think this may win the prize for my longest blog post, although my blog post Create a bootable USB drive is awfully close. Given the length, and my inability to edit my own writing, please drop a comment below if you find errors. I would also love to read about your experiences, so drop those too. Happy ssh'ing!
 
 [2]: http://www.linux.org/
 [3]: http://www.raspberrypi.org/downloads
 [4]: http://adafruit.com/
 [5]: http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro
 [6]: http://draft.blogger.com/blogger.g?blogID=2984947566836492313
-[7]: /apple/2009/05/27/create-bootable-usb-drive-osx
 [8]: http://alltheware.wordpress.com/2012/12/11/easiest-way-sd-card-setup/
 [9]: https://2.bp.blogspot.com/-yAAekyttYGI/UXwI8U3mArI/AAAAAAABIks/HzrEKBVm4pc/s400/Choose+Image.png
 [10]: https://1.bp.blogspot.com/-NyClIrY5-Vw/UXwI8OT85rI/AAAAAAABIkk/enIvVKcAXyk/s400/SD+Card+Connected.png

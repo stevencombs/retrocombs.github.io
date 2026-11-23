@@ -23,7 +23,7 @@ kind: bench
 
 In November of 2015, [Project Fi][1] (Google’s mobile phone service), sent out *Happy Holidays* kits to their users. Inside the kit were Project Fi building bricks. Many folks online inaccurately called them LEGO bricks. These bricks are definitely not manufactured by LEGO. They have “fi” on the stud and the quality is not up to LEGO manufacturing standards.
 
-![Next Think Co. Logo](https://cdn.shopify.com/s/files/1/1065/9514/t/15/assets/ntclogo.png?752585561207401692)
+Next Think Co. Logo
 
 > Thanks to the folks over at [Next Thing Co.][6] for making this build a feature of their [August 11, 2016 blog post][7]. If you are coming over from their post, WELCOME! Also be sure to check out a few of my [other C.H.I.P. related posts](/embedded.html). Many more to come.
 
@@ -74,8 +74,8 @@ I built in an integrated V shape to provide access to, and visually point out, t
 [3]:	http://amzn.to/2alx7Y5
 [4]:	http://amzn.to/2alx7Y5
 [5]:	http://amzn.to/2acE2Dv
-[6]:	https://www.nextthing.co/
-[7]:	http://blog.nextthing.co/pocketc-h-i-p-community-projects-a-pokemon-go-trainer-bot-a-drawing-robot-a-brick-built-stand/
+[6]:	https://web.archive.org/web/20180422053938/http://www.nextthing.co/
+[7]:	https://web.archive.org/web/20170220063527/http://blog.nextthing.co/pocketc-h-i-p-community-projects-a-pokemon-go-trainer-bot-a-drawing-robot-a-brick-built-stand/
 
 [image-1]: /images/posts/chip/dock1.jpg
 [image-2]: /images/posts/chip/dock2.jpg

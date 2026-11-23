@@ -66,7 +66,7 @@ You betcha and one of my favorites is watching on our [Roku][11]. If you search 
 When it comes to add-ons, Plex also tops its competitors in number and functionality. Plex provides many more stable channels (read channels that actually work) to access content from several online video and audio providers (TWiT, Hulu, YouTube, Pandora, etc). For instance, I was not able to find a Netflix add-on in the default XBMC add-on channel listing; however, a very quick inspection in the Plex add-ons quickly revealed a Netflix channel that works (unlike my Boxee experience). If I am in error in these comments, I'm sure the passionate XBMC users out there will let me know. Now if there were only a [TCM][12] channel. We do love those great old movies.
 
 ### Can I view web content? You know, YouTube?
-Plex shines when you want to consume video you find on the web on your large HDTV. If you took the extra step above to create an online account, you can now use the >[ Plex It!][13] bookmarklet to post web video directly to your Plex queue. It works like this. You browse a site and find a video you don't have time to watch or would rather see on a larger screen on the comfort of your couch (a movie trailer for instance). You select the Plex It! bookmarklet from your Chrome, or other browser, bookmarks. The bookmarklet will search out the embedded video and automatically add it to your queue. You can then fire up Plex on your MmMC at home, navigate to your queue, and then select the video to view. The queue is also available online, so you can watch from your browser late as well.
+Plex shines when you want to consume video you find on the web on your large HDTV. If you took the extra step above to create an online account, you can now use the Plex It! bookmarklet to post web video directly to your Plex queue. It works like this. You browse a site and find a video you don't have time to watch or would rather see on a larger screen on the comfort of your couch (a movie trailer for instance). You select the Plex It! bookmarklet from your Chrome, or other browser, bookmarks. The bookmarklet will search out the embedded video and automatically add it to your queue. You can then fire up Plex on your MmMC at home, navigate to your queue, and then select the video to view. The queue is also available online, so you can watch from your browser late as well.
 
 Plex also provides a unique e-mail address that you can use to send video from your mobile devices. Simply e-mail the link of the page that includes the video to the unique address and Plex will parse out this information, locate the video and add it to your queue. These two features work well with [Vimeo][14] and [YouTube][15] currently. Other sites are hit and miss.
 
@@ -102,7 +102,6 @@ Have a question about my set up? Drop a comment below. Need me to describe a fea
 [10]: https://3.bp.blogspot.com/-jYfBamSfa-0/Tzl7x574bjI/AAAAAAAA5Oo/bflv4xo4E7k/s320/Photo+Feb+03,+16+09+28.png
 [11]: http://goo.gl/P4OQS
 [12]: http://draft.blogger.com/www.tcm.com
-[13]: https://my.plexapp.com/queue/help
 [14]: http://draft.blogger.com/www.vimeo.com
 [15]: http://draft.blogger.com/www.youtube.com
 [16]: https://4.bp.blogspot.com/-BIYUElEdVio/Tzl8DHXHUoI/AAAAAAAA5Ow/eeDwKTAlFHM/s320/My+Plex+Login.png

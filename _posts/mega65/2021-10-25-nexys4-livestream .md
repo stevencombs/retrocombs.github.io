@@ -44,7 +44,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 1. [The MEGA65 Project](https://www.mega65.org)
 2. [Run a MEGA65 on your Mac using Xemu](/xemu-on-mac)
 3. [Purchase a Nexys A7-100T FPGA Trainer Board](https://amzn.to/2Zj3BRX)
-4. [Purchase a MEGA65](https://shop.trenz-electronic.de/en/TE0765-03-S001-MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer?c=564)
+4. [Purchase a MEGA65](https://www.trenz-electronic.de/en/MEGA65-highly-advanced-C64-and-C65-compatible-8-bit-computer/TE0765-07-AK)
 5. [retroCombs Supporters](/supporters)
 
 ## Livestream Thoughts

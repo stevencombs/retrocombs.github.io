@@ -96,7 +96,7 @@ When the installation is complete **try this:**
 The *Terminal* will display this site in all its text-based glory. Use the tab and arrow keys to navigate.
 
 # Help is available
-There is an excellent online bulletin board system (BBS) full of users and Next Computing staff to provide assistance and support. It is located at [https://bbs.nextthing.co/][23]. The community is quick to answer questions. Be sure to search the BBS before you post a question. You will most likely find an answer immediately. Before heading to the BBS though, review the documentation at:
+There is an excellent online bulletin board system (BBS) full of users and Next Computing staff to provide assistance and support. It is located at [https://web.archive.org/web/20180919072325/https://bbs.nextthing.co/][23]. The community is quick to answer questions. Be sure to search the BBS before you post a question. You will most likely find an answer immediately. Before heading to the BBS though, review the documentation at:
 
 [http://docs.getchip.com/pocketchip.html][24]
 
@@ -151,7 +151,7 @@ In the *Terminal* type:
 
 `xcalc`
 
-Your Pocket C.H.I.P. is now an old school basic functions calculator as shown in the image below. This application makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to [midheaventech][28].
+Your Pocket C.H.I.P. is now an old school basic functions calculator as shown in the image below. This application makes great use of the Pocket C.H.I.P.'s touch screen. Thanks to midheaventech.
 
 ![xCalc on Pocket C.H.I.P.][image-2]
 
@@ -196,7 +196,7 @@ Intrigued? Visit my [fish on C.H.I.P.s blog post][35] to learn more.
 # Bonus tips from the community
 
 ## WARNING TIPS
-Thanks to [senkun][36] for these tips.
+Thanks to senkun for these tips.
 
 > Don't peel off the plastic film off the super clicky buttons. The film holds the buttons in place.
 
@@ -211,15 +211,15 @@ When my Pocket C.H.I.P. first arrived, I too wondered if I should peel off the k
 ## Customize the home screen
 (Updated: August 13, 2016): (marshmallow from the BBS): The PocketC.H.I.P. includes a home screen; however, you can replace it with an outstanding, and in continual development, replacement called *Pocket Home*. It's an easy install and the home screen replacement provides some great features such as adding and deleting items and changing the background color or image.
 
-Learn more on the [Next Thing Co. BBS post from *marshmallow*][37]
+Learn more on the Next Thing Co. BBS post from *marshmallow*
 
 ## Add a speaker
-(bmjohnsn from the BBS) It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with [this clever little soldering hack][38], you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
+(bmjohnsn from the BBS) It would appear at first blush that the Pocket C.H.I.P. requires headphones for sound; however, with this clever little soldering hack, you can add a small 3 watt amp and speaker (or two for stereo) to the inside of the Pocket C.H.I.P. case. This is another hack and it requires some soldering skill; however, it is way cool and a project on my list of things to do (or possibly a variation).
 
 ### Emulate games
 (bmjohnsn from the BBS) bmjohnsn recommends this Nintendo-centric retro gaming link:
 
-[https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027][39]
+[https://web.archive.org/web/20180919051341/https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027][39]
 
 However, I'm more of an 80s gaming retro fan and am anxiously awaiting [VICE][40] support for Commodore computing. How awesome would that be?
 
@@ -256,32 +256,28 @@ Have something else I should add to the list that other Pocket C.H.I.P. owners s
 [19]:	#emulate-games
 [20]:	#install-doom-and-a-launch-icon
 [21]:	#join-the-discussion
-[23]:	https://bbs.nextthing.co/
+[23]:	https://web.archive.org/web/20180919072325/https://bbs.nextthing.co/
 [24]:	http://docs.getchip.com/pocketchip.html
 [25]:	http://www.chip-community.org/index.php/Troubleshooting#Calibrating_Touchscreen_on_PocketChip
 [26]:	https://github.com/felipebueno/awesome-PICO-8
 [27]:	https://docs.python.org/3/tutorial/introduction.html
-[28]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/12?u=stevencombs
 [29]:	http://amzn.to/29loNc3
 [30]:	/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html
-[31]:	http://blog.nextthing.co/play-minecraft-on-your-c-h-i-p-pocketc-h-i-p/
+[31]:	https://web.archive.org/web/20180504144231/http://blog.nextthing.co/play-minecraft-on-your-c-h-i-p-pocketc-h-i-p/
 [32]:	http://amzn.to/2bvjFa0
 [33]:	http://linuxcommand.org/learning_the_shell.php
 [34]:	http://www.linuxcommand.org
 [35]:	/chip/2016/08/13/fish-and-chips.html
-[36]:	https://bbs.nextthing.co/t/10-things-the-new-pocket-c-h-i-p-owner-should-know/5724/19?u=stevencombs
-[37]:	https://bbs.nextthing.co/t/new-pocket-home-marshmallow-edition/6579
-[38]:	https://bbs.nextthing.co/t/add-a-speaker-to-pocketc-h-i-p-in-less-than-20-minutes/4511
-[39]:	https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
+[39]:	https://web.archive.org/web/20180919051341/https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
 [40]:	http://vice-emu.sourceforge.net/
 [41]:	http://www.rift.dk/
 [42]:	http://www.rift.dk/blog/run-vice-on-your-pocketchip
-[43]:	http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/
+[43]:	https://web.archive.org/web/20180421092649/http://blog.nextthing.co/customize-the-hell-out-of-your-pocketc-h-i-p-install-doom-give-it-an-icon-on-the-home-screen/
 
 [image-1]:	/images/posts/chip/pocket_chip.jpg
 [image-2]:	/images/posts/chip/xCalc.png
 [image-3]:	https://lh3.googleusercontent.com/mLeA1bFTLZkzlWfV-QaG3OB5-438GbNNd2GiNcYbj6DvGYhMATZbbUvL0A2jCKR5_Ab02fagGrgeRPh2naC2qPx-y9WSEo2q3G-iJd5_by_TZDs7NmLTvX6iqqorpxT1PLXh0tGk1ITUNRvPLGCiR0Bull1EL14Mfq3P-w0hBf4wRsU2ANgOK9kkeex11xm1dwSsNAInMZFSckKgZ2Bmyhf-f-v_z6CNzqRo5NiqWs57FGPQRHNeMdPCsbBWlfhG6p7tB0pu-1R-G2cbsvJEMwY2E39CipwHp5_q9xtODNm1GxxRDSoAzr3pauRTRoQ-VT7IkJIpfkGTMil8nyOR2y16GpfVIsDIP3apTQYR-FHxXaTLaYJYjtLQaXh4KxrObBvT46J0y3mKghW8L12mn8iidv1R5vNwDbwUOGog7k_dDuwbr90-JHu3b9HkT8YenAp2yZv_efN0D4Nh6vuuMMdEI5dij7MxndbkuTIrBDzv6W4TndySD5zOVxvFmX10uFW5V-D4TsG8YvCiUhYdGbFdgJ8xzmRDl84HpAT-pQhJcavPwp5VsX2cvfXVw0-q8hdMqLQEOJB3uOJf5U_dGfsNUUeutR-f=w960-h680-no
-[image-4]:	http://blog.nextthing.co/wp-content/uploads/2016/12/nice.gif
+[image-4]:	https://web.archive.org/web/20180504145225id_/http://blog.nextthing.co/wp-content/uploads/2016/12/nice.gif
 [image-5]:	https://lh3.googleusercontent.com/cFUGmmQh0EzBBCwFvnsbrvE22fWpOfyMehtge99keeoKHBLP0PmV-X0DHPhiAm8E718KGb2Z4asueGfxzRWYvroox1xig1cJe5Wozb3JkiESyg5j5jAenuP0ViCgvt97X2kXUs75UXuqk0wX3RrprDdnIfLlqIjCy-eov_WHbLTm4F-z0qH4mPrD8EY9ZaMpQifP0MdZzx5ulPb4ihQ9yt1q32oIimhdzEPog-v_CVizlZycYhBp05IpWzyZrcoM4-EPIcV3qaAHnLDt_wxnde_pNuxG5857fm761Ldkp7mpy1lnySJh0QcoZWkuklYuQLbGz5K2OI1_qFGNoMoSetDUMWEuGGh4ymPiVh7ZRVCruJfFHL8jUvGAHOVck9NSQpReGybTfLSSi3P4EicbQowmGEQcZPgMREUnfRpNihysiP03CCq6i64MrKRlqBjhDW2h_nxPO0s_OTVEhuNW0EZbFckxsnzG0ny34M5KXr8wBQemmXqViDwjUZuaIzdt9wXvL0TqOv39g8xAkGIM1rEa5lWugm9jHZcBsHRyQtc9wmyLpsV048WPYqmmsEhNRu-fOhUeJBCoqEeEmXGatY1qJyAaJyaV=w960-h545-no
 [image-6]:	/images/posts/chip/fish-on-pocketchip.png "fish and chips"
 [image-7]:	/images/posts/chip/vice-on-pchip.png "VICE on Pocket C.H.I.P."
