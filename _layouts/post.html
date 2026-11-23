@@ -55,7 +55,9 @@ layout: default
     <div>
       <article class="card">
         <div class="prose">
-          {% include content-with-ads.html html=content %}
+          {% capture body %}{% include affiliate-links.html html=content %}{% endcapture %}
+          {% include affiliate-note.html %}
+          {% include content-with-ads.html html=body %}
         </div>
       </article>
       {% include ad.html slot="end" %}

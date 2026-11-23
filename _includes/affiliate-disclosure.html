@@ -1,0 +1,11 @@
+{%- comment -%}
+  Revenue's disclosure, shared by the footer and the gadgets page.
+  variant="footer" keeps the existing footer label. The sentence itself
+  is the same in both places.
+{%- endcomment -%}
+{%- capture aff_statement -%}When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network. As an Amazon Associate I earn from qualifying purchases.{%- endcapture -%}
+{%- if include.variant == "footer" -%}
+<i><b>Disclosure Statement:</b> {{ aff_statement }}</i>
+{%- else -%}
+<p class="affiliate-disclosure"><strong>Disclosure:</strong> {{ aff_statement }}</p>
+{%- endif -%}
