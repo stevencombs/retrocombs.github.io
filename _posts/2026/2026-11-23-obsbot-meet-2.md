@@ -21,11 +21,11 @@ tags:
   - m1
   - autofocus
   - sponsored
-description: "I tested the OBSBOT Meet 2 as a face camera and as an overhead workbench camera on an M1 Mac mini, including autofocus, the zoom gesture, and a two-camera OBS setup. This is a paid partnership with OBSBOT."
+description: "OBSBOT Meet 2 tested as a face and overhead camera on an M1 Mac mini: autofocus, zoom gesture and a two-camera OBS setup. A paid partnership with OBSBOT."
 kind: review
 ---
 
-*Full disclosure: This is a paid partnership with OBSBOT. OBSBOT sponsored the video and sent me the Meet 2. I kept final cut, and the opinions are mine. Links in this post are affiliate links, so I may earn a commission if you buy through them.*
+*Disclosure Statement: This is a paid partnership with OBSBOT. OBSBOT sponsored the video and sent me the Meet 2. I kept final cut, and the opinions are mine. Links in this post are affiliate links, so I may earn a commission if you buy through them.*
 
 Can one compact 4K webcam do face-camera duty on a monitor and then move to an overhead arm for workbench close-ups? I unboxed the <a href="https://www.obsbot.com/store/products/meet-2?rfsn=9091361.e30cb3&utm_source=refersion&utm_medium=affiliate&utm_campaign=9091361.e30cb3" rel="sponsored">OBSBOT Meet 2</a>, checked 4K, fields of view, auto framing, the zoom gesture, the built-in mics, and autofocus, then mounted it over the bench and ran a two-camera setup in OBS Studio with an OBSBOT Tiny 3.
 
