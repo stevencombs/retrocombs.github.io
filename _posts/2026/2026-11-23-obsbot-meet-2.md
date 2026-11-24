@@ -60,11 +60,12 @@ Can one compact 4K webcam do face-camera duty on a monitor and then move to an o
 - 📹 <a href="https://www.obsbot.com/store/products/meet-2?rfsn=9091361.e30cb3&utm_source=refersion&utm_medium=affiliate&utm_campaign=9091361.e30cb3" rel="sponsored">OBSBOT Meet 2 Webcam (Official Store)</a>
 - 📹 [OBSBOT Meet 2 Webcam (Amazon)](https://link.amazon/B00wbtPMJ)
 - 📹 [OBSBOT Meet SE](https://link.amazon/B0h86zoaM)
+- 🎤️ [OBSBOT VOX SE Mic](https://link.amazon/B0a5Oshaw)
+- 📱️ [OBSBOT Remote 2](https://link.amazon/B01MN32fq)
+- 🦾️ [Jebutu 22-inch Magic Arm with Clamp Mount](https://link.amazon/B00tMol53)
 - 📹 [OBSBOT Tiny 3 Webcam](https://www.amazon.com/dp/B0G636CXQM?tag=stevenccom-20)
 
 Promo code **269YUS10** is listed in my affiliate file for an exclusive 5% off at Amazon and the official OBSBOT store. I also mentioned that code in the video.
-
-The video also shows an OBSBOT VOX SE mic and an OBSBOT remote. Those do not have entries in Affiliate Links.txt, so they stay as plain text here.
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
@@ -104,7 +105,7 @@ One more spec I came back to later: the cable is USB-C, but the data runs at USB
 
 I used the included monitor mount for the front-facing tests, then used the 1/4-20 thread for a downward-facing overhead test.
 
-The video also mentions the Meet SE as a lower-cost option if you do not need 4K. As I described it on camera, the SE drops to 1080p and a smaller sensor, but it can run up to 100 frames per second. I did not test the SE for this review.
+The video also mentions the [OBSBOT Meet SE](https://link.amazon/B0h86zoaM) as a lower-cost option if you do not need 4K. As I described it on camera, the SE drops to 1080p and a smaller sensor, but it can run up to 100 frames per second. I did not test the SE for this review.
 
 ## FIRST POWER-UP, FIRMWARE, AND THE M1 QUESTION {#m1}
 
@@ -114,7 +115,7 @@ As soon as I plugged the Meet 2 in, OBSBOT Center offered a firmware update. I a
 
 ## THE VOX SE MIC, AND WHAT THE MEET 2 DOES NOT DO {#vox-se}
 
-Parts of the video use an OBSBOT VOX SE microphone. That mic was connected through my Tiny 3. The Meet 2 does not connect to the VOX SE, so you need a Tiny in the setup if you want that microphone. I used it for convenience, and because I later combined the Meet 2 with the Tiny 3 for a two-camera desktop setup. It is not a Meet 2 feature.
+Parts of the video use an [OBSBOT VOX SE](https://link.amazon/B0a5Oshaw) microphone. That mic was connected through my Tiny 3. The Meet 2 does not connect to the VOX SE, so you need a Tiny in the setup if you want that microphone. I used it for convenience, and because I later combined the Meet 2 with the Tiny 3 for a two-camera desktop setup. It is not a Meet 2 feature.
 
 I recorded most of the video with the Meet 2 image, and I used its built-in mics in several sections so you can hear them. Some B-roll uses a different camera.
 
@@ -140,9 +141,9 @@ The autofocus test used a Raspberry Pi Compute Module 5 box, then my face, then 
 
 ## OVERHEAD ON THE ARM {#overhead}
 
-I moved the Meet 2 to a downward position over the bench, with the Tiny 3 still on face-camera duty. To mount it I used a 22-inch adjustable magic arm with a 1/4-20 thread and a clamp. **VERIFY:** auto-captions heard the brand as “Jabutu.” Confirm the actual arm before this line is final.
+I moved the Meet 2 to a downward position over the bench, with the Tiny 3 still on face-camera duty. To mount it I used a [Jebutu 22-inch adjustable magic arm](https://link.amazon/B00tMol53) with a 1/4-20 thread and a clamp.
 
-The arm let me level the camera and keep the USB-C cable from dropping into the shot. An OBSBOT remote let me switch between the two cameras while recording and make adjustments on the Meet 2. Because I was not zoomed all the way out, I still had some leftover 4K sensor area, so I could nudge the frame up and down and zoom in on a case texture or a small tool.
+The arm let me level the camera and keep the USB-C cable from dropping into the shot. An [OBSBOT Remote 2](https://link.amazon/B01MN32fq) let me switch between the two cameras while recording and make adjustments on the Meet 2. Because I was not zoomed all the way out, I still had some leftover 4K sensor area, so I could nudge the frame up and down and zoom in on a case texture or a small tool.
 
 The 4x zoom is digital. It is a crop, not a lens zoom, and not in-camera optics. For overhead work it still looked good. Autofocus could blur if I moved an object too fast, then it locked. I used an Innovate for Us lithium precision screwdriver kit as a close-up subject: opening the case, showing the contents, and punching in on a small brush.
 
@@ -190,6 +191,9 @@ How would you use it: face camera, bench, vlogging, close-ups, or all of those? 
 - 📹 <a href="https://www.obsbot.com/store/products/meet-2?rfsn=9091361.e30cb3&utm_source=refersion&utm_medium=affiliate&utm_campaign=9091361.e30cb3" rel="sponsored">OBSBOT Meet 2 Webcam (Official Store)</a>
 - 📹 OBSBOT Meet 2 Webcam (Amazon): <https://link.amazon/B00wbtPMJ>
 - 📹 OBSBOT Meet SE: <https://link.amazon/B0h86zoaM>
+- 🎤️ OBSBOT VOX SE Mic: <https://link.amazon/B0a5Oshaw>
+- 📱️ OBSBOT Remote 2: <https://link.amazon/B01MN32fq>
+- 🦾️ JEBUTU 22" Magic Arm w Clamp Mount: <https://link.amazon/B00tMol53>
 - 📹 OBSBOT Tiny 3 Webcam: <https://www.amazon.com/dp/B0G636CXQM?tag=stevenccom-20>
 
 That's it for me. retroCombs, OUT!
