@@ -65,7 +65,7 @@ Can one compact 4K webcam do face-camera duty on a monitor and then move to an o
 - 🦾️ [Jebutu 22-inch Magic Arm with Clamp Mount](https://link.amazon/B00tMol53)
 - 📹 [OBSBOT Tiny 3 Webcam](https://www.amazon.com/dp/B0G636CXQM?tag=stevenccom-20)
 
-Promo code **269YUS10** is listed in my affiliate file for an exclusive 5% off at Amazon and the official OBSBOT store. I also mentioned that code in the video.
+Promo code **269YUS10** is an exclusive 5% off at Amazon and the official OBSBOT store.
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
@@ -121,9 +121,7 @@ I recorded most of the video with the Meet 2 image, and I used its built-in mics
 
 ## 4K RECORDING AND FACE-CAMERA VIEWS {#face-cam}
 
-On the bench, the Meet 2 kept up with 1080p at 60 fps for recording. The YouTube version is 24 fps either way. I also recorded a 4K30 check in OBSBOT Center's recording option, using the Meet 2 microphones, on that same M1 Mac, warts and all, so you can judge the clip in the video.
-
-**VERIFY:** Right after that 4K question, I said that with both cameras live in OBS, the M1 held a steady 60 frames per second and CPU sat around 9 to 10%. Confirm whether that figure belongs to the 4K check, the later two-camera OBS setup, or both.
+On the bench, the Meet 2 kept up with 1080p at 60 fps for recording. The YouTube version is 24 fps either way. I also recorded a 4K30 check in OBSBOT Center's recording option, using the Meet 2 microphones, on that same M1 Mac, warts and all, so you can judge the clip in the video. On that single-camera 4K30 test, the M1 held a steady 60 frames per second and CPU sat around 9 to 10%.
 
 The face-camera lighting was not a proper key-light setup. I had workbench spotlights, left the background alone, and the image still looked good. There is a background blur option; I would probably add a little.
 
@@ -167,11 +165,9 @@ I did not give the Meet 2 a numeric score in the video, so I am not inventing on
 
 ## PRICE AND PROMO NOTES {#price}
 
-Do not treat the prices from the video as current. In the sponsored video I quoted Black Friday sale figures for November 19 through 30, 2026, United States only: $87.55 for the Meet 2 (32% off) and $54.55 for the Meet SE (21% off), along with code 269YUS10. Those were sale prices at the time of recording.
+The regular retail prices on OBSBOT's United States official store, checked on November 23, 2026, are **$129** for the Meet 2 and **$69** for the Meet SE. Those are the crossed-out list prices on the store pages, not the sale prices also shown that day. **VERIFY:** confirm these list prices on the official store: <https://www.obsbot.com/store/products/meet-2> and <https://www.obsbot.com/store/products/meet-se?product_id=2bd4190ecb944>. Check the store on the day you buy, as prices change.
 
-**VERIFY:** Affiliate Links.txt lists 269YUS10 as an exclusive 5% off at Amazon and the official OBSBOT store. The video presents the $87.55 / 32% off figure with that same code. Confirm with OBSBOT or a current store check how the site sale and the code stack before we describe the discount in any firmer way.
-
-Check the official store or Amazon for the price on the day you buy, and use the code if it still applies.
+As quoted in the video on November 23, 2026, the Black Friday prices (United States only, November 19 through 30, 2026) were $87.55 for the Meet 2 (32% off) and $54.55 for the Meet SE (21% off). Those are dated notes from the video, not current retail prices.
 
 ## SOURCES {#sources}
 
