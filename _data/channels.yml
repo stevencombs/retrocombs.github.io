@@ -41,6 +41,13 @@
   url: https://www.youtube.com/@retroCombs-tech
   channel_id: UCm24j54Ur9uvYu2oskuP5PA
   videos:
+    - id: PGvOKW1ksVI
+      title: "📷️ I Tested the OBSBOT Meet 2 So You Don't Have To!"
+      url: https://www.youtube.com/watch?v=PGvOKW1ksVI
+      published: "2026-11-23"
+      thumbnail: https://i.ytimg.com/vi/PGvOKW1ksVI/maxresdefault.jpg
+      width: 1280
+      height: 720
     - id: zY6Xu8XzEdg
       title: "🎼️ I Set Up the WiiM Ultra on My Desk and I Was Shocked (So Good!)"
       url: https://www.youtube.com/watch?v=zY6Xu8XzEdg
@@ -60,12 +67,5 @@
       url: https://www.youtube.com/watch?v=YsWzZ2Nj1sY
       published: "2026-10-05"
       thumbnail: https://i.ytimg.com/vi/YsWzZ2Nj1sY/maxresdefault.jpg
-      width: 1280
-      height: 720
-    - id: XCdeEKswxa8
-      title: "🍎️ Does the Wokyis G7 Retro Dock Work With a Mac mini?"
-      url: https://www.youtube.com/watch?v=XCdeEKswxa8
-      published: "2026-09-07"
-      thumbnail: https://i.ytimg.com/vi/XCdeEKswxa8/maxresdefault.jpg
       width: 1280
       height: 720
