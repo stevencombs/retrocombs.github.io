@@ -27,7 +27,7 @@ kind: first-look
 
 I'm a Wyze fan! Except for the [Wyze Lock (#ad)](https://amzn.to/3iPxheg), I "reckon" I have at least one of every product and not because they are sent to me to review–I purchase every Wyze product I review. Although, if you are out there Wyze...I'd consider review units as long as you know they will get an honest and objective look.
 
-I've waited for an outdoor web cam from Wyze for some time. I've even used [some third-party products (#ad)](https://amzn.to/3g5SQW6) to stick regular Wyze Cams outside with limited success. It has been fun experimenting but nothing can beat a camera designed from the ground up for the elements. Enter the [Wyze Cam Outdoor (#ad)](https://amzn.to/33RZzjc).
+I've waited for an outdoor web cam from Wyze for some time. I've even used some third-party products (#ad) to stick regular Wyze Cams outside with limited success. It has been fun experimenting but nothing can beat a camera designed from the ground up for the elements. Enter the [Wyze Cam Outdoor (#ad)](https://amzn.to/33RZzjc).
 
 Before I share additional thoughts, please take a few minutes to watch my YouTube video below. It includes an open the box, setup, and smile worthy squirrel moments. And who doesn't like funny squirrel videos?
 
@@ -48,9 +48,9 @@ Watch the video below and then read on for my additional thoughts on this outdoo
 
 Below are the links (#ad) mentioned in the video:
 
-1. [Wyze Cam](https://amzn.to/2DZ4VPH)
-2. [Wyze Cam Outdoor](https://amzn.to/33RZzjcwyze.com/wyze-cam-outdoor.html)
-3. [MicroSD Card](https://amzn.to/3kMYgc0)
+1. Wyze Cam
+2. Wyze Cam Outdoor
+3. [MicroSD Card](https://amzn.to/3IYL3Kn)
 4. [Wyze Band](https://amzn.to/2PXhPQM)
 5. [Wyze Smart Plug](https://amzn.to/2Y4W3ig)
 6. [Wyze Scale](https://amzn.to/31SsVMs)
@@ -68,7 +68,7 @@ My final thoughts are always a numbered list. Here's the list for the Wyze Cam O
 
 4. Since I now know that the camera has Wi-Fi built-in, I have to wonder if my wish in #2 could not be solved with a simple firmware update. It is also quite possible you can already do this and I just need to dig in more.
 5. The outdoor camera feels robust and weather resistant. The magnet holding the base is strong. Just keep pulling. It will come off. The base unit, while not as robust as the camera, is adequate for an indoor component. I do like the "rabbit" design and the fact that you can put it on your desk, or mount it on a wall. My station still sits on a desk, but I can see myself mounting it at a later time when I determine exactly where I want to place the unit.
-6. This is another instance where I REALLY like my [Google Wi-Fi](https://amzn.to/3kMzOrn). Having three mesh units throughout my home gives me multiple locations to connect the base station since each Google Wi-Fi station as an additional network port. Most mesh units do include these ports, but a few do not. If you have a bunch of network devices and want to plan for the future, make sure your Wi-Fi mesh system includes these all important ports.
+6. This is another instance where I REALLY like my Google Wi-Fi. Having three mesh units throughout my home gives me multiple locations to connect the base station since each Google Wi-Fi station as an additional network port. Most mesh units do include these ports, but a few do not. If you have a bunch of network devices and want to plan for the future, make sure your Wi-Fi mesh system includes these all important ports.
 7. I mention in the video the moderate video quality for my first test. I reviewed signal strength in the app and there was only a single bar on the connectivity page. I was stretching the distance. I want the camera in that location; however, because of the placement of my Google Wi-Fi units, I can move the base unit closer to the camera and in a more central location.
 8. I'm still trying to figure out the video back up system. I get notifications of movement and the standard length video; however, I can't get anything beyond that default time. My guess is I only get notification length video because I don't subscribe to their camera backup plan. It could also be a battery saving measure. More research to do. I also want to take the microSD card out of the base station and review the contents. That might reveal some hints.
 
