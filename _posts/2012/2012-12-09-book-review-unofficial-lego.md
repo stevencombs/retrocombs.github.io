@@ -13,6 +13,10 @@ image:
   alt: 'BOOK REVIEW: The Unofficial LEGO Builder’s Guide 2nd Edition'
 kind: review
 rating: 4.5
+product: "The Unofficial LEGO Builder's Guide, 2nd Edition"
+brand: "No Starch Press"
+price: "$24.95"
+price_note: "retail; $15.35 paperback, $9.95 Kindle on Amazon (Dec 2012)"
 ---
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://3.bp.blogspot.com/-PmxKja42FPM/UMUCGXYfaQI/AAAAAAABExA/EMH2na1uhV8/s200/BimP+Book+Review+Graphic.png" align="right" width="250" />As most folks know, I am a huge fan of the first edition of Allan Bedford's wonderful The Unofficial LEGO Builder's Guide. Back when The Lovely Accountant and I were still hosting the BimPCast, we had Allan join us to discuss his new book in BimPCast 24. Wanna listen to our discussion? Click [here][2].
