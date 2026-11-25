@@ -82,7 +82,7 @@ After removing the cap, I was happy to find a white plastic ball on the tip. As 
 The FULLFÖLJA pen uses the ball point tip to guide ink on the paper. I am not normally a fan of ball point tips so was dubious about the pen's writing experience.
 
 # Pen usage
-I took out my trusty [Moleskine LEGO journal](http://www.amazon.com/s/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&field-keywords=moleskine%20LEGO&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=C2YM5NAMAWN7WIHE) and began to craft a writing test. I chose to recreate some of the text and art found on the pen's label.
+I took out my trusty Moleskine LEGO journal and began to craft a writing test. I chose to recreate some of the text and art found on the pen's label.
 
 ![](https://lh3.googleusercontent.com/-BI6uxrgA-ZI/VZWYIIxvzLI/AAAAAAABllk/_YIxPBga6kM/w1022-h767-no/IMG_20150702_155141.jpg)
 

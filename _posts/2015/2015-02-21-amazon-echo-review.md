@@ -39,7 +39,7 @@ Once I had the Echo unboxed, I placed Echo on the table where I unpacked it and 
 **Updates:**
 
 * April 5th, 2015 - Echo receives Pandora support
-* April 11th, 2015 - Echo adds [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=stevenccom-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW) support
+* April 11th, 2015 - Echo adds WeMo and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW) support
 * April 26th, 2015 - Philips Hue usage
 * April 26th, 2015 - Added Table of Contents (TOC)
 * May 2nd, 2015 - IFTTT support mention added (more details to come)
@@ -279,12 +279,12 @@ Alexa will provide audio instructions. Locate the Echo on your device and initia
 Once paired, you can also use the Echo as a handsfree device to make phone calls. You cannot initiate or answer calls from the Echo nor can you use Echo to activate Siri, so remember you have to dial on your iOS device.
 
 # Home automation with a voice
-**{Update: April 11th, 2015}** On April 8th, Amazon sent out emails to Echo owners to announce a new feature; home automation control. Echo now supports two important products in this space, [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=stevenccom-20&linkId=LG2JYL3I2VX5IWE3) and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW). Here's what Amazon had to say about this new feature:
+**{Update: April 11th, 2015}** On April 8th, Amazon sent out emails to Echo owners to announce a new feature; home automation control. Echo now supports two important products in this space, WeMo and [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW). Here's what Amazon had to say about this new feature:
 
 > You can now use Echo to switch on the lamp before getting out of bed, turn on the fan or heater while reading in your favorite chair, or dim the lights from the couch to watch a movie--all without lifting a finger...or even raising your voice.
 
 The Echo does not support all WeMo and Philips Hue devices. Below is the list from Amazon:
-- [WeMo](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-brandtextbin=WeMo&linkCode=ur2&node=172630&tag=stevenccom-20&linkId=LG2JYL3I2VX5IWE3): Switch, Insight Switch, and Light Switch
+- WeMo: Switch, Insight Switch, and Light Switch
 - [Philips Hue](http://www.amazon.com/gp/product/B00A4EUUO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A4EUUO8&linkCode=as2&tag=stevenccom-20&linkId=YN3EYWUQT5D5UDSW): A19, Lux, BR30, Bloom, and LightStrip lights
 
 Setup for both brand of devices is simplified by a single command:
