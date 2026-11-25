@@ -1249,6 +1249,10 @@ header.site nav a,header.site .dd>button{white-space:nowrap}
 .rc-reviews__arrow::before{content:"↕";opacity:.45}
 th[aria-sort="ascending"] .rc-reviews__arrow::before{content:"▲";opacity:1;color:var(--rc-red)}
 th[aria-sort="descending"] .rc-reviews__arrow::before{content:"▼";opacity:1;color:var(--rc-red)}
+.rc-reviews__item{display:flex;align-items:center;gap:12px}
+.rc-reviews__thumb{flex:0 0 64px;display:block;width:64px;height:36px;border-radius:6px;overflow:hidden;background:var(--rc-beige);text-decoration:none}
+.prose .rc-reviews__thumb img{display:block;width:64px;height:36px;max-width:none;object-fit:cover;border-radius:0;color:transparent;font-size:0}
+.rc-reviews__thumb-none{display:block;width:100%;height:100%;background:repeating-linear-gradient(135deg,#ece4d3 0 6px,#e3d9c3 6px 12px)}
 .rc-reviews__rating{display:inline-flex;align-items:center;gap:8px}
 .prose .rc-reviews__rating img{display:block;width:106px;height:20px;max-width:none}
 .rc-reviews__score{font-family:var(--font-mono);font-size:14px;font-weight:700;min-width:2.2em}
@@ -1269,6 +1273,8 @@ th[aria-sort="descending"] .rc-reviews__arrow::before{content:"▼";opacity:1;co
   .rc-reviews__table td:nth-child(3){align-items:center}
   .rc-reviews__table td:first-child{min-width:0}
   .rc-reviews__table td:first-child::before{display:none}
-  .rc-reviews__table td:first-child{font-size:16px;padding:0 0 6px}
+  .rc-reviews__table td:first-child{font-size:16px;padding:0 0 8px}
+  .rc-reviews__thumb{flex-basis:96px;width:96px;height:54px}
+  .prose .rc-reviews__thumb img{width:96px;height:54px}
   .rc-reviews__note{max-width:none}
 }

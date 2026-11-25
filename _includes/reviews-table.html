@@ -8,12 +8,16 @@
                    Blank shows a dash and sorts last. Never look one up.
     price_note     Short qualifier under the price, e.g. "retail (Nov 2026)".
     review_channel Channel from the review box when it differs from `channel`.
+  Thumbnails come from post-thumb.html, the same picker the post cards
+  use (resized /images/thumbs/ file, else the post image, else the first
+  content photo). Posts with none get a neutral placeholder box.
   Rows render newest first without JavaScript. reviews-table.js adds
   sortable column buttons and aria-sort.
 {%- endcomment -%}
 {%- assign rt_posts = site.posts | where_exp: "item", "item.rating != nil" -%}
+{%- assign static_index = site.static_files | map: "path" | join: "||" | prepend: "||" | append: "||" -%}
 <div class="rc-reviews" markdown="0">
-<p class="rc-reviews__count">{{ rt_posts.size }} rated {% if rt_posts.size == 1 %}post{% else %}posts{% endif %}. Newest first.</p>
+<p class="rc-reviews__count">{{ rt_posts.size }} rated {% if rt_posts.size == 1 %}post{% else %}posts{% endif %}.</p>
 <p class="rc-reviews__status sr-only" data-reviews-status aria-live="polite"></p>
 <div class="rc-reviews__scroll" role="region" aria-label="Reviews table, scrolls sideways on small screens" tabindex="0">
 <table class="rc-reviews__table" data-reviews-table>
@@ -32,6 +36,8 @@
   <tbody>
   {%- for post in rt_posts %}
     {%- assign rt_product = post.product | default: post.title | strip -%}
+    {%- capture rt_thumb -%}{%- include post-thumb.html post=post -%}{%- endcapture -%}
+    {%- assign rt_thumb = rt_thumb | strip -%}
     {%- assign rt_brand = post.brand | default: "" | strip -%}
     {%- assign rt_price = post.price | default: "" | append: "" | strip -%}
     {%- assign rt_note = post.price_note | default: "" | strip -%}
@@ -53,7 +59,7 @@
       {%- assign rt_price_num = rt_price | remove: "$" | remove: "€" | remove: "£" | remove: "," | strip | plus: 0 -%}
     {%- endif %}
     <tr>
-      <td data-label="Product" data-sort="{{ rt_product | downcase | escape }}"><a href="{{ post.url | relative_url }}">{{ rt_product | escape }}</a></td>
+      <td data-label="Product" data-sort="{{ rt_product | downcase | escape }}"><span class="rc-reviews__item"><a class="rc-reviews__thumb" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if rt_thumb != "" %}<img src="{{ rt_thumb }}" width="64" height="36" loading="lazy" decoding="async" alt="{{ rt_product | escape }}">{% else %}<span class="rc-reviews__thumb-none"></span>{% endif %}</a><a href="{{ post.url | relative_url }}">{{ rt_product | escape }}</a></span></td>
       <td data-label="Brand" data-sort="{{ rt_brand | downcase | escape }}">{% if rt_brand != "" %}{{ rt_brand | escape }}{% else %}<span class="rc-reviews__none" aria-label="No brand listed">–</span>{% endif %}</td>
       <td data-label="Rating" data-sort="{{ rt_score }}"><span class="rc-reviews__rating"><img src="{{ '/images/ratings/rating-' | append: rt_file | append: '.png' | relative_url }}" srcset="{{ '/images/ratings/rating-' | append: rt_file | append: '.png' | relative_url }} 1x, {{ '/images/ratings/rating-' | append: rt_file | append: '@2x.png' | relative_url }} 2x" width="106" height="20" loading="lazy" decoding="async" alt="{{ rt_score }} out of 5 joysticks, {{ rc_name }}"><span class="rc-reviews__score" aria-hidden="true">{{ rt_score }}</span></span></td>
       <td data-label="Price" data-sort="{% if rt_price != "" %}{{ rt_price_num }}{% endif %}">{% if rt_price != "" %}<span><span class="rc-reviews__price">{{ rt_price | escape }}</span>{% if rt_note != "" %}<span class="rc-reviews__note">{{ rt_note | escape }}</span>{% endif %}</span>{% else %}<span class="rc-reviews__none" aria-label="No price listed">–</span>{% endif %}</td>

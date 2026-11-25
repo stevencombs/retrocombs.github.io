@@ -7,6 +7,19 @@
   "use strict";
   var table = document.querySelector("[data-reviews-table]");
   if (!table || !table.tBodies.length) return;
+
+  /* A thumbnail that fails to load (some old posts point at retired
+     Google Photos links) becomes the same placeholder box as a post
+     with no image. */
+  function toPlaceholder(img) {
+    var box = document.createElement("span");
+    box.className = "rc-reviews__thumb-none";
+    if (img.parentNode) img.parentNode.replaceChild(box, img);
+  }
+  Array.prototype.forEach.call(table.querySelectorAll(".rc-reviews__thumb img"), function (img) {
+    if (img.complete && img.naturalWidth === 0) toPlaceholder(img);
+    else img.addEventListener("error", function () { toPlaceholder(img); });
+  });
   var tbody = table.tBodies[0];
   var heads = Array.prototype.slice.call(table.tHead.rows[0].cells);
   var status = document.querySelector("[data-reviews-status]");
