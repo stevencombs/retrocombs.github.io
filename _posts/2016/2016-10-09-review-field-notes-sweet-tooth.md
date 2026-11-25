@@ -14,6 +14,10 @@ image:
   alt: 'REVIEW: Field Notes Sweet Tooth memo books'
 kind: review
 rating: 4.5
+product: "Field Notes Sweet Tooth"
+brand: "Field Notes"
+price: "$9.99"
+price_note: "three-pack (Oct 2016)"
 ---
 Rhodia has replaced [the Moleskine brand][1] as my new favorite notebooks. I currently use a [Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid][2]. I enjoy the Rhodia because of its high quality assembly, thick/no-bleed/gloss paper and soft feel of the cover. It's a joy to use my favorite [Pilot Precise V7 RT pen][3] to write notes and craft ideas in this journal.
 
