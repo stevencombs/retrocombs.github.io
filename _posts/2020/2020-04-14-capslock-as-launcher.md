@@ -76,7 +76,7 @@ When you type `xev` in the *Terminal*, an *Event Tester* window displays in the 
 
 Whenever you press a key, information you need for the `xmodmap` command will appear. There's more to `xev` so be sure to explore this command in detail. For now, you understand how I located the codes for the script.
 
-The next question you may ask is, "Why did you choose to switch the Caps Lock key and the Scroll Lock keys?" I never use Scroll Lock, but on occasion, I might want to use Caps Lock functionality. Instead of removing this feature completely, I just reassigned it to another key that had the word "lock" on it. I thought it was also kind of clever. Some keyboard may no longer have the Scroll Lock key, but thankfully my trusty [Unicomp Model M keyboard](https://amzn.to/2K7Wv86) does.
+The next question you may ask is, "Why did you choose to switch the Caps Lock key and the Scroll Lock keys?" I never use Scroll Lock, but on occasion, I might want to use Caps Lock functionality. Instead of removing this feature completely, I just reassigned it to another key that had the word "lock" on it. I thought it was also kind of clever. Some keyboard may no longer have the Scroll Lock key, but thankfully my trusty Unicomp Model M keyboard does.
 
 > **NOTE:** If you are interested in the Unicomp Model M, check out my review of this 80s classic keyboard that you can still purchase today!
 
