@@ -14,6 +14,11 @@ image:
   alt: 'Amazon Kindle Scribe Guide | A Perfect Retro Computing Companion'
 kind: review
 rating: 4
+product: "Amazon Kindle Scribe"
+brand: "Amazon"
+price: "$350"
+price_note: "Jan 2023"
+review_channel: tech
 ---
 
 I've used a Kindle since the release of the first version in 2007. I enjoyed that early device and followed it with several other models over the years. My use waned because of the small screen of current models. It might be my older eyes, but I appreciate the larger iPad screens; however, iPad screens are difficult on the eyes and disturb The Lovely Accountant if I want to read in bed.
