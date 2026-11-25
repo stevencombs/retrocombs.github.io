@@ -27,6 +27,9 @@ image:
   alt: 'Cloner Alliance Box Pro screen capture from Commodore Plus/4'
 kind: review
 rating: 4
+product: "ClonerAlliance Box Pro"
+brand: "ClonerAlliance"
+review_channel: tech
 ---
 
 In a [previous blog post](/cloner-alliance-box-pro), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.

@@ -20,6 +20,9 @@ image:
   alt: 'BOOK REVIEW: The LEGO Christmas Ornaments Book'
 kind: review
 rating: 4.5
+product: "The LEGO Christmas Ornaments Book"
+price: "$19.95"
+price_note: "retail; about $14 on Amazon (Dec 2016)"
 ---
 
 In the past year, [No Starch Press][1] sent both [The LEGO Architect][2] and [Geeky LEGO Crafts: 21 Fun and Quirky Projects][3] for a review. On October 6, 2016, I also found Chris McVeigh's new book, [The LEGO Christmas Ornament Book: 15 Designs to Spread Holiday Cheer][4] in my mailbox. I mentioned in my [Geeky LEGO Crafts: 21 Fun and Quirky Projects][5] review that I was a huge fan of McVeigh's style so I was thrilled to receive this new book.
