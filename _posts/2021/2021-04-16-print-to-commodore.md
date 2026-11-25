@@ -74,9 +74,9 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 4. [Atom](https://www.atom.io) \| For Mac, Linux, and Windows
 5. [VICE](https://vice-emu.sourceforge.io/) \| For Mac, Linux, and Windows
 6. [Pi1541 Zero Project](/pi1541-1)
-7. [THEVIC20](https://amzn.to/2Q58kCz)
-8. [THEC64](https://amzn.to/32dQGiL)
-9. [microSD cards](https://amzn.to/3aeuedx)
+7. [THEVIC20](https://amzn.to/3CA7anp)
+8. [THEC64](https://link.amazon/B0i8BtTtm)
+9. [microSD cards](https://amzn.to/3IYL3Kn)
 10. [IEC cable](https://amzn.to/3uSkPAs)
 
 ## Conversion Time

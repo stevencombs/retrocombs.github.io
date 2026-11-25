@@ -22,7 +22,7 @@ image:
 kind: how-to
 ---
 
-This blog post is a companion to the my FAST LOAD video embedded below. During the video, I upgrade my THEVIC20 to firmware version 1-5-2. This firmware update includes new features for not only [THEVIC20](https://amzn.to/3CA7anp), but also for the [THEC64 mini](https://amzn.to/38aV3P7) and [THEC64](https://amzn.to/2KO2lzJ). Watch the video to find out what's new and then read my additional thoughts below for more information.
+This blog post is a companion to the my FAST LOAD video embedded below. During the video, I upgrade my THEVIC20 to firmware version 1-5-2. This firmware update includes new features for not only [THEVIC20](https://amzn.to/3CA7anp), but also for the [THEC64 mini](https://link.amazon/B019AnpPJ) and [THEC64](https://link.amazon/B0i8BtTtm). Watch the video to find out what's new and then read my additional thoughts below for more information.
 
 ## YouTube Video: _FAST LOAD: THEVIC20, THEC64 (maxi and mini) Firmware 1-5-2 Update | theC64-1_5_2.bin_
 
@@ -57,8 +57,8 @@ I embed the video markers below in the video so you can jump around to specific 
 
 Below are the links to the entire Retro Games Commodore series. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
-1. [THEC64](https://amzn.to/2KO2lzJ)
-2. [THEC64 mini](https://amzn.to/38aV3P7)
+1. [THEC64](https://link.amazon/B0i8BtTtm)
+2. [THEC64 mini](https://link.amazon/B019AnpPJ)
 3. [THEVIC20](https://amzn.to/3CA7anp)
 
 ## Final Thoughts
