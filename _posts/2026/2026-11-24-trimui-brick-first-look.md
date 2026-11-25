@@ -29,11 +29,19 @@ kind: first-look
 rating: 4
 product: "TrimUI Brick"
 brand: "TrimUI"
+quick_picks:
+  - label: "First look"
+    name: "TrimUI Brick"
+    note: "A great fit for 8-bit and 16-bit games, with a beautiful screen and solid build, but no analog sticks for PS1 and PSP."
+    url: "https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy"
 ---
 
 The folks over at MechDIY sent me a new toy to play with. They sent me a brick. Yep, that's right, the [TrimUI Brick](https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy). I'm not usually a fan of the Game Boy style, vertical form factor because it cramps my hands, so I didn't expect much. This little red handheld surprised me more than any handheld I've tried in a while.
 
 MechDIY provided this unit to the channel for free. Thank you! I'm under no obligation, they didn't ask me to say anything in particular, and these thoughts are my own.
+
+{% include quick-picks.html items=page.quick_picks %}
+
 
 This post is the text companion to my video on retroCombs Tech (@retroCombs-tech). It covers what's in the box, the buttons and ports, CrossMix OS, the specs, the 8-bit emulators I gravitate to, and one feature I didn't see coming. This is a first look, not a full review. Let's dig in!
 

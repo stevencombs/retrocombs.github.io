@@ -28,9 +28,24 @@ product: "OBSBOT Meet 2"
 brand: "OBSBOT"
 price: "$129"
 price_note: "retail, OBSBOT US store (Nov 23, 2026)"
+quick_picks:
+  - label: "Reviewed here"
+    name: "OBSBOT Meet 2"
+    note: "Small size and a great 4K image, but hampered a little by software that can act finicky when used in advanced mode."
+    url: "https://link.amazon/B00wbtPMJ"
+  - label: "In the video"
+    name: "OBSBOT Meet SE"
+    note: "A lower-cost option if you do not need 4K. I did not test the SE for this review."
+    url: "https://link.amazon/B0h86zoaM"
+  - label: "In the video"
+    name: "OBSBOT Tiny 3"
+    url: "https://www.amazon.com/dp/B0G636CXQM?tag=stevenccom-20"
 ---
 
 *Disclosure Statement: This is a paid partnership with OBSBOT. OBSBOT sponsored the video and sent me the Meet 2. I kept final cut, and the opinions are mine. Links in this post are affiliate links, so I may earn a commission if you buy through them.*
+
+{% include quick-picks.html items=page.quick_picks %}
+
 
 Can one compact 4K webcam do face-camera duty on a monitor and then move to an overhead arm for workbench close-ups? I unboxed the <a href="https://www.obsbot.com/store/products/meet-2?rfsn=9091361.e30cb3&utm_source=refersion&utm_medium=affiliate&utm_campaign=9091361.e30cb3" rel="sponsored">OBSBOT Meet 2</a>, checked 4K, fields of view, auto framing, the zoom gesture, the built-in mics, and autofocus, then mounted it over the bench and ran a two-camera setup in OBS Studio with an OBSBOT Tiny 3.
 
