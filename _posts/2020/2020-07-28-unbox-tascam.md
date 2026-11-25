@@ -28,7 +28,7 @@ price_note: "Jul 2020"
 review_channel: tech
 ---
 
-I purchased another tool to add to my podcast and YouTube tool chest, the [TASCAM DR-40X audio recorder (#ad)](https://amzn.to/3jIDVE9). In the short video below, I open the box, share some accessories, and attempt to turn the unit on, and record for the first time. Along the way, there were a few hiccups; however, after a bit of trial and error (and some instruction manual time), I was able to record samples that I include in the video.
+I purchased another tool to add to my podcast and YouTube tool chest, the TASCAM DR-40X audio recorder (#ad). In the short video below, I open the box, share some accessories, and attempt to turn the unit on, and record for the first time. Along the way, there were a few hiccups; however, after a bit of trial and error (and some instruction manual time), I was able to record samples that I include in the video.
 
 {% include review-box.html
    score="3"
@@ -50,7 +50,7 @@ Watch the video below and then read on for some additional thoughts on this audi
 
 Below are the links (#ad) mentioned in the video:
 
-1. [TASCAM bundle options on Amazon](https://amzn.to/3jIDVE9)
+1. TASCAM bundle options on Amazon
 2. [retroCombs videos](https://www.youtube.com/playlist?list=PLRVBh2hjFTolfr0_s80Z_Z5bawxWkfRRW)
 
 ## Final Thoughts
@@ -59,7 +59,7 @@ Below are the links (#ad) mentioned in the video:
 
 As I mention in the video, the TASCAM is not as well built as a [Zoom H6  (#ad)](https://amzn.to/30ULAqp); however, the TASCAM is half the price and as far as I can tell, the quality of the audio is equivalent for my use. And that's what is most important. This doesn't mean I might not go back and purchase a Zoom later, but for now, the TASCAM seems perfect.
 
-A day after the video, I did try the TASCAM with my favorite [MXL mic  (#ad)](https://amzn.to/2X6a1QD) that requires 48v phantom power. WOW! The recording sounds awesome. It was easily on par, or better, than the audio I record when I use my MXL mic connected through my [Mackie ProFX8v2  (#ad)](https://amzn.to/2X1bA2c) into my [Mac mini (#ad)](https://amzn.to/39BacZ7).
+A day after the video, I did try the TASCAM with my favorite [MXL mic  (#ad)](https://amzn.to/2X6a1QD) that requires 48v phantom power. WOW! The recording sounds awesome. It was easily on par, or better, than the audio I record when I use my MXL mic connected through my Mackie ProFX8v2  (#ad) into my Mac mini (#ad).
 
 Before recording, I did have to refer to the instruction manual to select the input; however, now I'm good to go. Once you go through the menu items a few times, switching between and choosing options is easier.
 
