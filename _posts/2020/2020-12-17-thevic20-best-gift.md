@@ -23,7 +23,7 @@ product: "THEVIC20"
 brand: "Retro Games"
 ---
 
-Have a retro-computing fan in your life and don’t know what to get them? Or maybe you are looking for a little something for yourself, or maybe, just maybe, you need a last-minute suggestion for Santa? Here are 10 reasons [RetroGames](https://retrogames.biz/) [THEVIC20](https://amzn.to/3mqqfOg) (and [THEC64](https://amzn.to/37qtT6H)) is the perfect holiday gift for all retro-computing fans.
+Have a retro-computing fan in your life and don’t know what to get them? Or maybe you are looking for a little something for yourself, or maybe, just maybe, you need a last-minute suggestion for Santa? Here are 10 reasons [RetroGames](https://retrogames.biz/) [THEVIC20](https://amzn.to/3CA7anp) (and [THEC64](https://amzn.to/37qtT6H)) is the perfect holiday gift for all retro-computing fans.
 
 My list also applies to THEC64 and [THEC64 mini](https://amzn.to/2IX3Omj). I like modern devices that bring back that retro feeling. Check out [my channel](https://www.youtube.com/stevencombs) for more.
 
