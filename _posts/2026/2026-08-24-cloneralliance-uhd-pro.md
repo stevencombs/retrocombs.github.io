@@ -33,6 +33,20 @@ product: "ClonerAlliance UHD Pro"
 brand: "ClonerAlliance"
 price: "$278.50"
 price_note: "at ClonerAlliance (Oct 28, 2026)"
+quick_picks:
+  - label: "Reviewed here"
+    name: "ClonerAlliance UHD Pro"
+    note: "The VCR my Android TV boxes never had: one-button HD and 4K recording to USB, plus driver-free OBS capture on my Mac."
+    url: "https://amzn.to/3UzOnES"
+  - label: "For analog sources"
+    name: "ClonerAlliance ViewLite AV"
+    url: "https://amzn.to/4gvGU14"
+  - label: "For analog sources"
+    name: "ClonerAlliance Box Pro"
+    url: "https://amzn.to/4qAOn3A"
+  - label: "For analog sources"
+    name: "ClonerAlliance View Pro"
+    url: "https://amzn.to/45MhQ0R"
 ---
 
 It's the VCR my Android TV boxes never had. The ClonerAlliance UHD Pro records an HDMI source to a USB drive with one button, and it doesn't need a PC in the path. I tested recording with a vSeeBox Elite Ultra, and I used a Digibox D6 Max for the OBS streaming test.
@@ -40,6 +54,9 @@ It's the VCR my Android TV boxes never had. The ClonerAlliance UHD Pro records a
 ![ClonerAlliance UHD Pro recorder with its blue H.264 status ring lit](/images/posts/2026-08-24-cloneralliance-uhd-pro.jpg)
 
 *Full disclosure: ClonerAlliance sent me the UHD Pro free for review. It was a product exchange with no payment, and ClonerAlliance did not see this post before it was published. Links in this post are affiliate links, so I may earn a commission if you buy through them.*
+
+{% include quick-picks.html items=page.quick_picks %}
+
 
 {% include review-box.html
    score="4"

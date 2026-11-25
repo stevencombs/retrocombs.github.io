@@ -33,6 +33,15 @@ product: "vSeeBox α1"
 brand: "vSeeBox"
 price: "$319"
 price_note: "at vseeboxstream.com (Nov 5, 2026)"
+quick_picks:
+  - label: "Reviewed here"
+    name: "vSeeBox α1"
+    note: "A locked Linux appliance: fast boot, six apps, no store. Great for someone who just wants to turn it on."
+    url: "https://vseeboxstream.com/products/vseebox-alpha1?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=U2LA4FVZ0TUJ"
+  - label: "Also tested"
+    name: "vSeeBox V6 Max"
+    note: "The box I raced the α1's cold boot against."
+    url: "https://vseeboxus.com/affiliate-program/sell-product?source_type=sales_plugin_af&slt=sales_plugin_af&productPage=1&referral_code=X973T43OZTN1"
 ---
 
 vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux media player with six apps, no store, and a remote that still wants line of sight. I unboxed it, raced the cold boot against a [V6 Max](https://vseeboxus.com/affiliate-program/sell-product?source_type=sales_plugin_af&slt=sales_plugin_af&productPage=1&referral_code=X973T43OZTN1), checked wired and 5 GHz networking, played my own USB files, and tried casting. Here is what actually showed up on the tape.
@@ -40,6 +49,9 @@ vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux me
 ![vSeeBox α1 retail box highlighting 4K Ultra HD, dual-band Wi-Fi, OTA updates, and Linux OS](/images/posts/2026-11-05-vseebox-alpha1.jpg)
 
 *Full disclosure: vSeeBox provided this α1 free in exchange for an honest review. It was a product exchange with no payment, and vSeeBox did not see this post before it was published. Links in this post are affiliate links, so I may earn a commission if you buy through them. The official α1 link also includes an automatic $30 off at checkout (no code needed); verify the discount before you pay.*
+
+{% include quick-picks.html items=page.quick_picks %}
+
 
 {% include review-box.html
    score="3.5"
