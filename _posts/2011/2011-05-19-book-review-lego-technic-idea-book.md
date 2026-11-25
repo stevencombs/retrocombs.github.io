@@ -19,7 +19,7 @@ price: "$19.95"
 price_note: "retail each; about $12 on Amazon (May 2011)"
 ---
 
-<img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-eTSxXIb8fVM/TdW70hRgFWI/AAAAAAAA1RU/g2y-XvwTBoU/s200/BimPBookReviewSimpleMachines.png" align="right" width="250" />The kind folks over at [No Starch][2], and Travis specifically, were kind enough to send me review copies of the[ ][3][LEGO Technic Idea Book ][3]![][4]series by Yoshihito Isogawa. As past readers know, I am very fond of the No Starch line of LEGO books with [Alan Bedford's Unofficial LEGO Builder's Guide][5]![][6] my absolute favorite of all time. Given their past performance with LEGO books, I was excited to read and give this series a try.
+<img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-eTSxXIb8fVM/TdW70hRgFWI/AAAAAAAA1RU/g2y-XvwTBoU/s200/BimPBookReviewSimpleMachines.png" align="right" width="250" />The kind folks over at [No Starch][2], and Travis specifically, were kind enough to send me review copies of the LEGO Technic Idea Book ![][4]series by Yoshihito Isogawa. As past readers know, I am very fond of the No Starch line of LEGO books with [Alan Bedford's Unofficial LEGO Builder's Guide][5]![][6] my absolute favorite of all time. Given their past performance with LEGO books, I was excited to read and give this series a try.
 
 {% include review-box.html
    score="4.5"
@@ -40,7 +40,7 @@ Let's start with the specifics of the series. There are three books in the LEGO 
 3. Fantastic Contraptions – More complicated systems that exploit advanced building techniques and elements.
 All three books build in complexity from easy to advanced. Each book is approximately 150 pages. The books are printed on high quality paper with color images throughout. These color images are more important that you might initially think; as I will explain a bit later.
 
-The retail cost for each book is $19.95. You can find [each book online at Amazon][3]![][4] for about $12.00. At full price, each book is a pretty good bargain. At $12.00, each book is an outstanding bargain.
+The retail cost for each book is $19.95. You can find each book online at Amazon![][4] for about $12.00. At full price, each book is a pretty good bargain. At $12.00, each book is an outstanding bargain.
 
 ## First Glance
 What the reader will notice almost immediately, when browsing the [sample pages online][7]![][8] or while visiting their favorite brick and mortar book store, is that there is a dearth of text. The inside front cover fold contains more text than the pages that describe the models presented. This lack of text is also evident when reading the back cover as shown in the image below.
@@ -81,7 +81,6 @@ Even though [Alan Bedford's book][5]![][6] is still the reigning king of the LEG
 So what about it readers? Do you agree or disagree? Have a copy and want to discuss or not sure you want to purchase? Drop a comment below.
 
 [2]: http://www.nostarch.com/
-[3]: http://www.amazon.com/s/?ie=UTF8&tag=stevenccom-20&link_code=btl&camp=213689&creative=392969&search-alias=aps&field-keywords=%20LEGO%20Technic%20Idea%20Book
 [4]: http://www.assoc-amazon.com/e/ir?t=stevenccom-20&l=btl&camp=213689&creative=392969&o=1&a=
 [5]: http://www.amazon.com/Unofficial-LEGO-Builders-Guide/dp/1593270542?ie=UTF8&tag=stevenccom-20&link_code=btl&camp=213689&creative=392969
 [6]: http://www.assoc-amazon.com/e/ir?t=stevenccom-20&l=btl&camp=213689&creative=392969&o=1&a=1593270542

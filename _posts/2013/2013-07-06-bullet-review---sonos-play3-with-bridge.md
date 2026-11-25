@@ -33,7 +33,7 @@ A couple of weeks ago, The Lovely Accountant made an offer to purchase a [Sonos 
 
 ![][1]
 
-At the time, [Sonos][3] was offering the [Play:3][2] with a [Sonos Bridge][4] (a $50 savings). She found the best deal on Amazon. It is now a wonderful addition to our living room (a location that will actually spread sound throughout our entire first floor). After a couple of weeks, It was time for a Bullet Review.
+At the time, Sonos was offering the [Play:3][2] with a [Sonos Bridge][4] (a $50 savings). She found the best deal on Amazon. It is now a wonderful addition to our living room (a location that will actually spread sound throughout our entire first floor). After a couple of weeks, It was time for a Bullet Review.
 
 # The Good:
 - Compact and stylish design
@@ -65,7 +65,6 @@ If you have a Sonos or if you simply have a question or comment, drop it in the 
 
 [1]: https://2.bp.blogspot.com/-jEt0Mj44iqs/UddbFcfD89I/AAAAAAABKIE/67H_zLUzgpc/s1600/Sonos+Bridge+Under+iMac.jpg
 [2]: http://www.amazon.com/gp/product/B005441AJC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005441AJC&linkCode=as2&tag=stevenccom-20
-[3]: http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=Sonos&linkCode=ur2&rh=i%3Aaps%2Ck%3ASonos&sprefix=Sonos%2Caps&tag=stevenccom-20&url=search-alias%3Daps
 [4]: http://www.amazon.com/gp/product/B000X1TS54/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000X1TS54&linkCode=as2&tag=stevenccom-20
 [5]: http://www.sonos.com/music
 [6]: https://3.bp.blogspot.com/-fA3txJ2ScMw/UddbMMjEODI/AAAAAAABKIM/WFo0MxwAmmU/s1600/Sonos+on+Shelf.jpg
