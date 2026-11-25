@@ -23,11 +23,18 @@ tags:
   - sponsored
 description: "OBSBOT Meet 2 tested as a face and overhead camera on an M1 Mac mini: autofocus, zoom gesture and a two-camera OBS setup. A paid partnership with OBSBOT."
 kind: review
+rating: 4
 ---
 
 *Disclosure Statement: This is a paid partnership with OBSBOT. OBSBOT sponsored the video and sent me the Meet 2. I kept final cut, and the opinions are mine. Links in this post are affiliate links, so I may earn a commission if you buy through them.*
 
 Can one compact 4K webcam do face-camera duty on a monitor and then move to an overhead arm for workbench close-ups? I unboxed the <a href="https://www.obsbot.com/store/products/meet-2?rfsn=9091361.e30cb3&utm_source=refersion&utm_medium=affiliate&utm_campaign=9091361.e30cb3" rel="sponsored">OBSBOT Meet 2</a>, checked 4K, fields of view, auto framing, the zoom gesture, the built-in mics, and autofocus, then mounted it over the bench and ran a two-camera setup in OBS Studio with an OBSBOT Tiny 3.
+
+{% include review-box.html
+   score="4"
+   summary="Small size and a great 4K image, but hampered a little by software that can act finicky when used in advanced mode."
+   product="OBSBOT Meet 2"
+   channel="tech" %}
 
 ## TABLE OF CONTENTS {#table-of-contents}
 
@@ -161,7 +168,7 @@ Did the Meet 2 do the job on this bench? I believe it did. I still need to adjus
 
 The reason to skip it is if you want something oversized or bulky. If you want something small that can live on a monitor, move to an overhead arm, or ride along with a laptop, this one did those jobs in my tests.
 
-I did not give the Meet 2 a numeric score in the video, so I am not inventing one here.
+I rate it 4 joysticks: small size, great 4K image, but hampered a little by software that can act finicky when used in advanced mode.
 
 ## PRICE AND PROMO NOTES {#price}
 
