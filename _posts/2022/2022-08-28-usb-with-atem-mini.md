@@ -27,9 +27,9 @@ During the COVID pandemic of 2020, online meetings took over my life and, in a s
    product="RGBLink TAO 1tiny"
    channel="tech" %}
 
-After a day of virtual meetings, I spent the evenings building my [YouTube channel](https://www.youtube.com/stevencombs) using these same webcams with OBS Studio on my Mac. I'd use the Brio for the headshot and one of the cheaper models for a workbench view. It worked and got me started, but I quickly saw the need for a dedicated audio/visual/streaming platform and better cameras. This led me to the [ATEM Mini](https://amzn.to/3QzB7JA) followed by the [ATEM Mini Extreme Iso](https://amzn.to/3dJ3OVU). 
+After a day of virtual meetings, I spent the evenings building my [YouTube channel](https://www.youtube.com/stevencombs) using these same webcams with OBS Studio on my Mac. I'd use the Brio for the headshot and one of the cheaper models for a workbench view. It worked and got me started, but I quickly saw the need for a dedicated audio/visual/streaming platform and better cameras. This led me to the [ATEM Mini](https://amzn.to/3QzB7JA) followed by the [ATEM Mini Extreme Iso](https://amzn.to/4ypHQuP). 
 
-The ATEM Mini line, unlike my [YoloBox Pro](https://amzn.to/3dDife1), does not support USB cameras. To connect cameras to the ATEM Mini, the camera must have a clean HDMI out connection. This requires pricey DSLR or mirror-less cameras. I chose the mirror-less [Sony ZV-1](https://amzn.to/3PE1VXG) for my setup but there were many to choose from including other popular streaming cameras like the [Lumix G7](https://amzn.to/3Ay2Jcy).
+The ATEM Mini line, unlike my [YoloBox Pro](https://amzn.to/3dDife1), does not support USB cameras. To connect cameras to the ATEM Mini, the camera must have a clean HDMI out connection. This requires pricey DSLR or mirror-less cameras. I chose the mirror-less [Sony ZV-1](https://amzn.to/4s7TNUo) for my setup but there were many to choose from including other popular streaming cameras like the [Lumix G7](https://amzn.to/3Ay2Jcy).
 
 > **NOTE:** I tried a [Canon EOS M50](https://amzn.to/3e3HmqQ) which is a great camera but a disaster with the ATEM Mini. It took hacks to keep the thing recording and autofocus has to be turned off to use clean HDMI out. The Sony ZV-1 eliminates all these issues.
 
@@ -80,10 +80,10 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 1. [RGBLink TAO 1tiny on Amazon](https://amzn.to/3wibNji)
 2. [TAO 1tiny Webpage](https://www.rgblink.com/productsinfo.aspx?id=227)
-3. [ATEM Mini Extreme Iso](https://amzn.to/3dJ3OVU)
+3. [ATEM Mini Extreme Iso](https://amzn.to/4ypHQuP)
 4. [ATEM Mini](https://amzn.to/3QzB7JA)
 5. [YoloBox Pro](https://amzn.to/3dDife1)
-6. [Sony ZV1](https://amzn.to/3PE1VXG)
+6. [Sony ZV1](https://amzn.to/4s7TNUo)
 7. [Lumix G7](https://amzn.to/3Ay2Jcy)
 8. [Canon EOS M50](https://amzn.to/3e3HmqQ)
 9. [Zoom Q2n-4K](https://amzn.to/3QO1dIS)
@@ -120,7 +120,7 @@ Connecting the 1tiny to the ATEM Mini is a breeze.
 3. Plug the webcam into either the USB-A port or the USB-C input port. If using USB-C don't confuse it with the USB-C port that provides power. Double-check the top labels on the 1tiny.
 4. Plug the included USB-C cable into the USB-C power on the 1tiny and then plug the other end into a power source.
 
-How does this differ from the my [Sony ZV1](https://amzn.to/3PE1VXG) connection? Other than the brick, which is mounted on a vertical support bar, it doesn't. There's an HDMI plug to my ATEM mini and a power source for the 1tiny. It's a pretty lean setup since TAO kept the unit as "1tiny" as they could.
+How does this differ from the my [Sony ZV1](https://amzn.to/4s7TNUo) connection? Other than the brick, which is mounted on a vertical support bar, it doesn't. There's an HDMI plug to my ATEM mini and a power source for the 1tiny. It's a pretty lean setup since TAO kept the unit as "1tiny" as they could.
 
 ## Testing Webcam Compatibility
 
@@ -134,7 +134,7 @@ I was eager to test compatibility with webcams. Does this 1tiny work with all th
 4. [Logitech C920](https://amzn.to/3pzIQLW)
 5. [Logitech Brio](https://amzn.to/3dLvfP1)
 
-> **NOTE:** TAO recommends a cool camera to use with the 1tiny; the [$170 OBSBOT Tiny Pan Tilt Zoom (PTZ) Webcam](https://amzn.to/3KdZg6h) paired with the [$40 OBSBOT Tiny Remote Control](https://amzn.to/3Cwai4O). I don't have this device, but would love to give this a try. If it works and the camera quality is good, I could move around my studio with a setup much cheaper than a PTZ camera alone.
+> **NOTE:** TAO recommends a cool camera to use with the 1tiny; the [$170 OBSBOT Tiny Pan Tilt Zoom (PTZ) Webcam](https://www.obsbot.com/store/products/meet-2?rfsn=9091361.e30cb3&utm_source=refersion&utm_medium=affiliate&utm_campaign=9091361.e30cb3) paired with the [$40 OBSBOT Tiny Remote Control](https://www.amazon.com/dp/B0G636CXQM?tag=stevenccom-20). I don't have this device, but would love to give this a try. If it works and the camera quality is good, I could move around my studio with a setup much cheaper than a PTZ camera alone.
 
 In the video, I try each one and provide a tag at the bottom of the page to identify the webcam in use.
 

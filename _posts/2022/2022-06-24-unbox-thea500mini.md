@@ -63,12 +63,12 @@ None as of 2022-06-24.
 
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel when you start your purchases here!
 
-1. [TheA500 Mini](https://amzn.to/3yieN0e)
-2. [TheJoystick](https://amzn.to/3A6PDmH)
-3. [TheMouse](https://amzn.to/3A4Gg7e)
-4. [TheC64 Mini](https://amzn.to/3xVVzw4)
-5. [TheC64 Maxi](https://amzn.to/3A8b07n)
-6. [USB Drive](https://amzn.to/3xVFeaD)
+1. [TheA500 Mini](https://amzn.to/3OVxJuD)
+2. [TheJoystick](https://amzn.to/43lVHUh)
+3. [TheMouse](https://amzn.to/3PiJ1JM)
+4. [TheC64 Mini](https://link.amazon/B019AnpPJ)
+5. [TheC64 Maxi](https://link.amazon/B0i8BtTtm)
+6. [USB Drive](https://link.amazon/B05GEnTW6)
 7. [TheA500 Page](https://retrogames.biz/products/thea500-mini/)
 
 ## Additional Thoughts
@@ -77,7 +77,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 2. This is my first 16-bit related retro computing content. I'm not yet sure I want to spend time with the Amiga as a regular feature of the channel. Heck, I don't even have an original Amiga in my collection; unless someone wants to send me one!
 3. It is interesting to the compare the MEGA65 and the Amiga. As I look at the games TheA500 Mini includes and the capabilities of the MEGA65, my guess is we can port many of them to the speedier 8-bit C65 recreation. There are many developers in the MEGA65 community who are fans of the Amiga. Can't wait to see what games they create.
 4. A viewer shared with me (Thanks, Mark!) instructions to install the entire Amiga Workbench and OS on TheA500 Mini. It is on my list of things to do and while I'll likely not share that process (since the Kickstart ROMs and OS are currently under license), you might see it pop up in future videos or as demos running during livestreams.
-5. I like TheMouse the more I use it. I recommend even if you don't purchase [TheA500 Mini](https://amzn.to/3yieN0e), you pick up a [TheMouse](https://amzn.to/3A4Gg7e). This recreation with a USB connector will make a great addition to an emulator like UAE. I'm considering picking up an extra myself for my MEGA65 using [a mouSTer](/mouster).
+5. I like TheMouse the more I use it. I recommend even if you don't purchase [TheA500 Mini](https://amzn.to/3OVxJuD), you pick up a [TheMouse](https://amzn.to/3PiJ1JM). This recreation with a USB connector will make a great addition to an emulator like UAE. I'm considering picking up an extra myself for my MEGA65 using [a mouSTer](/mouster).
 
     ![TheMouse](/images/c64mini-maxi-vic20/themouse.jpg)
 

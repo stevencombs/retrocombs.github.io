@@ -18,7 +18,7 @@ product: "LIFEGOO Precision Screwdriver Set"
 brand: "LIFEGOO"
 ---
 
-The friendly folks over at [LIFEGOO](https://amzn.to/3yypuL0), thanks Angus, sent over their Mini Electric Screwdriver, LIFEGOO Precision Screwdriver Set with 48 Magnetic Precision Bits & LED Light & Magnetic Mat, Cordless Electric Screwdriver Kit for Phone Watch Camera Laptop (62 In 1) that's [sold on Amazon](https://amzn.to/3nPsLki). I previously took a look at the [iFu precision power screwdriver](https://youtu.be/YdfcpmUEyBA) and my guess is they saw that video and wanted me to take a stab at their version.
+The friendly folks over at LIFEGOO, thanks Angus, sent over their Mini Electric Screwdriver, LIFEGOO Precision Screwdriver Set with 48 Magnetic Precision Bits & LED Light & Magnetic Mat, Cordless Electric Screwdriver Kit for Phone Watch Camera Laptop (62 In 1) that's [sold on Amazon](https://amzn.to/3nPsLki). I previously took a look at the [iFu precision power screwdriver](https://youtu.be/YdfcpmUEyBA) and my guess is they saw that video and wanted me to take a stab at their version.
 
 {% include review-box.html
    score="4"
@@ -51,7 +51,7 @@ None as of 2022-07-10.
 
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel when you start your purchases here!
 
-1. [LIFEGOO on Amazon](https://amzn.to/3yypuL0) - All their electronic and electronic repair products.
+1. LIFEGOO on Amazon - All their electronic and electronic repair products.
 2. [LIFEGOO Precision Power Screwdriver Set](https://amzn.to/3NW3FuE) - Save 10% as of 2022-07-10 by clicking the coupon offering.
 3. [iFu Precision Power Screwdriver Set](https://amzn.to/3ywVeAs) - Because it holds all the accessories, you might find this works better for you.
 4. [LINKFOR Handheld Retro Gaming](https://amzn.to/3Pg68kH) - At $33 this thing is a steal! I don't understand why it gets a 3.5 star rating. More on this device in the Additional Thoughts below.
