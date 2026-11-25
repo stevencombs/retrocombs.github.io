@@ -43,6 +43,17 @@ groups:
         icon: /images/design/zxspectrum.svg
         banner: zxspectrum
         blurb: Classic ZX Spectrum and ZX Spectrum Next notes and videos.
+      - name: ZX Spectrum Next
+        url: /zx-spectrum-next
+        categories: ["hub:zxnext"]
+        icon: /images/design/zxspectrum.svg
+        banner: zxspectrum
+        blurb: Quick Start and NextPi guides for the ZX Spectrum Next.
+      - name: THEC64
+        url: /thec64
+        categories: ["hub:thec64"]
+        icon: /images/design/commodore.svg
+        blurb: THEC64, THEVIC20 and THEA500 Mini tips, firmware and lineup.
       - name: NABU
         url: /nabu
         categories: [nabu]

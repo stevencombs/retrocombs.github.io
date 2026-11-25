@@ -34,7 +34,10 @@ wide: true
           {%- if shown >= 3 -%}{% break %}{%- endif -%}
           {%- assign hit = false -%}
           {%- for cat in topic.categories -%}
-            {%- if post.categories contains cat -%}{% assign hit = true %}{%- endif -%}
+            {%- if cat contains "hub:" -%}
+              {%- assign hub_key = cat | remove_first: "hub:" -%}
+              {%- for hub_sec in site.data.hubs[hub_key] -%}{%- for hub_slug in hub_sec[1] -%}{%- if post.path contains hub_slug -%}{% assign hit = true %}{%- endif -%}{%- endfor -%}{%- endfor -%}
+            {%- elsif post.categories contains cat -%}{% assign hit = true %}{%- endif -%}
           {%- endfor -%}
           {%- if hit -%}
             {%- assign mark = "|" | append: post.id | append: "|" -%}

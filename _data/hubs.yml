@@ -1,0 +1,21 @@
+# Hand-picked hub pages. Each section lists post file slugs (the file name
+# without the date and .md). The hub page shows them in this order, and
+# the Topics menu counts every slug listed here (topic-count.html, via
+# categories: [hub:<key>] in topics.yml).
+zxnext:
+  start:
+    - zx-spectrum-next-quick-start
+    - zx-spectrum-next-nextpi-install
+thec64:
+  start:
+    - ten-thec64-tips
+    - thec64-mini-carousel-classic-mode
+  firmware:
+    - upgrade-thevic20-1-6-1
+    - thevic20-firmware-update
+    - fast-load-thec64mini-firmware
+  lineup:
+    - retro-games-ltd-lineup-before-thea1200
+    - unbox-thea500mini
+    - thevic20-best-gift
+    - thevic20-games
