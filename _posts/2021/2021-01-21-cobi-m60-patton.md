@@ -21,6 +21,10 @@ image:
   alt: 'The COBI M60 Patton Box'
 kind: review
 rating: 3.5
+product: "COBI M60 Patton"
+brand: "COBI"
+price: "$52.14"
+price_note: "retail; I paid $49.43 (Jan 2021)"
 ---
 
 I'm an Adult Fan of LEGO (AFOL) and a LEGO fan since my 1970s childhood. As far as I remember, LEGO has always been in my home and a part of my play. In the 1980s, I purchased a MEGA block space set but quickly found they were not the same quality as LEGO.
