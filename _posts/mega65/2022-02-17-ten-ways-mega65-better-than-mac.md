@@ -19,7 +19,7 @@ image:
 kind: editorial
 ---
 
-Full disclosure, I use my [M1 MacBook Pro][1] daily, e.g. this blog post, and wouldn't think about replacing it with any other computer (including the new MacBook Pro). It is the best computer I've ever owned. It's fast, has great battery life, and plows through any task I throw at it. With that confession, this blog post is a fun exercise to keep the nostalgic 1980s rivalry between Commodore and Apple alive.
+Full disclosure, I use my M1 MacBook Pro daily, e.g. this blog post, and wouldn't think about replacing it with any other computer (including the new MacBook Pro). It is the best computer I've ever owned. It's fast, has great battery life, and plows through any task I throw at it. With that confession, this blog post is a fun exercise to keep the nostalgic 1980s rivalry between Commodore and Apple alive.
 
 I am not going to ditch my MacBook Pro and start using my [MEGA65 Dev Kit][2] full time; however, there are features of the MEGA65 that are better than a modern MacBook Pro. Many of these features are inherent in the system the MEGA65 is based on, the never released Commodore 65, and other features come from the MEGA65 development team's hardware and software updates. And yes, before I continue, I can create another list where the MacBook Pro excels over the MEGA65, but what's the fun in that comparison?
 
@@ -92,8 +92,8 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 1. [MEGA65][5]
 2. [MEGA65 Dev Kit][2]
-2. [M1 MacBook Pro][1]
-3. [THE64][6]
+2. M1 MacBook Pro
+3. THE64
 4. [Combian pi/400][7]
 5. [Boxed Hibernated 1 - Director's Cut - MEGA65][11]
 
@@ -117,7 +117,7 @@ To reboot the Mac, select the option from the menu and Mac will shutdown and res
 <!-- ☒ Restart Mac --> 
 <!-- ☒ Use MEGA65 reset button -->
 
-The MEGA65 continues the tradition of Commodore fast boot and even beats wonderful modern systems such as [THE64][6] and my [Combian pi/400][7]. And the MEGA65 even includes fast system updates.
+The MEGA65 continues the tradition of Commodore fast boot and even beats wonderful modern systems such as THE64 and my [Combian pi/400][7]. And the MEGA65 even includes fast system updates.
 
 <!-- Video of THEVIC20 and Combian Pi/400 -->
 
@@ -321,12 +321,10 @@ Help make this content better! Leave your comments, corrections, additions, and 
 🕹️ retroCombs, OUT!
 
 
-[1]: https://amzn.to/33e9HFb
 [2]: /mega65-1
 [3]: https://discord.com/channels/719326990221574164/801767398675316756/918414507607466025
 [4]: https://www.mega65.org
 [5]: https://www.mega65.org
-[6]: https://amzn.to/3G3ZkCq
 [7]: /combianpi400-1
 [8]: https://www.m-e-g-a.org/mega65-keyboards/?fbclid=IwAR0568QaSSrBabLtrFsS90CGJFvzGjdORnqt7ys121I8nL5jpedsH8cQw_I
 [9]: https://www.gmk.net/
