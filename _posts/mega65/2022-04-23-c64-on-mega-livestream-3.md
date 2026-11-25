@@ -89,7 +89,7 @@ None as of 2022-04-02.
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel by starting your purchases here!
 
 1. [MEGA65](https://www.mega65.org)
-2. [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
+2. [Hyperkin Ranger Controller](https://link.amazon/B0fysS6Ec)
 3. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 
 ## RRRPs

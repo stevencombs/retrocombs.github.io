@@ -83,7 +83,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 1. [Converting a Commodore 128 Submarine Tracking System BASIC Program to the MEGA65](/sub-track-sys)
 2. [MEGA65 Computer](https://www.mega65.org)
 3. [MEGA65 Discord](https://discord.gg/5DNvESf)
-4. [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
+4. [Hyperkin Ranger Controller](https://link.amazon/B0fysS6Ec)
 5. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 
 ## C128 Submarine Tracking System BASIC Program
