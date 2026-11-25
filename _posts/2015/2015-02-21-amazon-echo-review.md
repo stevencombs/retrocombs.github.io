@@ -13,6 +13,11 @@ image:
   alt: 'An original Amazon Echo speaker'
 kind: review
 rating: 3.5
+product: "Amazon Echo"
+brand: "Amazon"
+price: "$200"
+price_note: "regular; $99 Prime offer (Feb 2015)"
+review_channel: tech
 ---
 
 ![An original Amazon Echo speaker](/images/posts/amazon-echo-review/amazon-echo.jpg)

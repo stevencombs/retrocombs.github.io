@@ -19,6 +19,10 @@ image:
   alt: 'REVIEW: Staedtler Triplus Fineliner'
 kind: review
 rating: 4
+product: "Staedtler Triplus Fineliner"
+brand: "Staedtler"
+price: "$25"
+price_note: "pack of 20 (Mar 2015)"
 ---
 
 For several months now, I have been on a search for color pens to add a splash of color to my sketchnotes. What I thought would be a simple task, proved to be more difficult than expected. There are hundreds of brands/varieties of colorful markers and pens; however, I had specific requirements:

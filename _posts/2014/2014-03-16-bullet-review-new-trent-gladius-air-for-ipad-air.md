@@ -14,6 +14,11 @@ image:
   alt: 'Gladius Air in box'
 kind: review
 rating: 4
+product: "New Trent Gladius Air"
+brand: "New Trent"
+price: "$45"
+price_note: "about (Mar 2014)"
+review_channel: tech
 ---
 
 In a recent [post][2] I wrote about my purchase of the [New Trent Airbender 2.0 for my iPad Air][3]. Inside the case box, I noticed a small post card with the banner, BECOME A PILOT USER. New Trent Pilot Users are beta testers that agree to review products. Pilot users have to first apply and share a past review. I shared my previous post. Much to my surprise, I was selected and had a chance to choose another product to review.
