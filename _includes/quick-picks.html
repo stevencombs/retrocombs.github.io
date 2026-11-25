@@ -16,14 +16,21 @@
   - url must come from Affiliate Links.txt (via Revenue). Leave it out when
     the product is marked "No affiliate link"; the card then shows no button.
   - No prices. Amazon prices change and the plan keeps static prices out.
-  - The block sits inside the post body, so affiliate-links.html adds
-    rel="sponsored noopener" and the top-of-post disclosure shows.
+  - The block prints its own one-line disclosure above the cards whenever
+    any card has a url, so it never depends on the page. Inside a post or
+    page body, affiliate-links.html also adds rel="sponsored noopener" and
+    the top-of-post disclosure.
   - include.title overrides the heading.
 {%- endcomment -%}
 {%- assign qp_items = include.items -%}
 {%- if qp_items and qp_items.size > 0 -%}
 <section class="quick-picks" aria-label="{{ include.title | default: 'Quick Picks' | escape }}">
 <h2 class="quick-picks__title">{{ include.title | default: "Quick Picks" }}</h2>
+{%- assign qp_has_links = false -%}
+{%- for qp in qp_items -%}{%- if qp.url -%}{%- assign qp_has_links = true -%}{%- endif -%}{%- endfor -%}
+{%- if qp_has_links -%}
+<p class="quick-picks__disclosure">The buttons below are affiliate links. If you make a purchase through them, this site may earn a commission.</p>
+{%- endif -%}
 <div class="quick-picks__grid">
 {%- for qp in qp_items -%}
 <div class="quick-picks__card">
@@ -31,7 +38,7 @@
 <p class="quick-picks__name">{{ qp.name }}</p>
 {%- if qp.note -%}<p class="quick-picks__note">{{ qp.note }}</p>{%- endif -%}
 <p class="quick-picks__links">
-{%- if qp.url -%}<a class="btn red" href="{{ qp.url }}" target="_blank">Check the price</a>{%- endif -%}
+{%- if qp.url -%}<a class="btn red" href="{{ qp.url }}" target="_blank" rel="sponsored noopener">Check the price</a>{%- endif -%}
 {%- if qp.review -%}<a class="quick-picks__review" href="{{ qp.review | relative_url }}">Read my review</a>{%- endif -%}
 </p>
 </div>

@@ -30,7 +30,14 @@ rating: 4
 product: "ClonerAlliance Box Pro"
 brand: "ClonerAlliance"
 review_channel: tech
+quick_picks:
+  - label: "Reviewed here"
+    name: "ClonerAlliance Box Pro"
+    note: "It records my retro screens to USB, and support was quick. But I can't capture on my Mac."
+    url: "https://amzn.to/4qAOn3A"
 ---
+
+{% include quick-picks.html items=page.quick_picks %}
 
 In a [previous blog post](/cloner-alliance-box-pro), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
 
