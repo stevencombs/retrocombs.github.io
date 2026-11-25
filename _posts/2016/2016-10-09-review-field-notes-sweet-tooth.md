@@ -19,7 +19,7 @@ brand: "Field Notes"
 price: "$9.99"
 price_note: "three-pack (Oct 2016)"
 ---
-Rhodia has replaced [the Moleskine brand][1] as my new favorite notebooks. I currently use a [Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid][2]. I enjoy the Rhodia because of its high quality assembly, thick/no-bleed/gloss paper and soft feel of the cover. It's a joy to use my favorite [Pilot Precise V7 RT pen][3] to write notes and craft ideas in this journal.
+Rhodia has replaced the Moleskine brand as my new favorite notebooks. I currently use a [Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid][2]. I enjoy the Rhodia because of its high quality assembly, thick/no-bleed/gloss paper and soft feel of the cover. It's a joy to use my favorite [Pilot Precise V7 RT pen][3] to write notes and craft ideas in this journal.
 
 {% include review-box.html
    score="4.5"
@@ -110,7 +110,6 @@ Might I also recommend the [Field Notes Byline][16] edition, before they sell ou
 
 Are you a Field Notes fan? Drop a comment below and tell me which products you use. I would love to learn more about how these products are used and collected.
 
-[1]:	http://amzn.to/2cocbEJ
 [2]:	http://amzn.to/2c3To2A
 [3]:	http://amzn.to/2coiatd
 [4]:	https://www.relay.fm/penaddict

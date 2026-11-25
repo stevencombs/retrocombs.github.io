@@ -156,7 +156,7 @@ Android still has some stability and battery issues; however, while working on t
 
 So which mobile operating system do I recommend? In my opinion, both can go toe-to-toe with each other as long as we are comparing apples to apples (latest versions of iOS and Android). Both have strengths over the other. Where iOS trumps is in Apple's ability to control the hardware along with the operating system adding to increased stability and battery life. It is often bad hardware by third party manufactures that cause horrible Android experiences.
 
-While I will recommend Android devices now to my family and friends, I will always recommend they research in detail a specific Android device before purchase. Customer reviews will reveal much. It is also important the device includes the latest version of the Android operating system. I've done much of the research already and if you stay with the [Nexus][39] or [nVidia Shield][40] hardware, you should have a very good Android experience.
+While I will recommend Android devices now to my family and friends, I will always recommend they research in detail a specific Android device before purchase. Customer reviews will reveal much. It is also important the device includes the latest version of the Android operating system. I've done much of the research already and if you stay with the Nexus or [nVidia Shield][40] hardware, you should have a very good Android experience.
 
 [1]:	https://fi.google.com/
 [2]:	http://www.androidcentral.com/lollipop
@@ -195,7 +195,6 @@ While I will recommend Android devices now to my family and friends, I will alwa
 [36]:	http://www.amazon.com/gp/product/B0171BS9CG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0171BS9CG&linkCode=as2&tag=stevenccom-20
 [37]:	http://www.amazon.com/gp/product/B00R1984DI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1984DI&linkCode=as2&tag=stevenccom-20
 [38]:	http://www.amazon.com/gp/product/B0171BS9CG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0171BS9CG&linkCode=as2&tag=stevenccom-20
-[39]:	http://amzn.to/26Eelo0
 [40]:	http://amzn.to/1WZIOIX
 
 [image-1]:	https://lh3.googleusercontent.com/iuztwmZyshWzHwUnVDfMD0lDT7tXHMlISbwFnJLQNaHUpvH-pEzfz2hxD3D2FeLCcRQwwl61_eXMJWS3hhLKP0nCHxwEINS1LbIoF3nCWLYPiK-G25_SBLnNeLePmiiY2gDogF6NPH7lsGqh_Ke-_9xfQ5EbGv-zp1kCHXzwgCUnMR96SErKsoPjzDpSujKsQX8rLKdrKBdlDlj0i7rkxsYOgxyrgP13P9eXwSz6dmM9X9pyEIHQwEri5Uddalom57OrSr0_ux7oHj5tvRhnhNfHgypwkwrZa4N1_4VKcbEXMApzfUuzAWVul5rI8PInJlLNBqrcLiLAgSPMkRtYXztxGbJG5XufgcG0D70pJNMRpIZkeCGPWSrc9Imphyih6gPkWV_lZeNR_GkvpnsNujkzEIb3gvScwJFCLAE3qXyaC53zAueFLkPW6f-KEniJ7epsJvS25m6RBRE7oR9o_BpwccECloFYogorjt1a9M-dSxDDUDe9kdRfgyIS8dCwVpThbdYwY0OvSUp1lRfgIOyjPSeAMh2-AqezQ0unjAVH8tlcdQZ5PPQgVQ_IuhSWABQ25A=w1717-h841-no "Google Material Design"
