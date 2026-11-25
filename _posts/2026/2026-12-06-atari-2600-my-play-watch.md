@@ -27,13 +27,18 @@ image:
   height: 720
   alt: 'Atari 2600 My Play Watch showing Centipede on its screen'
 kind: first-look
+rating: 4
 ---
 
 My Pixel Watch felt out of place at Vintage Computer Festival Midwest. Too modern for a room full of retro computers. So, at VCFMW 2025, the day before I wore it on the show floor, I unboxed something that would fit right in: the Atari 2600 My Play Watch. It tells time, counts steps, and plays Atari games on your wrist.
 
-{% include review-channel.html channel="tech" %}
-
 This post is the text companion to my video on retroCombs Tech (@retroCombs-tech). It covers what's in the box, setup, every menu I found, the four games, watch faces and charging. It's a first look, not a long-term review.
+
+{% include review-box.html
+   score="4"
+   summary="I'm a fan: it looks the part, setup is simple, and Missile Command plays well with taps, though the crown games need some practice."
+   product="Atari 2600 My Play Watch"
+   channel="tech" %}
 
 ![Atari 2600 My Play Watch showing Centipede on its screen](/images/posts/2026-12-06-atari-2600-my-play-watch.jpg)
 

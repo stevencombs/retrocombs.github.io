@@ -26,13 +26,18 @@ image:
   height: 720
   alt: 'Hollyland Lark M1 and Lark M2 charging cases side by side'
 kind: first-look
+rating: 4.5
 ---
 
 I've only used my Hollyland Lark M1 wireless mics now and then. They're handy, but the sound never matched what I expected, so my on-camera RØDE VideoMic GO II stayed my main mic. Then Hollyland released the Lark M2. Did I make another mistake counting on Hollyland for wireless lavalier mics? I unboxed the M2 and ran all three mics through the same setup to find out.
 
-{% include review-channel.html channel="tech" %}
-
 This post is the text companion to my video on retroCombs Tech (@retroCombs-tech): what's in the M2 box, what changed from the M1, and how the three mics compared in my basement studio.
+
+{% include review-box.html
+   score="4.5"
+   summary="The Lark M2 fixed the things that bugged me about the M1, and I planned to use it on my next stream."
+   product="Hollyland Lark M2"
+   channel="tech" %}
 
 ![Hollyland Lark M1 and Lark M2 charging cases side by side](/images/posts/2026-12-09-hollyland-lark-m2-vs-m1.jpg)
 
