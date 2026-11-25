@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: ZX Spectrum Next Hub
-description: "Start here for the ZX Spectrum Next: my KS3 Issue 5 Quick Start, the NextPi Raspberry Pi Zero accelerator install, and every Next post and video on retroCombs."
+description: "Start here for the ZX Spectrum Next: my KS3 Issue 5 Quick Start, the NextPi Raspberry Pi Zero accelerator install, and every Next post and video."
 permalink: /zx-spectrum-next
 redirect_from:
   - /ks2
@@ -12,18 +12,14 @@ wide: true
 ---
 
 {% comment %}
-  DRAFT copy, needs Editor review (Wave 2).
-  /ks2 redirect target is a VERIFY item in the PR.
+  Copy: Editor edits applied (Wave 2).
+  /ks2 redirects here (Steven, Nov 25, 2026).
   KS2 Issue 4 vs KS3 Issue 5 comparison and troubleshooting FAQ wait on ZX Spectrum Expert.
 {% endcomment %}
 My ZX Spectrum Next posts and videos, in one place. If you just got a Next, start with the Quick Start. When you are ready to add the Raspberry Pi Zero accelerator, the NextPi guide walks through the install.
 
-{% assign zx_start = "" | split: "" %}
-{% assign slugs1 = "zx-spectrum-next-quick-start,zx-spectrum-next-nextpi-install" | split: "," %}
-{% for s in slugs1 %}
-  {% assign hit = site.posts | where_exp: "p", "p.path contains s" %}
-  {% assign zx_start = zx_start | concat: hit %}
-{% endfor %}
+{% include hub-posts.html slugs=site.data.hubs.zxnext.start %}
+{% assign zx_start = hub_posts %}
 
 ## Start Here
 

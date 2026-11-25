@@ -1,0 +1,9 @@
+{%- comment -%}
+  Posts for one hub section, in _data/hubs.yml order.
+  include.slugs: list of post file slugs. Sets hub_posts.
+{%- endcomment -%}
+{%- assign hub_posts = "" | split: "" -%}
+{%- for s in include.slugs -%}
+  {%- assign hub_hit = site.posts | where_exp: "p", "p.path contains s" -%}
+  {%- assign hub_posts = hub_posts | concat: hub_hit -%}
+{%- endfor -%}
