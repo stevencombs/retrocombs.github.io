@@ -81,13 +81,13 @@ Title: _Run a MEGA65 on your Chromebook in a Linux Container_
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel when you start your purchases here!
 
 - [Lenovo Duet 5 - ARM](https://amzn.to/3vz3Yp9)
-- [Google Pixelbook - Intel](https://amzn.to/3aASgmE)
-- [Google Pixel Slate - ARM](https://amzn.to/3o6S8hL)
+- Google Pixelbook - Intel
+- Google Pixel Slate - ARM
 - [Xemu page](https://github.lgb.hu/xemu/)
 - [MEGA65 FilesHost](https://files.mega65.org)
 - [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](/patch-c65-rom)
-- [TheC64 Joystick](https://amzn.to/3d0UITW)
-- [Hyperkin Tropper II Joystick](https://amzn.to/3zqN90p)
+- [TheC64 Joystick](https://amzn.to/43lVHUh)
+- Hyperkin Tropper II Joystick
 
 ## Identify ChomeOS Device Processor
 
