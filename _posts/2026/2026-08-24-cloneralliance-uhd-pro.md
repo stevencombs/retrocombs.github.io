@@ -121,7 +121,7 @@ These are the boxes I use when the source is analog. See [Better Boxes for VHS a
 
 ### Accessories {#accessories}
 
-- 🚠 HDMI Cables: <https://amzn.to/4c2vhM9>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
 - 💾 Lexar 2TB Go Portable SSD with Hub: <https://amzn.to/4ihwdRF>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
 - 🔌 USB-C to Micro USB Adapter: <https://amzn.to/3Wkxxrr>
