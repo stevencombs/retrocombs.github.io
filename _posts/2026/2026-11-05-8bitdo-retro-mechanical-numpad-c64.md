@@ -25,11 +25,18 @@ image:
   height: 720
   alt: '8BitDo Retro 18 Mechanical Numpad in C64 colors next to the matching keyboard'
 kind: first-look
+rating: 4
 ---
 
 You may remember how much I enjoyed the [8BitDo Retro Mechanical Keyboard C64 Edition](https://amzn.to/47U88dL) and its blend of modern features with the look of our beloved Commodore 64. Now it has a matching sibling: the [8BitDo Retro 18 Mechanical Numpad](https://link.amazon/B0aVIrrZj), in the same C64 color scheme. It's more than an add-on number pad. It's also a calculator with a red LED display.
 
 This post is the text companion to my video on retroCombs Tech (@retroCombs-tech). It covers what's in the box, the build, the connection options, the calculator, every control on top, and a few tips for Mac and VICE users. Let's dig in!
+
+{% include review-box.html
+   score="4"
+   summary="The build quality is excellent and it's a good way to complete a retro desk setup, but a bit pricey if you just want a basic calculator."
+   product="8BitDo Retro 18 Mechanical Numpad"
+   channel="tech" %}
 
 ![8BitDo Retro 18 Mechanical Numpad in C64 colors next to the matching keyboard](/images/posts/2026-11-05-8bitdo-retro-mechanical-numpad-c64.jpg)
 
