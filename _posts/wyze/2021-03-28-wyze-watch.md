@@ -20,6 +20,11 @@ image:
   alt: 'Wyze Watch Open the Box, First Use, and Wyze Band Comparison'
 kind: review
 rating: 3
+product: "Wyze Watch"
+brand: "Wyze"
+price: "$20"
+price_note: "Mar 2021"
+review_channel: tech
 ---
 
 I think I have a smartwatch and fitness tracker problem. I've worn a WearOS watch for the past three years. It's been and up and down relationship. Battery life on WearOS devices are horrible and a daily charge is required. I've owned a pocket FitBit so supplement the times when I forgot to charge my WearOS, but it's days were numbered years ago.
