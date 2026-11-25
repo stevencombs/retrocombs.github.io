@@ -28,7 +28,7 @@ To do this, I share how to install the *Xemu* emulator, *xmega65*. What's *Xemu*
 
 > [Xemu](https://github.com/lgblgblgb/xemu) (full name: X-Emulators) is a collection of emulators running on Linux/Unix/Windows/Mac OS of various (mainly 8-Bit) machines, including - but not limited to - the Commodore LCD, Commodore 65 and MEGA65. And yes, that's an "X" in the name, not "Z" :)
 
-The MEGA65 part of that description is where our interest lies today. Let's set up a complete MEGA65 emulation environment on a Mac. I'll use a Mac mini (M1); however, I developed this process on my MacBook Pro (M1). Although the *Xemu* is native to Intel Macs, it does work on the new Apple M1 processor using Apple's Rosetta. I've yet to find any issues. **Side note:** These [new M1 Macs](https://amzn.to/3B8vzOh) are amazing! I recommend if you are looking for a new computer or own an older Mac. These new models are affordable, powerful, and the perfect compliment to the MEGA65 as one of the few brands from the 1980s with us today.
+The MEGA65 part of that description is where our interest lies today. Let's set up a complete MEGA65 emulation environment on a Mac. I'll use a Mac mini (M1); however, I developed this process on my MacBook Pro (M1). Although the *Xemu* is native to Intel Macs, it does work on the new Apple M1 processor using Apple's Rosetta. I've yet to find any issues. **Side note:** These new M1 Macs are amazing! I recommend if you are looking for a new computer or own an older Mac. These new models are affordable, powerful, and the perfect compliment to the MEGA65 as one of the few brands from the 1980s with us today.
 
 > **NOTE:** I share the installation of Xemu on a Mac. I do not own a Windows computer and cannot help with that install process. If Linux users want these same instructions, drop be a comment below. I have a Manjaro Linux distribution installed and ready to go.
 
@@ -83,8 +83,8 @@ Below are the links I mention in the video or helpful content. All Amazon links 
 2. [Xemu](https://github.com/lgblgblgb/xemu)
 2. [Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
 3. [MEGA65 Discord Channel](https://discord.gg/8zVbk2hK)
-3. [TheC64 Joystick](https://amzn.to/3DzhwDi)
-4. [Hyperkin Trooper II USB Joystick](https://amzn.to/2YglHnl)
+3. [TheC64 Joystick](https://amzn.to/43lVHUh)
+4. [Hyperkin Trooper II USB Joystick](https://amzn.to/3l1CHXj)
 3. [Mac mini (M1)](https://amzn.to/3sE2qHp)
 4. [MacBook Pro (M1)](https://amzn.to/3go2jL8)
 5. [Create a Commodore Disk Image](/pi1541-2)

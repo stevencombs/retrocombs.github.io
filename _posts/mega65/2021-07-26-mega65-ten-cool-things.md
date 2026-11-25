@@ -93,23 +93,23 @@ In the videos below, I share the ten cool things that will excite Commodore retr
 Below are the links I mention in the videos. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [MEGA65](https://mega65.org/)
-2. [The C64 maxi](https://amzn.to/35o84CF)
-3. [The C64 mini](https://amzn.to/35kudC5)
+2. The C64 maxi
+3. [The C64 mini](https://link.amazon/B019AnpPJ)
 4. [The VIC20](https://retrogames.biz/thevic20)
 5. [DE10-Nano Kit for miSTer](https://amzn.to/3iUhDj4)
 6. [Pi 1541](/pi1541)
 7. [IEC Cable](https://amzn.to/3vl2N9I)
 8. [Competition Pro Joystick](https://retromash.com/galleries/competition-pro/)
 9. [Competition Pro](https://web.archive.org/web/20211004142026/https://icomp.de/shop-icomp/en/shop/product/competition-pro-retro.html)
-10. [Hyperkin Trooper](https://amzn.to/3iVpE9j)
-11. [Hyperkin Ranger](https://amzn.to/2TVS3kU)
-12. [Hyperkin Ranger Adapter for Multiple Paddles](https://amzn.to/35Gbvov).
-13. [theC64 Joystick](https://amzn.to/2UtFTjJ)
-14. [Hyperkin Trooper II](https://amzn.to/3gObhAZ)
+10. [Hyperkin Trooper](https://amzn.to/3l1CHXj)
+11. [Hyperkin Ranger](https://link.amazon/B0fysS6Ec)
+12. [Hyperkin Ranger Adapter for Multiple Paddles](https://link.amazon/B0fysS6Ec).
+13. [theC64 Joystick](https://amzn.to/43lVHUh)
+14. [Hyperkin Trooper II](https://amzn.to/3l1CHXj)
 
 ## Introduction
 
-[TheC64 maxi/mini](https://amzn.to/3gqCNUW) and TheVIC20 devices are wonderful Commodore computer revivals; however, these devices focus on software emulation with either a keyboard, USB joystick, or USB drive as the only hardware device options.I
+TheC64 maxi/mini and TheVIC20 devices are wonderful Commodore computer revivals; however, these devices focus on software emulation with either a keyboard, USB joystick, or USB drive as the only hardware device options.I
 
 What if you want an original Commodore computing experience that includes a Commodore specific keyboard, cartridge support, IEC devices, original game controllers, and mice? You might think the only option is to search eBay for a "working" used original Commodore computer. I recommend you wait. You may have the opportunity to purchase a new, in original box, [MEGA65](https://mega65.org/). This is the device you want.
 
@@ -212,7 +212,7 @@ BASIC is great; however, in development is a wonderful MEGA65 mode development e
 
 ### 5. Use a wired/wireless USB mouse or joystick
 
-Unfortunately, many input devices from the 1980s didn’t last and finding devices that work can be a futile or expensive proposition. Game controllers were abundant by many manufactures and the MEGA65 uses the standard DB9 connector found on other systems such as the Atari 2600. The MEGA65 includes two DB9 connectors so you can use those early controllers or recent recreations such as the [Competition Pro](https://web.archive.org/web/20211004142026/https://icomp.de/shop-icomp/en/shop/product/competition-pro-retro.html) or the Hyperkin [Trooper](https://amzn.to/3iVpE9j) or [Ranger](https://amzn.to/2TVS3kU) which includes a paddle controller. Hyperkin produces the [Ranger Adapter for Multiple Paddles](https://amzn.to/35Gbvov). In the future, it may be possible to play four person paddle controller games on the MEGA65.
+Unfortunately, many input devices from the 1980s didn’t last and finding devices that work can be a futile or expensive proposition. Game controllers were abundant by many manufactures and the MEGA65 uses the standard DB9 connector found on other systems such as the Atari 2600. The MEGA65 includes two DB9 connectors so you can use those early controllers or recent recreations such as the [Competition Pro](https://web.archive.org/web/20211004142026/https://icomp.de/shop-icomp/en/shop/product/competition-pro-retro.html) or the Hyperkin [Trooper](https://amzn.to/3l1CHXj) or [Ranger](https://link.amazon/B0fysS6Ec) which includes a paddle controller. Hyperkin produces the [Ranger Adapter for Multiple Paddles](https://link.amazon/B0fysS6Ec). In the future, it may be possible to play four person paddle controller games on the MEGA65.
 
 Commodore produced the 1351 mouse; however, to my knowledge, no one makes a modern recreation of a Commodore 1351 mouse and these are now hard to find and when you do, very expensive. Many titles made use of the mouse (one of which we will discuss later) and not having a mouse for the MEGA65 limits usability of older and newer titles such as [M3wP Solitaire](https://files.mega65.org?id=693fa82c-ef25-483d-a221-a303a6e6229f). Made with a mouse in mind; what are you to do if you don't have one for things like Art Studio for the Commodore 64?
 
@@ -233,7 +233,7 @@ The mouSTer and my [wireless Victsing mouse][5a0c6c18], work perfectly with game
 
 There were many titles for the Commodore 64 and 128 that used the 1351 mouse; however, there was one title where this mouse was a requirement and we'll cover that in part two of this series. And there's your teaser.
 
-Besides mice, the mouSTer development team is also working on gamepad support so in the future you may use a USB retro gaming inspired controllers such as a [theC64 Joystick](https://amzn.to/2UtFTjJ) or the [Hyperkin Trooper II](https://amzn.to/3gObhAZ).
+Besides mice, the mouSTer development team is also working on gamepad support so in the future you may use a USB retro gaming inspired controllers such as a [theC64 Joystick](https://amzn.to/43lVHUh) or the [Hyperkin Trooper II](https://amzn.to/3l1CHXj).
 
 Those are the top five; however, I have two bonus "cool things" and I will include one of those in this video.
 
@@ -359,7 +359,7 @@ The MEGA65 is built on top of a Xilinx Artix A7 200T [FPGA](https://en.wikipedia
 
 Adding cores is a simple process. Place them on the SD card, boot into the MEGA65 core utility by holding the `No Scroll` key down and turning on the power switch. Select a core to flash by holding down the [ctrl] + the corresponding slot number (1 through 7). The core utility will recognize the cores available on the SD card. Select the core, press the return key, and prepare to wait for ≈ 10 minutes. Once the core is flashed, select it and hit ⏎. You can always swap the core later by returning to the core utility screen and selecting another core. The last core selected will always be the default.
 
-Using the new cores is a simple process. Flash the cores to one of 7 available slots on the MEGA65, configure your SD card, and away you go! The Game Boy SD card instructions are simple; create a folder called `/gbc` and place your Gameboy or Gameboy Color (Gameboy Advanced is not supported) `.ROM` files in the folder. Plug in a joystick (I'm a huge fan of [Hyperkin Ranger](https://amzn.to/3hK1iOD) and [Trooper](https://amzn.to/3BeG03y) controllers), select a game, and enjoy.
+Using the new cores is a simple process. Flash the cores to one of 7 available slots on the MEGA65, configure your SD card, and away you go! The Game Boy SD card instructions are simple; create a folder called `/gbc` and place your Gameboy or Gameboy Color (Gameboy Advanced is not supported) `.ROM` files in the folder. Plug in a joystick (I'm a huge fan of [Hyperkin Ranger](https://link.amazon/B0fysS6Ec) and [Trooper](https://amzn.to/3l1CHXj) controllers), select a game, and enjoy.
 
 The ZX Spectrum SD card configuration includes a few additional steps, but [follow the instructions on GitHub](https://github.com/sy2002/zxuno4mega65/wiki/Getting-Started) and you will have it running in no time. There's something not natural about running ZX Spectrum software on a Commodore computer.
 
