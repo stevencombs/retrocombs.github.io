@@ -14,6 +14,9 @@ image:
   alt: '‌Use the RGBLink TAO 1tiny to connect a Webcam to an ATEM Mini'
 kind: review
 rating: 3.5
+product: "RGBLink TAO 1tiny"
+brand: "RGBLink"
+review_channel: tech
 ---
 
 During the COVID pandemic of 2020, online meetings took over my life and, in a search to find a good meeting presence, I accumulated an insane number of USB webcams. Cameras quickly became scarce, and I tried everything from available $25 fixed focus cameras to an eventual and brilliant $130 4K [Logitech Brio](https://amzn.to/3dLvfP1).
