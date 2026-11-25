@@ -26,6 +26,16 @@ The Commodore VIC 20 was my first computer. I've always had a special place in m
 ## Commodore 64
 
 {% include post-cards.html items=site.categories.c64 %}
+{% comment %} DRAFT heading and line, needs Editor review (Wave 2). {% endcomment %}
+## Modern Commodore 64-Style Gear
+
+New hardware built to look and feel like the Commodore 64.
+
+{% assign c64_style = site.posts | where: "url", "/8bitdo-retro-mechanical-keyboard-c64" %}
+{% assign c64_numpad = site.posts | where: "url", "/8bitdo-retro-mechanical-numpad-c64" %}
+{% assign c64_style = c64_style | concat: c64_numpad %}
+{% include post-cards.html items=c64_style %}
+
 ## Commodore Plus/4
 
 {% include post-cards.html items=site.categories.plus4 %}
