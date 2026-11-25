@@ -1,0 +1,69 @@
+{%- comment -%}
+  Sortable reviews table for /reviews. Built from post front matter at
+  build time, so a new post with `rating:` shows up on the next build.
+  Fields per post (all optional except rating):
+    product        Shown in the Product column. Falls back to the title.
+    brand          Blank shows a dash and sorts last.
+    price          One amount as stated in the post, e.g. "$129" or "€30".
+                   Blank shows a dash and sorts last. Never look one up.
+    price_note     Short qualifier under the price, e.g. "retail (Nov 2026)".
+    review_channel Channel from the review box when it differs from `channel`.
+  Rows render newest first without JavaScript. reviews-table.js adds
+  sortable column buttons and aria-sort.
+{%- endcomment -%}
+{%- assign rt_posts = site.posts | where_exp: "item", "item.rating != nil" -%}
+<div class="rc-reviews" markdown="0">
+<p class="rc-reviews__count">{{ rt_posts.size }} rated {% if rt_posts.size == 1 %}post{% else %}posts{% endif %}. Newest first.</p>
+<p class="rc-reviews__status sr-only" data-reviews-status aria-live="polite"></p>
+<div class="rc-reviews__scroll" role="region" aria-label="Reviews table, scrolls sideways on small screens" tabindex="0">
+<table class="rc-reviews__table" data-reviews-table>
+  <caption class="sr-only">retroCombs reviews: product, brand, rating, price, type, channel and date</caption>
+  <thead>
+    <tr>
+      <th scope="col" data-sort-type="text">Product</th>
+      <th scope="col" data-sort-type="text">Brand</th>
+      <th scope="col" data-sort-type="number" data-sort-first="desc">Rating</th>
+      <th scope="col" data-sort-type="number">Price</th>
+      <th scope="col" data-sort-type="text">Type</th>
+      <th scope="col" data-sort-type="text">Channel</th>
+      <th scope="col" data-sort-type="number" data-sort-first="desc" aria-sort="descending">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+  {%- for post in rt_posts %}
+    {%- assign rt_product = post.product | default: post.title | strip -%}
+    {%- assign rt_brand = post.brand | default: "" | strip -%}
+    {%- assign rt_price = post.price | default: "" | append: "" | strip -%}
+    {%- assign rt_note = post.price_note | default: "" | strip -%}
+    {%- assign rt_score = post.rating | append: "" | strip -%}
+    {%- include rating-band.html score=rt_score -%}
+    {%- assign rt_file = rt_score | replace: ".", "_" -%}
+    {%- assign rt_kind = post.kind | default: "" | append: "" | strip | downcase -%}
+    {%- assign rt_kind_label = "" -%}
+    {%- for kind in site.data.explore.kinds -%}
+      {%- if kind.id == rt_kind -%}{%- assign rt_kind_label = kind.label -%}{%- endif -%}
+    {%- endfor -%}
+    {%- if rt_kind_label == "" -%}{%- assign rt_kind_label = "Review" -%}{%- endif -%}
+    {%- assign rt_channel = post.review_channel | default: post.channel | default: "retrocombs" -%}
+    {%- assign rt_channel_label = "retroCombs" -%}
+    {%- for ch in site.data.explore.channels -%}
+      {%- if ch.id == rt_channel -%}{%- assign rt_channel_label = ch.label -%}{%- endif -%}
+    {%- endfor -%}
+    {%- if rt_price != "" -%}
+      {%- assign rt_price_num = rt_price | remove: "$" | remove: "€" | remove: "£" | remove: "," | strip | plus: 0 -%}
+    {%- endif %}
+    <tr>
+      <td data-label="Product" data-sort="{{ rt_product | downcase | escape }}"><a href="{{ post.url | relative_url }}">{{ rt_product | escape }}</a></td>
+      <td data-label="Brand" data-sort="{{ rt_brand | downcase | escape }}">{% if rt_brand != "" %}{{ rt_brand | escape }}{% else %}<span class="rc-reviews__none" aria-label="No brand listed">–</span>{% endif %}</td>
+      <td data-label="Rating" data-sort="{{ rt_score }}"><span class="rc-reviews__rating"><img src="{{ '/images/ratings/rating-' | append: rt_file | append: '.png' | relative_url }}" srcset="{{ '/images/ratings/rating-' | append: rt_file | append: '.png' | relative_url }} 1x, {{ '/images/ratings/rating-' | append: rt_file | append: '@2x.png' | relative_url }} 2x" width="106" height="20" loading="lazy" decoding="async" alt="{{ rt_score }} out of 5 joysticks, {{ rc_name }}"><span class="rc-reviews__score" aria-hidden="true">{{ rt_score }}</span></span></td>
+      <td data-label="Price" data-sort="{% if rt_price != "" %}{{ rt_price_num }}{% endif %}">{% if rt_price != "" %}<span><span class="rc-reviews__price">{{ rt_price | escape }}</span>{% if rt_note != "" %}<span class="rc-reviews__note">{{ rt_note | escape }}</span>{% endif %}</span>{% else %}<span class="rc-reviews__none" aria-label="No price listed">–</span>{% endif %}</td>
+      <td data-label="Type" data-sort="{{ rt_kind_label | downcase }}">{{ rt_kind_label }}</td>
+      <td data-label="Channel" data-sort="{{ rt_channel_label | downcase }}">{{ rt_channel_label }}</td>
+      <td data-label="Date" data-sort="{{ post.date | date: '%s' }}"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%b %-d, %Y" }}</time></td>
+    </tr>
+  {%- endfor %}
+  </tbody>
+</table>
+</div>
+</div>
+<script src="{{ '/assets/js/reviews-table.js' | relative_url }}" defer></script>
