@@ -118,7 +118,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 4. [ Project](https://mega65.org/)
 4. [ Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
 5. [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
-6. [THEVIC20 - U.K. Listing](https://amzn.to/3l7hZlB)
+6. [THEVIC20 - U.K. Listing](https://amzn.to/3CA7anp)
 
 ## Key to Keys
 
