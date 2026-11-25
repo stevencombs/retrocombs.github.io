@@ -25,9 +25,16 @@ image:
   height: 720
   alt: 'Playmates Classic Star Trek phaser and communicator'
 kind: first-look
+rating: 3.5
 ---
 
 Halloween was coming up, and I needed a couple of accessories for a little costume I was working out. So I picked up two pieces of original series Star Trek gear from Playmates: the [Classic Communicator](https://link.amazon/B01dKGTPl) and its companion, the [Classic Phaser](https://link.amazon/B09HYWDxw). Let me be clear up front: these are not studio-quality replicas. They're toys. But they're pretty good toys. This post is the text companion to my two short videos on retroCombs Tech (@retroCombs-tech).
+
+{% include review-box.html
+   score="3.5"
+   summary="They're toys, but they're pretty good toys, and they do the job for a Halloween costume or an affordable original-series look."
+   product="Playmates Classic Communicator and Phaser"
+   channel="tech" %}
 
 ![Playmates Classic Star Trek phaser and communicator](/images/posts/2026-11-17-playmates-star-trek-phaser-communicator.jpg)
 

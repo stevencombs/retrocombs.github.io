@@ -24,9 +24,16 @@ image:
   height: 720
   alt: 'The BitBinders 1581DV stacked dual disk drive and 64Power supply with the text Dual 1581?'
 kind: first-look
+rating: 4.5
 ---
 
 A box too big for my bench showed up from BitBinders. Inside were a dual Commodore 1581 disk drive, a drive I never owned back in the day, and a modern Commodore 64 power supply with built-in meters. This post is the text companion to my unboxing video, with specs, setup, current prices, and where these drives have shown up on the channel since.
+
+{% include review-box.html
+   score="4.5"
+   summary="A well-built, hand-assembled dual 1581, and the 64Power is a practical upgrade for any C64 owner."
+   product="BitBinders 1581DV and 64Power"
+   channel="retrocombs" %}
 
 ![The BitBinders 1581DV stacked dual disk drive and 64Power supply with the text Dual 1581?](/images/posts/2026-11-16-bitbinders-1581dv-64power.jpg)
 
