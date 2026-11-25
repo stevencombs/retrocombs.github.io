@@ -27,6 +27,7 @@ layout: default
   {% endif %}
 {% endif %}
 <div class="wrap">
+  {% include breadcrumb-jsonld.html kind="post" topic_name=pill_name topic_url=pill_url %}
   <nav class="crumbs" aria-label="Breadcrumb">
     <a href="{{ "/" | relative_url }}">Home</a>
     <span aria-hidden="true">›</span>
