@@ -27,7 +27,7 @@ image:
 kind: bench
 ---
 
-Since I finally have my process working consistently, it is time to share how I level the bed on my [Creality Ender-3 (#ad)](https://amzn.to/3d6WHB2) 3D printer with [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate (#ad)](https://amzn.to/31gy9R4) upgrade. If you are curious about the glass build surface upgrade, check out this blog post.
+Since I finally have my process working consistently, it is time to share how I level the bed on my Creality Ender-3 (#ad) 3D printer with [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate (#ad)](https://amzn.to/31gy9R4) upgrade. If you are curious about the glass build surface upgrade, check out this blog post.
 
 This post shares both a YouTube video that demonstrates my process as well as written instructions below. To test out the bed leveling, I print a keyboard plunger for a Commodore VIC-20. The plunger will replace an original that is broken. Check out the video to see if I was successful (or see the image down below for the spoiler):
 
@@ -55,7 +55,7 @@ You can [grab the VIC-20 key plunger STL file](https://www.thingiverse.com/thing
 Here are the steps I use to level the bed on my Creality Ender 3. This is a mashup of several techniques I found online in my attempt to make the process quick and easy.
 
 1. Use the [putty knife](https://amzn.to/2YtEF7R) that comes with the Creality Ender 3 to lightly remove any left over PLA from previous prints. This process works for the [Creality Upgraded 3D Printer Platform Heated Bed Build Surface Glass Plate][https://amzn.to/31gy9R4] but I cannot recommend it for other surfaces.
-2. Clean the glass bed with [Pre-Moistened Lens Cleaning Wipes](https://amzn.to/3aY5pAa). I prefer Zeiss or Welby brands.
+2. Clean the glass bed with Pre-Moistened Lens Cleaning Wipes. I prefer Zeiss or Welby brands.
 3. Turn on the 3D printer power.
 4. Move the print head to the X,Y, and Z home position. In my video, I use Octoprint to move the surface. You can use the default controls on the Ender 3.
 5. Raise the print head up 10 cm along the Z axis.
