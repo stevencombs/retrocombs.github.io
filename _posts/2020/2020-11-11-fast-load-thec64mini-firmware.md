@@ -21,7 +21,7 @@ image:
 kind: how-to
 ---
 
-One of my favorite retro-computing devices of 2019 was [THEC64 mini](https://amzn.to/35lh9No). I love that it was a mini recreation of the Commodore 64 that not only looked like the original, but when plugged into an HDMI monitor, would also play Commodore 64 games built-in or on a USB drive. Upon release though, there were limitations:
+One of my favorite retro-computing devices of 2019 was [THEC64 mini](https://link.amazon/B019AnpPJ). I love that it was a mini recreation of the Commodore 64 that not only looked like the original, but when plugged into an HDMI monitor, would also play Commodore 64 games built-in or on a USB drive. Upon release though, there were limitations:
 
 1. The 64 includes some not-so-great games.
 2. While you can load your own games, you couldn't have more than one on a USB drive.
@@ -83,6 +83,6 @@ That's all there is to it!
 
 ## What's next?
 
-I have another <RetroGames.biz> device on order from Amazon, [THEVIC-20](https://amzn.to/3pjwVk2). I had [THEC64](https://amzn.to/3ePEKsJ) on order and then cancelled that order when it didn't meet its availability date in the United States. The same day I cancelled the order, I found vendor on Amazon that would ship a [THEVIC-20](https://amzn.to/3pjwVk2) across the pond at a reasonable rate. My preference was Commodore VIC-20 styling since it was the first computer I owned back in 1981. I have four original VIC-20s in my basement (in various states of repair) and will compare this newer product to its older inspiration. More blog posts to come!
+I have another <RetroGames.biz> device on order from Amazon, [THEVIC-20](https://amzn.to/3CA7anp). I had [THEC64](https://link.amazon/B0i8BtTtm) on order and then cancelled that order when it didn't meet its availability date in the United States. The same day I cancelled the order, I found vendor on Amazon that would ship a [THEVIC-20](https://amzn.to/3CA7anp) across the pond at a reasonable rate. My preference was Commodore VIC-20 styling since it was the first computer I owned back in 1981. I have four original VIC-20s in my basement (in various states of repair) and will compare this newer product to its older inspiration. More blog posts to come!
 
-Anyone else enjoying [THEC64 mini](https://amzn.to/35lh9No), [maxi](https://amzn.to/3ePEKsJ), or THEVIC-20](https://amzn.to/3pjwVk2)? Let me know by leaving a comment. I would also love to read your tips and tricks for getting the most out of these little Commodore recreations.
+Anyone else enjoying [THEC64 mini](https://link.amazon/B019AnpPJ), [maxi](https://link.amazon/B0i8BtTtm), or THEVIC-20](https://amzn.to/3CA7anp)? Let me know by leaving a comment. I would also love to read your tips and tricks for getting the most out of these little Commodore recreations.

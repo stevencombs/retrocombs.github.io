@@ -65,8 +65,8 @@ None as of 2021-01-16.
 
 Below are the links I mention in the videos. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
-1. [THEC64](https://amzn.to/2KO2lzJ)
-2. [THEC64 mini](https://amzn.to/38aV3P7)
+1. [THEC64](https://link.amazon/B0i8BtTtm)
+2. [THEC64 mini](https://link.amazon/B019AnpPJ)
 3. [THEVIC20](https://amzn.to/3CA7anp)
 4. [THEVIC20-1 blog post](/thevic20-1)
 
@@ -121,9 +121,9 @@ Below are the list of games I demonstrate in part 2.
 ## Final Thoughts
 
 1. These videos were recorded during my Christmas and New Year's vacation. I extend my holiday vacations to enjoy and share these types of projects. Playing with THEVIC20 during the holidays created great retro-computing memories.
-2. Had THEVIC20 not included a keyboard, many of these VIC-20 games would be frustrating to play. This might explain one of the reasons, other than hardware, why the VIC-20 emulator is not included on [THEC64 mini](https://amzn.to/38lAmQB).
+2. Had THEVIC20 not included a keyboard, many of these VIC-20 games would be frustrating to play. This might explain one of the reasons, other than hardware, why the VIC-20 emulator is not included on [THEC64 mini](https://link.amazon/B019AnpPJ).
 3. As many have stated, there are better games that should take carousel space. I'm sure the reasons Retro Games includes these titles is due to cost and copyright. If funds were exchanged, Jeff Minter and Pixel Productions made a killing! I understand Retro Games can't just grab games and throw them on the system. Doing so would almost suredly open them up to legal action. Don't buy these systems based on the games included. If you do, you will be sorely disappointed.
-4. HOWEVER, if you want to know what made these systems so special, get out there and [purchase a THEVIC20, THEC64, or THEC64 mini now](https://amzn.to/2LD4UF3). You will have a blast reliving the glory days of 8-bit computing.
+4. HOWEVER, if you want to know what made these systems so special, get out there and [purchase a THEVIC20, THEC64, or THEC64 mini now](https://link.amazon/B019AnpPJ). You will have a blast reliving the glory days of 8-bit computing.
 
 ## Join the Fun
 

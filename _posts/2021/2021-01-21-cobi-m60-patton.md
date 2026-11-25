@@ -113,7 +113,7 @@ Below are the reasons I choose to produce this video, which is a far cry from my
 8. That's right, I'm a retired Army officer who began his Army career as an Armor officer in the late 1980s. The first armored vehicle I began training n was an M60A3.
 9. Even beyond retirement, I'm a huge fan of military and especially armor history (image of books).
 10. Put all this together, and I immediately let go of my LEGO snobbery, pulled up Amazon and made the purchase. And, I wasn't content with only the M60; I added the [M113 Personnel Carrier](https://amzn.to/396QENL) to my shopping cart. (Image)
-11. Both models are a part of the [historical Vietnam model collection](https://amzn.to/3pedh8z).
+11. Both models are a part of the historical Vietnam model collection.
 12. Will these models meet my building block expectations? Let's find out.
 
 ### Who is COBI?
@@ -326,7 +326,7 @@ I was interested in how the cost of COBI models compare with LEGO so I did some 
 
 1. The M60 Patton model had 605 elements, two action figures, and I paid $49.43 (retail $52.14).
 2. I tried to find a similar model with the same or lower number of pieces, similar build difficulty, and minfigs. Something with a military theme. The closest LEGO theme is the Star Wars line.
-3. I searched [Amazon](https://amzn.to/3ocGoIf) since this is where I purchased my [COBI set](https://amzn.to/3pbZuQ1).
+3. I searched [Amazon](https://amzn.to/3ocGoIf) since this is where I purchased my COBI set.
 2. The closest LEGO model I could find to meet my criteria was, the Y-Wing Star Fighter, with 578 pieces, four action figures, and a cost of $55.99 (retail $69.99)
 3. Now I have to add that LEGO has to pay Star Wars branding fees; however, if look at Amazon, the price is about $5 more for 27 fewer elements, but you get two additional minifgs.
 4. The story is different if we look at retail pricing. $52 for COBI versus $70 for LEGO. That's about a 20% increase for the LEGO set for less elements. It's not an accurate cost proposition, but it does give us an estimate of COBI value which I classify as good.
