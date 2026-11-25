@@ -21,7 +21,7 @@ kind: how-to
 
 <img style="margin-left: 10px; margin-bottom: 10px;" src="https://2.bp.blogspot.com/-JWkcedZQv6k/Uss6UrZB9oI/AAAAAAABOg8/qhcYMT0zEXA/s1600/Loki+Blogs.jpg" align="right" width="250" />
 
-Two things happened during the holiday break. Loki and I reacquired our fascination with the [Arduino][2] and I also upgraded the operating system on my old Acer Aspire One from Chrome OS to [Peppermint OS 4][3]. In an [earlier post][4], I shared how to install the Arduino software on a netbook with Ubuntu Netbook remix 9.04. I thought these earlier instructions would assist me with an install on Peppermint OS 4. That was not the case. Not even the first step was correct.
+Two things happened during the holiday break. Loki and I reacquired our fascination with the Arduino and I also upgraded the operating system on my old Acer Aspire One from Chrome OS to [Peppermint OS 4][3]. In an [earlier post][4], I shared how to install the Arduino software on a netbook with Ubuntu Netbook remix 9.04. I thought these earlier instructions would assist me with an install on Peppermint OS 4. That was not the case. Not even the first step was correct.
 
 This post will provide an update to that original post. Users of other Linux distributions should also find these instructions valuable and if you are using a Debian variant, they should work perfectly. After you hit the link below, you will find instructions for installing and using the Arduino software on Peppermint OS 4.
 
@@ -87,7 +87,6 @@ Success! The Arduino IDE is installed and configured properly. Now get out there
 
 That's all there is to it. Linux use and acceptability has come a long way in the past few years and given the ease of this process, I can highly recommend a Linux box (or an old Acer Aspire netbook) as an Arduino development tool.
 
-[2]: http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=arduino&amp;linkCode=ur2&amp;sprefix=Arduino%2Caps%2C236&amp;tag=stevenccom-20&amp;url=search-alias%3Delectronics
 [3]: http://peppermintos.com/
 [4]: http://www.docstechnotes.com/2009/07/install-arduino-on-ubuntu-netbook-remix.html
 [6]: https://1.bp.blogspot.com/-3E9xwqUMbKc/Uss1DrNCbJI/AAAAAAABOgM/-g4fXHU5t8o/s1600/Permission+Checker.png
