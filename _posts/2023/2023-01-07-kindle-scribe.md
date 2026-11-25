@@ -108,7 +108,7 @@ I use affiliate links. Thanks for your support of the blog and the YouTube chann
 16. [Vintage Commodore 128 Personal Computer Handbook: 2019 Survival Edition](https://amzn.to/3WzPpgc)
 17. [Retro Game Dev: C64 Edition](https://amzn.to/3WMneu8)
 18. [Beginner’s Step-by-step THEC64 Coding Course](https://amzn.to/3I7Ci1p)
-19. [Kindle Unlimited Retro Titles](https://amzn.to/3WPjXdN)
+19. Kindle Unlimited Retro Titles
 20. [Kindle Reader on the Web](https://read.amazon.com/kindle-library)
 
 ## A Kindle for Retro Computing
@@ -342,7 +342,7 @@ Was my hypothesis correct? Is the Kindle Scribe an outstanding tool for retro co
 1. I love brainstorming on the Kindle Scribe. The Kindle Scribe includes a storyboard template. I storyboard ideas and add pages as needed. Other useful templates include a to do list and grid paper. If I had a particular content creation schedule, the calendar and planner templates might be useful.
 2. I've been reading old issues of RUN and Compute! magazines downloaded from Archive.org. The large screen makes the pages almost full size. Since I download these as PDFs, I can annotate and bookmark pages.
 3. Many modern retro computing books are available as e-books. They are a blast to read on the Kindle Scribe with its large screen and ability to scribble notes. Books I've found include [A Hobbyist’s Guide to THEC64 Mini](https://amzn.to/3i2hPR8), [40 Best Machine Code Routines for the Commodore 64](https://amzn.to/3WU0aK4), and [Vintage Commodore 128 Personal Computer Handbook: 2019 Survival Edition](https://amzn.to/3WzPpgc).
-4. Kindle Unlimited includes several good retro computing books such as [Retro Game Dev: C64 Edition](https://amzn.to/3WMneu8) and [Beginner’s Step-by-step THEC64 Coding Course](https://amzn.to/3I7Ci1p). Here’s a [page full of titles](https://amzn.to/3WPjXdN).
+4. Kindle Unlimited includes several good retro computing books such as [Retro Game Dev: C64 Edition](https://amzn.to/3WMneu8) and [Beginner’s Step-by-step THEC64 Coding Course](https://amzn.to/3I7Ci1p). Here’s a page full of titles.
 5. I scan PDF files of instructions for modern devices that upgrade my retro computing experience.
 6. I take notes during livestreams or video recordings using the Kindle Scribe and archive those notes for later.
 7. There's an amazing collection of out-of-print PDF books available for retro computers. You can download, add to a collection, and enjoy quick access to the reference material. I recently download Compute!’s First Book of VIC-20 Games and Compute!’s First Book of PET/CBM.
