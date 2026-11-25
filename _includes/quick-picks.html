@@ -1,0 +1,41 @@
+{%- comment -%}
+  Quick Picks: a scannable comparison block for the top of multi-product
+  posts (comparisons, roundups). Wave 2 of the traffic and revenue plan.
+
+  Usage, inside the post body near the top:
+    {% include quick-picks.html items=page.quick_picks %}
+  with front matter like:
+    quick_picks:
+      - label: "Best overall"
+        name: "Product name"
+        note: "One line on why, from Steven's own testing."
+        url: "<link from Affiliate Links.txt only>"
+        review: "/my-review-slug"   # optional, a retrocombs.com post
+
+  Rules:
+  - url must come from Affiliate Links.txt (via Revenue). Leave it out when
+    the product is marked "No affiliate link"; the card then shows no button.
+  - No prices. Amazon prices change and the plan keeps static prices out.
+  - The block sits inside the post body, so affiliate-links.html adds
+    rel="sponsored noopener" and the top-of-post disclosure shows.
+  - include.title overrides the heading.
+{%- endcomment -%}
+{%- assign qp_items = include.items -%}
+{%- if qp_items and qp_items.size > 0 -%}
+<section class="quick-picks" aria-label="{{ include.title | default: 'Quick Picks' | escape }}">
+<h2 class="quick-picks__title">{{ include.title | default: "Quick Picks" }}</h2>
+<div class="quick-picks__grid">
+{%- for qp in qp_items -%}
+<div class="quick-picks__card">
+{%- if qp.label -%}<span class="quick-picks__label">{{ qp.label }}</span>{%- endif -%}
+<p class="quick-picks__name">{{ qp.name }}</p>
+{%- if qp.note -%}<p class="quick-picks__note">{{ qp.note }}</p>{%- endif -%}
+<p class="quick-picks__links">
+{%- if qp.url -%}<a class="btn red" href="{{ qp.url }}" target="_blank">Check the price</a>{%- endif -%}
+{%- if qp.review -%}<a class="quick-picks__review" href="{{ qp.review | relative_url }}">Read my review</a>{%- endif -%}
+</p>
+</div>
+{%- endfor -%}
+</div>
+</section>
+{%- endif -%}
