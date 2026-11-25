@@ -13,6 +13,11 @@ image:
   alt: 'BULLET REVIEW: NewTrent Airbender 3.0'
 kind: review
 rating: 4
+product: "New Trent Airbender 3.0"
+brand: "New Trent"
+price: "$40"
+price_note: "less than, on Amazon (Jul 2015)"
+review_channel: tech
 ---
 
 A little over a year ago I reviewed the [NewTrent Airbender 2.0](/apple/2014/03/06/bullet-review-newtrent-airbender-2.html). About a week ago, NewTrent sent an offer to review an upgrade, the NewTrent Airbender 3.0. The main new feature is support for the iPad Air 2 as well as the original iPad Air (the model I own and use regularly). I wondered if there were significant improvements to the original 2.0 and accepted the offer. A couple of days later, it arrived.
