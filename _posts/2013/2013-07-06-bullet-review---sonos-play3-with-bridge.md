@@ -14,6 +14,11 @@ image:
   alt: 'BULLET REVIEW: Sonos Play3 with Bridge'
 kind: review
 rating: 4
+product: "Sonos Play:3"
+brand: "Sonos"
+price: "$299"
+price_note: "per unit (Jul 2013)"
+review_channel: tech
 ---
 
 A couple of weeks ago, The Lovely Accountant made an offer to purchase a [Sonos Play:3][2] for me for Father's Day. I've been eyeing and researching the streaming music device for months and I believe she knew I was intent on trying one, so why not make it a gift. Good call!

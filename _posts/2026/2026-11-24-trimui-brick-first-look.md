@@ -27,6 +27,8 @@ image:
   alt: 'TrimUI Brick in red next to its retail box'
 kind: first-look
 rating: 4
+product: "TrimUI Brick"
+brand: "TrimUI"
 ---
 
 The folks over at MechDIY sent me a new toy to play with. They sent me a brick. Yep, that's right, the [TrimUI Brick](https://mechdiy.com/collections/trimui/products/trimui-brick-retro-handheld-game-console?ref=vpbwmzpy). I'm not usually a fan of the Game Boy style, vertical form factor because it cramps my hands, so I didn't expect much. This little red handheld surprised me more than any handheld I've tried in a while.

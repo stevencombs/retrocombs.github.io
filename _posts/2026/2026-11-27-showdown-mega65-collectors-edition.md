@@ -25,6 +25,10 @@ image:
   alt: 'Showdown for the MEGA65 Collector''s Edition box from Poly.Play'
 kind: review
 rating: 4
+product: "Showdown Collector's Edition (MEGA65)"
+brand: "Poly.Play"
+price: "€30"
+price_note: "including VAT (Nov 2026)"
 ---
 
 If you remember, I shared the boxed copy of Hibernated 1: The Director's Cut. Poly.Play is back with a boxed copy of the second MEGA65 packaged software release, Showdown from Badger Punch Games. It's a one or two player Wild West duel, and the box is packed with goodies. Yee haw!

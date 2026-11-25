@@ -29,6 +29,8 @@ image:
   alt: 'WiiM Ultra centered between a pair of white Edifier R1280DB speakers on a shelf by my desk, with the voice remote nearby'
 kind: review
 rating: 4.5
+product: "WiiM Ultra"
+brand: "WiiM"
 ---
 
 I spend long days at a desk with thin, single-speaker audio, and I finally wanted something better. After more than a week with a [WiiM Ultra](https://link.amazon/B02NR2bha) and a pair of [Edifier R1280DB](https://link.amazon/B01Cfibzl) speakers, the difference is not subtle. Stereo separation was the biggest win, RoomFit made the shelves sound brighter, and the setup flexes from local radio to YouTube Music to a SiriusXM workaround without making me pick up my phone every time.

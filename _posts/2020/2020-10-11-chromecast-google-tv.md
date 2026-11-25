@@ -21,6 +21,9 @@ image:
   alt: 'OPEN THE BOX and FIRST USE: Chromecast with Google TV'
 kind: review
 rating: 4
+product: "Chromecast with Google TV"
+brand: "Google"
+review_channel: tech
 ---
 
 During Google's 2020 "[Launch Night In](https://www.youtube.com/watch?v=q2HSJHOMDyk)" event, the Chromecast with Google TV was announced. Not a surprise, not much is anymore; however, even when the whispers of this device echoed in the halls of the Internet, I was intrigued. Prior to this purchase of this device, I owned the two following Android TV devices:

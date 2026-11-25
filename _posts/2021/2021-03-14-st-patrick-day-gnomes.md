@@ -22,6 +22,10 @@ image:
   alt: 'St. Patrick''s Day gnome ornaments from Amazon'
 kind: review
 rating: 4
+product: "St. Patrick's Day Gnome Ornament Faceless Doll Decorations (8 Pieces)"
+price: "$12"
+price_note: "for 8 at Amazon (Mar 2021)"
+review_channel: tech
 ---
 
 In an impromptu video, I hold a mic in front of The Lovely Accountant and ask her questions about her latest Amazon purchase, the St. Patrick's Day Gnome Ornament Faceless Doll Decorations Green Clover Gnome Doll Ornaments Irish, Swedish Leprechaun for St. Patrick's Day Party Christmas Elf Scandinavian Decoration (8 Pieces). WHEW! That's a mouthful. What does she think? Watch the video below and then read the this post for additional gnome and behind-the-scenes thoughts.

@@ -28,6 +28,8 @@ image:
   alt: 'Mac mini M4 sitting on the Minisopuru iExpandMate MINI4PRO dock'
 kind: review
 rating: 3.5
+product: "Minisopuru iExpandMate MINI4PRO"
+brand: "Minisopuru"
 ---
 
 Sometimes things happen for a reason. I recently bought a [Mac mini M4](https://amzn.to/4bnPdZO), and as I used it, I noticed some limits. It doesn't have as many ports as the M2 Mac mini I owned before. Right about then, Minisopuru reached out and asked if I'd take a look at its new [stand hub, the iExpandMate MINI4PRO,](https://amzn.to/43j6Sjw) for the 2024 Mac mini M4 and M4 Pro. I said absolutely, and on top of more ports, it has a slot for an NVMe SSD inside. So I added 2TB to my Mac mini for less than Apple charges for a storage upgrade.

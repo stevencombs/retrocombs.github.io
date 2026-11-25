@@ -26,6 +26,10 @@ image:
   alt: 'PicoCalc Out-of-Box Tutorial'
 kind: how-to
 rating: 4.5
+product: "Clockwork PicoCalc"
+brand: "Clockwork"
+price: "$89"
+price_note: "on Clockwork's store (May 2025)"
 ---
 
 I've always had a soft spot for handheld computers, going all the way back to the 1980s. What I wanted from those devices was a way to program in BASIC on the go, but single-line displays and chiclet keyboards didn't make that easy. The Clockwork PicoCalc finally scratches that itch: a Raspberry Pi Pico, a 320x320 IPS color screen, a backlit QWERTY keyboard, speakers, an SD card slot, and GPIO pins, all in a pocket-sized kit you build yourself.

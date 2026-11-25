@@ -21,6 +21,8 @@ image:
   alt: 'Watch the Video: THEVIC20 and THEC64 VIC-20 Games (Part 1)'
 kind: review
 rating: 5
+product: "VIC-20 games on THEVIC20"
+brand: "Retro Games"
 ---
 
 THEVIC20(C64) it is a divisive Commodore emulator. There are those, like me, who love that the system is keeping the retro-computing alive, while other lament that the system is nothing more than a mere emulated shadow of the original. Which ever side of the campfire you sit, my goal for this short series of videos was to shine a light on the games included with these systems. As I stated on several social media posts, the games are a collection of winners, stinkers, surprises and questions.

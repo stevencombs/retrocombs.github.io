@@ -24,6 +24,10 @@ tags:
 description: "OBSBOT Meet 2 tested as a face and overhead camera on an M1 Mac mini: autofocus, zoom gesture and a two-camera OBS setup. A paid partnership with OBSBOT."
 kind: review
 rating: 4
+product: "OBSBOT Meet 2"
+brand: "OBSBOT"
+price: "$129"
+price_note: "retail, OBSBOT US store (Nov 23, 2026)"
 ---
 
 *Disclosure Statement: This is a paid partnership with OBSBOT. OBSBOT sponsored the video and sent me the Meet 2. I kept final cut, and the opinions are mine. Links in this post are affiliate links, so I may earn a commission if you buy through them.*

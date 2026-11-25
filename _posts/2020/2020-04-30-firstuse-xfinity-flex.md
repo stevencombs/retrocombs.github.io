@@ -22,6 +22,9 @@ image:
   alt: 'Flex and accessories'
 kind: review
 rating: 1.5
+product: "Xfinity Flex"
+brand: "Xfinity"
+review_channel: tech
 ---
 
 In my [last blog post](/xfinity-flex-unboxing), I shared my YouTube OPEN THE BOX video for the Xfinity Flex video streaming device. This blog post and companion video serves as a follow-up for those interested in this streamer. In the video, I take a first-look at the device's menus and features. In addition, this companion blog post shares additional information not included in the video along with some final thoughts and questions.

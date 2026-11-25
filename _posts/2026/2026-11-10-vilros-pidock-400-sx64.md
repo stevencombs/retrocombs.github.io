@@ -27,6 +27,8 @@ image:
   alt: 'Raspberry Pi 400 in a Vilros PiDOCK 400 running Combian 64 in SX-64 mode'
 kind: review
 rating: 2.5
+product: "Vilros PiDOCK 400"
+brand: "Vilros"
 ---
 
 An SX-64 is missing from my collection. I've always wanted one and haven't been able to find one. If you have one, let me know. So I tried something else: I took my Combian pi/400 and put it in a [Vilros PiDOCK 400](https://link.amazon/A02H2q8rc) to see if I could create a spiritual successor to the SX-64. It's not the same form factor, but hold on, and you'll see what I mean.

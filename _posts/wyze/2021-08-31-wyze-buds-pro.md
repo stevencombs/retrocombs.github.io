@@ -22,6 +22,11 @@ image:
   alt: 'Wyze Buds Pro | Unboxing | Setup | Pairing | First Use'
 kind: review
 rating: 3
+product: "Wyze Buds Pro"
+brand: "Wyze"
+price: "$60"
+price_note: "Aug 2021"
+review_channel: tech
 ---
 
 It's time for another Wyze product first look. This time, it's the Wyze Buds Pro. As a backer, I received an early pair of these new buds and, at the time of this writing, pre-orders are available for the next shipment. If you have questions about these new buds, this blog post and companion video can help as I unbox, setup, pair, and run the buds through a few use cases. At the end of the post, I'll provide final thoughts. Let's first dig in with my companion video.

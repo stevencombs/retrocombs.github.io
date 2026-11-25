@@ -16,6 +16,11 @@ image:
   alt: 'Three original Pebble e-paper watches in red, black, and white'
 kind: review
 rating: 4
+product: "Pebble"
+brand: "Pebble"
+price: "$99"
+price_note: "Oct 2014"
+review_channel: tech
 ---
 
 ![Three original Pebble e-paper watches in red, black, and white](/images/posts/pebble-watch/pebble-watches.jpg)

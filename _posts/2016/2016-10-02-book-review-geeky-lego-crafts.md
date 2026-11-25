@@ -14,6 +14,10 @@ image:
   alt: 'Cover of Geeky LEGO Crafts by David Scarfe'
 kind: review
 rating: 4.5
+product: "Geeky LEGO Crafts"
+brand: "No Starch Press"
+price: "$19.95"
+price_note: "retail (Oct 2016)"
 ---
 
 ![Cover of Geeky LEGO Crafts by David Scarfe](/images/posts/geeky-lego-crafts/cover.jpg)

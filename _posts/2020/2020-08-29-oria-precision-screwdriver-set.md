@@ -25,6 +25,10 @@ image:
   alt: 'OPEN THE BOX (BAG): ORIA Precision Screwdriver Set, 86in1 Magnetic Repair Tool Kit with Portable Bag'
 kind: review
 rating: 4
+product: "ORIA Precision Screwdriver Set"
+brand: "ORIA"
+price: "$25"
+price_note: "Aug 2020"
 ---
 
 This is the companion blog post for a quick open the box (bag) video, streamed on YouTube live, for the $25 [ORIA Precision Screwdriver Set, 86 in 1 Magnetic Repair Tool Kit with Portable Bag (#ad)](https://amzn.to/3loTyBw). In this video I show you all the parts and pieces and, yes, I eventually got all the tools sorted into their proper location (see the video thumbnail).

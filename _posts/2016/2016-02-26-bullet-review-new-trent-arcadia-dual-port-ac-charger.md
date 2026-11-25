@@ -9,6 +9,11 @@ categories:
   - gadgets
 kind: review
 rating: 2.5
+product: "New Trent Arcadia"
+brand: "New Trent"
+price: "$13"
+price_note: "around (Feb 2016)"
+review_channel: tech
 ---
 
 [New Trent][1] once again provided me with an opportunity to review a new product; the [Arcadia dual port AC charger][2]. When I received an email that the product was available for review, I must admit, my decision to review the charger was a bit selfish. I could sure use a free wall wart for the brand new [nVidia Shield K1 Tablet][3] I received over the holidays.

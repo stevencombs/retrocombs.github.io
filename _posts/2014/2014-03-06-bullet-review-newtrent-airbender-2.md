@@ -16,6 +16,11 @@ image:
   alt: 'BULLET REVIEW: New Trent Airbender 2.0 for iPad Air'
 kind: review
 rating: 3
+product: "New Trent Airbender 2.0"
+brand: "New Trent"
+price: "$60"
+price_note: "as little as (Mar 2014)"
+review_channel: tech
 ---
 
 I had an upcoming business trip to take and I was on the lookout for a good portable keyboard case for my [iPad Air](http://www.amazon.com/gp/product/B00G2Y4WNY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00G2Y4WNY&amp;linkCode=as2&amp;tag=stevenccom-20). There are several keyboard cases on the market, and after reading numerous reviews, I chose the [New Trent Airbender 2.0 Keyboard](http://www.amazon.com/gp/product/B00ET9YYS2/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ET9YYS2&amp;linkCode=as2&amp;tag=stevenccom-20).

@@ -20,6 +20,9 @@ image:
   alt: 'Three week thoughts on the Google Pixel'
 kind: review
 rating: 4
+product: "Google Pixel"
+brand: "Google"
+review_channel: tech
 ---
 
 The new Google Pixel smartphone arrived on my door step October 21, 2016; a day after the official release. I preordered the  phone the next day. As Google made the phone demonstration at their October 4 event (see video below), I knew it was time to replace my aging Nexus 6 phone with the new Google Pixel phone.
