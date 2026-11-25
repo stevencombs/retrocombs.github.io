@@ -29,6 +29,10 @@ image:
   alt: 'vSeeBox α1 retail box highlighting 4K Ultra HD, dual-band Wi-Fi, OTA updates, and Linux OS'
 kind: review
 rating: 3.5
+product: "vSeeBox α1"
+brand: "vSeeBox"
+price: "$319"
+price_note: "at vseeboxstream.com (Nov 5, 2026)"
 ---
 
 vSeeBox walked away from Android TV OS for this one. The α1 is a small Linux media player with six apps, no store, and a remote that still wants line of sight. I unboxed it, raced the cold boot against a [V6 Max](https://vseeboxus.com/affiliate-program/sell-product?source_type=sales_plugin_af&slt=sales_plugin_af&productPage=1&referral_code=X973T43OZTN1), checked wired and 5 GHz networking, played my own USB files, and tried casting. Here is what actually showed up on the tape.
