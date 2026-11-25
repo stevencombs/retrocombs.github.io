@@ -83,7 +83,7 @@ Below are the links you need to get the most out of your ZX Spectrum Next.
 ### ZX Spectrum Next Accessories {#zx-spectrum-next-accessories}
 
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
-- 🚠 HDMI Cables: <https://amzn.to/4c2vhM9>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
 - 🕹️ Hyperkin Trooper (the joystick I use in the video): <https://amzn.to/3l1CHXj>
 - 🔊 3.5mm Shielded Cables: <https://amzn.to/3VBsBPL>
 - 🔈 Edifier Speakers: <https://amzn.to/3vymO2G>

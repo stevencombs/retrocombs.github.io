@@ -87,7 +87,7 @@ Below are the links you need to add a Pi Zero accelerator to your ZX Spectrum Ne
 - 🔥 YIHUA 853D 2A USB Soldering and Hot Air Rework Station: <https://link.amazon/B08TtUhG0>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>
 - 🔌 USB-C to Micro USB Adapter (for the Pi's micro USB ports): <https://amzn.to/3Wkxxrr>
-- 🚠 HDMI Cables: <https://amzn.to/4c2vhM9>
+- 🚠 HDMI Cables: <https://link.amazon/B0c7sAcRI>
 - 👚 Sew Ready Covers (tell Maggie retroCombs sent you!): <https://ebay.us/EFNZGp>
 
 *When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
