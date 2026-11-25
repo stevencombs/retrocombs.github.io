@@ -1,6 +1,15 @@
+{%- comment -%}
+  Post count for a topic. categories may hold real category keys or
+  "hub:<key>" for a hand-picked hub in _data/hubs.yml (counts its slugs).
+{%- endcomment -%}
 {%- assign topic_post_count = 0 -%}
 {%- for key in include.categories -%}
+{%- if key contains "hub:" -%}
+{%- assign hub_key = key | remove_first: "hub:" -%}
+{%- for hub_sec in site.data.hubs[hub_key] -%}{%- assign topic_post_count = topic_post_count | plus: hub_sec[1].size -%}{%- endfor -%}
+{%- else -%}
 {%- assign bucket = site.categories[key] -%}
 {%- if bucket -%}{%- assign topic_post_count = topic_post_count | plus: bucket.size -%}{%- endif -%}
+{%- endif -%}
 {%- endfor -%}
 {{- topic_post_count -}}
