@@ -72,7 +72,7 @@ Below are the links to the entire Retro Games Commodore series. All Amazon links
 
 1. [MEGA65](https://mega65.org/)
 1. [Retrohax.net](https://www.retrohax.net)
-2. [mouSTer](https://retrohax.net/shop/amiga/mouster/)
+2. [mouSTer](https://retrohax.net/shop/modulesandparts/mouster/)
 3. [mouSTer Firmware](http://jil.guru/mouSTer/)
 4. [MEGA65 Build](/mega65-1)
 5. [Victsing USB/BT Mouse Review and Video](/victsing-wireless-mouse)

@@ -81,7 +81,7 @@ I use affiliate links. Thanks for your support of the blog and the YouTube chann
 3. [PET Dual Joystick Adapter](https://www.thefuturewas8bit.com/shop/commodore/pet/pet-joystick-adaptor.html)
 4. [Stupid PET Tricks](https://www.bit-zeal.com/product/stupid-pet-tricks-module/3)
 5. [Bonus Life Computers](https://bonuslifecomputers.com/)
-5. [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
+5. [Hyperkin Ranger Controller](https://link.amazon/B0fysS6Ec)
 6. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 7. [Campus Curiosity Article](https://rcc-redmarley.tumblr.com/post/612113605642649600/campus-curiosity-commodore-pet-2001#:~:text=Released%20in%201977%2C%20it%20appears,the%20font%20of%20Hal's%20interface.)
 8. [The Oldest Commodore PET Brochure](https://www.commodore.ca/commodore-history/the-oldest-commodore-pet-2001-brochure/#:~:text=THE%20PET%20is%20the%20only,and%20weighs%20just%2044%20pounds.)

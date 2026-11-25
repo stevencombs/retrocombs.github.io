@@ -23,9 +23,9 @@ product: "THEVIC20"
 brand: "Retro Games"
 ---
 
-Have a retro-computing fan in your life and don’t know what to get them? Or maybe you are looking for a little something for yourself, or maybe, just maybe, you need a last-minute suggestion for Santa? Here are 10 reasons [RetroGames](https://retrogames.biz/) [THEVIC20](https://amzn.to/3CA7anp) (and [THEC64](https://amzn.to/37qtT6H)) is the perfect holiday gift for all retro-computing fans.
+Have a retro-computing fan in your life and don’t know what to get them? Or maybe you are looking for a little something for yourself, or maybe, just maybe, you need a last-minute suggestion for Santa? Here are 10 reasons [RetroGames](https://retrogames.biz/) [THEVIC20](https://amzn.to/3CA7anp) (and [THEC64](https://link.amazon/B0i8BtTtm)) is the perfect holiday gift for all retro-computing fans.
 
-My list also applies to THEC64 and [THEC64 mini](https://amzn.to/2IX3Omj). I like modern devices that bring back that retro feeling. Check out [my channel](https://www.youtube.com/stevencombs) for more.
+My list also applies to THEC64 and [THEC64 mini](https://link.amazon/B019AnpPJ). I like modern devices that bring back that retro feeling. Check out [my channel](https://www.youtube.com/stevencombs) for more.
 
 THEVIC20 is a modern recreation of my first computer, the Commodore VIC-20. I absolutely had purchase one but they are like a unicorn; hard to find. Imagine my surprise when THEVIC20 popped up on the Amazon store in the United States. I immediately purchased and then spent the next four weeks wondering if it would actually arrive at my door. It did! Watch the video below and then continue to read this post to learn even more about THEVIC20.
 
@@ -51,11 +51,11 @@ In the video below, I share 10 reasons why THEVIC20 is the perfect gift for the 
 
 ## Links for this episode (#ad):
 
-[THEVIC20](https://amzn.to/37sww86)
-[THEC64](https://amzn.to/2LKMYrR)
-[THEC64 mini](https://amzn.to/3mn3v1P)
+[THEVIC20](https://amzn.to/3CA7anp)
+[THEC64](https://link.amazon/B0i8BtTtm)
+[THEC64 mini](https://link.amazon/B019AnpPJ)
 [A Hobbyist's Guide to THEC64 Mini](https://amzn.to/37rLZFj)
-[Compatible USB Drives](https://amzn.to/2WkDTYP]
+Compatible USB Drives
 [HDMI Monitor](https://amzn.to/2KAiOqp)
 [A Hobbyist's Guide to THEC64 Mini](https://amzn.to/37rLZFj)
 
@@ -88,7 +88,7 @@ In addition to my 10 reason above, below are some final thoughts.
 
 * It is a shame these are so rare. Both THEVIC20 and THEC64 are rare and hard to find, especially around the holidays.
 * There's not much I don't like about these devices. If I had to pick a nit-noid, it would be the lack of games in the carousel. 64 games will keep you interested for a day or two; however, it would also be nice to add games to the carousel. You can do this, but it's a hack that requires some work.
-* I still find myself going back to [THEC64 mini](https://amzn.to/3mn3v1P) to hack around on this device. I don't believe I'll ever take THEVIC20 apart. Taking the mini apart is only a $35 mistake that is easily replaceable. I do plan to hack around more on it and find out how we can push these little devices to do even more. I just wish the mini came with VIC-20 emulation.
+* I still find myself going back to [THEC64 mini](https://link.amazon/B019AnpPJ) to hack around on this device. I don't believe I'll ever take THEVIC20 apart. Taking the mini apart is only a $35 mistake that is easily replaceable. I do plan to hack around more on it and find out how we can push these little devices to do even more. I just wish the mini came with VIC-20 emulation.
 * I just found a [File Loader page](https://web.archive.org/web/20211016201230/https://retrogames.biz/thec64/support/file-loader) on the RetroGames web site. I'll need to explore that page more. Looks interesting.
 * Oh, and here's a [Loading Tips page](https://web.archive.org/web/20211016213027/https://retrogames.biz/thec64/support/loading-tips). I'm impressed by the resources available. Nicely done, RetroGames!
 * Here's the [whole support shebang](https://retrogames.biz/thec64/support)!

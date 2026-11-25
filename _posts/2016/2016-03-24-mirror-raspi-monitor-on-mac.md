@@ -15,7 +15,7 @@ image:
 kind: how-to
 ---
 
-There are several tutorials available online that demonstrate how to setup a VNC connection to a [Raspberry Pi][1229-0001] from a Mac; however, most of them use *TightVNC*. This is fine if you want to control your Raspberry Pi remotely and do not have a monitor connected to the Raspberry Pi; however, I want to connect the Raspberry Pi to a monitor and then control the Raspberry Pi desktop, displayed on the monitor, from a Mac across the room.
+There are several tutorials available online that demonstrate how to setup a VNC connection to a Raspberry Pi from a Mac; however, most of them use *TightVNC*. This is fine if you want to control your Raspberry Pi remotely and do not have a monitor connected to the Raspberry Pi; however, I want to connect the Raspberry Pi to a monitor and then control the Raspberry Pi desktop, displayed on the monitor, from a Mac across the room.
 
 To the best of my knowledge, [TightVNC][1229-0002] does not provide this feature (If I am mistaken, please leave a comment at the end of this post). TightVNC only allows a connection to a virtual screen. The result is that you see a virtual desktop on the remote computer, not the desktop on the display connected to the Raspberry Pi. My solution uses the VNC server, *[x11vnc][1229-0003]* to correct this.
 
@@ -145,7 +145,6 @@ Where XXXX is the process number identified in the previous step. The x11vnc ser
 # Conclusion
 It took me some time, much research, and much trial and error to figure this out. I was never able to find complete instructions online that work or a  step-by-step guide. Hopefully others who want to mirror their Raspberry Pi's "main" display on their Mac will find these instructions. My goal has been to write them in such a way that even those new to Linux can do this.
 
-[1229-0001]: http://amzn.to/1RotVKr
 [1229-0002]: http://www.tightvnc.com/
 [1229-0003]: http://www.karlrunge.com/x11vnc/
 [1229-0004]: https://en.wikipedia.org/wiki/Secure_Shell

@@ -120,7 +120,7 @@ _Stino_ package the location of the official Arduino IDE install. Stino is Subli
 
 * Attach an Arduino board to your Peppermint OS box via a [USB cable](https://www.amazon.com/dp/B001TH7GUA?tag=stevenccom-20&amp;camp=0&amp;creative=0&amp;linkCode=as4&amp;creativeASIN=B001TH7GUA&amp;adid=06HRGQC78A3T02GSA04C&amp;).
 
-Don’t have an Arduino? Get a great deal on an [Arduino at Amazon](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=Arduino&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Delectronics&linkId=LISU5PL6NIEETUSF).
+Don’t have an Arduino? Get a great deal on an Arduino at Amazon.
 
 * Connect an Arduino to complete the final steps.
 

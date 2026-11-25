@@ -22,7 +22,7 @@ On the 14th of March 2013, which just so happened to be [Pi Day][2], I decided t
 
 I chose the Maker Shed version for several reasons:
 - I'm a [Make: magazine][5] subscriber (have them all since numero uno)
-- I've added several [Make: books][6] to my library
+- I've added several Make: books to my library
 - I've purchased several [Maker Shed Arduino][7] kits
 - I've purchased several [Maker Shed Electronics Components][8] kits
 - This kit includes the "Getting Started with Raspberry Pi" book
@@ -105,7 +105,6 @@ I like the kit and even though I did spend a bit more to get into a Raspberry Pi
 [3]: http://www.raspberrypi.org/
 [4]: http://www.makershed.com/Raspberry_Pi_Starter_Kit_Includes_Raspberry_Pi_p/msrpik.htm
 [5]: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CEUQFjAA&url=http%3A%2F%2Fmakezine.com%2F&ei=cDZXUc6dEZHyyAGkrYDIBA&usg=AFQjCNFtuDFXM3N7cr-MTO3ssIztJa_qeQ&sig2=_Gkhc2X_yYg1GSEqEOoq8Q&bvm=bv.44442042,d.aWc
-[6]: http://www.amazon.com/s/?_encoding=UTF8&bbn=283155&camp=1789&creative=390957&keywords=%26%2334%3BMake%3A%20Projects%26%2334%3B&linkCode=ur2&qid=1364670236&rh=n%3A283155%2Ck%3A%26%2334%3BMake%3A%20Projects%26%2334%3B%2Cp_lbr_books_series_browse-bin%3AMake&rnid=3275128011&tag=stevenccom-20
 [7]: http://www.makershed.com/Arduino_Boards_Shields_and_Accessories_s/232.htm
 [8]: http://www.makershed.com/Make_Electronics_Components_Pack_2a_p/mecp2.htm
 [9]: http://en.wikipedia.org/wiki/Heathkit

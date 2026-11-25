@@ -79,7 +79,7 @@ None as of 2022-03-19.
 Below are the links I mention in this blog post and companion video. All Amazon links are affiliate links. I’d like to thank everyone for your support of the blog and the YouTube channel by starting your purchases here!
 
 1. [MEGA65](https://www.mega65.org)
-2. [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
+2. [Hyperkin Ranger Controller](https://link.amazon/B0fysS6Ec)
 3. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 4. [Hybernated I for MEGA65](https://www.polyplay.xyz/Hibernated-1-Directors-Cut-MEGA65_1)
 
@@ -89,7 +89,7 @@ I unbox three items purchased from AliExpress and I'm likely never to purchase f
 
 1. $10 [HDMI Capture Device](https://amzn.to/3JsfmYL) - To use with OBS studio but these work to capture the MEGA65.
 2. $26 [Vacuum Solder Sucker](https://amzn.to/3qfbmDl) - I'm afraid to plug it in. I'll let you know how it goes.
-3. $8 [Solder Fan](https://amzn.to/3ICp6yt) - but looks like a PC fan with a USB-C connection.
+3. $8 Solder Fan - but looks like a PC fan with a USB-C connection.
 
 ## B-Side Commodore C64 Demos and Games Continued
 

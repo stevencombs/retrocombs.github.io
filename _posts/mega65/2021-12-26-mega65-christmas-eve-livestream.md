@@ -74,7 +74,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 3. [MEGA65 Mini Box Art](https://files.mega65.org/html/filedetail.php?id=e1dfd237-cc9f-411f-be15-dbe7c2dfd40a)
 4. [YoloBox Pro](https://amzn.to/3z7FTGj)
 5. GitHub - MEGA65/mega65-release-prep: Preparations for MEGA65 final release
-6. [Hyperkin Trooper Joystick](https://amzn.to/3yZkdw1)
+6. [Hyperkin Trooper Joystick](https://amzn.to/3l1CHXj)
 7. [Competition Pro Joystick](https://ebay.us/ETPFaq)
 8. [Install the MEGA65 on a Nexys4 or A7 FPGA \| Build your own MEGA65!](/mega65-nexys4)
 9. [Patch the Original Commodore 65 ROM for the MEGA65, Xemu, Dev Kit, or Nexys4](/patch-c65-rom)

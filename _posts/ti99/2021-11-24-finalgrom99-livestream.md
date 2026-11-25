@@ -67,7 +67,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 3. [FG99: FinalGROM 99 for the Texas Instruments 99/4a – The Brewing Academy](https://thebrewingacademy.com/products/texas-instruments-finalgrom-99)
 4. [FR99: FlashROM 99 Cartridge for the Texas Instruments 99/4a – The Brewing Academy](https://thebrewingacademy.com/collections/ti-99-4a/products/texas-instruments-99-4a-flashrom-99)
 4. [TBA's 8 gb SD card for FinalGROM99 (FG99) TI 99/4a – The Brewing Academy](https://thebrewingacademy.com/collections/sd-cards/products/ti-99-4a-card-with-110-files)
-5. [Inexpensive 4 Gb SD Cards](https://amzn.to/3DJxDxp)
+5. Inexpensive 4 Gb SD Cards
 6. [Index of /Cartridges/FinalGROM99](http://ftp.whtech.com/Cartridges/FinalGROM99/)
 7. [TBA's TI 99/4A 32K Sidecar Memory Expansion Card with case – The Brewing Academy](https://thebrewingacademy.com/collections/ti-99-4a/products/ti-99-4a-32k-external-expansion)
 

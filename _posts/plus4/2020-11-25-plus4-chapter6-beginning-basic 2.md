@@ -117,7 +117,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 3. [Pi1541 Assembly and First Use](/pi1541-1)
 4. [ Project](https://mega65.org/)
 4. [ Dev Kit](https://shop.trenz-electronic.de/en/Products/MEGA65/)
-5. [TheVIC20 - U.S. Listing](https://amzn.to/3l85VRh)
+5. TheVIC20 - U.S. Listing
 6. [THEVIC20 - U.K. Listing](https://amzn.to/3CA7anp)
 
 ## Key to Keys

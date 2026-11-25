@@ -82,7 +82,7 @@ Below are the links you need to add a Pi Zero accelerator to your ZX Spectrum Ne
 
 ### Tools and Accessories {#tools-and-accessories}
 
-- 🍓 Raspberry Pi Zero: <https://link.amazon/B08dJC1RB>
+- 🍓 Raspberry Pi Zero: <https://link.amazon/B0h8gvupK>
 - 🔍 NOEVSBIG Magnetic Helping Hands with 3X LED Magnifier: <https://link.amazon/B0fvlZomx>
 - 🔥 YIHUA 853D 2A USB Soldering and Hot Air Rework Station: <https://link.amazon/B08TtUhG0>
 - 🧠 microSD Cards: <https://amzn.to/3IYL3Kn>

@@ -45,12 +45,12 @@ I called the AdaFruit MacroPad the MagTag at one point. That is another device t
 
 ## Links Mentioned in this Episode:
 
-Below are the links I mention in the video. All [Amazon links](https://amzn.to/3miWvVK) are affiliate links. Thanks for supporting the blog and the YouTube channel!
+Below are the links I mention in the video. All Amazon links are affiliate links. Thanks for supporting the blog and the YouTube channel!
 
 1. [TI Joystick Adapter from TexElec](https://texelec.com/product/ti-994a-to-atari-2600-joystick-adapter/)
 2. [FlashROM 99 from the Brewing Academy](https://thebrewingacademy.com/collections/ti-99-4a/products/texas-instruments-99-4a-flashrom-99)
 3. [TIPI from the Brewing Academy - The Whole Enchilada](https://thebrewingacademy.com/collections/ti-99-4a/products/tipi-ti-raspberry-pi-interface-for-the-ti-99-4a?variant=31641974734950)
-4. [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
+4. [Hyperkin Ranger Controller](https://link.amazon/B0fysS6Ec)
 5. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 6. [retroCombs Supporters Page](/supporters)
 
@@ -63,7 +63,7 @@ Below are additional thoughts from and after the livestream.
 1. I had issues using the [AdaFruit MacroPad](/adabox-019) to switch OBS Studio screens during the livestream. I need more practice to make it seamless and I'm sure this will come with time.
 2. I love the new [IPEVO Document Camera](/ipevo-vz-r)! The autofocus is impressive and the on base controls make zooms and other adjustments easy.
 3. For reasons unknown to me, my capture device for the TI computer would sometimes lose audio and I had to switch to another source and back again to get the audio to play during the livestream. I'll work with it but at least I know how to quickly correct the issue.
-4. I tried the [Hyperkin Ranger](https://amzn.to/3orPuEv) again on the TI and it would not work. The competition pro worked with every game that supported a joystick. It is odd. I love the Ranger and it works with my MEGA65, [Commodore Plus/4](/plus4) (with adapter), and Commodore 128. I'll give the Trooper a try later, but I suspect the Ranger has a compatibility issue because of the built-in paddle controller.
+4. I tried the [Hyperkin Ranger](https://link.amazon/B0fysS6Ec) again on the TI and it would not work. The competition pro worked with every game that supported a joystick. It is odd. I love the Ranger and it works with my MEGA65, [Commodore Plus/4](/plus4) (with adapter), and Commodore 128. I'll give the Trooper a try later, but I suspect the Ranger has a compatibility issue because of the built-in paddle controller.
 
 ### Content Comments
 

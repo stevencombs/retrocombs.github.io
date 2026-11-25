@@ -76,15 +76,15 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 
 1. [MEGA65](https://www.mega65.org)
 1. [Mastering the Commodore 64](https://amzn.to/3s4GKpe)
-2. [Back Into the Storm](https://amzn.to/3I9MVhl)
+2. [Back Into the Storm](https://amzn.to/4lq0RGR)
 3. [USB C Tester, 3 in 1 Type C DC5.5 USB Tester USB Load Color Screen IPS Digital Multimeter,Voltage,Current,Power,Resistance,Capacity Detector,with Clip Cable Support](https://amzn.to/35gQqnT)
-4. [Hyperkin Joystick](https://amzn.to/3t73PXX)
+4. Hyperkin Joystick
 
 ## retroCombs Library Updates
 
-The first new book to the library is [Mastering the Commodore 64](https://amzn.to/3s4GKpe) by Mark Greenshields. Published in 2020, this book is a reprint of the 1983 version. Printed on cheap paper, but packed with great information, I recommend this as a [Kindle](https://amzn.to/3JyOYvU) purchase. Huge thanks to "The Lovely Accountant" for taking the time to figure out I don't have this one in my library and giving as a gift on my birthday. She listens to me!
+The first new book to the library is [Mastering the Commodore 64](https://amzn.to/3s4GKpe) by Mark Greenshields. Published in 2020, this book is a reprint of the 1983 version. Printed on cheap paper, but packed with great information, I recommend this as a Kindle purchase. Huge thanks to "The Lovely Accountant" for taking the time to figure out I don't have this one in my library and giving as a gift on my birthday. She listens to me!
 
-The next book was not brand new, but one I finally finished the past couple of weeks; [Back Into the Storm](https://amzn.to/3I9MVhl) by Bil Herd. As I mention in the video, this is a recommended read that captures Bil's stream of thoughts as he remembers his days at Commodore in the early 1980s. Fun, informative, and insightful for those interested in Commodore during the days of the C128 and Plus/4.
+The next book was not brand new, but one I finally finished the past couple of weeks; [Back Into the Storm](https://amzn.to/4lq0RGR) by Bil Herd. As I mention in the video, this is a recommended read that captures Bil's stream of thoughts as he remembers his days at Commodore in the early 1980s. Fun, informative, and insightful for those interested in Commodore during the days of the C128 and Plus/4.
 
 ## Device Unboxing
 

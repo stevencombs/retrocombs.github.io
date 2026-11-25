@@ -39,7 +39,7 @@ quick_picks:
 
 {% include quick-picks.html items=page.quick_picks %}
 
-In a [previous blog post](/cloner-alliance-box-pro), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
+In a [previous blog post](/cloner-alliance-box-pro), I shared my YouTube OPEN THE BOX video on the [Cloner Alliance Box Pro (#ad)](https://amzn.to/4qAOn3A). After posting that video, several readers and YouTube watchers (well a couple anyway) asked if I planned a follow-up usage video. I was torn, but decided to give it a try.
 
 {% include review-box.html
    score="4"
@@ -139,4 +139,4 @@ In the meantime, I will continue to push the capabilities of the Cloner Alliance
 
 Am I 100% happy with my purchase? Not quite 100%, but because of the way I plan to use the device, my level of satisfaction is definitely in the mid to high 80%. That percentage could rise as I continue to use the device. Time will tell.
 
-I hope you enjoyed these extra thoughts about the [Cloner Alliance Box Pro (#ad)](https://amzn.to/2UMUOCd). Drop me a comment below to let me know. I'd love to hear from folks who use it in creative ways and with OSB Studio on Windows computers (since I don't have one in the house).
+I hope you enjoyed these extra thoughts about the [Cloner Alliance Box Pro (#ad)](https://amzn.to/4qAOn3A). Drop me a comment below to let me know. I'd love to hear from folks who use it in creative ways and with OSB Studio on Windows computers (since I don't have one in the house).

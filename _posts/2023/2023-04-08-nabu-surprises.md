@@ -77,9 +77,9 @@ None as of 2023-03-04.
 I use affiliate links. Thanks for your support of the blog and the YouTube channel when you use these lS inks.
 
 • [Buy a NABU on eBAY](https://ebay.us/PaU0QZ)
-• [Wimaxit 8" HDMI/VGA/AV Monitor](https://amzn.to/3UiH9RD)
-• [Hyperkin RetroN 77](https://amzn.to/3PATzAA)
-• [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
+• [Wimaxit 8" HDMI/VGA/AV Monitor](https://link.amazon/B0gioeh1N)
+• [Hyperkin RetroN 77](https://link.amazon/B08HHfZwY)
+• [Hyperkin Ranger Controller](https://link.amazon/B0fysS6Ec)
 • [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 • [The NABU RetroNET](https://nabu.ca/)
 • [NABU Network](https://www.nabunetwork.com/)
@@ -103,7 +103,7 @@ The keyboard key action is a welcome surprise. In a word, the keyboard feels "ou
 ## 3. Standard 9 pin DIN joystick connectors
 I'll admit, when I heard the NABU was a cable company contraption, I assumed everything would be proprietary; including connectors. DJ Sures uses a NABU joystick (I need to find me one of these) in his videos and I assumed, because of its unique flight stick appearance, that the connector on the other end was proprietary.
 
-To my surprise, the back of the keyboard includes the two DB-9 connectors. The same connectors found on Atari, TI, and Commodore computers. My [Hyperkin Trooper](https://amzn.to/3l1CHXj) and [Competition Pro](https://ebay.us/omzmAF) joysticks work perfectly with the NABU. I've not tried the [Hyperkin Ranger Paddle Controller](https://amzn.to/3orPuEv), but nothing leads me to believe it won't work except for paddle support in the software. I'll have to check the NABU network to determine if there are any paddle controller games.
+To my surprise, the back of the keyboard includes the two DB-9 connectors. The same connectors found on Atari, TI, and Commodore computers. My [Hyperkin Trooper](https://amzn.to/3l1CHXj) and [Competition Pro](https://ebay.us/omzmAF) joysticks work perfectly with the NABU. I've not tried the [Hyperkin Ranger Paddle Controller](https://link.amazon/B0fysS6Ec), but nothing leads me to believe it won't work except for paddle support in the software. I'll have to check the NABU network to determine if there are any paddle controller games.
 
 ## 4. The NABU Network is LIVE (KINDA)
 The NABU network is critical to the operation of the NABU personal computer. Last year, when boxes of NABUs first appeared, the only reason anyone would want one was for their historic value. Unbox it, turn it on, and the only thing the NABU could do is display a logo followed by an *adapter failure* message. 
@@ -175,7 +175,7 @@ Cost is the most surprising entry on my list. The retro-computing hobby is expen
 
 Or you can purchase a [prebuilt Arcade Shopper cable](https://www.arcadeshopper.com/wp/store/#!/NABU-DIN5-RJ45-cable-with-DB9-adapter-for-RS422-connection-to-Nabu/p/530710449/category=144933272)
 
-All in, you won't spend more than $150! That's a lot of retro-computing goodness and fun. I'm calling this the best $150 or less you'll spend on a retro computing system this year. When you compare to a [THEC64](https://amzn.to/41YpBxE) or a [THEA500 Mini](https://amzn.to/3ygCbL4), this purchase is a steal! [Grab one now](https://ebay.us/PaU0QZ).
+All in, you won't spend more than $150! That's a lot of retro-computing goodness and fun. I'm calling this the best $150 or less you'll spend on a retro computing system this year. When you compare to a [THEC64](https://link.amazon/B0i8BtTtm) or a [THEA500 Mini](https://amzn.to/3OVxJuD), this purchase is a steal! [Grab one now](https://ebay.us/PaU0QZ).
 
 ## Bonus: The Community
 There are many NABU owners in the growing community and you can check [out NABU serial numbers](https://www.nabunetwork.com/serial-number-tracker/usa/) to see if you know anyone. As followers know, I'm fond of the MEGA65 community. They are a generous bunch of folks with low drama. I'm new to the NABU community and can't yet vouch for its health. There's been some drama lately and I'm keeping my fingers crossed that all involve will figure it out. What I can tell you is that within that community, I've found helpful folks who have joined my livestream chats and made comments on my videos to help me solve problems. You can check out there comments on [my NABU YouTube playlist.](https://youtube.com/playlist?list=PLRVBh2hjFTon187Seay6ckuaAra5ZZPwq)

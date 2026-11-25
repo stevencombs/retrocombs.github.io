@@ -44,7 +44,7 @@ Below are the links I mention in this blog post and companion video. All Amazon 
 3. [Install a MEGA65 Bitstream on Nexys A7 FPGA: the Livestream](/mega65-nexys4-livestream)
 4. [Run a MEGA65 on your Mac using Xemu](/xemu-on-mac)
 5. [MEGA65 Book](https://files.mega65.org?id=d668168c-1fef-4560-a530-77e9e237536d)
-5. [Hyperkin Ranger Controller](https://amzn.to/3orPuEv)
+5. [Hyperkin Ranger Controller](https://link.amazon/B0fysS6Ec)
 6. [Hyperkin Trooper Controller](https://amzn.to/3l1CHXj)
 7. [MEGA65 File Host](https://files.mega65.org)
 8. [MEGA65 Discord](http://www.mega65.org/chat)

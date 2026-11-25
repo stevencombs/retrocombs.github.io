@@ -24,7 +24,7 @@ In each case, I list the normal price of the item. As is the case this time of y
 
 **[Airport Express][0386-005]**, $89 - Having a small Wi-Fi router when you travel can be a lifesaver and this particular router also includes AirPlay. Simply connect a set of powered speakers and you can stream music from your iOS device or Mac to these speakers while connected to the same network. You can also use this router to extend the range of your current wireless router. Also includes a USB port so you can connect your printer wirelessly to your network.
 
-**{UPDATE: 2014-12-01} [Amazon Fire Basics Lightning Cables][0386-032]**, $10-$15 - Apple charges entirely too much for their Lightning Cables and have one size, 3 feet. Amazon, through their AmazonBasics line, has cables from 3 inches to 6 feet and in both black and white. All are Apple certified and come with Amazon’s amazing warranty and return services. Don’t waste your time on expensive or knock-off cables. These are exactly what you need for your iOS devices.
+**{UPDATE: 2014-12-01} Amazon Fire Basics Lightning Cables**, $10-$15 - Apple charges entirely too much for their Lightning Cables and have one size, 3 feet. Amazon, through their AmazonBasics line, has cables from 3 inches to 6 feet and in both black and white. All are Apple certified and come with Amazon’s amazing warranty and return services. Don’t waste your time on expensive or knock-off cables. These are exactly what you need for your iOS devices.
 
 **[Amazon Fire TV][0386-006]**, $99 - I’ve tried them all: Apple TV, Roku, Chromecast and the Amazon Fire TV is my favorite media box connected to our HDTV. It’s faster than the others and includes all the Internet streaming services I use. Add an [Amazon Fire Game Controller][0386-007], $40, and play Android games on your HDTV. Buy the [Amazon Fire TV Gamers Bundle][0386-008], $124, and save more money on the Fire TV and the game controller. Save even more money and opt for the [Amazon Fire Stick][0386-009] at $39. It’s smaller and not quite as powerful. You will sacrifice some gaming options, but it’s a great starter device for those of you that picked up [Amazon Prime][0386-010] recently and want to watch all the great programming included with your subscription on your HDTV.
 
@@ -65,7 +65,7 @@ That’s my gadget list for 2014. There are many more devices I use; however, I 
 [0386-011]: http://www.amazon.com/gp/product/B00BT0NDB8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BT0NDB8&linkCode=as2&tag=stevenccom-20
 [0386-012]: http://www.arduino.cc/
 [0386-013]: http://www.amazon.com/gp/product/B006H06TVG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006H06TVG&linkCode=as2&tag=stevenccom-20
-[0386-014]: http://www.amazon.com/gp/product/B00DR0PDNE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DR0PDNE&linkCode=as2&tag=stevenccom-20
+[0386-014]: https://amzn.to/4dYemgn
 [0386-015]: http://www.amazon.com/gp/product/B00DQEB1V4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DQEB1V4&linkCode=as2&tag=stevenccom-20
 [0386-016]: https://itunes.apple.com/us/app/evernote/id281796108?mt=8&uo=4&at=10l9vL
 [0386-017]: https://itunes.apple.com/us/app/penultimate/id354098826?mt=8&uo=4&at=10l9vL
@@ -83,4 +83,3 @@ That’s my gadget list for 2014. There are many more devices I use; however, I 
 [0386-029]: http://www.amazon.com/gp/product/B007XOQI4S/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007XOQI4S&linkCode=as2&tag=stevenccom-20
 [0386-030]: https://itunes.apple.com/us/app/white-noise/id289894882?mt=8&uo=4&at=10l9vL
 [0386-031]: https://www.amazon.com/ZAGG-Backlit-Bluetooth-Keyboard-Air-Black/dp/B00EXPSEFQ/ref=as_sl_pc_ss_til?tag=stevenccom-20&linkCode=w01&linkId=UX2XXZSGR6VZ4MFD&creativeASIN=B00EXPSEFQ
-[0386-032]: http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=amazonbasics%20lightning%20cable&linkCode=ur2&tag=stevenccom-20&url=search-alias%3Daps&linkId=4ZAH4VTPJRQSZDMX

@@ -49,7 +49,7 @@ Watch the video below and then read afterward for my additional thoughts on this
 Below are the links (#ad) mentioned in the video:
 
 1. [Wyze Vacuum](https://amzn.to/3fm1liV)
-1. [My Previous "SMART" Vacuum by Eufy](https://amzn.to/3qstLJS)
+1. My Previous "SMART" Vacuum by Eufy
 2. [Wyze Cam Outdoor Wireless](/wyze-cam-outdoor)
 3. [My Wyze Playlist](https://www.youtube.com/playlist?list=PLRVBh2hjFTokf2amubNe1PZpzac3TUHwi)
 
@@ -69,8 +69,8 @@ My final thoughts are often a numbered list. Here's the list for the Wyze Vacuum
 1. This vacuum is just now becoming available for purchase and is only available from Wyze directly. It is probably a few months from being available from Amazon. When it is, I'll update this post with new links. I know how my readers and watchers like to support the site! 😄
 2. I was initially worried about the height of the LIDAR tower. Would the vacuum fit under furniture? For our home, it works. Unlike our previous Eufy, this robot never got stuck. That's likely a feature of the more robust series of sensors.
 3. In the video I use the standard suction level (or as I like to call it, a moderate version of suck). I have to assume that setting the suction level higher will result is faster battery drain. As it stands, battery life is good for our first floor (roughly 1500 ft²). Based on what I know so far, I believe the vacuum can use the highest level of suction and complete our entire upstairs. I'll try that soon and hopefully remember to update this post.
-4. In the video, I don't spend time describing my previous "smart" vacuum, the [Eufy](https://amzn.to/3qstLJS). This vacuum does not include any smarts beyond bump and go. No Bluetooth, no Wi-Fi, and no app. It does include a remote control with return home, scheduled cleaning, manual mode, and area functions. Suction is good, but as I found, not as good as the Wyze. We plan to keep this vacuum in the litter box area where I cat hangs out and put it on a regular schedule.
-5. When I purchased the Eufy, the cost was around $150, so about $100 less than I suggest in the video; however, the Eufy isn't as technologically sophisticated as the Wyze. If you want to save $100, however, I do recommend the [Eufy](https://amzn.to/3qstLJS).
+4. In the video, I don't spend time describing my previous "smart" vacuum, the Eufy. This vacuum does not include any smarts beyond bump and go. No Bluetooth, no Wi-Fi, and no app. It does include a remote control with return home, scheduled cleaning, manual mode, and area functions. Suction is good, but as I found, not as good as the Wyze. We plan to keep this vacuum in the litter box area where I cat hangs out and put it on a regular schedule.
+5. When I purchased the Eufy, the cost was around $150, so about $100 less than I suggest in the video; however, the Eufy isn't as technologically sophisticated as the Wyze. If you want to save $100, however, I do recommend the Eufy.
 6. **[2021-03-28:]** It is rare that The Lovely Accountant likes my love of smart gadgets, however, the Wyze Smart Vacuum is TLA approved. Her favorite feature is also the mapping and the virtual walls.
 
 That's it for now. I do update and timestamp posts as I receive questions and post updates. Check back later and make sure you add this site to your [RSS feeds](/feed.xml).

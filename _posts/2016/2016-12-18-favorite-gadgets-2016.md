@@ -98,7 +98,7 @@ We watch premium cable channels via [Playstation Vue][41]; however, for local ch
 ## Sonos Play:1 and 3
 These stand alone speakers, with outstanding sound, stream "all the world's music" at the same time in multiple rooms. With apps available on almost any devices, you can play purchased music and stream from almost any online service. Appreciation for Sonos comes when you have more than one; but be careful, when you have one, you want more so you can fill your home with music.
 
-[Get a Sonos][45] - $149.99 and up
+Get a Sonos - $149.99 and up
 
 # Physical Computing
 Makers rejoice! This year saw the release of three very exciting physical computing devices. One is an upgrade to a very popular all-in-one computer board and two others come from a new Kickstarter startup.
@@ -106,7 +106,7 @@ Makers rejoice! This year saw the release of three very exciting physical comput
 ## Raspberry Pi 3
 The Raspberry Pi is a staple of the maker community and this past year the Pi received a faster processor, more RAM and integrated Wi-Fi and Bluetooth. It retains the general purpose input/output (GPIO) pins so the board can still interface with devices such as LEDs, motors and sensors. The Raspberry Pi 3 is powerful enough to serve as a viable desktop computer. There's even an upgrade to the Raspberry Pi's Debian based operating system (OS), Pixel (no, not the Google Pixel mobile phone), that includes the open source version of the Chrome browser, Chromium, making the new Raspberry Pi 3 a worthy cloud computing device.
 
-[Get the Raspberry Pi 3][46] - $39.95
+Get the Raspberry Pi 3 - $39.95
 
 ## C.H.I.P.
 Kickstarter startup, [Next Thing Co.][47], entered the physical computing space this year with their new $9 C.H.I.P. computer. That's right, for $9, Next Thing Co. was able create a competitor to the Raspberry Pi 3 that includes; 1GHz processor, 512Mb RAM, 4GB on board storage (no SD card required, like the Raspberry Pi), Wi-Fi, Bluetooth and GPIO pins. All of this comes on a board half the size of the Raspberry Pi. The Linux Debian based C.H.I.P. OS includes the Pico 8 game development environment and access to Minecraft. While not as powerful as the Raspberry Pi 3, the C.H.I.P. is an amazing piece of technology for makers, budding programmers, beginning Linux server administrators, and anyone in need of an inexpensive computer for rudimentary computing tasks.
@@ -133,7 +133,7 @@ The WeMo Switch Smart Plug is one of the simplest and inexpensive ways to build 
 ## Hue Bulb Starter Kit
 A bit more complicated than the WeMo suggestion above, but far more sophisticated, is the Hue Bulb Starter Kit. Unlike the WeMo, that will convert a normal lamp and bulb into a smart device, the Hue Bulb Starter Kit uses smart bulbs that screw into existing lamps. Connect the hub to your home router to connect the Hue devices to a home network. Because this system uses bulbs, rather than outlet adapters, it's a more streamline solution. Hue provides white bulbs as well as bulbs that can change color (a whole lot of fun during the holidays).
 
-[Get the Hue Bulb Starter Kit][58]
+Get the Hue Bulb Starter Kit
 
 ## GE Link Smart LED Light Bulb
 If you own a Philips Hue system, save money and purchase the GE Smart White LED Bulbs. They are compatible with the Philips Hue system and will save you a bundle if you want to add white lights to your home automation system.
@@ -209,8 +209,6 @@ There you have it; my favorite gadgets of 2016. There were many gadgets released
 [42]:	http://amzn.to/2hJ4nR5
 [43]:	http://amzn.to/2hVWtEt
 [44]:	http://amzn.to/2hW97mE
-[45]:	http://amzn.to/2hTEsGD
-[46]:	http://amzn.to/2i3kyFf
 [47]:	https://web.archive.org/web/20180422053938/http://www.nextthing.co/
 [48]:	https://web.archive.org/web/20170212065801/https://nextthing.co/pages/store
 [49]:	https://web.archive.org/web/20180919072325/https://bbs.nextthing.co/
@@ -222,7 +220,6 @@ There you have it; my favorite gadgets of 2016. There were many gadgets released
 [55]:	http://amzn.to/2i3QyZY
 [56]:	http://amzn.to/2hNXBXc
 [57]:	http://amzn.to/2gDVJlF
-[58]:	http://amzn.to/2gDVcAr
 [59]:	http://amzn.to/2epDo79
 [60]:	http://amzn.to/2gWebnS
 [61]:	http://amzn.to/2hJcHjv
