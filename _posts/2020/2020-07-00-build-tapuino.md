@@ -31,7 +31,7 @@ What's a Tapuino, you ask? It's a cool Arduino-based replacement for the [Commod
 
 >  While this post focuses on the Tapuino for a Commodore Plus/4, this build will work with a C16 or other series [Commodore computer](https://www.c64-wiki.com/wiki/Commodore-264_series). If you want to use the Tapuino with a VIC-20, C64, or C128, replace the 7 pin DIN connector with this [C2N Power Adapter](http://store.go4retro.com/c2n-power/).
 
-Sweetlilmre's wrote his original blog post in 2015 and things have changed. His build uses [veroboard](https://amzn.to/3998Fta) to assemble and connect the Tapuino components. I use a breadboard. Later, I move my working Tapuino project to a "solderable" breadboard and create a custom 3D printed case.
+Sweetlilmre's wrote his original blog post in 2015 and things have changed. His build uses veroboard to assemble and connect the Tapuino components. I use a breadboard. Later, I move my working Tapuino project to a "solderable" breadboard and create a custom 3D printed case.
 
 This post, and the companion video, includes updates to build materials, layout, imagery, parts sourcing, and processes. Before you read this blog post, watch the video below. It shares my construction process and first use of the Tapuino.
 

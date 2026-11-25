@@ -79,7 +79,7 @@ Below is the list (#ad) of items for this project:
 
 [RetroFlag GPi Case](https://amzn.to/2WAKn5q)
 [Raspberry Pi Zero W](https://amzn.to/2Wy181a)
-[32Gb MicroSD Card](https://amzn.to/3dqdVJQ)
+32Gb MicroSD Card
 [Super RetroPie Image](https://mega.nz/folder/Ai5inYJa#mR2BXoPX9jnVCn42jqRjIQ)
 [Belana Etcher](https://www.etcher.io)
 
