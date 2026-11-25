@@ -24,6 +24,7 @@ image:
   height: 720
   alt: 'Clockwork Pi DevTerm A06 parts on their plastic sprues next to the assembled DevTerm'
 kind: first-look
+rating: 4.5
 ---
 
 DHL dropped a little package at my door: a Clockwork Pi DevTerm A06. I've been a fan of handheld computers since the early days of the Apple Newton, Windows CE, and Palm. The DevTerm reaches back even further, to the TRS-80 Model 100.
@@ -31,6 +32,12 @@ DHL dropped a little package at my door: a Clockwork Pi DevTerm A06. I've been a
 Clockwork Pi provided this unit to the channel for free. Thank you! I'm under no obligation, they didn't ask me to say anything in particular, and these thoughts are my own.
 
 This post is the text companion to my video. It covers the specs, what's in the box, how the model-kit assembly goes, the LCD problem I hit on first boot and how I hacked around it, and my first impressions. This is a first look, not a review. Let's dig in!
+
+{% include review-box.html
+   score="4.5"
+   summary="One of the coolest little devices you can get if you're into handheld terminals, and one you can actually get work done on."
+   product="Clockwork Pi DevTerm A06"
+   channel="retrocombs" %}
 
 ![Clockwork Pi DevTerm A06 parts on their plastic sprues next to the assembled DevTerm](/images/posts/2026-11-13-clockwork-devterm-a06-first-look.jpg)
 

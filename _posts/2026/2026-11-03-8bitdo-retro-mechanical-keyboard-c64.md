@@ -24,11 +24,18 @@ image:
   height: 720
   alt: '8BitDo Retro Mechanical Keyboard C64 Edition with its joystick and two red buttons'
 kind: first-look
+rating: 4.5
 ---
 
 This is the [8BitDo Retro Mechanical Keyboard C64 Edition](https://amzn.to/47U88dL), and I love this thing. It blends that iconic Commodore 64 design with a modern mechanical keyboard and adds a few surprises, including a joystick and two big red buttons.
 
 This post is the text companion to my short video on retroCombs Tech (@retroCombs-tech). It covers the features, the connection options, how I set it up on my Mac, the joystick, the battery, and the colors. Let's dig in!
+
+{% include review-box.html
+   score="4.5"
+   summary="I love this thing: it blends iconic Commodore 64 design with a modern mechanical keyboard, and at this price point it's hard to beat."
+   product="8BitDo Retro Mechanical Keyboard C64 Edition"
+   channel="tech" %}
 
 ![8BitDo Retro Mechanical Keyboard C64 Edition with its joystick and two red buttons](/images/posts/2026-11-03-8bitdo-retro-mechanical-keyboard-c64.jpg)
 

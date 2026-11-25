@@ -28,13 +28,18 @@ image:
   height: 720
   alt: 'Atari Edition Super Pocket handheld showing Atari Classics 50 in 1'
 kind: first-look
+rating: 4
 ---
 
 Remember that satisfying clunk of an Atari cartridge going into the slot? The [Atari Edition Super Pocket](https://link.amazon/B0cOXWWhR) from Hyper Mega Tech promises to bring that feeling back to the palm of your hand. It ships with 50 Atari games built in, from the arcade, the 2600, the 5200, the 7800 and the Lynx, and it has a slot for [Evercade cartridges](https://link.amazon/B0esnqj6V). I wanted to know one thing: can a handheld with Atari on the front play Commodore 64 and Intellivision games?
 
-{% include review-channel.html channel="tech" %}
-
 This post is the text companion to my video on retroCombs Tech (@retroCombs-tech). It covers what's in the box, the hardware, the menus, two built-in games, and two Evercade cartridges. This is a first look, not a full review. Let's dig in!
+
+{% include review-box.html
+   score="4"
+   summary="It does what it promises: 50 Atari games, simple menus, save states, and an Evercade slot, though the TrimUI Brick has more power and plays more systems."
+   product="Atari Edition Super Pocket"
+   channel="tech" %}
 
 ![Atari Edition Super Pocket handheld showing Atari Classics 50 in 1](/images/posts/2026-11-28-atari-super-pocket-evercade.jpg)
 

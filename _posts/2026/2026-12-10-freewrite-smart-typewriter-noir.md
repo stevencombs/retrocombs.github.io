@@ -26,13 +26,18 @@ image:
   height: 720
   alt: 'retroCombs in a fedora behind the Freewrite Smart Typewriter, film noir style'
 kind: first-look
+rating: 4
 ---
 
 It was an early evening in December when a package arrived on my doorstep. Inside was a single-purpose machine with a promise printed right on the box: Freewrite. Could a device that only lets you write help me finish a novel I've been drafting since 2017? I put on the fedora, cued the saxophone, and shot the unboxing as a film noir. This post is the case file.
 
-{% include review-channel.html channel="tech" %}
-
 This post is the text companion to my film noir Freewrite video on retroCombs Tech (@retroCombs-tech). My shorter Freewrite overview is further down, as a second opinion.
+
+{% include review-box.html
+   score="4"
+   summary="It gets words out of your head with nothing in the way, but it's pricey and a niche product that takes a little learning."
+   product="Freewrite Smart Typewriter"
+   channel="tech" %}
 
 ![retroCombs in a fedora behind the Freewrite Smart Typewriter, film noir style](/images/posts/2026-12-10-freewrite-smart-typewriter-noir.jpg)
 
