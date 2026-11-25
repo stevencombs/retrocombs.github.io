@@ -22,6 +22,11 @@ image:
   alt: 'OPEN THE BOX and FIRST USE: VictSing Wireless (USB and Bluetooth) Mouse'
 kind: review
 rating: 3
+product: "VictSing Wireless Mouse"
+brand: "VictSing"
+price: "$40"
+price_note: "under (Sep 2020)"
+review_channel: tech
 ---
 
 My trusty 2010 Microsoft Bluetooth Notebook Mouse 5000 gave up the electronic ghost this past week. Over time, the device became less trustworthy. Is ten years the life span of an electronic rodent? Not sure, but the mouse served me well until recently when the cursor began to lag and the connection to my Mac mini would drop.
