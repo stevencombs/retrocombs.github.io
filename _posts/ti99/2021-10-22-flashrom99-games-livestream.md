@@ -47,7 +47,7 @@ Below are the links I mention in the video. All Amazon links are affiliate links
 3. [The Brewing Academy](https://thebrewingacademy.com)
 3. [My TI-99/4A Purchase](/first-ti994a)
 4. [32 Kb Memory Side Car Expansion](https://thebrewingacademy.com/products/ti-99-4a-32k-external-expansion)
-5. [Inexpensive 4 Gb SD Cards](https://amzn.to/3DJxDxp)
+5. Inexpensive 4 Gb SD Cards
 6. [Blackmagic ATEM Mini](https://amzn.to/3iN4r0p)
 
 ## List of Games and Time codes
