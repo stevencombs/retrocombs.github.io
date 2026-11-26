@@ -84,7 +84,7 @@ groups:
         banner: handhelds
         blurb: Clockwork uConsole and PicoCalc, gaming handhelds, and pocket computers.
       - name: Apple
-        url: /apple.html
+        url: /apple
         categories: [apple]
         icon: /images/design/apple.svg
         banner: apple
@@ -174,14 +174,14 @@ groups:
   - name: Work & life
     items:
       - name: Higher Education
-        url: /higher-education.html
+        url: /higher-education
         categories: ["higher-education"]
         icon: /images/design/higher-education.svg
         banner: higher-education
         blurb: Campus life and academic leadership.
         chip: 6
       - name: Art
-        url: /art.html
+        url: /art
         categories: [art]
         icon: /images/design/art.svg
         banner: art
@@ -195,7 +195,7 @@ groups:
         blurb: Tools and ways of working.
         chip: 14
       - name: Presentations
-        url: /presentations.html
+        url: /presentations
         categories: [presentations]
         icon: /images/design/presentations.svg
         banner: presentations
@@ -209,7 +209,7 @@ groups:
         blurb: Books, movies, and television.
         chip: 16
       - name: Writing
-        url: /writing.html
+        url: /writing
         categories: [writing]
         icon: /images/design/writing.svg
         banner: writing

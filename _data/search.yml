@@ -16,7 +16,7 @@ topics:
   handhelds: {label: "Handhelds", url: "/handhelds"}
   retro: {label: "Retro", url: "/commodore"}
   gadgets: {label: "Gadgets", url: "/gadgets"}
-  apple: {label: "Apple", url: "/apple.html"}
+  apple: {label: "Apple", url: "/apple"}
   wyze: {label: "Wyze", url: "/wyze"}
   android: {label: "Android", url: "/android"}
   chromeos: {label: "Chrome OS", url: "/chromeos"}
@@ -32,11 +32,11 @@ topics:
   alfred: {label: "Alfred", url: "/code"}
   ham: {label: "Amateur Radio", url: "/ham"}
   3dprinting: {label: "3D Printing", url: "/3dprinting"}
-  higher-education: {label: "Higher Education", url: "/higher-education.html"}
-  art: {label: "Art", url: "/art.html"}
+  higher-education: {label: "Higher Education", url: "/higher-education"}
+  art: {label: "Art", url: "/art"}
   productivity: {label: "Productivity", url: "/productivity"}
   evernote: {label: "Evernote", url: "/productivity"}
-  presentations: {label: "Presentations", url: "/presentations.html"}
+  presentations: {label: "Presentations", url: "/presentations"}
   entertainment: {label: "Entertainment", url: "/entertainment"}
   personal: {label: "Personal", url: "/personal"}
   holiday: {label: "Holiday", url: "/blog"}
