@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'SuperBOX S8 Ultra First Look: Aluminum Case, 128GB, and a Backlit Remote'
+seo_title: 'SuperBOX S8 Ultra First Look: Aluminum & 128GB'
 date: 2026-11-27 13:15:00 -0500
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@retrocombs.com'
@@ -38,13 +39,13 @@ On the carton I read 1000 Mbps Ethernet, Wi-Fi 6, 4 GB of RAM, 128 GB of storage
 
 ![SuperBOX S8 Ultra on the bench, front display reading 04:18, with the backlit remote in the foreground](/images/posts/2026-11-27-superbox-s8-ultra.jpg)
 
-*Full disclosure: SuperBOX provided this S8 Ultra free in exchange for an honest review. SuperBOX did not see this post before publication. Links in this post are affiliate links, so I may earn a commission if you buy through them. Code retrocombs is 10% off S6, S7, and S8 models at the SuperBOX shop; confirm the discount at checkout.*
+*Disclosure Statement: SuperBOX provided this S8 Ultra free in exchange for an honest review. SuperBOX did not see this post before publication. Links in this post are affiliate links, so I may earn a commission if you buy through them. Code retrocombs is 10% off S6, S7, and S8 models at the SuperBOX shop; confirm the discount at checkout.*
 
 {% include review-box.html
    score="4"
    price="$449"
    where="list price at mysuperbox.shop (as of November 27, 2026; 10% off with code retrocombs)"
-   summary="A solid step up from the S7 Pro: aluminum case, 128GB of storage, USB-C power, and a backlit remote. Still 4GB of RAM and Android 12 with a February 2022 security patch."
+   summary="A solid step up from the S7 Pro: aluminum case, 128 GB of storage, USB-C power, and a backlit remote. Still 4 GB of RAM and Android 12 with a February 2022 security patch."
    note="First look, not a long-term living-room test. I later opened 7-day Time Shift, Multi-screen, and the Blue TV Settings list. The official 6K claim was not verified on my 4K bench."
    product="SuperBOX S8 Ultra"
    channel="tech" %}
@@ -119,23 +120,20 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 
 Title: _📺️ I Tested The Superbox S8 Ultra To See What's Different_
 
-The live YouTube title and description were updated on November 27, 2026. The description now has the SuperBOX shop link, code **retrocombs**, chapter markers, and the accessory links listed above.
-
 {% include youtube.html id="ffmh3uC2ZLM" title="📺️ I Tested The Superbox S8 Ultra To See What's Different" upload_date="2026-11-27T15:33:57Z" duration="PT34M5S" cta="false" channel="tech" %}
 
-This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.com/@retrocombs-tech?sub_confirmation=1). Tagline: Hooked on tech since '73.
+This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.com/@retroCombs-tech?sub_confirmation=1) — hooked on tech since '73.
 
 ## VIDEO ERRATA {#video-errata}
 
 As of November 27, 2026:
 
-1. **"1000 megabit" on the carton.** I described the Ethernet as a 1000 megabit (1 Gbps) port. That matches the icon on the back of the carton and the official page's 1000 Mbps Ethernet line.
-2. **Speed test wording.** While the Fast.com test was still running I said it was already up about 330 Mbps. The finished result on screen was **340 Mbps**. That line test is not the same as Blue TV's on-screen Internet Speed overlay, which showed about **1012–1114 kBps** on the live channels I photographed later, and **6788 kBps** while Time-Shifting.
-3. **6K.** The carton and official page claim H.265 decoding up to 6K. I only have 4K displays and a 4K capture path, so I could not test 6K. Leave HDMI output on Auto unless you have a display that can prove otherwise.
-4. **Android 14 wish.** In the accessibility section I said Android TV OS 12, then that "12.4" has a better accessibility set, then that I wish the Ultra were Android TV 14. I meant Android 14, not a 12.4 point release. The unit I set up was Android 12 (About showed BigdroidOS 2.0.1).
-5. **Email garbled in auto-captions.** If you have a 6K set and want to lend it for a later check, the address is steven@retrocombs.com.
-6. **Security patch after the ROM update.** After the 260910 ROM update, About showed version 1.02. The security patch I still read was February 5, 2022.
-7. **Remote model.** The YouTube description calls the remote the RC200. The unit in the box is labeled **SuperBOX RC-200L**.
+1. **Speed test wording.** While the Fast.com test was still running I said it was already up about 330 Mbps. The finished result on screen was **340 Mbps**. That line test is not the same as Blue TV's on-screen Internet Speed overlay, which showed about **1012–1114 kBps** on the live channels I photographed later, and **6788 kBps** while Time-Shifting.
+2. **6K.** The carton and official page claim H.265 decoding up to 6K. I only have 4K displays and a 4K capture path, so I could not test 6K. Leave HDMI output on Auto unless you have a display that can prove otherwise.
+3. **Android 14 wish.** In the accessibility section I said Android TV OS 12, then that "12.4" has a better accessibility set, then that I wish the Ultra were Android TV 14. I meant Android 14, not a 12.4 point release. The unit I set up was Android 12 (About showed BigdroidOS 2.0.1).
+4. **Email garbled in auto-captions.** If you have a 6K set and want to lend it for a later check, the address is steven@retrocombs.com.
+5. **Security patch after the ROM update.** After the 260910 ROM update, About showed version 1.02. The security patch still read February 5, 2022.
+6. **Remote model.** The YouTube description calls the remote the RC200. The unit in the box is labeled **SuperBOX RC-200L**.
 
 ## A NOTE ON LEGAL USE {#legal-use}
 
@@ -143,7 +141,7 @@ I say this in every one of these videos: the box by itself is not illegal. It is
 
 SuperBOX also ships its own store and its own live TV and video-on-demand apps (Blue TV and Blue VOD). That is where the questions about legality and ethical use come in. The first-boot disclaimer and the "My Store" screen put the responsibility on you. I am not a lawyer, and the rules differ by country. Let your conscience be your guide, both when you decide to buy and when you use it.
 
-On camera I follow YouTube's community guidelines: I show the Android TV OS and the hardware, and I do not walk through questionable streams. This post includes a few stills of those app screens, with the same caveat.
+On camera I follow YouTube's community guidelines: I show the Android TV OS and the hardware, and I do not walk through questionable streams. This post includes a few screenshots of those app screens, with the same caveat.
 
 > **Heads up:** Blue TV and Blue VOD are SuperBOX's own streaming apps, not licensed apps I can verify from the networks or studios whose content they may carry. I cannot verify the licensing behind them. You are responsible for what you watch. I mention them because they are part of why people buy this box, not as an endorsement.
 {: .warning}
@@ -192,7 +190,7 @@ The first display setup was a little small, about 96%. I took overscan / screen 
 
 ## THE HOME SCREEN {#home-screen}
 
-Across the top of the home screen I had Live TV, VOD (video on demand), an on-screen browser, playback for your own video files, Apps, and an app store. Further along: Settings, Folder (the file manager), a cleaner, a speed test, a microphone-style control that is really about pairing and shortcuts, and technical support (an online customer-service page). You can see that tile row in the [About](#about) and [Device Info](#about) stills below.
+Across the top of the home screen I had Live TV, VOD (video on demand), an on-screen browser, playback for your own video files, Apps, and an app store. Further along: Settings, Folder (the file manager), a cleaner, a speed test, a microphone-style control that is really about pairing and shortcuts, and technical support (an online customer-service page). You can see that tile row in the [About](#about) and [Device Info](#about) screenshots below.
 
 The 128 GB of internal storage is the practical win if you want to keep personal video on the box instead of hanging a drive off the side. There are also network paths in the file manager, which I came back to later.
 
@@ -210,12 +208,12 @@ Display and sound, the useful bits I actually changed or left as recommendations
 
 - **Text scaling** at 100% was fine
 - **Match content frame rate** set to on / Seamless
-- **HDMI output** left on Auto. The 6K mode did not appear on my 4K capture path, which is expected
-- **HDR mode** left on Auto. The box offers SDR and HDR
+- **HDMI output** left on Auto. The 6K mode did not appear on my 4K capture path, which is expected.
+- **HDR mode** left on Auto. The box offers SDR and HDR.
 - **Game mode** is there if your TV supports it
-- On this path, **HDR10** and **HLG** were enabled. **Dolby Vision** and **HDR10+** were disabled. I do not know whether that is the box or the display / capture path. I would expect those to enable on a TV that supports them, but I did not prove that
-- Audio: passthrough is available if your sound system wants the raw bitstream. Supported formats listed on screen were Dolby Digital, Digital Plus, True HD, Atmos, DTS, and DTS-HD. If you only have a stereo pair, turn surround off and let those two speakers do the work
-- **HDMI-CEC** is worth turning on. This remote can control a CEC television, and a TV remote can control the box. I also turned on TV auto power on, auto language, and auto input
+- On this path, **HDR10** and **HLG** were enabled. **Dolby Vision** and **HDR10+** were disabled. I do not know whether that is the box or the display / capture path. I would expect those to enable on a TV that supports them, but I did not prove that.
+- Audio: passthrough is available if your sound system wants the raw bitstream. Supported formats listed on screen were Dolby Digital, Digital Plus, True HD, Atmos, DTS, and DTS-HD. If you only have a stereo pair, turn surround off and let those two speakers do the work.
+- **HDMI-CEC** is worth turning on. This remote can control a CEC television, and a TV remote can control the box. I also turned on TV auto power on, auto language, and auto input.
 
 Google Assistant can be activated. In practice, that usually helps with apps you install from the Play Store. I would not count on full Google voice search inside SuperBOX's own apps. Voice search on the remote may still do something narrower.
 
@@ -234,7 +232,7 @@ About is where I confirmed the software identity of this unit:
 - Device name / model: **SuperBOX_S8Ultra**
 - Version number: **BigdroidOS 2.0.1**
 - **Android TV OS 12**
-- **Security patch: February 5, 2022.** That is old, and it is the part of these Android 12 boxes that always concerns me
+- **Security patch: February 5, 2022.** That is old, and it is the part of these Android 12 boxes that always concerns me.
 
 ![Device Info on the S8 Ultra, listing CPU model H618, 4.0 GB of memory, and 128.0 GB of storage](/images/posts/2026-11-27-superbox-s8-ultra/device-info.jpg)
 
@@ -274,7 +272,7 @@ The S8 Ultra remote is **backlit**. The number pad, OK ring, and microphone key 
 
 ![SuperBOX RC-200L remote, with the menu button being pressed and the S8 Ultra in the background](/images/posts/2026-11-27-superbox-s8-ultra/rc-200l-menu.jpg)
 
-The included remote is labeled **SuperBOX RC-200L**. The YouTube description shortens that to RC200. In this still I am pressing the menu key, just below the microphone button, with the Ultra on the desk behind it.
+The included remote is labeled **SuperBOX RC-200L**. The YouTube description shortens that to RC200. Here I am pressing the menu key, just below the microphone button, with the Ultra on the desk behind it.
 
 What it does not have are app-specific keys (no Netflix key, no Amazon key). There are color buttons instead, which I will come back to. That makes the remote a little more service-agnostic, for better or worse.
 
@@ -286,8 +284,8 @@ I like that starting point. You can treat this as a fairly clean Android TV OS b
 
 Two update apps:
 
-- **TV ROM Updater** is the over-the-air path. An update to **260910** was waiting. I installed the zip. After reboot, About showed **version 1.02**. The February 5, 2022 security patch was still what I read
-- **System Update** is for a local update package already on the device. After the OTA, that screen had nothing to install, which is the expected split between the two apps
+- **TV ROM Updater** is the over-the-air path. An update to **260910** was waiting. I installed the zip. After reboot, About showed **version 1.02**. The security patch still read February 5, 2022.
+- **System Update** is for a local update package already on the device. After the OTA, that screen had nothing to install, which is the expected split between the two apps.
 
 The boot logo is a clean SuperBOX mark. I like it. Auto-captions turned "SuperBOX" into "Super Bucks"; that was the captions, not a new brand name.
 
@@ -295,7 +293,7 @@ The boot logo is a clean SuperBOX mark. I like it. Auto-captions turned "SuperBO
 
 The SuperBOX store is separate from the Play Store. The first tile I was offered in that flow was still the Google Play Store, which I appreciate. You can also add additional APK stores. After confirming the SuperBOX store APK, the icon changed and "My Store" opened.
 
-The disclaimer, in substance, says it is an internet-connected program, that you download and install applications over the internet, and that "My Store" is not responsible for what you, the user, download. Read that screen before you continue. I left it up in the video so you could pause on it. I do not have a still of that disclaimer for this post yet.
+The disclaimer, in substance, says it is an internet-connected program, that you download and install applications over the internet, and that "My Store" is not responsible for what you, the user, download. Read that screen before you continue. I left it up in the video so you could pause on it.
 
 Tiles I noted in their store: the TV ROM updater, **Blue VOD**, **Blue TV**, **NFL**, Sport, playback, and **video recorder**. There is a Netflix tile — actually two, which these boxes often use to get around Widevine limits so you can get a higher resolution than the Play Store Netflix build. There is also a YouTube tile with the same idea, plus Downloader and APK Pure. I did not sign into or play those apps for this first look.
 
@@ -309,7 +307,7 @@ The channel list on my unit was labeled **ALL (1994)**, with category tabs acros
 
 ![Blue VOD Recommend library, with Search, Newest, Movies, TV Series, Favorite, History, and Settings in the sidebar, and a 06:49 recorder timer](/images/posts/2026-11-27-superbox-s8-ultra/blue-vod.jpg)
 
-Blue VOD is the on-demand counterpart. The sidebar has Search, Recommend, Newest, Movies, TV Series, Favorite, History, and Settings. Again, this is a still of the library, not a playing title.
+Blue VOD is the on-demand counterpart. The sidebar has Search, Recommend, Newest, Movies, TV Series, Favorite, History, and Settings. Again, this is a screenshot of the library, not a playing title.
 
 ## VIDEO RECORDER {#video-recorder}
 
@@ -317,7 +315,7 @@ The built-in recorder is one of the S8-generation features SuperBOX advertises, 
 
 On first launch it wanted a memory card. I had hoped it would use the 128 GB internal storage. It did not, at least not on that first path. I put in a **512 GB** microSD card. The recorder showed the card at about **500 GB** remaining. I started a recording, went back to the home screen and into the apps so it would capture whatever was on screen, and later played the file back from Apps > Video recorder.
 
-Playback worked. The disappointment: the on-screen **recording timer was burned into the file**. You can see that overlay in the Blue TV and Blue VOD stills above (06:08, 06:19, and 06:49). I had guessed it might be preview-only. It was not, on this recording. If there is a setting to turn that counter off, I did not find it in the video. I would want that option before I used this as a serious recorder.
+Playback worked. The disappointment: the on-screen **recording timer was burned into the file**. You can see that overlay in the Blue TV and Blue VOD screenshots above (06:08, 06:19, and 06:49). I had guessed it might be preview-only. It was not, on this recording. If there is a setting to turn that counter off, I did not find it in the video. I would want that option before I used this as a serious recorder.
 
 The official page says recordings can be saved locally and mentions plugging in USB. My first successful capture was on the SD card. ([Official recording claim](https://mysuperbox.shop/product/superbox-s8-ultra/))
 
@@ -332,7 +330,7 @@ What the keys actually did on my unit:
 - **Yellow:** nothing I could find
 - **Blue:** nothing I could find
 
-Some of those are preset. I did not find a clear remapping app during the recording, and I said I would research it and put the answer in this post. I still do not have a remapping still to show. If I find that screen later, I will add it here.
+Some of those are preset. I did not find a clear remapping app during the recording, and I said I would research it and put the answer in this post.
 
 ## TIME SHIFT, MULTI-SCREEN, AND BLUE TV SETTINGS {#blue-tv-features}
 
@@ -348,11 +346,11 @@ Time Shift on my unit showed a **seven-day** timeline. On 1 A&E, the bar ran fro
 
 ![Blue TV Multi-screen view with 4 AMC and 5 American Heroes Channel side by side](/images/posts/2026-11-27-superbox-s8-ultra/multi-screen.jpg)
 
-Multi-screen is a two-channel view I opened from Blue TV Settings. In this still, 4 AMC and 5 American Heroes Channel sit side by side with their program information.
+Multi-screen is a two-channel view I opened from Blue TV Settings. Here, 4 AMC and 5 American Heroes Channel sit side by side with their program information.
 
 ![Blue TV Settings, including Picture-in-picture, Multi-screen, Status Bar, Internet Speed, Aspect Ratio, EPG style, Resources, Feedback, and Parental Control](/images/posts/2026-11-27-superbox-s8-ultra/blue-tv-settings.jpg)
 
-The Settings list on my unit includes **Picture-in-picture**, **Multi-screen**, Status Bar, Internet Speed, Aspect Ratio, EPG style, Resources, Feedback, and **Parental Control**. I opened Multi-screen and used the Internet Speed overlay. Picture-in-picture and Parental Control are in the menu; I do not have stills of those two running.
+The Settings list on my unit includes **Picture-in-picture**, **Multi-screen**, Status Bar, Internet Speed, Aspect Ratio, EPG style, Resources, Feedback, and **Parental Control**. I opened Multi-screen and used the Internet Speed overlay.
 
 ![On-screen Internet Speed readout of 1012 kBps while American Heroes Channel was playing](/images/posts/2026-11-27-superbox-s8-ultra/internet-speed.jpg)
 
@@ -360,14 +358,14 @@ With the Internet Speed overlay visible, another channel showed **1012 kBps**.
 
 ## WHAT I DID NOT DEMONSTRATE {#not-demonstrated}
 
-A first look is not a complete feature audit. I later verified 7-day Time Shift, Multi-screen, the Internet Speed overlay, and the Blue TV Settings list, including entries for Picture-in-picture and Parental Control. I still do not have stills of Picture-in-picture or Parental Control actually running.
+A first look is not a complete feature audit. I later verified 7-day Time Shift, Multi-screen, the Internet Speed overlay, and the Blue TV Settings list, including entries for Picture-in-picture and Parental Control. I didn't capture Picture-in-picture or Parental Control in use, I don't have a screenshot of the "My Store" disclaimer, and I haven't found a color-button remapping screen.
 
 The official S8 Ultra page also lists items I have not opened:
 
 - **Backup TV**
 - **"7 free Prime apps (not official)"**
 
-Treat those as unverified shop claims. I also still do not have a still of the "My Store" disclaimer or a color-button remapping screen.
+Treat those as unverified shop claims.
 
 The official page also lists Android 12, 4 GB DDR / 128 GB eMMC, dual-band Wi-Fi 6, 1000 Mbps Ethernet, Bluetooth 5.2, USB-C power, USB 3.0, and H.265 up to 6K at 60 fps. That lines up with the carton and with what I used (Ethernet, USB-C power, the 128 GB / 4 GB Device Info screen). I did not independently measure Wi-Fi 6 or Bluetooth 5.2. The shop page lists two different GPU names in two different spec blocks, so I am not repeating a GPU here. ([Official specs](https://mysuperbox.shop/product/superbox-s8-ultra/))
 
@@ -419,7 +417,7 @@ The official page also lists Android 12, 4 GB DDR / 128 GB eMMC, dual-band Wi-Fi
 
 **Misses and limits:**
 
-- Still 4 GB of RAM. I want 8 GB
+- Still 4 GB of RAM. I want 8 GB.
 - Still Android 12, with a February 5, 2022 security patch that did not obviously move after the 260910 / 1.02 ROM update
 - 6K is a claim I cannot test
 - Color buttons are only partly assigned, and I did not find a remapping screen
