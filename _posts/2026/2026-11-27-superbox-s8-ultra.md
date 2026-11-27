@@ -45,7 +45,7 @@ On the carton I read 1000 Mbps Ethernet, Wi-Fi 6, 4 GB of RAM, 128 GB of storage
    price="$449"
    where="list price at mysuperbox.shop (as of November 27, 2026; 10% off with code retrocombs)"
    summary="A solid step up from the S7 Pro: aluminum case, 128GB of storage, USB-C power, and a backlit remote. Still 4GB of RAM and Android 12 with a February 2022 security patch."
-   note="First look, not a long-term living-room test. Official 6K, Multi View, and 7-day time-shift claims were not verified on my bench."
+   note="First look, not a long-term living-room test. I later opened 7-day Time Shift, Multi-screen, and the Blue TV Settings list. The official 6K claim was not verified on my 4K bench."
    product="SuperBOX S8 Ultra"
    channel="tech" %}
 
@@ -73,6 +73,7 @@ On the carton I read 1000 Mbps Ethernet, Wi-Fi 6, 4 GB of RAM, 128 GB of storage
 - [THE SUPERBOX APP STORE, BLUE TV, AND BLUE VOD](#superbox-apps)
 - [VIDEO RECORDER](#video-recorder)
 - [COLOR BUTTONS](#color-buttons)
+- [TIME SHIFT, MULTI-SCREEN, AND BLUE TV SETTINGS](#blue-tv-features)
 - [WHAT I DID NOT DEMONSTRATE](#not-demonstrated)
 - [TIPS AND TRICKS](#tips-and-tricks)
 - [VERDICT](#verdict)
@@ -92,8 +93,10 @@ On the carton I read 1000 Mbps Ethernet, Wi-Fi 6, 4 GB of RAM, 128 GB of storage
 
 - 🔋 AAA Batteries: <https://link.amazon/B0bbvUAlP> (two, not included)
 - 🛜 Ethernet Network Cable: <https://amzn.to/4cEJyyB>
+- ⌨️ K809 Mini Wireless Keyboard with Touchpad: <https://amzn.to/4ATykCI>
+- 🧠 microSD Cards: <https://amzn.to/3IYL3Kn> (I used a 512 GB card for the recorder)
 
-The box already includes an HDMI cable and a USB-C power supply. I powered the Ultra from a USB-C source I already had on the bench so I did not have to use the included brick. The compact keyboard I used for a Bluetooth check was a handy RC200-class USB-dongle unit, not my favorite sofa keyboard.
+The box already includes an HDMI cable and a USB-C power supply. I powered the Ultra from a USB-C source I already had on the bench so I did not have to use the included brick. The compact keyboard I used for a Bluetooth check was a handy USB-dongle unit, not my favorite sofa keyboard. The sofa keyboard I usually reach for is the [K809 Mini Wireless Keyboard with Touchpad](https://amzn.to/4ATykCI), which is also in the video description. The included remote is a different device: the SuperBOX **RC-200L**.
 
 *Disclosure Statement: When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to Amazon and the eBay Partner Network.*
 
@@ -114,11 +117,11 @@ Check out the [supporters page](/supporters) to learn about my supporters and ho
 
 ## COMPANION YOUTUBE VIDEO {#companion-youtube-video}
 
-Title: _SuperBOX S8 Ultra First Look: Aluminum Case, 128GB, and a Backlit Remote_
+Title: _📺️ I Tested The Superbox S8 Ultra To See What's Different_
 
-The embed title below is a proposed title for this first look. As of November 27, 2026, early afternoon ET, the live YouTube title was still a leftover OBSBOT Meet 2 title, and the description had not been filled in yet.
+The live YouTube title and description were updated on November 27, 2026. The description now has the SuperBOX shop link, code **retrocombs**, chapter markers, and the accessory links listed above.
 
-{% include youtube.html id="ffmh3uC2ZLM" title="SuperBOX S8 Ultra First Look: Aluminum Case, 128GB, and a Backlit Remote" upload_date="2026-11-27T15:33:57Z" duration="PT34M5S" cta="false" channel="tech" %}
+{% include youtube.html id="ffmh3uC2ZLM" title="📺️ I Tested The Superbox S8 Ultra To See What's Different" upload_date="2026-11-27T15:33:57Z" duration="PT34M5S" cta="false" channel="tech" %}
 
 This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.com/@retrocombs-tech?sub_confirmation=1). Tagline: Hooked on tech since '73.
 
@@ -126,13 +129,13 @@ This video is on my modern tech channel, [@retroCombs-tech](https://www.youtube.
 
 As of November 27, 2026:
 
-1. **YouTube title and description.** The published file is this SuperBOX S8 Ultra first look, but the live YouTube title at publish time was still the leftover OBSBOT Meet 2 title, and the description had not been filled in yet. This post uses a proposed title until that is corrected.
-2. **"1000 megabit" on the carton.** I described the Ethernet as a 1000 megabit (1 Gbps) port. That matches the icon on the back of the carton and the official page's 1000 Mbps Ethernet line.
-3. **Speed test wording.** While the Fast.com test was still running I said it was already up about 330 Mbps. The finished result on screen was **340 Mbps**.
-4. **6K.** The carton and official page claim H.265 decoding up to 6K. I only have 4K displays and a 4K capture path, so I could not test 6K. Leave HDMI output on Auto unless you have a display that can prove otherwise.
-5. **Android 14 wish.** In the accessibility section I said Android TV OS 12, then that "12.4" has a better accessibility set, then that I wish the Ultra were Android TV 14. I meant Android 14, not a 12.4 point release. The unit I set up was Android 12 (About showed BigdroidOS 2.0.1).
-6. **Email garbled in auto-captions.** If you have a 6K set and want to lend it for a later check, the address is steven@retrocombs.com.
-7. **Security patch after the ROM update.** After the 260910 ROM update, About showed version 1.02. The security patch I still read was February 5, 2022.
+1. **"1000 megabit" on the carton.** I described the Ethernet as a 1000 megabit (1 Gbps) port. That matches the icon on the back of the carton and the official page's 1000 Mbps Ethernet line.
+2. **Speed test wording.** While the Fast.com test was still running I said it was already up about 330 Mbps. The finished result on screen was **340 Mbps**. That line test is not the same as Blue TV's on-screen Internet Speed overlay, which showed about **1012–1114 kBps** on the live channels I photographed later, and **6788 kBps** while Time-Shifting.
+3. **6K.** The carton and official page claim H.265 decoding up to 6K. I only have 4K displays and a 4K capture path, so I could not test 6K. Leave HDMI output on Auto unless you have a display that can prove otherwise.
+4. **Android 14 wish.** In the accessibility section I said Android TV OS 12, then that "12.4" has a better accessibility set, then that I wish the Ultra were Android TV 14. I meant Android 14, not a 12.4 point release. The unit I set up was Android 12 (About showed BigdroidOS 2.0.1).
+5. **Email garbled in auto-captions.** If you have a 6K set and want to lend it for a later check, the address is steven@retrocombs.com.
+6. **Security patch after the ROM update.** After the 260910 ROM update, About showed version 1.02. The security patch I still read was February 5, 2022.
+7. **Remote model.** The YouTube description calls the remote the RC200. The unit in the box is labeled **SuperBOX RC-200L**.
 
 ## A NOTE ON LEGAL USE {#legal-use}
 
@@ -269,6 +272,10 @@ After pairing I no longer had to point at the box. One oddity: a microphone-styl
 
 The S8 Ultra remote is **backlit**. The number pad, OK ring, and microphone key light up, which is a real late-night quality-of-life feature. I do not believe the S7 Pro remote was backlit, and the official shop page says the Ultra is the only S8 model with a backlit remote. ([Official page](https://mysuperbox.shop/product/superbox-s8-ultra/))
 
+![SuperBOX RC-200L remote, with the menu button being pressed and the S8 Ultra in the background](/images/posts/2026-11-27-superbox-s8-ultra/rc-200l-menu.jpg)
+
+The included remote is labeled **SuperBOX RC-200L**. The YouTube description shortens that to RC200. In this still I am pressing the menu key, just below the microphone button, with the Ultra on the desk behind it.
+
 What it does not have are app-specific keys (no Netflix key, no Amazon key). There are color buttons instead, which I will come back to. That makes the remote a little more service-agnostic, for better or worse.
 
 ## INSTALLED APPS, PLAY STORE, AND THE ROM UPDATE {#apps-and-update}
@@ -327,17 +334,40 @@ What the keys actually did on my unit:
 
 Some of those are preset. I did not find a clear remapping app during the recording, and I said I would research it and put the answer in this post. I still do not have a remapping still to show. If I find that screen later, I will add it here.
 
+## TIME SHIFT, MULTI-SCREEN, AND BLUE TV SETTINGS {#blue-tv-features}
+
+After the first-look video was recorded, I went back into Blue TV and captured a few features I did not open on camera. The same legal caveat still applies. See [A note on legal use](#legal-use).
+
+![SuperBOX S8 Ultra on the desk, with a live TV overlay for 3 ABC WEST, including Channel List, Search, and Settings, and an 1114kBps readout](/images/posts/2026-11-27-superbox-s8-ultra/desk-live.jpg)
+
+With live TV running, the overlay offered Channel List, Channel Up/Down, Change the channel, Channel Search, and Settings. An Internet Speed readout in the corner showed **1114 kBps** on this channel. That overlay is a stream-rate indicator, not the same thing as the 340 Mbps Fast.com Ethernet test.
+
+![7-day Time Shift timeline on 1 A&E, dated Nov 20 through Nov 27, with Play/Pause, Exit Time Shift, Rewind, and Fast Forward](/images/posts/2026-11-27-superbox-s8-ultra/time-shift.jpg)
+
+Time Shift on my unit showed a **seven-day** timeline. On 1 A&E, the bar ran from **Nov 20** through **Nov 27**, with Play/Pause, Exit Time Shift, Rewind, and Fast Forward. While I was in that mode, the overlay also read **6788 kBps Time-Shifting**.
+
+![Blue TV Multi-screen view with 4 AMC and 5 American Heroes Channel side by side](/images/posts/2026-11-27-superbox-s8-ultra/multi-screen.jpg)
+
+Multi-screen is a two-channel view I opened from Blue TV Settings. In this still, 4 AMC and 5 American Heroes Channel sit side by side with their program information.
+
+![Blue TV Settings, including Picture-in-picture, Multi-screen, Status Bar, Internet Speed, Aspect Ratio, EPG style, Resources, Feedback, and Parental Control](/images/posts/2026-11-27-superbox-s8-ultra/blue-tv-settings.jpg)
+
+The Settings list on my unit includes **Picture-in-picture**, **Multi-screen**, Status Bar, Internet Speed, Aspect Ratio, EPG style, Resources, Feedback, and **Parental Control**. I opened Multi-screen and used the Internet Speed overlay. Picture-in-picture and Parental Control are in the menu; I do not have stills of those two running.
+
+![On-screen Internet Speed readout of 1012 kBps while American Heroes Channel was playing](/images/posts/2026-11-27-superbox-s8-ultra/internet-speed.jpg)
+
+With the Internet Speed overlay visible, another channel showed **1012 kBps**.
+
 ## WHAT I DID NOT DEMONSTRATE {#not-demonstrated}
 
-A first look is not a complete feature audit. The official S8 Ultra page also lists items I did not open on camera. I am listing them as shop claims, not as results from my bench:
+A first look is not a complete feature audit. I later verified 7-day Time Shift, Multi-screen, the Internet Speed overlay, and the Blue TV Settings list, including entries for Picture-in-picture and Parental Control. I still do not have stills of Picture-in-picture or Parental Control actually running.
 
-- **Multi View / picture-in-picture**, described as a full-channel feature on the Ultra
-- **7-day time shift** and 7-day playback on live TV (the S7 Pro I reviewed earlier did have a time-shift app)
-- **Parental controls**
+The official S8 Ultra page also lists items I have not opened:
+
 - **Backup TV**
 - **"7 free Prime apps (not official)"**
 
-I may add stills of those later if I capture them. Until then, treat them as unverified.
+Treat those as unverified shop claims. I also still do not have a still of the "My Store" disclaimer or a color-button remapping screen.
 
 The official page also lists Android 12, 4 GB DDR / 128 GB eMMC, dual-band Wi-Fi 6, 1000 Mbps Ethernet, Bluetooth 5.2, USB-C power, USB 3.0, and H.265 up to 6K at 60 fps. That lines up with the carton and with what I used (Ethernet, USB-C power, the 128 GB / 4 GB Device Info screen). I did not independently measure Wi-Fi 6 or Bluetooth 5.2. The shop page lists two different GPU names in two different spec blocks, so I am not repeating a GPU here. ([Official specs](https://mysuperbox.shop/product/superbox-s8-ultra/))
 
@@ -380,11 +410,12 @@ The official page also lists Android 12, 4 GB DDR / 128 GB eMMC, dual-band Wi-Fi
 - Aluminum case, same footprint as the S7 Pro, with a front display
 - 128 GB of storage (120 GB usable), a real step up from the S7 Pro's 32 GB
 - USB-C power, which I prefer to barrel jacks
-- Backlit Bluetooth/IR remote with TV-programming instructions on the back
+- Backlit Bluetooth/IR SuperBOX RC-200L remote with TV-programming instructions on the back
 - Gigabit Ethernet and Wi-Fi 6 on the carton; 340 Mbps on my gigabit Ethernet Fast.com test
 - USB 3.0, TF slot, IR extender, optical, and AV
 - A fairly clean Android 12 start, with the Play Store available, plus accessibility settings that some earlier boxes removed
 - Chrome, network file shares, and a built-in recorder that does at least capture the screen
+- Blue TV 7-day Time Shift, Multi-screen, an Internet Speed overlay, and a Settings list that includes Picture-in-picture and Parental Control
 
 **Misses and limits:**
 
