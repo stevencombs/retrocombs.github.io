@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   decode:
-    if: github.ref == 'refs/heads/superbox-s8-ultra-companion' && hashFiles('_b64tmp/decode.sh') != ''
+    if: github.ref == 'refs/heads/superbox-s8-ultra-companion'
     runs-on: ubuntu-latest
     steps:
       - name: Check out the branch
@@ -26,6 +26,7 @@ jobs:
       - name: Decode stills, remove staging files, and delete this workflow
         run: |
           set -euo pipefail
+          test -f _b64tmp/decode.sh
           bash _b64tmp/decode.sh
           git rm -f --ignore-unmatch -- .github/workflows/decode-superbox-s8-ultra-stills.yml
           git add -- images/posts/2026-11-27-superbox-s8-ultra.jpg images/posts/2026-11-27-superbox-s8-ultra
