@@ -7,13 +7,6 @@
   url: https://www.youtube.com/@retroCombs
   channel_id: UCjdKGdIl5leQfhJZiHUYFbQ
   videos:
-    - id: 9ThGnhYXRjY
-      title: "🔴️ The C128 Core on MEGA65 Is Better Than I Expected!"
-      url: https://www.youtube.com/watch?v=9ThGnhYXRjY
-      published: "2026-11-16"
-      thumbnail: https://i.ytimg.com/vi/9ThGnhYXRjY/maxresdefault.jpg
-      width: 1280
-      height: 720
     - id: RkOF3pAsjNU
       title: "🌺 I Spent $6 at a Honolulu Vintage Show: Here’s What I Found!"
       url: https://www.youtube.com/watch?v=RkOF3pAsjNU
@@ -21,18 +14,25 @@
       thumbnail: https://i.ytimg.com/vi/RkOF3pAsjNU/maxresdefault.jpg
       width: 1280
       height: 720
-    - id: ufjJJpuVegs
-      title: "🔴️ Are these the best new MEGA65 games/apps? Let's test them!"
-      url: https://www.youtube.com/watch?v=ufjJJpuVegs
-      published: "2026-10-18"
-      thumbnail: https://i.ytimg.com/vi/ufjJJpuVegs/maxresdefault.jpg
+    - id: IhNteMTglD8
+      title: "🐉️ From 4KB to 240 Colors: The Evolution of Roguecraft DX on the MEGA65"
+      url: https://www.youtube.com/watch?v=IhNteMTglD8
+      published: "2026-02-08"
+      thumbnail: https://i.ytimg.com/vi/IhNteMTglD8/maxresdefault.jpg
       width: 1280
       height: 720
-    - id: 572EpWpkCBo
-      title: "🏖️️ I Tried To Stream From Hawaii... Here's What Happened"
-      url: https://www.youtube.com/watch?v=572EpWpkCBo
-      published: "2026-10-05"
-      thumbnail: https://i.ytimg.com/vi/572EpWpkCBo/maxresdefault.jpg
+    - id: KfCLkPSNzAE
+      title: "🎄️Watch The MEGA65 Computer Come Alive at Christmas!"
+      url: https://www.youtube.com/watch?v=KfCLkPSNzAE
+      published: "2026-01-13"
+      thumbnail: https://i.ytimg.com/vi/KfCLkPSNzAE/maxresdefault.jpg
+      width: 1280
+      height: 720
+    - id: cBgLpJWXzMs
+      title: "📺 NEW MEGA65 Game, Spring!: Unboxing, Demo, & BASIC Source Code Access"
+      url: https://www.youtube.com/watch?v=cBgLpJWXzMs
+      published: "2025-12-15"
+      thumbnail: https://i.ytimg.com/vi/cBgLpJWXzMs/maxresdefault.jpg
       width: 1280
       height: 720
 - name: "@retroCombs-tech"
@@ -41,6 +41,13 @@
   url: https://www.youtube.com/@retroCombs-tech
   channel_id: UCm24j54Ur9uvYu2oskuP5PA
   videos:
+    - id: ffmh3uC2ZLM
+      title: "📺️ I Tested The SuperBOX S8 Ultra To See What's Different 👀️"
+      url: https://www.youtube.com/watch?v=ffmh3uC2ZLM
+      published: "2026-11-27"
+      thumbnail: https://i.ytimg.com/vi/ffmh3uC2ZLM/maxresdefault.jpg
+      width: 1280
+      height: 720
     - id: PGvOKW1ksVI
       title: "📷️ I Tested the OBSBOT Meet 2 So You Don't Have To!"
       url: https://www.youtube.com/watch?v=PGvOKW1ksVI
@@ -60,12 +67,5 @@
       url: https://www.youtube.com/watch?v=944c-XHpDtU
       published: "2026-11-05"
       thumbnail: https://i.ytimg.com/vi/944c-XHpDtU/maxresdefault.jpg
-      width: 1280
-      height: 720
-    - id: YsWzZ2Nj1sY
-      title: "📺️ SeekBox S3 Pro: The Android TV Box You've Been SEEKing?"
-      url: https://www.youtube.com/watch?v=YsWzZ2Nj1sY
-      published: "2026-10-05"
-      thumbnail: https://i.ytimg.com/vi/YsWzZ2Nj1sY/maxresdefault.jpg
       width: 1280
       height: 720
